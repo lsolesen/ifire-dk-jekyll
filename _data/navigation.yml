@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Start"
+    url: /start/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Om"
+    url: /om/
