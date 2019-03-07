@@ -1,9 +1,10 @@
 ---
 title: "Spar penge på mobilabonnementet"
+permalink: /mobilabonnement/
 category:
   - Spare penge
 tags:
-  - spare
+  - spareråd
   - mobilabonnementet
   - mobil
 excerpt: "Har du tjekket om dit mobilabonnement er det billigste for nylig. Der er mange penge at spare ved at kigge på dine behov og det produkt du vælger."

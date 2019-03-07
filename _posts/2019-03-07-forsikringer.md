@@ -1,9 +1,10 @@
 ---
 title: "Tjek dine forsikringer"
+permalink: /forsikringer/
 category:
   - Spare penge
 tags:
-  - spare
+  - spareråd
   - forsikring
 excerpt: "Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt."
 ---

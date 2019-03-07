@@ -41,9 +41,9 @@ Lige nu ser min investeringsportefølje sådan her ud. Jeg blev rådgivet af ban
 
 I nedenstående tabel har jeg listet typen, fordelingen og den interne rente (XIRR) - altså hvor meget investeringen er vokset siden begyndelsen.
 
-| Type               | Start | Fordeling | XIRR |
-| Investering i Bank | 2013  | 94,8%     | 2,57% |
-| Flexfunding        | 2017  | 3,8%      | 4,61% |
+| Type               | Start | Fordeling | XIRR   |
+| Investering i Bank | 2013  | 94,8%     | 2,57%  |
+| Flexfunding        | 2017  | 3,8%      | 4,61%  |
 | Kapitalpension     | 2001  | 1,4%      | -2,71% |
 
 Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstillende intern rente, siden etableringen i 2013. På fem år er investeringen her altså kun vokset med 2,57%, hvilket jeg helt sikkert skal gøre noget ved, da der står et stort beløb. 

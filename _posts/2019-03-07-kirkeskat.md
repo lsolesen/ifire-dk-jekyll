@@ -1,9 +1,10 @@
 ---
 title: "Spar på kirkeskatten"
+permalink: /kirkeskat/
 category:
   - Spare penge
 tags:
-  - spare
+  - spareråd
   - skat
 excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud. "
 ---

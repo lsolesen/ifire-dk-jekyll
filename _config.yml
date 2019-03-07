@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name: "Lars Olesen"
-  bio: "På jagt efter finansiel uafhængighed. Særligt interesseret i automatik, crowd lending og passiv indkomst."
-  avatar: "/assets/images/authors/default-profile.png"
+  name: "iFire.dk"
+  bio: "Jeg hedder Lars og er på jagt efter finansiel uafhængighed. Følg mine erfaringer crowd lending, passiv indkomst og investeringer og lær lidt undervejs."
+  avatar: "/assets/images/authors/growth-logo.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lars@vih.dk"
+      url: "mailto:lsolesen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://larsolesen.dk"
