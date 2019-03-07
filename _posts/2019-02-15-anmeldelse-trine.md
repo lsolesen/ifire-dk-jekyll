@@ -22,7 +22,7 @@ På platformen er der ikke så mange projekter at støtte i den måned, jeg har 
 
 ## Hvordan er det at bruge platformen?
 
-Det var let at [oprette sig på Join Trine](https://www.jointrine.com/just-invested/47992) og lave den første investering. Platformen har ingen auto-invest funktion, så det er en platform, du skal holde lidt øje med. 
+Det var let at [oprette sig på Join Trine*](https://www.jointrine.com/just-invested/47992) og lave den første investering. Platformen har ingen auto-invest funktion, så det er en platform, du skal holde lidt øje med. 
 
 Platformen udbyder også gavekort, så du kan give folk en gave, der bliver mere værd - samtidig med at de støtter et bæredygtigt projekt.
 
@@ -43,3 +43,7 @@ Jeg går i øjeblikket og overvejer, hvordan jeg kan gøre mine samlede invester
 ## Tænk dig om
 
 Husk at jeg ikke er finansiel rådgiver, men selv ude på et eventyr i denne verden. Crowdfunding og crowdlending indebærer risiko, så husk at sprede dine investeringer.
+
+[Join Trine](https://www.jointrine.com/just-invested/47992){: .btn .btn--large .btn--warning}
+
+{% include disclaimer.md %}

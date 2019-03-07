@@ -44,3 +44,5 @@ Med et **debetkort** trækkes pengene fra kontoen med det samme. Med mindre du h
 Men hvis du vil have dine penge til at vokse, så gælder det om at spare. Du kan i mange netbanker efterhånden kategorisere dine indkøb. Jeg har dog ikke set beddre overblik end i Spiir og LunarWay, der fortæller dig ret præcist, hvad du bruger dine penge på. Det kan sommetider være en øjenåbner. Du kan også bruge [spiir.dk] og i øvrigt kigge lidt på, hvordan du [sparer penge](/spar-penge/)
 
 Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du tænker på renter og renters rente i forskellige investeringsformer.
+
+{% include disclaimer.md %}

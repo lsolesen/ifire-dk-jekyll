@@ -85,3 +85,5 @@ Ejendomsinvesteringerne er [ReInvest24](http://www.reinvest24.com/en/r/qu8wff1z)
 
 - Hvordan gør jeg mine investeringer endnu mere bæredygtige og etiske?
 - Hvordan skal min nøjagtige portefølje se ud - hvor meget skal være i investeringer, crowd lending, andre typer investeringer og opsparing?
+
+{% include disclaimer.md %}

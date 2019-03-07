@@ -22,3 +22,5 @@ Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp p�
 Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikring, som er et af de billigste forsikringsselskaber i Danmark - og når man har telefonsælgere i røret, så kan bare navnet skræmme dem væk, men jeg tjekker alligevel mine egne forsikringer hvert andet år, for konkurrencevilkårene ændrer sig hele tiden.
 
 Hvad kunne du spare på dine forsikringer?
+
+{% include disclaimer.md %}

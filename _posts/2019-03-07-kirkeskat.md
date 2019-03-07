@@ -43,3 +43,5 @@ Du kan læse mere om konsekvenserne på [afmeldkirkeskat.dk/blog/](https://afmel
 Du kan [melde dig ud af Folkekirken](https://www.borger.dk/samfund-og-rettigheder/Medlemskab-af-folkekirken) på [forskellige måder](https://www.folkekirken.dk/om-folkekirken/medlemskab). Enten skal du møde op på Kirkekontoret eller skrive til dem med fødselsdato og hvornår du er døbt. De skal også have dit CPR-nummer, så vær opmærksom på, at det ikke er sikkert at sende over e-mail.
 
 Jeg meldte mig ud af Folkekirken ved at gå ind på [www.afmeldkirkeskat.dk](http://afmeldkirkeskat.dk). Der kan du betale 189 kroner for at få tilsendt en udmeldelsesblanket, som er klar til at aflevere til det lokale kirkekontor.
+
+{% include disclaimer.md %}
