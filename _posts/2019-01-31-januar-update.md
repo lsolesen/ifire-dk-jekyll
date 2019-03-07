@@ -63,5 +63,3 @@ Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstil
 ## Mål
 
 At få optimeret investeringsstrategien og kigget på, hvordan de samlede investeringer skal være fordelt.
-
-{% include disclaimer.md %}

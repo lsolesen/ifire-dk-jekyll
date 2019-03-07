@@ -44,4 +44,20 @@ Du kan [melde dig ud af Folkekirken](https://www.borger.dk/samfund-og-rettighede
 
 Jeg meldte mig ud af Folkekirken ved at gå ind på [www.afmeldkirkeskat.dk](http://afmeldkirkeskat.dk). Der kan du betale 189 kroner for at få tilsendt en udmeldelsesblanket, som er klar til at aflevere til det lokale kirkekontor.
 
+***
+
+## Hvordan kan jeg ellers spare penge?
+
+Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+
+{% assign site_posts = site.posts | where: "tags", "spareråd" | sort: "date" %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+***
+
 {% include disclaimer.md %}
