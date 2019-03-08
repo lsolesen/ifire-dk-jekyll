@@ -8,7 +8,6 @@ category:
   - Anmeldelse
 tags:
   - anmeldelse
-  - spareråd
 excerpt: "Ved at oprette en Revolut-konto kan du spare vekselgebyrer, overførsler tild udlandet, og hævninger. Og det er helt gratis at oprette en konto."
 ---
 
