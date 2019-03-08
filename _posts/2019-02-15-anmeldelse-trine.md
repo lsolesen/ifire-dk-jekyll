@@ -1,5 +1,8 @@
 ---
 title: "Anmeldelse af Trine"
+permalink: /trine/
+header:
+  overlay_image: /assets/images/trine.jpg
 category:
   - Anmeldelse
 tags:
@@ -30,7 +33,11 @@ Platformen har også mulighed for at lave månedlige investeringer, hvis du gern
 
 Jeg har skrevet til support på platformen for at tjekke responstiden, og de svarede inden for en time af min henvendelse.
 
-Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det!
+## Sætte penge ind og hive dem ud igen
+
+Jeg brugte [Revolut](/revolut/) til at overføre penge til [Join Trine](https://www.jointrine.com/just-invested/47992), så jeg kunne gøre det uden gebyrer.
+
+Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det! Planen er også at hive pengene ud til min [Revolut](/revolut/)-konto.
 
 ## Vær opmærksom på
 
