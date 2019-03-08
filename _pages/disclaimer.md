@@ -2,6 +2,8 @@
 title: "Disclaimer for iFire.dk"
 permalink: /disclaimer/
 excerpt: "Ting du skal være opmærksom på, når du bruger iFire.dk"
+author_profile: true
+layout: single
 ---
 
 ## Disclaimer
@@ -28,4 +30,4 @@ Hvis du interagerer med sitet gennem kommentarer, e-mails, henvedelser mv. forbe
 
 ## Ansvarsfraskrivelse
 
-Jeg kan ikke holdes til ansvar for tab, direkte og indirekte, ved brug af information frasitet. Informationen på sitet er ikke rådgivning, men personlige holdninger og erfaringer.
+Jeg kan ikke holdes til ansvar for tab, direkte og indirekte, ved brug af information fra sitet. Informationen på sitet er ikke rådgivning, men personlige holdninger og erfaringer.

@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Anmeldelsert"
+  - title: "Anmeldelser"
     url: /anmeldelser/
   - title: "Spar penge"
     url: /spar-penge/
-  - title: "Om og opdateringer"
+  - title: "Opdateringer"
+    url: /opdateringer/
+  - title: "Om"
     url: /om/

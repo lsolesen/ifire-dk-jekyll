@@ -1,9 +1,12 @@
 ---
+layout: single
+layout: single
 title: "Om iFire"
 permalink: /om/
 tags:
   - rigdomsformularen
 excerpt: "Læs mere om iFire.dk og tankerne bagved."
+author_profile: true
 ---
 
 Velkommen til iFire.dk.
@@ -20,9 +23,7 @@ Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
 
 ## Følg min status
 
-***
-
-{% assign site_posts = site.posts | where: "tags", "opdatering" | sort: "date" %}
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | sort: "date" %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
@@ -31,3 +32,5 @@ Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
 {% endif %}
 
 ***
+
+{% include disclaimer.md %}

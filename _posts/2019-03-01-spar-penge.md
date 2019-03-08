@@ -40,7 +40,7 @@ Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du ge
 
 ***
 
-## Hvordan undgår jeg at det sparede forsvinder i klatforbrug?
+## Hvordan undgår jeg, at det sparede forsvinder i klatforbrug?
 
 Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en eller anden form for investering, så snart du får penge kontoen. Så ved du altid, hvad du har at gøre med.
 

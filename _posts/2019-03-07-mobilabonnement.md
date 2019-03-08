@@ -20,6 +20,8 @@ Heldigvis er der nogle ret enkle muligheder for at [tjekke om du kan spare penge
 
 Både hos [mobilpakke.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55901)* og [mobilsparer.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
+[Tjek hos mobilpakke.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55901){: .btn .btn--large .btn--warning}
+
 ***
 
 {% include bundl.md %}
@@ -33,6 +35,12 @@ Ofte kan det betale sig at købe en ny mobil gennem en pakkeaftale ved et telese
 Hvis du foretrækker at købe en mobil og bare bruge dit eksisterende abonnement, så kan du du på [nemmobil.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=45923) finde en masse modeller til konkurrencedygtige priser.
 
 Du kan også søge på [pricebutler.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56915) for at sammenligne priser mellem selskaberne. Der er garanteret også mange andre måder at gøre det på, som du gerne må dele i kommentarerne.
+
+## Har du sparet på din mobilregning?`
+
+Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene eller anden måde, så alle andre kan blive inspireret.
+
+[Tjek hos mobilsparer.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: .btn .btn--large .btn--warning}
 
 ***
 

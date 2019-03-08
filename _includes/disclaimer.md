@@ -1,4 +1,4 @@
-**Disclaimer**
+**[Disclaimer](/disclaimer/)**
 
 _iFire.dk modtager kommission gennem affiliate links og omtale af udvalgte finansielle produkter og services. Affiliate og referral links er markeret med (*). Jeg anstrenger mig for at være så neutral som muligt, og jeg har selv investeret og brugt alle værktøjer på sitet, og jeg kan stå inde for de services, jeg fremhæver._
 

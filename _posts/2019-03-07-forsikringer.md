@@ -29,6 +29,8 @@ Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikrin
 
 Hvad kunne du spare på dine forsikringer?
 
+[Tjek dine forsikringer hos findforsikring.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60068) eller på [Tjenestorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38469){: .btn .btn--large .btn--warning}
+
 ***
 
 ## Hvordan kan jeg ellers spare penge?
