@@ -44,6 +44,14 @@ Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du ge
 
 Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en eller anden form for investering, så snart du får penge kontoen. Så ved du altid, hvad du har at gøre med.
 
+***
+
+{% include bundl.md %}
+
+***
+
 ## Har du flere spareråd?
 
 Vi er altid interesseret i at spare, så hvis du har andre måder at spare på, så skriv endelig.
+
+{% include disclaimer.md %}

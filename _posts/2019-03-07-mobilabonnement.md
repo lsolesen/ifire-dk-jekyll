@@ -20,16 +20,11 @@ Heldigvis er der nogle ret enkle muligheder for at [tjekke om du kan spare penge
 
 Både hos [mobilpakke.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55901)* og [mobilsparer.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
-## Bundl - saml alle dine tjenester et sted
+***
 
-Der er kommet et nyt tiltag, hvor du kan samle alle dine tjenster et sted. [getbundl.dk*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=62304) er en tilbudsbank, der tilbyder at samle alle de faste udgifter hos de bedste udbydere med tilbud, som er tilpasset dine behov.
+{% include bundl.md %}
 
-**Lige nu kan du skrive dig op til at få flere oplysninger fra [getbundl.dk* og vinde 4000 kroner for en rejse til hele familien](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=62304).**
-
-Det lyder rigtig smart at have eksperter med til at lave en form for indkøbsaftale for private, som man fx kender fra mange indkøbsfællesskaber i virksomhederne.
-
-Bag ved Bundl er bla firmaet [Blue Energy](https://www.blueenergy.dk/), som leverer strøm og internet, så det skal du naturligvis være opmærksom på, når du gennemgår deres tilbud.
-
+***
 
 ## Hvad hvis jeg skal have ny mobil?
 
