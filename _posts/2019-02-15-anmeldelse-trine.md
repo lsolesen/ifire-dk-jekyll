@@ -2,7 +2,8 @@
 title: "Anmeldelse af Trine"
 permalink: /trine/
 header:
-  overlay_image: /assets/images/trine.jpg
+  overlay_image: &image /assets/images/trine.jpg
+  teaser: *image  
 category:
   - Anmeldelse
 tags:

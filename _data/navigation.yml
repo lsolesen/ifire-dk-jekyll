@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Start"
-    url: /opdateringer/januar-update/
+  - title: "Anmeldelsert"
+    url: /anmeldelser/
   - title: "Spar penge"
     url: /spar-penge/
-  - title: "Om"
+  - title: "Om og opdateringer"
     url: /om/

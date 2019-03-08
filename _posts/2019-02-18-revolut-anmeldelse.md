@@ -2,9 +2,10 @@
 title: "Revolut - anmeldelse"
 permalink: /revolut/
 header:
-  overlay_image: /assets/images/revolut.jpg
+  overlay_image: &image /assets/images/revolut.jpg
+  teaser: *image
 category:
-  - Spare penge
+  - Anmeldelse
 tags:
   - anmeldelse
   - spareråd
