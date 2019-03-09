@@ -40,7 +40,7 @@ Jeg har skrevet til support på platformen for at tjekke responstiden, og de sva
 
 Jeg brugte [Revolut](/revolut-anmeldelse/) til at overføre penge til [Join Trine](https://www.jointrine.com/just-invested/47992), så jeg kunne gøre det uden gebyrer.
 
-Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det! Planen er også at hive pengene ud til min [Revolut](/revolut/)-konto.
+Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det! Planen er også at hive pengene ud til min [Revolut](/revolut-anmeldelse/)-konto.
 
 ## Vær opmærksom på
 
