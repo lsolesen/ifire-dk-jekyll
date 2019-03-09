@@ -44,7 +44,7 @@ Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvi
 
 ## Vær opmærksom på
 
-[Join Trine](https://www.jointrine.com/just-invested/47992) er kun **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
+[Join Trine](https://www.jointrine.com/just-invested/47992) er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
 
 ## En mere bæredygtig portefølje?
 
