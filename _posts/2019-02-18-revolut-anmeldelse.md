@@ -1,6 +1,6 @@
 ---
 title: "Revolut - anmeldelse"
-permalink: /revolut/
+permalink: /revolut-anmeldelse/
 header:
   overlay_image: &image /assets/images/revolut.jpg
   teaser: *image
