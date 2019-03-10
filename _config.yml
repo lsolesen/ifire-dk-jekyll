@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name: "iFire.dk"
-  bio: "Jeg hedder Lars og er på jagt efter finansiel uafhængighed. Følg mine erfaringer crowd lending, passiv indkomst og investeringer og lær lidt undervejs."
+  bio: "Jeg hedder Lars og er på jagt efter finansiel uafhængighed. Følg mine erfaringer crowd lending, passiv indkomst og investeringer og læs om, hvad jeg lærer undervejs."
   avatar: "/assets/images/authors/growth-logo.png"
   links:
     - label: "Email"
@@ -231,6 +231,9 @@ collections:
   faq:
     output: true
     permalink: /:collection/:path/
+  platforms:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,8 +246,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      listen_time: false
-      video_time: false
       comments: true
       share: true
       related: true
@@ -253,11 +254,20 @@ defaults:
       path: ""
       type: faq
     values:
-      layout: collection-single
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+# _platforms
+  - scope:
+      path: ""
+      type: platforms
+    values:
+      layout: single
       author_profile: true
       video_time: false
-      listen_time: false
-      read_time: true
       comments: true
       share: true
       related: true
