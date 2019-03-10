@@ -236,6 +236,9 @@ collections:
   platforms:
     output: true
     permalink: /:collection/:path/
+  redirects:
+    output: true
+    permalink: /go/:path/
 
 
 # Defaults
@@ -269,7 +272,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-      video_time: false
+      read_time: true
       comments: true
       share: true
       related: true
+# _redirects
+  - scope:
+      path: ""
+      type: redirects
+    values:
+      layout: redirect
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
