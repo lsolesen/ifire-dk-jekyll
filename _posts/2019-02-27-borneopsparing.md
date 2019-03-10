@@ -11,9 +11,9 @@ tags:
 excerpt: "Der er flere måder at gribe en børneopsparing an på: Bankrenter, obligationer, investeringer i aktier. Hvad bør man gøre?"
 ---
 
-Jeg har nogle dejlige unger løbende rundt, og jeg synes egentlig, at de skal klare sig selv. Men jeg er også helt utrolig interesseret i, hvordan jeg kan skabe passiv indkomst, og den interesse vil jeg gerne give videre til dem. Og hvis jeg får sat børneopsparingen op på den rigtige måde, så kan de når de bliver 21 år (det er der jeg har sat pengene til at blive frigivet) have et pænt beløb pga. af renters rente.
+Jeg har nogle dejlige unger løbende rundt, og jeg synes egentlig, at de skal klare sig selv. Men jeg er også helt utrolig interesseret i, hvordan jeg kan skabe passiv indkomst, og den interesse vil jeg gerne give videre til dem. Og hvis jeg får sat børneopsparingen op på den rigtige måde, så kan de, når de bliver 21 år (hvor jeg har sat pengene til at blive frigivet) have et pænt beløb pga. af renters rente.
 
-Men hvordan skal jeg gribe det an?
+Men hvordan skal jeg gribe det an for 'renters rente' virkelig batter noget?
 
 ## Hvad er en børneopsparing
 
