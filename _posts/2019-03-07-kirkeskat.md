@@ -15,9 +15,11 @@ Hvis du melder dig ud af Folkekirken, så vil du spare kirkeskatten, og du kan i
 
 ## Hvor meget kan jeg spare?
 
-Gennemsnitligt betaler en dansker gennem sit liv 133.000 kroner i kirkeskat ifølge hjemmesiden [www.afmeldkirkeskat.dk](http://afmeldkirkeskat.dk)
+Gennemsnitligt betaler en dansker gennem sit liv 133.000 kroner i kirkeskat ifølge hjemmesiden [Afmeldkirkeskat*](/go/afmeldkirkeskat/)
 
-Du kan gå ind på [www.afmeldkirkeskat.dk](http://afmeldkirkeskat.dk). På forsiden kan du se nøjagtigt, hvad du betaler i Kirkeskat i din kommune, og du kan taste din månedsløn ind og derefter beregne hvad din besparelse bliver i alt over en årrække.
+Du kan gå ind på [Afmeldkirkeskat*](/go/afmeldkirkeskat/). På forsiden kan du se nøjagtigt, hvad du betaler i Kirkeskat i din kommune, og du kan taste din månedsløn ind og derefter beregne hvad din besparelse bliver i alt over en årrække.
+
+[Tjek hvad du kan spare på Afmeldkirkeskat*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--success}
 
 ## Brug pengene på at gøre noget godt
 
@@ -36,13 +38,15 @@ Derimod kan du stadig bruge kirken.
 - Du **må gerne komme i kirken**.
 - Dine **børn kan godt blive døbt** (og så bliver de altså meldt ind i Folkekirken.
 
-Du kan læse mere om konsekvenserne på [afmeldkirkeskat.dk/blog/](https://afmeldkirkeskat.dk/blog/).
+Du kan læse mere om konsekvenserne på [bloggen på Afmeldkirkeskat*](/go/afmeldkirkeskat/).
 
 ## Min udmelding af Folkekirken
 
 Du kan [melde dig ud af Folkekirken](https://www.borger.dk/samfund-og-rettigheder/Medlemskab-af-folkekirken) på [forskellige måder](https://www.folkekirken.dk/om-folkekirken/medlemskab). Enten skal du møde op på Kirkekontoret eller skrive til dem med fødselsdato og hvornår du er døbt. De skal også have dit CPR-nummer, så vær opmærksom på, at det ikke er sikkert at sende over e-mail.
 
-Jeg meldte mig ud af Folkekirken ved at gå ind på [www.afmeldkirkeskat.dk](http://afmeldkirkeskat.dk). Der kan du betale 189 kroner for at få tilsendt en udmeldelsesblanket, som er klar til at aflevere til det lokale kirkekontor.
+Jeg meldte mig ud af Folkekirken ved at gå ind på [Afmeldkirkeskat*](/go/afmeldkirkeskat/). Der kan du betale 189 kroner for at få tilsendt en udmeldelsesblanket, som er klar til at aflevere til det lokale kirkekontor.
+
+[Slip for kirkeskatten*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning}
 
 ***
 

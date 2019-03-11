@@ -22,7 +22,7 @@ Jeg har altså sat mig for helt i tråd med rigdomsformularen at:
 
 **Forbruge mindre.** Jeg har installeret Spiir App’en på min telefon, og den har givet et godt overblik over, hvordan jeg bruger mine penge. Jeg har en fælles budget-konto til alle fælles udgifter med min bedre halvdel, så her får jeg et godt overblik til at starte med.
 
-**Investere (klogere).** Jeg har investeret en del år gennem min bank. For nylig blev jeg interesseret i _crowd lending_, da min arbejdsplads oprettede et lån gennem [Flexfunding](http://flexfunding.dk). Efterhånden læste jeg mere om det, og fandt andre platforme og andre måder at investere på. Jeg skal have efterset hele min måde at investere på.
+**Investere (klogere).** Jeg har investeret en del år gennem min bank. For nylig blev jeg interesseret i _crowd lending_, da min arbejdsplads oprettede et lån gennem [Flexfunding](/go/flexfunding/). Efterhånden læste jeg mere om det, og fandt andre platforme og andre måder at investere på. Jeg skal have efterset hele min måde at investere på.
 
 ## Nuværende status
 

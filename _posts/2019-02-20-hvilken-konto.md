@@ -29,9 +29,11 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 - [Lån & Spar Bank](https://www.lsb.dk/lsb/content/studiekonto/atikler/faa_studiekonto/sysops_medl) giver dig en (virkelig høj) rente på 5% på op til 20.000 kroner, og du får et gratis Visa/Dankort og MasterCard med samme pinkode samt gratis valutaveksling. Du kan kombinere den med en StudieOpsparing. Det kræver dog, at du er medlem af en af de organisationer, Lån & Spar Bank samarbejder med.
 
-- LunarWay giver dig 2% i rente, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. Kontoen bliver ved med at give 2% i rente også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale.
+- [LunarWay](/go/lunarway/) giver dig 2% i rente, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. Kontoen bliver ved med at give 2% i rente også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale.
 
 - De fleste banker har forskellige ordninger for unge. Fx har [SparNord Studiepakke](https://www.studiepakke.dk/) giver 2% i rente på op til 20.000 kroner, og du får et MasterCard Debit, men du kan også spørge din nuværende bank, hvilke muligheder der er.
+
+[Få op til 2% cashback hos LunarWay\*](/go/lunarway/){: .btn .btn--large .btn--success}
 
 ## Hvad er forskellen på kredit- og debetkonto
 
@@ -44,5 +46,7 @@ Med et **debetkort** trækkes pengene fra kontoen med det samme. Med mindre du h
 Men hvis du vil have dine penge til at vokse, så gælder det om at spare. Du kan i mange netbanker efterhånden kategorisere dine indkøb. Jeg har dog ikke set beddre overblik end i Spiir og LunarWay, der fortæller dig ret præcist, hvad du bruger dine penge på. Det kan sommetider være en øjenåbner. Du kan også bruge [spiir.dk] og i øvrigt kigge lidt på, hvordan du [sparer penge](/spar-penge/)
 
 Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du tænker på renter og renters rente i forskellige investeringsformer.
+
+[Få op til 2% cashback hos LunarWay\*](/go/lunarway/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}
