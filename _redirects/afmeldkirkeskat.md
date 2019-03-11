@@ -1,4 +1,4 @@
 ---
 title: Afmeldkirkeskat
-redirect_to: http://afmeldkirkeskat.dk
+redirect_to: https://afmeldkirkeskat.dk?ref=7
 ---
