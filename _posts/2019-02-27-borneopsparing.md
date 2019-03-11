@@ -64,7 +64,6 @@ Lige nu er bankrenten utrolig lav, og [flere fortæller](http://livsstil.tv2.dk/
 Du kan enten investere i aktier eller obligationer, hvis du kan få tilknyttet et værdipapirdepot til din børneopsparing. Bankerne arbejder i øjeblikket aktivt med at forbedre produkterne.
 
 - **Børneopsparing med værdipapirdepot.** Som skrevet har Spar Nord Bank bl.a. mulighed for at tilknytte et værdipapirdepot til sin børneopsparing.
-
 - **[Tobi.dk](/go/tobi/)** er et dansk FinTech Startup, som vil gøre det lettere og mere bekvemt at investere børneopsparingen. De arbejder i øjeblikket på at lave et produkt, hvor man kan sætte penge til børneopsparing, pengegaver og arveforskud ind uanset beløbsstørrelse. Internt i appen sørger de så at fordele pengene på hhv. en børneopsparing, hvor afkastet er skattefrit, og en almindelig opsparingskonto - og de hjælper med at udnytte børnenes frikort. Tobi investerer automatisk pengene i et index produkt. Hvordan sammensætningen er i porteføljen afhænger af risikovilligheden og tid til udbetaling. Du kan lige nu [skrive dig op til venteliste](/go/tobi/). Det her produkt overvejer jeg meget kraftigt at bruge.
 
 ### Andre typer børneopsparinger
@@ -72,8 +71,16 @@ Du kan enten investere i aktier eller obligationer, hvis du kan få tilknyttet e
 Der er også andre måder at gøre det på, hvor det ikke er en rigtig børneopsparing, men hvor du bruger en konto for mindreårige.
 
 - **[NORD.investments*](/go/nord/)**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Det betyder - så vidt jeg har forstået - at du skal betale skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
-
 - **[Nordnet](/go/nordnet/)**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne i lidt højere grad. Her kan du altså også selv vælge produkter med lave omkostninger.
+
+## Andre måder at spare op på
+
+Ud over den klassiske børneopsparing kan du også spare op til dine børn på følgende måder:
+
+- **Stattefri pengegaver til børn**. I 2019 er beløbsgrænsen 65.700 kroner. Du kan ikke selv give dine børn skattefri pengegaver, men det kan bedsteforældrene eller venner. Her kan du således udnytte barnets frikort.
+- **Aldersopsparing til børn**. Du kan også oprette en aldersopsparing, som kan vokse til ret mange penge, når dine børn når pensionsalderen.
+
+Disse løsninger er ikke relevante for mig, men [du kan læse mere om skattefri pengegaver til børn og aldersopsparing til børn her](https://formuepleje.dk/videnscenter/pension/boerneopsparing).
 
 ## Hvordan har du lavet din børneopsparing?
 
