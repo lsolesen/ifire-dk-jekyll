@@ -29,7 +29,9 @@ Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikrin
 
 Hvad kunne du spare på dine forsikringer?
 
-[Tjek dine forsikringer hos findforsikring.dk](/go/pa/findforsikring/) eller på [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--warning}
+Tjek dine forsikringer hos:
+
+[Findforsikring.dk](/go/pa/findforsikring/){: .btn .btn--large .btn--warning} eller [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--warning}
 
 ***
 

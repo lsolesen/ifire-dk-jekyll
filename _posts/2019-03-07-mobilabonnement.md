@@ -20,7 +20,9 @@ Heldigvis er der nogle [ret enkle muligheder\*](/go/pa/mobilsparer/) for at [tje
 
 Både hos [mobilpakke.dk\*](/go/pa/mobilpakke/) og [mobilsparer.dk\*](/go/pa/mobilsparer/) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
-[Tjek hos mobilpakke.dk*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning}
+Tjek om du kan spare hos
+
+[Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning} eller [Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning}
 
 ***
 
@@ -40,7 +42,9 @@ Du kan også søge på [pricebutler.dk*](/go/pa/pricebutler) for at sammenligne 
 
 Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene eller anden måde, så alle andre kan blive inspireret.
 
-[Tjek hos mobilsparer.dk*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning}
+Tjek dit mobilabonnemnt hos
+
+[Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning} eller [Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning}
 
 ***
 

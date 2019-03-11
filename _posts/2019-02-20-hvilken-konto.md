@@ -33,6 +33,8 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 - De fleste banker har forskellige ordninger for unge. Fx har [SparNord Studiepakke](https://www.studiepakke.dk/) giver 2% i rente på op til 20.000 kroner, og du får et MasterCard Debit, men du kan også spørge din nuværende bank, hvilke muligheder der er.
 
+[Få op til 2% cashback hos LunarWay\*](/go/pa/lunarway/){: .btn .btn--large .btn--success}
+
 ## Hvad er forskellen på kredit- og debetkonto
 
 Hos Norwegian kan du også få et **kreditkort**, hvor du kan optjene cash back på de køb, du foretager. Dine cashback-point kan så veksles til at betale flyrejser for. Et kreditkort kan du købe for op til en bestemt beløbsgrænse. En gang om måneden skal du afregne beløbet. I tilfældet med Norwegians kreditkort skal du aktivt betale regningen, mens jeg i SparNord har et MasterCard, som er knyttet op på min primære konto, og kreditten således betales automatisk. Med et kreditkort kan du altså risikere at bruge flere penge, end du har, men samtidig giver nogle kreditkort også nogle rigtig gode fordele.
@@ -44,5 +46,7 @@ Med et **debetkort** trækkes pengene fra kontoen med det samme. Med mindre du h
 Men hvis du vil have dine penge til at vokse, så gælder det om at spare. Du kan i mange netbanker efterhånden kategorisere dine indkøb. Jeg har dog ikke set beddre overblik end i Spiir og LunarWay, der fortæller dig ret præcist, hvad du bruger dine penge på. Det kan sommetider være en øjenåbner. Du kan også bruge [spiir.dk] og i øvrigt kigge lidt på, hvordan du [sparer penge](/spar-penge/)
 
 Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du tænker på renter og renters rente i forskellige investeringsformer.
+
+[Få op til 2% cashback hos LunarWay\*](/go/pa/lunarway/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}

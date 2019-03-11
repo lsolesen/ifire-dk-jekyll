@@ -53,7 +53,7 @@ Hvis man vil ind i _crowd lending_ eller andre investeringer, hvor man skal over
 Du kan få to kort til din [Revolut*](/go/revolut/)-konto gratis.
 
 - **Virtuelt kort**. Du får et virtuelt kort **gratis**. Det kan med fordel bruges til betalinger på nettet, da du ikke kan miste det på samme måde som et fysisk kort. Så det kan fx betale dine abonnementer. Husk at det kun er dit første kort, der er gratis.
-- **Fysisk kort**. Typisk koster det forsendelsen (6 EUR) at få tilsendt kortet, men hvis du bruger mit referral link [Revolut](/go/revolut/), så får du det gratis. Der går omkring 14 dage, inden kortet kommer med posten. Du vælger selv pinkode, og det er let at sætte grænser på kortet eller midlertidigt lukke det. Du kan også slå kontaktløse betalinger til og fra eller sikre at det ikke kan bruges i en ATM.
+- **Fysisk kort**. Typisk koster det forsendelsen (6 EUR) at få tilsendt kortet, men **hvis du bruger mit referral link [Revolut](/go/revolut/), så får du betalingskortet gratis**. Der går omkring 14 dage, inden kortet kommer med posten. Du vælger selv pinkode, og det er let at sætte grænser på kortet eller midlertidigt lukke det. Du kan også slå kontaktløse betalinger til og fra eller sikre at det ikke kan bruges i en ATM.
 
 ## Sikkerhed hos Revolut
 
@@ -78,6 +78,6 @@ Hvis du sommetider er i udlandet, så har du allerede sparet ved at få et [Revo
 
 Desuden fungerer det virkelig godt til at lave de udenlandske overførsler til _crowd lending_ platformene.
 
-[Opret gratis Revolut-konto*](/go/revolut/){: .btn .btn--large .btn--warning}
+[Få gratis betalingskort og konto hos Revolut*](/go/revolut/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}
