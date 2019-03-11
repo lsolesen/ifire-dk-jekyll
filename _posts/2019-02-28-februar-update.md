@@ -83,7 +83,15 @@ Ejendomsinvesteringerne er [ReInvest24](/go/reinvest24/), som er mit første for
 
 ## Spørgsmål
 
-- Hvordan gør jeg mine investeringer endnu mere bæredygtige og etiske?
 - Hvordan skal min nøjagtige portefølje se ud - hvor meget skal være i investeringer, crowd lending, andre typer investeringer og opsparing?
+- Hvad skal min samlede strategi være?
+- Skal ejendomme være en del af porteføljen?
+
+## Mål for marts
+
+- At få flyttet min investeringer i aktier og obligationer til Nordnet.
+- At få ændret porteføljen i Nordnet, så den på sigt vil give større afkast.
+- Hvordan skal jeg automatisere opsparingen - og hvad er der råd til?
+- Hvordan kan jeg generere en lille passiv indkomst også?
 
 {% include disclaimer.md %}

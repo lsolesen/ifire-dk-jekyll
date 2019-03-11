@@ -55,11 +55,10 @@ Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstil
 ## Spørgsmål
 
 - Hvordan skal mine konti være skruet sammen - og hvilke betalingskort har jeg brug for, så det fungerer bedst muligt?
-- Hvordan skal jeg automatisere opsparingen?
 - Kunne min nuværende investering i StjerneFri Invest placeres bedre, så den giver et bedre afkast?
-- Er der alternative steder jeg skal investere pengene?
-- Hvordan kan jeg generere en lille passiv indkomst også?
+- Er der alternative steder jeg skal investere pengene - fx mere crowdfunding og lending?
+- Hvordan skal jeg automatisere opsparingen?
 
-## Mål
+## Mål for februar
 
-At få optimeret investeringsstrategien og kigget på, hvordan de samlede investeringer skal være fordelt.
+- At få optimeret investeringsstrategien og kigget på, hvordan de samlede investeringer skal være fordelt.
