@@ -34,7 +34,7 @@ Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du ge
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html %}
+    {% include archive-single-simple.html %}
   {% endfor %}
 {% endif %}
 
