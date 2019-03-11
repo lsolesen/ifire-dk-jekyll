@@ -24,7 +24,7 @@ Men efter at have gennemgået min økonomi lidt nærmere, så har jeg besluttet 
 
 ## De første fejl
 
-Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/tc/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu, og jeg kan godt være lidt utålmodig. 
+Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu, og jeg kan godt være lidt utålmodig. 
 
 - **Vælg den rigtige valuta.** Jeg fik derfor overført et stort beløb til Mintos i DKK, men der er ikke særlig mange forskellige låneudbydere, så lige nu er jeg ved at få pengene konverteret over til EUR, hvor der er mange flere låneudbydere.
 

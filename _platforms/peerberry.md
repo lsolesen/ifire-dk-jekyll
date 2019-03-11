@@ -8,4 +8,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[PeerBerry (EUR)](/go/tc/peerberry/){: .btn .btn--large .btn--warning}
+[PeerBerry (EUR)](/go/peerberry/){: .btn .btn--large .btn--warning}

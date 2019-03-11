@@ -10,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[Crowdestate](/go/tc/crowdestate/){: .btn .btn--large .btn--warning}
+[Crowdestate](/go/crowdestate/){: .btn .btn--large .btn--warning}
