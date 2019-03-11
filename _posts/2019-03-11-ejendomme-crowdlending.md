@@ -6,7 +6,7 @@ category:
 tags:
   - crowdlending
   - crowdfunding
-  - ejendomsinvesteringer
+  - ejendomsinvestering
   - ejendom
 excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investere i ejendomsmarkedet gennem crowdlending?"
 ---
