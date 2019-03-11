@@ -49,16 +49,26 @@ Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige p
 
 ## Skal du også investere i ejendomme?
 
-Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowd lending_, og lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfunding her:
+Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowd lending_.
+
+Skal du også have fat i ejendomsmarkedet for at sprede dine investeringer - og hvad er din strategi?
+
+{% include disclaimer.md %}
+
+Lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfunding her:
+
+***
+
+<div class="grid__wrapper">
 
 {% assign site_posts = site.platforms | where: "tags", "ejendomsinvestering" | sort: "date" %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single-simple.html %}
+    {% include archive-single-simple.html type="grid" %}
   {% endfor %}
 {% endif %}
 
-Skal du også have fat i ejendomsmarkedet for at sprede dine investeringer - og hvad er din strategi?
+</div>
 
-{% include disclaimer.md %}
+***
