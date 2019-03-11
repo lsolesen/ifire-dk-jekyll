@@ -16,11 +16,11 @@ Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, f
 
 ## Hvordan tjekker jeg mit abonnement let?
 
-Heldigvis er der nogle [ret enkle muligheder*](/go/mobilsparer/) for at [tjekke om du kan spare penge på dit mobilabonnement*](/go/mobilpakke/).
+Heldigvis er der nogle [ret enkle muligheder\*](/go/pa/mobilsparer/) for at [tjekke om du kan spare penge på dit mobilabonnement\*](/go/pa/mobilpakke/).
 
-Både hos [mobilpakke.dk](/go/mobilpakke/)* og [mobilsparer.dk*](/go/mobilsparer/) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
+Både hos [mobilpakke.dk\*](/go/pa/mobilpakke/) og [mobilsparer.dk\*](/go/pa/mobilsparer/) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
-[Tjek hos mobilpakke.dk*](/go/mobilpakke/){: .btn .btn--large .btn--warning}
+[Tjek hos mobilpakke.dk*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning}
 
 ***
 
@@ -32,15 +32,15 @@ Både hos [mobilpakke.dk](/go/mobilpakke/)* og [mobilsparer.dk*](/go/mobilsparer
 
 Ofte kan det betale sig at købe en ny mobil gennem en pakkeaftale ved et teleselskab, og når mobilen er betalt, så kan du tjekke om abonnementet er det mest konkurrencedygtige på de to services.
 
-Hvis du foretrækker at købe en mobil og bare bruge dit eksisterende abonnement, så kan du du på [nemmobil.dk*](/go/nemmobil/) finde en masse modeller til konkurrencedygtige priser.
+Hvis du foretrækker at købe en mobil og bare bruge dit eksisterende abonnement, så kan du du på [nemmobil.dk*](/go/pa/nemmobil/) finde en masse modeller til konkurrencedygtige priser.
 
-Du kan også søge på [pricebutler.dk*](/go/pricebutler) for at sammenligne priser mellem selskaberne. Der er garanteret også mange andre måder at gøre det på, som du gerne må dele i kommentarerne.
+Du kan også søge på [pricebutler.dk*](/go/pa/pricebutler) for at sammenligne priser mellem selskaberne. Der er garanteret også mange andre måder at gøre det på, som du gerne må dele i kommentarerne.
 
 ## Har du sparet på din mobilregning?`
 
 Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene eller anden måde, så alle andre kan blive inspireret.
 
-[Tjek hos mobilsparer.dk*](/go/mobilsparer/){: .btn .btn--large .btn--warning}
+[Tjek hos mobilsparer.dk*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning}
 
 ***
 
