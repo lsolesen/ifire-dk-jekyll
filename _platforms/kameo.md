@@ -1,6 +1,8 @@
 ---
 title: "Kameo"
 permalink: /platform/kameo/
+header:
+  teaser: /assets/images/logo/kameo.png
 category:
   - Platform
 tags:
@@ -8,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[Kameo](https://www.kameo.dk/){: .btn .btn--large .btn--warning}
+[Kameo](/go/kameo/){: .btn .btn--large .btn--warning}

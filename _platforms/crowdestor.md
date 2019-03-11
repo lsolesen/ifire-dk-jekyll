@@ -1,6 +1,8 @@
 ---
 title: "Crowdestor"
 permalink: /platform/crowdestor/
+header:
+  teaser: /assets/images/logo/crowdestor.jpg
 category:
   - Platform
 tags:
@@ -8,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[Tilmeld dig Crowdestor*](){: .btn .btn--large .btn--warning}
+[Tilmeld dig Crowdestor*](/go/crowdestor/){: .btn .btn--large .btn--warning}

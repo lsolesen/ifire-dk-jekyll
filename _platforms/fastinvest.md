@@ -1,6 +1,8 @@
 ---
 title: "Fast Invest"
 permalink: /platform/fastinvest/
+header:
+  teaser: /assets/images/logo/fastinvest.jpg
 category:
   - Platform
 tags:
@@ -8,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[FastInvest (EUR)](https://c.trackmytarget.com/rsft06){: .btn .btn--large .btn--warning}
+[FastInvest (EUR)](/go/fastinvest/){: .btn .btn--large .btn--warning}

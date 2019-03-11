@@ -1,11 +1,14 @@
 ---
 title: "Grupeer"
-permalink: /platform/grupper/
+permalink: /platform/grupeer/
+header:
+  teaser: /assets/images/logo/grupper.jpg
 category:
   - Platform
 tags:
   - crowdlending
+  - ejendomsinvestering
 excerpt: "Grupeer er virkelig lovende, hvor du kan investere i lån, udviklingsprojekter og snart kvadratmeter på ejendomsmarkedet."
 ---
 
-[Tilmeld dig Grupeer*](https://www.grupeer.com?invited_by=grp_1006516){: .btn .btn--large .btn--warning}
+[Tilmeld dig Grupeer*](/go/grupeer/){: .btn .btn--large .btn--warning}

@@ -1,6 +1,8 @@
 ---
 title: "Bondora"
 permalink: /platform/bondora/
+header:
+  teaser: /assets/images/logo/bondora.png
 category:
   - Platform
 tags:
@@ -22,4 +24,4 @@ Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
 
 Jeg har endnu ikke selv taget penge ud fra Bondora, men opdaterer så snart jeg prøver det.
 
-[Tilmeld dig Bondora*](https://bondora.com/ref/larso5){: .btn .btn--large .btn--warning}
+[Tilmeld dig Bondora*](/go/bondora/){: .btn .btn--large .btn--warning}

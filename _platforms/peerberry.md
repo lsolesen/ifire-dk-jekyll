@@ -1,6 +1,8 @@
 ---
 title: "PeerBerry"
 permalink: /platform/peerberry/
+header:
+  teaser: /assets/images/logo/peerberry.png
 category:
   - Platform
 tags:
@@ -8,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[PeerBerry (EUR)](https://c.trackmytarget.com/731nnb){: .btn .btn--large .btn--warning}
+[PeerBerry (EUR)](/go/tc/peerberry/){: .btn .btn--large .btn--warning}

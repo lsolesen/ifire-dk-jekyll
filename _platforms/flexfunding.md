@@ -1,6 +1,8 @@
 ---
 title: "FlexFunding"
 permalink: /platform/flexfunding/
+header:
+  teaser: /assets/images/logo/flexfunding.gif
 category:
   - Platform
 tags:
@@ -8,4 +10,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[Flexfunding (DKK)](http://flexfunding.dk){: .btn .btn--large .btn--warning}
+[Flexfunding (DKK)](/go/flexfunding/){: .btn .btn--large .btn--warning}
