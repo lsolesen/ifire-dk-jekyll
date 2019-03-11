@@ -4,8 +4,6 @@ title: "Crowdestate"
 permalink: /platform/crowdestate/
 header:
   teaser: /assets/images/logo/crowdestate.png
-category:
-  - Platform
 tags:
   - crowdlending
   - ejendomsinvestering

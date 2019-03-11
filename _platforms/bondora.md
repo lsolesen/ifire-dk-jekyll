@@ -3,8 +3,6 @@ title: "Bondora"
 permalink: /platform/bondora/
 header:
   teaser: /assets/images/logo/bondora.png
-category:
-  - Platform
 tags:
   - crowdlending
 excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"

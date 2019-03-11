@@ -3,8 +3,6 @@ title: "Crowdestor"
 permalink: /platform/crowdestor/
 header:
   teaser: /assets/images/logo/crowdestor.jpg
-category:
-  - Platform
 tags:
   - crowdlending
 excerpt: "Beskrivelse følger"

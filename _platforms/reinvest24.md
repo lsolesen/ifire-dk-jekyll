@@ -3,8 +3,6 @@ title: "ReInvest24"
 permalink: /platform/reinvest24/
 header:
   teaser: /assets/images/logo/reinvest24.png
-category:
-  - Platform
 tags:
   - crowdlending
   - ejendomsinvestering

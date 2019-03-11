@@ -3,8 +3,6 @@ title: "Mintos"
 permalink: /platform/mintos/
 header:
   teaser: /assets/images/logo/mintos.png
-category:
-  - Platform
 tags:
   - crowdlending
 excerpt: "Beskrivelse af crowd lending platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."

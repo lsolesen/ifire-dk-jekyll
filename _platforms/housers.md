@@ -3,8 +3,6 @@ title: "Housers"
 permalink: /platform/housers/
 header:
   teaser: /assets/images/logo/housers.png
-category:
-  - Platform
 tags:
   - crowdlending
   - ejendomsinvestering

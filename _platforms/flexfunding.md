@@ -3,8 +3,6 @@ title: "FlexFunding"
 permalink: /platform/flexfunding/
 header:
   teaser: /assets/images/logo/flexfunding.gif
-category:
-  - Platform
 tags:
   - crowdlending
 excerpt: "Beskrivelse følger"
