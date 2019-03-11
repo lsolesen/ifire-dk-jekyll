@@ -15,7 +15,7 @@ Det tager ikke så lang tid at tjekke op på forsikringerne. Til gengæld kan de
 
 Du kan fx tjekke din forsikringer igennem en gang hvert andet år - og det er ikke så vanskeligt og kedeligt som det lyder.
 
-Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp på nettet, hvor der er flere services, der hjælper med at tjekke forsikringerne igennem. Fx kan du på [findforsikring.dk](/go/findforsikring/) eller på [Tjenestorvet](/go/tjenestetorvet/) hurtigt gratis få hjælp til at tjekke dine forsikringer.
+Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp på nettet, hvor der er flere services, der hjælper med at tjekke forsikringerne igennem. Fx kan du på [findforsikring.dk](/go/pa/findforsikring/) eller på [Tjenestorvet](/go/pa/tjenestetorvet/) hurtigt gratis få hjælp til at tjekke dine forsikringer.
 
 ***
 

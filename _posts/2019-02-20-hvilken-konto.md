@@ -33,7 +33,7 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 - De fleste banker har forskellige ordninger for unge. Fx har [SparNord Studiepakke](https://www.studiepakke.dk/) giver 2% i rente på op til 20.000 kroner, og du får et MasterCard Debit, men du kan også spørge din nuværende bank, hvilke muligheder der er.
 
-[Få op til 2% cashback hos LunarWay\*](/go/pa/lunarway/){: .btn .btn--large .btn--success}
+[Få op til 2% cashback hos LunarWay\*](/go/lunarway/){: .btn .btn--large .btn--success}
 
 ## Hvad er forskellen på kredit- og debetkonto
 
@@ -47,6 +47,6 @@ Men hvis du vil have dine penge til at vokse, så gælder det om at spare. Du ka
 
 Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du tænker på renter og renters rente i forskellige investeringsformer.
 
-[Få op til 2% cashback hos LunarWay\*](/go/pa/lunarway/){: .btn .btn--large .btn--warning}
+[Få op til 2% cashback hos LunarWay\*](/go/lunarway/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}
