@@ -1,6 +1,6 @@
 ---
 title: "Ejendomsinvestering ... gennem crowdlending?"
-permalink: /ejendomsinvestering-crowdlending/
+permalink: /ejendomme-crowdlending/
 category:
   - Opsparing
 tags:

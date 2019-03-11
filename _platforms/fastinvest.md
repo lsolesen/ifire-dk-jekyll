@@ -8,4 +8,4 @@ tags:
 excerpt: "Beskrivelse følger"
 ---
 
-[FastInvest (EUR)](/go/fastinvest/){: .btn .btn--large .btn--warning}
+[FastInvest (EUR)](/go/tc/fastinvest/){: .btn .btn--large .btn--warning}
