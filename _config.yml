@@ -235,7 +235,7 @@ collections:
     permalink: /:collection/:path/
   platforms:
     output: true
-    permalink: /:collection/:path/
+    permalink: /platform/:path/
   redirects:
     output: true
     permalink: /go/:path/
