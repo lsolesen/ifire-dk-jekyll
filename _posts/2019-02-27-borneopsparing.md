@@ -53,7 +53,7 @@ Her kan du se en hurtig oversigt over investeringstyper.
 
 ### Traditionel børneopsparing
 
-- **Almindelig børneopsparing.** Jeg har Spar Nord Bank, hvor de har en almindelig børneopsparing. Jeg [undersøgte hvad renten er i forskellige banker](https://www.mybanker.dk/sammenlign/opsparing/boerneopsparing//?utm_source=ifire.dk&utm_medium=referral&utm_campaign=link) og jeg fandt ud af, at jeg i hvert fald ikke får den bedste rente i Spar Nord. Til gengæld har de mulighed for, at man kan have et investeringsdepot tilknyttet børneopsparingen. Det er jeg lige ved at undersøge de årlige omkostninger i procent på (ÅOP), så jeg kan se om det kan betale sig. Hvis jeg bare lod dem stå på den almindelige børneopsparing som marts 2019 har en årlig nominel rente på 0,0%, så vil inflationen spise op mod 25% af pengene på 18 år.
+- **Almindelig børneopsparing.** Jeg har Spar Nord Bank, hvor de har en almindelig børneopsparing. Jeg [undersøgte hvad renten er i forskellige banker](/go/mybanker/) og jeg fandt ud af, at jeg i hvert fald ikke får den bedste rente i Spar Nord. Til gengæld har de mulighed for, at man kan have et investeringsdepot tilknyttet børneopsparingen. Det er jeg lige ved at undersøge de årlige omkostninger i procent på (ÅOP), så jeg kan se om det kan betale sig. Hvis jeg bare lod dem stå på den almindelige børneopsparing som marts 2019 har en årlig nominel rente på 0,0%, så vil inflationen spise op mod 25% af pengene på 18 år.
 
 Husk at du altid kan flytte din børneopsparingskonto til en anden bank, hvis du har fået den oprettet et sted, hvor renterne ikke er så høje.
 
@@ -65,19 +65,19 @@ Du kan enten investere i aktier eller obligationer, hvis du kan få tilknyttet e
 
 - **Børneopsparing med værdipapirdepot.** Som skrevet har Spar Nord Bank bl.a. mulighed for at tilknytte et værdipapirdepot til sin børneopsparing.
 
-- **[Tobi.dk](https://www.tobi.dk/?utm_source=ifire.dk&utm_medium=referral&utm_campaign=leads)** er et dansk FinTech Startup, som vil gøre det lettere og mere bekvemt at investere børneopsparingen. De arbejder i øjeblikket på at lave et produkt, hvor man kan sætte penge til børneopsparing, pengegaver og arveforskud ind uanset beløbsstørrelse. Internt i appen sørger de så at fordele pengene på hhv. en børneopsparing, hvor afkastet er skattefrit, og en almindelig opsparingskonto - og de hjælper med at udnytte børnenes frikort. Tobi investerer automatisk pengene i et index produkt. Hvordan sammensætningen er i porteføljen afhænger af risikovilligheden og tid til udbetaling. Du kan lige nu [skrive dig op til venteliste](https://www.tobi.dk/?utm_source=ifire.dk&utm_medium=referral&utm_campaign=leads). Det her produkt overvejer jeg meget kraftigt at bruge.
+- **[Tobi.dk](/go/tobi/)** er et dansk FinTech Startup, som vil gøre det lettere og mere bekvemt at investere børneopsparingen. De arbejder i øjeblikket på at lave et produkt, hvor man kan sætte penge til børneopsparing, pengegaver og arveforskud ind uanset beløbsstørrelse. Internt i appen sørger de så at fordele pengene på hhv. en børneopsparing, hvor afkastet er skattefrit, og en almindelig opsparingskonto - og de hjælper med at udnytte børnenes frikort. Tobi investerer automatisk pengene i et index produkt. Hvordan sammensætningen er i porteføljen afhænger af risikovilligheden og tid til udbetaling. Du kan lige nu [skrive dig op til venteliste](/go/tobi/). Det her produkt overvejer jeg meget kraftigt at bruge.
 
 ### Andre typer børneopsparinger
 
 Der er også andre måder at gøre det på, hvor det ikke er en rigtig børneopsparing, men hvor du bruger en konto for mindreårige.
 
-- **[NORD.investments*](https://www.nord.investments/?utm_source=ifire.dk&utm_medium=affiliate&utm_campaign=marts2019)**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Det betyder - så vidt jeg har forstået - at du skal betale skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
+- **[NORD.investments*](/go/nord/)**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Det betyder - så vidt jeg har forstået - at du skal betale skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
 
-- **[Nordnet](https://www.nordnet.dk/produkter/kontotyper/konto-for-mindrearig.html?utm_source=ifire.dk&utm_medium=affiliate&utm_campaign=marts2019)**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne i lidt højere grad. Her kan du altså også selv vælge produkter med lave omkostninger.
+- **[Nordnet](/go/nordnet/)**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne i lidt højere grad. Her kan du altså også selv vælge produkter med lave omkostninger.
 
 ## Hvordan har du lavet din børneopsparing?
 
-Lige nu hælder jeg til at vente på [Tobi.dk](https://www.tobi.dk/?utm_source=ifire.dk&utm_medium=referral&utm_campaign=leads) bliver klar en gang efter sommer, men jeg er stadig ikke helt sikker. 
+Lige nu hælder jeg til at vente på [Tobi.dk](/go/tobi/) bliver klar en gang efter sommer, men jeg er stadig ikke helt sikker. 
 
 Hvordan håndterer du din børneopsparing - og er der noget, jeg har overset?
 

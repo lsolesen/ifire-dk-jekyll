@@ -29,7 +29,7 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 - [Lån & Spar Bank](https://www.lsb.dk/lsb/content/studiekonto/atikler/faa_studiekonto/sysops_medl) giver dig en (virkelig høj) rente på 5% på op til 20.000 kroner, og du får et gratis Visa/Dankort og MasterCard med samme pinkode samt gratis valutaveksling. Du kan kombinere den med en StudieOpsparing. Det kræver dog, at du er medlem af en af de organisationer, Lån & Spar Bank samarbejder med.
 
-- LunarWay giver dig 2% i rente, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. Kontoen bliver ved med at give 2% i rente også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale.
+- [LunarWay](/go/lunarway/) giver dig 2% i rente, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. Kontoen bliver ved med at give 2% i rente også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale.
 
 - De fleste banker har forskellige ordninger for unge. Fx har [SparNord Studiepakke](https://www.studiepakke.dk/) giver 2% i rente på op til 20.000 kroner, og du får et MasterCard Debit, men du kan også spørge din nuværende bank, hvilke muligheder der er.
 

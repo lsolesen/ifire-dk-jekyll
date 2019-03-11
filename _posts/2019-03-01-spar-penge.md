@@ -12,11 +12,11 @@ Det andet punkt i rigdomsformlen er at gennemgå dine udgifter og se, hvor du ka
 
 ## Gennemgå dit nuværende forbrug
 
-Personligt har jeg installeret [spiir.dk](http://www.spiir.dk) på min telefon og kategoriseret alle mine udgifter fra de sidste tre år. App’en gør det meste for dig automatisk. Det giver et ret godt overblik over, hvad pengene går til - og jeg tør da godt sige, at jeg blev lidt overrasket.
+Personligt har jeg installeret [Spiir](/go/spiir/) på min telefon og kategoriseret alle mine udgifter fra de sidste tre år. App’en gør det meste for dig automatisk. Det giver et ret godt overblik over, hvad pengene går til - og jeg tør da godt sige, at jeg blev lidt overrasket.
 
 ## Lav et budget og find pengeslugerne
 
-[spiir.dk](http://spiir.dk) vil gennem _nudging_ lade dig opsætte nogle mål for det kommende år. Det kan du bruge som en form for budget.
+[Spiir](/go/spiir/) vil gennem _nudging_ lade dig opsætte nogle mål for det kommende år. Det kan du bruge som en form for budget.
 
 Men det kan også være en god ide at få styr på dine bankkonti, hvor mange fx laver en konto til faste udgifter, som jo kan fordele sig skævt i løbet af året. Ved at regne de faste udgifter ud for et helt år, så kan du hver måned overføre et fast beløb til kontoen, så du ikke ender i en overraskelse i den måned fx dine forsikringer skal betales.
 

@@ -12,7 +12,7 @@ tags:
 excerpt: "Anmeldelse af crowd lending platformen Join Trine, der er særligt målrettet mod bæredygtige projekter."
 ---
 
-[Trine*](https://www.jointrine.com/just-invested/47992) er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_. Join Trine er en svensk platform, der blev stiftet i 2014. Join Trine specialiserer sig i solenergi i en række afrikanske lande. 
+[Trine*](/go/trine/) er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_. Join Trine er en svensk platform, der blev stiftet i 2014. Join Trine specialiserer sig i solenergi i en række afrikanske lande. 
 
 Det er altid en god ide at sprede risikoen, så jeg har smidt mine investeringer foreløbigt i et par forskellige solpanel-projekter i to forskellige lande.
 
@@ -26,7 +26,7 @@ På platformen er der ikke så mange projekter at støtte i den måned, jeg har 
 
 ## Hvordan er det at bruge platformen?
 
-Det var let at [oprette sig på Join Trine*](https://www.jointrine.com/just-invested/47992) og lave den første investering. Platformen har **ingen auto-invest**-funktion, så det er en platform, du skal holde lidt øje med. 
+Det var let at [oprette sig på Join Trine*](/go/trine/) og lave den første investering. Platformen har **ingen auto-invest**-funktion, så det er en platform, du skal holde lidt øje med. 
 
 Platformen har også mulighed for at lave månedlige investeringer, hvis du gerne vil automatisere dine investeringer lidt.
 
@@ -34,17 +34,17 @@ Platformen udbyder gavekort, så du kan give folk en gave, der bliver mere værd
 
 Jeg har skrevet til support på platformen for at tjekke responstiden, og de svarede inden for en time af min henvendelse.
 
-[Join Trine](https://www.jointrine.com/just-invested/47992){: .btn .btn--large .btn--warning}
+[Join Trine](/go/trine/){: .btn .btn--large .btn--warning}
 
 ## Sætte penge ind og hive dem ud igen
 
-Jeg brugte [Revolut](/revolut-anmeldelse/) til at overføre penge til [Join Trine](https://www.jointrine.com/just-invested/47992), så jeg kunne gøre det uden gebyrer.
+Jeg brugte [Revolut](/revolut-anmeldelse/) til at overføre penge til [Join Trine](/go/trine/), så jeg kunne gøre det uden gebyrer.
 
 Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det! Planen er også at hive pengene ud til min [Revolut](/revolut-anmeldelse/)-konto.
 
 ## Vær opmærksom på
 
-[Join Trine](https://www.jointrine.com/just-invested/47992) er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
+[Join Trine](/go/trine/) er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
 
 ## En mere bæredygtig portefølje?
 
@@ -54,6 +54,6 @@ Jeg går i øjeblikket og overvejer, hvordan jeg kan gøre mine samlede invester
 
 Husk at jeg ikke er finansiel rådgiver, men selv ude på et eventyr i denne verden. Crowdfunding og crowdlending indebærer risiko, så husk at sprede dine investeringer.
 
-[Join Trine](https://www.jointrine.com/just-invested/47992){: .btn .btn--large .btn--warning}
+[Join Trine](/go/trine/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}
