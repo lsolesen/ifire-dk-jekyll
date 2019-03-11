@@ -33,7 +33,7 @@ Hvis du ikke er helt skarp på, hvad _blockchain_ er, så se lige videoen herund
  
 At Funderbeam bruger _blockchain_ gør imidlertid ikke investeringerne mere sikre, da jo foregår i firmaerne. Der er det dit eget ansvar at vurdere, hvad du gerne vil investere i. Der er grundige beskrivelser af de enkelte firmaer.
  
- ## Hvordan fungerer Funderbeam
+## Hvordan fungerer Funderbeam
 
 Det er let og ligetil at oprette en konto hos [Funderbeam](/go/funderbeam). Du indsender dokumentation, og efter et par dage bliver du godkendt til at handler på platformen. Websitet er meget let at bruge. Jeg har skrevet til support, og de svarer rigtig hurtigt.
 
