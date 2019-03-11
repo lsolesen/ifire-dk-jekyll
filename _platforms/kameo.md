@@ -2,7 +2,7 @@
 title: "Kameo"
 permalink: /platform/kameo/
 header:
-  teaser: /assets/images/logo/kameo.png
+  teaser: /assets/images/logo/kameo.jpg
 category:
   - Platform
 tags:

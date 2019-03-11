@@ -2,7 +2,7 @@
 title: "Grupeer"
 permalink: /platform/grupeer/
 header:
-  teaser: /assets/images/logo/grupper.jpg
+  teaser: /assets/images/logo/grupeer.jpg
 category:
   - Platform
 tags:
