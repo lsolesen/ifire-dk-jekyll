@@ -10,6 +10,7 @@ tags:
   - crowdlending
   - crowdfunding
   - investering
+  - blockchain
 excerpt: "Funderbeam er en spændende crowd investing platform baseret på blockchain-teknologierne - men måske for risikofyldt?"
 ---
 
@@ -61,6 +62,6 @@ Jeg opdaterer naturligvis denne anmeldelse, når jeg får flere erfaringer med p
 
 Hvad tænker du om Funderbeam?
 
-**Funderbeam har ikke et udbyttet _referral_-program. Hvis du beslutter dig for at investere ved Funderbeam, kan du i deres backend indikere, at du blev inspireret fra dette site, og jeg vil være glad, hvis du vil skrive mit navn.**
+**Funderbeam har ikke et _referral_-program. Hvis du beslutter dig for at investere ved Funderbeam, kan du i deres backend indikere, at du blev inspireret fra dette site, og jeg vil være glad, hvis du vil skrive mit navn.**
 
 {% include disclaimer.md %}
