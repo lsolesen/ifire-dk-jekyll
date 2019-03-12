@@ -36,7 +36,7 @@ Grundlæggende kan du være med i ejendomsmarkedet på to måder.
 
 Gennem crowdlending kan du sammen med andre investorer bruge det til ejendomsinvestering, hvis du investerer i ejendomsudvikling. Her er et par af de platforme, hvor du kan gøre dette.
 
-- **[Grupper](/go/grupeer/)**. På Grupper kan du både lave almindelig crowdlending, men du kan også investere i udviklingsprojekter. Platformen er rigtig let at bruge.
+- **[Grupeer](/go/grupeer/)**. På Grupeer kan du både lave almindelig crowdlending, men du kan også investere i udviklingsprojekter. Platformen er rigtig let at bruge.
 
 ## Investering i ejendomme
 
