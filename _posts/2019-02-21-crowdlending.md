@@ -16,13 +16,18 @@ Jeg overvejer stadig, hvor meget crowdlending skal være af min samlede portefø
 > Crowdlending is the practice of lending money to individuals or businesses through online services that match lenders with borrowers. 
 > 
 > \- [Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer_lending)
+
 Det er ikke længere kun bankerne, der låner penge ud. Det er der også mange andre platforme, der gør, og du kan være med til at låne de penge ud.
+
+{% include video provider="youtube" id="EMpQvwxQ57U" %}
+
+## Hvordan kom jeg ind i crowdlending?
 
 Jeg kom tilfældigt ind i crowdlending, da min arbejdsplads oprettede et lån på danske [Flexfunding](/go/flexfunding/). Jeg ville gerne være med til at realisere målet, så jeg oprettede en konto og begyndte at vælge lån ud, jeg kunne investere i. Hovedparten investerede jeg dog i starten i min arbejdsplads’ lån.
 
 Men efter at have gennemgået min økonomi lidt nærmere, så har jeg besluttet mig for, at crowdlending skal fylde noget i min samlede portefølje.
 
-## De første fejl
+## Mine første fejl
 
 Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu, og jeg kan godt være lidt utålmodig. 
 

@@ -6,7 +6,7 @@ header:
 tags:
   - crowdlending
   - ejendomsinvestering
-excerpt: "Beskrivelse følger"
+excerpt: "ReInvest24 er en crowdfunding platform for ejendomsinvesteringer hvor du kan investere i ejendomme i Estland."
 ---
 
 [ReInvest24*](/go/reinvest24/){: .btn .btn--large .btn--warning}

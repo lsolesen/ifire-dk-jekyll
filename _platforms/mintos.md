@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/logo/mintos.png
 tags:
   - crowdlending
-excerpt: "Beskrivelse af crowd lending platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
+excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
 ---
 
 ## Muligheden for at få sine penge ud hurtigt
