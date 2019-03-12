@@ -1,4 +1,4 @@
 ---
 title: Housers
-redirect_to: http://www.housers.com
+redirect_to: https://www.housers.com/en/formulario-registro?pt=PFH--REF--103385
 ---
