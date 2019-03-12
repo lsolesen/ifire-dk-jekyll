@@ -1,6 +1,5 @@
 ---
 layout: single
-layout: single
 title: "Om iFire"
 permalink: /om/
 tags:
@@ -20,6 +19,8 @@ Jeg har altså sat mig for helt i tråd med **rigdomsformularen** at:
 - investere (klogere)
 
 Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
+
+[Se min samlede portefølje](/portfolio/){: .btn .btn--large .btn--success}
 
 ## Følg min status
 
