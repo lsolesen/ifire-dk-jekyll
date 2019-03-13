@@ -24,6 +24,7 @@ Selvom det er enkelt, så rejser det alligevel en masse spørgsmål, og her vil 
 - Hvordan skal børneopsparingen se ud?
 - Hvordan skal min pensionsopsparing se ud?
 - Skal jeg have en opsparing - i kontanter, bitcoins og anden cryptovaluta eller i guld og sølv?
+- Hvordan sørger jeg samtidig for, at verden bliver et bedre sted og at mit impact er **bæredygtigt**?
 
 Jeg vil prøve at beskrive min rejse med alle de spørgsmål, jeg selv har stået med i processen, og jeg vil hver måned lave opdateringer om mine valg, mine fejl og min fremgang mod at få taget gode økonomiske valg og finansiel frihed.
 
