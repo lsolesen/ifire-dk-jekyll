@@ -5,6 +5,7 @@ category:
 tags:
   - rigdomsformularen
 excerpt: "I gang med finansiel uafhængighed. Hvorfor og hvilke spørgsmål er der?"
+toc: false
 ---
 
 Måske er det fordi jeg er blevet over 40, og så skal der bare ske noget. Måske er jeg blevet mere ansvarlig? I hvert fald er jeg på det seneste blevet ret interesseret i ideen om at blive **finansiel uafhængig**. Samtidig er jeg stødt ind i **rigdomsformularen**, som faktisk er meget enkel.
@@ -33,4 +34,3 @@ Jeg håber du vil følge med i min rejse.
 [Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
 
 [Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info}
-
