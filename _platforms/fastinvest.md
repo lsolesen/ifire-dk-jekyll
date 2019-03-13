@@ -2,7 +2,7 @@
 title: "Fast Invest"
 permalink: /platform/fastinvest/
 header:
-  teaser: /asssets/images/logo/fastinvest.jpg
+  teaser: /assets/images/logo/fastinvest.jpg
 tags:
   - crowdlending
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
