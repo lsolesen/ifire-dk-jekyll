@@ -27,3 +27,10 @@ Selvom det er enkelt, så rejser det alligevel en masse spørgsmål, og her vil 
 Jeg vil prøve at beskrive min rejse med alle de spørgsmål, jeg selv har stået med i processen, og jeg vil hver måned lave opdateringer om mine valg, mine fejl og min fremgang mod at få taget gode økonomiske valg og finansiel frihed.
 
 Jeg håber du vil følge med i min rejse.
+
+[Opret en konto hos LunarWay og få 50 DKK*](/go/lunarway/){: .btn .btn--large .btn--success}
+
+[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
+
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--alert}
+

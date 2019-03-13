@@ -47,6 +47,6 @@ Men hvis du vil have dine penge til at vokse, så gælder det om at spare. Du ka
 
 Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du tænker på renter og renters rente i forskellige investeringsformer.
 
-[Få op til 2% cashback hos LunarWay\*](/go/lunarway/){: .btn .btn--large .btn--warning}
+[Få op til 2% cashback hos LunarWay og 50 DKK\*](/go/lunarway/){: .btn .btn--large .btn--warning}
 
 {% include disclaimer.md %}

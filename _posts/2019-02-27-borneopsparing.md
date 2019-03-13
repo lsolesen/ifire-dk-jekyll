@@ -73,6 +73,8 @@ Der er også andre måder at gøre det på, hvor det ikke er en rigtig børneops
 - **[NORD.investments*](/go/nord/)**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Det betyder - så vidt jeg har forstået - at du skal betale skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
 - **[Nordnet](/go/nordnet/)**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne i lidt højere grad. Her kan du altså også selv vælge produkter med lave omkostninger.
 
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+
 ## Andre måder at spare op på
 
 Ud over den klassiske børneopsparing kan du også spare op til dine børn på følgende måder:
@@ -87,5 +89,7 @@ Disse løsninger er ikke relevante for mig, men [du kan læse mere om skattefri 
 Lige nu hælder jeg til at vente på [Tobi.dk](/go/tobi/) bliver klar en gang efter sommer, men jeg er stadig ikke helt sikker. 
 
 Hvordan håndterer du din børneopsparing - og er der noget, jeg har overset?
+
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
 
 {% include disclaimer.md %}

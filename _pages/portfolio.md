@@ -27,9 +27,13 @@ Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/)
 
 [Se min side på Shareville](https://shareville.dk/me/portfolios/343009/positions){: .btn .btn--large .btn--success}
 
+[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
+
 ### Investeringer i crowdlending
 
 <iframe width="600" height="427.012" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1157747909&amp;format=image"></iframe>
+
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--warning}
 
 ### Investeringer i ejedomme
 
@@ -39,8 +43,12 @@ Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er i
 
 For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan have kontanter stående og få lidt rente (_cash back_). Mange sparer op i guld og sølv, men det ser jeg ikke mig selv gå i gang med. Andre sparer op i cryptovalutaer, og det kunne jeg godt se mig selv gå i gang med.
 
+[Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
+
 ### Indlånskonto
 
 Jeg har en indlånskonto hos [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000, jeg har stående på kontoen. 
+
+[Opret en konto hos LunarWay og få 50 DKK*](/go/lunarway/){: .btn .btn--large .btn--success}
 
 {% include disclaimer.md %}

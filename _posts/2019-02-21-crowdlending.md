@@ -37,6 +37,8 @@ Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde 
 
 - **Utålmodighed med auto-investoren.** De større beløb over på FastInvest havde jeg egentlig tænkt skulle investeres af _auto invest_. Den fungerede dog lidt langsommere på FastInvest end på Mintos, så jeg begyndte selv at købe nogle lån, hvilket i sig selv jo ikke er en dårlig ide, da jeg fik kigget lidt på renterne, løbetiden og blev lidt klogere på platformen. Men jeg blev for utålmodig og satte beløbene på de enkelte beløb højere end, hvad min strategi egentlig siger at jeg skal.
 
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--success}
+
 ## Min strategi på crowdlending markedet
 
 Jeg kan godt lide at have en strategi. Det gør det også lettere at tage beslutninger uden følelser undervejs. Jeg holder mig til følgende.
@@ -69,6 +71,10 @@ Du kan også fratrække tab, men vær opmærksom på, at der er en bagatelgræns
 Jeg vil primært forsøge at holde hvert enkelt lån på et mindre beløb, men til gengæld have mange lån for at mindske risikoen. Men over tid bliver det også vigtigt for mig, hvor automatisk setuppet kan være. 
 
 Jeg skal have kigget alle platformene efter ift. _auto invest_, og hvordan jeg gerne vil stille det op - ligesom jeg skal have fundet ud af, hvor stor min samlede crowdlending portefølje skal være. Endelig er det også interessant at kigge på, om jeg på de forskellige platform skal operere med lidt forskellige strategier. 
+
+## Kom i gang med crowdlending
+
+[Mintos*](/go/mintos/){: .btn .btn--large .btn--success} eller [Grupeer*](/go/grupeer/){: .btn .btn--large .btn--success} eller [PeerBerry*](/go/peerberry/){: .btn .btn--large .btn--success} eller [FastInvest*](/go/fastinvest/){: .btn .btn--large .btn--success}
 
 {% include disclaimer.md %}
 
