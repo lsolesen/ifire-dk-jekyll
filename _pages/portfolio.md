@@ -27,6 +27,22 @@ Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/)
 
 [Se min side på Shareville](https://shareville.dk/me/portfolios/343009/positions){: .btn .btn--large .btn--success}
 
+#### Min endnu ikke overflyttede portefølje
+
+- BankInvest Danske Aktier-W-
+- BankInvest Europa Small Cap Aktier W
+- BankInvest Højt Udbytte Aktier W
+- BankInvest USA Small Cap Aktier W
+- BankInvest Emerg Obl Lokalvaluta W
+- BankInvest Korte Danske Obligationer W	
+- BankInvest Lange Danske Obligationer W	
+- BankInvest Virksomhedsobligationer IG W	
+- ValueInvest Global W
+
+#### Kapitalpension
+
+- SparNord-aktier
+
 [Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
 
 ### Investeringer i crowdlending
