@@ -32,5 +32,5 @@ Jeg håber du vil følge med i min rejse.
 
 [Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--alert}
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info}
 
