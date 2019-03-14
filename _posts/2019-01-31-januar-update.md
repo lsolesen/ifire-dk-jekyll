@@ -26,7 +26,7 @@ Jeg har altså sat mig for helt i tråd med rigdomsformularen at:
 
 ## Nuværende status
 
-Lige nu ser min økonomi ud på følgende måde:
+Herunder beskriver jeg, hvordan min økonomi ser ud i dag. Du kan se min [opdaterede portefølje her](/portfolio/).
 
 ### Konti i banken
 
