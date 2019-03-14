@@ -29,7 +29,7 @@ Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikrin
 
 Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
 
-- **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/), hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det var næsten 1100 kroner i forskel på indboforsikringen.
+- **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/), hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det gav næsten 1100 kroner i forskel på indboforsikringen, som nu er uden rejseforsikring.
 
 - **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på. 
 
