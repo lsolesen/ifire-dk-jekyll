@@ -75,7 +75,7 @@ Min strategi i forhold til mine aktieinvesteringer er:
 - Jeg vil sprede min risiko gennem enten investeringsforeninger eller ETF’er.
 - Jeg vil ikke _geare_ min investering - altså låne penge for at investere.
 - Jeg vil som udgangspunkt have 80% af min samlede portefølje i aktier og obligationer.
-- Jeg vil _rebalancere_ halvårligt, så min portefølje er 80% aktier og 20% obligationer.
+- Jeg vil _rebalancere_ halvårligt, så min portefølje er 80-90% aktier og 10-20% obligationer.
 
 Jeg vil som hovedregel investere i noget, der er lagerbeskattet efter aktieindkomstreglerne. Det betyder **ikke**-akkumulerede indexer.
 
