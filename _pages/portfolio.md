@@ -29,15 +29,15 @@ Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/)
 
 #### Min endnu ikke overflyttede portefølje
 
-- BankInvest Danske Aktier-W-
-- BankInvest Europa Small Cap Aktier W
-- BankInvest Højt Udbytte Aktier W
-- BankInvest USA Small Cap Aktier W
-- BankInvest Emerg Obl Lokalvaluta W
-- BankInvest Korte Danske Obligationer W	
-- BankInvest Lange Danske Obligationer W	
-- BankInvest Virksomhedsobligationer IG W	
-- ValueInvest Global W
+- [BankInvest Danske Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24P)
+- [BankInvest Europa Small Cap Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24R)
+- [BankInvest Højt Udbytte Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24T)
+- [BankInvest USA Small Cap Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24V)
+- [BankInvest Emerg Obl Lokalvaluta W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24Y)
+- [BankInvest Korte Danske Obligationer W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24Z)
+- [BankInvest Lange Danske Obligationer W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z250)
+- [BankInvest Virksomhedsobligationer IG W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z252)
+- [ValueInvest Global W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z4AC)
 
 #### Kapitalpension
 
