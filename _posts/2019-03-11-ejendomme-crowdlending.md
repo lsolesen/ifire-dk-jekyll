@@ -47,6 +47,10 @@ I forhold til at sprede mine investeringer, så synes jeg dette er det mest inte
 
 Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige platforme, men også at forsøge at sprede dem på de enkelte platforme.
 
+Du kan selv investere i ejendomme og ejendomsudvikling via crowdlending:
+
+[Housers\*](/go/housers/){: .btn .btn--success} eller [Crowdestate\*](/go/crowdestate/){: .btn .btn--success} eller [Reinvest24\*](/go/reinvest24/){: .btn .btn--success} eller [Grupeer\*](/go/grupeer/){: .btn .btn--success}
+
 ## Skal du også investere i ejendomme?
 
 Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowd lending_.

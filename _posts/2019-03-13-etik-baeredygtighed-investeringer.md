@@ -49,4 +49,6 @@ Jeg er stadig lidt i tvivl om, hvordan jeg skal gribe opgaven an med mine crowdl
 
 Dette vil formentlig ofte være i familie med _crowd lending_ på den ene eller anden måde, men jeg leder med lys og lygte efter relevante bæredygtige investeringer. Som skrevet har jeg allerede smidt lidt penge efter træer hos [Better Globe](/go/betterglobe/), men hvor sætter I andre jeres etiske og bæredygtige investeringer, så I stadig har et fint afkast på vej mod **finansiel uafhængighed**, men også gør verden til et bedre sted?
 
+[Bliv inspireret til bæredygtighed med Sustain Daily\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60256){: .btn .btn--large .btn--success}
+
 {% include disclaimer.md %}
