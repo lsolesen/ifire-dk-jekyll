@@ -41,7 +41,7 @@ Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/)
 
 #### Kapitalpension
 
-- SparNord-aktier
+- [SparNord-aktier](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)
 
 [Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
 
