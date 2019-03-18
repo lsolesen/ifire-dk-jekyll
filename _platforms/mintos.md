@@ -12,4 +12,6 @@ excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er e
 
 Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til salg, hvis du får brug for din investering hurtigere end lånene løber ud. Og det ser ud til at virke rigtig godt ifølge [P2P Millionaire](https://p2p-millionaire.com/how-liquid-is-the-mintos-secondary-market-our-e1m-p2p-lending-early-exit-test/)
 
+[Mintos Loan Scanner](http://explorep2p.com/mintos-loan-scanner/)
+
 [Tilmeld dig Mintos*](/go/mintos/){: .btn .btn--large .btn--warning}
