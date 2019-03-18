@@ -14,7 +14,7 @@ Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til s
 
 ## Current investments in EUR
 
-{% include figure image_path="https://image.prntscr.com/image/LdXfQs3YR56zJqJJWDvI7w.png" alt="Current investments Mintos" caption="Current investments 18/03/2019" %}
+{% include figure image_path="/assets/images/temp/mintos-status.png" alt="Current investments Mintos" caption="Current investments 18/03/2019" %}
 
 [Mintos Loan Scanner](http://explorep2p.com/mintos-loan-scanner/)
 
