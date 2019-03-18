@@ -42,15 +42,19 @@ Du kan læse mere om konsekvenserne på [bloggen på Afmeldkirkeskat*](/go/afmel
 
 ## Min udmelding af Folkekirken
 
-Du kan [melde dig ud af Folkekirken](https://www.borger.dk/samfund-og-rettigheder/Medlemskab-af-folkekirken) på [forskellige måder](https://www.folkekirken.dk/om-folkekirken/medlemskab). Enten skal du møde op på Kirkekontoret eller skrive til dem med fødselsdato og hvornår du er døbt. De skal også have dit CPR-nummer, så vær opmærksom på, at det ikke er sikkert at sende over e-mail.
+Du kan [melde dig ud af Folkekirken](https://www.borger.dk/samfund-og-rettigheder/Medlemskab-af-folkekirken) på [forskellige måder](https://www.folkekirken.dk/om-folkekirken/medlemskab).
 
-Jeg undersøgte forskellige mulighed for at melde mig ud af Folkekirken, og her er dem jeg fandt:
+Jeg undersøgte forskellige elektroniske muligheder for at melde mig ud af Folkekirken, og her er dem jeg fandt:
 
-- **[Ateistisk Selskabs udmeldelse af Folkekirken](https://udmeldelsefolkekirken.dk/). Her kan du **gratis** melde dig ud af Folkekirken. Her taster du dit CPR-nummer ind, og der sendes en e-mail til kirkekontoret i dit sogn. De tager forbehold for, at dine private data ikke afleveres sikkert, da sognene ikke er i stand til at modtage e-mails sikkert.
-- **[Afmeldkirkeskat\*](/go/afmeldkirkeskat/)**. Her bruger du dit NemID og betaler 189 kroner for let at blive udmeldt af Folkekirken.
-- **Manuel**. Du kan også selv skrive eller køre ned på kirkekontoret i dit sogn for at melde dig ud.
+- **Skriv en e-mail til kirkekontoret**. Skriv en e-mail til dit lokale Kirkekontor med de nødvendige oplysninger.
+- **[Ateistisk Selskabs udmeldelse af Folkekirken](https://udmeldelsefolkekirken.dk/)**. Her kan du **gratis** melde dig ud af Folkekirken. Du taster dit CPR-nummer ind i deres formular, og der sendes en e-mail til kirkekontoret i dit sogn. Ateistisk Selskab tager forbehold for, at dine private data muligvis ikke afleveres sikkert, da sognene ikke er i stand til at modtage e-mails sikkert.
+- **[Afmeldkirkeskat\*](/go/afmeldkirkeskat/)**. Her bruger du dit NemID, så det er i teorien mere sikkert end formularen fra Ateistisk Selskab. Du betaler til gengæld også 189 kroner for servicen. Deres giver dig til gengæld en fin udregning over konsekvenserne.
 
-[Slip for kirkeskatten*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning}
+Jeg anbefaler klart, at du _vælger en af de første to måder at melde dig ud af Folkekirken på_, da de er gratis.
+
+Jeg skrev selv en **e-mail** med mit fulde navn, min fødeby og min fødselsdato. Kirkekontoret svarede tilbage allerede næste dag med en liste over konsekvensterne og spurgte om jeg var sikker? Jeg bekræftede, og så var jeg udmeldt af Folkekirken. Det kan være, at processen er anderledes i dit sogn.
+
+[Slip for kirkeskatten for 189 kroner*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning}
 
 ***
 
