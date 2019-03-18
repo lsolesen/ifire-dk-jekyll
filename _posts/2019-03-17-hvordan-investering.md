@@ -36,7 +36,7 @@ Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
 | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          |
-| [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)  | 0,58% | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |                                          | 49,74          |
+| [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)  | 0,58% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |
 | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          |
 | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,85% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          |
 | [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          |                |
@@ -93,8 +93,6 @@ Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verd
 Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/me/portfolios/343009/positions).
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
-
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
 
