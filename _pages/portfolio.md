@@ -59,6 +59,8 @@ Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/)
 
 Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er ikke en del af min strategi at investere i mine egne ejendomme.
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=683129836&amp;format=image"></iframe>
+
 ## Opsparing
 
 For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan have kontanter stående og få lidt rente (_cash back_). Mange sparer op i guld og sølv, men det ser jeg ikke mig selv gå i gang med. Andre sparer op i cryptovalutaer, og det kunne jeg godt se mig selv gå i gang med.
