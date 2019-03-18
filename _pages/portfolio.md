@@ -19,6 +19,8 @@ Jeg er ved at udarbejde en strategi for mine investeringer. Du kan følge med i 
 
 ### Investeringer i værdipapirer - aktier og obligationer
 
+<iframe width="600" height="427" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=858965065&amp;format=image"></iframe>
+
 Jeg får snart overført et større værdipapirdepot til [Nordnet](/go/nordnet/), og når de papirer ankommer vil jeg lave en strategi for, hvordan min samlede investering i værdipapirer skal se ud.
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
@@ -66,5 +68,9 @@ For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan
 Jeg har en indlånskonto hos [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000, jeg har stående på kontoen. 
 
 [Opret en konto hos LunarWay og få 50 DKK*](/go/lunarway/){: .btn .btn--large .btn--success}
+
+## Opsparingsrate
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1351454595&amp;format=image"></iframe>
 
 {% include disclaimer.md %}
