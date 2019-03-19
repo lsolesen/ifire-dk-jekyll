@@ -9,4 +9,4 @@ tags:
 excerpt: "Housers giver dig mulighed for at investere både i ejendom, men også ejendomsudviklingsprojekter. Housers opererer i Spanien, Italien og Portugal."
 ---
 
-[Housers](/go/housers/){: .btn .btn--large .btn--warning}
+[Housers*](/go/housers/){: .btn .btn--large .btn--warning}
