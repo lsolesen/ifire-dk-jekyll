@@ -8,7 +8,7 @@ tags:
 excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen`?"
 ---
 
-Min nuværende værdipapir-portefølje er sammensat af min bank, og den ser sådan her ud. Jeg har lige overflyttet den til [Nordnet](/go/nordnet/), men jeg skal have fundet ud af, hvordan den skal udvikle sig.
+Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsplejeprodukt_, og den ser sådan her ud.
 
 - **Bibeholde samme portefølje**. Først må jeg analysere den nuværende portefølje for at se, om den skal bibeholdes. Her vil jeg først og fremmest kigge på de årlige omkostninger i procent (ÅOP), da det formentlig betyder alleremest for en langsigtet investering.
 - **Skifte værdipapirerne i porteføljen**. Hvis jeg finder bedre alternativer ift. ÅOP, så skal jeg have kigget på, hvilke alternativer jeg ser til den nuværende investering.
@@ -25,6 +25,18 @@ Min nuværende værdipapir-portefølje er sammensat af min bank, og den ser såd
 | [BankInvest Virksomhedsobligationer IG W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z252) | 0,79% | 10%       |
 
 Min samlede portefølje har altså være med 37% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men min strategi fremover vil være tættere på 80-90% aktier og 10-20% obligationer.
+
+Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. Men depotet kan ikke overføres - og det får jeg en grundig forklaring på af min bank:
+
+> Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter. 
+
+Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden børsmægler efter mit valg.
+
+> Investeringsforeningerne har derfor i mange tilfælde delt deres afdelinger op i to fondskoder. Der er Clean Funds (som banken har investeret i, da de ikke modtager provision på den). Det betyder, at Clean Funds afdleinger har et lavere ÅOP og dermed også giver et højere afkast før omkostninger til banken.
+>
+> Køber man selv f.eks. BankInvest- og Valueinvestafdelinger via et åbent depot, køber man deres Dirty Funds-afdelinger, hvor vi (bankerne) modtager provision, så her er afdelingernes ÅOP højere og afkastet lidt lavere. Til gengæld er der så ikke samme omkostninger til banken, da man selv varetager investeringerne.
+>
+> Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du påtænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
 
 Min første aktion på Nordnet bliver således at sælge ud af mine obligationer og i stedet købe værdipapirer med baggrund i aktier.
 
