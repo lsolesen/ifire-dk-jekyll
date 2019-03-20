@@ -10,4 +10,4 @@ tags:
 excerpt: "Crowdestate opererer primært i Estland og Letland. Platformen giver dig mulighed for at investere i ejendom uden selv at skulle købe hele lejligheder."
 ---
 
-[Crowdestate](/go/crowdestate/){: .btn .btn--large .btn--warning}
+[Crowdestate\*](/go/crowdestate/){: .btn .btn--large .btn--warning}
