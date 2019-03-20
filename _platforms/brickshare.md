@@ -10,4 +10,4 @@ tags:
 excerpt: "Ejendomsinvestering i Danmark."
 ---
 
-[Crowdestate](/go/brickshare/){: .btn .btn--large .btn--info}
+[Brickshare](/go/brickshare/){: .btn .btn--large .btn--info}
