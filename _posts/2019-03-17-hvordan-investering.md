@@ -26,6 +26,8 @@ Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsp
 
 Min samlede portefølje har altså være med 37% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men min strategi fremover vil være tættere på 80-90% aktier og 10-20% obligationer.
 
+**Update**
+
 Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. Men depotet kan ikke overføres - og det får jeg en grundig forklaring på af min bank:
 
 > Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter. 
