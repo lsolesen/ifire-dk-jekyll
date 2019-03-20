@@ -24,7 +24,7 @@ Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsp
 | [BankInvest Lange Danske Obligationer W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z250)  | 0,46% | 29%       |
 | [BankInvest Virksomhedsobligationer IG W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z252) | 0,79% | 10%       |
 
-Min samlede portefølje har altså være med 37% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men min strategi fremover vil være tættere på 80-90% aktier og 10-20% obligationer.
+Min samlede portefølje har altså være med 47% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men min strategi fremover vil være tættere på 80-90% aktier og 10-20% obligationer.
 
 **Update**
 
