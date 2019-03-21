@@ -5,7 +5,7 @@ category:
   - Opsparing
 tags:
   - investering
-excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen`?"
+excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen?"
 ---
 
 Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsplejeprodukt_, og den ser sådan her ud.
