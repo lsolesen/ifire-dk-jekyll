@@ -14,7 +14,7 @@ Måske er det fordi jeg er blevet over 40, og så skal der bare ske noget. Måsk
 - forbruge mindre og
 - investere (klogere)
 
-Selvom det er enkelt, så rejser det alligevel en masse spørgsmål, og her vil jeg beskrive, hvad jeg lærer undervejs?
+Selvom rigdomsformularen er enkel, så rejser det alligevel en række interessante spørgsmål:
 
 - Hvordan skal mine konti være sat op?
 - Hvilke betalingskort giver bedst mening?
@@ -26,7 +26,7 @@ Selvom det er enkelt, så rejser det alligevel en masse spørgsmål, og her vil 
 - Skal jeg have en opsparing - i kontanter, bitcoins og anden cryptovaluta eller i guld og sølv?
 - Hvordan sørger jeg samtidig for, at verden bliver et bedre sted og at mit impact er **bæredygtigt**?
 
-Jeg vil prøve at beskrive min rejse med alle de spørgsmål, jeg selv har stået med i processen, og jeg vil hver måned lave opdateringer om mine valg, mine fejl og min fremgang mod at få taget gode økonomiske valg og finansiel frihed.
+Jeg vil beskrive min rejse med alle de spørgsmål, jeg selv har stået med i processen, og jeg vil hver måned lave opdateringer om mine valg, mine fejl og min fremgang mod at få taget gode økonomiske valg og finansiel frihed.
 
 Jeg håber du vil følge med i min rejse.
 
