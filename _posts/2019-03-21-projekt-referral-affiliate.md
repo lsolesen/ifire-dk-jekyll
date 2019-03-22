@@ -1,5 +1,5 @@
 ---
-title: "Projekt: Skab passiv indkomst på nettet - uden at bruge al min tid?"
+title: "Projekt: At skabe passiv indkomst på nettet - uden at bruge al min tid?"
 category:
   - Indkomst
 tags:
