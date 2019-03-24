@@ -6,8 +6,32 @@ header:
 tags:
   - crowdlending
 excerpt: "Flexfunding er den største danske crowdlending platform, og den platform jeg startede på."
+date: 2019-02-27T20:47:31+08:00
+last_modified_at: 2019-03-24T00:00:00+08:00
 ---
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=615267857&amp;format=image"></iframe>
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-[Flexfunding (DKK)](/go/flexfunding/){: .btn .btn--large .btn--warning}
+**Første investeringsdato**: 27. februar 2017  
+**Totalt indskud**: 57.000 DKK  
+**Totalt trukket ud**: 3.000 DKK
+
+[Flexfunding (DKK)](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
+
+## Investeret og værdi af investering
+
+<iframe width="601.8858029824594" height="371.811460857151" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=834990641&amp;format=image"></iframe>
+
+## Månedlig indkomst
+
+<iframe width="601.8858029824594" height="371.811460857151" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1342350000&amp;format=image"></iframe>
+
+## XIRR
+
+<iframe width="601.8858029824594" height="371.811460857151" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=299196547&amp;format=image"></iframe>
+
+## Transaktioner
+
+<iframe width="601.8858029824594" height="371.811460857151"  seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1619538531&amp;format=image"></iframe>
+
+[Flexfunding (DKK)](/go/flexfunding/){: .btn .btn--large .btn--info}
