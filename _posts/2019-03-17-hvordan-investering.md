@@ -24,9 +24,11 @@ Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsp
 | [BankInvest Lange Danske Obligationer W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z250)  | 0,46% | 29%       |
 | [BankInvest Virksomhedsobligationer IG W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z252) | 0,79% | 10%       |
 
-Min samlede portefølje har altså være med 47% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men min strategi fremover vil være tættere på 80-90% aktier og 10-20% obligationer.
+Min samlede portefølje har altså være med 47% aktier og 53% obligationer. Jeg har formentlig angivet, at jeg ikke var så risikovillig, men lige nu forventer jeg, at min strategi fremover vil være 80-90% aktier og 10-20% obligationer.
 
-**Update**
+Min første aktion på Nordnet bliver således at sælge ud af mine obligationer og i stedet købe værdipapirer med baggrund i aktier.
+
+**Update: Dirty og clean funds-udfordringen**
 
 Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. Men depotet kan ikke overføres - og det får jeg en grundig forklaring på af min bank:
 
@@ -40,13 +42,11 @@ Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden b�
 >
 > Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du påtænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
 
-Min første aktion på Nordnet bliver således at sælge ud af mine obligationer og i stedet købe værdipapirer med baggrund i aktier.
-
 ## Indeksfonde
 
 Jeg kunne vælge at gå over i nogle danske indeksfonde i stedet. Indekserne investerer efter en passiv strategi, og derfor er de samlede omkostninger lavere. Danske Sparinvest har en række fonde, som ofte bliver fremhævet, hvis man gerne vil investere med lave omkostninger.
 
-Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind i min fremtidige portefølje.
+Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind i min fremtidige portefølje. De er alle udbyttebetalende, hvilket kan være en fordel, når jeg gerne vil have noget passiv indkomst uden at skulle sælge ud af værdipapirerne undervejs (også selvom det samlet over tid vil betyde, at porteføljen yngler mindre, hvis jeg vælger at reinvestere udbyttet, når jeg ikke har brug for det).
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
 | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          |
@@ -66,7 +66,7 @@ Der er dog to ting at være opmærksom på, hvis man vælger ETF'er.
 - **Beskatningen**. ETF'er beskattes anderledes end aktier, selvom Folketinget i januar vedtog en ny lovgivning, der vil gøre, at EFT'er beskattes som aktier fra 2020.
 - **Valutaomkostninger**. ETF'er handles altid i en udenlandsk valuta, og det er der omkostninger ved. Hvis man vælger en dansk børsmægler, så vil man altså løbe ind i de [skjulte omkostninger ved valutaveksling](https://the-international-investor.com/hidden-cost-fx-charges).
 
-Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalgt ud fra omkostningerne. I listen er der lige nu et par stykker, som ikke er akkumulerende, men de har også højere omkostninger. Jeg mangler at finde ud af, hvilke af ETF'erne der er de bedste.
+Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalgt ud fra omkostningerne. De fleste af de valgte ETF'er er akkumulerende, men der er i listen også et par stykker, som er udbyttebetalende. De udbyttebetalende varianter af ETF'erne har imidlertid højere omkostninger. Jeg mangler at finde ud af, hvilke af ETF'erne der er de bedste, og hvordan de kan passe ind i min portefølje.
 
 | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
 | [BlackRock iShares Core MSCI World UCITS ETF (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000IWFQ)     | 0,50% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,28          |
@@ -75,22 +75,22 @@ Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalg
 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)     | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 46,07          |
 | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)      | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          |                |
 
-Den største udfordring jeg har ift. ETF'erne er i øjeblikket muligheden for at gøre investeringen automatiseret.
+Den største udfordring jeg har ift. ETF'erne er i øjeblikket muligheden for at gøre investeringen automatiseret uden at skulle betale for meget i vekselgebyr - eller manuelt sidde og veksle pengene.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
 ## Strategi
 
-Min strategi i forhold til mine aktieinvesteringer er:
+Min strategi i forhold til mine investeringer i værdipapirer er:
 
 - Jeg tænker langsigtet.
 - Jeg vil handle sjældent - og efter strategien køb og behold.
 - Jeg vil sprede min risiko gennem enten investeringsforeninger eller ETF’er.
 - Jeg vil ikke _geare_ min investering - altså låne penge for at investere.
 - Jeg vil som udgangspunkt have 80% af min samlede portefølje i aktier og obligationer.
-- Jeg vil _rebalancere_ halvårligt, så min portefølje er 80-90% aktier og 10-20% obligationer.
+- Jeg vil _rebalancere_ halvårligt, så min værdipapir-portefølje er 80-90% aktier og 10-20% obligationer.
 
-Jeg vil som hovedregel investere i noget, der er lagerbeskattet efter aktieindkomstreglerne. Det betyder **ikke**-akkumulerede indexer.
+Jeg vil som hovedregel investere i noget, der er lagerbeskattet efter aktieindkomstreglerne. Det betyder udbyttebetalende (og **ikke**-akkumulerende indexer).
 
 ## Fremtidige investeringer
 
@@ -101,6 +101,12 @@ Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verd
 ### Automatisering af investering
 
  Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets](/go/nordnet/) månedsopsparing. Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
+
+### Aktiesparekonto, månedopsparing og større værdidepot
+
+Jeg har på [SaxoInvestor*](/go/saxoinvestor/) oprettet en **aktiesparekonto**, og jeg har på [Nordnet](/go/nordnet/) en månedsopsparing. Det giver basis for lidt forskellige strategier for de forskellige placeringer.
+
+Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
 ### Beslutning ift. fremtidige investeringer 
 
