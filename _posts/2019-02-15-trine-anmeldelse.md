@@ -18,13 +18,13 @@ Det er altid en god ide at sprede risikoen, så jeg har smidt mine investeringer
 
 ## Afkast og renter og en bedre verden
 
-I forhold til mange af de andre crowdfunding platforme, så er den forventede rente på lånene ikke ret høje. Til gengæld er man med til at sørge for nedsættelse af CO2 og skaffe elektricitet til flere mennesker i Afrika samtidig med, at man også får en fortjeneste. Mit nuværende lån har en intern rente på omkring 1%, hvilket naturligvis gør, at platformen ikke alene kan få din økonomi til at vokse.
+I forhold til mange af de andre crowdfunding platforme, så er den forventede rente på lånene ikke ret høje. Til gengæld er man med til at sørge for nedsættelse af CO2 og skaffe elektricitet til flere mennesker i Afrika samtidig med, at man også får en fortjeneste. Mit nuværende lån har en intern rente på omkring 3,5%, hvilket naturligvis gør, at platformen ikke alene kan få økonomien til at vokse væsentligt.
 
 ## Antallet af projekter
 
 På platformen er der ikke så mange projekter at støtte i den måned (februar 2019), jeg har investeret i platformen. Det betyder, at jeg ikke har kunnet sprede min risiko så meget fra starten. 
 
-**Update:** Her i starten af marts er der kommet nye projekter, og hvis du investerer for 1000 EUR på et projekt, så får du 2% ekstra af det Trine får tilbage fra lånemodtageren. Renterne på det projekter, jeg har kigget på her i marts lå mellem 5% til 10%.
+**Update:** Her i starten af marts er der kommet nye projekter, og hvis du investerer for 1000 EUR på et projekt, så får du 2% ekstra af det beløb Trine får tilbage fra lånemodtageren. Renterne på det projekter, jeg har kigget på her i marts, er fra 5% til 10%.
 
 [Lav bæredygtige investeringer på Trine*](/go/trine/){: .btn .btn--large .btn--success}
 
