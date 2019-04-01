@@ -52,7 +52,7 @@ Så den store fordel ved at have en opsparing i guld er altså, at det holder pr
 
 ## Hvilken valuta skal jeg købe guldet i?
 
-På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? - har det nogen betydning? Brug meget gerne kommentarerne, hvis du ved mere om det?
+På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? Det betyder i realiteten ikke så meget, da det varierer med få procent mellem de enkelte valutaer. I virkeligheden betyder det nok mest, hvornår du veksler over i den valuta, du er interesseret i at købe guld i. Jeg bruger selv [Revolut*](/go/revolut/), hvor du kan veksle gratis.
 
 [Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--info}
 
