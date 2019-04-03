@@ -67,6 +67,7 @@ Det har jeg suppleret med [Housers\*](/go/housers/), [Crowdestate\*](/go/crowdes
 Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investeringer i _crowd lending_-platformene lige nu. I mine overvejelser om, hvordan jeg nøjagtigt skal skrue det hele sammen i fremtiden, så kommer det til at betyde noget, hvilket land platformen er placeret i, hvor mange låneudbydere der er på platformen, og om der er mulighed for at autoinvestere midlerne. Desuden kommer det også til at betyde noget, hvor meget det er muligt at sprede sig ud på forskellige lån på platformen.
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
+|------------------------------------------------|--------------|------|----------|
 | [Flexfunding (DKK)*](/go/flexfunding/)         | En           | Nej  | 17       |   
 | [Kameo (DKK)*](/go/kameo/)                     | To           | Ja   | 4        |
 | [Mintos (DKK)*](/go/mintos/)                   | Flere        | Ja   | 53       |
