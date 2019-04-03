@@ -105,7 +105,7 @@ Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontan
 
 ### Guld og sølv
 
-Min interesse for at sætte noget af min opsparing i guld og sølv er blevet fornyet, fordi jeg er stødt på [BullionVault*](/go/bullionvault/), hvor man både kan købe guld, men også få det opbevaret til meget rimelige priser. Når man opretter sig via [mit link*](/go/bullionvault/) får du endda 4 gram sølv og lidt _cash_ svarende til 5 EUR.
+Min interesse for at sætte noget af min opsparing i guld og sølv er blevet fornyet, fordi jeg er stødt på [BullionVault\*](/go/bullionvault/), hvor man både kan købe guld, men også få det opbevaret til meget rimelige priser. Når man opretter sig via [mit link\*](/go/bullionvault/) får du endda 4 gram sølv og lidt _cash_ svarende til 5 EUR.
 
 [Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--warning}
 
