@@ -25,19 +25,35 @@ Jeg er ved at udarbejde en decideret strategi for min investering. Lige nu har j
 
 #### Nordnet og månedsopsparing
 
-Jeg vil have et værdipapirdepot hos [Nordnet](/go/nordnet/), som skal sættes i månedsopsparingen.
+Jeg har to værdipapirdepoter hos [Nordnet](/go/nordnet/), som begge er sat i månedsopsparingen, hvor man handler kurtagefrit.
+
+#### Nordnet #1: Primært investering i danske passive fonde
+
+Denne portefølje er dedikeret til primært danske, passive fonde.
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se min side på Shareville](https://shareville.dk/me/portfolios/343009/positions){: .btn .btn--large .btn--success}
+[Se portefølje #1 på Shareville](https://shareville.dk/me/portfolios/343009/positions){: .btn .btn--large .btn--success}
+
+#### Nordnet #2: Investering i udenlandske, passive fonde
+
+Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor.com) og forsøger at have en ligelige fordeling mellem aktier, obligationer, guld og REIT. Her investerer jeg i EUR og USD.
+
+<iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+<iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+[Se portefølje #2 på Shareville](https://shareville.dk/me/portfolios/349933/positions){: .btn .btn--large .btn--success}
 
 #### SaxoInvestor - og aktiesparekonto
 
-Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som endnu ikke er investeret.
+Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som endnu ikke er investeret, og hvor jeg endnu ikke helt har udtænkt, hvad der skal være på kontoen.
 
 #### Kapitalpension
+
+Min kapitalpension har indtil 2019 været investeret i nogle SparNord-aktier og puljer. Fra marts 2019 skal jeg selv investere hele beløbet. Planen er at vælge en passiv, dansk indeksfond, som bare skal få kapitalpensionen til at vokse.
 
 - [SparNord-aktier](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)
 
