@@ -40,6 +40,8 @@ I Revolut veksler du til **interbank rate (CIBOR)**. Det er altså den vekselkur
 
 **HUSK:** Du skal bare huske at gøre det i _banking hours_ (hverdage mellem 8-16) for at få vekslet gratis.
 
+**Update:** Husk at den gratis version af Revolut har en grænse på 40.000 DKK for valutaveksling. Du får **ingen advarsel**, før du rammer - og hvis du går over grænsen, så kommer der gebyr på transaktionen. Derefter får du rigeligt med forslag om at opgradere, men gebyret står fast.
+
 ## Gratis hævning
 
 1500 kroner om måneden kan du hæve gratis med Revolut. Det er kun Bank Norwegians kreditkort, der kommer tæt på, men hvor du så skal betale et vekselgebyr på 1,75%. Så Revolut er virkelig en overvejelse værd, hvis du skal ud at rejse. I forhold til et almindeligt VISA/Dankort, så vil du på de første 1500 kroner spare op til 60 kroner pr. Hævning. Selv hvis du hæver over 1500 kroner, så skal du på begge korttyper betale 2% i hævegebyr, men VISA/Dankort tillægger også 30 kroner i gebyr, som du jo sparer hos Revolut.
