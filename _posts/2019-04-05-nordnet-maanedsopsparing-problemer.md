@@ -43,6 +43,8 @@ Jeg kiggede således hurtigt på min anden store satsning i min portefølje, nem
 | [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786) | 4,00 | 252,19 | 252,19 | EUR |
 | [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430) | 45,00 | 50,49 | 50,52 | EUR |
 
+**Bemærk**: Dagskursen er ikke præcist udregnet, men blot en kurs, som var typisk for den dag.
+
 Heldigvis er det kun [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som blev købt til overpris. DJSI blev heldigvis købt til noget, der minder om dagsprisen.
 
 ## Fremtiden for min månedsopsparing
