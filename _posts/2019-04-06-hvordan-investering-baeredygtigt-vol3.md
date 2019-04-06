@@ -78,7 +78,7 @@ Du kan finde [alle Triodos fonde på Morningstar](http://www.morningstar.dk/dk/f
 
 De årlige omkostninger er relativt høje, der er emmisionstillæg, og Merkur tager også et depotgebyr.  Jeg har spurgt support hos [Nordnet](/go/nordnet/), og selvom Triodos ikke kan handles online, så kan de handles gennem en børsmægler på Nordnet. Hos [Svaneshoppen](https://www.svaneshoppen.dk/guide-til-baeredygtige-investeringer) kan du blive yderligere inspireret til bæredygtige investeringer.
 
-### Parvest - hos Danske bank, Nordea og SDG
+### Parvest (Danske bank), Nordea Klima og Miljø og SDG Invest
 
 Danske Bank har også en side om [impact fonde](https://danskebank.dk/privat/produkter/investering/impactfonde). De har valgt Parvest som samarbejdspartner, og de har to fonde, hvor navnet rummer deres formål, nemlig [Parvest Aqua](https://danskebank.dk/-/media/pdf/danske-bank/dk/parvest-aqua_dk-.-la=da.pdf) og [Parvest Climate Impact](https://danskebank.dk/-/media/pdf/danske-bank/dk/parvest-climateimpact_dk-.-la=da.pdf).
 
