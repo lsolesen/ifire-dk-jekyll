@@ -130,7 +130,9 @@ I første omgang vil jeg lade [Sparinvest INDEX DJSI World KL](http://www.mornin
 
 ## Investér bæredygtigt i enkeltaktier
 
-Hvis du gerne vil _trade_ lidt mere og selv lave et alsidigt, etisk og bæredygtigt portfolio, så kan du selv gå i gang med at vælge aktier og obligationer. 
+Hvis du gerne vil _trade_ lidt mere og selv lave et alsidigt, etisk og bæredygtigt portfolio, så kan du selv gå i gang med at vælge aktier og obligationer.
+
+Du kan selvfølgelig vælge at investere [Chr. Hansen Holding](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000TB4A&LanguageId=da-DK&SecurityToken=0P0000TB4A]3]0]E0WWE$$ALL) som lige er blevet kåret til **verdens mest bæredygtige virksomhed** ([skriver de selv](https://www.chr-hansen.com/en/media/2019/1/chr-hansen-kret-som-verdens-mest-bredygtige-virksomhed)).
 
 Hvis du gerne vil sætte et bæredygtigt aftryk, kan du lade dig inspirere af [AltEnergy Stocks](http://www.altenergystocks.com/archives/category/stock-list/), eller du kan dykke ned i, hvad de ovenstående investeringsforeninger, -fonde og ETF'er har købt i deres porteføljer. Der er i hvert fald masser af mulighed for investere bæredygtigt og have _impact_.
 
