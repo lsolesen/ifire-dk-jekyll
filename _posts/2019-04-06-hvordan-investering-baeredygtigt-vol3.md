@@ -2,7 +2,7 @@
 title: "Videre med bæredygtige aktier og obligationer #3?"
 permalink: /investering-vol3/
 category:
-  - Opsparing
+  - Investering
 tags:
   - investering
   - aktier
