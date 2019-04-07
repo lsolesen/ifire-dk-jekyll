@@ -142,8 +142,13 @@ Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men
 
 Jeg har også købt nogle træer gennem [Better Globe](/go/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte.
 
-Du kan også lade dig inspirere lidt af [Podcast #13 om Bæredygtig investering med Sanne Fehmerling Kristiansen fra Mininvestering.dk](https://mininvestering.dk/podcast/).
-
 [Få 10 EUR til at investere i solenergi på Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
+
+## Yderligere inspiration om bæredygtighed
+
+- [Millionærklubben snakker om Bæredygtighed - fup eller fakta?](https://www.24syv.dk/programmer/millionaerklubben/50047157/baeredygtighed-fup-eller-fakta)
+- Du kan også lade dig inspirere lidt af [Podcast #13 om Bæredygtig investering med Sanne Fehmerling Kristiansen fra Mininvestering.dk](https://mininvestering.dk/podcast/).
+
+Hvad er du inspireret af, når det handler om ansvarlige, etiske, bæredygtige og _impact_-investeringer?
 
 {% include disclaimer.md %}
