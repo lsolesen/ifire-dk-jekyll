@@ -1,6 +1,7 @@
 ---
 title: "Børneopsparing - hvad skal jeg gøre?"
 permalink: /borneopsparing/
+last_modified_at: 2019-04-07T09:51:02+02:00
 category:
   - Opsparing
 tags:
@@ -47,6 +48,7 @@ De seneste år er der kommet nye måder frem, hvor du kan lave en børneopsparin
 Her kan du se en hurtig oversigt over investeringstyper.
 
 | Investeringstype | Fordele | Ulemper | Afkast |
+|------------------|---------|---------|--------|
 | Almindelige bankrenter | Meget sikkert | Lille afkast som kan spises af inflationen | 0-2% |
 | Obligationer | Lav risiko og traditionelt højere afkast end bankrenter | Det kræver mere arbejde og du skal have penge stående først | 0,5-3% |
 | Aktier | Gennemsnitligt højere afkast end bankrenter og obligationer | Mere tidskrævende og større risiko, som kan minimeres med investeringsforeninger eller ETF’er | 5-8% om året (risiko for udsving) |
@@ -91,5 +93,9 @@ Lige nu hælder jeg til at vente på [Tobi.dk](/go/tobi/) bliver klar en gang ef
 Hvordan håndterer du din børneopsparing - og er der noget, jeg har overset?
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+
+## Mere inspiration
+
+- [Millionærklubben: Investering til børn og unge](https://www.24syv.dk/programmer/millionaerklubben/49832536/investering-til-born-og-unge)
 
 {% include disclaimer.md %}
