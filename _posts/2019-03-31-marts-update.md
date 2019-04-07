@@ -17,6 +17,7 @@ Desuden satte jeg gang i et projekt med at [skabe lidt passiv indkomst](/indkoms
 Lige nu er min samlede fordeling:
 
 | Type                        | Start | Fordeling | XIRR  |
+|-----------------------------|-------|-----------|-------|
 | Investering i værdipapirer  | 2019  | 8,09%     | 2,80% |
 | Crowd lending               | 2017  | 11,50%    | 5,53% |
 | Ejendomsinvestering         | 2018  | 1,63%     | 0%    |
@@ -32,6 +33,7 @@ Efter at have regnet på hvad jeg fik ud af mine investeringer i aktier og oblig
 Følgende er altså **blevet solgt**.
 
 | Værdipapir                                                                                                         | ÅOP   | Fordeling |
+|--------------------------------------------------------------------------------------------------------------------|-------|----------|
 | [BankInvest Danske Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24P)              | 1,27% | 11%       |
 | [BankInvest Europa Small Cap Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24R)    | 1,65% | 5%        |
 | [ValueInvest Global W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z4AC)                    | 1,16% | 5%        |
@@ -100,7 +102,7 @@ I den forbindelse stødte jeg også på [COOPs crowdfunding projekter](https://c
 
 ## Opsparing og kontant
 
-Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegianbank/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
+Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
 
 [Opret LunarWay og få 50DKK*](/go/lunarway/){: .btn .btn--large .btn--info}
 
