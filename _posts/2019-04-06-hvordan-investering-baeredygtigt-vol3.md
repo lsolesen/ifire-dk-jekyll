@@ -148,7 +148,7 @@ Jeg har også købt nogle træer gennem [Better Globe](/go/betterglobe/), hvilke
 
 - [Millionærklubben: Bæredygtighed - fup eller fakta?](https://www.24syv.dk/programmer/millionaerklubben/50047157/baeredygtighed-fup-eller-fakta)
 - [Millionærklubben: Millennials vil ha’ bæredygtige investeringer](https://www.24syv.dk/programmer/millionaerklubben/44290969/millennials-vil-ha-baeredygtige)
-- [Millionærklubben: Grøn er det nye guld]https://www.24syv.dk/programmer/millionaerklubben/43794475/gron-er-det-nye-guld)
+- [Millionærklubben: Grøn er det nye guld](https://www.24syv.dk/programmer/millionaerklubben/43794475/gron-er-det-nye-guld)
 - Du kan også lade dig inspirere lidt af [Podcast #13 om Bæredygtig investering med Sanne Fehmerling Kristiansen fra Mininvestering.dk](https://mininvestering.dk/podcast/).
 
 Hvad er du inspireret af, når det handler om ansvarlige, etiske, bæredygtige og _impact_-investeringer?
