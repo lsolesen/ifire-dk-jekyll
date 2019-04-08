@@ -42,13 +42,14 @@ Lige nu ser min investeringsportefølje sådan her ud. Jeg blev rådgivet af ban
 I nedenstående tabel har jeg listet typen, fordelingen og den interne rente (XIRR) - altså hvor meget investeringen er vokset siden begyndelsen.
 
 | Type               | Start | Fordeling | XIRR   |
+|--------------------|-------|-----------|--------|
 | Investering i Bank | 2013  | 94,8%     | 2,57%  |
 | Flexfunding        | 2017  | 3,8%      | 4,61%  |
 | Kapitalpension     | 2001  | 1,4%      | -2,71% |
 
-Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstillende intern rente, siden etableringen i 2013. På fem år er investeringen her altså kun vokset med 2,57%, hvilket jeg helt sikkert skal gøre noget ved, da der står et stort beløb. 
+Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstillende intern rente (XIRR) siden etableringen i 2013. På fem år har investeringen kun haft en intern rente på 2,57%. Der står et stort beløb, som jeg helt sikkert gerne vil se yngle mere.
 
-**Kapitalpensionen** har haft en negativ rente siden etableringen i 2001, og der bliver heller ikke tilført flere midler hertil. Banken skrev dog, om penge fra udbytter skulle reinvesteres, så jeg skal lige have fundet ud af, om udbyttebeløbet skal tælles med, for så vil den interne rente være lidt anderledes. Kapitalpensionen består kun af aktier i mit pengeinstitut, og jeg skal have fundet ud af, hvordan jeg kommer videre med denne investering.
+**Kapitalpensionen** har haft en negativ rente siden etableringen i 2001, og der bliver heller ikke tilført flere midler hertil. Banken skrev dog for nylig, om penge fra udbytter skulle reinvesteres. Jeg skal derfor have fundet ud af, om udbyttebeløbet skal tælles med, for så er den interne rente naturligvis lidt højere. Kapitalpensionen består kun af aktier i mit pengeinstitut, og jeg skal have fundet ud af, hvordan jeg kommer videre med denne investering. Kapitalpensionen var også investeret i bankens puljer.
 
 **Flexfunding** har givet en fornuftig intern rente i perioden, og jeg vil helt sikkert afsøge mulighederne inden for _crowd lending_ yderligere og gøre det til en lidt større del af min portefølje.
 
