@@ -8,7 +8,7 @@ tags:
   - aktier
   - obligationer
   - bæredygtighed
-excerpt: "Jeg satser primært på passive investeringsforeninger og ETF’er i min værdipapir-portefølje. Hvilke bæredygtige muligheder er der?."
+excerpt: "Jeg satser primært på passive investeringsforeninger og ETF’er i min værdipapir-portefølje. Hvilke bæredygtige muligheder er der?"
 ---
 
 Nu har jeg efterhånden fået gang i min portefølje med aktier og obligationer - og derfor vil jeg kigge lidt på, hvordan jeg kan **påvirke verden med mine penge gennem bæredygtige og klimabevidste investeringer**. Jeg satser primært på passive investeringsforeninger og ETF’er i mine egne investeringer, men fortæller også her lidt om aktive investeringsforeninger.

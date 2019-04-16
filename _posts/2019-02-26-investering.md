@@ -1,5 +1,5 @@
 ---
-title: "Hvordan skal jeg investere i aktier og obligationer?"
+title: "Hvordan skal jeg investere i aktier og obligationer? #1"
 permalink: /investering/
 category:
   - Opsparing
