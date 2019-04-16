@@ -55,7 +55,7 @@ Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgræns
 
 ## Portefølje 2: Nordnet: Growth Portfolio EUR + USD (BlackRock + REIT)
 
-Denne portefølje er kraftigt inspireret af [obviousinvestor.com](http://obviousinvestor.com) og [Frinans.dk]. De fire fonde fra _BlackRock_ kan købes i månedsopsparingen, mens de tre REIT skal købes manuelt. De tre aktie-ETF’er er akkumulerende så hensigten er bare at bygge værdien op med lavest mulige omkostninger. Resten af værdierne i denne portefølje er udbyttebetalende, som blot bliver reinvesteret gennem månedsopsparingen og manuelle opkøb af REIT, når det er ved at være tid til at rebalancere porteføljen.
+Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg har udeladt guld, fordi jeg ikke helt forstår mig på det - og ikke har fundet en rigtig god ETF, jeg kan supplere porteføljen med. Jeg vil samtidig gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår de fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP). De tre REIT skal købes manuelt. De tre aktie-ETF’er er akkumulerende, så hensigten er bare at bygge værdien op med lavest mulige omkostninger. Resten af værdipapirerne i denne portefølje er udbyttebetalende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb af REIT, når det er ved at være tid til at rebalancere porteføljen.  
 
 | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
@@ -81,18 +81,6 @@ Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigti
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at der er frie midler nok til at svare skatten af ETF’erne.
 
-## Portefølje 3: Nordnet: Bæredygtig portfolio EUR
-
-Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværre er det kun xTrackers der kan købes på månedsopsparingen, så skal lige have fundet en god måde at købe ETF’erne på, da omkostningerne også er lidt højere en sædvanligt med ETF’er.
-
-| Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
-| [Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000U9KU)             | 0,65% |                                          |                                          |           |
-| [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |           |
-| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |           |
-| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |           |
-| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |           |
-
 ## Portefølje 4: SaxoInvestor: Aktiesparekonto
 
 På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med det. Beløbet er relativt lavt og kurtagen på SaxoInvestor er lav uanset, hvor meget man køber.
@@ -110,6 +98,18 @@ Når kapitalpensionen beskattes med pensionsafkastskat (PAL-skat) på 15,3%. Kap
 ## Portefølje 6: SparNord: Børneopsparing
 
 På mine børneopsparinger vil jeg købe en bæredygtig fond, der stille og roligt bare skal blive flere penge værd.
+
+## Portefølje 7: Nordnet: Bæredygtig portfolio EUR
+
+Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværre er det kun xTrackers der kan købes på månedsopsparingen, så skal lige have fundet en god måde at købe ETF’erne på, da omkostningerne også er lidt højere en sædvanligt med ETF’er.
+
+| Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
+| [Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000U9KU)             | 0,65% |                                          |                                          |           |
+| [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |           |
+| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |           |
+| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |           |
+| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |           |
 
 ## Næste trin
 
