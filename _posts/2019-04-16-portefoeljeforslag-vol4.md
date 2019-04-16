@@ -87,7 +87,7 @@ På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med
 
 Der må indbetales op til 50.000 DKK i 2019 på aktiesparekontoen. Hvert år stiger beløbet gradvist med 50.000 kroner, så der i 2022 må indbetales 200.000 kroner.
 
-Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab.
+Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere om [Aktiesparekontoen](http://aktiesparekonto.dk/).
 
 ## Portefølje 5: SparNord: Kapitalpension
 
