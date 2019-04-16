@@ -14,6 +14,7 @@ Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsp
 - **Skifte værdipapirerne i porteføljen**. Hvis jeg finder bedre alternativer ift. ÅOP, så skal jeg have kigget på, hvilke alternativer jeg ser til den nuværende investering.
 
 | Værdipapir                                                                                                         | ÅOP   | Fordeling |
+|--------------------------------------------------------------------------------------------------------------------|-------|-----------|
 | [BankInvest Danske Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24P)              | 1,27% | 11%       |
 | [BankInvest Europa Small Cap Aktier W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z24R)    | 1,65% | 5%        |
 | [ValueInvest Global W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000Z4AC)                    | 1,16% | 5%        |
@@ -49,6 +50,7 @@ Jeg kunne vælge at gå over i nogle danske indeksfonde i stedet. Indekserne inv
 Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind i min fremtidige portefølje. De er alle udbyttebetalende, hvilket kan være en fordel, når jeg gerne vil have noget passiv indkomst uden at skulle sælge ud af værdipapirerne undervejs (også selvom det samlet over tid vil betyde, at porteføljen yngler mindre, hvis jeg vælger at reinvestere udbyttet, når jeg ikke har brug for det).
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
+|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
 | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          |
 | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)  | 0,58% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |
 | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          |
@@ -69,6 +71,7 @@ Der er dog to ting at være opmærksom på, hvis man vælger ETF'er.
 Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalgt ud fra omkostningerne. De fleste af de valgte ETF'er er akkumulerende, men der er i listen også et par stykker, som er udbyttebetalende. De udbyttebetalende varianter af ETF'erne har imidlertid højere omkostninger. Jeg mangler at finde ud af, hvilke af ETF'erne der er de bedste, og hvordan de kan passe ind i min portefølje.
 
 | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
+|---------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
 | [BlackRock iShares Core MSCI World UCITS ETF (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000IWFQ)     | 0,50% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,28          |
 | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)  | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,29          |
 | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM) | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 44,49          |
