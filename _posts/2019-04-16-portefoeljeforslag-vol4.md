@@ -111,6 +111,10 @@ Når kapitalpensionen beskattes med pensionsafkastskat (PAL-skat) på 15,3%. Kap
 
 På mine børneopsparinger vil jeg købe en bæredygtig fond, der stille og roligt bare skal blive flere penge værd.
 
+## Næste trin
+
+Nu lader jeg altså bare Nordnets månedsopsparing arbejde for mig - og jeg håber snart at korrektionen på markedet kommer, så jeg kan komme yderligere ind i markedet igen.
+
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 
 {% include disclaimer.md %}
