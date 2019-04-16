@@ -1,6 +1,7 @@
 ---
 title: "Spar penge på mobilabonnementet"
 permalink: /mobilabonnement/
+last_modified_at: 2019-04-06T22:39:43+02:00
 category:
   - Spare penge
 tags:
@@ -39,6 +40,10 @@ Hvis du foretrækker at købe en mobil og bare bruge dit eksisterende abonnement
 Du kan også søge på [pricebutler.dk*](/go/pa/pricebutler) for at sammenligne priser mellem selskaberne. Der er garanteret også mange andre måder at gøre det på, som du gerne må dele i kommentarerne.
 
 ## Har du sparet på din mobilregning?`
+
+Jeg fandt ud af, at jeg allerede havde et særdeles konkurrencedygtigt abonnement, men jeg vil tjekke det igen om et år.
+
+**Update**: Jeg har fundet et abonnement, som koster det samme som mit nuværende abonnement hos [Callme](http://www.callme.dk). Jeg vil gerne være mere bæredygtigt, og derfor appellerer [Greenspeak](http://www.greenspeak.dk) til mig. De donerer nemlig 2/3 af deres overskud til projekter, som kunderne bestemmer. Jeg kan få et abonnement til samme pris - og skal bare undvære EU-data. Det overvejer jeg meget kraftigt at skrifte til.
 
 Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene eller anden måde, så alle andre kan blive inspireret.
 

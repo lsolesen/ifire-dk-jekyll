@@ -2,8 +2,6 @@
 layout: single
 title: "Deals, affiliate og referrallinks på iFire"
 permalink: /deals/
-tags:
-  - deals
 excerpt: "Her er nogle af de bedste deals."
 author_profile: true
 toc: true

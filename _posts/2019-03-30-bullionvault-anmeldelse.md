@@ -1,6 +1,7 @@
 ---
 title: "BullionVault - køb ægte ædelmetaller til rimelige priser og få dem opbevaret sikkert"
 permalink: /bullionvault-anmeldelse/
+last_modified_at: 2019-04-07T10:16:02+02:00
 header:
   overlay_image: /assets/images/bullionvault.jpg
   teaser: /assets/images/logo/bullionvault.png
@@ -63,5 +64,10 @@ Jeg planlægger, at guld skal udgøre en del af min portefølje. Hvor meget har 
 Hvad er din strategi for guld? Og hvorfor har du det i din portefølje - eller hvorfor har du fravalgt det?
 
 [Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--info}
+
+## Mere inspiration
+
+- [Millionærklubben: Guld, olie og robotter](https://www.24syv.dk/programmer/millionaerklubben/19280817/guld-olie-og-robotter)
+- [Millionærklubben: Guld, cannabis og krypto](https://www.24syv.dk/programmer/millionaerklubben/49549306/guld-cannabis-og-krypto)
 
 {% include disclaimer.md %}
