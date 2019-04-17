@@ -22,7 +22,7 @@ Jeg har valgt at bruge [LastPass*](/go/lastpass/). Jeg startede med den gratis v
 
 For at bruge LastPass downloader du en extension til din browser eller en app på din telefon, og så er alle dine passwords let tilgængelige, og appen kan selv indtaste adgangskoderne i formularerne på siderne.
 
-På [Trustpilot](https://dk.trustpilot.com/review/www.lastpass.com) får LastPass meget spredte anmeldelser - primært pga. manglende support til den gratis version. Jeg har ikke oplevet problemer med LastPass, men hvis du forventer at få brug for support, så betal for deres Premium version, som koster 36$ om året. Hvis du [bruger mit link, så får du en måneds gratis Premium abonnement](/go/lastpass/).
+På [Trustpilot](https://dk.trustpilot.com/review/www.lastpass.com) får LastPass meget spredte anmeldelser - primært pga. manglende support til den gratis version. Jeg har ikke oplevet problemer med LastPass, men hvis du forventer at få brug for support, så betal for deres Premium version, som koster 36$ om året. Hvis du [bruger mit link, så får du en måneds gratis Premium abonnement*](/go/lastpass/).
 
 [Få LastPass med en måneds gratis Premium\*](/go/lastpass/){: .btn .btn--large .btn--danger}
 
