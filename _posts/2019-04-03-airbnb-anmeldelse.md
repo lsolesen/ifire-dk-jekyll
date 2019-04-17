@@ -1,7 +1,7 @@
 ---
 title: "Brug Airbnb og spar penge på at rejse
 "
-permalink: /bullionvault-anmeldelse/
+permalink: /airbnb-anmeldelse/
 header:
   overlay_image: /assets/images/airbnb.jpg
   teaser: /assets/images/logo/airbnb.png
