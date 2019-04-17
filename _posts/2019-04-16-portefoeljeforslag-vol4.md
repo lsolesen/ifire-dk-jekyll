@@ -79,6 +79,8 @@ Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigti
 | [Vanguard High Dividend Yield ETF (VYM) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00006A9F) | 0,06% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 30%       |
 | [Vanguard Real Estate ETF (VNQ) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DCS)         | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
 
+**UPDATE**: De oprindeligt valgte ETF'er er ikke **UCITS** godkendte, og derfor overvejer jeg lige nu om _Vanguard_ kan være en del af porteføljen.
+
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at der er frie midler nok til at svare skatten af ETF’erne.
 
 ## Portefølje 4: SaxoInvestor: Aktiesparekonto
