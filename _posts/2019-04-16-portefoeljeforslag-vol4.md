@@ -87,9 +87,9 @@ ETF’er beskattes efter lagerprincippet, og der skal således betales skat af g
 
 På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med det. Beløbet er relativt lavt og kurtagen på SaxoInvestor er lav uanset, hvor meget man køber.
 
-Der må indbetales op til 50.000 DKK årligt på aktiesparekontoen. Det betyder altså, at hvis værdien af kontoen er øget til fx 60.000 DKK næste år, så må jeg kun sætte 40.000 kroner ind.
+Der må indbetales op til 50.000 DKK i 2019 på aktiesparekontoen. Hvert år stiger beløbet gradvist med 50.000 kroner, så der i 2022 må indbetales 200.000 kroner.
 
-Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab.
+Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere om [Aktiesparekontoen](http://aktiesparekonto.dk/).
 
 ## Portefølje 5: SparNord: Kapitalpension
 
