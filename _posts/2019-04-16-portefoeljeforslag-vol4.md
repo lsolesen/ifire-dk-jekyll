@@ -1,5 +1,6 @@
 ---
 title: "Porteføljeforslag med aktier og obligationer #4?"
+last_modified_at: 2019-04-17T09:48:02+02:00
 permalink: /investering-vol4/
 category:
   - Investering
@@ -18,7 +19,7 @@ Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummule
 
 Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet](/go/nordnet/) gennem månedsopsparingen. I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
-Månedsopsparingen tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. Vanguard er imidlertid i USD, så der er også en valutarisiko, men det giver også en valutaspredning, og da investeringen er spredt bliver jeg ikke tvunget til at sælge porteføljen på et bestemt tidspunkt. 
+Månedsopsparingen tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. 
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 
@@ -72,6 +73,8 @@ ETF’er beskattes efter lagerprincippet, og der skal således betales skat af g
 ## Portefølje 3: Nordnet: Growth Portfolio USD (Vanguard)
 
 Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigtig interessant med utrolig lave omkostninger. VTI er eksponeret mod hele verden, mens jeg har valgt VYM og VNQ som er eksponeret mod USA. Når jeg køber ind til porteføljen på Nordnet, skal jeg sørge for at købe ind i store nok portioner, så kurtagen bliver mindst mulig. De er alle udbyttebetalende, og udbytterne vil i første omgang bare blive geninvesteret manuelt.
+
+De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt. 
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
 |-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
