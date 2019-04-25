@@ -1,6 +1,6 @@
 ---
 title: "Porteføljeforslag med aktier og obligationer #4?"
-last_modified_at: 2019-04-24T15:28:02+02:00
+last_modified_at: 2019-04-25T20:20:02+02:00
 permalink: /investering-vol4/
 category:
   - Investering
@@ -54,7 +54,7 @@ Mit primære danske værdipapirdepot skal primært bestå af passive indexfonde 
 
 Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgrænsen på omkring 55.000 DKK, hvorefter skatteprocenten hedder 42%. Da alle fondene her er udbyttebetalende, vil jeg altså skulle betale 27% i skat af udbyttet hvert år indtil bundgrænsen.
 
-## Portefølje 2: Nordnet: Growth Portfolio EUR + USD (BlackRock + REIT)
+## Portefølje 2: Nordnet: Growth Portfolio (aktier, obligationer, REIT og guld)
 
 Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg ved endnu ikke om jeg rent faktisk vil købe guld til min portefølje, men det er tydeligt i _back tests_ fra The Obvious Investor, at det stabiliserer porteføljen. Jeg vil primært gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP). Jeg har valgt de fire aktie-ETF'er, som også er en del af den [gratis investeringsplan fra Nord.investments*](/go/nord/), jeg har fået lavet. The Obvious Investor foreslår tre REIT ([Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB)), men jeg vil hellere dække REIT med en ETF. Jeg har markeret i tabellen nedenunder, hvilke af værdipapirerne, der kan købes i månedsopsparingen hos Nordnet. Denne portefølje er primært akkumulerende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb, når det er ved at være tid til at rebalancere porteføljen. Fordelingen i tabellen er på sigt, når porteføljen er klar til at passe sig selv uden for meget indblanden.
 
@@ -63,15 +63,20 @@ Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obvio
 | EUNL | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)          | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 15%       | *     |
 | IS3N | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM)         | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 5%        | *     |
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)             | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 5%        | *     |
-| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | 5%        | *     |
-| DBXN | [Xtrackers II Eurozone Government Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC)                   | 0,15% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | 10%       |       |
-| D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                         | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 10%       |       |
+| DBXN | [Xtrackers II Eurozone Government Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC)                   | 0,15% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | 10%       | *     |
+| D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                         | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 10%       | *     |
 | XREA | [Xtrackers FTSE Developed Europe ex UK Real Estate UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014B9L) | 0,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 25%       |       |
 | VZLD | [ETFS Physical Gold (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                                             | -     |                                          |                                          | 25%       |       |
 
+Gode alternativer kunne være:
+
+| Tick | Værdipapir                                                                                                                                    | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
+| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | 5%        | *     |
+
 Mit [gratis Investeringsforslag fra Nord*](/go/nord/) foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
 
-ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at jeg har frie midler nok til at svare skatten af ETF’erne.
+ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen individuelle skatteprocent. Det er altså væsentligt at være opmærksom på, at jeg har frie midler nok til at svare skatten af ETF’erne.
 
 ## Portefølje 3: Nordnet: Growth Portfolio USD (Vanguard)
 
