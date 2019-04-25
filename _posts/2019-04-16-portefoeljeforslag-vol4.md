@@ -19,7 +19,10 @@ Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummule
 
 Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet](/go/nordnet/) gennem månedsopsparingen. I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
-Månedsopsparingen tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. 
+Månedsopsparingen fra nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. 
+
+**UPDATE**: Desværre er fondene fra _Vanguard_ med virkelig lave omkostninger ikke **UCITS**-godkendte, så det kan ikke købes på hverken Nordnet eller SaxoInvestor.
+{: .notice--info}
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 
