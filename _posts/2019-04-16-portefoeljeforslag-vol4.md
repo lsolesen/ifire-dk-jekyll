@@ -1,6 +1,6 @@
 ---
 title: "Porteføljeforslag med aktier og obligationer #4?"
-last_modified_at: 2019-04-17T09:48:02+02:00
+last_modified_at: 2019-04-24T15:28:02+02:00
 permalink: /investering-vol4/
 category:
   - Investering
@@ -85,7 +85,8 @@ De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at U
 | [Vanguard High Dividend Yield ETF (VYM) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00006A9F) | 0,06% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 30%       |
 | [Vanguard Real Estate ETF (VNQ) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DCS)         | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
 
-**UPDATE**: De oprindeligt valgte ETF'er er ikke **UCITS** godkendte, og derfor overvejer jeg lige nu om _Vanguard_ kan være en del af porteføljen.
+**UPDATE**: De oprindeligt valgte ETF'er er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor, så jeg skal have fundet nogle europæiske udgaver af fondene, hvor jeg får nogenlunde samme omkostninger.
+{: .notice--info}
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at der er frie midler nok til at svare skatten af ETF’erne.
 
