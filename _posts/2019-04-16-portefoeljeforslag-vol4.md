@@ -75,7 +75,10 @@ Gode alternativer kunne være:
 
 | Tick | Værdipapir                                                                                                                                    | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
-| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | 5%        | *     |
+| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          |           | *     |
+| VEUR | [Vanguard FTSE Developed Europe UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001FI69)                       | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |           |       |
+| VMID | [Vanguard FTSE 250 UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG6)                                    | 0,10% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |           |       |
+| VUSD | [Vanguard S&P 500 UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000WA5P)                                           | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |           |       |
 
 Mit [gratis Investeringsforslag fra Nord*](/go/nord/) foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
 
