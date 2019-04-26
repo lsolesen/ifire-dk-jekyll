@@ -12,7 +12,7 @@ excerpt: "Nu er min samlede værdipapirpulje ved at tage form - og nu venter jeg
 classes: wide
 ---
 
-Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol3/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.
+Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol2/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.
 
 Jeg satser hovedsageligt på **investeringsfonde** og **ETF’er**, som investerer passivt i indekser.
 
