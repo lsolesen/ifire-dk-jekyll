@@ -48,12 +48,18 @@ Egentlig ville jeg gerne have gjort mine investeringer så enkle som mulige. Lig
 
 Mit primære danske værdipapirdepot skal primært bestå af passive indexfonde fra _Sparinvest_ og købes på månedsopsparingen på Nordnet. De årlige omkostninger er lave ift. danske vilkår. [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) kan ikke købes på månedsopsparingen, så den vil jeg manuelt købe ind for at rebalancere porteføljen. For at holde kurtagen så lav som muligt, skal jeg altså købe for mindst 29.000 DKK ad gangen af obligationer.
 
-| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
-|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
-| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 50%       |
-| [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 20%       |
-| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,85% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 20%       |
-| [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          | 10%       |
+| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
+|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
+| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 50%       | *     |
+| [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 20%       | *     |
+| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,85% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 20%       | *     |
+| [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          | 10%       |       |
+
+Andre interessant alternativer kunne være:
+
+| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
+|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
+| [Maj Invest Globale Obligationer](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR064US)            | 0,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; |                                          | -         | *     |
 
 Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgrænsen på omkring 55.000 DKK, hvorefter skatteprocenten hedder 42%. Da alle fondene her er udbyttebetalende, vil jeg altså skulle betale 27% i skat af udbyttet hvert år indtil bundgrænsen.
 
@@ -75,10 +81,10 @@ Gode alternativer kunne være:
 
 | Tick | Værdipapir                                                                                                                                    | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
-| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          |           | *     |
-| VEUR | [Vanguard FTSE Developed Europe UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001FI69)                       | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |           |       |
-| VMID | [Vanguard FTSE 250 UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG6)                                    | 0,10% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |           |       |
-| VUSD | [Vanguard S&P 500 UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000WA5P)                                           | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |           |       |
+| EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)              | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | -         | *     |
+| VEUR | [Vanguard FTSE Developed Europe UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001FI69)                       | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | -         |       |
+| VMID | [Vanguard FTSE 250 UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG6)                                    | 0,10% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | -         |       |
+| VUSD | [Vanguard S&P 500 UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000WA5P)                                           | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | -         |       |
 
 Mit [gratis Investeringsforslag fra Nord*](/go/nord/) foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
 
@@ -96,7 +102,7 @@ De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at U
 | [Vanguard High Dividend Yield ETF (VYM) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00006A9F) | 0,06% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 30%       |
 | [Vanguard Real Estate ETF (VNQ) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DCS)         | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
 
-**UPDATE**: De oprindeligt valgte ETF'er er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor, så jeg skal have fundet nogle europæiske udgaver af fondene, hvor jeg får nogenlunde samme omkostninger.
+**UPDATE**: Disse ETF'er fra _Vanguard_ er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor, så jeg skal have fundet nogle europæiske udgaver af fondene, hvor jeg får nogenlunde samme omkostninger.
 {: .notice--info}
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at der er frie midler nok til at svare skatten af ETF’erne.
@@ -125,11 +131,14 @@ Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværr
 
 | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
-| [Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000U9KU)             | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          |           |
-| [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |           |
-| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |           |
-| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |           |
-| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |           |
+| [Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000U9KU)             | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | -         |
+| [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | -         |
+| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | -         |
+| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | -         |
+| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | -         |
+
+**UPDATE**: De tre nederste _iShares_ er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor.
+{: .notice--info}
 
 ## Næste trin
 
