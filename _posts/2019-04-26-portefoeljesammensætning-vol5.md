@@ -53,6 +53,8 @@ Med [Portfolio Visualizer](https://www.portfoliovisualizer.com/) kan vi [teste d
 
 Når man investerer for at opnå økonomisk uafhængighed, kan der altså være en ide i at inkludere andre typer aktiver i sin portefølje, så porteføljen også er stærk i nedgangstider.
 
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+
 ## Findes der andre sammensætninger? 
 
 Ejendomme fylder en del, når man læser forskellige _blogs_ om finansiel uafhængighed. Jeg her stødt på [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/) som har forfinet _The Permanent Portfolio_ til det han kalder _Growth Portfolio_. Porteføljen består af 25% aktier, 25% lange obligationer, 25% guld og 25% ejendomme. Han har udvalgt nogle helt særlige REITs, som gør at hans portefølje præsterer noget bedre end hvis han havde valgt et indeks, fx Vanguards VNQ.
@@ -100,5 +102,7 @@ I den ene vil jeg nok ramme en fordeling, der ligner _Growth Portfolio_ - primæ
 I min anden portefølje vil jeg nok i højere grad gå efter de danske index-fonde fra SparInvest, som betaler udbytte. Spørgsmålet er også om den skal suppleres op med specifikke udbytteaktier eller andre fonde, der betaler udbytte, så jeg kan få en løbende udbetalt indtægt.
 
 Det næste jeg bør gøre mig overvejelser om at lave en strategi for er altså vægten mellem mine to primære værdipapir-porteføljer skal være, men også hvordan valutaer skal være vægtet i mine værdipapirer. 
+
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 
 {% include disclaimer.md %}
