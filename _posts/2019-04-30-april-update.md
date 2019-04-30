@@ -95,7 +95,11 @@ Jeg har endnu ikke købt guld hos [BullionVault\*](/go/bullionvault/), men er me
 
 Jeg skulle helt sikkert have købt nogle [Bitcoins*](/go/coinbase/) i februar, da prisen var lav, men der vidste jeg jo ikke, at den ville stige. Det er virkelig et argument for løbende at købe ind til sin portefølje - og måske gemme lidt _cash_ til at købe ekstra ind, når markedet er lavet og derved udnytte **dollar cost averaging**. Jeg vil have samlet lidt ind i cryptovaluta, men føler at jeg skal sætte mig lidt mere ind i markedet.
 
+Jeg eksperimenterer lidt med at [mine cryptovaluta på Minergate\*](/go/minergate/).
+
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
+
+[Bliv cryptominer på Minergate\*](/go/minergate/){: .btn .btn--large .btn--danger}
 
 ## Passiv indkomst
 
