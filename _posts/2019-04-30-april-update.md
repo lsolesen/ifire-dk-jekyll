@@ -71,7 +71,7 @@ Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afp
 | [PropertyPartner (GBP)*](/go/propertypartner/) | En           | Ja   | 3        |
 | [BulkEstate (EUR)*](/go/bulkestate/)           | En           | Ja   | 2        |
 
-Jeg fortsætter på alle platformene foreløbigt, da jeg gerne vil sætte mig ordentligt ind i dem og finde ud af, hvad der virker bedst på mig. Dog trækker jeg mig ud af [Mintos (DKK)*](/go/mintos/) for at føre alle pengene over på [Mintos (EUR)*](/go/mintos/). Det gør jeg primært, fordi der er meget få låneudbydere på den danske, men også for at gøre det hele lidt enklere.
+Jeg fortsætter på alle platformene foreløbigt, da jeg gerne vil sætte mig ordentligt ind i dem og finde ud af, hvad der virker bedst på mig. Dog trækker jeg mig ud af [Mintos (DKK)\*](/go/mintos/) for at føre alle pengene over på [Mintos (EUR)\*](/go/mintos/). Det gør jeg primært, fordi der er meget få låneudbydere på den danske, men også for at gøre det hele lidt enklere.
 
 Nu glæder jeg mig til at følge investeringerne et par måneder endnu og se, hvordan de forskellige platforme _performer_ med den _interne rente (XIRR)_, hvor let platformen er at bruge, og hvor meget mening investeringerne på platformene giver.
 
