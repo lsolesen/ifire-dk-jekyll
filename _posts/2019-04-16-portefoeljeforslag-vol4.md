@@ -60,7 +60,7 @@ Andre interessant alternativer kunne være:
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
 |-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
-| [Maj Invest Globale Obligationer](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR064US)            | 0,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; |                                          | -         | *     |
+| [Maj Invest Globale Obligationer](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR064US)            | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; |                                          | -         | *     |
 
 Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgrænsen på omkring 55.000 DKK, hvorefter skatteprocenten hedder 42%. Da alle fondene her er udbyttebetalende, vil jeg altså skulle betale 27% i skat af udbyttet hvert år indtil bundgrænsen.
 
