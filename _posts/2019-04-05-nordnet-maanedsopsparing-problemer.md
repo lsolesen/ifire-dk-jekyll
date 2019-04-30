@@ -8,9 +8,13 @@ tags:
   - månedsopsparing
   - problemer
 excerpt: "Nordnets månedsopsparing købte Sparinvest til uforholdsmæssige høj kurs ift. dagsprisen. Er månedsopsparingen og Sparinvest blevet for populær?"
+last_modified_at: 2019-04-30T23:35:02+02:00
 ---
 
-Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.
+Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del>Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del> <ins>Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
+
+**Update**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
+{: .notice--success}
 
 ## Om månedsopsparingen
 
@@ -48,6 +52,9 @@ Jeg kiggede således hurtigt på min anden store satsning i min portefølje, nem
 Heldigvis er det kun [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som blev købt til overpris. DJSI blev heldigvis købt til noget, der minder om dagsprisen.
 
 ## Fremtiden for min månedsopsparing
+
+**Update**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris. Det er således tydeligt, at Nordnet lytter til kunderne.
+{: .notice--success}
 
 Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. Jeg overvejer kraftigt at fjerne _instrumentet_ [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) fra min månedsopsparing og i stedet selv købe værdipapiret på dagen, men måske skal jeg give [Nordnet](/go/nordnet/) en chance mere, for der er åbenbart andre end mig, der har haft udfordringen? Hvis ikke månedsopsparingen er pålidelig, så kan det måske lige så godt betale sig at samle alle mine investeringer på [SaxoInvestor](/go/saxoinvestor/), hvor jeg har min **aktiesparekonto**.
 
