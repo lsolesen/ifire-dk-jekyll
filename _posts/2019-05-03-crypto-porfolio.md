@@ -32,7 +32,7 @@ Der er _coins_ og _tokens_, der giver investorerne en passiv indkomst (lidt lige
 
 **Stellar Lumens (XML)** har gode partnerskaber i IBM, Stripe, Deloitte og Shift, hvilket jeg synes gør mønten spændende. Der er lidt [kontroverser omkring XML](https://zycrypto.com/is-stellar-lumens-a-good-investment-or-a-very-risky-one/). 
 
-**NEO (NEO)** er den første kinesiske cryptovaluta, der har fået globan anerkendelse. NEO er decentraliseret og har en god stabilitet. Ved at eje og beholde (stalking) NEO, får man _NEO gas_. Umiddelbart ser det ud til, at pengene skal blive på Binance for at det sker automatisk.
+**NEO (NEO)** er den første kinesiske cryptovaluta, der har fået global anerkendelse. NEO er decentraliseret og har en god stabilitet. Ved at eje og beholde (stalking) NEO, får man _NEO gas_. Umiddelbart ser det ud til, at pengene skal blive på Binance for at det sker automatisk.
 
 ### Market Hedger: Stable Coins
 
