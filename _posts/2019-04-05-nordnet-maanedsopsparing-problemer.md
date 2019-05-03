@@ -40,7 +40,7 @@ Jeg kiggede således hurtigt på min anden store satsning i min portefølje, nem
 | Værdipapir | Antal | Købskurs | Dagskurs | Valuta |
 |------------|-------|----------|----------|--------|
 | [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899) | 54,00 | 128,70 | 128,70 | DKK |
-| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858) |116,00 | 147,89 |147,70 | DKK |
+| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858) | 116,00 | 147,89 | 147,70 | DKK |
 | [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 75,00 | 139,15 | 137,40 | DKK |
 | [EUNH](https://next.nordnet.dk/instrument/ishsiii-c-eo-gov-b-eodis/16569436) | 7,00 | 124,97 | 124,80 | EUR |
 | [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245) | 18,00 | 25,80 | 25,90 | EUR |
