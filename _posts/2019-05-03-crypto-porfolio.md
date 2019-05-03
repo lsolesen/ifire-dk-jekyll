@@ -88,6 +88,10 @@ For sjov **miner** jeg også lidt cryptovaluta via [Minergate\*](/go/minergate/)
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--info}
 
-Husk at du kan støtte sitet ved at sende lidt bitcoins til `{{ site.bitcoin_address }}`.
+## Hvad så herfra?
+
+Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op stille og roligt og inden sommer skulle jeg gerne have en fornuftig portefølje.
+
+Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/) eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/). Uanset hvad du gør, så tænk dig om.
 
 {% include disclaimer.md %}
