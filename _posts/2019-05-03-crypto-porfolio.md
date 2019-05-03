@@ -1,5 +1,7 @@
 ---
 title: "Portefølje med cryptovaluta som opsparing"
+header:
+  overlay_image: /assets/images/crypto.jpg
 category:
   - Opsparing
 tags:
