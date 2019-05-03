@@ -8,7 +8,7 @@ tags:
 excerpt: "Jeg er så småt gået i gang med at lave en lille portefølje i cryptovaluta."
 ---
 
-Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
+Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/opsparing/bitcoins/).
 
 ## Hvordan sammensætter man en portefølje?
 
@@ -85,5 +85,7 @@ For sjov **miner** jeg også lidt cryptovaluta via [Minergate\*](/go/minergate/)
 [Bliv cryptominer på Minergate\*](/go/minergate/){: .btn .btn--large .btn--danger}
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--info}
+
+Husk at du kan støtte sitet ved at sende lidt bitcoins til `{{ site.bitcoin_address }}`.
 
 {% include disclaimer.md %}

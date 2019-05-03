@@ -121,9 +121,7 @@ Jeg bokser stadig lidt med de samme spørgsmål som i sidste måned, hvor det si
 
 ## Støt gerne mine opdateringer
 
-Hvis du kan lide at følge med i opdateringerne, så modtager jeg gerne Bitcoins som støtte på følgende adresse `14NK5uZCGZkQcjzYsGX9LA9r1aVjYcrEt2`.
-
-{% include figure image_path="/assets/images/1556647461241.jpg" alt="14NK5uZCGZkQcjzYsGX9LA9r1aVjYcrEt2" caption="14NK5uZCGZkQcjzYsGX9LA9r1aVjYcrEt2" %}
+Hvis du kan lide at følge med i opdateringerne, så modtager jeg gerne Bitcoins som støtte på følgende adresse `{{ site.bitcoin_address }}`.
 
 Hvis du er interesseret i at sponsorere et indlæg, er du også meget velkommen til at skrive til mig.
 

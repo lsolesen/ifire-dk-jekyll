@@ -33,6 +33,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
+# Support
+bitcoin_address: "194i4JuRpDzFhSbBc665y8VajpYmUKkdTX"
+
+
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
 # reCaptcha:
