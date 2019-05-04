@@ -46,7 +46,7 @@ Efterhånden er der kommet en del _stable coins_, som knytter sig til en valuta.
 
 **Binance Coin (BNB)** er en coin oprettet af verdens største _exchange_, og en markedsplads vil jo konstant tjene penge. Du kan bruge BNB til at betale gebyrer på Binance-platformen. Hvis man _stalker_ BNB får man nogle fordele på Binance-børsen.
 
-**Tezos (XTZ)** er lavet på Ethereum block chain, men jeg forventer ikke at købe nogle af dem i øjeblikket. Jeg vil sætte mig mere ind i valutaen og følge den fremover.
+**Tezos (XTZ)** er lavet på Ethereum block chain. Tezos bygger ikke på _mining_, som også er kendt som _proof of work_. hvor vinderne af løsninger til matematiske problemer får lov til at tilføje den næste blok til _block chain_. I stedet bygger Tezos på et _proof of stake_-system, der bruger et vægtet lotterisystem. Desto flere enheder af en valuta, man holder, desto større sandsynlighed er der for, at man vinder lotteriet og får en finansiel præmie. For at deltage i denne _baking_-proces, skal man dog holde mindst $10.000 og selv køre et program. Coinbase tilbyder, at man kan deltage i _baking_processen ved at have mønterne stående hos dem mod et gebyr, men det gør det meget enklere at være med og få udbytte af sine Tezos og altså en kontinuerlig indtjening (udbytte).
 
 ## Opbevaring af cryptovaluta og Bitcoins
 
