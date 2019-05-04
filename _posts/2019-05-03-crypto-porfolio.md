@@ -59,6 +59,8 @@ Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, 
 
 [Køb en hardware wallet hos Ledger\*](/go/ledger/){: .btn .btn--large .btn--warning}
 
+[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+
 ## Hvordan køber jeg min cryptovaluta?
 
 Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase\*](/go/coinbase/) og [Binance\*](/go/binance/) ligger transaktionsgebyret på omkring 3,75%. 
