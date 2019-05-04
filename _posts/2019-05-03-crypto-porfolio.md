@@ -98,4 +98,6 @@ Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op
 
 Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/) eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/). Uanset hvad du gør, så tænk dig om.
 
+<a href="https://www.ledger.com?r=de519d442b1f"><img width=728 height=90 alt="Ledger Nano S - The secure hardware wallet" src="https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg"></a>
+
 {% include disclaimer.md %}
