@@ -30,23 +30,25 @@ Den mest populære _coin_ er **Ethereum (ETH)**. Det er den mest aktivt udvikled
 
 ### Passive Income Provider (25%)
 
-Der er _coins_ og _tokens_, der giver investorerne en passiv indkomst (lidt ligesom udbytteaktier), hvis man har en del af valutaen. Jeg har valgt Stellar Lumens (XML) og NEO (NEO).
+Der er _coins_ og _tokens_, der giver investorerne en passiv indkomst (lidt ligesom udbytteaktier), hvis man har en del af valutaen. Jeg er interesseret i følgende:
 
 **Stellar Lumens (XLM)** har gode partnerskaber i IBM, Stripe, Deloitte og Shift, og på forsøgsbasis testes i øjeblikket om både Ripple og Lumens kan bruges som en _bro_-valuta til at lave transaktioner i den finansielle verden. Når XLM samtidig er [sjette mest værdifulde crypotvaluta](http://fortune.com/2019/01/17/stellar-lumens-grayscale/), synes jeg at mønten er spændende. Der er lidt [kontroverser omkring XML](https://zycrypto.com/is-stellar-lumens-a-good-investment-or-a-very-risky-one/). Hvis du har Lumens får du _inflation payouts_. Det kræver dog, at du er med i en _inflation pool_. Du skal sørge for at få dine Lumens ned i din egen _wallet_. Jeg bruger en inflation pool, der hedder `lumenauts`. Du kan se, [hvordan du bliver medlem af lumenauts her](https://www.lumenauts.com/tutorials/how-to-join-the-inflation-pool).
 
-**NEO (NEO)** er den første kinesiske cryptovaluta, der har fået global anerkendelse. NEO er decentraliseret og har en god stabilitet. Ved at eje og beholde (stalking) NEO, får man _NEO gas_. Umiddelbart ser det ud til, at pengene skal blive på Binance, hvis udbyttet skal udbetales automatisk.
+**NEO (NEO)** er den første kinesiske cryptovaluta, der har fået global anerkendelse. NEO er decentraliseret og har en god stabilitet. Ved at eje og beholde (stalking) NEO, får man _NEO gas_. NEO gas bliver udbetalt automatisk, hvis mønterne forbliver på _Binance exchange_.
+
+**Tezos (XTZ)** er lavet på Ethereum block chain. Tezos bygger ikke på _mining_, som også er kendt som _proof of work_. hvor vinderne af løsninger til matematiske problemer får lov til at tilføje den næste blok til _block chain_. I stedet bygger Tezos på et _proof of stake_-system, der bruger et vægtet lotterisystem. Desto flere enheder af en valuta, man holder, desto større sandsynlighed er der for, at man vinder lotteriet og får en finansiel præmie. For at deltage i denne _baking_-proces, skal man dog holde mindst $10.000 og selv køre et program. Hvis du bruger Trust Wallet, så kan du _stake_ XTZ der og deltage i _baking_-processen. Det gør det meget enklere at være med og få udbytte af sine Tezos og altså en kontinuerlig indtjening (udbytte).
 
 ### Market Hedger: Stable Coins
 
 Efterhånden er der kommet en del _stable coins_, som knytter sig til en valuta. Der er flest, der knytter sig til US Dollars
 
-**USD Coin (USDC)** er udviklet af Coinbase og Circle. Hver _coin_ skulle have opbakning af 1 US dollar, som bliver holdt i reserve for de udgivne USDC. USDC er udviklet på Ethereum-blockchain. At Coinbase og Circle har udviklet mønten sikrer, at det er let at få den vekslet tilbage til en almindelig (FIAT) valuta som fx US Dollars. <del>Jeg undrer mig dog over, at man ikke kan handle denne _coin_ på Coinbase?</del> <ins>Man kan ikke købe USDC i Europa.</ins>
+**USD Coin (USDC)** er udviklet af Coinbase og Circle. Hver _coin_ skulle have opbakning af 1 US dollar, som bliver holdt i reserve for de udgivne USDC. USDC er udviklet på Ethereum-blockchain. At Coinbase og Circle har udviklet mønten sikrer, at det er let at få den vekslet tilbage til en almindelig (FIAT) valuta som fx US Dollars. <del>Jeg undrer mig dog over, at man ikke kan handle denne _coin_ på Coinbase?</del> <ins>Man kan ikke købe USDC i Europa, så jeg vil gerne finde en anden _stable coin_.</ins>
 
 ## Andre mønter
 
-**Binance Coin (BNB)** er en coin oprettet af verdens største _exchange_, og en markedsplads vil jo konstant tjene penge. Du kan bruge BNB til at betale gebyrer på Binance-platformen. Hvis man _stalker_ BNB får man nogle fordele på Binance-børsen.
+**Binance Coin (BNB)** er en coin oprettet af verdens største _exchange_, og en markedsplads vil jo konstant tjene penge. Du kan bruge BNB til at betale gebyrer på Binance-platformen. Hvis man _staker_ BNB får man nogle fordele på Binance-børsen.
 
-**Tezos (XTZ)** er lavet på Ethereum block chain. Tezos bygger ikke på _mining_, som også er kendt som _proof of work_. hvor vinderne af løsninger til matematiske problemer får lov til at tilføje den næste blok til _block chain_. I stedet bygger Tezos på et _proof of stake_-system, der bruger et vægtet lotterisystem. Desto flere enheder af en valuta, man holder, desto større sandsynlighed er der for, at man vinder lotteriet og får en finansiel præmie. For at deltage i denne _baking_-proces, skal man dog holde mindst $10.000 og selv køre et program. Coinbase tilbyder, at man kan deltage i _baking_processen ved at have mønterne stående hos dem mod et gebyr, men det gør det meget enklere at være med og få udbytte af sine Tezos og altså en kontinuerlig indtjening (udbytte).
+**Waves (WAVES)** gør det muligt at lave sin egen cryptovaluta, og det kan bruges til fx loyalitetspoint og internt i virksomheder. Den nyligt skabte cryptovaluta kan så gemmes i platformens egen wallet. Alle coins er _premined_ og benytter Proof-of-Stake-modellen.
 
 ## Opbevaring af cryptovaluta og Bitcoins
 
