@@ -52,10 +52,12 @@ Efterhånden er der kommet en del _stable coins_, som knytter sig til en valuta.
 
 ## Opbevaring af cryptovaluta og Bitcoins
 
-Du skal have en **Wallet**, hvor du kan opbevare din cryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere cryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet\*](/go/atomicwallet/), som jeg kan bruge på min smartphone. _Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele._
+Du skal have en **Wallet**, hvor du kan opbevare din cryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere cryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet\*](/go/atomicwallet/), som jeg kan bruge på min smartphone. _Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet\*](/go/ledger/)._
 
 Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, sign-up for airdrop with promo code **Z7DSZ** and get extra 5 AWC tokens!
 {: .notice--success}
+
+[Køb en hardware wallet hos Ledger\*](/go/ledger/){: .btn .btn--large .btn--warning}
 
 ## Hvordan køber jeg min cryptovaluta?
 
