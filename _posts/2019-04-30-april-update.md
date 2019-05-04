@@ -52,8 +52,9 @@ Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afp
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|--------------|------|----------|
-| [Flexfunding (DKK)*](/go/flexfunding/)         | 1            | Nej  | 19       |   
-| [Kameo (DKK)*](/go/kameo/)                     | 1            | Ja   | 6        |
+| [Flexfunding (DKK)](/go/flexfunding/)          | 1            | Nej  | 19       |   
+| [Brickshare (DKK)](/go/brickshare/)            | 1            | Nej  | 1        |   
+| [Kameo (DKK)](/go/kameo/)                      | 1            | Ja   | 6        |
 | [Mintos (DKK)*](/go/mintos/)                   | Flere        | Ja   | 36       |
 | [Mintos (EUR)*](/go/mintos/)                   | Flere        | Ja   | 511      |
 | [Grupeer (EUR)*](/go/grupeer/)                 | Flere        | Ja   | 114      |
