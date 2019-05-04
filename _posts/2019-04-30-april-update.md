@@ -52,24 +52,24 @@ Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afp
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|--------------|------|----------|
-| [Flexfunding (DKK)*](/go/flexfunding/)         | En           | Nej  | 17       |   
-| [Kameo (DKK)*](/go/kameo/)                     | To           | Ja   | 4        |
-| [Mintos (DKK)*](/go/mintos/)                   | Flere        | Ja   | 53       |
-| [Mintos (EUR)*](/go/mintos/)                   | Flere        | Ja   | 386      |
-| [Grupeer (EUR)*](/go/grupeer/)                 | Flere        | Ja   | 97       |
-| [Trine (EUR)*](/go/trine/)                     | En           | Nej  | 4        |
+| [Flexfunding (DKK)*](/go/flexfunding/)         | 1            | Nej  | 19       |   
+| [Kameo (DKK)*](/go/kameo/)                     | 1            | Ja   | 6        |
+| [Mintos (DKK)*](/go/mintos/)                   | Flere        | Ja   | 36       |
+| [Mintos (EUR)*](/go/mintos/)                   | Flere        | Ja   | 511      |
+| [Grupeer (EUR)*](/go/grupeer/)                 | Flere        | Ja   | 114      |
+| [Trine (EUR)*](/go/trine/)                     | 1            | Nej  | 10       |
 | [Bondora (EUR)*](/go/bondora/)                 | Flere        | Ja   | -        |
 | [FastInvest (EUR)*](/go/fastinvest/)           | Flere        | Ja   | 148      |
-| [PeerBerry (EUR)*](/go/peerberry/)             | Flere        | Ja   | 99       |
-| [RoboCash (EUR)*](/go/robocash/)               | En           | Ja   | 151      |
-| [Crowdestor (EUR)*](/go/crowdestor/)           | En           | Nej  | 4        |
-| [Envestio (EUR)*](/go/envestio/)               | En           | Nej  | 4        |
-| [Funderbeam (EUR)*](/go/funderbeam/)           | En           | Nej  | 0        |
-| [ReInvest24 (EUR)*](/go/reinvest24/)           | En           | Nej  | 2        |
-| [Crowdestate (EUR)*](/go/crowdestate/)         | En           | Ja   | 2        |
-| [Housers (EUR)*](/go/housers/)                 | En           | Nej  | 7        |
-| [PropertyPartner (GBP)*](/go/propertypartner/) | En           | Ja   | 3        |
-| [BulkEstate (EUR)*](/go/bulkestate/)           | En           | Ja   | 2        |
+| [PeerBerry (EUR)*](/go/peerberry/)             | Flere        | Ja   | 100      |
+| [RoboCash (EUR)*](/go/robocash/)               | 1            | Ja   | 151      |
+| [Crowdestor (EUR)*](/go/crowdestor/)           | 1            | Nej  | 6        |
+| [Envestio (EUR)*](/go/envestio/)               | 1            | Nej  | 7        |
+| [Funderbeam (EUR)*](/go/funderbeam/)           | 1            | Nej  | 2        |
+| [ReInvest24 (EUR)*](/go/reinvest24/)           | 1            | Nej  | 3        |
+| [Crowdestate (EUR)*](/go/crowdestate/)         | 1            | Ja   | 3        |
+| [Housers (EUR)*](/go/housers/)                 | 1            | Nej  | 9        |
+| [PropertyPartner (GBP)*](/go/propertypartner/) | 1            | Ja   | 8        |
+| [BulkEstate (EUR)*](/go/bulkestate/)           | 1            | Ja   | 2        |
 
 Jeg fortsætter på alle platformene foreløbigt, da jeg gerne vil sætte mig ordentligt ind i dem og finde ud af, hvad der virker bedst på mig. Dog trækker jeg mig ud af [Mintos (DKK)\*](/go/mintos/) for at føre alle pengene over på [Mintos (EUR)\*](/go/mintos/). Det gør jeg primært, fordi der er meget få låneudbydere på den danske, men også for at gøre det hele lidt enklere.
 
