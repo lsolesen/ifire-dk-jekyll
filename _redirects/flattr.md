@@ -1,4 +1,4 @@
 ---
 title: Flattr
-redirect_to: flattr.com/@lsolesen
+redirect_to: http://flattr.com/@lsolesen
 ---
