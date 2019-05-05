@@ -63,16 +63,16 @@ Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. 
 
 ## UPDATE 5. maj 2019
 
-Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået? Ordrerne er ikke gået igennem endnu, men jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med den senest handlede kurs inden markedet lukkede fredag. Og i modsætning til sidste måned, hvor der for de fleste papirer var fin overenstemmelse, så gælder det ikke i denne måned. **I denne måned er ordren lagt ind med en pris som er væsentligt over lukkekursen.**
+Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået? Ordrerne er ikke gået igennem endnu, men jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med den senest handlede kurs inden markedet lukkede fredag. Og i modsætning til sidste måned, hvor der for de fleste papirer var fin overenstemmelse, så gælder det ikke i denne måned. **I denne måned er ordren lagt ind med en (limit)pris som er over lukkekursen. Det er således spændende at se, hvad købsprisen bliver.**
 
-| Værdipapir                                                                                         | Ordrekurs | Lukkekurs | Valuta  |
-|----------------------------------------------------------------------------------------------------|-----------|-----------|---------|
-| [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899)        | 131,30    | 128,75    | DKK     |
-| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858)              | 152,25    | 149,35    | DKK     |
-| [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 141,40    | 138,65    | DKK     |
-| [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245)                      | 26,48     | 25,90     | EUR     |
-| [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | 258,06    | EUR     |
-| [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | 51,45     | EUR     |
+| Værdipapir                                                                                         | Ordrekurs | Købskurs | Lukkekurs | Valuta  |
+|----------------------------------------------------------------------------------------------------|-----------|----------|-----------|---------|
+| [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899)        | 131,30    | ?        | 128,75    | DKK     |
+| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858)              | 152,25    | ?        | 149,35    | DKK     |
+| [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 141,40    | ?        | 138,65    | DKK     |
+| [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245)                      | 26,48     | ?        | 25,90     | EUR     |
+| [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | ?        | 258,06    | EUR     |
+| [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | ?        | 51,45     | EUR     |
 
 En hjælpsom sjæl i [FireDanmark Facebook-gruppen](https://www.facebook.com/groups/1145367158930357/) foreslår følgende:
 
