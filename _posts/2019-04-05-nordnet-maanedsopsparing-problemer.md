@@ -13,8 +13,11 @@ last_modified_at: 2019-05-05T12:33:02+02:00
 
 Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del>Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del> <ins>Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
 
-**Update**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
+**Update 29. april 2019**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
 {: .notice--success}
+
+**Update 5. maj 2019**: I denne måned ser det ud til, at alle papirerne i min månedsopsparing har fået lagt ordrer ind på priser, der er noget højere end lukkekursen.
+{: .notice--danger}
 
 ## Om månedsopsparingen
 
@@ -70,6 +73,8 @@ Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned 
 | [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245)                      | 26,48     | 25,90     | EUR     |
 | [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | 258,06    | EUR     |
 | [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | 51,45     | EUR     |
+
+Opdatering følger...
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
