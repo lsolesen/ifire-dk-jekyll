@@ -74,7 +74,11 @@ Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned 
 | [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | 258,06    | EUR     |
 | [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | 51,45     | EUR     |
 
-Opdatering følger...
+En hjælpsom sjæl i [FireDanmark Facebook-gruppen](https://www.facebook.com/groups/1145367158930357/) foreslår følgende:
+
+> Der handles vel også først imorgen. Ligger de ikke kursen over for at sikre sig at der er nok penge på kontoen til at gennemføre ordrerne? ([link](https://www.facebook.com/groups/1145367158930357/1537374313062971/?comment_id=1537375513062851&notif_id=1557053443527098&notif_t=group_comment))
+
+Det håber jeg på indtil i morgen. Opdatering følger...
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
