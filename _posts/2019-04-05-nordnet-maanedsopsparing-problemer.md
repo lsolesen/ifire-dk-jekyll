@@ -63,7 +63,7 @@ Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. 
 
 ## UPDATE 5. maj 2019
 
-Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået? Ordrerne er ikke gået igennem endnu, men jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med den senest handlede kurs inden markedet lukkede fredag. Og i modsætning til sidste måned, hvor der for de fleste papirer var fin overenstemmelse, så gælder det ikke i denne måned. **I denne måned er ordren lagt ind med en (limit)pris som er over lukkekursen. Det er således spændende at se, hvad købsprisen bliver.**
+Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået? Som sædvanligt lægger Nordnet _limit_-ordrer ind. Ordrerne er ikke gået igennem endnu. Jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med den senest handlede kurs inden markedet lukkede fredag. Nu er det spændende at følge med i, hvad købskursen bliver?
 
 | Værdipapir                                                                                         | Ordrekurs | Købskurs | Lukkekurs | Valuta  |
 |----------------------------------------------------------------------------------------------------|-----------|----------|-----------|---------|
@@ -74,13 +74,7 @@ Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned 
 | [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | ?        | 258,06    | EUR     |
 | [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | ?        | 51,45     | EUR     |
 
-En hjælpsom sjæl i [FireDanmark Facebook-gruppen](https://www.facebook.com/groups/1145367158930357/) foreslår følgende:
-
-> Der handles vel også først imorgen. Ligger de ikke kursen over for at sikre sig at der er nok penge på kontoen til at gennemføre ordrerne? ([link](https://www.facebook.com/groups/1145367158930357/1537374313062971/?comment_id=1537375513062851&notif_id=1557053443527098&notif_t=group_comment))
-
-Mens andre foreslår, at det er en _limit_-ordre, der er lagt ind fra Nordnets side, og at den kommer til at handle til markedsprisen.
-
-Det håber jeg på indtil i morgen. Opdatering følger...
+Opdatering følger i morgen, når ordrerne bliver effektueret...
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
