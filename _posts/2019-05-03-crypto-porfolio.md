@@ -39,11 +39,19 @@ Der er _coins_ og _tokens_, der giver investorerne en passiv indkomst (lidt lige
 
 **Tezos (XTZ)** er lavet på Ethereum block chain. Tezos bygger ikke på _mining_, som også er kendt som _proof of work_. hvor vinderne af løsninger til matematiske problemer får lov til at tilføje den næste blok til _block chain_. I stedet bygger Tezos på et _proof of stake_-system, der bruger et vægtet lotterisystem. Desto flere enheder af en valuta, man holder, desto større sandsynlighed er der for, at man vinder lotteriet og får en finansiel præmie. For at deltage i denne _baking_-proces, skal man dog holde mindst $10.000 og selv køre et program. Hvis du bruger Trust Wallet, så kan du _stake_ XTZ der og deltage i _baking_-processen. Det gør det meget enklere at være med og få udbytte af sine Tezos og altså en kontinuerlig indtjening (udbytte).
 
+Hvis man bruger **Uphold** kan man gennem en ekstern app fra CredEarn tjene renter på sit indestående i fx Bitcoins eller Ethereum. For at få de højeste renter, skal man også eje **Cred (LBA)**, som man kan købe via Uphold. Det er naturligvis en ret risikofyldt aktivitet.
+{: .notice--info}
+
 ### Market Hedger: Stable Coins
 
-Efterhånden er der kommet en del _stable coins_, som knytter sig til en valuta. Der er flest, der knytter sig til US Dollars
+Efterhånden er der kommet en del _stable coins_, som knytter sig til en valuta - og der er [både fordele og ulemper](https://hackernoon.com/2019-complete-stablecoin-guide-3f77896fb4ad). Der er flest, der knytter sig til US Dollars. Hver _coin_ skal kunne sælges igen for fx 1 US dollar. Men flere af de _stable coins_, der er knyttet op på dollaren kan ikke købes, når man er fra Europa.
 
-**USD Coin (USDC)** er udviklet af Coinbase og Circle. Hver _coin_ skulle have opbakning af 1 US dollar, som bliver holdt i reserve for de udgivne USDC. USDC er udviklet på Ethereum-blockchain. At Coinbase og Circle har udviklet mønten sikrer, at det er let at få den vekslet tilbage til en almindelig (FIAT) valuta som fx US Dollars. <del>Jeg undrer mig dog over, at man ikke kan handle denne _coin_ på Coinbase?</del> <ins>Man kan ikke købe USDC i Europa, så jeg vil gerne finde en anden _stable coin_.</ins>
+Jeg var først interesseret i _Tether (USDT)_, som er den største, men de har haft [lidt problemer med pengesporet](https://www.bloomberg.com/opinion/articles/2019-04-26/things-got-weird-for-stablecoin-tether). Så ville jeg have købt _USD Coin (USDC)_ er udviklet af Coinbase og Circle. USDC er udviklet på Ethereum-blockchain, men den kan ikke købes i Europa.
+
+Så blev jeg interesseret i **MakerDAOs DAI (DAI)**, som er en ERC20 _stable coin_, hvor man kan veksle den til hvad der svarer til 1$ Ethereum. MakerDAO har endda dansk islæt. Mønten er desværre ikke så gammel endnu, og den har som de førnævnte ikke opbakning fra FIAT-penge på en bankbog. Til gengæld er det hele transperant i _block chainen_, hvilket ikke kan siges om især Tether. Men MakerDAOs DAI kan jeg heller ikke finde på hverken CoinBase, Kraken eller Binance.
+{: .notice--info}
+
+Uphold har også lavet en _stable coin_, som knytter sig til EUR (UPEUR). Den kan også være interessant, hvis jeg vil holde noget cryptovaluta på den platform for at få renter ved at låne dem ud gennem **Cred**. Desværre er der på Uphold et ret anseeligt hævegebyr, hvis jeg gerne vil have pengene ud fra platformen igen uanset om det er som crypto eller som FIAT. Dog er Ripple (XRP) gratis at overflytte. Internt på Uphold er der desværre et [anseeligt vekselgebyr mellem de forskellige valutaer](https://uphold.com/en/pricing). Jeg glæder mig til for alvor at se, hvordan platformen virker for mig.
 
 ## Andre mønter
 
@@ -68,7 +76,7 @@ Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinif
 
 På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe Bitcoins (BTC), Ethereum (ETH) og Stellar Lumens (XLM) som alle er en del af min valgte crypto-portefølje. Desuden kan jeg købe Bitcoin SV (BSV) og Bitcoin Cash (BCH). Derfor køber jeg en af de cryptovalutaer på Coinify.dk, og så køber bruger jeg dem på [Binance\*](/go/binance/), som har et meget større udbud af cryptovalutaer og i øjeblikket er verdens største cryptobørs. Derved er transaktionsgebyret slet ikke så stort.
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
 
 [Køb cryptovaluta hos Binance\*](/go/binance/){: .btn .btn--large .btn--warning}
 
@@ -98,6 +106,17 @@ For sjov **miner** jeg også lidt cryptovaluta via [Minergate\*](/go/minergate/)
 ## Hvad så herfra?
 
 Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op stille og roligt og inden sommer skulle jeg gerne have en fornuftig portefølje.
+
+| Valuta                | Børs    | Opbevaring             | Kommentar                  |
+|-----------------------|---------|------------------------|----------------------------|
+| Bitcoin (BTC)         | Coinify | AtomicWallet og Uphold | Uphold giver renter        |
+| Ethereum (ETH)        | Coinify | AtomicWallet og Uphold | Uphold giver renter        |
+| Stellar Lumens (XLM)  | Coinify | AtomicWallet           | Er med i en pool           |
+| NEO (NEO)             | Binance | Binance Ex             | Auto NEO gas på B.         |
+| Tezos (XTZ)           | Kraken  | TrustWallet            | Auto dividend på TW        |
+| UPEUR                 | Uphold  | Uphold                 | Stable coin på Uphold      |
+| Binance Coin (BNB)    | Binance | Binance Ex             | Giver fordele i gebyrer    |
+| Cred (LBA)            | Uphold  | Uphold                 | For at få maksimale renter |
 
 Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/) eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/). Uanset hvad du gør, så tænk dig om.
 
