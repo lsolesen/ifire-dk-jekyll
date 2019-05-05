@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Portfolio
+title: Portefølje - aktier, obligationer, crowdlending, guld og cryptovaluta
 permalink: /portfolio/
-excerpt: "Her kan du se mit samlede portfolio."
+excerpt: "Her kan du se min samlede portefølje med aktier, obligationer, crowdlending, guld, sølv og cryptovaluta."
 author_profile: true
 toc: true
 ---
