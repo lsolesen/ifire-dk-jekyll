@@ -1,5 +1,6 @@
 ---
 title: "Portefølje med cryptovaluta som opsparing"
+permalink: /crypto-portfolio/
 header:
   overlay_image: /assets/images/crypto.jpg
 category:

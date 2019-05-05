@@ -89,13 +89,14 @@ Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/), hvor jeg får 0
 
 ### Guld og sølv
 
-Mange sparer op i guld og sølv, og jeg har oprettet en konto hos BullionVault, hvor man kan købe guld og sølv til gode priser - og samtidig få det opbevaret for rimelige priser (noget der tidligere afholdte mig fra at købe guld og sølv i opsparingen). 
+Mange sparer op i guld og sølv, og jeg har oprettet en konto hos BullionVault, hvor man kan købe guld og sølv til gode priser - og samtidig få det opbevaret for rimelige priser (noget der tidligere afholdte mig fra at købe guld og sølv i opsparingen). Planen er at købe noget guld op der, ligesom jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
 
 [Opret konto hos BullionVault og få 4 gram sølv*](/go/bullionvault/){: .btn .btn--large .btn--warning}
 
 ### Cryptovaluta
 
-Andre sparer op i cryptovalutaer, men jeg er meget i tvivl om, hvad jeg skal gøre i den retning.
+Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/)
+
 
 [Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
 
