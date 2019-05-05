@@ -16,7 +16,7 @@ Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og
 **Update 29. april 2019**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
 {: .notice--success}
 
-**Update 5. maj 2019**: I denne måned ser det ud til, at alle papirerne i min månedsopsparing har fået lagt ordrer ind på priser, der er noget højere end lukkekursen.
+**Update 5. maj 2019**: I denne måned ser det ud til, at alle papirerne i min månedsopsparing har fået lagt ordrer ind på priser, der er noget højere end lukkekursen. Se nederst i artiklen.
 {: .notice--danger}
 
 ## Om månedsopsparingen
