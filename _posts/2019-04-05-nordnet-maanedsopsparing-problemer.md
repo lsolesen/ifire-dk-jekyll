@@ -8,7 +8,7 @@ tags:
   - månedsopsparing
   - problemer
 excerpt: "Nordnets månedsopsparing købte Sparinvest til uforholdsmæssige høj kurs ift. dagsprisen. Er månedsopsparingen og Sparinvest blevet for populær?"
-last_modified_at: 2019-05-05T12:33:02+02:00
+last_modified_at: 2019-05-05T14:22:02+02:00
 ---
 
 Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del>Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del> <ins>Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
