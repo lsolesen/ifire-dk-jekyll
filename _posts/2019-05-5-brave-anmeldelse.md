@@ -21,7 +21,10 @@ Når man skriver en blog, finansierer man ofte sit arbejde med reklamer på site
 
 Brave kommer med en indbygget Basic Attention Token (BAT)-wallet. Valutaen i denne _wallet_ gør det muligt for brugerne at støtte deres favorit-websites. Brugerne bestemmer selv hvor meget - og man kan putte penge i sin _wallet_ på flere måder. Enten kan man bruge de store _cryptovalutaer_ (fx Bitcoin, Litecoin og Ethereum) eller betale via servicen UPhold med kreditkort. Jeg planlægger at bruge min cryptvaluta til at betale med. 
 
-Brave gør altså, at ikke behøver at kigge på reklamer, men stadig kan støtte dine favorithjemmesider, som du synes de skal støttes ved hjælp af mikrobetalinger. Ved at have det indbygget i browseren, kan det være at det kan få større udbredelse at tænke finansiering af webindhold på denne måde. Det kunne være rigtig dejligt, hvis os almindelige brugere igen kunne tage lidt af nettet tilbage fra den oversvøemmelse af reklamer, der findes (og dette site er ikke nogen undtagelse).
+Brave gør altså, at ikke behøver at kigge på reklamer, men stadig kan støtte dine favorithjemmesider, som du synes de skal støttes ved hjælp af mikrobetalinger med Basic Attention Token (BAT). Ved at have det indbygget i browseren, kan det være at det kan få større udbredelse at tænke finansiering af webindhold på denne måde. Det kunne være rigtig dejligt, hvis os almindelige brugere igen kunne tage lidt af nettet tilbage fra den oversvøemmelse af reklamer, der findes (og dette site er ikke nogen undtagelse).
+
+Hvis du downloader [Brave\*](/go/brave/) på Android lige nu, så får du 15 BAT. På [Coinbase\*](/go/coinbase/) kan du gøre dig fortjent til BAT ved gennemføre et 10 minutters kursus i, hvad Brave og Basic Attention Token er - og efterfølgende installere browseren.
+{: .notice--info}
 
 Det er ikke det første forsøg på at lade folk selv bestemme i lidt højere grad, hvordan de vil støtte deres favorithjemmesider. [Flattr](http://flattr.com/@lsolesen) er et andet eksempel, hvor bruger helt almindelige valutaer - og så installerer man browser extensions, så man på samme måde kan støtte sine favorithjemmesider. Jeg synes konceptet er rigtig interessant, og lige nu leder jeg efter hvilket websites, jeg gerne selv vil støtte.
 {: .notice--info}
@@ -37,6 +40,7 @@ Selvom Brave Rewards System er den primære årsag til, at jeg synes browseren e
 - Den har en rigtig velfungerende _ad blocker_.
 - Du browser sikkert og browseren passer godt på dit privatliv - og din trafik kan ikke spores tilbage til dit device.
 - Brave er hurtig.
+- Du kan let åbne et browser-vindue, som fungerer gennem TOR.
 - Brave er tilgængelig på langt de fleste platforme - også på smartphones
 - Du kan bruge Chrome extensions fordi Brave er baseret på Chromium.
 - På sigt kan du blive betalt for at browse (hvis du har lyst)
