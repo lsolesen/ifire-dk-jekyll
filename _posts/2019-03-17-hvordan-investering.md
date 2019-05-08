@@ -37,7 +37,7 @@ Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), 
 
 Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden børsmægler efter mit valg.
 
-> Investeringsforeningerne har derfor i mange tilfælde delt deres afdelinger op i to fondskoder. Der er Clean Funds (som banken har investeret i, da de ikke modtager provision på den). Det betyder, at Clean Funds afdleinger har et lavere ÅOP og dermed også giver et højere afkast før omkostninger til banken.
+> Investeringsforeningerne har derfor i mange tilfælde delt deres afdelinger op i to fondskoder. Der er Clean Funds (som banken har investeret i, da de ikke modtager provision på den). Det betyder, at Clean Funds afdelinger har et lavere ÅOP og dermed også giver et højere afkast før omkostninger til banken.
 >
 > Køber man selv f.eks. BankInvest- og Valueinvestafdelinger via et åbent depot, køber man deres Dirty Funds-afdelinger, hvor vi (bankerne) modtager provision, så her er afdelingernes ÅOP højere og afkastet lidt lavere. Til gengæld er der så ikke samme omkostninger til banken, da man selv varetager investeringerne.
 >

@@ -10,4 +10,8 @@ tags:
 excerpt: "Ejendomsinvestering i Danmark."
 ---
 
+### April
+
+- Fik endelig investeret i et projekt på BrickShare.
+
 [Brickshare](/go/brickshare/){: .btn .btn--large .btn--info}

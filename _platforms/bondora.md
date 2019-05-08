@@ -22,4 +22,8 @@ Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
 
 Jeg har endnu ikke selv taget penge ud fra Bondora, men opdaterer så snart jeg prøver det.
 
+## April
+
+- Jeg har valgt at sætte en relativt stor pose penge ind på Bandora Grow & Go, så pengene kunne generere lidt renter, mens jeg venter på at jeg gerne vil bruge dem.
+
 [Tilmeld dig Bondora*](/go/bondora/){: .btn .btn--large .btn--warning}
