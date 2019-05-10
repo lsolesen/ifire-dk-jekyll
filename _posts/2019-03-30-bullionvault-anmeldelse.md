@@ -15,7 +15,7 @@ excerpt: "Hos BullionVault kan du købe guld som de professionelle, men helt ned
 
 Jeg havde egentlig ikke forventet, at jeg skulle have guld i min portefølje. Jeg kan ikke overskue konsekvenserne af at købe rigtig guld for selv at skulle opbevare det, lave sikkerhedsforanstaltninger og tegne forsikringer. Og jeg stoler ikke helt på _futures_, hvor der reelt ikke er dækning for alle papirerne.
 
-Men så faldt jeg over [BullionVault*](/go/bullionvault/), hvor man kan købe ædelmetaller på det professionelle marked, men ikke behøver at købe en hel guldbarre ad gangen. Du kan købe helt ned til et gram guld, som BullionVault opbevarer sikkert - og de sørger for forsikringer af dit guld. Du handler til meget konkurrencedygtige priser, og du kan handle i USD, EUR, GBP og YEN. Du kan køb guld, sølv og platin. 
+Men så faldt jeg over [BullionVault\*](/go/bullionvault/), hvor man kan købe ædelmetaller på det professionelle marked, men ikke behøver at købe en hel guldbarre ad gangen. Du kan købe helt ned til et gram guld, som BullionVault opbevarer sikkert - og de sørger for forsikringer af dit guld. Du handler til meget konkurrencedygtige priser, og du kan handle i USD, EUR, GBP og YEN. Du kan køb guld, sølv og platin. 
 
 Du kan både handle for at beholde (som jeg har tænkt mig, da guldet vil indgå i min opsparing), eller du kan handle for at _trade_ og tjene eller tabe penge på prisændringer på guldet.
 
@@ -25,7 +25,7 @@ Hvis [du opretter dig med mit referral-link*](/go/bullionvault/) får du 4 gram 
 
 Det er let at registrere sig og komme i gang på platformen, og allerede ved oprettelsen kan du altså kigge på en positiv balance både i sølv og i _cash_.
 
-[Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--info}
+[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info}
 
 ## Lidt om BullionVault
 
@@ -36,6 +36,9 @@ BullionVault er deltvist ejet af _World Gold Council_ og er den største online 
 ## Opbevaring af guldet (eller sølvet)
 
 BullionVault tager et lille gebyr på 0,01% (dog mindst 4 EUR) for at opbevare dine ædelmetaller. Omkostningerne for at have en ETF eller lignende, der tracker guldprisen vil være højere. Dog skal du være opmærksom på, at den eneste måde at få profit ved et guldkøb er at sælge, hvis guldet stiger lidt i pris.
+
+Med gebyret skal du være opmærksom på, at det ikke kan betale sig at opbevare guld og ædelmetaller, hvis du har købt for mindre end 2.000 US$. BullionVault er selv proaktive ift. at orientere dig på e-mail om prisstrukturen - og de har en ganske udemærket [omkostningsudregner](https://www.bullionvault.com/cost-calculator.do) på deres side. Ved at bruge udregneren, kan du få en ide om det kan betale sig at købe guld hos BullionVault. 4 US$ på 2.000 US$ svarer til 0,2% i omkostninger om måneden.  Husk at hvis du vælger at tracke guld gennem en ETF eller lignende vil du også have omkostninger. Til sammenligning har jeg købt ETFS Physical Gold (VZLD) på Nordnet. På [VZLD er _management fee_ 0,39% årligt](https://www.bloomberg.com/quote/VZLD:GR).
+{: .notice--danger}
 
 ## Hvorfor handle guld?
 
@@ -55,7 +58,7 @@ Så den store fordel ved at have en opsparing i guld er altså, at det holder pr
 
 På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? Det betyder i realiteten ikke så meget, da det varierer med få procent mellem de enkelte valutaer. I virkeligheden betyder det nok mest, hvornår du veksler over i den valuta, du er interesseret i at købe guld i. Jeg bruger selv [Revolut*](/go/revolut/), hvor du kan veksle gratis.
 
-[Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--info}
+[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info}
 
 ## Hvad er min plan i fremtiden?
 
@@ -63,7 +66,7 @@ Jeg planlægger, at guld skal udgøre en del af min portefølje. Hvor meget har 
 
 Hvad er din strategi for guld? Og hvorfor har du det i din portefølje - eller hvorfor har du fravalgt det?
 
-[Få 4 gram sølv på BullionVault*](/go/bullionvault/){: .btn .btn--large .btn--info}
+[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info}
 
 ## Mere inspiration
 
