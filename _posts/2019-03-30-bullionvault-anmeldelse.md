@@ -64,6 +64,8 @@ På BullionVault kan du købe i fire forskellige valutaer. Når du først har k�
 
 Jeg planlægger, at guld skal udgøre en del af min portefølje. Hvor meget har jeg ikke besluttet mig for endnu, men det tiltaler mig, at guld kan beskytte porteføljen i dårligere tider. En del af det guldet skal være rigtig guld, men det er også muligt, at jeg vil have nogle værdipapirer, der tracker guldprisen, hvilket [The Obvious Investor](https://obviousinvestor.com) foreslår i sit _Growth Portfolio_.
 
+Foreløbigt vil jeg ikke sætte mine penge i BullionVault, da man efter min mening skal op på rigtig mange penge, for at det kan betale sig. Du kan [lave dine egne udregninger på deres site](https://www.bullionvault.com/cost-calculator.do). Jeg havde håbet at BullionVault var en let adgang til at komme lidt ind i guld uden selv at skulle købe det, men der er en lidt for høj tærskel for at gebyrerne ikke skal spise det hele.
+
 Hvad er din strategi for guld? Og hvorfor har du det i din portefølje - eller hvorfor har du fravalgt det?
 
 [Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info}
