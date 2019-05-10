@@ -21,7 +21,7 @@ Du kan både handle for at beholde (som jeg har tænkt mig, da guldet vil indgå
 
 ## Kom hurtigt i gang med at købe guld og sølv
 
-Hvis [du opretter dig med mit referral-link*](/go/bullionvault/) får du 4 gram sølv og 1 EUR, 1 USD og 1 GBP, så du med det samme kan øve dig på platformen - uden at det koster dig en krone.
+Hvis [du opretter dig med mit referral-link*](/go/bullionvault/) får du 4 gram sølv og 1 EUR, 1 USD og 1 GBP, så du med det samme kan øve dig på platformen. De små kontantbeløb dækker gebyret på din første handel, som mindst skal være 100 US$.
 
 Det er let at registrere sig og komme i gang på platformen, og allerede ved oprettelsen kan du altså kigge på en positiv balance både i sølv og i _cash_.
 
