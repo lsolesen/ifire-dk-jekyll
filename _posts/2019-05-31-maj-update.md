@@ -1,11 +1,11 @@
 ---
-title: "#4 April - Pengene falder på plads?"
+title: "#4 Maj - Hvordan går det med investeringerne?"
 category:
   - Opdateringer
 tags:
   - rigdomsformularen
   - status
-excerpt: "I april måned har målet være at få investeret de sidste midler og beslutte mig for, hvor meget jeg skal have i kontanter."
+excerpt: "I maj måned har målet være at se, hvordan arbejdet etableret i april bærer frugt."
 ---
 
 Jeg har set frem til denne opdatering, men havde håbet at jeg var kommet lidt længere med at have en _hands off_-investering. Jeg synes stadig, at jeg bruger en del tid på at tænke over, hvordan investeringerne skal være skruet sammen. Til gengæld har jeg også glædet mig lidt til at se, om det er lykkes at skabe passiv indkomst baseret på mine allerede eksisterende websites (hvilket det ikke er).
