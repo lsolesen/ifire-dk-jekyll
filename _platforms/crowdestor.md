@@ -6,6 +6,23 @@ header:
 tags:
   - crowdlending
 excerpt: "Crowdestor er en _peer-to-peer_ _crowd lending_ platform baseret i Letland."
+last_modified_at: 2019-03-24T00:00:00+08:00
 ---
 
-[Tilmeld dig Crowdestor*](/go/crowdestor/){: .btn .btn--large .btn--warning}
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
+
+**Første investeringsdato**: 6. marts 2019  
+**Totalt indskud**: 1.000 EUR
+**Totalt trukket ud**: 0 EUR
+
+## Investering og værdi af investering
+
+## Månedlig indkomst
+
+## XIRR
+
+<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1917532440&amp;format=image"></iframe>
+
+## Transaktioner
+
+[Tilmeld dig Crowdestor*](/go/crowdestor/){: .btn .btn--large .btn--danger}

@@ -1,12 +1,11 @@
 ---
-title: "Housers"
-permalink: /platform/housers/
+title: "Iuvo"
+permalink: /platform/iuvo/
 header:
-  teaser: /assets/images/logo/housers.png
+  teaser: /assets/images/logo/iuvo.jpg
 tags:
   - crowdlending
-  - ejendomsinvestering
-excerpt: "Housers giver dig mulighed for at investere både i ejendom, men også ejendomsudviklingsprojekter. Housers opererer i Spanien, Italien og Portugal."
+excerpt: "Iuvo giver gode renter og hører til i Estland"
 last_modified_at: 2019-03-24T00:00:00+08:00
 ---
 
@@ -24,4 +23,5 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 ## Transaktioner
 
-[Housers*](/go/housers/){: .btn .btn--large .btn--warning}
+
+[Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}

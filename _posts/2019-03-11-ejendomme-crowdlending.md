@@ -43,7 +43,7 @@ Gennem crowdlending kan du sammen med andre investorer bruge det til ejendomsinv
 I forhold til at sprede mine investeringer, så synes jeg dette er det mest interessante koncept. Fordelen ved at have en investering i ejendommen er, at der hver måned kommer leje ind, og investeringen således har et løbende udbytte samtidig med, at man på sigt kan drømme om en værdistigning af ejendommen.
 
 - **[Brickshare](/go/brickshare/)** er dansk, og det bliver rigtig spændende at følge, hvordan den klarer sig i fremtiden. Du kan læse en [rigtig god anmeldelse af platformen](https://mininvestering.dk/brickshare/).
-- **[Housers](/go/housers/)**. Lige nu har jeg valgt at gå ind i [Housers](/go/housers/) - primært fordi, man på Housers både kan investere i ejendomme og udlåne til ejendomsudvikling. Det giver lidt flere muligheder på platformen. 
+- **[Housers\*](/go/housers/)**. Lige nu har jeg valgt at gå ind i [Housers\*](/go/housers/) - primært fordi, man på Housers både kan investere i ejendomme og udlåne til ejendomsudvikling. Det giver lidt flere muligheder på platformen. 
 
 Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige platforme, men også at forsøge at sprede dem på de enkelte platforme.
 

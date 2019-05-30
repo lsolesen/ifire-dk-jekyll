@@ -16,7 +16,7 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Totalt indskud**: 57.000 DKK  
 **Totalt trukket ud**: 3.000 DKK
 
-[Flexfunding (DKK)](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
+[Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 
 ## Investeret og værdi af investering
 
@@ -34,4 +34,4 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 <iframe width="601.8858029824594" height="371.811460857151"  seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1619538531&amp;format=image"></iframe>
 
-[Flexfunding (DKK)](/go/flexfunding/){: .btn .btn--large .btn--info}
+[Besøg Flexfunding](/go/flexfunding/){: .btn .btn--large .btn--info}
