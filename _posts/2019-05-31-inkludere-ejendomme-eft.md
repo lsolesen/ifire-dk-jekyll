@@ -52,7 +52,7 @@ Desværre kan jeg ikke finde nogle ETF'er der tracker ejendomsmarkedet i Nordnet
 
 ## Crowdlending
 
-Jeg har investeret lidt i ejendomme gennem [Brickshare](/go/brickshare/), men der er ikke så mange projekter. Jeg har også investeret gennem en del udenlandske crowdlending platforme, som er specialiseret i ejendomme. Jeg er mest imponeret af [Housers\*](/go/housers/) og [PropertyPartner\*](/go/propertypartner/), men [Crowdestate\*](/go/crowdestate/), [Reinvest24\*](/go/reinvest24/) og [Bulkestate\*](/go/bulkestate/) er også muligheder. Når jeg kigger på crowdlending foretrækker jeg investere mine penge i projekter, hvor jeg månedligt vil få del i huslejen, så der kommer en fast indtægt på den måed.
+Jeg har investeret lidt i ejendomme gennem [Brickshare](/go/brickshare/), men der er ikke så mange projekter. Jeg har også investeret gennem en del udenlandske crowdlending platforme, som er specialiseret i ejendomme. Jeg er mest imponeret af [Housers\*](/go/housers/) og [PropertyPartner\*](/go/propertypartner/), men [Crowdestate\*](/go/crowdestate/), [Reinvest24\*](/go/reinvest24/) og [Bulkestate\*](/go/bulkestate/) er også muligheder. Når jeg kigger på crowdlending foretrækker jeg investere mine penge i projekter, hvor jeg månedligt vil få indtægt gennem huslejen.
 
 [Housers\*](/go/housers/){: .btn .btn--success} eller [Crowdestate\*](/go/crowdestate/){: .btn .btn--success} eller [Reinvest24\*](/go/reinvest24/){: .btn .btn--success} eller [Bulkestate\*](/go/bulkestate/){: .btn .btn--info} eller [Property Partner\*](/go/propertypartner/){: .btn .btn--info}
 
