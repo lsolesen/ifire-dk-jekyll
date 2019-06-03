@@ -1,5 +1,5 @@
 ---
-title: "Porteføljeforslag med aktier og obligationer #5?"
+title: "Nye fonde fra Storebrand til porteføljeforslagene #5?"
 last_modified_at: 2019-06-03T20:20:02+02:00
 permalink: /investering-vol5/
 category:
