@@ -48,9 +48,9 @@ Jeg har købt lidt [Danske Bank](https://www.morningstar.com/stocks/XCSE/DANSKE/
 
 Salget af ovenstående betyder også, at jeg lige nu har en rigtig stor andel af mine midler i kontant opsparing, som du se i tabellen ovenfor. Du kan også se den [opdaterede status på min portefølje](/portfolio/).
 
-Jeg har flyttet lidt penge til [Nord.investments*](/go/nord/) og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor*](/go/saxoinvestor/), og jeg er også ved at sammensætte min månedsopsparing hos [Nordnet](/go/nordnet/). 
+Jeg har flyttet lidt penge til [Nord.investments\*](/go/nord/) og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at sammensætte min månedsopsparing hos [Nordnet](/go/nordnet/). 
 
-[Få en gratis investeringsplan fra Nord.investments*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
 ## Crowd lending
 
@@ -94,15 +94,15 @@ I fremtiden vil jeg formentlig skærpe min portefølje lidt, men nu vil jeg se, 
 
 ## Bæredygtig investering i træ
 
-Jeg er ret interesseret i, [hvordan jeg kan gøre mine investeringer lidt mere bæredygtige](/overvejelser/etik-baeredygtighed-investeringer/) - og en af de måder jeg er blevet interesseret i er [Better Globe](http://www.passivindkomst.nu/better-globe/).
+Jeg er ret interesseret i, [hvordan jeg kan gøre mine investeringer lidt mere bæredygtige](/overvejelser/etik-baeredygtighed-investeringer/) - og en af de måder jeg er blevet interesseret i er [Better Globe\*](http://www.passivindkomst.nu/better-globe/).
 
 I den forbindelse stødte jeg også på [COOPs crowdfunding projekter](https://crowdfunding.coop.dk/projects), hvilket er lidt sjovt, for deres platform leveres af danske Lendino, som netop er [et af de projekter](https://www.funderbeam.com/syndicate/lendino) hos [Funderbeam*](/go/funderbeam/), jeg har budt på.
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info}
+[Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
 
 ## Opsparing og kontant
 
-Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
+Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [LunarWay\*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
 
 [Opret LunarWay og få 50DKK*](/go/lunarway/){: .btn .btn--large .btn--info}
 
@@ -114,7 +114,7 @@ Min interesse for at sætte noget af min opsparing i guld og sølv er blevet for
 
 ### Bitcoins
 
-Jeg har i løbet af februar eksperimenteret lidt med [Bitcoins*](/go/coinbase/),men jeg er stadig meget usikker på, om jeg skal i gang med at samle Bitcoins som opsparing.
+Jeg har i løbet af februar eksperimenteret lidt med [Bitcoins\*](/go/coinbase/),men jeg er stadig meget usikker på, om jeg skal i gang med at samle Bitcoins som opsparing.
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
 
@@ -122,9 +122,9 @@ Jeg har i løbet af februar eksperimenteret lidt med [Bitcoins*](/go/coinbase/),
 
 Jeg har som planlagt implementeret Google Adsense på [Motionsplan](http://www.motionsplan.dk/), [larsolesen.dk](http://larsolesen.dk) og [Fodboldens Legestue](http://legestue.net). Eksperimentet er at se, hvor meget siderne kan generere uden at gøre så meget andet. Google Adsense har i marts givet - og hold nu fast - **16,01 kroner**.
 
-Jeg har også oprettet mig hos [Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193), men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **12,29 kroner**.
+Jeg har også oprettet mig hos [Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193), men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **12,29 kroner**.
 
-[Skab passiv indkomst med Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info}
+[Skab passiv indkomst med Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info}
 
 ## Spørgsmål
 
