@@ -42,7 +42,7 @@ last_modified_at: 2019-06-03T00:00:00+08:00
 
 ## Juni 2019
 
-- Så er jeg ved at være klar til at investere min kapitalpension selv. Jeg har forskellige overvejelser om, hvordan jeg griber det bedst an, da der er minimumskurtage på 29 DKK i Spar Nord. Umiddelbart hælder jeg nok til at sælge alle SparNord-aktierne i dette depot og i stedet købe et akkumulerende fond, som fx Storebrands fonde.
+- Så er jeg ved at være klar til at investere min kapitalpension selv. Jeg har forskellige overvejelser om, hvordan jeg griber det bedst an, da der er minimumskurtage på 29 DKK i Spar Nord. Umiddelbart hælder jeg nok til at sælge alle SparNord-aktierne i dette depot og i stedet købe et akkumulerende fond, som fx Storebrands fonde. Det vil ellers blive for dyrt at skulle reinvestere det ellers gode udbytte fra SparNord-aktierne hvert år.
 
 ## Investering og værdi af investering
 
