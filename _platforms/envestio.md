@@ -12,7 +12,7 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 1. marts 2019  
-**Totalt indskud**: 1.000 EUR
+**Totalt indskud**: 1.000 EUR  
 **Totalt trukket ud**: 0 EUR
 
 ## Maj 2019
@@ -33,7 +33,7 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 ## Månedlig indkomst
 
-<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1155691955&amp;format=image"></iframe>
+<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1293854206&amp;format=image"></iframe>
 
 ## XIRR
 
