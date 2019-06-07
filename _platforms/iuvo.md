@@ -7,13 +7,35 @@ tags:
   - crowdlending
 excerpt: "Iuvo giver gode renter og hører til i Estland"
 last_modified_at: 2019-06-04T10:38:00+08:00
+toc: true
+classes: wide
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 21. maj 2019  
-**Totalt indskud**: 1.000 EUR
+**Totalt indskud**: 1.000 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## Fordele
+
+- Mange lån - fra 5-15% rente
+- 5 lånetyper, 4 lande, 7 låneudbydere
+- 30% _skin in the game_
+- Flere valutaer
+- Autoinvestor - som dog har lidt begrænsninger
+- Sekundært marked
+- Buyback garanti
+- En del information på hver enkelt lån
+- Mulighed for at få **30 EUR på 1000 EUR investering i signup bonus** (skriv til {{ site.email }}, hvis du vil have en _referral_ invitation)
+
+## Ulemper
+
+- _Autoinvest_ kan forbedres
+- Man kan ikke let læse mere information om den enkelte låneudbyder (jeg har i hvert fald ikke fundet det)
+- _Refer a friend_ kræver at man sender e-mails specifikt til en e-mail. Man får ikke bare et generelt link, man kan sende til dem, man har lyst til eller inkludere på sin blog (hvis du vil have **30 EUR for en investering på 1000 EUR**, kan jeg sende dig en invitation, hvis du lige skriver til {{ site.email }}). Hvis man skal have et link, så skal man blive _affiliate_ ([som jeg har blevet\*](/go/iuvo/)) for at få linket. Men jeg ville lige så gerne bare have været referral og lidt lettere kunne have givet de 30 EUR.
+
+[Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}
 
 ## Autoinvest
 
@@ -26,6 +48,10 @@ Iuvo skriver, at årsagen til, at den springer videre til næste autoinvestor er
 > \- Adiran Baev, Customer Support på chat 4. juni 2019
 
 Jeg svarede ham, at jeg synes investorerne skulle tage den beslutning selv. Iuvo lovede at tage det med i overvejelserne i fremtidige opdateringer.
+
+Mit autoinvestor er sat sådan her op lige nu:
+
+{% include figure image_path="/assets/images/autoinvest/iuvo-autoinvest.png" caption="Autoinvestor på Iuvo pr. 6. juni 2019" alt="Autoinvestor på Iuvo pr. 6. juni 2019" %}
 
 ## Investering og værdi af investering
 
