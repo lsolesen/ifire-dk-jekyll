@@ -12,7 +12,7 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 18. februar 2019  
-**Totalt indskud**: 4.048 EUR
+**Totalt indskud**: 4.048 EUR  
 **Totalt trukket ud**: 0 EUR
 
 ### Marts
