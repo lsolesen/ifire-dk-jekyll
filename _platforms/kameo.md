@@ -18,14 +18,17 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 - Det var ret let at oprette en konto på Kameo.
 - 5\. marts overførte jeg penge til Kameo (DKK) og Kameo (SEK).
 - 15\. marts overførte jeg penge til Kameo (NOK).
+- Hele måneden har jeg kørt med cash drag, da der ikke er så mange lån.
 
 ## April 2019
 
 - Man veksler gratis mellem valutakonti på Kameo, men det er virkelig irriterende, at man ikke kan _straksoverføre_ penge mellem de forskellige valutakonti, hvis der kommer et interessant lån i en anden valuta.
+- Jeg kører stadig med cash drag, da der ikke er så mange lån - særligt den norske del, hvor der slet ikke har været nogen lån.
 
 ## Juni 2019
 
-- Jeg trak pengene ud til Kameo (NOK), da der slet ikke har været et eneste norsk lån på to måneder. Jeg har valgt at trække pengene helt ud af Kameo og kun fastholde Kameo (SEK) og Kameo (DKK). Jeg forventer ikke at skyde flere penge ind i Kameo som lånesituationen og brugen af platformen ser ud lige nu. Der sker lidt for lidt til lidt for dårlige renter.
+- Jeg kører stadig med cash drag i alle valutaer (DKK, SEK og NOK).
+- Jeg trak pengene ud til Kameo (NOK), da der slet ikke har været et eneste norsk lån på to måneder. Jeg har valgt at trække pengene helt ud af Kameo og kun fastholde Kameo (SEK) og Kameo (DKK). Jeg forventer ikke at skyde flere penge ind i Kameo som lånesituationen og brugen af platformen ser ud lige nu. Der sker lidt for lidt til lidt for dårlige renter. **Jeg skulle naturligvis have valgt at flytte pengene til den danske del af Kameo, da jeg så var sluppet for vekselgebyret, når de skal ind på min danske konto i Spar Nord.**
 
 ## Kameo (DKK)
 
