@@ -19,7 +19,7 @@ Jeg er ved at udarbejde en strategi for mine investeringer. Du kan følge med i 
 
 ### Investeringer i værdipapirer - aktier og obligationer
 
-Jeg er ved at [udarbejde en decideret strategi for min investering](/investering-vol2/). Lige nu har jeg et stort kontant beløb, som skal sættes i værdipapirer.
+Min strategi for værdipapir-investering er [under](/investering-vol2/) [stadige](/investering-vol3/) og [løbende](/investering-vol4/) [overvejelser](/investering-vol5/).
 
 <iframe width="600" height="427" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=858965065&amp;format=image"></iframe>
 
