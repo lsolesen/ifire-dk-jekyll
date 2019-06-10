@@ -47,13 +47,23 @@ Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor
 
 [Se portefølje #2 på Shareville](https://shareville.dk/me/portfolios/349933/positions){: .btn .btn--large .btn--success}
 
+#### Nordnet #3: Udbytteaktier
+
+Jeg kæmper med at opbygge en portefølje af udbytteaktier, som kan supplere min faste, passive indtægt fra crowdlending.
+
+<iframe src="https://www.shareville.se/widget/portfolio/358447/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+<iframe src="https://www.shareville.se/widget/portfolio/358447/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+[Se portefølje #3 på Shareville](https://shareville.dk/me/portfolios/358447/positions){: .btn .btn--large .btn--success}
+
 #### SaxoInvestor - og aktiesparekonto
 
 Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som endnu ikke er investeret, og hvor jeg endnu ikke helt har udtænkt, hvad der skal være på kontoen.
 
 #### Kapitalpension
 
-Min kapitalpension har indtil 2019 været investeret i nogle SparNord-aktier og puljer. Fra marts 2019 skal jeg selv investere hele beløbet. Planen er at vælge en passiv, dansk indeksfond, som bare skal få kapitalpensionen til at vokse.
+Min kapitalpension har indtil 2019 været investeret i nogle SparNord-aktier og puljer. Fra juni 2019 skal jeg selv investere hele beløbet. Planen er at vælge en passiv, dansk indeksfond, som bare skal få kapitalpensionen til at vokse.
 
 - [SparNord-aktier](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)
 
@@ -79,7 +89,7 @@ For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan
 
 ### Indlånskonto
 
-Jeg har en indlånskonto hos [LunarWay*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000, jeg har stående på kontoen. 
+Jeg har en indlånskonto hos [LunarWay\*](/go/lunarway/), hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen. 
 
 [Opret en konto hos LunarWay og få 50 DKK*](/go/lunarway/){: .btn .btn--large .btn--success}
 
@@ -87,16 +97,19 @@ Jeg har en indlånskonto hos [LunarWay*](/go/lunarway/), hvor jeg får 2% cashba
 
 Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/), hvor jeg får 0,7% i rente.
 
+### Valutakonto
+
+Jeg har en konto hos [Revolut\*](/go/revolut/), hvor jeg kan veksle gratis på tværs af valutaer.
+
 ### Guld og sølv
 
-Mange sparer op i guld og sølv, og jeg har oprettet en konto hos BullionVault, hvor man kan købe guld og sølv til gode priser - og samtidig få det opbevaret for rimelige priser (noget der tidligere afholdte mig fra at købe guld og sølv i opsparingen). Planen er at købe noget guld op der, ligesom jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
+Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVault\*](/go/bullionvault/), men omkostningerne ved at få det opbevaret blev for høje. Jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
 
 [Opret konto hos BullionVault og få 4 gram sølv*](/go/bullionvault/){: .btn .btn--large .btn--warning}
 
 ### Cryptovaluta
 
 Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/)
-
 
 [Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
 
