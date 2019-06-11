@@ -109,7 +109,7 @@ Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVa
 
 ### Cryptovaluta
 
-Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/)
+Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/).
 
 [Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
 
