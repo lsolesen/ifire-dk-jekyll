@@ -11,11 +11,13 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 20. februar 2017  
-**Totalt indskud**: 5.000 EUR
-**Totalt trukket ud**: 0 EUR
+**Første investeringsdato**: 20. februar 2019  
+**Totalt indskud**: 1.000 EUR  
+**Totalt trukket ud**: 4.000 EUR
 
-Den mere [traditionelle _crowd lending_ hos Bondora får ikke så god kritik i øjeblikket](https://financiallyfree.eu/portfolio-update-january-2019/), så jeg har valgt kun at investere i Go & Grow og kaldt det opsparing, da jeg hurtigt kan få pengene ud igen, hvis jeg har brug for dem. Det virker dog også til, at det er muligt på de mere traditionelle crowdlending platforme med sekundære markeder, som fx [Mintos](/platform/mintos/).
+Den mere [traditionelle _crowd lending_ hos Bondora får kritik i øjeblikket](https://financiallyfree.eu/portfolio-update-january-2019/), så jeg har valgt kun at investere i Go & Grow. Jeg opfatter det egentlig som en ret sikker opsparing, da jeg hurtigt kan få pengene ud igen, hvis jeg har brug for dem. Det kan man også på andre crowdlending platforme med likvide sekundære markeder, som fx [Mintos](/platform/mintos/).
+
+**Bondora Go & Grow** 
 
 ## Go and Grow - til opsparing
 
@@ -27,15 +29,24 @@ Det er tillokkende at bruge Bondora som en _højrentekonto_, men du [afgiver ogs
 
 Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
 
-Jeg har endnu ikke selv taget penge ud fra Bondora, men opdaterer så snart jeg prøver det.
+Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svindleri. Jeg trak et mindre beløb ud på mit Spar Nord visa-kort, for det er ikke muligt at trække dem ud på et Revolut-betalingskort af en eller anden årsag, som jeg ikke helt kender. Dernæst blev muligheden for at lave en SEPA-bankoverførsel åbnet, og der kunne jeg uden problemer overføre pengene til min Revolut-konto, som jeg også havde brugt til at sætte pengeene ind på Bondora-kontoen.
+
+## Februar 2019
+
+- Jeg overfører først penge med mit almindelige Visa-kort fra Spar Nord.
+- Senere laver jeg en gratis kontooverførsel fra min Revolut-konto.
+
+## April 2019
+
+- Jeg har valgt at sætte en relativt stor pose penge ind med min Revolut-konto til Bandora Grow & Go, så pengene kunne generere lidt renter, mens jeg venter på at jeg gerne vil bruge dem. Planen er at disse renter skal betale for udgifterne til at opgradere min Revolut-konto, så jeg kan veksle lidt mere om måneden i det næste års tid.
 
 ## Maj 2019
 
 - Ingen ændringer
 
-## April 2019
+## Juni 2019
 
-- Jeg har valgt at sætte en relativt stor pose penge ind på Bandora Grow & Go, så pengene kunne generere lidt renter, mens jeg venter på at jeg gerne vil bruge dem.
+Pga. Mintos nye tiltag med Invest & Access og en mindre planlagt omrokering af min crowdlending portefølje har jeg trukket 4.000 EUR ud af Bondoras Grow & Go igen. Det virker ellers til at køre godt og stabilt, men jeg kan få højere afkast andre steder. Hvis jeg får nogle EUR, jeg ikke lige ved, hvor jeg skal placere, så ender de formentlig på Bondora Go & Grow igen. 
 
 ## Investering og værdi af investering
 

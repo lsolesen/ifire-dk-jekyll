@@ -26,6 +26,8 @@ I alt kostede det mig 37,9 DKK, hvilket jeg skrev til Etoros kundeservice med.
 >
 > \- Oksana, customerservice 7. juni 2019
 
-[Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--info}
+12\. juni: Etoros support svarede relativt hurtigt på min henvendelse, og de refundered 25 USD til min konto, som rigeligt dækkede forskellen i vekselkurs. Så jeg er i hvert fald godt tilfreds.
+
+[Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
 
 <a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="" width="300" height="600"></a>
