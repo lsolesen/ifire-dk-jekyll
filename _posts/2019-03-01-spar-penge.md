@@ -46,10 +46,6 @@ Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en
 
 ***
 
-{% include bundl.md %}
-
-***
-
 ## Har du flere spareråd?
 
 Vi er altid interesseret i at spare, så hvis du har andre måder at spare på, så skriv endelig.

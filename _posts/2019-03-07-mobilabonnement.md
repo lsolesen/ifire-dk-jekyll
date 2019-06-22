@@ -27,10 +27,6 @@ Tjek om du kan spare hos
 
 ***
 
-{% include bundl.md %}
-
-***
-
 ## Hvad hvis jeg skal have ny mobil?
 
 Ofte kan det betale sig at købe en ny mobil gennem en pakkeaftale ved et teleselskab, og når mobilen er betalt, så kan du tjekke om abonnementet er det mest konkurrencedygtige på de to services.
