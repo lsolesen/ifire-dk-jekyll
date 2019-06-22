@@ -68,6 +68,6 @@ På et tidspunkt kunne det måske også være lidt interessant selv at prøve at
 
 [Opret dig på Etoro\*](/go/etoro/){: .btn .btn--large .btn--success}
 
-<a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="" width="300" height="600"></a>
+<a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="Etoro" width="300" height="600"></a>
 
 {% include disclaimer.md %}
