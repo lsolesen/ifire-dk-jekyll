@@ -33,4 +33,6 @@ Jeg vil gå i gang med at vurdere de enkelte platforme i min portefølje. Jeg sk
 - Hvor mange penge vil jeg have investeret samlet på en platform?
 - Får jeg en høj nok intern rente på platformen?
 
+[Se alle mine platforme](/platforme/){: .btn .btn--large .btn--success}
+
 {% include disclaimer.md %}
