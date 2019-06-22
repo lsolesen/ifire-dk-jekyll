@@ -5,8 +5,8 @@ header:
   teaser: /assets/images/logo/bondora.png
 tags:
   - crowdlending
-excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"
-last_modified_at: 2019-03-24T00:00:00+08:00
+excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på omkring 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"
+last_modified_at: 2019-06-14T00:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -46,7 +46,9 @@ Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svind
 
 ## Juni 2019
 
-Pga. Mintos nye tiltag med Invest & Access og en mindre planlagt omrokering af min crowdlending portefølje har jeg trukket 4.000 EUR ud af Bondoras Grow & Go igen. Det virker ellers til at køre godt og stabilt, men jeg kan få højere afkast andre steder. Hvis jeg får nogle EUR, jeg ikke lige ved, hvor jeg skal placere, så ender de formentlig på Bondora Go & Grow igen. 
+Pga. Mintos nye tiltag med Invest & Access og en mindre planlagt omrokering af min crowdlending portefølje har jeg trukket 4.000 EUR ud af Bondoras Grow & Go igen. Det virker ellers til at køre godt og stabilt, men jeg kan få højere afkast andre steder. Hvis jeg får nogle EUR, jeg ikke lige ved, hvor jeg skal placere, så ender de formentlig på Bondora Go & Grow igen.
+
+Jeg fik pengene på min Revolut-konto samme dag, som jeg trak dem ud fra Bandora, hvilket jo er helt fantastisk.
 
 ## Investering og værdi af investering
 
