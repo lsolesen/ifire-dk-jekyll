@@ -33,11 +33,21 @@ last_modified_at: 2019-06-24T00:00:00+08:00
 
 ## Juni 2019
 
-- Det er tankevækkende, at [Danske Bank 24. juni 2019 fyrer direktør](https://www.dr.dk/nyheder/penge/danske-banks-bestyrelse-fyrer-direktoer), fordi han har accepteret at Danske Banks produkt Flexinvest Fri tog for høje aftalegebyrer på deres investeringsprodukt. Det er netop gebyrernes højde, der har gjort, at jeg har lukket mint Stjerneinvest Fri fra Spar Nord. Dog ved jeg ikke, hvad gebyrerne har været på Danske Banks produkt ctr. Spar Nords produkt.
+- Det er tankevækkende, at [Danske Bank 24. juni 2019 fyrer direktør](https://www.dr.dk/nyheder/penge/danske-banks-bestyrelse-fyrer-direktoer), fordi han har accepteret at Danske Banks produkt Flexinvest Fri tog for høje aftalegebyrer på deres investeringsprodukt. Det er netop gebyrernes højde, der har gjort, at jeg har lukket mint Stjerneinvest Fri fra Spar Nord.
 
 > Danske Bank oplyser, at banken vil betale 87.000 Flexinvest Fri-kunder godtgørelse, fordi de er blevet opkrævet for høje aftalegebyrer på investeringer i Flexinvest Fri. Dertil vil nogle kunder få kompensation ud fra, hvad de kunne have opnået i afkast ved at investere i et andet produkt. - [DR](https://www.dr.dk/nyheder/penge/danske-banks-bestyrelse-fyrer-direktoer)
 
-Jeg har fundet en folder, der fortæller at Danske Bank tog mellem 1,64% og 1,89% i ÅOP ([kilde](/assets/pdf/flexinvest.pdf)).
+Jeg har fundet en folder fra Danske Bank, der fortæller at Danske Bank samlet mellem 1,64% og 1,89% i ÅOP ([kilde](/assets/pdf/flexinvest.pdf)).
+
+I nedenstående tabel har jeg selv siddet og regnet lidt på mine SparNord investeringer og sammenlignet dem med folderen fra Danske Bank. Beløbene ligger jo ikke så langt fra hinanden, så er denne udfordring kun for Danske Bank - eller er det en bankudfordring?
+
+|                     | Spar Nord   | Danske Bank |
+|---------------------|-------------|-------------|
+| Årligt aftalegebyr  | 0,65%-0,87% | 0,56%-1,0%  |
+| Fondsomkostninger   | BankInvest  | 0,47%-1,17% |
+| Handelsomkostninger | 0,4-0,5%    | 0,4-0,5%    |
+|---------------------|-------------|-------------|
+| Samlet ÅOP          | 1,25-1,70%  | 1,65-1,89%  |
 
 ## Investering og værdi af investering
 
