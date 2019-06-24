@@ -45,7 +45,7 @@ De platforme der giver lån til udviklingsprojekter, som fx [Crowdestor\*](/go/c
 
 [PropertyPartner\*](/go/propertypartner/) og [Reinvest24\*](/go/reinvest24/) har jeg efter tre-fire måneder stadig negativt afkast på. Det skyldes, at der er gebyrer forbundet med at investere i de to platforme (og at jeg ikke har fået _sign up_ bonus på de to platforme). Til gengæld er det platforme, hvor man få del i lejeindtægterne. 
 
-Jeg har også et par lån på [Housers\*](/go/housers/), hvor jeg får lejeindtægter, men der er også flere udviklingslån. At [Housers\*](/go/housers/) giver så høj en XIRR så hurtigt skyldes en fin _sign up_-bonus.
+Jeg har også et par lån på [Housers\*](/go/housers/), hvor jeg får lejeindtægter, men der er også flere udviklingslån. [Housers\*](/go/housers/) giver en fin _sign up_-bonus, som ikke er medregnet i nedenstående XIRR.
 
 <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=782048792&amp;format=image"></iframe>
 

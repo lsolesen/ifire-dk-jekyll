@@ -1,5 +1,5 @@
 ---
-title: "Hvor meget bør man investere på den enkelte platform?"
+title: "Hvor meget bør man investere på den enkelte crowdlending platform?"
 category:
   - Investering
 tags:
