@@ -45,7 +45,7 @@ I nedenstående tabel har jeg selv siddet og regnet lidt på mine SparNord inves
 |---------------------|-------------|-------------|
 | Årligt aftalegebyr  | 0,65%-0,87% | 0,56%-1,0%  |
 | Fondsomkostninger   | BankInvest  | 0,47%-1,17% |
-| Handelsomkostninger | 0,4-0,5%    | 0,4-0,5%    |
+| Handelsomkostninger | 0,4-0,5%    | ?           |
 |---------------------|-------------|-------------|
 | Samlet ÅOP          | ?           | 1,65-1,89%  |
 
