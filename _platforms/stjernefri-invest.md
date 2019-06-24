@@ -15,12 +15,8 @@ last_modified_at: 2019-06-24T00:00:00+08:00
 **Første investeringsdato**: 15. maj 2013  
 **Totalt indskud**: 1.061.518 DKK  
 **Totalt hævet**: 1.212.480 DKK  
-**Endelig XIRR**: 2,75%
+**Endelig XIRR**: 2,75%  
 **Lukket**: 29. marts 2019
-
-## Maj 2013
-
-- Jeg havde et overskud i min private økonomi, som jeg gerne ville investere. Jeg havde en tidligere investering i Spar Nord og valgte at følge deres råd med at sætte pengene i et fuldmagtsplejeprodukt, fordi jeg ikke selv ville handle værdipapirer.
 
 ## Februar 2019
 
@@ -30,6 +26,10 @@ last_modified_at: 2019-06-24T00:00:00+08:00
 ## Marts 2019
 
 - Det lykkedes mig så at få solgt hele beholdningen. Jeg endte med en intern rente på **2,79%** i perioden, så jeg har da heldigvis klaret mig bedre end inflationen. Jeg ønskede et produkt uden, at jeg selv skulle sætte mig ind i investeringer. Men jeg er godt nok ærgerlig over, at jeg er endt med et produkt, som dels har taget et højt gebyr for med fuldmagt at håndtere min formue - og som har købt ind i nogle ret dyre investeringsforeningsprodukter, der har betydet, at min samlede investering ikke er vokset som potentialet egentlig var til.
+
+## Maj 2013
+
+- Jeg havde et overskud i min private økonomi, som jeg gerne ville investere. Jeg havde en tidligere investering i Spar Nord og valgte at følge deres råd med at sætte pengene i et fuldmagtsplejeprodukt, fordi jeg ikke selv ville handle værdipapirer.
 
 ## Juni 2019
 
