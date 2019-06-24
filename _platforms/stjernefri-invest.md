@@ -47,7 +47,9 @@ I nedenstående tabel har jeg selv siddet og regnet lidt på mine SparNord inves
 | Fondsomkostninger   | BankInvest  | 0,47%-1,17% |
 | Handelsomkostninger | 0,4-0,5%    | 0,4-0,5%    |
 |---------------------|-------------|-------------|
-| Samlet ÅOP          | 1,25-1,70%  | 1,65-1,89%  |
+| Samlet ÅOP          | ?           | 1,65-1,89%  |
+
+Den samlede ÅOP for Spar Nord er udregnet uden fondsomkostningerne, men udelukkende gebyrer og handelsomkostninger.
 
 ## Investering og værdi af investering
 
