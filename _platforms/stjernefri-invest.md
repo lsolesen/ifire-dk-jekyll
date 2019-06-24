@@ -8,6 +8,7 @@ tags:
   - værdipapirer
 excerpt: "Stjerneinvest Fri er SparNords fuldmagtspleje produkt til investering af frie midler."
 last_modified_at: 2019-06-24T00:00:00+08:00
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
