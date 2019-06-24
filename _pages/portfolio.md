@@ -59,15 +59,16 @@ Jeg kæmper med at opbygge en portefølje af udbytteaktier, som kan supplere min
 
 #### SaxoInvestor - og aktiesparekonto
 
-Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som endnu ikke er investeret, og hvor jeg endnu ikke helt har udtænkt, hvad der skal være på kontoen.
+Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_.
 
 #### Kapitalpension
 
-Min kapitalpension har indtil 2019 været investeret i nogle SparNord-aktier og puljer. Fra juni 2019 skal jeg selv investere hele beløbet. Planen er at vælge en passiv, dansk indeksfond, som bare skal få kapitalpensionen til at vokse.
+Min kapitalpension investeret i nogle SparNord-aktier og akkumulerende fonde.
 
 - [SparNord-aktier](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)
+- [Danske Invest Global Indeks Akk KL DKK](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)
 
-[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan fra NORD\*](/go/nord/){: .btn .btn--large .btn--warning}
 
 ### Investeringer i crowdlending
 
@@ -91,7 +92,7 @@ For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan
 
 Jeg har en indlånskonto hos [LunarWay\*](/go/lunarway/), hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen. 
 
-[Opret en konto hos LunarWay og få 50 DKK*](/go/lunarway/){: .btn .btn--large .btn--success}
+[Opret en konto hos LunarWay og få 50 DKK\*](/go/lunarway/){: .btn .btn--large .btn--success}
 
 ### Opsparingskonto
 
@@ -105,13 +106,11 @@ Jeg har en konto hos [Revolut\*](/go/revolut/), hvor jeg kan veksle gratis på t
 
 Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVault\*](/go/bullionvault/), men omkostningerne ved at få det opbevaret blev for høje. Jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
 
-[Opret konto hos BullionVault og få 4 gram sølv*](/go/bullionvault/){: .btn .btn--large .btn--warning}
-
 ### Cryptovaluta
 
 Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/).
 
-[Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins*](/go/coinbase/){: .btn .btn--large .btn--success}
+[Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--success}
 
 ## Opsparingsrate
 
