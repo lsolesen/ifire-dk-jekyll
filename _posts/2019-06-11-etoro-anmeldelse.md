@@ -31,7 +31,7 @@ Lige nu bruger jeg udelukkende Etoro til _copy trading_, men der er også mange 
 - **Køb selv**. Du kan selv købe aktier, ETF'er, investeringsfonde, råvarer, valutaer og kryptovalutaer. Større udenlandske aktier handles til såkaldt _zero commission_-aktiehandel. Der er således kun det såkaldte _spread_ tilbage, som følger den børs, aktien er noteret på.
 - **Copy trading**. Du finder interessante folk og så sætter du mere eller mindre din investering på autopilot. Det kan formentlig betale sig at vælge et par forskellige _copy tradere_ for at sprede din risiko lidt.
 - **Copy Portfolios**. Har kan du følge fx en portefølje af de mest succesfulde tradere på Etoro eller kryptovaluaer. Det kræver at du mindst har sat 5.000 US$ ind på din konto. Men så får du en diversificeret portefølje med relativt lave omkostninger.
-**Bliv copy investor**. Du kan selv blive en af de investorer, man følger. Hvis du er godt til at investere, så kan du tjene en lille skilling på at blive en af dem, folk gerne vil følge. 
+- **Bliv copy investor**. Du kan selv blive en af de investorer, man følger. Hvis du er godt til at investere, så kan du tjene en lille skilling på at blive en af dem, folk gerne vil følge. 
 
 ## Hvordan har jeg gjort?
 

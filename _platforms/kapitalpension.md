@@ -7,7 +7,7 @@ tags:
   - investering
   - værdipapirer
 excerpt: "Kapitalpensionen blev oprettet for at blive Stjernekunde i SparNord og består primært af SparNord-aktier"
-last_modified_at: 2019-06-30T10:14:00+08:00
+last_modified_at: 2019-06-24T10:14:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -19,7 +19,7 @@ last_modified_at: 2019-06-30T10:14:00+08:00
 ## 2001
 
 - Åbnet efter råd fra min bankrådgiver i SparNord for at blive Stjernekunde med de fordele det nu gav.
-- Noget af investeringerne står i Spar Nord aktier, mens andre er investeret i puljer i Spar Nord. Der blev købt 30 Spar Nord-aktier.
+- Investeringerne står i Spar Nord aktier.  Der blev købt 30 Spar Nord-aktier. Senere bliver noget af kapitalpensionen investeret i puljer i Spar Nord.
 
 ## November 2005
 

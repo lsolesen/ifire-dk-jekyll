@@ -6,7 +6,7 @@ header:
 tags:
   - crowdlending
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2019-06-30T00:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -18,23 +18,23 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til salg, hvis du får brug for din investering hurtigere end lånene løber ud. Og det ser ud til at virke rigtig godt ifølge [P2P Millionaire](https://p2p-millionaire.com/how-liquid-is-the-mintos-secondary-market-our-e1m-p2p-lending-early-exit-test/)
 
-## Current investments in EUR
+## Februar 2019
 
-{% include figure image_path="/assets/images/temp/mintos-status.png" alt="Current investments Mintos" caption="Current investments 18/03/2019" %}
+- Jeg fik overført i DKK. Det fortrød jeg hurtigt, da der ikke er særlig mange låneudbydere.
+
+## April 2019
+
+- Jeg brugte [Mintos Loan Scanner](http://explorep2p.com/mintos-loan-scanner/), og jeg har kun valgt dem der har mindst C+ i rating.
+- Jeg er begyndt at flytte de fleste udløbne lån fra DKK til EUR. Det går heldigvis rimelig hurtigt, og det er smart at man i auto-investoren kan indstille, at man gerne vil have et rådighedsbeløb på sin konto.
 
 ## Maj 2019
 
 - Jeg har revideret min auto-invest profil og gjort den endnu mere opdelt, så jeg først og fremmest får lån med høje renter både fra det primære og sekundære marked. Jeg har primært valgt låneudbydere der har mindst B--rating.
 
-## April 2019
+## Juni 2019
 
-- Jeg brugte [Mintos Loan Scanner](http://explorep2p.com/mintos-loan-scanner/), og jeg har kun valgt dem der er mindst C+.
-- Jeg er begyndt at flytte de fleste udløbne lån fra DKK til EUR. Det går heldigvis rimelig hurtigt, og det er smart at man i auto-investoren kan indstille, at man gerne vil have et rådighedsbeløb på sin konto.
-
-## Februar 2019
-
-- Jeg fik overført i DKK. Det fortrød jeg hurtigt, da der ikke er særlig mange låneudbydere.
-
+- Jeg har endelig lukket min Mintos-konto i danske kroner ned. Det lykkedes faktisk med en fornuftig intern rente på **???**, selvom jeg har brugt det meste af tiden på at flytte midlerne over på EUR-kontoen og betalt noget vekselgebyr for det. Jeg satser på Mintos-kontoen i EUR.
+- Jeg har allokeret en del af min portefølje til deres nye produkt _Invest & Access_, som jeg opfatter som en direkte konkurrent til [Bondoras Go & Grow\*](/go/bondora/).
 
 ## Investering og værdi af investering
 

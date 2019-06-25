@@ -6,6 +6,7 @@ permalink: /platform/etoro/
 tags:
   - investering
   - copy trading
+  - værdipapirer
 excerpt: "Etoro er en investeringsplatform, hvor man kan købe udenlandske aktier gratis og lave copy trading."
 last_modified_at: 2019-06-07T00:00:00+08:00
 ---
@@ -27,6 +28,8 @@ I alt kostede det mig 37,9 DKK, hvilket jeg skrev til Etoros kundeservice med.
 > \- Oksana, customerservice 7. juni 2019
 
 12\. juni: Etoros support svarede relativt hurtigt på min henvendelse, og de refundered 25 USD til min konto, som rigeligt dækkede forskellen i vekselkurs. Så jeg er i hvert fald godt tilfreds.
+
+Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen).
 
 [Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
 

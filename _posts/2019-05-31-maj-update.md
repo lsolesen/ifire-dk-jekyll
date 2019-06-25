@@ -81,9 +81,9 @@ Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods 
 | Platform                                       | Start | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|-------|--------------|------|----------|
 | [Flexfunding (DKK)](/go/flexfunding/)          | 2017  | 1            | Nej  | 24       |   
-| [Kameo (DKK)](/go/kameo/)                      | 2019  | 1            | Ja   | 4        |
-| [Kameo (SEK)](/go/kameo/)                      | 2019  | 1            | Ja   | 3        |
-| [Kameo (NOK)](/go/kameo/)                      | 2019  | 1            | Ja   | 0        |
+| [Kameo (DKK)](/go/kameo/)                      | 2019  | 1            | Nej  | 4        |
+| [Kameo (SEK)](/go/kameo/)                      | 2019  | 1            | Nej  | 3        |
+| [Kameo (NOK)](/go/kameo/)                      | 2019  | 1            | Nej  | 0        |
 | [Lenndy (EUR)*](/go/lenndy/)                   | 2019  | 3            | Ja   | 97       |
 | [Iuvo (EUR)*](/go/lenndy/)                     | 2019  | 1            | Ja   | 25       |
 | [Trine (EUR)*](/go/trine/)                     | 2019  | 1            | Nej  | 6        |
