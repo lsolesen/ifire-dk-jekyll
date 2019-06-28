@@ -33,7 +33,7 @@ Det er også værd at bemærke, at mine crowdlending ejendomsinvesteringer stadi
 
 Mine værdipapirporteføljer har kørt nogenlunde stabilt gennem perioden, og juni har været noget bedre end maj. 
 
-_Copy trading_ på [eToro\*](/go/etoro/) synes jeg er ret genialt. Jeg har en intern rente på **39,73%** i juni måned, som er min første måned på Etoro. Alle de investorer, jeg har valgt at _copy trade_, har positivt afkast. Jeg synes, at det er en ret god måde at diversificere min portefølje på, da _traderne_ både handler med aktier, krypto, commodities, indekser, ETF'er og andre valuta. Du kan se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen).
+_Copy trading_ på [eToro\*](/go/etoro/) synes jeg er ret genialt (med en mindre del af porteføljen, for opfatter det også som risikofyldt). Jeg har en intern rente på **39,73%** i juni måned, som er min første måned på Etoro. Alle de investorer, jeg har valgt at _copy trade_, har positivt afkast. Jeg synes, at det er en ret god måde at diversificere min portefølje på, da _traderne_ både handler med aktier, krypto, commodities, indekser, ETF'er og andre valuta. Du kan se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen).
 
 Jeg havde egentlig håbet, at jeg kunne have opbygget en rigtig god udbytteaktieportefølje, men det [går ikke så godt med den](https://shareville.dk/profiles/lsolesen/portfolios/358447). Jeg har nærmest besluttet mig til, at jeg allerede vil udfase den, når værdipapirerne går i plus og sætte resten over i [passivt forvaltede fonde](https://www.24syv.dk/programmer/millionaerklubben/53195275/aktiv-eller-passiv-forvaltning-2). Så kan det være, at jeg vender tilbage til at opbygge en udbytteaktieinvestering på et senere tidspunkt.
 
