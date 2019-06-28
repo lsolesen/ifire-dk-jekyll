@@ -81,7 +81,7 @@ Her er et hurtigt overblik over platformene.
 
 ### Mine favoritter
 
-Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods deres korte levetid oppe på en _intern rente_ på over 6,5%.
+Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods deres korte levetid oppe på en _intern rente_ på over 9,5%.
 
 | Automatiserede platforme                | Start | Låneudbydere | Auto | Mine lån | XIRR   |
 |-----------------------------------------|-------|--------------|------|----------|--------|
