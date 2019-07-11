@@ -27,7 +27,7 @@ Jeg har valgt at prøve Etoro for at bruge deres _copy trading_-funktionalitet. 
 
 Der blev den 6. juni lavet en transaktion til Etoro (som jeg er ret sikker på, at jeg ikke har lavet). Transaktionen blev returneret næste dag. Men desværre var der forskel i vekselkursen, så jeg tabtle lidt penge.
 
-I alt kostede det mig 37,9 DKK, hvilket jeg skrev til Etoros kundeservice med.
+I alt kostede det mig 37,90 DKK, hvilket jeg skrev til Etoros kundeservice.
 
 > Etoro payment doesn't have anything to do with top up issues, I'm afraid. Looks like they charged you twice 500 USD and later sent 500 USD refund for an extra charge. Second 500 USD payment was deducted as an offline transaction. The offline transaction is processed very similar to how credit card transactions work. If POS card terminal allows offline transactions, then authorisation can be made without the real time connection to the card issuer. Card terminal is not sending the authorisation request to us, as it happens with standard online transactions. In those cases, we are not able to block the funds as a cover for future transactions. Amount requested by the merchant has not deducted right away at the point of sale, but the merchant can send it to our system with a delay to claim the funds. In this way, payment can be completed without actually checking if the user has sufficient balance on the card. Later they must have realized that they charged you when you made an original transaction and when they sent an offline charge. That's why they sent you a refund of extra charge.
 >
