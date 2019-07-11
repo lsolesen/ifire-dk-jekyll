@@ -1,6 +1,7 @@
 ---
 title: "Etoro - copytrading og kurtagefri aktiehandel"
 permalink: /etoro-anmeldelse/
+last_modified_at: 2019-07-11T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
   teaser: /assets/images/logo/etoro.jpg
@@ -13,7 +14,7 @@ tags:
   - aktier
   - ETF
   - råvarer
-excerpt: "Brave er en hurtig og sikker browser, der giver dig mulighed for at blokere reklamer og give credits til de sites, du kan lide."
+excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
 ---
 
 Jeg er blevet interesseret i Etoro, fordi man kan lave _copy trading_ på platformen. I _copy trading_ kopierer du andre tradere. Jeg har ambitioner om, at mine investeringer følger markedet for størstedelen af min portefølje. Men det er også tillokkende at kunne slå markedet. Jeg har ikke tid eller tålmodighed til at sidde og _trade_ ofte. Derfor er det interessant at kunne følge andre tradere, der hele tiden forsøger at slå markedet og konstant skal gøre sig fortjent til at blive fulgt, fordi de kan levere et godt afkast. 

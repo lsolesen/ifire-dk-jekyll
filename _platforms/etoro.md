@@ -8,14 +8,20 @@ tags:
   - copy trading
   - værdipapirer
 excerpt: "Etoro er en investeringsplatform, hvor man kan købe udenlandske aktier gratis og lave copy trading."
-last_modified_at: 2019-06-07T00:00:00+08:00
+last_modified_at: 2019-07-11T20:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 29. maj 2019  
-**Totalt indskud**: 3.500 EUR  
+**Totalt indskud**: 5.000 EUR  
 **Totalt trukket ud**: 0 EUR
+
+Jeg bruger Etoro til _copy trading_. Jeg har samlet fordele og ulemper i [min anmeldelelse af Etoro](/etoro-anmeldelse/).
+
+## Maj 2019
+
+Jeg har valgt at prøve Etoro for at bruge deres _copy trading_-funktionalitet. Du kan se, hvem jeg følger i min [portefølje på Etoro](https://www.etoro.com/people/lsolesen).
 
 ## Juni 2019
 
@@ -29,7 +35,25 @@ I alt kostede det mig 37,9 DKK, hvilket jeg skrev til Etoros kundeservice med.
 
 12\. juni: Etoros support svarede relativt hurtigt på min henvendelse, og de refundered 25 USD til min konto, som rigeligt dækkede forskellen i vekselkurs. Så jeg er i hvert fald godt tilfreds.
 
-Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen).
+Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen) og [læs min anmeldelelse af Etoro](/etoro-anmeldelse/).
+
+[Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
+
+## Investering og værdi af investering
+
+<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1350118565&amp;format=image"></iframe>
+
+## Månedlig indkomst
+
+<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=723220936&amp;format=image"></iframe>
+
+## XIRR
+
+<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1359342364&amp;format=image"></iframe>
+
+## Transaktioner
+
+<iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1677834447&amp;format=image"></iframe>
 
 [Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
 
