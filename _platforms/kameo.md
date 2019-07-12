@@ -42,7 +42,7 @@ last_modified_at: 2019-07-12T12:45:00+08:00
 ## Juni 2019
 
 - Jeg kører stadig med cash drag i alle valutaer (DKK, SEK og NOK).
-- Jeg trak pengene ud til Kameo (NOK), da der slet ikke har været et eneste norsk lån på to måneder. Jeg har valgt at trække pengene helt ud af Kameo og kun fastholde Kameo (SEK) og Kameo (DKK). Jeg forventer ikke at skyde flere penge ind i Kameo som lånesituationen og brugen af platformen ser ud lige nu. Der sker lidt for lidt til lidt for dårlige renter. **Jeg skulle naturligvis have valgt at flytte pengene til den danske del af Kameo, da jeg så var sluppet for vekselgebyret, når de skal ind på min danske konto i Spar Nord.**
+- Jeg trak pengene ud til Kameo (NOK), da der slet ikke har været et eneste norsk lån på to måneder. Jeg har valgt at trække pengene helt ud af Kameo og kun fastholde Kameo (SEK) og Kameo (DKK). Jeg forventer ikke at skyde flere penge ind i Kameo som lånesituationen og brugen af platformen ser ud lige nu. Der sker lidt for lidt til lidt for dårlige renter. **Jeg skulle naturligvis have valgt at flytte pengene til den danske del af Kameo, da jeg så var sluppet for vekselgebyret, når de skal ind på min danske konto i Spar Nord, hvilket Kameo support venligt gjorde mig opmærksom på, inden jeg trak pengene ud.**
 
 ## Kameo (DKK)
 
