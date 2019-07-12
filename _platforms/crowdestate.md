@@ -13,6 +13,10 @@ excerpt: "Crowdestate opererer primært i Estland og Letland. Platformen giver d
 
 Crowdestate er en fin platform, hvis du gerne vil investere i udviklingsprojekter med ejendomme. Hvis du gerne vil investere i ejendomme for at få lejeindtægter, så skal du vælge fx [Reinvest24\*](/go/reinvest24/), [Housers\*](/go/housers/), Br
 
+## Ulemper
+
+- Kun muligt at investere beløb deleligt med 100 EUR, hvilket gør at man ofte vil have mindre beløb fra renteindtægter stående på kontoen, som ikke kan reinvesteres.
+
 ## Investeret og værdi
 
 <iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1364585092&amp;format=image"></iframe>

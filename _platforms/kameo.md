@@ -6,12 +6,26 @@ header:
 tags:
   - crowdlending
 excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Sverige, Norge og Sverige."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2019-07-12T12:45:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 {{ page.excerpt }}
+
+## Fordele
+
+- Investeringer i nordiske lande til gode projekter.
+- Gratis valutaveksling mellem DKK, NOK og SEK.
+- Platformen er relativt overskuelig.
+
+## Ulemper
+
+- Kun muligt at investere beløb deleligt med 500 DKK / SEK / NOK, hvilket gør, at man ofte vil have mindre beløb stående fra renteindtægter, der ikke kan geninvesteres.
+- Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der har ikke været nogen norske lån, mens jeg har været på platformen).
+- Projekterne er ikke oversat mellem de enkelte sprog.
+- Overførslerne mellem de forskellige valutakonti tager flere dage, så man kan ikke investere med det samme, hvis der er et spændende lån.
+- Ikke nogen affiliate eller referral aftale.
 
 ## Marts 2019
 
