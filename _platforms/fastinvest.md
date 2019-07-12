@@ -20,6 +20,7 @@ last_modified_at: 2019-07-12T12:54:00+08:00
 - Relativt enkel og _hands off_ _auto invest_.
 - Fin platform at klikke sig rundt på.
 - Fin statistik side.
+- Alle lån på Fast Invest har Buy back garanti.
 
 ## Ulemper
 
