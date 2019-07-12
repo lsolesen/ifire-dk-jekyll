@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/logo/kameo.jpg
 tags:
   - crowdlending
-excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Sverige, Norge og Sverige."
+excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige."
 last_modified_at: 2019-07-12T12:45:00+08:00
 ---
 
@@ -18,14 +18,18 @@ last_modified_at: 2019-07-12T12:45:00+08:00
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
+- Nu muligt at lave en [affiliate aftale](https://www.kameo.dk/blog/Kameo-lancerer-nyt-Affiliate-program).
 
 ## Ulemper
 
-- Kun muligt at investere beløb deleligt med 500 DKK / SEK / NOK, hvilket gør, at man ofte vil have mindre beløb stående fra renteindtægter, der ikke kan geninvesteres.
-- Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der har ikke været nogen norske lån, mens jeg har været på platformen).
-- Projekterne er ikke oversat mellem de enkelte sprog.
-- Overførslerne mellem de forskellige valutakonti tager flere dage, så man kan ikke investere med det samme, hvis der er et spændende lån.
-- Ikke nogen affiliate eller referral aftale.
+- Kun muligt at investere beløb deleligt med 500 DKK / SEK / NOK, hvilket gør, at man ofte vil have mindre beløb stående fra renteindtægter, der ikke kan geninvesteres. Du kan naturligvis altid "toppe op" med det nødvendige beløb næste gang, du gerne vil investere.
+- Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der har ikke været nogen norske lån, mens jeg har været på platformen, men de er vist på vej - se nedenfor).
+- Projekterne er kun oversat mellem de forskellige sprog på oversigtssiden - ikke de uddybende informationer om projektet.
+- Overførslerne mellem de forskellige valutakonti tager en dag, så man kan ikke investere med det samme, hvis der er et spændende lån (dog kan man med en ny funktion reservere investeringer, selvom man ikke har penge på kontoen).
+
+> Platformen i Norge har været under ombygning da det norske finanstilsyn krævede ændringer for alle platforme der operere i landet. Dette er på plads nu og du vil snart kunne se norske projekter også.
+> \- Jesper M. Johansen, Managing director - via support email 12. juli 2019.
+
 
 ## Marts 2019
 
