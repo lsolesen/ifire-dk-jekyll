@@ -14,6 +14,8 @@ tags:
   - aktier
   - ETF
   - råvarer
+  - copy trading
+  - værdipapirer
 excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
 ---
 

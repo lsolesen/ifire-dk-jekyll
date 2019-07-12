@@ -8,6 +8,7 @@ category:
   - Anmeldelse
 tags:
   - anmeldelse
+  - betalingskort
 excerpt: "Ved at oprette en Revolut-konto kan du spare vekselgebyrer, overførsler tild udlandet, og hævninger. Og det er helt gratis at oprette en konto."
 last_modified_at: 2019-05-30T15:20:02+02:00
 ---

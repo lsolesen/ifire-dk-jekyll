@@ -57,4 +57,4 @@ Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen) og [l�
 
 [Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
 
-<a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="" width="300" height="600"></a>
+<a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="Etoro Platform" width="300" height="600"></a>
