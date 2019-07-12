@@ -5,15 +5,29 @@ header:
   teaser: /assets/images/logo/peerberry.png
 tags:
   - crowdlending
-excerpt: "PeerBerry tilbyder kortsigtede lånetyper - og de giver omkring 12% i årligt afkast og har buy back garanti."
-last_modified_at: 2019-03-24T00:00:00+08:00
+excerpt: "PeerBerry er fra november 2017 og tilbyder kortsigtede lånetyper med omkring 12% i årligt afkast og buy back garanti. Lån i bl.a. Polen, Kazakstan, Ukraine og Tjekkiet."
+last_modified_at: 2019-07-12T23:30:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 27. februar 2019  
-**Totalt indskud**: 3.000 EUR
+**Totalt indskud**: 3.000 EUR  
 **Totalt trukket ud**: 0 EUR
+
+{{ page.excerpt }}
+
+## Fordele
+
+- Buy back på lånene.
+- Auto invest som fungerer fint.
+- Lån i flere lande.
+
+## Ulemper
+
+- Mangler lidt gennemsigtighed.
+- Kunne godt have bedre statisik om diversificering.
+- Ikke muligt at prioritere sin auto invest.
 
 ## Investering og værdi af investering
 
