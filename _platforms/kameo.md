@@ -47,7 +47,7 @@ last_modified_at: 2019-07-12T12:45:00+08:00
 ## Kameo (DKK)
 
 **Første investeringsdato**: 5. marts 2019  
-**Totalt indskud**: 10.000 DKK
+**Totalt indskud**: 10.000 DKK  
 **Totalt trukket ud**: 0 DKK
 
 ### Investering og værdi af investering
@@ -69,7 +69,7 @@ last_modified_at: 2019-07-12T12:45:00+08:00
 ## Kameo (SEK)
 
 **Første investeringsdato**: 5. marts 2019  
-**Totalt indskud**: 10.000 SEK
+**Totalt indskud**: 10.000 SEK  
 **Totalt trukket ud**: 0 SEK
 
 ### Investering og værdi af investering

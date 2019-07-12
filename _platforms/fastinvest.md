@@ -6,7 +6,7 @@ header:
 tags:
   - crowdlending
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2019-07-12T12:54:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -14,6 +14,16 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Første investeringsdato**: 18. februar 2019  
 **Totalt indskud**: 4.048 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## Fordele
+
+- Relativt enkel og _hands off_ _auto invest_.
+- Fin platform at klikke sig rundt på.
+- Fin statistik side.
+
+## Ulemper
+
+- Viser ikke præcist hvem deres _loan originators_ er.
 
 ### Marts
 
