@@ -28,6 +28,7 @@ last_modified_at: 2019-07-12T23:30:00+08:00
 - Mangler lidt gennemsigtighed.
 - Kunne godt have bedre statisik om diversificering.
 - Ikke muligt at prioritere sin auto invest.
+- Ingen sekundær markedsplads.
 
 ## Investering og værdi af investering
 

@@ -17,7 +17,7 @@ last_modified_at: 2019-06-14T00:00:00+08:00
 
 Agrikaab (tidligere Ari.farm) investerer i landbrug i Østafrika, og firmaet fortæller selv, at det er en investering i Afrikas fødevaresikkerhed. Agrikaab blev grundlagt af den tidligere nomade Mohamed Jimale i 2016, da Somalia blev ramt af en forfærdelig tørke, som påvirkede livet for mange nomader i Somalia. Agrikaab gør det muligt at investere i landbruget i Somalia og skabe job til nomaderne.
 
-Agrikaab er for mig en klogere form for udviklingshjælp inspireret af denne TED-talk.
+Agrikaab er for mig en klogere form for udviklingshjælp inspireret af denne TED-talk, men igennem Agrikaab er det også en meget risikofyldt investering.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/paul_o_connell_investments_in_the_future_a_new_approach_to_foreign_aid" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
@@ -50,6 +50,12 @@ Der er ikke så meget data endnu, og jeg er lige gået ind i investeringen, men 
 - Risiko for kriminalitet og uroligheder i områderne
 - Tørke - fx får man ingen betaling fra regnvandsopsamlingen, hvis ikke der opsamles noget vand. Men forhåbentlig er opsamlingen af vand med til at forbindre tørkeperioderne.
 - Agrikaab har kun [en bedømmelse på Trustpilot](https://www.trustpilot.com/review/ari.farm) (15. juni 2019), og firmaet har ikke bekræftet deres Trustpilot-side. Bedømmelsen roser til gengæld kundeservicen.
+
+## Brug din sunde fornuft
+
+Mohamed Jimales tidligere firma Ari Farm lukkede pga. økonomiske problemer og  [risikerer at mangle over 700.000 kr af investorenes penge](https://www.breakit.se/artikel/19391/mohamed-jimales-getprojekt-misslyckades). Stifteren, Mohamed Jimale, beklager at han ikke fik oplyst sine kunder ordentligt om risikoen, men vil forsøge at betale tilbage. Men hvor skal de penge komme fra. Bliver de penge så taget ud af investeringerne i Agrikaab? Skal Agrikaab i virkeligheden hjælpe Mohamed Jimales tidligere svigtede kunder med at få deres sparrekroner tilbage.
+
+Crowdlending indebærer altid en risiko, men crowdlending i Afrika indebærer for alvor en risiko.
 
 ## Juni 2019
 
