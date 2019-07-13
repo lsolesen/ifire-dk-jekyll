@@ -9,6 +9,7 @@ tags:
   - børneopsparing
   - konto for mindreårige
   - investering
+  - robot
 excerpt: "Der er flere måder at gribe en børneopsparing an på: Bankrenter, obligationer, investeringer i aktier. Hvad bør man gøre?"
 ---
 

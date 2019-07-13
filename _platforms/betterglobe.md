@@ -25,7 +25,7 @@ Better Globe tjener ikke kun penge på træerne, men også på at sælge et maga
 
 Better Globe har aktiviteter i gang i Afrika, og flere har været nede at besøge Better Globe og kan rapportere om et spændende foretagende. Jeg har selv investeret omkring 20.000 DKK i Better Globe, fordi jeg rigtig gerne vil støtte et godt projekt i Afrika. Men afkastet lyder nok _for godt_ til at være sandt (og jeg ville meget gerne have investeret for et meget lavere afkast, som man fx kan med [Agrikaab](/platform/agrikaab/), [Trine](/platform/trine/) og [Lendahand](/platform/lendahand/)).
 
-Better Globe modtog den norske Gazelle pris i 2016, 2017 og 2018. Desværre ville stifteren Rino Solberg tilsyneladende ikke fortælle, hverken hvordan væksten eksploderede så kraftigt, eller hvad han bruger pengene til i "Better Globe Forestry". Better Globe får også en [hård medfart i de svenske medier](https://www.bistandsaktuelt.no/nyheter/2019/rino-solberg-og-selskapet-better-globe-i-mediestorm-i-sverige/).
+Better Globe modtog den norske Gazelle pris i 2016, 2017 og 2018. Desværre ville stifteren Rino Solberg tilsyneladende ikke fortælle, hverken hvordan væksten eksploderede så kraftigt, eller hvad han bruger pengene til i "Better Globe Forestry". Better Globe får også en [hård medfart i de svenske medier](https://www.bistandsaktuelt.no/nyheter/2019/rino-solberg-og-selskapet-better-globe-i-mediestorm-i-sverige/) og de er heller ikke så begejstrede på [Quora](https://www.quora.com/What-are-your-thoughts-on-investments-in-Better-Globe).
 
 Som investor skal du i også være opmærksom på Rino Solbergs tidligere bedrifter ([Wikipedia](https://no.wikipedia.org/wiki/Better_Globe)):
 

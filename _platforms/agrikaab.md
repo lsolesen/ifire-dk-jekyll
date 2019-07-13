@@ -57,6 +57,10 @@ Mohamed Jimales tidligere firma Ari Farm lukkede pga. økonomiske problemer og  
 
 Crowdlending indebærer altid en risiko, men crowdlending i Afrika indebærer for alvor en risiko.
 
+Hvis du stadig tør investere, så kan du høre Mohamed Jimale fortælle lidt om, hvorfor han oprettede Ari Farm (som var forløberen til Agrikaab).
+
+{% include video provider="youtube" id="ViQjArK2jEA" %}
+
 ## Juni 2019
 
 Jeg kunne ikke få lov til at bruge mit Revolut-betalingskort til at overføre penge til Agrikaab, så jeg lavede i stedet en bankoverførsel fra [Revolut\*](/go/revolut/). I Revolut skulle jeg angive formålet med overførslen og hele adressen til modtageren. På [Agrikaabs\*](/go/agrikaab/) hjemmeside stod ikke postnummeret, så jeg skrev til deres kundservice, som svarede inden for en time med den fulde adresse. 
