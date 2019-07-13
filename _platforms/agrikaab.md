@@ -53,9 +53,7 @@ Der er ikke så meget data endnu, og jeg er lige gået ind i investeringen, men 
 
 ## Brug din sunde fornuft
 
-Mohamed Jimales tidligere firma Ari Farm lukkede pga. økonomiske problemer og  [risikerer at mangle over 700.000 kr af investorenes penge](https://www.breakit.se/artikel/19391/mohamed-jimales-getprojekt-misslyckades). Stifteren, Mohamed Jimale, beklager at han ikke fik oplyst sine kunder ordentligt om risikoen, men vil forsøge at betale tilbage. Men hvor skal de penge komme fra. Bliver de penge så taget ud af investeringerne i Agrikaab? Skal Agrikaab i virkeligheden hjælpe Mohamed Jimales tidligere svigtede kunder med at få deres sparrekroner tilbage.
-
-Crowdlending indebærer altid en risiko, men crowdlending i Afrika indebærer for alvor en risiko.
+Mohamed Jimales [risikerer at mangle over 700.000 kr af investorenes penge](https://www.breakit.se/artikel/19391/mohamed-jimales-getprojekt-misslyckades), fordi de blev nødt til at [lukke en gedefarm](https://digestafrica.com/somalia-startup-agrikaab-goats-farms). Stifteren, Mohamed Jimale, beklager at han ikke fik oplyst sine kunder ordentligt om risikoen, men vil forsøge at betale tilbage. Men hvor skal de penge komme fra? Bliver de penge så taget ud af andre investeringer i Agrikaab? Crowdlending indebærer altid en risiko, men crowdlending i Afrika indebærer for alvor en risiko.
 
 Hvis du stadig tør investere, så kan du høre Mohamed Jimale fortælle lidt om, hvorfor han oprettede Ari Farm (som var forløberen til Agrikaab).
 
