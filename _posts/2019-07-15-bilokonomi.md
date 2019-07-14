@@ -43,7 +43,7 @@ Selve brug af bilen har vi brugt følgende på i perioden.
 |----------------------------------|--------|-----------|
 | Brændstof                        | 51.606 | 1.228     |
 | Parkering                        | 4.337  | 103       |
-| Brobizz                          | 9.255  | 9.255     |
+| Brobizz                          | 9.255  | 220       |
 | I alt                            | 65.198 | 1.553     |
 
 Når vi lægger alle biludgifterne sammen, så giver det i alt:
@@ -52,7 +52,7 @@ Når vi lægger alle biludgifterne sammen, så giver det i alt:
 |-----------------------------------|---------|-----------|
 | Alle udgifter samlet              | 123.600 | 2.943     |
 | Købsprisen pr. måned (siden 2012) | 73.000  | 839       |
-| I alt                             | 195.600 | 3782      |
+| I alt                             | 195.600 | 3.782     |
 
 ## Benzinøkonomi
 
@@ -68,6 +68,10 @@ Hvis vi i stedet havde en bil, der kunne køre 14 km / l om året, så ville vi 
 
 Vi sidder i øjeblikket og kigger lidt på en ny bil, fordi vi vurderer, at den nok ikke bliver billigere i værkstedsregninger fremover - og benzinøkonomien er jo ikke imponerende.
 
+Jeg overvejer også, at [udlejning via GoMore\*](/go/gomore/) kan være en måde at finansiere en ny bil på - eller måske bruge GoMore til at leje bil på, når det bliver nødvendigt. Jeg er dog ikke sikker på, at vi som famiile vil undvære vores egen bil i hverdagen.
+
 Men hvornår ved man egentlig om man skal skifte bil?
+
+[Opret dig på GoMore\*](/go/gomore/){: .btn .btn--large .btn--info}
 
 {% include disclaimer.md %}
