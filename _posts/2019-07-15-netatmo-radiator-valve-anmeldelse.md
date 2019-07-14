@@ -47,7 +47,7 @@ Nu er det vanskeligt at sammenligne varmeforbrug fra år til år, da det jo før
 
 {% include figure image_path="/assets/images/ewii-netatmo.png" alt="Varmeforbrug fra Ewii" caption="Varmeforbrug 2016-2019 fra Ewii" %}
 
-Jeg synes dog, at termostaterne har forbedret den samlede varmesituation i huset generelt. Netatmos termostater er altså bedre end dem jeg havde.
+Jeg synes dog, at termostaterne har forbedret den samlede varmesituation i huset generelt. Netatmos termostater er altså bedre end dem jeg havde. Men alt andet lige, så kan man ikke sige noget entydigt om, de har reduceret varmeforbruget i huset..
 
 ## Er termostaterne pengene værd?
 
