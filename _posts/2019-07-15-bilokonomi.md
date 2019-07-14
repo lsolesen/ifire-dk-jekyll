@@ -54,6 +54,10 @@ Når vi lægger alle biludgifterne sammen, så giver det i alt:
 | Købsprisen pr. måned (siden 2012) | 73.000  | 839       |
 | I alt                             | 195.600 | 3.782     |
 
+Samlet set anslår jeg, at jeg har kørt 1.310 km om måneden i 42 måneder (siden 1. januar 2016 hvor jeg har en opgørelse over udgifter fra). Det giver i alt 55.034 km. Hvis jeg tager alle udgifter med inklusive købsprisen, så har jeg haft udgifter siden 1. januar 2016 på 158.844 kroner. Det giver en samlet **kilometerpris på 2,89 kroner**. _(I virkeligheden er den nok lidt højere, for jeg tror ikke, at jeg har kørt så mange kilometer de seneste år som i starten jeg ejede bilen.)_ Den kilometerpris inkluderer så også alt, der har med bilen at gøre (inkl. parkering og Brobizz).
+
+Hvis vi kun kigger på udgifterne til at have bilen - og ikke driftsomkostningerne (som benzin, parkering, broafgift), så bliver **kilometerprisen excl. brændstof 1,06 kroner**. Lige nu ender jeg på en **brændstoføkonomi på omkring 1-1,3 kroner pr. kilometer**. Så næste gang, der er en der gerne vil med ud at køre og vil betale for det, så ved jeg altså hvad jeg skal tage for det.
+
 ## Benzinøkonomi
 
 Vi har den seneste tid regnet lidt på, hvad benzinøkonomien i bilen er. Og den er helt som vi forventede mellem 10-11 km/l. Det er forventeligt, men ikke tilfredsstillende.
