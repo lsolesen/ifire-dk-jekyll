@@ -62,6 +62,8 @@ Vi har den seneste tid regnet lidt på, hvad benzinøkonomien i bilen er. Og den
 
 Vi har siden vi fik bilen i gennemsnit kørt 1.310 kilometer om måneden eller 15.724 kilometer om året. 
 
+Hvis vi i stedet havde en bil, der kunne køre 14 km / l om året, så ville vi spare omkring 20% på brændstof om året, hvilket er 3.300 kroner årligt.
+
 ## Alternative muligheder
 
 Vi sidder i øjeblikket og kigger lidt på en ny bil, fordi vi vurderer, at den nok ikke bliver billigere i værkstedsregninger fremover - og benzinøkonomien er jo ikke imponerende.
