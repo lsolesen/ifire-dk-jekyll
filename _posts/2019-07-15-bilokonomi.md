@@ -1,5 +1,6 @@
 ---
 title: "Biløkonomi - hvordan finder man ud af, hvornår bilen skal skiftes?"
+permalink: /bilokonomi/
 category:
   - Biløkonomi
 tags:
