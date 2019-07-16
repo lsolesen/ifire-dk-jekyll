@@ -8,3 +8,5 @@ sort_by: date # date (default) title
 sort_order: forward # forward (default), reverse
 author_profile: true
 ---
+
+Jeg laver også [nøjagtige opdateringer af alle de platforme, jeg har investeret på](/platforme/).
