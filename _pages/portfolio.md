@@ -72,6 +72,8 @@ Min kapitalpension investeret i nogle SparNord-aktier og akkumulerende fonde.
 
 ### Investeringer i crowdlending
 
+Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/).
+
 <iframe width="600" height="427.012" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1157747909&amp;format=image"></iframe>
 
 <iframe width="829.512" height="544.017" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1070569247&amp;format=image"></iframe>
