@@ -18,11 +18,11 @@ Den anden dag regnede jeg lidt på [min biløkonomi](/bilokonomi/) på min gamle
 
 Jeg har ikke regnet forsikringer og ejerafgift med i følgende udregning. Hvis du har brug for en dyrere forsikring for at kunne udleje din bil ud (fx hvis du har et fast årligt kilometerantal på din forsikring), så skal det naturligvis regnes med. Men ellers er det jo udgifter, som ikke ændrer sig. Derfor vil lejeindtægten bare kunne være med til at formindske dette beløb. Hvis du forventer, at udlejning på GoMore skal være med til at finansiere, at du har råd til at have bil, så kan du også regne disse med før du sætter udlejningsprisen.
 
-Det giver følgende regnskab, hvor jeg går ud fra en udlejningspris på 325 kroner.
+Det giver følgende regnskab, hvor jeg går ud fra en udlejningspris på 325 kroner (udregninger baseret på [artikel fra FDM](https://fdm.dk/node/8888)).
 
 _(Læg mærke til at dine forudsætninger kan være anderledes, hvis du vil [udleje din bil via GoMore\*](/go/gomore/))_
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcPiPHuya32XoyHcIXTxbiR_GpnSCwpHAl14gXreS31Zf5IBCxRhhirijORT9RvZRymniTJDJdG8Fo/pubhtml?gid=1711999018&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcPiPHuya32XoyHcIXTxbiR_GpnSCwpHAl14gXreS31Zf5IBCxRhhirijORT9RvZRymniTJDJdG8Fo/pubhtml?gid=1711999018&amp;single=true&amp;widget=true&amp;headers=false" style="width:75%; height: 550px;"></iframe>
 
 ## Hvad med forsikringerne?
 
