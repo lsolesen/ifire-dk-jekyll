@@ -24,6 +24,8 @@ _(Læg mærke til at dine forudsætninger kan være anderledes, hvis du vil [udl
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcPiPHuya32XoyHcIXTxbiR_GpnSCwpHAl14gXreS31Zf5IBCxRhhirijORT9RvZRymniTJDJdG8Fo/pubhtml?gid=1711999018&amp;single=true&amp;widget=true&amp;headers=false" style="width:75%; height: 550px;"></iframe>
 
+Regnestykket giver altså en **nettoindtægt på 80 kroner** for at udleje sin bil en hel dag. Spørgsmålet er naturligvis, om man synes, at det er besværet værd at udleje bilen for det beløb. Man kan frygte, at flere brugere af bilen måske vil føre til øgede omkostninger til vedligehold. I forbindelse med udlejningen skal man også bruge tid på kommunikere med lejere, sætte bilen frem, overdrage nøglen og gøre bilen ren. Der er således flere overvejelser, du bør gøre dig, inden du begynder at udleje din bil (selvom du vælger ikke at udleje din bil, så er GoMore stadig genial til samkørsel).
+
 ## Hvad med forsikringerne?
 
 GoMore har [forsikring på den udlejede bil](https://help.gomore.dk/category/17-forsikring), og det er meget vigtigt, at du læser det grundigt igennem før du begiver dig ud på udlejningseventyret. Desuden skal din bil være kaskoforsikret. Hvis du kommer til at udleje din bil meget, så skal du være sikker på, at det kørte kilometerantal er inkluderet i din forsikring, så du ikke er [underforsikret](https://www.bdo.dk/da-dk/nyheder/depechen-nyt-om-skat-og-moms/skat-nar-du-lejer-din-bil-ud-gennem-gomore).
