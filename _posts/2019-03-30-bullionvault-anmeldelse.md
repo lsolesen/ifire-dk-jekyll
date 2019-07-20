@@ -1,7 +1,7 @@
 ---
 title: "BullionVault - køb ægte ædelmetaller til rimelige priser og få dem opbevaret sikkert"
 permalink: /bullionvault-anmeldelse/
-last_modified_at: 2019-04-07T10:16:02+02:00
+last_modified_at: 2019-07-20T10:16:02+02:00
 header:
   overlay_image: /assets/images/bullionvault.jpg
   teaser: /assets/images/logo/bullionvault.png
@@ -12,6 +12,9 @@ tags:
   - guld
 excerpt: "Hos BullionVault kan du købe guld som de professionelle, men helt ned til 1 gram ad gangen - og få guldet opbevaret til rimelige priser"
 ---
+
+Jeg køber ikke længere guld hos BullionVault, da det ikke kan betale sig med det beløb, jeg havde forventet at bruge på det. Jeg er i stedet eksponeret mod guld gennem [ETFS Physical Gold (VZLD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC) på Nordnet. Du kan naturligvis også køb guldminer, som fx [Barrick Gold](https://www.morningstar.com/stocks/xtse/abx/quote). Du kan også købe fysisk guld hos [Tavex](https://tavex.dk/) eller [Vitus](https://vitusguld.dk/shop/), som du kan gemme hjemme eller i en bankboks. BullionVault er formentlig stadig interessant, hvis du vil bruge større beløb hos dem.
+{: .notice--info}
 
 Jeg havde egentlig ikke forventet, at jeg skulle have guld i min portefølje. Jeg kan ikke overskue konsekvenserne af at købe rigtig guld for selv at skulle opbevare det, lave sikkerhedsforanstaltninger og tegne forsikringer. Og jeg stoler ikke helt på _futures_, hvor der reelt ikke er dækning for alle papirerne.
 
