@@ -1,7 +1,7 @@
 ---
-title: "Nye fonde fra Storebrand til porteføljeforslagene #5?"
+title: "Nye fonde fra Storebrand til porteføljeforslagene #6?"
 last_modified_at: 2019-06-03T20:20:02+02:00
-permalink: /investering-vol5/
+permalink: /investering-vol6/
 category:
   - Investering
 tags:
@@ -11,9 +11,6 @@ tags:
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
 ---
-
-Fra 27. maj til 12. juni 2019 kan fondene købes kurtagefrit på Nordnet. Se mere på [Nordnet](https://www.nordnet.dk/kampagner/partner/storebrand.html).
-{: .notice--info}
 
 Jeg bruger stadig det porteføljer, jeg [tidligere har været inspireret af](/investering-vol5/), men for nylig er der kommet nogle nye fonde til Danmark med lave omkostninger, som beskattes efter realisationsprincippet som aktieindkomst. Fondene er akkumulerende og betaler ikke udbytte, men alligevel er beskatningen fordelagtig for danske investorer, da den ligner beskatningen for almindelige aktier og de andre danske distribuerende investeringsforeninger. Fondene er fra Storebrand. Desværre kan de ikke købes i månedsopsparingen hos Nordnet (og deres support siger, at der heller ikke er planer om det), men jeg overvejer kraftigt at købe lidt ind af dem i nogle af mine porteføljer alligevel. Fx er jeg ved at oprette en opsparing, som gerne skal være med til at finansiere mine døtres efterskoleophold.
 
