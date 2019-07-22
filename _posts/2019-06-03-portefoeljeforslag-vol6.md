@@ -21,11 +21,11 @@ Ingen af fondene har endnu fået en Morningstar-vurdering, da de er relativt nye
 
 | Ticker | Værdipapir                                                                                                      | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
 |--------|-----------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------|
-| STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
-| STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+| STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
+| STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | STIGEP | [Storebrand Global ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)        | 0,47% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |       |
+| STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+| STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |       |
 
 ## Hvordan var det med skatten?
 
