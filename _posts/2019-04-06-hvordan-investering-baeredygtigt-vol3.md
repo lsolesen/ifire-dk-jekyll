@@ -10,6 +10,7 @@ tags:
   - obligationer
   - bæredygtighed
 excerpt: "Jeg satser primært på passive investeringsforeninger og ETF’er i min værdipapir-portefølje. Hvilke bæredygtige muligheder er der?"
+last_modified_at: 2019-07-23T10:22:02+02:00
 ---
 
 Nu har jeg efterhånden fået gang i min portefølje med aktier og obligationer - og derfor vil jeg kigge lidt på, hvordan jeg kan **påvirke verden med mine penge gennem bæredygtige og klimabevidste investeringer**. Jeg satser primært på passive investeringsforeninger og ETF’er i mine egne investeringer, men fortæller også her lidt om aktive investeringsforeninger.
@@ -48,19 +49,22 @@ Dog skal man være opmærksom på, at bæredygtighedsratingen ikke er absolut, m
 
 Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfordringer, og man skal stadig læse grundigt på de enkelte værdipapirer. 
 
+**Gå selv på jagt efter bæredygtige fonde hos Nordnet**. Du kan selv gå på jagt efter fonde med [Nordnets nye værktøj til at finde fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs). 
+{: .notice--info}
+
 ## Bæredygtighed i de danske passive indeksfonde
 
 De passive indeksfonde har samlet lavere omkostninger end de aktive fonde. Danske Sparinvest har en række fonde, som ofte bliver fremhævet, hvis man gerne vil investere med lave omkostninger, og de har også et par indekser, hvor etikken og bæredygtigheden er i højsædet.
 
 De følgende fonde hører til i min portefølje. De er alle udbyttebetalende fonde, og derfor kan de være med til at skabe en passiv indkomst undervejs. [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) “repræsenterer top 10% af de ledende sustainability-selskaber i 57 industrigrupper fordelt på 51 lande”. _[Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)_ har lavet en etisk screening og sorteret fx våben fra og har valgt ESG-ratede selskaber og aktier.
 
-| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
-|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------------|------------------------------------------|----------------|------------------|-------|
-| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          |
-| [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)  | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |
-| [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          |
-| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,82% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          |
-| [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6)       | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |
+| Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score | Månedsops. |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|------------|
+| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J)                     | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          | *          |
+| [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |            |
+| [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          | *          |
+| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,82% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          |            |
+| [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |            |
 
 ## Aktive investeringsforeninger og sustainability
 
@@ -71,12 +75,11 @@ Merkur Andelskasse er et rigtigt godt bud på en bank, hvis du går op i bæredy
 Her ser fx de [svanemærkede fonde](https://www.merkur.dk/investeringer/svanemaerkede-investeringer/) fra  [Triodos Bank](https://www.triodos.com/vision-on-impact) spændende ud. Triodos Bank deler værdier med Merkur og tænker først og fremmest på impact investeringer. Det er **aktive fonde**. Du kan investere i [Triodos Renewables Europe Fund](https://www.merkur.dk/investeringer/vaerdipapirer/triodos-renewables/) (sol-, vind og batteriprodukter), [Triodos Sustainable Bond Mixed Fund](https://www.merkur.dk/investeringer/vaerdipapirer/triodos-sustainable-mixed/) (de bedste aktier og obligationer i firmaer for bæredygtighed), [Triodos Sustainable Pioneer Fund](https://www.merkur.dk/investeringer/vaerdipapirer/triodos-sustainable-pioneer/) (bæredygtig innovation) og [Triodos Sustainable Equity Fund](https://www.merkur.dk/investeringer/vaerdipapirer/triodos-sustainable-equity/) (fx bæredygtig transport).
 
 | Værdipapir                                                                                                                       | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
-|----------------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------|------------------------------------------|----------------|
+|----------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
 | [Triodos Renewables Europe I Acc](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=FOGBR05JTN)                       | 2,42% |                                          |                                          |                |
 | [Triodos Sustainable Pioneer Fund EUR R Capitalisation](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000006RV) | 1,98% | &#x2605;&#x2605;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 47,74          |
 | [Triodos Sustainable Mixed Fund EUR R Capitalisation](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000JXOZ)   | 1,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; |                                          | 55,42          |
 | [Triodos Sustainable Equity Fund EUR R Distribution](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000ITED)    | 1,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 54,93          |
-
 
 Du kan finde [alle Triodos fonde på Morningstar](http://www.morningstar.dk/dk/funds/SecuritySearchResults.aspx?search=triodos&type=).
 
@@ -93,7 +96,7 @@ Danske Bank har også en side om [impact fonde](https://danskebank.dk/privat/pro
 I denne tabel kan du se deres Morningstar-vurderinger og årlige omkostninger:
 
 | Værdipapir                                                                                                                       | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
-|----------------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------|------------------------------------------|----------------|
+|----------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
 | [Parvest Aqua Classic-Distribution](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000ZHIV)                     | 2,23% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 50,07          | 
 | [Parvest Climate Impact Classic-Distribution](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000000RN)           | 2,68% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 48,89          |
 | [Nordea 1 - Global Climate and Environment Fund BP EUR](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000001AKN) | 1,82% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 49,61          |
@@ -109,16 +112,14 @@ BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ish
 
 - **ESG** sættes højt (begrebet blev forklaret i begyndelsen af denne artikel). 
 - **Tematiske** emner berøres, fx , som fx iShares MSCI ACWI Low Carbon Target ETF og iShares Global Clean Energy ETF
-. **Impact**-ETF’er som fx iShares MSCI Global Impact ETF og iShares Global Green Bond ETF.
-
+- **Impact**-ETF’er som fx iShares MSCI Global Impact ETF og iShares Global Green Bond ETF.
 
 | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
 | [BlackRock iShares Core MSCI World UCITS ETF (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000IWFQ)         | 0,50% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,28          |
 | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)      | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,29          |
 | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM)     | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 44,49          |
 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)         | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 46,07          |
-| [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)          | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          |                |
 | [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,49          |
 | [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,23          |
 | [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 51,15          |
@@ -127,6 +128,10 @@ BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ish
 Læg mærke til at de sidste to fonde handles i USD, og at de årlige omkostninger ikke er opgjort. Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. Husk at der lige nu med ETF’er er andre skatteregler end på aktier (ændres i 2020), og at der er en valutarisiko ved at købe ETF’er.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+
+## Bæredygtighed i Nordnets månedsopsparing
+
+Den eneste fond, jeg kunne finde i månedsopsparingen hos Nordnet, hvor bæredygtighed og ESG er fremtrædende er [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Det er egentlig lidt skuffende, men forhåbentlig vil de tilføje flere fonde i fremtiden.
 
 ## Fremtidige investeringer i aktier, obligationer og bæredygtighed
 
