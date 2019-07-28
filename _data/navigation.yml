@@ -8,6 +8,8 @@ main:
     url: /spar-penge/
   - title: "Opdateringer"
     url: /opdateringer/
+  - title: "Inspiration"
+    url: /inspiration/
   - title: "Deals"
     url: /deals/
   - title: "Om"
