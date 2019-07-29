@@ -1,6 +1,6 @@
 ---
 title: "‘Simple Path to Wealth’ - hold strategien #7"
-last_modified_at: 2019-07-26T20:20:02+02:00
+last_modified_at: 2019-07-29T17:20:02+02:00
 permalink: /investering-vol7/
 category:
   - Investering
@@ -55,7 +55,7 @@ Men det er jo ikke gennemsnittet af det afkast, investorer får af deres investe
 
 Jeg er mest inspireret af J. L. Collins, som i princippet siger, at man man nøjes med to fonde. J. L. Collins gør det meget enkelt og forslår to fonde fra Vanguard for at lave en fornuftig investering.
 
-- **Vanguards VTSAX** (Vanguard Total Stock Market Index Fund), som er en aktieindeksfond, der følger alle de offentligt handlede forretninger i USA. Årlige omkostninger for VTSAX er 0,06%. Vanguards VTI ligner, men kan ikke købes i Europa. Vanguards VT er et alternativ med internationalt islæt, men kan heller ikke købes i Europa. Jeg kommer tilbage til, hvilke muligheder vi har.
+- **Vanguards VTSAX** (Vanguard Total Stock Market Index Fund), som er en aktieindeksfond, der følger omkring 3500 offentligt handlede aktier i USA. Årlige omkostninger for VTSAX er 0,06%. Vanguards VTI ligner, men kan ikke købes i Europa. Vanguards VT er et alternativ med internationalt islæt, men kan heller ikke købes i Europa. Jeg kommer tilbage til, hvilke muligheder vi har.
 
 - **Vanguards VBTLX** (Vanguard Total Bond Market Index Fund), som er en obligationsindeksfond. Årlige omkostninger er 0,05%
 
@@ -63,12 +63,14 @@ J. L. Collins skelner mellem **opbygningsfase** og **vedligeholdelsesfase**. I o
 
 ## Simple Path to Wealth-investering i Europa?
 
-Vanguards VTSAX eller VBTLX kan ikke købes i Europa eller Danmark, så vi må finde alternativer, der er UCITS-godkendte.
+Vanguards VTSAX eller VBTLX kan ikke købes i Europa eller Danmark, så vi må finde alternativer, der er UCITS-godkendte. J. L. Collins har i [Stocks --- Part XXI: Investing with Vanguard for Europeans skrevet af Mrs. EconoWiser](https://jlcollinsnh.com/2014/01/27/stocks-part-xxi-investing-with-vanguard-for-europeans/). Det er ikke helt klart, hvad J. L. Collins selv ville gøre som europæer. Han vil først og fremmest gå efter de fonde, der har de laveste omkostninger. Fx har [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21) årlige omkostninger på 0,07%, og den dækker en del af VTSAX. (J. L. Collins nævner dog selv et sted, at han foretrækker VTSAX, fordi den indeholder andet end Large Cap).
 
 Du kan selv gå på jagt efter fonde med [Nordnets nye værktøj til at finde fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs). 
 
 Desværre kan man ikke filtrere på fonde, der er en del af Nordnets månedsopsparing. Det er heller ikke muligt at angive om fonden skal være passiv eller aktivt forvaltet, men det kommer forhåbentlig senere.
 {: .notice--info}
+
+**Vigtigt**: Dette er mit bud på, hvordan jeg vil bruge indsigterne fra 'Simple Path to Wealth' i en dansk kontekst. Jeg vil så vidt muligt ramme Vanguards, VT-fond, som er deres internationale fond - og det vil jeg gerne opnå med lavest mulige omkostninger. (Jeg har daglige slagsmål med mig selv, om det ikke bare er smartere at følge det amerikanske S&P 500-indeks).
 
 ### Danske fonde
 
@@ -89,9 +91,9 @@ De næste fonde fra Storebrand er aktivt forvaltede, men beskrives som indeksnæ
 
 | Ticker | Værdipapir                                                                                                      | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning | Måned | Udbytte | Skat  |
 |--------|-----------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|-------|---------|-------|
-| STIGEP | [Storebrand Global ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)        | 0,47% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Aktiv       |       | Akk     | Lager |
-| STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Aktiv       |       | Akk     | Lager |
-| STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | Aktiv       |       | Akk     | Lager |
+| STIGEP | [Storebrand Global ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)        | 0,47% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Aktiv       |       | Akk     | Reali |
+| STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Aktiv       |       | Akk     | Reali |
+| STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | Aktiv       |       | Akk     | Reali |
 
 #### SparInvest
 
@@ -99,10 +101,10 @@ SparInvest tilbyder også efter danske forhold prisbillige indeksfonde. Aktiefon
 
 | Ticker       | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning | Måned | udbytte | Skat  |
 |--------------|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|-------|---------|-------|
-| SPIGLAMRIK   | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Lager |
-| SPIDJWKL     | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | Passiv      | *     | Dist    | Lager |
-| SPIEMIKL     | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,84% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Lager |
-| DK0060950541 | [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          | Passiv      |       | Dist    | Lager |
+| SPIGLAMRIK   | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Reali |
+| SPIDJWKL     | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | Passiv      | *     | Dist    | Reali |
+| SPIEMIKL     | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,84% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Reali |
+| DK0060950541 | [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          | Passiv      |       | Dist    | Reali |
 
 Den populære [SPIGLAMRIK](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) fra SparInvest har en lidt anden fordeling end VTSAX. 57% USA, 17% Eurolande, 9% Japan, 9% Europa - ex Eurolande og 4% Canada. I denne fond mangler altså Asiens nye markeder, så her bør man nok supplere med Emerging Markets fonden for at få samme dækning.
 
@@ -131,9 +133,9 @@ Man kan også kigge lidt efter X-trackers udbud af passive fonde og sammensætte
 
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning | Måned | Udbytte | Skat   |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|-------|---------|--------|
-| XDWL | [Xtrackers MSCI World UCITS ETF 1D](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00015VBW)                             | 0,19% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    |        |
-| DBXN | [Xtrackers II Eurozone Government Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC)            | 0,15% | &#x2605;&#x2605;&#x2605;&#x260;&#x2606;  |                                          | Passiv      | *     | Dist    |        |
-| D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                  | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    |        |
+| XDWL | [Xtrackers MSCI World UCITS ETF 1D](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00015VBW)                             | 0,19% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Kapita |
+| DBXN | [Xtrackers II Eurozone Government Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC)            | 0,15% | &#x2605;&#x2605;&#x2605;&#x260;&#x2606;  |                                          | Passiv      | *     | Dist    | Kapita |
+| D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                  | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Kapita |
 
 #### Vanguard
 
