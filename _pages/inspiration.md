@@ -16,7 +16,7 @@ feature_row:
     alt: "12 regler for livet - en modvægt til kaos"
     title: "12 regler for livet - en modvægt til kaos"
     excerpt: "Bogen er underholdende og lærerig; her er gode råd til hvordan man griber livet an, men her er også uvurderlig viden om en lang række emner, som du måske slet ikke troede, du havde brug for."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264https://www.saxo.com/dk/12-regler-for-livet_jordan-b-peterson_haeftet_9788740048483"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/12-regler-for-livet_jordan-b-peterson_haeftet_9788740048483"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---

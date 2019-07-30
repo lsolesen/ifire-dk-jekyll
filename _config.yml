@@ -259,14 +259,14 @@ defaults:
       related: true
       toc: true
       sidebar:
-        text: >
-          ---
-          [![Crowdlending på Mintos - få 11,6% p.a.](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/08/Mintos-banner-300x250.png?resize=300%2C250&ssl=1)](/go/mintos/)
-          ---
-          [![Få gratis investeringsplan fra Nord.Investments](https://i2.wp.com/www.frinans.dk/wp-content/uploads/2018/07/Gratis-investeringsplan.jpg?w=552&ssl=1)](/go/nord/)
-          ---
-          [![Få Bitcoins til en værdi af $10](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/01/Coinbase-banner_annonce-1024x333.png?resize=750%2C244&ssl=1)](/go/coinbase/)
-          ---
+        - text: >
+            ---
+            [![Crowdlending på Mintos - få 11,6% p.a.](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/08/Mintos-banner-300x250.png?resize=300%2C250&ssl=1)](/go/mintos/)
+            ---
+            [![Få gratis investeringsplan fra Nord.Investments](https://i2.wp.com/www.frinans.dk/wp-content/uploads/2018/07/Gratis-investeringsplan.jpg?w=552&ssl=1)](/go/nord/)
+            ---
+            [![Få Bitcoins til en værdi af $10](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/01/Coinbase-banner_annonce-1024x333.png?resize=750%2C244&ssl=1)](/go/coinbase/)
+            ---
 # _faq
   - scope:
       path: ""
