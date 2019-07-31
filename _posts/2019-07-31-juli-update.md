@@ -18,7 +18,7 @@ Jeg har også den sidste måneds tid forsøgt at gå kigget på [mine biløkonom
 
 Jeg har også forsøgt at komme lidt i gang med [Gomore\*](/go/gomore/) i løbet af juli. Jeg har prøvet at leje bilen ud et par dage, og jeg har været opmærksom på at oprette lift i GoMore, hvis ikke jeg har haft bilen fyldt.
 
-Jeg har også for første gang været [vært på AirBnb\*](/go/airbnb/), mens jeg selv var på sommerferie, hvor vi så var gæster gennem AirBnb. Selvom AirBnb tager deres del af udgifterne, så endte det med, at udlejningen af vores eget hus stort set dækkede boligudgiften på ferien. I alt fik jeg en indtægt på **5.251 DKK**.
+Jeg har også for første gang været [vært på AirBnb\*](/go/airbnb/), mens jeg selv var på sommerferie, hvor vi også var gæster gennem AirBnb. Selvom AirBnb tager deres del af udgifterne, så endte det med, at udlejningen af vores eget hus stort set dækkede boligudgiften på ferien. I alt fik jeg en indtægt på **5.251 DKK**.
 
 Hvis ud ikke har været på ferie endnu, så kan du overveje om det skal være en cykelferie i Jylland. Jeg har åbnet et site med beskrivelser af en masse ruter [www.cykel-ruter.dk](http://www.cykel-ruter.dk).
 
@@ -47,7 +47,7 @@ Det går stille og roligt den rigtige vej med den interne rente, men den skal fo
 
 Min måndsopsparing kører derudaf, og jeg bliver mere og mere glad for bare at investere i fonde. 
 
-Jeg er ikke så god til selv at vælge nogle aktier. Jeg laver konstant begynderfejlen at tjekke mine _langsigtede_ investeringer kortsigtet. Og jeg har ikke kunnet formå at være dygtig nok til at opbygge en udbytte-portefølje, jeg egentlig er glad for, fordi jeg har ladet mig rive med af aktier, der er dykket lidt, og så har jeg samlet dem op. Det har betydet, at jeg har siddet og kigget lidt på røde tal, og så er jeg blevet mere interesseret i at komme af med dem igen, så snart de gik i grønt i stedet for at få opbygget den gode udbytte-portefølje, som egentlig var planen.
+Jeg er ikke så god til selv at vælge nogle aktier. Jeg laver konstant begynderfejlen at tjekke mine _langsigtede_ investeringer kortsigtet. Og det er ikke lykkes mig at opbygge en udbytte-portefølje, jeg er glad for. Sikkert fordi jeg har ladet mig rive med af aktier, der er dykket lidt. Det har betydet, at jeg har siddet og kigget lidt på røde tal. Så nu er jeg mere interesseret i at komme af med dem igen.
 
 Jeg startede faktisk med en relativt afklaret investeringsstrategi, men ville også afprøve noget forskelligt. Skulle jeg starte forfra i dag, så ville jeg gøre det lige så enkelt som jeg havde regnet med, at det skulle være helt fra begyndelsen.
 
