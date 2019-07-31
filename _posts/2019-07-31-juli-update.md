@@ -55,7 +55,7 @@ Jeg ville først starte med at se J. L. Collins Google Talk omkring hans bog [Th
 
 Det har jeg [skrevet lidt om](/investering-vol7/). Jeg vil minde mig selv om det og stoppe med at lytte til det vanedannende Millionærklubben, som ikke hjælper en til at blive på den rene index-linje. Men I skal naturligvis ikke snydes for den nuværende status i mine investeringer.
 
-Samlet har jeg haft en XIRR på 4,19% i løbet af juli. - og det er absolut ikke pga. de to porteføljer, hvor jeg har forsøgt at udvælge nogle aktier, som er nede med hhv. -18% og -13%. Bedst går de for mine porteføljer med indeksfonde, mens robotinvestorerne Darwin på 10% og [Nord.Investments\*](/go/nord/) på 6% klarer sig også strålende. Jeg er kommet lidt ned på jorden igen med [EToro\*](/go/etoro/), som havde en helt fantastisk start i sidste måned. Heldigvis tænker jeg langsigtet og glæder mig til at følge _copy trading_ fremover også.
+Samlet har jeg haft en **XIRR på 4,19% i juli på mine værdipapirer**. Men det er absolut ikke pga. de to porteføljer, hvor jeg har forsøgt at udvælge nogle aktier selv. De er nemlig nede med hhv. -18% og -13%. Bedst går de for mine porteføljer med indeksfonde, mens robotinvestorerne Darwin på 10% og [Nord.Investments\*](/go/nord/) på 6% klarer sig også strålende. Jeg er kommet lidt ned på jorden igen med [EToro\*](/go/etoro/), som havde en helt fantastisk start i sidste måned. Heldigvis tænker jeg langsigtet og glæder mig til at følge _copy trading_ fremover også.
 
 Du kan læse lidt mere om nogle af porteføljerne her:
 
