@@ -22,6 +22,8 @@ Jeg har også for første gang været [vært på AirBnb\*](/go/airbnb/), mens je
 
 Hvis ud ikke har været på ferie endnu, så kan du overveje om det skal være en cykelferie i Jylland. Jeg har åbnet et site med beskrivelser af en masse ruter [www.cykel-ruter.dk](http://www.cykel-ruter.dk).
 
+Jeg er bange for, at jeg er blevet afhængig af at finde nye investeringsprojekter og platforme. Det er nok på tide at holde op med at love mig selv, at jeg ikke skal investere i noget nyt.
+
 I løbet af juli er jeg blevet interesseret i følgende:
 
 - [Difko](http://www.difko.dk), som bl.a. har et [skovprojekt](https://www.difko.dk/investeringsprojekter/skov-og-landbrug/@10/skovprojekt-i-baltikum). De kommer også senere med et vindmølleprojekt. Afkastene på 4-5% er ikke så høje sammenlignet med udenlandske crowdlending-selskaber, men matcher nogenlunde mine afkast på danske [Flexfunding](/platform/flexfunding/). Hvis jeg skal gå ind i det, skal det være, fordi jeg opfatter investeringen som sikker. [Crowdestor\*](/go/crowdestor/) har nemlig også undertiden skovprojekter i de baltiske lande til 14% p.a.
@@ -71,13 +73,11 @@ Du kan læse lidt mere om nogle af porteføljerne her:
 
 ## Crowd lending
 
-Jeg er bange for, at jeg er blevet afhængig af at finde nye investeringsprojekter og platforme. Jeg tror, at jeg vil holde op med at love mig selv, at jeg ikke skal investere i noget nyt.
-
 Jeg har jo tidligere købt en kamel i Agrikaab sammen med mine døtre (som de kalder Elna). Det har bl.a. fået mig til at kigge lidt [lidt kritisk på Agrikaab](/platform/agrikaab/). Det bliver spændende at følge de næste måneder, om mit kamel-projekt og vandopsamlingsreservoir kommer på skinner.
 
 Ellers er jeg stadig ret aktiv på alle platforme. Jeg har trukket nogle penge ud af [Bondora Go & Grow\*](/go/bondora/), selvom jeg synes produktet er ganske fint. Renten på omkring 6,75% p.a. er bare lidt for lav - og så er platformen og afkastet meget forudsigelig, og derfor er det ikke så meget at undersøge. Så er det lidt sjovere at følge de andre platforme.
 
-I juli tjente jeg **2.541 DKK** på min crowdlending. Det går lidt trægt med alle de platforme, der støtter ejendomsinvesteringer, som endnu ikke rigtigt er begyndt at give afkast. Det gør de imidlertid formentlig inden for de næste par måneder.
+I juli tjente jeg **2.541 DKK** på min crowdlending. Jeg venter spændt på at alle platformenemed ejendomsinvesteringer også begynder at give afkast. 
 
 ### Statistik for platformene
 
@@ -127,11 +127,13 @@ Jeg har kigget [kritisk på min investering i Better Globe](/platform/betterflob
 
 Jeg har brugt en del tid i denne måned på at lukke min gamle PHP server ned og flytte alt materialet over på den statiske website-generator Jekyll. Det betyder nemlig, at jeg ikke længere skal vedligeholde en server. Så kan det også være, at jeg kan komme lidt igang med at føre nyt materiale på de forskellige sites igen. Der er et eller andet befriende ved bare at skrive teksterne i Markdown.
 
-Det betyder, at [www.motionsplan.dk](http://www.motionsplan.dk) og [www.legestue.net](http://www.legestue.net) nu er blevet flyttet over på en ny server. Jeg har tidligere skrevet, at jeg ville prøve at reaktivere noget af mit gamle indhold og gøre det tilgængeligt og udnytte Google Adsense og [Partner Ads\*](/go/partnerads/) til at generere lidt passiv indkomst. Jeg har derfor åbnet [www.cykel-ruter.dk](http://www.cykel-ruter.dk). Om ikke andet så kan det da inspirere andre til at køre nogle af de dejlige cykelruter, vi har i Danmark.
+Det betyder, at [www.motionsplan.dk](http://www.motionsplan.dk) og [www.legestue.net](http://www.legestue.net) nu hostes gratis og det ligger som statiske HTMl-filer, så serveren skal ikke vedligeholdes. 
+
+Jeg har tidligere skrevet, at jeg ville prøve at reaktivere noget af mit gamle indhold og gøre det tilgængeligt og udnytte Google Adsense og [Partner Ads\*](/go/partnerads/) til at generere lidt passiv indkomst. Jeg har derfor åbnet [www.cykel-ruter.dk](http://www.cykel-ruter.dk). Om ikke andet så kan det da inspirere andre til at køre nogle af de dejlige cykelruter, vi har i Danmark.
 
 Jeg tjente i juli i alt **307 DKK** i passiv indkomst på _affiliate_ og _referral_ links.
 
-[Skab passiv indkomst med Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info}
+[Skab passiv indkomst med Partner-Ads\*](/go/partnerads/){: .btn .btn--large .btn--info}
 
 ## Hvad vil du gerne høre mere om?
 
