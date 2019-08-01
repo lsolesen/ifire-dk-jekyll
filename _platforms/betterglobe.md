@@ -48,6 +48,8 @@ Better Globe ligger i Norge, men det er Better Globe Forestry, man investerer i 
 
 Jeg håber at Better Globe er oprigtigt og solidt foretagende, fordi prospektet med at plante træer i Afrika er rigtig godt. Der går desværre mange år, før jeg ved om det snarere er et Ponzi Scheme.
 
+Jeg er ikke i tvivl om, at Better Globe er i gang med at plante træer i Afrika nu - og at de udbetaler de første udbytter til dem, der har investeret for 5 år siden. Jeg vil bare helst ikke have, at mine penge ender med at blive en donation, fordi den langsigtede investeringskonstruktion er et pyramidespil.
+
 Rino Solberg fortæller selv på TedX om Better Globe - og det lyder jo alt sammen rigtig godt.
 
 {% include video provider="youtube" id="feyQWWjhnKE" %}
