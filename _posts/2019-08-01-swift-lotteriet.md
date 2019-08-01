@@ -89,6 +89,8 @@ Når man laver Swift-overførsler skal man altså tænke sig lidt om på forhån
 
 Efterfølgende har jeg lavet endnu en overførsel for at tjekke om nogle af pengene tilfældigvis ville finde et nyt hjem hos en ukendt bank på vejen.
 
+Gad vide hvorfor nogen arbejder for, at indarbejde en gennemskuelig block chain i bankverden?
+
 [Få gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
 
 {% include disclaimer.md %}
