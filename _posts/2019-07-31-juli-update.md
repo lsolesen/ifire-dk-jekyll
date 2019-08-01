@@ -135,7 +135,7 @@ Jeg [_miner_ stadig lidt krypto på Minergate\*](/go/minergate/). Lige nu kan de
 
 ## Træer
 
-Jeg har kigget [kritisk på min investering i Better Globe](/platform/betterflobe/), og jeg forventer ikke at købe flere træer i det projekt. Jeg vidste, at projektet havde en vibe a _Ponzi Scheme_ omkring sig, da jeg først investerede, men jeg bliver alligevel mere og mere usikker på projektet, når jeg læser mere om baggrunden for initiativtagerne og tænker mig grundigere om.
+Jeg har kigget [kritisk på min investering i Better Globe](/platform/betterglobe/), og jeg forventer ikke at købe flere træer i det projekt. Jeg vidste, at projektet havde en vibe a _Ponzi Scheme_ omkring sig, da jeg først investerede, men jeg bliver alligevel mere og mere usikker på projektet, når jeg læser mere om baggrunden for initiativtagerne og tænker mig grundigere om.
 
 [Køb træer hos BetterGlobe og få op til 13% afkast\*](/go/betterglobe/){: .btn .btn--large .btn--success}
 
