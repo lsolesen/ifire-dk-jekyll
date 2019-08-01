@@ -1,5 +1,6 @@
 ---
 title: "Hvornår begynder man at tjene penge på crowdlending?"
+permalink: /investering/hvornaar-crowdlending/
 category:
   - Investering
 tags:
