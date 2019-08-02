@@ -6,7 +6,7 @@ permalink: /platform/bulkestate/
 tags:
   - crowdlending
   - ejendomsinvestering
-excerpt: ""
+excerpt: "Hos Bulkestate investere i udviklingslån til boligprojekter."
 ---
 
 {{ page.excerpt }}

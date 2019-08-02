@@ -2,6 +2,7 @@
 layout: single
 title: Inspiration
 permalink: /inspiration/
+excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed og tidlig pensionering."
 author_profile: true
 classes: wide
 feature_row:

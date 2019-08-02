@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Anmeldelser
+excerpt: "Anmeldelser af forskellige platforme, som kan hjælpe på vejen til økonomisk uafhængighed og finansiel frihed."
 permalink: /anmeldelser/
 taxonomy: Anmeldelse
 entries_layout: grid # list (default), grid
