@@ -13,10 +13,10 @@ future: true
 
 # Site Settings
 locale                   : "da"
-title                    : "iFire - Finansiel frihed og bæredygtighed"
+title                    : "iFire"
 title_separator          : "-"
 subtitle                 : "Økonomisk frihed, investering, crowdlending og bæredygtighed"
-name                     : "iFire"
+name                     : "iFire - Finansiel frihed, investering, crowd lending og bæredygtighed"
 description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowd lending og passiv indkomst med blik for bæredygtighed"
 logo                     : "/android-chrome-192x192.png"
 url                      : "https://www.ifire.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
