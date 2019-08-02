@@ -49,7 +49,7 @@ Dog skal man være opmærksom på, at bæredygtighedsratingen ikke er absolut, m
 
 Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfordringer, og man skal stadig læse grundigt på de enkelte værdipapirer. 
 
-**Gå selv på jagt efter bæredygtige fonde hos Nordnet**. Du kan selv gå på jagt efter fonde med [Nordnets nye værktøj til at finde fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs). 
+**Gå selv på jagt efter bæredygtige fonde hos Nordnet**. Du kan selv gå på jagt efter bæredygtige investeringer ved at benytte de nye værktøjer. Du kan lede efter [fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs) og filtrere forskellige parametre. Desværre kan man ikke filtrere på om investeringsstrategien er passiv eller aktiv.
 {: .notice--info}
 
 ## Bæredygtighed i de danske passive indeksfonde
@@ -119,11 +119,10 @@ BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ish
 | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)      | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,29          |
 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)         | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 46,07          |
 | [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,49          |
-| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 48,23          |
-| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 51,15          |
-| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 56,27          |
 
-Læg mærke til at de sidste to fonde handles i USD, og at de årlige omkostninger ikke er opgjort. Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. Husk at der lige nu med ETF’er er andre skatteregler end på aktier (ændres i 2020), og at der er en valutarisiko ved at købe ETF’er.
+Jeg har ikke kunnet finde flere af BlackRocks bæredygtige ETF'er, der er decideret bæredygtige og klimavenlige.
+
+Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. Husk at ETF’er lagerbeskattes som kapitalindkomst (der er kommet nye regler fra 2020, hvor de stadig lagerbeskattes, men som aktieindkomst). Husk også, at du løber en valutarisiko ved at købe ETF’er i udenlandsk valuta.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
