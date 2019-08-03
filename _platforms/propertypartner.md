@@ -55,3 +55,5 @@ toc: true
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1464506318&amp;format=image"></iframe>
 
 [Tilmeld dig Property Partner*](/go/propertypartner/){: .btn .btn--large .btn--info}
+
+{% include disclaimer.html %}
