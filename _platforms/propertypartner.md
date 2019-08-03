@@ -11,6 +11,8 @@ last_modified_at: 2019-08-03T08:19:00+08:00
 toc: true
 ---
 
+{{ page.exerpt }}
+
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 5. marts 2019  
