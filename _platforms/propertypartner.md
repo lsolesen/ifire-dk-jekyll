@@ -6,8 +6,9 @@ header:
 tags:
   - crowdlending
   - ejendomsinvestering
-excerpt: "På Property Partner investerer du i ejendomme i England."
-last_modified_at: 2019-03-24T00:00:00+08:00
+excerpt: "På Property Partner investerer du i ejendomme i England ved at købe aktier i selskaberne og modtage udbytte (husleje) hver måned."
+last_modified_at: 2019-08-03T08:19:00+08:00
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -17,6 +18,22 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Totalt trukket ud**: 0 GBP
 
 **Note:** Når du skal tilmelde dig, bliver du bedt om at sende et billede af dit pas eller kørekort med e-mail til dem. Det er knap så tjekket som mange andre platforme.
+{: .note--danger }
+
+## Fordele
+
+- Du køber aktier i ejendommene og får husleje.
+- Aktier i ejendomme er typisk ret billige, hvilket gør at det er let at få en diversificeret portefølje. 
+- Du kan købe og sælge på daglig basis på deres sekundære marked.
+- De har en (relativt dyr) auto invest (som de naturligvis også tager et begyr for)
+- Platformen er let og overskuelig at bruge.
+
+## Ulemper
+
+- Autoinvest koster mindst 1000 £ og der er gebyr for at have den
+- Gebyr på 1 £ om måneden for at være på platformen
+- Usikkerhed ved Brexit, hvor boligmarkedet i England kan ændre sig, og £ kommer formentlig under pres.
+- Det tager mindst fem-seks måneder inden den interne rente bliver positiv
 
 ## Investering og værdi af investering
 
