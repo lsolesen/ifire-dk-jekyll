@@ -56,4 +56,4 @@ toc: true
 
 [Tilmeld dig Property Partner*](/go/propertypartner/){: .btn .btn--large .btn--info}
 
-{% include disclaimer.html %}
+{% include disclaimer.md %}
