@@ -106,9 +106,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@ifire.dk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://larsolesen.dk"
+    - label: "BuyMeACoffee"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/hmBeaqv9P"
+    - label: "Flattr"
+      icon: "fas fa-fw fa-sync-alt"
+      url: "/go/flattr/"
 
 
 # Reading Files
