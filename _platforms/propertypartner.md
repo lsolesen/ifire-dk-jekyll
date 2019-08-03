@@ -18,7 +18,7 @@ toc: true
 **Totalt trukket ud**: 0 GBP
 
 **Note:** Når du skal tilmelde dig, bliver du bedt om at sende et billede af dit pas eller kørekort med e-mail til dem. Det er knap så tjekket som mange andre platforme.
-{: .note--danger }
+{: .notice--danger }
 
 ## Fordele
 
