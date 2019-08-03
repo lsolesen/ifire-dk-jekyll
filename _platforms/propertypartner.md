@@ -33,7 +33,8 @@ toc: true
 - Autoinvest koster mindst 1000 £ og der er gebyr for at have den
 - Gebyr på 1 £ om måneden for at være på platformen
 - Usikkerhed ved Brexit, hvor boligmarkedet i England kan ændre sig, og £ kommer formentlig under pres.
-- Det tager mindst fem-seks måneder inden den interne rente bliver positiv
+- Det tager [mindst fem-seks måneder inden den interne rente bliver positiv](#xirr)
+- Kunne være dejligt med lidt mere statistik på platformen
 
 ## Investering og værdi af investering
 
