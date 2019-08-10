@@ -6,14 +6,19 @@ header:
 tags:
   - crowdlending
 excerpt: "Envestio låner ud til investeringsprojekter for virksomheder, og er startet med nogle ret gode procenter på deres investeringer."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2019-08-10T11:40:00+08:00
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 1. marts 2019  
-**Totalt indskud**: 1.000 EUR  
+**Totalt indskud**: 1.250 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## Juli 2019
+
+- Envestio har nu lavet en auto-invest. 
 
 ## Maj 2019
 
