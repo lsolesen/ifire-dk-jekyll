@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/logo/envestio.png
 tags:
   - crowdlending
-excerpt: "Envestio låner ud til investeringsprojekter for virksomheder, og er startet med nogle ret gode procenter på deres investeringer."
+excerpt: "Envestio er registreret i Estland og låner ud til investeringsprojekter for virksomheder, og er startet med nogle ret gode procenter på deres investeringer."
 last_modified_at: 2019-08-10T11:40:00+08:00
 toc: true
 ---
@@ -15,6 +15,18 @@ toc: true
 **Første investeringsdato**: 1. marts 2019  
 **Totalt indskud**: 1.250 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## Fordele
+
+- Høje renter
+- Har ikke haft nogen defaults endnu
+- Autoinvest, som ganske vist er ret ny.
+- Der er _buy back_, hvis man beder om det (det foregår ikke automatisk som på andre platforme)
+
+## Ulemper
+
+- Relativt få lån, som hurtigt bliver udsolgt, hvilket har givet en del cash drag for mig. Kan måske afhjælpes med deres nye autoinvest.
+- Intet sekundær marked
 
 ## Juli 2019
 
