@@ -6,6 +6,20 @@ excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed
 author_profile: true
 classes: wide
 feature_row:
+  - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
+    alt: "Early Retirement Extreme"
+    title: "Early Retirement Extreme"
+    excerpt: "Dette er en af de helt grundlæggende FIRE-bøger, som faktisk er skrevet af dansk Jacob Lund Fisker, som har bosat sig i USA. Han skriver - A strategic combination of smart financial choices, simple living, and increased self-reliance brought me financial independence at 30 and allowed me to retire from my profession at 33. Early Retirement Extreme shows how I did it and how anyone can formulate their own plan for financial independence."
+    url: "https://amzn.to/2KphbcG"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://images-na.ssl-images-amazon.com/images/I/51ultoit2OL._SX330_BO1,204,203,200_.jpg
+    alt: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
+    title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
+    excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
+    url: "https://amzn.to/31riw8s"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "Simple Path To Wealth"
     title: "Simple Path To Wealth"
