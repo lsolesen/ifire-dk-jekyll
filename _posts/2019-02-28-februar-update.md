@@ -1,5 +1,6 @@
 ---
 title: "#2 Februar - Mere styr på investeringerne"
+permalink: /opdateringer/februar-update/
 category:
   - Opdateringer
 tags:

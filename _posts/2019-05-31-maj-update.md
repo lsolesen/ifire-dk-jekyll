@@ -1,5 +1,6 @@
 ---
 title: "#5 Maj - Hvordan går det med investeringerne?"
+permalink: /opdateringer/maj-update/
 category:
   - Opdateringer
 tags:

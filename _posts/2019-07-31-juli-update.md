@@ -1,5 +1,6 @@
 ---
 title: "#7 Juli - Sommerferie, Gomore og AirBnb?"
+permalink: /opdateringer/juli-update/
 category:
   - Opdateringer
 tags:

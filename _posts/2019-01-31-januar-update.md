@@ -1,5 +1,6 @@
 ---
 title: "#1 Januar - I gang med finansiel uafhængighed"
+permalink: /opdateringer/januar-update/
 category:
   - Opdateringer
 tags:

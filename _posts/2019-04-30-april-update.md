@@ -1,5 +1,6 @@
 ---
 title: "#4 April - Pengene falder på plads?"
+permalink: /opdateringer/april-update/
 category:
   - Opdateringer
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Anmeldelse af Netatmo Smart Radiator Valves"
+permalink: /anmeldelse/netatmo-radiator-valve-anmeldelse/
 category:
   - Anmeldelse
 tags:

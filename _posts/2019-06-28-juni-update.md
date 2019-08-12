@@ -1,5 +1,6 @@
 ---
 title: "#6 Juni - På vej ud af firma og styr på porteføljerne?"
+permalink: /opdateringer/juni-update/
 category:
   - Opdateringer
 tags:

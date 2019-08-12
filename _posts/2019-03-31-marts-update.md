@@ -1,5 +1,6 @@
 ---
 title: "#3 Marts - Hvor skal kontanterne ende?"
+permalink: /opdateringer/marts-update/
 category:
   - Opdateringer
 tags:
