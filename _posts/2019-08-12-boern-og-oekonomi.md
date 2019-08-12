@@ -47,7 +47,7 @@ De har hver deres konto i banken, hvor alle pengene kommer ind. Jeg har også et
 
 Vi **lejede vores hus ud på [AirBnb\*](/go/airbnb/)**, og **børnene fik leje for deres eget værelse**. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med.
 
-Vi aftalte at bruge indtægten fra AirBnb på at investere dem i et fælles projekt. Vi valgte at investere i en kamel gennem [Agrikaab\*](/go/agrikaab/). Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna.
+Vi aftalte at bruge indtægten fra AirBnb på at **investere dem i et fælles projekt**. Vi valgte at investere i en kamel gennem [Agrikaab\*](/go/agrikaab/). Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna.
 
 At investere i en kamel er meget håndgribeligt. Vi har sammen købt et aktiv. Vi forventer, at aktivet vil give et afkast over tid både gennem mælk og på et tidspunkt bliver den også slagtet. Vi har samtidig opmærksomhed på en verdensdel, hvor livet ikke altid er lige let for befolkningen. Det giver os til gengæld et lille afkast, som vi kan følge, og som kan give os fornemmelsen af, hvad det vil sige at få pengene til at arbejde for sig. (Vi venter lidt med sammenhængen mellem afkast og risiko, som formentlig i et afrikansk investeringseventyr ikke hænger helt sammen.)
 
