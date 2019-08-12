@@ -57,7 +57,7 @@ Vi har eksperimenteret lidt med andre aktiviteter, som forhåbentlig kan være m
 
 - Hvis vi beslutter os for at **købe slik i weekenden**, så får børnene 10 kroner hver, men hvis de køber for mindre, så får de resten af pengene.
 - Pigerne har selv foreslået at gå på **skraldetur**, hvor de så også har **fundet pant**. (Den ene gang var der en skovsnegl i en af flaskerne, vi ikke havde opdaget før vi kom hjem, hvor den var kravlet halvt ud.)
-- Helt **særlige opgaver** har jeg givet pigerne **løn** for. Fx at feje blade i vores fælles garage eller finde små plastikdimser på vejen, som var blevet efterladt af en håndværker. De får aldrig løn for at løse opgaver i huset, da vi anser det som noget man skal for at være en del af familien.
+- Helt **særlige opgaver** har jeg givet pigerne **løn** for. Fx at feje blade i vores fælles garage eller finde små plastikdimser på vejen, som var blevet efterladt af en håndværker. De får aldrig løn for at løse opgaver i huset, da det hører med til at være en del af familien.
 
 ## Det modsatte af forkælet
 
