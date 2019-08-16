@@ -43,6 +43,8 @@ feature_row:
     btn_class: "btn--success"
 ---
 
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=kindle&banner=1TC354VDT7K8N1C85H82&f=ifr&linkID=1b58c3069f2b5eda29b08f6f09072caf&t=ifire00-20&tracking_id=ifire00-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde masser af inspiration investering og finansiel uafhængighed. Her kommer nogle af mine favoritter. Jeg forsøger at læse mindst en time dagligt om emner, der intereserer mig.
 
 {% include feature_row type="left" %}

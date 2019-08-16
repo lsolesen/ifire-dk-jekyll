@@ -12,7 +12,7 @@ last_modified_at: 2019-06-22T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 22. juni 2019  
-**Totalt indskud**: 1.000 USD  
+**Totalt indskud**: 2.000 USD  
 **Totalt trukket ud**: 0 USD
 
 ## Investering
@@ -31,14 +31,21 @@ Afkastet på de enkelte lån på Lendahand er 3-5% p.a. i de lån, der er på pl
 
 Der er ikke så meget data endnu, og jeg er lige gået ind i investeringen, men jeg vil opdatere når jeg får mere data, og du kan følge XIRR på denne side.
 
+## Fordele
+
+- Spændende projekter, hvor man gør noget godt i verden.
+- Hurtig support, da jeg havde brug for dem.
+- Let at navigere hjemmesiden.
+
 ## Ulemper og risici
 
 - Mindsteinvesteringen er 50 EUR.
-- Der er ikke så mange lån på platformen.
+- Der er ikke så mange lån på platformen, men der kommer dog nye til jævnligt.
 - Der er ikke noget sekundært marked.
 - Renterne på lånene er ikke særlig høje (3-5%).
+- Det tager lidt tid, inden der tikker renter ind, fx har jeg investeret i juni 2019, men der kommer ikke afkast i år på investeringerne.
 
-## Juni 2019
+[Tilmeld dig Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning}
 
 ## Investering og værdi af investering
 
