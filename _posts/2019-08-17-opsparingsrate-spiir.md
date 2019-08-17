@@ -13,7 +13,7 @@ Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for hver måne
 
 Først har jeg lavet et regneark, hvor jeg kan taste mine værdier ind. Jeg har lavet regnearket i Google Sheets.
 
-![Fra Spiirs dashboard](/assets/spiir-opsparingsrate.png)
+![Fra Spiirs dashboard](/assets/images/spiir-opsparingsrate.png)
 
 Indtægterne er ret lette at aflæse i Spiir. Dem indtaster jeg så bare i den rigtige kolonne i mit regneark. 
 
