@@ -23,6 +23,8 @@ De to tal indtaster jeg også i regnearket.
 
 **Men** af en eller anden uforklaring grund, så indregner Spiir _investeringer_ i forbrugskategorien og _opsparing_ i regningskategorien. For at få min opsparingsrate så skal de værdier naturligvis ikke medregnes i udgiftskategorier, så dem bliver jeg også nødt til at aflæse og indskrive i regnearket.
 
+Jeg finder tallene ved at klikke på kategorien for investeringer og opsparing under den enkelte måned i Spiir.
+
 Hvis jeg tager et eksempel for juli måned for min økonomi og min families fælles økonomi, så bliver værdierne altså:
 
 | Kategori           | Beløb  |
@@ -51,6 +53,10 @@ Jeg er først i 2019 for alvor begyndt at tænke over min families opsparingsrat
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1351454595&amp;format=image"></iframe>
 
 Min indtægt har været nogenlunde stabil i hele perioden, men jeg er blevet meget mere opmærksom på (at spare på) mine udgifter.
+
+Samtidig kan jeg fra regnearket få et overblik over, hvad der går til forbrug, regninger, investering og opsparing:
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1102868236&amp;format=image"></iframe>
 
 Jeg har også lige installeret Spenderlog for at give et overblik over mit daglige forbrug i fx Bilka, Føtex og Coops butikker. Det bliver ret interessant at se, hvordan det forbrug har udviklet sig.
 
