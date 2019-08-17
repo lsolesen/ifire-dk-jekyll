@@ -25,7 +25,7 @@ De to tal indtaster jeg også i regnearket.
 
 Jeg finder tallene ved at klikke på kategorien for investeringer og opsparing under den enkelte måned i Spiir.
 
-Hvis jeg tager et eksempel for juli måned for min økonomi og min families fælles økonomi, så bliver værdierne altså:
+Hvis jeg tager et eksempel som kunne illustrere min økonomi og min families fælles økonomi, så bliver værdierne altså:
 
 | Kategori           | Beløb  |
 |--------------------|--------|
