@@ -19,6 +19,10 @@ toc: true
 
 Jeg har prioriteret at få lån med høj rente. Lige nu kører jeg med relativt høj risiko, men forventer i fremtiden i højere grad at indstille hvor stor del af min investerede portefølje, der skal være i den høje ende af skalaen. I august 2019 ser min auto invest sådan her ud, hvilket har givet en XIRR på 13,50% medio august. Udviklingen i min auto invest kan ses under de korte månedsopdateringer.
 
+- Jeg investerer kun i lån med _buy back_.
+- Jeg prioriterer lån med høj rente.
+- Jeg inkluderer långivere med gode ratings (lige nu bedre end B-)
+
 ![Mintos Autoinvest August 2019](/assets/images/autoinvest/mintos-autoinvest-august-2019.png)
 
 ## Muligheden for at få sine penge ud hurtigt
