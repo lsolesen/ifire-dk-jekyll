@@ -9,6 +9,14 @@ excerpt: "Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for 
 
 Hver måned så registrerer jeg min opsparingsrate. Jeg har registreret alle mine indtægter og udgifter i [Spiir](http://www.spiir.dk), som er gratis og integrerer med de fleste danske banker. Registreringen er næsten fuldautomatisk - og Spiir er ret god til at gætte hvilke kategorier de enkelte posteringer skal være i. Jeg synes Spiir er genial til at få et overblik over ens budget.
 
+Jeg registrerer min opsparingsrate, fordi den har stor betydning for tidspunktet for finansiel uafhængighed.
+
+![Billede fra Mr. Money Mustache](https://www.mrmoneymustache.com/wp-content/uploads/2012/01/years_to_retirement-900x367.png)
+
+At tjene mere og forbruge mindre er de to første og vigtige punkter i rigdomsformlen. Det skaber bl.a. overskud til at kunne investere (klogere).
+
+## Opsparingsraten med Spiir?
+
 Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for hver måned?
 
 Først har jeg lavet et regneark, hvor jeg kan taste mine værdier ind. Jeg har lavet regnearket i Google Sheets.
