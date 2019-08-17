@@ -6,17 +6,26 @@ header:
 tags:
   - crowdlending
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
-last_modified_at: 2019-06-30T00:00:00+08:00
+last_modified_at: 2019-08-17T20:01:00+08:00
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 18. februar 2019  
-**Totalt indskud**: 6.057 EUR
+**Totalt indskud**: 8.203 EUR
+
+## Auto invest
+
+Jeg har prioriteret at få lån med høj rente. Lige nu kører jeg med relativt høj risiko, men forventer i fremtiden i højere grad at indstille hvor stor del af min investerede portefølje, der skal være i den høje ende af skalaen. I august 2019 ser min auto invest sådan her ud, hvilket har givet en XIRR på 13,50% medio august. Udviklingen i min auto invest kan ses under de korte månedsopdateringer.
+
+![Mintos Autoinvest August 2019](/assets/images/autoinvest/mintos-autoinvest-august-2019.png)
 
 ## Muligheden for at få sine penge ud hurtigt
 
 Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til salg, hvis du får brug for din investering hurtigere end lånene løber ud. Og det ser ud til at virke rigtig godt ifølge [P2P Millionaire](https://p2p-millionaire.com/how-liquid-is-the-mintos-secondary-market-our-e1m-p2p-lending-early-exit-test/)
+
+Senere har Mintos etableret deres Invest & Access-produkt, hvor det formentlig er endnu enklere at få pengene ud hurtigt.
 
 ## Februar 2019
 
@@ -33,8 +42,11 @@ Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til s
 
 ## Juni 2019
 
-- Jeg har endelig lukket min Mintos-konto i danske kroner ned. Det lykkedes faktisk med en fornuftig intern rente på **???**, selvom jeg har brugt det meste af tiden på at flytte midlerne over på EUR-kontoen og betalt noget vekselgebyr for det. Jeg satser på Mintos-kontoen i EUR.
-- Jeg har allokeret en del af min portefølje til deres nye produkt _Invest & Access_, som jeg opfatter som en direkte konkurrent til [Bondoras Go & Grow\*](/go/bondora/).
+- Jeg har endelig lukket min Mintos-konto i danske kroner ned. Det lykkedes faktisk med en fornuftig intern rente på **8,14%**, selvom jeg har brugt det meste af tiden på at flytte midlerne over på EUR-kontoen og betalt noget vekselgebyr for det. Jeg satser på Mintos-kontoen i EUR.
+
+## August 2019
+
+- Jeg er begyndt at rette min auto invest til, så jeg kun har låneudbydere med mindst B- rating.
 
 ## Investering og værdi af investering
 
