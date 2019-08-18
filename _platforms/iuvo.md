@@ -33,6 +33,7 @@ classes: wide
 
 - _Autoinvest_ kan forbedres
 - Man kan ikke let læse mere information om den enkelte låneudbyder (jeg har i hvert fald ikke fundet det)
+- Platformen har haft omkring 3.000.000 EUR i underskud både i 2017 og 2018.
 - _Refer a friend_ kræver at man sender e-mails specifikt til en e-mail. Man får ikke bare et generelt link, man kan sende til dem, man har lyst til eller inkludere på sin blog (hvis du vil have **30 EUR for en investering på 1000 EUR**, kan jeg sende dig en invitation, hvis du lige skriver til {{ site.email }}). Hvis man skal have et link, så skal man blive _affiliate_ ([som jeg er blevet\*](/go/iuvo/)) for at få linket. Men jeg ville lige så gerne bare have været referral og lidt lettere kunne have givet de 30 EUR.
 
 [Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}
@@ -52,6 +53,10 @@ Jeg svarede ham, at jeg synes investorerne skulle tage den beslutning selv. Iuvo
 Mit autoinvestor er sat sådan her op lige nu:
 
 {% include figure image_path="/assets/images/autoinvest/iuvo-autoinvest.png" caption="Autoinvestor på Iuvo pr. 6. juni 2019" alt="Autoinvestor på Iuvo pr. 6. juni 2019" %}
+
+## August 2019
+
+Jeg har stoppet min _auto invest_ fordi jeg vil trække nogle af mine penge ud af Iuvo. Jeg er sådan set godt tilfreds med platformen og vil blive ved med at følge den tæt, men kunne godt tænke mig nogle lidt bedre regnskaber fra Iuvo.
 
 ## Investering og værdi af investering
 
