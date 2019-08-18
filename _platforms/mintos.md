@@ -29,7 +29,9 @@ Jeg har prioriteret at få lån med høj rente. Lige nu kører jeg med relativt 
 
 Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til salg, hvis du får brug for din investering hurtigere end lånene løber ud. Og det ser ud til at virke rigtig godt ifølge [P2P Millionaire](https://p2p-millionaire.com/how-liquid-is-the-mintos-secondary-market-our-e1m-p2p-lending-early-exit-test/)
 
-Senere har Mintos etableret deres Invest & Access-produkt, hvor det formentlig er endnu enklere at få pengene ud hurtigt.
+Senere har Mintos etableret deres Invest & Access-produkt, hvor det formentlig er endnu enklere at få pengene ud hurtigt. Dog kan man kun hæve de penge, der er investeret i lån, der er _current_. Jeg har invsteret en del i Invest & Access, som jeg forventer er nogenlunde likvidt, men hvis jeg har brug for mere sikker likviditet på crowdlending, så sætter jeg dem i [Bondora Go & Grow\*](/go/bondora/).
+
+{% include video provider="youtube" id="cd9juR3gc7Y" %}
 
 ## Februar 2019
 

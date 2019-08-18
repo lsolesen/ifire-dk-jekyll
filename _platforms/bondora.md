@@ -17,19 +17,23 @@ last_modified_at: 2019-06-14T00:00:00+08:00
 
 Den mere [traditionelle _crowd lending_ hos Bondora får kritik i øjeblikket](https://financiallyfree.eu/portfolio-update-january-2019/), så jeg har valgt kun at investere i Go & Grow. Jeg opfatter det egentlig som en ret sikker opsparing, da jeg hurtigt kan få pengene ud igen, hvis jeg har brug for dem. Det kan man også på andre crowdlending platforme med likvide sekundære markeder, som fx [Mintos](/platform/mintos/).
 
-**Bondora Go & Grow** 
-
-## Go and Grow - til opsparing
+## Bondora Go & Grow - til opsparing
 
 I Grow & Go kan du sætte sparemål op. Her investerer du i en pulje lån med en fast rente på (maksimalt) 6,75% p.a. - og renterne tilskrives dagligt. Det er let at oprette sig og meget overskueligt og virkelig automatisk.
 
 Det er tillokkende at bruge Bondora som en _højrentekonto_, men du [afgiver også en masse kontrol med din investering](https://p2pinvestor.dk/go-grow-af-bondora-ligner-den-ultimative-opsparingsmulighed-her-er-hvad-du-skal-vaere-opmaerksom-paa/).
 
-## Muligheden for at få sine penge ud hurtigt
+### Muligheden for at få sine penge ud hurtigt
 
 Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
 
 Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svindleri. Jeg trak et mindre beløb ud på mit Spar Nord visa-kort, for det er ikke muligt at trække dem ud på et Revolut-betalingskort af en eller anden årsag, som jeg ikke helt kender. Dernæst blev muligheden for at lave en SEPA-bankoverførsel åbnet, og der kunne jeg uden problemer overføre pengene til min Revolut-konto, som jeg også havde brugt til at sætte pengeene ind på Bondora-kontoen.
+
+[Mintos\*](/go/mintos/) har lanceret Invest & Access som en konkurrent til Go & Grow. Den største forskel er, at man hos Mintos I&A kun kan hæve de penge, der er investeret i lån, der er _current_, mens man hos Bondoras G&G kan hæve det fulde beløb.
+
+Se en sammenligning her:
+
+{% include video provider="youtube" id="cd9juR3gc7Y" %}
 
 ## Februar 2019
 
