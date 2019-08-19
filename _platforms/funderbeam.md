@@ -16,6 +16,14 @@ excerpt: "Hos Funderbeam investerer du i startups. Platformen er baseret på blo
 
 ## April
 
-- Har investeret i to projekter. 
+- Har investeret i to projekter i løbet af april. Det har været Exero Technologies og Lendino.
+
+## August
+
+- Så er der åbnet for handel af mine _loan notes_ og _shares_, hvilket ikke er startet alt for godt. Platformen er lidt mere som aktier, og jeg er næsten sikker på at Funderbeam ikke er noget for mig i det lange løb, selvom det er spændende at sidde og læse om _start up_-projekterne.
+
+## Udvikling i værdien i projekterne
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=973342468&amp;format=image"></iframe>
 
 [Tilmeld dig Funderbeam*](/go/funderbeam/){: .btn .btn--large .btn--warning}

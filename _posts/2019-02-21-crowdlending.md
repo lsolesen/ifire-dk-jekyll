@@ -1,6 +1,6 @@
 ---
 title: "Kom i gang med crowdlending"
-permalink: /crowdlending/
+permalink: /kom-i-gang-med-crowdlending/
 category:
   - Opsparing
 tags:
