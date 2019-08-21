@@ -130,7 +130,7 @@ Jeg har også oprettet mig hos [Partner-Ads\*](https://www.partner-ads.com/dk/kl
 ## Spørgsmål
 
 - [Hvordan skal jeg sammensætte mine investeringer i værdipapirer](/investering-vol2/)
-- [Hvordan gør jeg mine investeringer endnu mere bæredygtige og etiske?](/overvejelser/etik-baeredygtighed-investeringer/)
+- [Hvordan gør jeg mine investeringer endnu mere bæredygtige og etiske?](/etik-baeredygtighed-investeringer/)
 - [Hvordan skal jeg have sat min børneopsparing op?](/borneopsparing/)
 - Hvordan ender jeg et sted, hvor tingene kører lidt mere automatisk?
 
