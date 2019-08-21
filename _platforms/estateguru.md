@@ -7,7 +7,10 @@ tags:
   - crowdlending
   - ejendomme
 excerpt: "Hos Estate Guru investerer du ejendomme i med hovedsæde i Estland."
-last_modified_at: 2019-07-12T12:54:00+08:00
+last_modified_at: 2019-08-21T12:54:00+08:00
+platform:
+  autoinvest: yes
+  twofactorauth: yes
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -19,7 +22,14 @@ last_modified_at: 2019-07-12T12:54:00+08:00
 ## Fordele
 
 - Mulighed for _hands off_ _auto invest_.
-- Relativt let at klikke rundt på.
+- Relativt mange lån
+- 2-faktor sikkerhed
+- Lang historik (etableret i 2013)
+
+## Ulemper
+
+- Ikke noget sekundært marked, så det er ikke muligt at trække sig tidligere
+- Ingen buy back garanti (men historisk heller ikke mange tab på platformen)
 
 ### August
 

@@ -6,8 +6,11 @@ header:
 tags:
   - crowdlending
   - ejendomme
-excerpt: "Hos Kuflink investerer du ejendomme i Storbrittanien."
-last_modified_at: 2019-07-12T12:54:00+08:00
+excerpt: "Hos Kuflink investerer du ejendomme i Storbritanien."
+last_modified_at: 2019-08-21T12:54:00+08:00
+platform:
+  autoinvest: yes
+  twofactorauth: no
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -18,10 +21,19 @@ last_modified_at: 2019-07-12T12:54:00+08:00
 
 ## Fordele
 
-- Mulighed for _hands off_ _auto invest_.
-- Relativt let at klikke rundt på.
-- Har været i _gamet_ nogle år.
+- Mulighed for _hands off_ _auto invest_ (som dog binder pengene i 1, 3 eller 5 år med lidt lavere afkast).
 - Høj sign up bonus.
+- Etableret som crowdlending i 2016.
+- Ingen har endnu tabt penge på platformen.
+- Kuflink investerer de først 5% selv, så de står først til at tabe penge, hvis et lån ikke går som planlagt.
+- Sekundært marked.
+
+## Ulemper
+
+- Ingen _buy back_ eller _provision fund_.
+- Renten betales årligt i stedet for månedligt eller dagligt.
+- Knap så mange lån på platformen.
+- Du skal have en UK-bankkonto (hvilket ikke er noget problem, hvis du bruger [Revolut\*](/go/revolut/))
 
 ### August
 
