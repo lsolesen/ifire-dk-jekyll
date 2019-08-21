@@ -11,7 +11,7 @@ tags:
 excerpt: "Jeg er så småt gået i gang med at lave en lille portefølje i cryptovaluta."
 ---
 
-Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/opsparing/bitcoins/).
+Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
 
 ## Hvordan sammensætter man en portefølje?
 

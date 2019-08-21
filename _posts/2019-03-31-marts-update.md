@@ -13,7 +13,7 @@ Jeg har virkelig glædet mig til at lave denne opdatering, fordi det er første 
 
 Først og fremmest så har jeg [sparet en del penge](/spar-penge/) bl.a. på at [melde mig ud af Folkekirken](/kirkeskat/) og sætte lidt [mindre pris på mig selv ved mine forsikringer](/forsikringer/).
 
-Desuden satte jeg gang i et projekt med at [skabe lidt passiv indkomst](/indkomst/projekt-referral-affiliate/), men først og fremmest så har jeg brugt en del tid på at få styr på [mine](/investering/) [investeringer](/investering-vol2/).
+Desuden satte jeg gang i et projekt med at [skabe lidt passiv indkomst](/projekt-referral-affiliate/), men først og fremmest så har jeg brugt en del tid på at få styr på [mine](/investering/) [investeringer](/investering-vol2/).
 
 Lige nu er min samlede fordeling:
 
@@ -95,7 +95,7 @@ I fremtiden vil jeg formentlig skærpe min portefølje lidt, men nu vil jeg se, 
 
 ## Bæredygtig investering i træ
 
-Jeg er ret interesseret i, [hvordan jeg kan gøre mine investeringer lidt mere bæredygtige](/overvejelser/etik-baeredygtighed-investeringer/) - og en af de måder jeg er blevet interesseret i er [Better Globe\*](http://www.passivindkomst.nu/better-globe/).
+Jeg er ret interesseret i, [hvordan jeg kan gøre mine investeringer lidt mere bæredygtige](/etik-baeredygtighed-investeringer/) - og en af de måder jeg er blevet interesseret i er [Better Globe\*](http://www.passivindkomst.nu/better-globe/).
 
 I den forbindelse stødte jeg også på [COOPs crowdfunding projekter](https://crowdfunding.coop.dk/projects), hvilket er lidt sjovt, for deres platform leveres af danske Lendino, som netop er [et af de projekter](https://www.funderbeam.com/syndicate/lendino) hos [Funderbeam*](/go/funderbeam/), jeg har budt på.
 
