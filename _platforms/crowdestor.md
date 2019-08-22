@@ -12,8 +12,20 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 6. marts 2019  
-**Totalt indskud**: 1.000 EUR  
+**Totalt indskud**: 2.500 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## Fordele
+
+- Mange interessante lån og fine informationer om lånene
+- Relativt højt afkast opnået hurtigt
+- Fond for at undgå tab
+- Rimelig let at blive diversificeret på platformen
+
+## Ulemper
+
+- Ingen auto invest
+- Kun en låneudbyder
 
 ## Investering og værdi af investering
 

@@ -13,10 +13,22 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 27. februar 2019  
-**Totalt indskud**: 3.000 EUR  
+**Totalt indskud**: 4.000 EUR  
 **Totalt trukket ud**: 0 EUR
 
-### April
+## Fordele
+
+- Fokus på erhvervslån
+- Højt gennemsnitligt afkast, som opnåes relativt hurtigt
+- _Buy back_ garanti
+- Auto invest
+
+## Ulemper
+
+- Den sekundære markedsplads er endnu ikke lanceret.
+- Har skiftet bank ofte (men for mig har de håndteret det fint)
+
+## April
 
 - Problemer med deres bankforbindelse, som de skiftede. Endte med et udestående, som deres support dog relativt hurtigt fik styr på.
 
