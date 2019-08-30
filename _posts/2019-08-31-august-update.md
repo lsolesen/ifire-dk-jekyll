@@ -15,6 +15,8 @@ I august måned har jeg fortsat investeret både i aktier, obligationer og crowd
 
 Jeg har oprettet en aldersopsparing - og så havde jeg en opsparingsrate på 55%. Det er jo ikke helt tosset.
 
+Desuden har jeg tilføjet [EstateGuru\*](/go/estateguru/), [Kuflink\*](/go/kuflink/) og [BitOfProperty\*](/go/bitofproperty/) til porteføljen.
+
 ## Aktier og obligationer
 
 Aktiemarkedet har været uroligt. Mine bankaktier fra Danske Bank og Nordea som var tiltænkt min udbytteaktieportefølje er styrtdykket. Men aktierne minder mig om, at jeg er meget mere til passiv indeksinvestering, og så snart udbyttet bliver udbetalt næste år og de forhåbentlig er steget til over min GA-pris, så kommer jeg til at reducere disse positioner til fordel for de passive indeksforeninger igen. Jeg vil huske på, at det er [ganske få superaktier, der skaber hele afkastet også på langt sigt](https://finans.dk/privatokonomi/ECE11549009/ganske-faa-superaktier-skaber-hele-afkastet-de-fleste-aktier-er-rent-tilsaet/?ctxref=ext).
@@ -49,7 +51,7 @@ Mange har oplevet lavere renter på Mintos efter Invest & Access er blevet etabl
 
 [Få 5 EUR hos Bondora\*](/go/bondora/){: .btn .btn--large .btn--info}
 
-Jeg overvejede at smide lidt flere penge efter [PropertyPartner\*](/go/propertypartner/), da det britiske pund er faldet en del i løbet af august måned, men så endte jeg **i stedet med at gå ind i britiske [Kuflink\*](/go/kuflink/) i stedet med 1.000 GBP og fik 100 GBP i cash back**. Brug [linket\*](/go/kuflink/), hvis du også er interesseret i det. Desuden startede jeg også på [Estate Guru\*](/go/estateguru/) for at få lidt mere ejendomsinvestering - selvom det er udviklingsprojekter.
+Jeg overvejede at smide lidt flere penge efter [PropertyPartner\*](/go/propertypartner/), da det britiske pund er faldet en del i løbet af august måned, men så endte jeg **i stedet med at gå ind i britiske [Kuflink\*](/go/kuflink/) i stedet med 1.000 GBP og fik 100 GBP i cash back**. Brug [linket\*](/go/kuflink/), hvis du også er interesseret i det. Desuden startede jeg også på [Estate Guru\*](/go/estateguru/) for at få lidt mere ejendomsinvestering - selvom det er udviklingsprojekter. Derfor har jeg også tilføjet [BitOfProperty\*](/go/bitofproperty/) til porteføljen, fordi jeg får husleje månedligt.
 
 [Få 50-250 GBP i cashback hos Kuflink\*](/go/kuflink/){: .btn .btn--large .btn--warning}
 
