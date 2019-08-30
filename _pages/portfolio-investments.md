@@ -17,6 +17,8 @@ toc: true
 
 ### Total værdi
 
+- Totale værdi falder kraftigt i marts, da jeg sælger min StjerneInvest fri for i stedet at gå kontant, inden jeg opbygger mine nye porteføljer.
+
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=507089913&amp;format=image"></iframe>
 
 ### Månedlig indtægt
