@@ -16,9 +16,18 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 **Totalt indskud**: 1.500 EUR  
 **Totalt trukket ud**: 0 EUR
 
-## April 
+## Fordele
+
+- Giver udbytte i form af husleje
+- Platformen er let at bruge
+
+## Ulemper 
 
 - 2% investeringsgebyr gør at du starter lidt på bagkant på platformen.
+- Ikke så ofte nye projekter
+- Ingen auto invest
+- Ikke alle projekter bliver _funded_
+- Minimum investering er 100 EUR
 
 ## Investering og værdi af investering
 
