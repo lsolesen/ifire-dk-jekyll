@@ -33,6 +33,7 @@ last_modified_at: 2019-09-01T12:54:00+08:00
 ## August
 
 - Trak 48 EUR hjem til [Revolut\*](/go/revolut/) for at runde det investerede ned til 4.000 EUR og for at konstatere at pengene kommer hurtigt tilbage på kontoen, hvis du ønsker det.
+- Den interne rente er faldet fra 11,31% i slutningen af juli til 9,27% i slutningen af august. Jeg forventer dog, at den kommer op igen i næste måned.
 
 ## Investering og værdi af investering
 
