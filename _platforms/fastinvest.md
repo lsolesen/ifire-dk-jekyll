@@ -6,19 +6,19 @@ header:
 tags:
   - crowdlending
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
-last_modified_at: 2019-07-12T12:54:00+08:00
+last_modified_at: 2019-09-01T12:54:00+08:22
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 18. februar 2019  
 **Totalt indskud**: 4.048 EUR  
-**Totalt trukket ud**: 0 EUR
+**Totalt trukket ud**: 48 EUR
 
 ## Fordele
 
 - Relativt enkel og _hands off_ _auto invest_.
-- Fin platform at klikke sig rundt på.
+- Platformen fungerer glimrende.
 - Fin statistik side.
 - Alle lån på Fast Invest har Buy back garanti.
 
@@ -26,9 +26,13 @@ last_modified_at: 2019-07-12T12:54:00+08:00
 
 - Viser ikke præcist hvem deres _loan originators_ er.
 
-### Marts
+## Marts
 
 - Jeg trak kortvarigt penge hjem, fordi auto-invest et par dage ikke havde investeret hele beløbet, men jeg fortrød hurtigt og ville give platformen en chance.
+
+## August
+
+- Trak 48 EUR hjem til [Revolut\*](/go/revolut/) for at runde det investerede ned til 4.000 EUR og for at konstatere at pengene kommer hurtigt tilbage på kontoen, hvis du ønsker det.
 
 ## Investering og værdi af investering
 

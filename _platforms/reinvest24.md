@@ -23,10 +23,11 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 
 ## Ulemper 
 
-- 2% investeringsgebyr gør at du starter lidt på bagkant på platformen.
+- 2% investeringsgebyr burde i stedet være indregnet i renten.
 - Ikke så ofte nye projekter
-- Ingen auto invest
 - Ikke alle projekter bliver _funded_
+- Projekterne tager ofte måneder om at blive finansieret, og der er ikke afkast før projektet er fuldtegnet.
+- Ingen auto invest
 - Minimum investering er 100 EUR
 - Statistikken er ikke alt for let at læse
 
