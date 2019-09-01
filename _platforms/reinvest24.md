@@ -28,6 +28,7 @@ last_modified_at: 2019-03-24T00:00:00+08:00
 - Ingen auto invest
 - Ikke alle projekter bliver _funded_
 - Minimum investering er 100 EUR
+- Statistikken er ikke alt for let at læse
 
 ## Investering og værdi af investering
 
