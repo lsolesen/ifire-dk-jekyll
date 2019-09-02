@@ -9,7 +9,7 @@ feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
     title: "Early Retirement Extreme"
-    excerpt: "Dette er en af de helt grundlæggende FIRE-bøger, som faktisk er skrevet af dansk Jacob Lund Fisker, som har bosat sig i USA. Han skriver - A strategic combination of smart financial choices, simple living, and increased self-reliance brought me financial independence at 30 and allowed me to retire from my profession at 33. Early Retirement Extreme shows how I did it and how anyone can formulate their own plan for financial independence."
+    excerpt: "Dette er en af de helt grundlæggende FIRE-bøger, som faktisk er skrevet af danske Jacob Lund Fisker, som har bosat sig i USA. Han skriver - A strategic combination of smart financial choices, simple living, and increased self-reliance brought me financial independence at 30 and allowed me to retire from my profession at 33. Early Retirement Extreme shows how I did it and how anyone can formulate their own plan for financial independence."
     url: "https://amzn.to/2KphbcG"
     btn_label: "Læs mere"
     btn_class: "btn--success"
