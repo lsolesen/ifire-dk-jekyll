@@ -35,10 +35,17 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: https://imgcdn.saxo.com/_9788770361989/0x500
-    alt: "Lev for det halve "
+    alt: "Lev for det halve"
     title: "Lev for det halve"
-    excerpt: "Guiden er skrevet med Nanna Hyldgaard Hansens egen familie som eksempel, da de engang selv tog beslutningen om ikke længere at kæmpe om at få tid til både familieliv og arbejde. Løsningen var, at de skar både forbrug og arbejde ned til det halve, men uden at gå på kompromis med alle de ting, der var vigtige for familien. "
+    excerpt: "Guiden er skrevet med Nanna Hyldgaard Hansens egen familie som eksempel, da de engang selv tog beslutningen om ikke længere at kæmpe om at få tid til både familieliv og arbejde. Løsningen var, at de skar både forbrug og arbejde ned til det halve, men uden at gå på kompromis med alle de ting, der var vigtige for familien."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/lev-for-det-halve-og-faa-familieliv-forbrug-og-arbejde-i-balance_nanna-hyldgaard-hansen_indbundet_9788770361989?dfw_tracker=13098-65212135&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjDb6kC--xAhQxUiTb6Sc3XqRGxZpEFTcz9XPGGmq8Se5ZvjQ0D91GxoCOnEQAvD_BwE"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://images-na.ssl-images-amazon.com/images/I/51zcMqY7GQL.jpg
+    alt: "Rich Dad Poor Dad"
+    title: "Rich Dad Poor Dad"
+    excerpt: "What The Rich Teach Their Kids About Money - That The Poor And Middle Class Do Not!"
+    url: "https://amzn.to/2PBPqm1"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
