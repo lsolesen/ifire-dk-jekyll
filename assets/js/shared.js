@@ -224,21 +224,23 @@ var helpfulCalculators = helpfulCalculators || {};
         return $.parseNumber(a, { format: "#,###", locale: "us" });
     }
 
+    // b()
     function set_currency_cookie(a) {
         $.cookie("currency", a)
     }
 
+    // c()
     function get_currency() { 
         var a = $.cookie("currency"); 
         return null !== a && a.match("GBP|EUR|AUD|US") ? a : "USD";
     }
 
     function d() {
-        return k[c()];
+        return k[get_currency()];
     }
 
     function f() {
-        return h[c()];
+        return h[get_currency()];
     } 
     
     e.setCurrencyHtml = function() { 
@@ -327,7 +329,7 @@ var helpfulCalculators = helpfulCalculators || {};
         a.val(b);
     };
 
-    e.getCurrencyCode = c;
+    e.getCurrencyCode = get_currency;
     e.getCurrencyCountry = f;
 
     /*
@@ -335,7 +337,10 @@ var helpfulCalculators = helpfulCalculators || {};
         return j[c()];
     };
     */
-    e.negativeToZero = function(a) { return 0 > a ? 0 : a };
+    e.negativeToZero = function(a) { 
+        return 0 > a ? 0 : a;
+    };
+
     e.chartBgColor = "#F3EEEA";
     h = { GBP: "UK", EUR: "Europe", AUD: "Australia", USD: "USA" };
     j = { GBP: 166764, EUR: 0, AUD: 487200, USD: 272900 };

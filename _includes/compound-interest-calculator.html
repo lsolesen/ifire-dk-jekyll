@@ -1,9 +1,16 @@
+<div id="currencyWrap">
+  <button class="currencyButton" id="USD">USD</button>
+  <button class="currencyButton" id="GBP">GBP</button>
+  <button class="currencyButton" id="EUR">EUR</button>
+  <button class="currencyButton" id="AUD">AUD</button>
+</div>
+
 <div id="formWrap">
     <form action="#" method="" id="compoundForm" _lpchecked="1">
         <div class="fieldsetWrap">
             <fieldset>
                 <h2>Udregn dit afkast</h2>
-                <label for="base">Oprindeligt beløb <span class="currencySymbol"></span>:</label>
+                <label for="base">Oprindeligt beløb <span class="currencySymbol">$</span>:</label>
                 <input type="text" name="base" id="base" value="1000" class="valid">
                 <label for="deposit">Månedligt indskud <span class="currencySymbol">$</span>:</label>
                 <input type="text" name="deposit" id="deposit" value="20" class="valid">
@@ -27,6 +34,7 @@
         <li class="title">Total renter</li>
         <li id="totalInterest" class="entry">$ 9,086</li>
     </ul>
+    <p>Husk at beregneren ikke tager højde for inflation og skat.</p>
 </div>
 
 <div id="chartWrap">
