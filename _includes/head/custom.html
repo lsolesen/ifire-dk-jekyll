@@ -1,3 +1,4 @@
+{% if jekyll.environment == 'production' %}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
@@ -5,6 +6,7 @@
           enable_page_level_ads: true
      });
 </script>
+{% endif %}
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -14,7 +16,8 @@
 <meta name="theme-color" content="#ffffff">
 
 <meta name="flattr:id" content="zlqkxl">
+
 {% if page.mathjax  %}
-// https://www.katarinahoeger.com/2017/12/08/jekyll-supports-math
-<script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+  <!-- https://www.katarinahoeger.com/2017/12/08/jekyll-supports-math -->
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
 {% endif %}

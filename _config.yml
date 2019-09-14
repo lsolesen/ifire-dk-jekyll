@@ -35,6 +35,14 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+after_footer_scripts:
+  - https://www.google.com/jsapi
+  - https://ajax.aspnetcdn.com/ajax/jquery.validate/1.8.1/jquery.validate.min.js
+  - /assets/js/shared.js
+  - /assets/js/compound.js
+  - https://www.google.com/uds/?file=visualization&v=1&packages=corechart
+  - https://www.google.com/uds/api/visualization/1.0/36558b280aac4fa99ed8215e60015cff/format+da,default+da,ui+da,corechart+da.I.js
+
 
 # Support
 bitcoin_address: "194i4JuRpDzFhSbBc665y8VajpYmUKkdTX"
