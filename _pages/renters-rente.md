@@ -4,7 +4,7 @@ title: Renters rente
 permalink: /renters-rente/
 ---
 
-Renters rente er den mest motiverende årsag til at investere. Første år, du investerer, får du renter af din investering. Men det følgende år får du både renter af investeringen og af renterne fra forrige år. Det betyder, at du over tid får en eksponentiel stining af dine penge. Desto længere tid, du kan investere  pengene, desto større bliver effekten af renters rente.
+Renters rente er en af de mest motiverende årsager til at investere. Første år får du renter af din investering. Det følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. Desto længere tid, du kan investere pengene, desto større bliver effekten af renters rente.
 
 ***
 

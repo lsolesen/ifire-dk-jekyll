@@ -1,11 +1,23 @@
 var Hashtable = function() {
-    function e(a) { if ("string" == typeof a) return a; return typeof a.hashCode == f ? (a = a.hashCode(), "string" == typeof a ? a : e(a)) : typeof a.toString == f ? a.toString() : "" + a }
+    function e(a) { 
+        if ("string" == typeof a) return a; 
+        return typeof a.hashCode == f ? (a = a.hashCode(), "string" == typeof a ? a : e(a)) : typeof a.toString == f ? a.toString() : "" + a;
+    }
 
-    function k(a, c) { return a.equals(c) }
+    function k(a, c) { 
+        return a.equals(c);
+    }
 
-    function h(a, c) { return typeof c.equals == f ? c.equals(a) : a === c }
+    function h(a, c) { 
+        return typeof c.equals == f ? c.equals(a) : a === c;
+    }
 
-    function j(a) { return function(c) { if (null === c) throw Error("null is not a valid " + a); if ("undefined" == typeof c) throw Error(a + " must not be undefined"); } }
+    function j(a) { 
+        return function(c) { 
+            if (null === c) throw Error("null is not a valid " + a); 
+            if ("undefined" == typeof c) throw Error(a + " must not be undefined");
+        } 
+    }
 
     function m(a, c, b, d) {
         this[0] = a;
@@ -15,15 +27,20 @@ var Hashtable = function() {
             function() { return d }
     }
 
-    function q(a) { return function(c) { for (var b = this.entries.length, d, e = this.getEqualityFunction(c); b--;)
+    function q(a) { 
+        return function(c) { 
+            for (var b = this.entries.length, d, e = this.getEqualityFunction(c); b--;)
                 if (d = this.entries[b], e(c, d[0])) switch (a) {
                     case r:
                         return !0;
                     case s:
                         return d;
                     case o:
-                        return [b, d[1]] }
-            return !1 } }
+                        return [b, d[1]];
+                }
+            return !1;
+        } 
+    }
 
     function b(a) { return function(c) { for (var b = c.length, d = 0, e = this.entries.length; d < e; ++d) c[b + d] = this.entries[d][a] } }
 
@@ -224,56 +241,6 @@ var helpfulCalculators = helpfulCalculators || {};
         return $.parseNumber(a, { format: "#,###", locale: "us" });
     }
 
-    // b()
-    function set_currency_cookie(a) {
-        $.cookie("currency", a)
-    }
-
-    // c()
-    function get_currency() { 
-        var a = $.cookie("currency"); 
-        return null !== a && a.match("GBP|EUR|AUD|US") ? a : "USD";
-    }
-
-    function d() {
-        return k[get_currency()];
-    }
-
-    function f() {
-        return h[get_currency()];
-    } 
-    
-    e.setCurrencyHtml = function() { 
-        var a = get_currency();
-        m($(".currency"), a);
-        m($(".currencySymbol"), d());
-        m($(".country"), f());
-        $("#" + a).addClass("currentCurrency");
-    };
-
-    e.setCurrencyClickEvents = function() {
-        $("#USD").click(function(a) {
-            a.preventDefault();
-            set_currency_cookie("USD");
-            location.reload()
-        });
-        $("#GBP").click(function(a) { 
-            a.preventDefault();
-            set_currency_cookie("GBP");
-            location.reload();
-        });
-        $("#EUR").click(function(a) {
-            a.preventDefault();
-            set_currency_cookie("EUR");
-            location.reload();
-        });
-        $("#AUD").click(function(a) {
-            a.preventDefault();
-            set_currency_cookie("AUD");
-            location.reload();
-        })
-    };
-
     e.formatToRoundNumberOnBlur = function(a) { 
         a.blur(function() { 
             0 !== a.parseNumber({ format: "#,###.00", locale: "us" }) && a.formatNumber({ format: "#,###", locale: "us" });
@@ -300,13 +267,11 @@ var helpfulCalculators = helpfulCalculators || {};
     };
 
     e.setClearOnChange = function(a, b) { 
-        a.change(function() { 
-            set_currency_cookie();
+        a.change(function() {
         });
     };
 
     e.parseCfNum = q;
-    e.getCurrencySymbol = d;
 
     e.formatToCfNum = function(a) {
         return (a = $.formatNumber(a, { format: "#,###", locale: "us" })) ? a : 0;
@@ -329,20 +294,9 @@ var helpfulCalculators = helpfulCalculators || {};
         a.val(b);
     };
 
-    e.getCurrencyCode = get_currency;
-    e.getCurrencyCountry = f;
-
-    /*
-    e.getAverageHousePrice = function() { 
-        return j[c()];
-    };
-    */
     e.negativeToZero = function(a) { 
         return 0 > a ? 0 : a;
     };
 
     e.chartBgColor = "#F3EEEA";
-    h = { GBP: "UK", EUR: "Europe", AUD: "Australia", USD: "USA" };
-    j = { GBP: 166764, EUR: 0, AUD: 487200, USD: 272900 };
-    k = { GBP: "£", EUR: "€", AUD: "$", USD: "$" }
 })(helpfulCalculators = helpfulCalculators || {});
