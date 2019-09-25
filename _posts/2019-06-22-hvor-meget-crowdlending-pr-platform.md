@@ -1,5 +1,6 @@
 ---
 title: "Hvor meget bør man investere på den enkelte crowdlending platform?"
+permalink: /investering/hvor-meget-crowdlending-pr-platform/
 category:
   - Investering
 tags:
