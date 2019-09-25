@@ -41,6 +41,8 @@ Denne portefølje er dedikeret til primært danske, passive fonde.
 
 Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor.com) og forsøger at have en ligelige fordeling mellem aktier, obligationer, guld og REIT. Her investerer jeg i EUR og USD.
 
+I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og guld, mens jeg har valgt tre specifikke REIT i USD. Ved at vælge tre REIT, så bliver jeg beskattet som aktieindkomst på REIT, og jeg synes omkostningerne på de mest interessante REIT ETF'er er lidt høje. Alternativerne til REIT som ETF kunne være: [GLRE](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ZQQR) for global,  [XREA](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014B9L) for Europa eller [USRE](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000157ZL) for en der dækker USA i USD. Omkostningerne for dem alle er imidlertil 0,40%, hvilket jeg lige nu synes bliver lidt for dyrt, når jeg også skal beskattes som kapitalindkomst.
+
 <iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 <iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
