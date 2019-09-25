@@ -68,7 +68,7 @@ Samlet giver mine værdipapirinvesteringer lige nu **1,14%** i intern rente, hvi
 
 ## Crowd lending
 
-Nu kommer jeg heldigvis snart tættere på, at de enkelte platforme viser sit sande potentiale ift. _intern rente_. Det tager nemlig for en del platforme [mindst fire måneder, inden den interne rente for alvor begynder at nå de højder](/hvornaar-crowdlending/), man havde håbet på.
+Nu kommer jeg heldigvis snart tættere på, at de enkelte platforme viser sit sande potentiale ift. _intern rente_. Det tager nemlig for en del platforme [mindst fire måneder, inden den interne rente for alvor begynder at nå de højder](/investering/hvornaar-crowdlending/), man havde håbet på.
 
 Jeg troede egentlig i maj, at jeg havde nået grænsen for, hvor mange platforme, jeg skulle være repræsenteret på, men så endte jeg alligevel med at finde et par nye platforme. Jeg faldt over to platforme, hvor man særligt kunne investere i udviklingslande. Jeg har derfor udvidet porteføljen med [Agrikaab\*](/go/agrikaab/) og [Lendahand\*](/go/lendahand/). Platformene giver et begrænset renteafkast, men supplerer [Trine\*](/go/trine/) i mine bæredygtige og sociale crowdlending investeringer.
 
