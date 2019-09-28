@@ -21,4 +21,22 @@ last_modified_at: 2019-06-07T00:00:00+08:00
 >
 > \- Oksana, customerservice 7. juni 2019
 
+## Revolut trading
+
+### Investering og værdi
+
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=551805026&amp;format=image"></iframe>
+
+### Månedlig indkomst
+
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1385256526&amp;format=image"></iframe>
+
+### XIRR
+
+<iframe width="609" height="380" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1386309873&amp;format=image"></iframe>
+
+### Transaktioner
+
+<iframe width="609" height="377" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=353041380&amp;format=image"></iframe>
+
 [Tilmeld dig Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
