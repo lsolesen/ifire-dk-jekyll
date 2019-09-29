@@ -1,6 +1,9 @@
 ---
 title: "#9 September - både aktier og crowdlending går op"
 permalink: /opdateringer/september-update/
+header:
+  overlay_image: /assets/images/posts/playstation-lunarway.jpg
+  caption: Min datters Playstation (med LunarWay klistermærke)
 category:
   - Opdateringer
 tags:
@@ -20,6 +23,12 @@ Desuden har jeg [undervist lidt forbrug, opsparing og investeringer for en flok 
 Til det formål har jeg lavet en [Renters Rente](/renters-rente/)-beregner, som giver en god grafisk overblik over, hvad effekten af afkaststørrelse og tiden betyder.
 
 Jeg giver stadig mine børn renter, og jeg har lige [foræret min nevø et depot på Nordnet - og han gør sig virkelig fine tanker om det at investere](/nevo-rigdomsformel/).
+
+Mine børn er måske ved at blive lidt for påvirkede af vores fælles snakke om at tænke grundigt over sit forbrug. Min ældste har i hvert fald lige lavet en "Playstation" ved hjælp af en æggebakke - og så er de begyndt at styre hinanden rundt i stuen.
+
+> Jeg synes bare, at det er sjovt at styre, som hun siger.
+
+{% include figure image_path=page.header.overlay_image alt=page.header.caption %}
 
 Min samlede _net worth_ er fortsat stigende, hvilket er ret motiverende.
 
