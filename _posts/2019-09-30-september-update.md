@@ -10,6 +10,14 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "September måned har budt på nye investeringer i EvoEstate og Revolut Trading - og så ellers en rekordindtjening på crowdlending."
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
+    alt: "Your Money or Your Life"
+    title: "Your Money or Your Life"
+    excerpt: "Start the new year with a fully revised edition of one of the most influential books ever written on personal finance with more than a million copies sold"
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending. 
@@ -31,6 +39,20 @@ Mine børn er måske ved at blive lidt for påvirkede af vores fælles snakke om
 {% include figure image_path=page.header.overlay_image alt=page.header.caption %}
 
 Min samlede _net worth_ er fortsat stigende, hvilket er ret motiverende.
+
+## Hvornår er har jeg FIRE?
+
+Jeg er jo kommet lidt sent i gang med at søge finansiel uafhængighed, men derfor er det sjovt at se, hvornår man reelt kunne blive helt finansielt uafhængig. 
+
+Jeg har læst [Your money or your life](http://www.yourmoneyoryourlife.com), som du også kan se præsenteret i denne relativt korte video.
+
+{% include video id="nwYS7JcFpy0" provider="youtube" %}
+
+Jeg har fulgt Step 8 i bogen og kigget på mit gennemsnitlig udgifter til regninger modsvaret af, at jeg teoretisk set kan trække 4% ud fra min investering hvert år. Denne graf har jeg lavet månedeligt, og når linjerne krydser hinanden, så behøver jeg ikke nogen almindelig indkomst for at kunne betale mine regninger.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1861475684&amp;format=image"></iframe>
+
+{% include feature_row %}
 
 ## Investeringer
 
