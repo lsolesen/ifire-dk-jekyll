@@ -157,6 +157,7 @@ Jeg tjente i juli i alt **307 DKK** i passiv indkomst på _affiliate_ og _referr
 ## Hvad vil du gerne høre mere om?
 
 Jeg synes på mange måder, at Better Globe og Agrikaab er de platforme, jeg allerhelst ville investere i, fordi de flytter noget vigtigt i verden. Better Globe skal i gang med at vise regnskaber, før jeg investerer mere i det, og Agrikaab skal jeg lige se, hvordan projekterne reelt kommer til at køre, før jeg overvejer at støtte flere af deres projekter. 
+
 Det er ret tidskrævende at lave disse opdateringer hver måned. Hvis der er nogen detaljer, du gerne vil vide mere om, så skriv endelig i kommentarerne, så skal jeg forsøge at svare på det.
 
 Hvis du kan lide at følge med i opdateringerne, så modtager jeg gerne Bitcoins som støtte på følgende adresse `{{ site.bitcoin_address }}`.

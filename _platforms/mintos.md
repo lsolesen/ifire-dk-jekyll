@@ -54,6 +54,10 @@ Senere har Mintos etableret deres Invest & Access-produkt, hvor det formentlig e
 
 - Jeg er begyndt at rette min auto invest til, så jeg kun har låneudbydere med mindst B- rating.
 
+## September 2019
+
+- Jeg har oplevet en del cash drag på Mintos i denne måned - trods det at min auto invest bør fange de fleste lån over 10%. Derfor har jeg skruet op for _Invest & Access_. Mintos giver fortsat en rigtig fin intern rente på over 13%. Dog er det faldet lidt siden sidste måned, men jeg er overordnet godt tilfreds med _Invest & Access_.
+
 ## Investering og værdi af investering
 
 <iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=69014293&amp;format=image"></iframe>
