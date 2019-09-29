@@ -52,7 +52,7 @@ Jeg har fulgt Step 8 i bogen og kigget på mit gennemsnitlig udgifter til regnin
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1861475684&amp;format=image"></iframe>
 
-{% include feature_row %}
+{% include feature_row type="left" %}
 
 ## Investeringer
 
