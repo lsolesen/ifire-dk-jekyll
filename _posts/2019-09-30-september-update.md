@@ -117,4 +117,12 @@ Jeg nåede aldrigt at få lavet tre Amazon affiliate salg, så jeg venter lige m
 
 Og det er lykkes at få en **lille indtjening på 27,98 DKK**. Det er jo nærmest det samme som ingenting, men jeg laver fortsat små forbedringer på de forskellige sites, som forhåbentlig på et tidspunkt betyder at de får flere besøgende.
 
+## Planer for den næste måned
+
+I løbet af oktober vil jeg i gang med at rebalancere min portefølje lidt. Crowdlending fylder måske lidt for meget i øjeblikket, men jeg ville gerne lige vente med at for alvor at rebalancere før aktiemarkedet er lidt lavere. Jeg har jo en god intern rente i crowdlending-markedet.
+
+Jeg har besluttet mig for, at de enkelte platforme i crowdlending skal vurderes i løbet af juleferien - og om jeg skal fortsætte på dem. Men jeg vil allerede i løbet af oktober gøre lidt klar til det, hvis jeg har en forventning om, at jeg skal trække penge ud af en platform.
+
+Jeg vil også til at gøre mig lidt klar til skat. Jeg har i øjeblikket en del, der skal beskattes som kapitalindkomst. Men jeg vil i løbet af oktober regne på, hvad jeg kan forvente i forhold Skat. Derved kan jeg også begynde at sætte lidt penge til side, så jeg kan få betalt den hurtigst muligt, når det bliver aktuelt.
+
 {% include disclaimer.md %}
