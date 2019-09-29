@@ -6,10 +6,9 @@ var helpfulCalculators = helpfulCalculators || {};
     function o() {
         for (var k = a.parseCfNum($("#base").val()), c = a.parseCfNum($("#rate").val()), d = a.parseCfNum($("#years").val()), e = a.parseCfNum($("#deposit").val()), b = k, f = 0, h = c / 12, d = 12 * d, i, g = 0, c = [], j = [], l = 1; l <= d; l++) 0 === l % 1 && (i = b * h / 100, b += i, g += i, b += e, f += e, b.toFixed(2), i.toFixed(2), c[l - 1] = parseFloat(g.toFixed(2), 10), j[l - 1] = f);
         b = b.toFixed(2);
-        h = a.getCurrencySymbol();
-        a.setText($("#amount"), h + " " + a.formatToCfNum(b));
-        a.setText($("#totalDeposits"), h + " " + a.formatToCfNum(f));
-        a.setText($("#totalInterest"), h + " " + a.formatToCfNum(g));
+        a.setText($("#amount"), a.formatToCfNum(b));
+        a.setText($("#totalDeposits"), a.formatToCfNum(f));
+        a.setText($("#totalInterest"), a.formatToCfNum(g));
         if (p && null !== document.getElementById("chart_div")) {
             f = new google.visualization.DataTable;
             b = s(d, t);
@@ -19,14 +18,15 @@ var helpfulCalculators = helpfulCalculators || {};
             h = b;
             b = [];
             12 <= h && (h /= 12);
-            for (i = 0; i < g; i++) 
+            for (i = 0; i < g; i++) {
                 b[i] = ((i + 1) * h).toString() + " " + (12 <= d / g ? "Years" : "Months");
+            }
             d = [];
-            for (g = 0; g < c.length; g++) 
+            for (g = 0; g < c.length; g++) {
                 d[g] = parseInt(k, 10);
+            } 
             d = 0 < k && 0 < e ? m(b, d, j, c) : 0 < k && 0 >= e ? m(b, d, c) : 0 >= k && 0 < e ? m(b, j, c) : m(b, c);
             c = [];
-            a.getCurrencySymbol();
             j = new google.visualization.ColumnChart(document.getElementById("chart_div"));
             b = {
                 width: 600,
@@ -70,7 +70,14 @@ var helpfulCalculators = helpfulCalculators || {};
         }
     }
 
-    function q(a, c) { var d = []; if (1 > c) return a; for (var e = a.length - 1; - 1 < e; e -= c) d.push(a[e]); return d.reverse(); }
+    function q(a, c) { 
+        var d = []; 
+        if (1 > c) 
+            return a; 
+        for (var e = a.length - 1; - 1 < e; e -= c) 
+            d.push(a[e]); 
+            return d.reverse(); 
+    }
 
     function m() {
         var a = Array.prototype.slice.call(arguments),
@@ -109,8 +116,6 @@ var helpfulCalculators = helpfulCalculators || {};
         t = 24;
 
     $(document).ready(function() {
-        a.setCurrencyHtml();
-        a.setCurrencyClickEvents();
         a.formatToRoundNumberOnBlur($("#base"));
         a.formatToRoundNumberOnBlur($("#deposit"));
         a.formatToPrecisionNumberOnBlur($("#rate"));
