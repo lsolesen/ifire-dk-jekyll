@@ -73,7 +73,7 @@ Mine porteføljer har stået og passet sig selv et stykke tid. Jeg har tilført 
 
 Ellers er aktiemarkedet er gået opad i forhold til sidste måned.
 
-Min samlede investeringer i aktier og obligationer har krydset en million kroner, og den **samlede _urealiserede værdistigning_ i september har været 44.944 DKK**.
+Min samlede investeringer i aktier og obligationer har krydset en million kroner, og den **samlede _urealiserede værdistigning_ i september har været 44.944 DKK**. Jeg har en vægtet gennemsnitlig intern rente på 3,99% på mine værdipapirer.
 
 Min portefølje bestående hovedsageligt af SparInvests passive indekser har haft en intern rente på 10%, hvilket absolut er godkendt.
 
@@ -105,7 +105,11 @@ Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kø
 
 Da jeg skal rebalancere min samlede portefølje lidt, så overvejer jeg lidt om jeg skal sænke min investering i [Iuvo\*](/go/iuvo), hvor jeg har en intern rente på omkring 8% og [FastInvest\*](/go/fastinvest/), fordi de endnu ikke har formået at gøre platformen transperant, selvom de har fået spørgsmålet fra _communitiet_ mange gange. Men begge platforme fungerer sådan set ret upåklagelige ift. hvor lette de er at bruge - og at afkastet er relativt stabilt.
 
-Samlet har jeg i løbet af september **tjent 3.659 DKK på renter i crowdlending**. De fleste af platformene med særligt fokus på ejendomme er endelig begyndt at give en positiv intern rente efter etableringsomkostninger, så jeg forventer at jeg når over 4.000 DKK i næste måned.
+Samlet har jeg i løbet af september **tjent 3.659 DKK på renter i crowdlending**. Den almindelig crowdlending giver i en vægtet gennemsnitlig intern rente på 9,50%.
+
+De fleste af platformene med særligt fokus på ejendomme er endelig begyndt at give en positiv intern rente efter etableringsomkostninger. Efter syv måneder så giver denne type investering for første gang en vægtet gennemsnitlig intern rente over 1%.
+
+I næst emåned forventer jeg, at jeg når over 4.000 DKK i næste måned.
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
