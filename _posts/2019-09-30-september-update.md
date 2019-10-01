@@ -109,7 +109,7 @@ Samlet har jeg i løbet af september **tjent 3.659 DKK på renter i crowdlending
 
 De fleste af platformene med særligt fokus på ejendomme er endelig begyndt at give en positiv intern rente efter etableringsomkostninger. Efter syv måneder så giver denne type investering for første gang en vægtet gennemsnitlig intern rente over 1%.
 
-I næst emåned forventer jeg, at jeg når over 4.000 DKK i næste måned.
+I næste måned forventer jeg, at jeg når over 4.000 DKK i indtjening fra crowdlending.
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
