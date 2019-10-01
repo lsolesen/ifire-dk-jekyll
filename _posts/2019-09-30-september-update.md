@@ -28,7 +28,7 @@ Jeg har nu holdt fast i mit købestop i over et halvt år, hvilket er ret tilfre
 
 Desuden har jeg [undervist lidt forbrug, opsparing og investeringer for en flok unge mennesker](/ung-rigdomsformel/). Først og fremmest med fokus på om man kan identificere noget forbrug, som ikke giver rigtig værdi til ens liv. Kan man så investere det ekstraforbrug og nyde effekten af renters rente. De penge man sparer på at undgå ekstraforbruget, kan man jo netop sagtens have råd til at miste, så derfor er min pointe, at man ikke behøver at spare dem op, men kan investere dem direkte i noget afkastgivende. Og når valget kommer til at stå mellem unødvendigt forbrug og investeringer, så tager vi også et skridt mod at et mere bæredygtigt samfund.
 
-Til det formål har jeg lavet en [Renters Rente](/renters-rente/)-beregner, som giver en god grafisk overblik over, hvad effekten af afkaststørrelse og tiden betyder.
+Til det formål har jeg leget lidt med en [Renters Rente](/renters-rente/)-beregner, som giver en god grafisk overblik over, hvad effekten af afkaststørrelse og tiden betyder.
 
 Jeg giver stadig mine børn renter, og jeg har lige [foræret min nevø et depot på Nordnet - og han gør sig virkelig fine tanker om det at investere](/nevo-rigdomsformel/).
 
