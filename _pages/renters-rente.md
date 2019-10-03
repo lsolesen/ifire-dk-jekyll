@@ -14,7 +14,7 @@ Renters rente er en af de mest motiverende årsager til at investere. Første å
 
 ## Formel for renters rente
 
-Formlen for renters rente ser sådan her ud:
+Formlen for renters rente ser sådan her ud[^note]:
 
 {% include math formula="V=P*(1+\frac{r}{n})^{n*t}" %}
 
@@ -44,5 +44,7 @@ Måske kan du også tilføje et beløb til din investering hver måned. Du kan b
 Jeg bliver i hvert fald rigtig motiveret, når jeg bruger udregneren ovenfor og kan se, hvor stor effekten af renters rente virkelig er, når investeringen har mange år til at passe sig selv.
 
 Når du skal finde en investering, der giver dig dit ønskede afkast, så er der flere forhold, du skal være opmærksom på. Først og fremmest skal du tænke på, hvad din risikoprofil er. Højere renter hænger oftest sammen med højere risiko. Dernæst skal du holde øje med om den _interne rente_ (XIRR) af din investering er lige så høj, som du forventede.
+
+[^note]: Se mere på [www.helpfulcalculators.com](http://www.helpfulcalculators.com/compound-interest-calculator)
 
 {% include disclaimer.md %}
