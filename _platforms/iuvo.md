@@ -33,6 +33,7 @@ classes: wide
 
 - _Autoinvest_ kan forbedres
 - Man kan ikke let læse mere information om den enkelte låneudbyder (jeg har i hvert fald ikke fundet det)
+- Ingen renter på lån, hvor _buy back_ bliver aktiveret.
 - Platformen har haft omkring 3.000.000 EUR i underskud både i 2017 og 2018.
 - _Refer a friend_ kræver at man sender e-mails specifikt til en e-mail. Man får ikke bare et generelt link, man kan sende til dem, man har lyst til eller inkludere på sin blog (hvis du vil have **30 EUR for en investering på 1000 EUR**, kan jeg sende dig en invitation, hvis du lige skriver til {{ site.email }}). Hvis man skal have et link, så skal man blive _affiliate_ ([som jeg er blevet\*](/go/iuvo/)) for at få linket. Men jeg ville lige så gerne bare have været referral og lidt lettere kunne have givet de 30 EUR.
 
