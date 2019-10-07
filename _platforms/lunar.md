@@ -34,7 +34,7 @@ Med [Lunar\*](/go/lunar/) får du et fedt sort Visa-kort, en konto og en lækker
 
 ## Ulemper
 
-- Du kan ikke sætte en slutdato på gentegne betalinger.
+- Du kan ikke sætte en slutdato på gentagne betalinger.
 - Du betaler gebyr for kontanthævninger på dit kort.
 - Kundeservice er kun over chat.
 - Du kan ikke overføre penge til udlandet.
