@@ -38,6 +38,7 @@ last_modified_at: 2019-07-04T07:00:00+08:00
 ## September 2019
 
 - Jeg har tre lån i restance på Flexfunding (ud af i alt 44 lån) pga. konkurs i selskaberne, jeg har lånt penge til: Samfundstanken, Dinnr og DSS Sikringsteknik. Flexfunding sender en e-mail om status på de enkelte lån, og de forsøger naturligvis at inddrive det udestående beløb, men det bliver interessant at se, hvordan det over tid kommer til at påvirke den interne rente. Jeg synes ikke interfacet i Flexfunding er tydeligt nok ift. lånene, der er problemer med. Der er et udråbstegn ud for et af lånene, men det ville klæde Flexfunding, at oplysningerne og status på lånene kunne ses på selve platformen også.
+- Jeg er begyndt at trække penge ud af Flexfunding, da den interne rente ikke giver en høj nok rente til at veje op for den risiko, jeg synes de seneste ubetalte lån tyder på, at der er på platformen.
 
 ## Investeret og værdi af investering
 

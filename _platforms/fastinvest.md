@@ -35,6 +35,11 @@ last_modified_at: 2019-09-01T12:54:00+08:00
 - Trak 48 EUR hjem til [Revolut\*](/go/revolut/) for at runde det investerede ned til 4.000 EUR og for at konstatere at pengene kommer hurtigt tilbage på kontoen, hvis du ønsker det.
 - Den interne rente er faldet fra 11,31% i slutningen af juli til 9,27% i slutningen af august. Jeg forventer dog, at den kommer op igen i næste måned.
 
+## September
+
+- Den interne rente tog et nøk opad igen, så den er tilbage til normalen. Jeg har ikke gransket, hvad der er sket.
+- Jeg trækker langsomt nogle penge hjem fra Fast Invest, fordi platformen endnu ikke er gennemsigtig - og der i crowdlending-kredse er lidt skepsis omkring platformen. Den virker upåklageligt, så jeg forventer kun at halvere min investering.
+
 ## Investering og værdi af investering
 
 <iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1810612855&amp;format=image"></iframe>
