@@ -99,7 +99,10 @@ Jeg har min største investering i [Mintos\*](/go/mintos/). Min interne rente er
 
 Jeg bruger [Bondora\*](/go/bondora/) til flere opsparinger med omkring 6,5% i rente, fordi jeg gerne vil have nogle penge, hvor jeg kan få endnu hurtigere likviditet end Mintos _Invest & Access_ (hvor jeg jo kun kan hæve beløbet fra lån, der ikke er _late_).
 
-Min bedste platform i form af afkast er [Crowdestor\*](/go/crowdestor/), som i denne måned er kravlet op over 14% i intern rente. Der er masser af lån på platformen, og renterne er altså relativt høje.
+Min bedste platform i form af afkast er [Crowdestor\*](/go/crowdestor/), som i denne måned er kravlet op over 10% i intern rente. Der er masser af lån på platformen, og renterne er altså relativt høje.
+
+[Crowdestor\*](/go/crowdestor/) er en af mine yndlingsplatforme, men oprindeligt havde jeg skrevet, at jeg var nået op på en intern rente på 14%. Der havde jeg imidlertid brugt en forkert dato, så den interne rente var i stedet på omkring 10%.
+{: .notice .notice--info }
 
 Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/go/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende. 
 
