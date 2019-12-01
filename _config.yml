@@ -157,6 +157,8 @@ exclude:
 keep_files:
   - .git
   - .svn
+  - /assets/images
+  - /assets/pdf
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
