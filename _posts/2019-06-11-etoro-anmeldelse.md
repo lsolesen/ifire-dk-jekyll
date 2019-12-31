@@ -1,7 +1,7 @@
 ---
 title: "Etoro - copytrading og kurtagefri aktiehandel"
 permalink: /etoro-anmeldelse/
-last_modified_at: 2019-07-11T20:20:00+08:00
+last_modified_at: 2019-12-31T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
   teaser: /assets/images/logo/etoro.jpg
@@ -36,7 +36,7 @@ Lige nu bruger jeg udelukkende Etoro til _copy trading_, men der er også mange 
 - **Copy Portfolios**. Har kan du følge fx en portefølje af de mest succesfulde tradere på Etoro eller kryptovaluaer. Det kræver at du mindst har sat 5.000 US$ ind på din konto. Men så får du en diversificeret portefølje med relativt lave omkostninger.
 - **Bliv copy investor**. Du kan selv blive en af de investorer, man følger. Hvis du er godt til at investere, så kan du tjene en lille skilling på at blive en af dem, folk gerne vil følge. 
 
-## Hvordan har jeg gjort?
+## Hvordan har jeg brugt copytrading?
 
 Det er rigtig let at oprette en konto på [Etoro\*](/go/etoro/), så det vil jeg ikke gennemgå her. Jeg tilføjede _gratis_ penge til min [Revolut\*](/go/revolut/) med mit kreditkort. Derefter brugte jeg (på en hverdag) mit Revolut-betalingskort til at tilføje penge til min Etoro, for så fik jeg gratis valutaveksling til US$ til interbank-raten.
 
@@ -48,14 +48,14 @@ Jeg er naturligvis klar over, at det er en risikobetonet investering at alde and
 
 Jeg er dog lidt usikker på, hvad jeg skal sætte mit _copy stop loss_ til. Lige nu har jeg brugt standardindstillingen på 60%. Det betyder, at hvis investorprofilen taber 40% af porteføljen, så bliver det hele automatisk solgt. Måske skal jeg sætte den endnu lavere, da det ikke er usædvanligt, at en portefølje i virkelig dårlige tider kan svinge med 40-45%. Tabet vil imidlertid være _urealiseret_ - værdierne i porteføljen kan sagtens stige igen, når det er et bedre investeringsklima. Hvis _copy stop loss_ bliver aktiveret, så realiserer man imidlertid tabet uden mulighed for at hente investeringen hjem igen.
 
-## Fordele ved Etoro
+## Fordele ved Etoros copytrading og kurtagefrie handler
 
 - Du kan lave _copy trading_, hvor du ikke selv behøver at sidde og handle. Hvis du finder de rette tradere at kopiere, kan du være heldig at tjene penge også når markederne går nedad.
 - Større udenlandske aktier kan handles **kurtagefrit** (_zero commision_). Det er aktier fra New Yourk Stock Exchange, Nasdaq børsen, engelske aktier, tyske aktier, franske aktier, spanske aktier, schweiziske aktier og svenske aktier. Derudover store kinesiske aktier fra Hong Kong-børsen.
 - Platformen er let at bruge (men husk at sætte dig ind i hvad CDF'er er - og hvad det betyder at geare en investering, hvis du kaster dig ud i at handle selv).
 - Det er let og gratis at overføre penge ind på kontoen med [Revolut\*](/go/revolut/).
 
-## Ulemper for Etoro?
+## Ulemper for Etoros copytrading?
 
 Etoro har ry for at være en af de platforme med høje gebyrer eller _spreads_ på deres handler. Selvom aktierne er kurtagefri, så tjener de pengene på andre mere eller mindre synlige gebyrer. 
 
@@ -63,7 +63,29 @@ Jeg er ret opmærksom på, at der er et helt urimelig højt _hævegebyr_ på Eto
 
 Jeg overvejede egentlig også at bruge Etoro til kryptovaluta, men de opererer med ret høje _spreads_ (forskellen mellem køb og salg). Et _spread_ er i princippet et usynligt gebyr. Jeg havde ellers overvejet også at bruge Etoro til kryptovaluta, men tror jeg vil fastholde [Coinbase\*](/go/coinbase/), hvor man på deres PRO udgave handler med relativt lave gebyrer. Der er også spørgsmålet om, hvordan man får de købte coins ud i en _wallet_ - og hvad det koster.
 
-## Fremtiden på Etoro?
+## Skat på Etoro
+
+Skat bliver ikke automatisk indberettet på Etoro, fordi det ikke er en dansk platform. Du skal altså lave lidt manuelt arbejde.
+
+Jeg indberetter skatten sådan her.
+
+Du skal [finde din handelshistorik](https://www.etoro.com/da-dk/customer-service/help/1195663252/hvordan-kan-jeg-se-min-handelshistorik/), hvor du kan se, hvad du har realiseret af gevinst eller tab på Etoro.
+
+Du klikker ind på din Portefølje og og klikker på ur-ikonet.
+
+{% include figure image_path="https://lh4.googleusercontent.com/mp2ty25du4Whzyxre7Eah92DB6Z0rtlTzIGjQCtVubosGELlfc6abVIaFG6u8Vdh_oPsVHjSLZDQ6ODfzWfcRyDVpjSG6ANKbbmMcyErXQajYHbwVDh8_eF3yJ6AaYyiV2wV0RhGCnFCSNNjLg" caption="Se dine handler på Etoro" alt="Handler på Etoro copy trading" %}
+
+Du skal naturligvis vælge alle handlerne for hele året. Det foregår oppe i højre hjørne af skærmbilledet.
+
+Derefter kan du klikke på Kontoudtog (account statement) oppe i tandhjulet til højre. Det åbner en ny side, hvor du lige skal være opmærksom på at få findstillet datoen korrekt for at få dit kontoudtog.
+
+På forsiden får du _Account summary_. Hvis du klikker på _Financial Summary_ i bunden af siden, så får du en oversigt over gevinst og tab fordelt på de forskellige typer af værdier, der er blevet handlet på din Etoro konto.
+
+{% include figure image_path="/assets/images/etoro-account-summary.png" caption="Financial statement for Etoro" alt="Skat på Etoro" %}
+
+Husk at beløbene er i USD, så de skal lige omregnes til dansk og sættes ind i de rigtige rubrikker på årsopgørelsen.
+
+## Min fremtid på Etoros copytrading?
 
 Jeg vil aktivt det næste års tid bruge Etoro til _copy trading_ for at se, hvilken intern rente jeg kan skabe her. Jeg vil formentlig sætte lidt flere penge ind, men hvis dollarkursen falder meget på et tidspunkt, vil jeg nok gå endnu mere aktivt ind på platformen (som jo er i USD).
 
