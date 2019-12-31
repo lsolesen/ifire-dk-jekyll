@@ -37,7 +37,7 @@ Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
 
-Min **copytrading på Etoro** har er også ved at nærme sig plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen, men vil forsøge at reducere antallet af folk, jeg følger. 
+Min **copytrading på Etoro** er også ved at nærme sig plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen, men vil forsøge at reducere antallet af folk, jeg følger. 
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
@@ -48,10 +48,10 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 I løbet af december er der begyndt at florere flere og flere historier om crowdlending-udfordringer. [Kuetzal har haft store problemer](https://financiallyfree.eu/concerns-about-kuetzal-is-kuetzal-a-scam/), men jeg har heldigvis ikke investeret i dem. 
 
 - [Envestio](/platform/envestio/) har skiftet ejerkreds, og det har skabt lidt [bekymringer for Envestios fremtid, som de dog svarer nogenlunde tilfredsstillende på](https://colminey.com/envestio-calming-news). Envestio har imidlertid fortsat for mig _kun_ en intern rente på 12,15%, hvilket får mig til at overveje om det er risikoen værd. Jeg sætter ikke flere penge ind på kontoen og vil ved tilbagebetalinger trække penge ud. Det skal dog bemærkes at alle tilbagebetalinger ser ud til at falde til tiden. 
-- [RoboCash](/go/robocash/) har [suspenderet investeringer i en af deres låneudbydere](https://robo.cash/news/robocash_suspends_investment_into_the_loans_of_robocash_finance_corp). For mig virker det som om RoboCash håndterer udfordringerne, og [RoboCash](/go/robocash/) kører uden udfordringer for mig, selvom den interne rente er faldet til omkring 10,03% i denne måned.
-- [Mintos](/go/mintos/) har haft flere låneudbydere, men som samleplatform virker Mintos til at være dygtige til at håndtere udfordringerne. Jeg investerer kun i lån fra låneudbydere med en rating bedre end B-. Den interne rente på Mintos er faldet til 11,17%, men det er meget tilfredsstillende, når man tænker på, hvor let platformen er - og hvor stor diversificering man kan få.
+- [RoboCash\*](/go/robocash/) har [suspenderet investeringer i en af deres låneudbydere](https://robo.cash/news/robocash_suspends_investment_into_the_loans_of_robocash_finance_corp). For mig virker det som om RoboCash håndterer udfordringerne, og [RoboCash\*](/go/robocash/) kører uden udfordringer for mig, selvom den interne rente er faldet til omkring 10,03% i denne måned.
+- [Mintos\*](/go/mintos/) har haft flere låneudbydere, men som samleplatform virker Mintos til at være dygtige til at håndtere udfordringerne. Jeg investerer kun i lån fra låneudbydere med en rating bedre end B-. Den interne rente på Mintos er faldet til 11,17%, men det er meget tilfredsstillende, når man tænker på, hvor let platformen er - og hvor stor diversificering man kan få.
 
-[Grupeer](/go/grupeer/) er i øjeblikket den platform, der præsterer bedst for mig med en intern rente på 13,72%. Derudover har [Lenndy](/go/lenndy/) en intern rente på 12,90%, hvilket er meget tilfredsstillende. [Mintos](/go/mintos/), [PeerBerry](/go/peerberry/), [Fastinvest](/go/fastinvest/) og [Crowdestor](/go/crowdestor/) har alle interne renter over 11% med minimalt arbejde. Dog kunne det være fedt, hvis man på Crowdestor kunne sætte en auto investor.
+[Grupeer\*](/go/grupeer/) er i øjeblikket den platform, der præsterer bedst for mig med en intern rente på 13,72%. Derudover har [Lenndy\*](/go/lenndy/) en intern rente på 12,90%, hvilket er meget tilfredsstillende. [Mintos\*](/go/mintos/), [PeerBerry\*](/go/peerberry/), [Fastinvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor/) har alle interne renter over 11% med minimalt arbejde. Dog kunne det være fedt, hvis man på Crowdestor kunne sætte en auto investor.
 
 [BulkEstate\*](/go/bulkestate/) giver lige nu en intern rente på 10,15%, og det er uden sammenligning den platform jeg har, der særligt fokuserer på ejendomsbaseret crowdlending, der fungerer bedst.
 
