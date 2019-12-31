@@ -1,0 +1,26 @@
+{
+  "name": "ifire.dk",
+  "version": "1.0.0",
+  "description": "Official site for ifire.dk.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lsolesen/ifire-dk-jekyll.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "netlify"
+  ],
+  "author": "Lars Olesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsolesen/ifire-dk-jekyll/issues"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "watchify": "^3.11.1"
+  },
+  "scripts": {
+    "start": "jekyll server --port 8080 --incremental"
+  }
+}
