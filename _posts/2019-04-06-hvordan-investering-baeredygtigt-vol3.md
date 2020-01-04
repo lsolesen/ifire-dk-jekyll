@@ -83,7 +83,9 @@ Her ser fx de [svanemærkede fonde](https://www.merkur.dk/investeringer/svanemae
 
 Du kan finde [alle Triodos fonde på Morningstar](http://www.morningstar.dk/dk/funds/SecuritySearchResults.aspx?search=triodos&type=).
 
-De årlige omkostninger er relativt høje, der er emmisionstillæg, og Merkur tager også et depotgebyr.  Jeg har spurgt support hos [Nordnet](/go/nordnet/), og selvom Triodos ikke kan handles online, så kan de handles gennem en børsmægler på Nordnet. Hos [Svaneshoppen](https://www.svaneshoppen.dk/guide-til-baeredygtige-investeringer) kan du blive yderligere inspireret til bæredygtige investeringer.
+De årlige omkostninger er relativt høje, der er emmisionstillæg, og Merkur tager også et depotgebyr. <del date="2019-04-08T09:16:18+02:00">Jeg har spurgt support hos [Nordnet](/go/nordnet/), og selvom Triodos ikke kan handles online, så kan de handles gennem en børsmægler på Nordnet.</del> <ins date="2020-01-03T09:16:18+02:00">@Zenmester har været i kontakt med Nordnet, og svaret er nu, at "man kan ikke købe dem hos Nordnet via en Trader, da de skal forhandles via fondsudbyderen"</ins>.
+
+Hos [Svaneshoppen](https://www.svaneshoppen.dk/guide-til-baeredygtige-investeringer) kan du blive yderligere inspireret til bæredygtige investeringer.
 
 ### Parvest (Danske bank), Nordea Klima og Miljø og SDG Invest
 
