@@ -48,7 +48,7 @@ Jeg har læst [Your money or your life](http://www.yourmoneyoryourlife.com), som
 
 {% include video id="nwYS7JcFpy0" provider="youtube" %}
 
-Jeg har fulgt Step 8 i bogen og kigget på mit gennemsnitlig udgifter til regninger modsvaret af, at jeg teoretisk set kan trække 4% ud fra min investering hvert år. Denne graf har jeg lavet månedeligt, og når linjerne krydser hinanden, så behøver jeg ikke nogen almindelig indkomst for at kunne betale mine regninger.
+Jeg har fulgt Step 8 i bogen og kigget på mine gennemsnitlige udgifter til regninger modsvaret af, at jeg teoretisk set kan trække 4% ud fra min investering hvert år. Denne graf har jeg lavet månedeligt, og når linjerne krydser hinanden, så behøver jeg ikke nogen almindelig indkomst for at kunne betale mine regninger.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1861475684&amp;format=image"></iframe>
 

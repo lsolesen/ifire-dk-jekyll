@@ -33,6 +33,8 @@ Jeg har i denne måned haft en opsparingsrate på 75%, men den kommer til at dal
 
 ### Værdipapirer
 
+Jeg har tidligere skrevet lidt om [passive indeksfonde fra Storebrand](/investering-vol6/). Læg mærke til at de har [ændret deres skattestatus](https://www.storebrandfondene.dk/nyhedsside?article=andring-i-skattestatus) fra realisationsprincippet til lagerprincippet i stedet. Selvom de på papiret er akkumulerende beskattes de altså som aktieindkomst, men nu efter lagerprincippet hvor man opgør forskellen mellem værdien ved årets slutning og årets begyndelse for at se, hvad beskatningsgrundlagt er.
+
 Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har der været **_en urealiseret værdistigning_ på 42.756 DKK**. Samlet set giver det en vægtet intern rente på 9,46%, hvilket jeg håber kan fortsætte i det nye år.
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
