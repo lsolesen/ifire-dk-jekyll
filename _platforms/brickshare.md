@@ -1,4 +1,3 @@
-
 ---
 title: "Brickshare"
 permalink: /platform/brickshare/
