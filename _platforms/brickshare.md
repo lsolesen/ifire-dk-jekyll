@@ -8,7 +8,7 @@ tags:
   - crowdlending
   - ejendomsinvestering
 excerpt: "Ejendomsinvestering i Danmark."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2019-12-31T00:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

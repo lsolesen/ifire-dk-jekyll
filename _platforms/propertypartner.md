@@ -7,7 +7,7 @@ tags:
   - crowdlending
   - ejendomsinvestering
 excerpt: "På Property Partner investerer du i ejendomme i England ved at købe aktier i selskaberne og modtage udbytte (husleje) hver måned."
-last_modified_at: 2019-08-03T08:19:00+08:00
+last_modified_at: 2019-12-31T08:19:00+08:00
 toc: true
 ---
 
