@@ -6,14 +6,22 @@ header:
 tags:
   - crowdlending
 excerpt: "Trine har et særligt bæredygtigt sigte med cleantech / clean energy og investerer i Afrika."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2020-01-01T00:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 5. marts 2019  
-**Totalt indskud**: 1.000 EUR  
+**Totalt indskud**: 2.547 EUR  
 **Totalt trukket ud**: 0 EUR
+
+## December
+
+En af mine inesteringer har lidt udfordringer i øjeblikket. Min oplevelse er, at Trine giver god information om, hvordan de håndterer situationen.
+
+> As an investor in a loan to SolarHome we want to inform you that they are having some problems in the business that will affect your investment. It’s important for you to know what is going on while we work to find a solution to this, so read the information below and reach out if you have any questions.
+
+<cite>-- e-mail fra trine den 19. december 2019</cite>
 
 ## Investering og værdi af investering
 
