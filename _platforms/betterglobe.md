@@ -6,7 +6,7 @@ permalink: /platform/betterglobe/
 tags:
   - crowdlending
 excerpt: "Med Better Globe investerer du i træer i Afrika. Spørgsmålet er om det er et Ponzi scheme"
-last_modified_at: 2019-06-14T00:00:00+08:00
+last_modified_at: 2020-01-06T00:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -17,7 +17,7 @@ last_modified_at: 2019-06-14T00:00:00+08:00
 
 Med Better Globe investerer du (ikke specifikke) træer i Afrika. Efter fem år begynder Better Globe at kunne tjene penge på at høste fx frugt eller frø og investorerne får de første tilbagebetalinger på deres investering. Efter 20 år fældes træet og sælges som tømmer og den sidste tilbagebetaling finder sted. 
 
-**Better Globe giver ret høje afkast, men jeg ville absolut kun investere penge, du kan tåle at tabe. Måske er Better Globe et Ponzi Scheme.**
+**Better Globe giver ret høje afkast, men jeg ville absolut kun investere penge, du kan tåle at tabe. Måske er Better Globe et Ponzi Scheme. Du kan læse videre her, men også kigge på [Zetlands artikel om Better Globe](https://www.zetland.dk/historie/sOz9z6BJ-aekdaa3R-986ad)**.
 
 Better Globe tjener ikke kun penge på træerne, men også på at sælge et magasin og på at sælge konsulentbistand. 
 
@@ -46,7 +46,7 @@ Better Globe ligger i Norge, men det er Better Globe Forestry, man investerer i 
 
 ## Ville du investere?
 
-Jeg håber at Better Globe er oprigtigt og solidt foretagende, fordi prospektet med at plante træer i Afrika er rigtig godt. Der går desværre mange år, før jeg ved om det snarere er et Ponzi Scheme.
+Jeg håber, at Better Globe er oprigtigt og solidt foretagende, fordi prospektet med at plante træer i Afrika er rigtig godt. Der går desværre mange år, før jeg ved om det snarere er et Ponzi Scheme.
 
 Jeg er ikke i tvivl om, at Better Globe er i gang med at plante træer i Afrika nu - og at de udbetaler de første udbytter til dem, der har investeret for 5 år siden. Jeg vil bare helst ikke have, at mine penge ender med at blive en donation, fordi den langsigtede investeringskonstruktion er et pyramidespil.
 
