@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Passiv indtægt og indkomst"
 permalink: /passiv-indkomst/
 excerpt: "Opdatering på indtjening af passiv indkomst"
