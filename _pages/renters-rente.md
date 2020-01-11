@@ -7,6 +7,7 @@ header:
   caption: "Photo by Austin Distel on Unsplash"
 excerpt: "Beregn renters rente stigende effekt på renteudbetalinger over tid med en konstant rentefod og mulighed for løbende kapitalindskud."
 toc: true
+author_profile: true
 ---
 
 Renters rente er en af de mest motiverende årsager til at investere. Første år får du renter af din investering. De følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. Desto længere tid, du kan investere pengene, desto større bliver effekten af renters rente.
