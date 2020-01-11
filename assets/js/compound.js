@@ -96,25 +96,27 @@ var helpfulCalculators = helpfulCalculators || {};
         }
         return d;
     }
-
-    google.load("visualization", "1", { packages: ["corechart"] });
-    google.setOnLoadCallback(function() { 
-        p = !0;
-        o();
-        $("#calcButton").attr("disabled", !1);
-        $("#clearButton").attr("disabled", !1);
-        $("#clearButton").click(function() {
-            a.clearInput($("#base"));
-            a.clearInput($("#rate"));
-            a.clearInput($("#years"));
-            a.clearInput($("#deposit"));
-            r();
-            $("#chart_div").empty();
-        }) 
-    });
-
-    var p = !1,
-        t = 24;
+    
+    if (document.getElementById("chart_div")) {
+        google.load("visualization", "1", { packages: ["corechart"] });
+        google.setOnLoadCallback(function() { 
+            p = !0;
+            o();
+            $("#calcButton").attr("disabled", !1);
+            $("#clearButton").attr("disabled", !1);
+            $("#clearButton").click(function() {
+                a.clearInput($("#base"));
+                a.clearInput($("#rate"));
+                a.clearInput($("#years"));
+                a.clearInput($("#deposit"));
+                r();
+                $("#chart_div").empty();
+            }) 
+        });
+    
+        var p = !1,
+            t = 24;
+    }
 
     $(document).ready(function() {
         a.formatToRoundNumberOnBlur($("#base"));
