@@ -1,10 +1,25 @@
 ---
 layout: single
-title: Renters rente
+title: Renters rente - beregn effekten i vores onlineberegner
 permalink: /renters-rente/
+header:
+  overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80
+  caption: "Photo by Austin Distel on Unsplash"
+excerpt: "Beregn renters rente stigende effekt på renteudbetalinger over tid med en konstant rentefod og mulighed for løbende kapitalindskud."
+toc: true
 ---
 
-Renters rente er en af de mest motiverende årsager til at investere. Første år får du renter af din investering. Det følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. Desto længere tid, du kan investere pengene, desto større bliver effekten af renters rente.
+Renters rente er en af de mest motiverende årsager til at investere. Første år får du renter af din investering. De følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. Desto længere tid, du kan investere pengene, desto større bliver effekten af renters rente.
+
+## Hvad er renters rente?
+
+> Rentes rente eller kapitalfremskrivning er det fænomen, at når en kapital forrentes adskillige gange til en konstant rentefod, stiger renteudbetalingerne fra den ene renteudbetaling til den næste. Årsagen er, at rentepengene lægges til den oprindelige kapital, så der ved næste renteudbetaling betales renter af et så meget desto større beløb.
+
+<cite>--- [Wikipedia](https://da.wikipedia.org/wiki/Rentes_rente)</cite>
+
+## Udregn renters rente
+
+Vi har lavet en onlineberegner til at visualisere **effekten af renters rente**.
 
 ***
 
