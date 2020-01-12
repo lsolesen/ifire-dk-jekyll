@@ -102,7 +102,7 @@ De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at U
 |-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
 | [Vanguard Total Stock Market ETF (VTI) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DAJ)  | 0,04% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 40%       |
 | [Vanguard High Dividend Yield ETF (VYM) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00006A9F) | 0,06% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 30%       |
-| [Vanguard Real Estate ETF (VNQ) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DCS)         | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
+| [Vanguard Real Estate ETF (VNQ) (USD)](https://www.morningstar.com/etfs/arcx/vnq/quote)                               | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
 
 **UPDATE**: Disse ETF'er fra _Vanguard_ er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor, så jeg skal have fundet nogle europæiske udgaver af fondene, hvor jeg får nogenlunde samme omkostninger.
 {: .notice--info}
