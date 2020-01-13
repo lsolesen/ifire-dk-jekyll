@@ -1,4 +1,4 @@
-const compound = require('../js/compound.js');
+const compound = require('../src/js/compound.js');
 var assert = require('assert');
 
 describe('Compound', function() {

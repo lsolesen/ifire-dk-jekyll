@@ -18,11 +18,13 @@
   },
   "devDependencies": {
     "browserify": "^16.5.0",
-    "watchify": "^3.11.1",
-    "mocha": "^6.2.1"
+    "jsdom": "15.2.1",
+    "jsdom-global": "3.0.2",
+    "mocha": "^6.2.1",
+    "watchify": "^3.11.1"
   },
   "scripts": {
     "start": "jekyll server --port 8080 --incremental",
-    "test": "mocha src/test/*.*"
+    "test": "mocha test/shared.js"
   }
 }
