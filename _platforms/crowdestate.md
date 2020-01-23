@@ -7,7 +7,14 @@ tags:
   - crowdlending
   - ejendomsinvestering
 excerpt: "Crowdestate opererer primært i Estland og Letland. Platformen giver dig mulighed for at investere i udviklingsprojekter med ejendomme uden selv at skulle købe lejligheder."
+last_modified_at: 2020-01-21T11:40:00+08:00
 ---
+
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
+
+**Første investeringsdato**: 20. februar 2019  
+**Totalt indskud**: 2.000 EUR  
+**Totalt trukket ud**: 0 EUR
 
 {{ page.excerpt }}
 

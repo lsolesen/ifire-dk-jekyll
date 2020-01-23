@@ -41,4 +41,4 @@ En af mine inesteringer har lidt udfordringer i øjeblikket. Min oplevelse er, a
 
 Se [min anmeldelse af Trine](/trine-anmeldelse/).
 
-[Join Trine*](/go/trine/){: .btn .btn--large .btn--warning}
+[Join Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
