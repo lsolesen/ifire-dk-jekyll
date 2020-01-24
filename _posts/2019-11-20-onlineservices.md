@@ -1,12 +1,13 @@
 ---
 title: "Online services - og sammensætningen"
 permalink: /online-services/
+last_modified_at: 2020-01-23T14:22:02+02:00
 category:
   - Onlineservices
 tags:
   - onlineservices
   - streaming
-excerpt: "Det er tid til at lave en status på, hvilke abonnementer af onlineservices, jeg bruger - og om det er muligt at spare nogle penge."
+excerpt: "Det lykkedes at spare 476 DKK om måneden ved at lave en status på de onlineservices, jeg bruger."
 services:
   - title: Lastpass - husk adgangskoder
     excerpt: Jeg har uhuskeligt mange forskellige adgangskoder til alle mine platforme og onlinetilstedeværelse. Derfor bruger jeg [LastPass](/lastpass-anmeldelse/), som er min helt uundværlige kode-husker. Den kan jeg slet ikke undvære.
@@ -118,5 +119,9 @@ Hvis du er lige så spændt som mig på, hvad besparelsen endte med at blive, s�
 {% for s in services %}| {{ s.title }} | {{ s.price }} | {{ s.savings }} | {{ s.price_after }} |
 {% endfor %}| **I alt** | **908 / mdr** | **476 / mdr** | **432 / mdr** |
 {% endif %}
+
+Jeg har helt sikkert været lidt skødesløs med at bibeholde services, jeg ikke rigtig har brugt længere, men nogle timers arbejde for at gennemgå alle mine onlineservices hele har alligevel **sparet mig for 476 kroner om måneden**. Det er jo også værd at tage med.
+
+Samtidig har jeg stadig mulighed for at spare lidt på mit telefonabonnement og på backup hos CrashPlan, så måske kan jeg komme endnu højere op, når jeg lige kigger på det igen senere.
 
 {% include disclaimer.md %}

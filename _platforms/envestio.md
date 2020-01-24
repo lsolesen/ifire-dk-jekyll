@@ -19,22 +19,23 @@ Jeg ville ikke selv i øjeblikket investere i Envestio - og jeg håber, at det b
 **Totalt indskud**: 1.250 EUR  
 **Totalt trukket ud**: 0 EUR
 
+## Ulemper
+
+- 21. januar 2020. Platformen er tilsyneladende lukket ned - og folkene bag er sandsynligvis stukket af med vores penge.
+- Relativt få lån, som hurtigt bliver udsolgt, hvilket har givet en del cash drag for mig. Kan måske afhjælpes med deres nye autoinvest.
+- Intet sekundær marked
+
 ## Fordele
 
-- Høje renter
+- Høje renter - **vær opmærksom på at høje renter typisk er det samme som høj risiko**.
 - Har ikke haft nogen defaults endnu
 - Autoinvest, som ganske vist er ret ny.
 - Der er _buy back_, hvis man beder om det (det foregår ikke automatisk som på andre platforme)
 
-## Ulemper
-
-- Relativt få lån, som hurtigt bliver udsolgt, hvilket har givet en del cash drag for mig. Kan måske afhjælpes med deres nye autoinvest.
-- Intet sekundær marked
-
 ## Januar 2020
 
 - Efter Kuetzal efter al sandsynligvis har været involveret projekter, der har været svindel, så har Envestio også fået problemer. Læs grundigt op på udfordringerne, hvis du vil investere i Envestio.
-- Envestio skriver 21. januar, at de er blevet hacket. Det sker dog ikke helt pålideligt ud, og lige nu må man nok forvente at indskuddet i Envestio kan vise sig at være tabt. Se mere i [Crowdlending Danmark](https://www.facebook.com/groups/crowdlending/permalink/1484525341728635/) og [P2P Investment Fellows](https://www.facebook.com/groups/370350036872068/).
+- Envestio skriver 21. januar, at de er blevet hacket. Det sker dog ikke helt pålideligt ud, og lige nu må man nok forvente at indskuddet i Envestio kan vise sig at være tabt. Se mere i [Crowdlending Danmark](https://www.facebook.com/groups/crowdlending/permalink/1484525341728635/) og [P2P Investment Fellows](https://www.facebook.com/groups/370350036872068/). Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/).
 
 ## Juli 2019
 
