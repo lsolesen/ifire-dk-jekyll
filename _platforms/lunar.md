@@ -4,7 +4,7 @@ redirect_from: /platform/lunarway/
 permalink: /platform/lunar/
 header:
   teaser: https://monni.dk/wp-content/uploads/2018/09/Lunarway_1-1024x538.png
-  overlay_image: https://monni.dk/wp-content/uploads/2018/09/Lunarway_1-1024x538.png
+  overlay_image: https://lunarway.com/static/a20ae910-81c2-46cd-a4dc-a984b632c65b_lunar-private-hero-optimized-2b2944c0893983dd098c17509f41bf3e.png
 tags:
   - investering
 excerpt: "Lunar er en moderne bankapp, der giver cashback for at bruge deres kort og have NemKonto hos dem."

@@ -89,7 +89,7 @@ Hos [Svaneshoppen](https://www.svaneshoppen.dk/guide-til-baeredygtige-investerin
 
 ### Parvest (Danske bank), Nordea Klima og Miljø og SDG Invest
 
-Danske Bank har også en side om [impact fonde](https://danskebank.dk/privat/produkter/investering/impactfonde). De har valgt Parvest som samarbejdspartner, og de har to fonde, hvor navnet rummer deres formål, nemlig [Parvest Aqua](https://danskebank.dk/-/media/pdf/danske-bank/dk/parvest-aqua_dk-.-la=da.pdf) og [Parvest Climate Impact](https://danskebank.dk/-/media/pdf/danske-bank/dk/parvest-climateimpact_dk-.-la=da.pdf).
+Danske Bank har også en side om [impact fonde](https://danskebank.dk/privat/produkter/investering/impactfonde). De har valgt Parvest som samarbejdspartner, og de har to fonde, hvor navnet rummer deres formål, nemlig [Parvest Aqua](https://danskebank.dk/privat/produkter/investering/impactfonde) og [Parvest Climate Impact](https://danskebank.dk/privat/produkter/investering/impactfonde).
 
 [Nordea Klima og Miljø](https://nordeainvest.dk/produkter/nordea-invest-klima-og-miljo) investerer globalt i selskaber, der direkte eller indirekte beskæftiger sig med miljø og klima.
 
