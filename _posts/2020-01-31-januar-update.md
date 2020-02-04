@@ -29,13 +29,13 @@ I januar brugte vi nogle dage på skiferie. Her nød jeg igen rigtig godt af mit
 
 Jeg fik endelig bestilt nogle reservedele til min kaffemaskine og kværn, så mit seks måneders købestop måtte afbrydes midlertidigt, men er trådt i kraft igen.
 
-Med ferie og indkøb af reservedelene og indbetaling på børnenes børneopsparing, så endte opsparingsraten i den første måned af 2020 på beskedne 8,9%. Det var dog nogle procent bedre end januar 2019, så alt i alt er det udemærket.
+Med ferie og indkøb af reservedelene og indbetaling på børnenes børneopsparing, så **endte opsparingsraten i den første måned af 2020 på beskedne 8,9%**. Det var dog nogle procent bedre end januar 2019, så alt i alt er det udemærket. Jeg forventer dog, at jeg de følgende måneder igen vil kunne komme noget højere op i opsparingsrate, men jeg kommer i 2020 ikke til at tjene så meget som i 2019, så gennemsnittet vil helt sikkert falde noget.
 
 For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnementer](/online-services/), og der lykkedes det mig spare 476 DKK pr. måned allerede ved første gennemsyn.
 
-I denne måned har jeg også eksperimenteret lidt med forskellige nye betalingskort.
+I denne måned har jeg også oprettet nye betalingskort fra Curve og N26.
 
-- **[Curve\*](/go/curve/)**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback fra. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. 
+- **[Curve\*](/go/curve/)**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback fra. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. Og du kan også _Go Back In Time_, hvis du få valgt det forkerte kort, hvilket er ret smart. (Go Back In Time virker kun i den samme valuta dog). Jeg synes funktionen er ret genial, hvis man som mig har personlige kort, fælles kort og kort til brug på arbejdet.
 
 [Få 5£ på Curve](/go/curve/){: .btn .btn--large .btn--info }
 
@@ -59,7 +59,7 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-Faktisk går mine crowdlending-investeringer udemærket. Men markedet er bekymret i øjeblikket og jeg blev mindet om, at investeringerne er høj risiko.
+Faktisk går mine crowdlending-investeringer udemærket som helhed. Men markedet er bekymret i øjeblikket og jeg blev mindet om, at investeringerne er høj risiko.
 
 Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/). 
 
