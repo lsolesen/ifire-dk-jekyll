@@ -1,6 +1,6 @@
 ---
 title: "#13 Januar - stabile afkast og crowdlending-bekymringer"
-permalink: /opdateringer/januar-update/
+permalink: /opdateringer/januar-2020-update/
 category:
   - Opdateringer
 tags:
