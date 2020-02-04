@@ -99,7 +99,7 @@ Jeg vil som hovedregel investere i noget, der er lagerbeskattet efter aktieindko
 
 Jeg har min nuværende portefølje, jeg skal have lavet om, så den får lavere omkostninger og kommer tættere på min strategi for investering i værdipapirer - og så skal jeg tage højde for mine fremtidige, automatiserede investeringer i værdipapirer.
 
-Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/me/portfolios/343009/positions).
+Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 
 ### Automatisering af investering
 
@@ -113,7 +113,7 @@ Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placere
 
 ### Beslutning ift. fremtidige investeringer 
 
-Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/me/portfolios/343009/positions).
+Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
 

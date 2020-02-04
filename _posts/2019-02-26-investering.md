@@ -83,7 +83,7 @@ Hvis jeg kommer over bundgrænsen på 54.000 kroner, så vil jeg overveje at fin
 
 Jeg har ikke negativ kapitalindkomst, så derfor vil jeg i første omgang undgå at investere i ETF’er og akkumulerende investeringsforeninger.
 
-Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/me/portfolios/343009/positions).  
+Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
 

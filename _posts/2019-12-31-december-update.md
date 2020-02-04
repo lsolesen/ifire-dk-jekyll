@@ -55,7 +55,7 @@ I løbet af december er der begyndt at florere flere og flere historier om crowd
 
 [Grupeer\*](/go/grupeer/) er i øjeblikket den platform, der præsterer bedst for mig med en intern rente på 13,72%. Derudover har [Lenndy\*](/go/lenndy/) en intern rente på 12,90%, hvilket er meget tilfredsstillende. [Mintos\*](/go/mintos/), [PeerBerry\*](/go/peerberry/), [Fastinvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor/) har alle interne renter over 11% med minimalt arbejde. Dog kunne det være fedt, hvis man på Crowdestor kunne sætte en auto investor.
 
-[BulkEstate\*](/go/bulkestate/) giver lige nu en intern rente på 10,15%, og det er uden sammenligning den platform jeg har, der særligt fokuserer på ejendomsbaseret crowdlending, der fungerer bedst.
+[BulkEstate\*](/go/bulkestate/) giver lige nu en intern rente på 10,15%, og det er uden sammenligning den platform jeg har, der særligt fokuserer på ejendomsbaseret crowdlending, der giver det højeste afkast.
 
 [Få 12%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
 

@@ -13,7 +13,7 @@ excerpt: "Nordnets månedsopsparing købte Sparinvest til uforholdsmæssige høj
 last_modified_at: 2019-05-06T20:22:02+02:00
 ---
 
-Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del>Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del> <ins>Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
+Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del date="2019-05-06T09:16:18+02:00">Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del><ins date="2019-05-06T09:16:18+02:00">Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
 
 **Update 29. april 2019**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
 {: .notice--success}

@@ -53,6 +53,11 @@ services:
     price: 10 / mdr
     savings: 0 / mdr
     price_after: 10 / mdr
+  - title: Zetland
+    excerpt: Jeg nyder at læse Zetlands artikler eller høre udvalgte af artiklerne som Podcasts, og samtidig kan jeg dele mit Zetland abonnement med to ekstra medlemmer. Det kan altså betale sig at gå sammen om Zetland. Jeg betaler 99,- kroner om måneden.
+    price: 99 / mdr
+    savings: 0 / mdr
+    price_after: 99 / mdr
   - title: Google Play Music
     excerpt: Jeg betaler 99 DKK pr. måned for Google Play Music, hvor jeg bl.a. har uploadet alt mit eget musik, men også kan lytte til alt andet musik. Hvis jeg bliver træt af at betale, så har jeg stadig adgang til alt mit eget musik - og det kunne sagtens være, at jeg skulle forsøge at stille det i bero.
     price: 99 / mdr
@@ -86,6 +91,11 @@ services:
     price: 99 / mdr
     savings: 0 / mdr
     price_after: 99 / mdr
+  - title: Ewii Internet
+    excerpt: Jeg har Internet hos Ewii og giver 179,- om måneden. Det kører stabilt og fint - og jeg har ikke fundet noget der lige umiddelbart er billigere.
+    price: 179 / mdr
+    savings: 0 / mdr
+    price_after: 179 / mdr
 ---
 
 Det er ikke småting, man efterhånden har liggende i skyen - og som man får lov til at betale for. Jeg gik egentlig i gang med at tænke over det for tre måneder siden, men har første fået gennemgået det hele nu. Jeg tog udgangspunkt Spiir, hvor kategorien _Online Services & Software_ samler det hele for mig.

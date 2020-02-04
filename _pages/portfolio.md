@@ -35,19 +35,19 @@ Denne portefølje er dedikeret til primært danske, passive fonde.
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #1 på Shareville](https://shareville.dk/me/portfolios/343009/positions){: .btn .btn--large .btn--success}
+[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success}
 
 #### Nordnet #2: Investering i udenlandske, passive fonde
 
 Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor.com) og forsøger at have en ligelige fordeling mellem aktier, obligationer, guld og REIT. Her investerer jeg i EUR og USD.
 
-I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og guld, mens jeg har valgt tre specifikke REIT i USD. Ved at vælge tre REIT, så bliver jeg beskattet som aktieindkomst på REIT, og jeg synes omkostningerne på de mest interessante REIT ETF'er er lidt høje. Alternativerne til REIT som ETF kunne være: [GLRE](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ZQQR) for global,  [XREA](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014B9L) for Europa eller [USRE](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000157ZL) for en der dækker USA i USD. Omkostningerne for dem alle er imidlertil 0,40%, hvilket jeg lige nu synes bliver lidt for dyrt, når jeg også skal beskattes som kapitalindkomst.
+I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og guld, mens jeg har valgt tre specifikke REIT i USD. <del date="2020-01-03T09:16:18+02:00">Ved at vælge tre REIT, så bliver jeg beskattet som aktieindkomst efter realisationsprincippet på mine REIT, og jeg synes omkostningerne på de mest interessante REIT ETF'er er lidt høje.</del><ins date="2020-01-03T09:16:18+02:00">Nu beskattes ETF'er som aktieindkomst efter lagerprincippet, og derfor overvejer jeg at skifte til en REIT ETF. Dog synes jeg omkostningerne på 0,40% er lige i det højeste.</ins>
 
 <iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 <iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #2 på Shareville](https://shareville.dk/me/portfolios/349933/positions){: .btn .btn--large .btn--success}
+[Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success}
 
 #### Nordnet #3: Udbytteaktier
 
@@ -57,11 +57,21 @@ Jeg kæmper med at opbygge en portefølje af udbytteaktier, som kan supplere min
 
 <iframe src="https://www.shareville.se/widget/portfolio/358447/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #3 på Shareville](https://shareville.dk/me/portfolios/358447/positions){: .btn .btn--large .btn--success}
+[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/358447){: .btn .btn--large .btn--success}
+
+#### Nordnet #4: Aldersopsparing
+
+I aldersopsparingen har jeg satset på Nordnets fonde, da man kan handle dem gratis.
+
+<iframe src="https://www.shareville.se/widget/portfolio/404863/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+<iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success}
 
 #### SaxoInvestor - og aktiesparekonto
 
-Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_.
+Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_, hvor jeg blander købene lidt.
 
 #### Kapitalpension
 
@@ -90,25 +100,25 @@ Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er i
 
 ## Opsparing
 
-For mig er opsparing lige nu meget enkelt. Jeg har fundet en konto, hvor jeg kan have kontanter stående og få lidt rente (_cash back_). 
+For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskellige banker. 
 
 ### Indlånskonto
 
-Jeg har en indlånskonto hos [LunarWay\*](/go/lunarway/), hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen. 
+Jeg har en indlånskonto hos [Lunar\*](/go/lunar/)<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
 
-[Opret en konto hos LunarWay og få 50 DKK\*](/go/lunarway/){: .btn .btn--large .btn--success}
+[Opret en konto hos Lunar og få 50 DKK\*](/go/lunar/){: .btn .btn--large .btn--success}
 
 ### Opsparingskonto
 
-Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/), hvor jeg får 0,7% i rente.
+Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/), hvor jeg får <del  date="2020-01-01T09:16:18+02:00">0,7%</del><ins date="2020-01-01T09:16:18+02:00">0,3%</ins> i rente.
 
 ### Valutakonto
 
-Jeg har en konto hos [Revolut\*](/go/revolut/), hvor jeg kan veksle gratis på tværs af valutaer.
+Jeg har en konto hos [Revolut\*](/go/revolut/), hvor jeg kan veksle gratis på tværs af valutaer til interbank vekslingsrater.
 
 ### Guld og sølv
 
-Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVault\*](/go/bullionvault/), men omkostningerne ved at få det opbevaret blev for høje. Jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
+Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVault\*](/go/bullionvault/), men omkostningerne ved at få det opbevaret blev for høje med det beløb, jeg havde afsat. Jeg har en ETF, der tracker guld i min værdipapirportefølje #2.
 
 ### Cryptovaluta
 

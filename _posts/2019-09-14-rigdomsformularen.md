@@ -29,7 +29,7 @@ Det er en god ide at lave en opsparingskonto. Rigtig mange har en nødopsparing,
 
 **Derfor:** Lav en strategi for din opsparing - og find ud af, hvor stor den behøver at være.
 
-[Få 4% med LunarWay og få 50DKK gratis\*](/go/lunarway/){: .btn .btn--large .btn--success} 
+[Opret konto hos Lunar<del date="2019-10-03T09:16:18+02:00">Way</del> og få 50DKK\*](/go/lunarway/){: .btn .btn--large .btn--success} 
 
 ## Investering
 

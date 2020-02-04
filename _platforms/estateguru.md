@@ -31,6 +31,12 @@ platform:
 - Ikke noget sekundært marked, så det er ikke muligt at trække sig tidligere
 - Ingen buy back garanti (men historisk heller ikke mange tab på platformen)
 
+## Auto invest
+
+For alle os, som investerer under €250 pr lån, er autoinvestor desværre meget begrænset. Man det er muligt at benytte de udvidede filtre, selvom man kun investerer mindre beløb.
+Det gøres ved at ændre minimumsbeløbet til €250 og herefter aktivere "Invest all funds available". Derved investeres også kontantbeløb mellem €50 og under €250. Jeg har fx lige fået autoinvesteret €87, som stod på kontoen. Det fungerer ganske godt, hvis man vil geninvestere renter og afdrag og samtidig frasortere lån med fx høj LTV.
+... bare husk evt. at ændre minimusbeløbet, inden du indbetaler større beløb til kontoen.
+
 ### August
 
 - Valgte at gå ind i Estate Guru for at få lidt mere diversificeret ejendomsportefølje og se performance ift. de andre platforme.
