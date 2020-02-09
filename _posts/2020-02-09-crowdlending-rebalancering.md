@@ -74,7 +74,7 @@ Sikkerheden på platformen betyder også noget ift. om hackere kan komme ind og 
 
 Hvis du vil lave din egen analyse, så kan du tage udgangspunkt i følgende regneark. Husk på at der er mange ting i analysen, man kan diskutere det objektive af.
 
-[Google Sheets med Risk-Reward tallene](https://docs.google.com/spreadsheets/d/13phl5EPvfQPiKTvj9nRiPhJAykwvST-SOlwSfLCqEJA/edit?usp=sharing){: .btn .btn--large .btn--success }
+[Lav din egen Risk-Reward analyse i Google Sheets](https://docs.google.com/spreadsheets/d/13phl5EPvfQPiKTvj9nRiPhJAykwvST-SOlwSfLCqEJA/edit?usp=sharing){: .btn .btn--large .btn--success }
 
 ### Hvordan vægter parameterne? - Risk Relevance
 
@@ -148,6 +148,8 @@ Hvordan ser det så ud ift. min nuværende allokering i de forskellige crowdlend
 <iframe width="600" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=122354674&amp;format=image"></iframe>
 
 Jeg skal altså i gang med lidt reallokering af midlerne i crowdlending, men nu har jeg et udgangspunkt for reallokeringen.
+
+Hvis du har kommentarer både til vurderingen af de enkelte platforme eller fremgangsmåden, så hører jeg meget gerne fra dig.
 
 [Lav din egen Risk-Reward-analyse i Google Sheet](https://docs.google.com/spreadsheets/d/13phl5EPvfQPiKTvj9nRiPhJAykwvST-SOlwSfLCqEJA/edit?usp=sharing){: .btn .btn--large .btn--success }
 
