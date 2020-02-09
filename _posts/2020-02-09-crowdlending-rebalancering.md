@@ -72,6 +72,10 @@ Sikkerheden på platformen betyder også noget ift. om hackere kan komme ind og 
 - **Geo.** Hvor geografisk spredte kan man lave investeringer. Fx har nogle af ejendomsplatformene stort set kun en by, fx [Brickshare\*](/go/brickshare/), mens [PeerBerry\*](/go/peerberry/) opererer i mange lande.
 - **Investment Type.** Nogle lånetyper er mere risikable end andre lånetyper, fx har [Crowdestor\*](/go/crowdestor/) nogle tilsyneladende meget risikable lån. I forhold til mine investeringer, så forsøger jeg at fravælge de mest risikable lånetyper, og det er baggrunden for min vurdering af platformen.
 
+Hvis du vil lave din egen analyse, så kan du tage udgangspunkt i følgende regneark. Husk på at der er mange ting i analysen, man kan diskutere det objektive af.
+
+[Google Sheets med Risk-Reward tallene](https://docs.google.com/spreadsheets/d/13phl5EPvfQPiKTvj9nRiPhJAykwvST-SOlwSfLCqEJA/edit?usp=sharing){: .btn .btn--large .btn--success }
+
 ### Hvordan vægter parameterne? - Risk Relevance
 
 Jeg tænker stadig over, hvordan man kan sætte endnu mere stramme kriterier op for pointgivningen for de enkelte parametre. Denne del skal altså finpudses.
@@ -94,6 +98,8 @@ Jeg har i praksis vurderet alle de platforme, jeg er repræsenteret på lige nu.
 
 Hvis du har spørgsmål eller forslag til forbedring af vurderingerne for de enkelte platforme, så er de meget velkomne.
 
+[Se mine tal bag analysen i Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubhtml?gid=1476114236&single=true){: .btn .btn--large .btn-info }
+
 ### Hvad har jeg lært?
 
 Ifølge min selvanalyse, så er de bedste platforme for mig ift. risk-reward lige nu:
@@ -103,12 +109,15 @@ Ifølge min selvanalyse, så er de bedste platforme for mig ift. risk-reward lig
 - [Lenndy\*](/go/lenndy/)
 - [PeerBerry\*](/go/peerberry/)
 
-Af de platforme der retter sig mod ejendomsmarkedet, så må følgende fremhæves:
+Af de platforme der retter sig mod ejendomsmarkedet, så fremhæver [Risk Adjusting My P2P Lending Portfolio](https://www.onemillionjourney.com/risk-adjusting-my-p2p-lending-portfolio/) følgende platforme.
 
 - [EstateGuru\*](/go/estateguru/)
 - [EvoEstate\*](/go/evoestate/)
+- [Crowdestate\*](/go/crowdestate/)
 
-Det er værd at lægge mærke til, at [EvoEstate\*](/go/evoestate/), [FastInvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor) lige nu har nogenlunde samme risk-reward-score. Det skyldes at FastInvest har relativt høj intern rente, mens Crowdestor ikke leverer så høj intern rente for mig (og jeg typisk undgår de lån med de højeste renter). Efter alt hvad man hører i crowdlendingmiljøet er min mavefornemmelse med Crowdestor bedst, men man må også sige, at de lokker med ret høje renter. Evoestate synes jeg er ret smart, fordi den samler lån fra forskellige platforme. 
+Jeg har på [EstateGuru\*](/go/estateguru/) og [Crowdestate\*](/go/crowdestate/) imidlertid lavere intern rente, så for mig ligger de i _risk-reward_-score ikke bedre end [Housers\*](/go/housers/) og [BulkEstate\*](/go/bulkestate/).
+
+Det er værd at lægge mærke til, at [EvoEstate\*](/go/evoestate/), [FastInvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor) lige nu har nogenlunde samme _risk-reward-score_. Det skyldes at FastInvest har relativt høj intern rente, mens Crowdestor ikke leverer så høj intern rente for mig (og jeg typisk undgår de lån med de højeste renter). Efter alt hvad man hører i crowdlendingmiljøet er min mavefornemmelse med Crowdestor bedst, men man må også sige, at de lokker med ret høje renter. Evoestate synes jeg er ret smart, fordi den samler lån fra forskellige platforme. 
 
 Det smarte i det bliver tydeligt, når man ser i den anden ende af risk-reward-skalaen.
 
@@ -137,5 +146,9 @@ På baggrund af ovenstående analyse har jeg forsøgt at sætte lidt procenter p
 Hvordan ser det så ud ift. min nuværende allokering i de forskellige crowdlending platforme, kan du se i nedenstående oversigt.
 
 <iframe width="600" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=122354674&amp;format=image"></iframe>
+
+Jeg skal altså i gang med lidt reallokering af midlerne i crowdlending, men nu har jeg et udgangspunkt for reallokeringen.
+
+[Lav din egen Risk-Reward-analyse i Google Sheet](https://docs.google.com/spreadsheets/d/13phl5EPvfQPiKTvj9nRiPhJAykwvST-SOlwSfLCqEJA/edit?usp=sharing){: .btn .btn--large .btn--success }
 
 {% include disclaimer.md %}
