@@ -13,15 +13,27 @@ toc: true
 Jeg ville ikke selv i øjeblikket investere i Envestio - og jeg håber, at det bliver muligt at trække pengene ud fra platformen igen. Læs mere under juni 2020 nedenunder.
 {: .notice .notice--danger }
 
+## Envestio var et svindelnummer
+
+### Januar 2020
+
+Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/). 
+
+Jeg har meldt mig ind i [Facebookgruppen Envestio Investorer DK](https://www.facebook.com/groups/127110065133037/), hvor andre investorer i samme knibe deler erfaringer. Jeg har politianmeldt Envestio ud fra [den hjælpsomme skabelon delt i denne tråd](https://www.facebook.com/groups/127110065133037/permalink/127894991721211/).
+
+Heldigvis har jeg på [borger.dk](https://www.borger.dk/internet-og-sikkerhed/identitetstyveri/kreditadvarsel) indsat en kreditadvarsel allerede da jeg startede mit investeringseventyr. Advarslen har til formål at forbindre tilfælde af identitetsmisbrug. _Desværre skal firmaerne tilmelde sig ordningen for at det virker._
+
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 1. marts 2019  
-**Totalt indskud**: 1.250 EUR  
+**Totalt indskud**: 1.500 EUR  
 **Totalt trukket ud**: 0 EUR
+**Tabt renteindtægt**: 169 EUR
+**Tabt indskud**: 1.500 EUR
 
 ## Ulemper
 
-- 21. januar 2020. Platformen er tilsyneladende lukket ned - og folkene bag er sandsynligvis stukket af med vores penge.
+- 21\. januar 2020. Platformen er <del>tilsyneladende</del> lukket ned - og folkene bag er sandsynligvis stukket af med vores penge.
 - Relativt få lån, som hurtigt bliver udsolgt, hvilket har givet en del cash drag for mig. Kan måske afhjælpes med deres nye autoinvest.
 - Intet sekundær marked
 
@@ -34,7 +46,7 @@ Jeg ville ikke selv i øjeblikket investere i Envestio - og jeg håber, at det b
 
 ## Januar 2020
 
-- Efter Kuetzal efter al sandsynligvis har været involveret projekter, der har været svindel, så har Envestio også fået problemer. Læs grundigt op på udfordringerne, hvis du vil investere i Envestio.
+- Efter Kuetzal efter al sandsynligvis har været involveret projekter, der har været svindel, så <del>har Envestio også fået problemer</del> var Envestio også et fupnummer. <del>Læs grundigt op på udfordringerne, hvis du vil investere i Envestio.</del>
 - Envestio skriver 21. januar, at de er blevet hacket. Det sker dog ikke helt pålideligt ud, og lige nu må man nok forvente at indskuddet i Envestio kan vise sig at være tabt. Se mere i [Crowdlending Danmark](https://www.facebook.com/groups/crowdlending/permalink/1484525341728635/) og [P2P Investment Fellows](https://www.facebook.com/groups/370350036872068/). Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/).
 
 ## Juli 2019
@@ -68,5 +80,3 @@ Jeg ville ikke selv i øjeblikket investere i Envestio - og jeg håber, at det b
 ## Transaktioner
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=677233925&amp;format=image"></iframe>
-
-[Tilmeld dig Envestio\*](/go/envestio/){: .btn .btn--large .btn--warning}
