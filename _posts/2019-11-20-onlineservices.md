@@ -123,14 +123,15 @@ Hvis du er lige så spændt som mig på, hvad besparelsen endte med at blive, s�
 
 ## Besparelse
 
+{% assign total = 0 %}
 {% if services.size > 0 %}
 | Service       | Pris          | Besparelse      | Pris efter |
 |---------------|--------------:|----------------:|-----------:|
 {% for s in services %}| {{ s.title }} | {{ s.price }} | {{ s.savings }} | {{ s.price_after }} |
-{% endfor %}| **I alt** | **908 / mdr** | **476 / mdr** | **432 / mdr** |
+{% capture print_total %}{{ print_total | plus: s.price }}{% endcapture %}{% capture print_savings %}{{ print_savings | plus: s.savings }}{% endcapture %}{% capture print_after %}{{ print_after | plus: s.price_after }}{% endcapture %}{% endfor %}| **I alt** | **{{ print_total }} / mdr** | **{{ print_savings }} / mdr** | **{{ print_after }} / mdr** |
 {% endif %}
 
-Jeg har helt sikkert været lidt skødesløs med at bibeholde services, jeg ikke rigtig har brugt længere, men nogle timers arbejde for at gennemgå alle mine onlineservices hele har alligevel **sparet mig for 476 kroner om måneden**. Det er jo også værd at tage med.
+Jeg har helt sikkert været lidt skødesløs med at bibeholde services, jeg ikke rigtig har brugt længere, men nogle timers arbejde for at gennemgå alle mine onlineservices hele har alligevel **sparet mig for {{ print_savings }} kroner om måneden**. Det er jo også værd at tage med.
 
 Samtidig har jeg stadig mulighed for at spare lidt på mit telefonabonnement og på backup hos CrashPlan, så måske kan jeg komme endnu højere op, når jeg lige kigger på det igen senere.
 
