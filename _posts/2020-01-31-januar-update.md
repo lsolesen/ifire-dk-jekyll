@@ -6,7 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
-excerpt: "December har igen budt på solide afkast fra værdipapirerne, mens crowdlending ser lidt bekymrende ud."
+excerpt: "Januar har igen budt på solide afkast fra værdipapirerne, mens crowdlending ser lidt bekymrende ud, så er gået i gang med at sænke min eksponering mod crowdlending."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
@@ -35,7 +35,7 @@ For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnem
 
 I denne måned har jeg også oprettet nye betalingskort fra Curve og N26.
 
-- **[Curve\*](/go/curve/)**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback fra. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. Og du kan også _Go Back In Time_, hvis du få valgt det forkerte kort, hvilket er ret smart. (Go Back In Time virker kun i den samme valuta dog). Jeg synes funktionen er ret genial, hvis man som mig har personlige kort, fælles kort og kort til brug på arbejdet.
+- **[Curve\*](/go/curve/)**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback de første 90 dage, du har kortet. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. Og du kan også _Go Back In Time_, hvis du få valgt det forkerte kort, hvilket er ret smart. (Go Back In Time virker kun i den samme valuta dog). Jeg synes funktionen er ret genial, hvis man som mig har personlige kort, fælles kort og kort til brug på arbejdet.
 
 [Få 5£ på Curve](/go/curve/){: .btn .btn--large .btn--info }
 
