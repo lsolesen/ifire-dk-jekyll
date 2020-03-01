@@ -129,7 +129,7 @@ Ellers vil jeg også gerne reducere antallet af platforme, der fokuserer på eje
 
 [EstateGuru\*](/go/estateguru/){: .btn .btn--large .btn--info } eller [EvoEstate\*](/go/evoestate/){: .btn .btn--large .btn--success }
 
-Ligesom sidste måned har jeg den højeste interne rente på [Grupeer\*](/go/grupeer/), [Lenndy\*](/go/lenndy/), [FastInvest\*](/go/fastinvest/) (som der i crowdlendingmiljøet i øjeblikket er meget bekymring omkring), [Crowdestor\*](/go/crowdestor/), [Mintos\*](/go/mintos/) bedst for mig. Alle har en intern rente i spændet 13,72% til 11,19%.
+Ligesom sidste måned har jeg den højeste interne rente på [Grupeer\*](/go/grupeer/), [Lenndy\*](/go/lenndy/), [FastInvest\*](/go/fastinvest/) (som der i crowdlendingmiljøet i øjeblikket er meget bekymring omkring), [Crowdestor\*](/go/crowdestor/), [PeerBerry\*](/go/peerberry/), [Mintos\*](/go/mintos/) bedst for mig. Alle har en intern rente i spændet 13,72% til 11,19%.
 
 I løbet af februar har jeg haft en **(urealiseret) indtjening på 4588 DKK**, hvilket jeg forventer daler en lille smule de kommende måneder, fordi jeg reducerer eksponeringen lidt mod crowdlendingen.
 
