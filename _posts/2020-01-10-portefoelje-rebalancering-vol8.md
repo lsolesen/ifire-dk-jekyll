@@ -1,6 +1,6 @@
 ---
 title: "Rebalancering af værdipapirporteføljen #8"
-last_modified_at: 2020-01-10T09:20:02+02:00
+last_modified_at: 2020-02-28T09:20:02+02:00
 permalink: /investering-vol8/
 category:
   - Investering
@@ -12,27 +12,39 @@ excerpt: "Nu er det igen tid til at overveje, om jeg holder mig tæt nok til min
 classes: wide
 ---
 
-Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer. 
-
-På den måde kommer jeg tættere på mine ideer fra ['Simple Path to Wealth'](/investering-vol7/).
+Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer, bl.a. fordi jeg vil sørge for at jeg holder min strategi. Det skrev jeg også lidt om tidligere i ['Simple Path to Wealth'](/investering-vol7/).
 
 Da det [langt fra er sikkert at en løbende rebalancering vil ændre porteføljens resultat](https://www.morningstar.dk/dk/news/195776/rebalancering-eller-ej.aspx), så skal man altså tænke sig om. Min strategi er at lave så få handler som muligt, der får mig tættere på min foretrukne allokering.
 
 Jeg synes mit samlede setup er blevet for indviklet, og vil gerne simplificere lidt. Bl.a. dropper jeg fokuseringen på udbytteaktier, fordi jeg synes det tager lidt for meget af min tankevirksomhed i øjeblikket, når de er i minus.
 
+Formenlig er det med udfordringerne på aktiemarkedet et rigtig fint tidspunkt at lave en rebalancering på, hvilket jeg skriver lidt mere om under `Danske Indeksfonde`.
+
+Det væsentligste for mig efter rebalanceringen er:
+
+- **Simplicitet**. Det skal være så enkelt som muligt.
+- **Omkostninger**. Lavere omkostninger betyder rigtig meget på sigt.
+
 ## Danske indeksfonde (#1)
 
-For mig betyder omkostninger og bæredygtighed noget. Jeg satser derofr primært på SPIDJWKL i mine fremtidige investeringer i de danske investeringsfonde. Jeg ser frem til, at Nordnet kan udbyde fonde der er konkurrencedygtige i forhold til omkostninger med et endnu højere bæredygtighedsfokus.
+Jeg har hovedsageligt brugt SparInvests passive indeksfonde til at lave en portefølje. 
+
+Aktiemarkedets fald kan være en trædesten til at omlægge porteføljen lidt. Lige nu er jeg eksponeret mod SparInvests INDEX Globale Aktier Min. Risiko (SPIGLAMRIK) og SparInvests INDEX Emerging Markets (SPIEMIKL). Hvis jeg sælger Emerging Markets med et samlet tab, så kan det trækkes fra i udbytteafkastet. Så kan jeg i stedet købe SparInvests INDEX Globale Aktier (SPVIGAKL), som også indeholder _emerging markets_. Globale Aktier er et bredere verdensindeks, så jeg kun behøver en fond. Samtidig har jeg læst lidt mere om, hvad lav volatilitet i et indeks betyder. Du kan fx se følgende video:
+
+{% include video id="xUbJ21WcUWA" provider="youtube" %}
+
+For mig betyder bæredygtighed også noget. Jeg satser jeg primært på månedsopsparingen på SPIDJWKL i mine fremtidige investeringer i de danske investeringsfonde. Jeg ser frem til, at Nordnet kan udbyde fonde der er konkurrencedygtige i forhold til omkostninger med et endnu højere bæredygtighedsfokus.
 
 ### Udbyttebetalende danske fonde
 
-| Tick       | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score | Månedsops. |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|------------|
-| SPIGLAMRIK | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J)                     | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 49,28          | *          |
-| SPVIGAETIK | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |            |
-| SPIDJWKL   | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | 55,42          | *          |
-| SPIEMIKL   | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          | *          |
-| SYIMSTAR   | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |            |
+| Tick       | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsops. |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|------------|
+| SPIGLAMRIK | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J)                     | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | *          |
+| SPVIGAKL   | [Sparinvest INDEX Globale Aktier KL KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK4)                         | 0,58% |                                          | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |            |
+| SPIDJWKL   | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | *          |
+| SPVIGAETIK | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
+| SPIEMIKL   | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *          |
+| SYIMSTAR   | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |            |
 
 ### Akkumulerende danske fonde
 
