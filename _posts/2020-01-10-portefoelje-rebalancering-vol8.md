@@ -56,6 +56,8 @@ Tidligere har ETF'er været beskattet som kapitalindkomst efter lagerprincippet,
 
 Jeg vil rebalancere porteføljen ved at reducere REIT en lille smule og skifte en del af investeringen ud med en ETF i stedet (også for at fjerne valutarisikoen ved at mine REIT er i USD). Samtidig vil jeg via månedsopsparingen hæve aktieeksponeringen lidt. For at hæve de hurtigt omsættelige og stabile obligationer, vil jeg tælle kontanter med i denne del af porteføljen.
 
+### REIT
+
 I princippet vælger jeg mellem følgende ETF'er til REIT alt efter hvilket marked, jeg helst vil ramme:
 
 | Tick | Værdipapir                                                                                                                                     | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
@@ -69,6 +71,8 @@ I princippet vælger jeg mellem følgende ETF'er til REIT alt efter hvilket mark
 
 Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle købe i dag, så ville jeg have valgt GZUR eller 4GLD, som begge har lavere omkostninger.
 
+### Guld
+
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
 | VZLD | [WisdomTree Physical Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                               | 0,39% |  | | Passiv      |
@@ -76,6 +80,8 @@ Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle k�
 | 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0,3% |  |  | Passiv      |
 
 I forhold til aktier og obligationer, så holder vil jeg først og fremmest tænke på omkostningerne - og da fondene fra BlackRock har lave omkostninger og samtidig er med i Nordnets månedsopsparing opprioriterer jeg dem. Jeg vil gerne være eksponeret mod verden, men vælger også at gøre eksponeringen mod det amerikanske aktiemarked stor, fordi omkostningerne på ETF'en er helt nede på 0,07%:
+
+### Aktier
 
 | Tick | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsopsparing |
 |------|---------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------------|
