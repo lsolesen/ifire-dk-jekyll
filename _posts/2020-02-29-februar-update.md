@@ -117,6 +117,9 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 Jeg er ved at reducere min samlede crowdlending-portefølje og i den forbindelse skrev jeg tidligere [et forslag til, hvordan man kan lave en risiko-afkast-analyse af crowdlending-platformene](/crowdlending-rebalancering/). Jeg hæver stille og roligt penge fra nogle platforme og overfører til andre platforme eller til min aktie-portefølje, så de kommer tættere på min ideelle allokation.
 
+Husk at med crowdlending er det forventede afkast. På crowdlending platformene er der opgjort et tal, men man kan jo reelt ikke vide, hvad det endelige afkast er, før man hæver hele beløbet fra kontoen. Jeg har fx skrevet til RoboCash-support, hvordan det kan være, at man interne rente efter at jeg har fået nogle penge udbetalt er faldet fra 10%+ ned til omkring 6%.
+{: .notice .notice--info }
+
 _Risk-reward_-tallet fra min analyse er naturligvis ret afhængigt af afkastet. Derfor reducerer jeg min eksponering mod [Crowdestor\*](/go/crowdestor/) lidt, fordi jeg i øjeblikket kun har omkring 10-12%-afkast på platformen. Det afkast er ikke højere end fx [Mintos\*](/go/mintos/), som samlet har en noget højere sikkerhedsscore, bl.a. fordi Mintos har en spredning på mange _loan originators_. Jeg synes stadig Crowdestor har nogle ret interessante og lidt sjove lån, og der er stor tiltro til platformen, men nogle af de seneste lån har rigtig høje renter på papiret, og derfor følger risikoen formentlig også med. Og med tanke på, at de to platforme der har tilbudt de højeste renter (Envestio og Kuetzal) har vist sig at være svindel, så vil jeg være lidt forsigtig og reducere eksponeringen lidt.
 
 Jeg hæver også løbende fra [FastInvest\*](/go/fastinvest/), fordi folk i crowdlending-miljøet er ret skeptiske over for platformen. Den performer dog rigtig godt for mig og pengene udbetales planmæssigt (selvom de har en fast 5 dages forsinkelse, som de også skriver på deres hjemmeside).
