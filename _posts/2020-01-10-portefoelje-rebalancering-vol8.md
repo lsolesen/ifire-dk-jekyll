@@ -77,7 +77,9 @@ Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle k�
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
 | VZLD | [WisdomTree Physical Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                               | 0,39% |  | | Passiv      |
 | GZUR | [WisdomTree Physical Swiss Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NA52)                               | 0,19% |  |  | Passiv      |
-| 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0,3% |  |  | Passiv      |
+| 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0%-0,30%[^note] |  |  | Passiv      |
+
+[^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
 
 I forhold til aktier og obligationer, så holder vil jeg først og fremmest tænke på omkostningerne - og da fondene fra BlackRock har lave omkostninger og samtidig er med i Nordnets månedsopsparing opprioriterer jeg dem. Jeg vil gerne være eksponeret mod verden, men vælger også at gøre eksponeringen mod det amerikanske aktiemarked stor, fordi omkostningerne på ETF'en er helt nede på 0,07%:
 
