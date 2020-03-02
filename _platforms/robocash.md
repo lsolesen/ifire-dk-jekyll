@@ -6,13 +6,39 @@ header:
 tags:
   - crowdlending
 excerpt: "RoboCash tilbyder kortsigtede lånetyper særligt i Euroasien og Asien - og de giver omkring 12% i årligt afkast og har buy back garanti. Funderet i Letland."
-last_modified_at: 2019-03-24T00:00:00+08:00
+last_modified_at: 2020-03-02T15:15:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 18. marts 2019  
-**Totalt indskud**: 590 EUR
+**Totalt indskud**: 670 EUR
+**Totalt trukket ud**: 152 EUR
+**Nuværende indskud**: 518 EUR
+
+## Februar 2020
+
+I forbindelse med at jeg ville sænke min samlede eksponering i crowdlending, så ville jeg trække penge ud af RoboCash også. RoboCash fungerer hovedsageligt vha. auto invest, og jeg synes, at RoboCash har den smarteste måde at trække penge ud. Man kan nemlig direkte i deres _auto invest_-indstillinger vælge, om penge skal reinvesteres eller udbetales.
+
+Overraskelsen kom da jeg næste gang ville regne min interne rente ud (XIRR). Da var den nemlig faldet fra 10%+ til 6%. Jeg har undersøgt, om jeg har lavet en fejl, men det er ikke tilfældet, så jeg kontaktede RoboCash-support.
+
+> I am wondering why my internal interest XIRR had dropped from 10+ to below 6% after I had some of my invested amount paid out. Is there any fees or similar?
+
+De svarer følgende:
+
+> Investors doesn't earn 12% of the whole deposited amount, but 12% from each loan, in which his or her money is invested. Therefore your profit depends on different factors. Loans can either be repaid by borrowers in time, or loans can be in overdue, so the buyback will be implemented on the 31st day of overdue, so it's hard to tell the exact amount of income that will be earned.  
+> 
+> In addition, your income **for each loan** can be calculated the following way: provided, for example, that we have a loan in amount of 10 EUR for a period of 9 days with the interest rate of 12%, you should use this formula **10 x (12/100) x (9/365)**. In this way, you can check the calculations on your earnings. 
+>
+> Regarding your second question, Robocash doesn't withhold any fees or commissions from any of the investors' transactions. 
+
+---<cite>Ekaterina Nekrasova fra RoboCash Support Team</cite>
+
+Der er sådan set ikke noget overraskende i deres svar. Naturligvis er der defaults og buybacks. Men løftet på platformen er jo omkring 12% på den enkelte platform. Min løbende beregning af den interne rente har også vist, at jeg har omkring 10%+ i intern rente. Men hvis kontoens totale værdi reelt bliver regnet af RoboCash undervejs, ville min interne rente også vise dette. Det har den ikke gjort, men så snart jeg har bedt om _Payout_ på omkring 20% af min samlede porteføljes værdi, så dalede den interne rente altså med 4%-point.
+
+Hvis det reelle afkast ender med at være 6%, så ville jeg formentlig slet ikke være på platformen. Derfor er det problematisk at den totale værdi af kontoen ikke til hver en tid reflekterer, når nogle af lånene er blevet ramt af _buyback_ eller _defaults_. Som investor føles det lidt som at blive ført bag lyset.
+
+Nu har jeg sat den resterende del af min portefølje til _Payout_, og så glæder jeg mig til at udregne min reelle interne rente på RoboCash. Jeg håber, at den er  bedre end jeg frygter.
 
 ## Investering og værdi af investering
 
