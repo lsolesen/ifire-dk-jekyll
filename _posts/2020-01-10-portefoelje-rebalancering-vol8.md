@@ -93,15 +93,24 @@ Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle k�
 
 [^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
 
-I forhold til aktier og obligationer, så holder vil jeg først og fremmest tænke på omkostningerne - og da fondene fra BlackRock har lave omkostninger og samtidig er med i Nordnets månedsopsparing opprioriterer jeg dem. Jeg vil gerne være eksponeret mod verden, men vælger også at gøre eksponeringen mod det amerikanske aktiemarked stor, fordi omkostningerne på ETF'en er helt nede på 0,07%:
+> Når du er kunde i Nordnet er der ingen "custody" omkostninger ved 4GLD der bliver sendt videre til kunden (som det er i dag, vi tager forbehol for at det kan ændre sig med tiden). Derfor er det korrekt at RIY er 0,00% som det også står oplyst i faktaark til 4GLD.
+
+---<cite>Nordnet Support</cite>
 
 ### Aktier
+
+I forhold til aktier og obligationer, så vil jeg først og fremmest tænke på omkostningerne. Da fondene fra BlackRock har lave omkostninger og samtidig er med i Nordnets månedsopsparing opprioriterer jeg dem. Jeg vil gerne være eksponeret mod verden, men vælger også at gøre eksponeringen mod det amerikanske aktiemarked stor, fordi omkostningerne på ETF'en er helt nede på 0,07%:
 
 | Tick | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsopsparing |
 |------|---------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------------|
 | EUNL | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)  | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *               |
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)     | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *               |
 | IS3N | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM) | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | *               |
+
+### Obligationer
+
+| Tick | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsopsparing |
+|------|---------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------------|
 | EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)      | 0,09% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | *               |
 | D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                 | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; |                                          | *               |
 

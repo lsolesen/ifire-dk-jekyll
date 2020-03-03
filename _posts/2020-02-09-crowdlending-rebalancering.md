@@ -34,7 +34,7 @@ _Risk Score_ udregnes på baggrund af en række forskellige kriterier, der fort�
 
 - **Buy Backs.** Tilbyder platformen at købe lånene tilbage. På fx [Mintos\*](/go/mintos/) [Lenndy\*](/go/lenndy/) og flere andre tilbydes at lånene kan købes tilbage. Det er bl.a. også et af kritikpunkterne hos [FastInvest\*](/go/fastinvest/), som tilbyder _instant buy back_, for hvordan kan de dække det, hvis alle samtidig vil sælge deres lån tilbage. Det er vigtigt at vurdere om _buy back_ reelt kan realiseres fra platformen.
 - **Provision Fund.** Fx opbygger [Crowdestor\*](/go/crowdestor/) en fond, der skal kunne dække defaults. Den er dog langt fra færdig endnu.
-- **Collateral.** Fx har [Grupeer\*](/go/grupper/) en del lån, der har ejendomme som sikkerhed.
+- **Collateral.** Fx har [Grupeer\*](/go/grupeer/) en del lån, der har ejendomme som sikkerhed.
 
 ### Loan Originator Risk
 
@@ -105,7 +105,7 @@ Hvis du har spørgsmål eller forslag til forbedring af vurderingerne for de enk
 Ifølge min selvanalyse, så er de bedste platforme for mig ift. risk-reward lige nu:
 
 - [Mintos\*](/go/mintos/)
-- [Grupeer\*](/go/grupper/)
+- [Grupeer\*](/go/grupeer/)
 - [Lenndy\*](/go/lenndy/)
 - [PeerBerry\*](/go/peerberry/)
 

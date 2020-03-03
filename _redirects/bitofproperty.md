@@ -1,6 +1,6 @@
 ---
 title: BitOfProperty
-redirect_to: https://c.trackmytarget.com/pfab4a
+redirect_to: /platform/bitofproperty/
 tags:
   - crowdlending
   - ejendomsinvestering
