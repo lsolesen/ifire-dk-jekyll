@@ -162,7 +162,16 @@ Jeg er begyndt at bruge [Curve\*](/go/curve/) som mit primære betalingskort, fo
 
 Jeg har brugt en del tid i løbet af måneden på at finde ud af, hvordan jeg jævnligt kan købe Bitcoins som opsparing uden at have for høje omkostninger. Jeg synes, at det er rigtig vanskeligt helt at gennemskue, hvad omkostningerne er, fordi der nogle steder er maker-taker fees, mens der andre steder er gebyrer for _deposits_ og _withdrawals_.
 
-Jeg har længe været på [Coinbase\*](/go/coinbase/), som tilbyder tilbagevendende indkøb. Desværre er der alt for højt gebyr på mindre opkøb. På [Coinbase Pro\*](/go/coinbase/) kan man mere manuelt købe for mindre gebyrer, men for de beløb jeg har tænkt mig at købe for, så er _maker-taker-fees_ 0,5%. I stedet så har jeg valgt [Kraken\*](/go/kraken/), som har maker-fees på op til 0,16% og taker-fees på op til 0,26%. Jeg øver mig stadig i at få lagt orderne, så det primært er med maker-fees.
+Jeg har længe været på [Coinbase\*](/go/coinbase/), som tilbyder tilbagevendende indkøb. Desværre er gebyret alt for højt på mindre opkøb. På [Coinbase Pro\*](/go/coinbase/) kan man mere manuelt købe for mindre gebyrer, men for de beløb jeg har tænkt mig at købe for, så er _maker-taker-fees_ 0,5%. I stedet så har jeg valgt [Kraken\*](/go/kraken/), som har maker-fees på op til 0,16% og taker-fees på op til 0,26%. Jeg øver mig stadig i at få lagt orderne, så det primært er med maker-fees.
+
+Oversigt over gebyrer ved mindre handler og overførsler på [Kraken\*](/go/kraken/) og [Coinbase Pro\*](/go/coinbase/):
+
+|                    | GDAX - Coinbase Pro | Kraken     |
+|--------------------|---------------------|------------|
+| Maker fee          | 0,5%                | 0,16%      |
+| Taker fee          | 0,5%                | 0,26%      |
+| Withdrawal fee BTC | 0                   | 0,0005 BTC |
+| SEPA transfer      | 0,15 EUR            | 0          |
 
 [Køb Krypto på Kraken\*](/go/kraken/){: .btn .btn--large .btn--warning } [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
 
