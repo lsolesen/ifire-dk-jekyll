@@ -1,7 +1,7 @@
 ---
 title: "Videre med bæredygtige aktier og obligationer #3?"
 permalink: /investering-vol3/
-last_modified_at: 2019-04-08T09:16:18+02:00
+last_modified_at: 2020-03-038T09:16:18+02:00
 category:
   - Investering
 tags:
@@ -54,17 +54,33 @@ Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfo
 
 ## Bæredygtighed i de danske passive indeksfonde
 
-De passive indeksfonde har samlet lavere omkostninger end de aktive fonde. Danske Sparinvest har en række fonde, som ofte bliver fremhævet, hvis man gerne vil investere med lave omkostninger, og de har også et par indekser, hvor etikken og bæredygtigheden er i højsædet.
+De passive indeksfonde har samlet lavere omkostninger end de aktive fonde. Danske SparInvest har en række fonde, som ofte bliver fremhævet, hvis man gerne vil investere med lave omkostninger, og de har også et par indekser, hvor etikken og bæredygtigheden er i højsædet.
 
 De følgende fonde hører til i min portefølje. De er alle udbyttebetalende fonde, og derfor kan de være med til at skabe en passiv indkomst undervejs. [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) “repræsenterer top 10% af de ledende sustainability-selskaber i 57 industrigrupper fordelt på 51 lande”. _[Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)_ har lavet en etisk screening og sorteret fx våben fra og har valgt ESG-ratede selskaber og aktier.
 
+### Distribuerende passive indeksforeninger
+
 | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score | Månedsops. |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|------------|
-| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J)                     | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          | *          |
 | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |            |
 | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          | *          |
-| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,82% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          |            |
 | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |            |
+
+### Akkumulerende, lagerbeskattede
+
+Storebrand har en række prisbillige indeksfonde, som følger verdensindekset MSCI ACWI, men hvor [nogle firmaer fravælges på baggrund af ekstra kriterier](https://www.storebrandfondene.dk/baeredygtighed/frav%C3%A6lgelse/ekstra-kriterier-ud-over-storebrand-standarden).
+
+> Storebrand Standarden dækker over følgende temaer: menneskerettigheder og international ret, korruption, virksomhedskriminalitet, alvorlige klima- og miljøtrusler, kontroversielle våben (landminer, klyngebomber og atomvåben) samt tobak. Derudover bliver selskaber, der er klassificeret lavt i forhold til bæredygtighed (i højrisikoindustrier) også fravalgt.
+
+---<cite>[Storebrand](https://www.storebrandfondene.dk/baeredygtighed/frav%C3%A6lgelse/ekstra-kriterier-ud-over-storebrand-standarden)
+
+| Ticker | Værdipapir                                                                                                      | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
+|--------|-----------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------|
+| STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
+| STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+| STIGEP | [Storebrand Global ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)        | 0,47% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+| STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+| STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |       |
 
 ## Aktive investeringsforeninger og sustainability
 
@@ -144,7 +160,15 @@ Hvis du gerne vil _trade_ lidt mere og selv lave et alsidigt, etisk og bæredygt
 
 Du kan selvfølgelig vælge at investere [Chr. Hansen Holding](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000TB4A&LanguageId=da-DK&SecurityToken=0P0000TB4A]3]0]E0WWE$$ALL) som lige er blevet kåret til **verdens mest bæredygtige virksomhed** ([skriver de selv](https://www.chr-hansen.com/en/media/2019/1/chr-hansen-kret-som-verdens-mest-bredygtige-virksomhed)).
 
+Selvom du fx investerer i Vestas, kommer der naturligvis ikke flere vindmøller, men derfor kan man jo godt have principper om, at man ikke vil være medejer i virksomheder, som ikke har et bæredygtigt fokus. 
+
 Hvis du gerne vil sætte et bæredygtigt aftryk, kan du lade dig inspirere af [AltEnergy Stocks](http://www.altenergystocks.com/archives/category/stock-list/), eller du kan dykke ned i, hvad de ovenstående investeringsforeninger, -fonde og ETF'er har købt i deres porteføljer. Der er i hvert fald masser af mulighed for investere bæredygtigt og have _impact_.
+
+For at vælge bæredygtige investeringer i aktier kan du lade dig inspirere af den gratis app [MakeImpact App](http://makeimpact.io/site/). De vurderer de enkelte firmaer ift. FNs Bæredygtighedsmål.
+
+> Our goal is to enable you to make informed decisions about the companies you want to invest in, and when you are ready – we help you make the investment via your own bank – allowing you to put your money where your heart is.
+
+---<cite>[MakeImpact App](http://makeimpact.io/site/)</cite>
 
 ## Andre typer bæredygtige investeringer
 
@@ -152,7 +176,7 @@ Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men
 
 Jeg har også købt nogle træer gennem [Better Globe](/go/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte.
 
-[Få 10 EUR til at investere i solenergi på Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
+[Få 10 EUR til Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [Få 25 EUR på Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--success }
 
 ## Yderligere inspiration om bæredygtighed
 
