@@ -45,6 +45,7 @@ For mig betyder bæredygtighed også noget. Jeg satser jeg primært på månedso
 | SPVIGAETIK | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 | SPIEMIKL   | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *          |
 | SYIMSTAR   | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |            |
+| DKIGI      | [Danske Invest Global Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                                | 0,44% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 
 ### Akkumulerende danske fonde
 
