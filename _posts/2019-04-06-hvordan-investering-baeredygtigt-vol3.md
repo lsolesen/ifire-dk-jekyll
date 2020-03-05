@@ -142,6 +142,14 @@ I denne tabel kan du se deres Morningstar-vurderinger og årlige omkostninger:
 
 De aktive investeringsforeninger kommer altså med noget højere årlige omkostninger end de passive fonde. Inden du investerer, så læs grundigt om fonden harmonerer med, hvad du gerne vil have ud af dine investeringer.
 
+## Robotinvesteringer i Nord.Investments
+
+[Nord.Investments\*](/go/nord/) er en automatiseret robotinvestering. Du vælger din risikoprofil, og så sørger algoritmerne selv for investeringerne i prisbillige ETF'er. De samlede omkostninger (ÅOP) er 0,75% inkl. de årlige udgifter til fondene, kurtage og så videre. 
+
+Og det bedste er at du kan vælge en såkaldt "ansvarlig portefølje". Hvis du ikke vil sætte dig ind i at sidde og investere selv, så er det en rigtig fin mulighed. Du kan endda få en [gratis investeringsplan fra Nord\*](/go/nord/), som du kan bruge som inspiration, hvis du vælger selv at stå for investeringerne.
+
+[Bæredygtig automatiseret investering i Nord\*](/go/nord/){: .btn .btn--large .btn--info }
+
 ## Udenlandske ETF'er med vægt på BlackRocks iShares
 
 Hos udenlandske ETF’er kan man opnå meget lave årlige omkostninger på selve værdipapiret. Man skal dog være [opmærksom på de omkostninger, der er forbundet ved at købe papirer i en udenlandsk valuta](https://the-international-investor.com/hidden-cost-fx-charges) og at beskatningen er anderledes en aktier (beskatningsreglerne ændres fra 2020).
