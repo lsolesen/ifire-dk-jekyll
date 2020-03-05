@@ -13,6 +13,8 @@ excerpt: "Jeg satser primært på passive investeringsforeninger og ETF’er i m
 last_modified_at: 2019-07-23T10:22:02+02:00
 ---
 
+*[ESG]: Environmental, Social and Governance
+
 Nu har jeg efterhånden fået gang i min portefølje med aktier og obligationer - og derfor vil jeg kigge lidt på, hvordan jeg kan **påvirke verden med mine penge gennem bæredygtige og klimabevidste investeringer**. Jeg satser primært på passive investeringsforeninger og ETF’er i mine egne investeringer, men fortæller også her lidt om aktive investeringsforeninger.
 
 > ”Investerer du 39,000kr i Triodos Renewables Energy Fund svarer den grønne energi fonden genererer til en gennemsnitlig danskers CO2 forbrug.”
@@ -41,16 +43,34 @@ I denne forbindelse vil jeg lige nævne forkortelsen **ESG**. Det står for _env
 
 Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og _impact_-investeringer. De årlige omkostninger er dog også større, og samlet set - og helt egoistisk - vil jeg også gerne have et fint finansielt afkast på mine investeringer.
 
+Så hvad er mine muligheder egentlig?
+
+## Bæredygtighed kan være mange ting
+
+En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig. Den samlede effekt med en _impact_-investering er formentlig noget højere end ved at købe enkeltaktier.
+
+Men det handler også om, hvad din fortolkning af bæredygtighed er. Handler det om miljøet. 
+
 ## Morningstars bæredygtighedsrating
 
 Jeg har slået alle værdipapirerne i denne artikel op på [Morningstar](http://www.morningstar.dk/dk/). Morningstar er et uafhængigt analysebureau, der er kendt for at rangordne investeringsafdelinger overalt i verden. De har to forskellige kategorier. De giver fra en til fem **stjerner** alt efter hvor godt investeringsafdelingerne klarer sig målt på afkast, risiko og omkostninger. De giver også fra en til fem **globusser** alt efter, hvor bæredygtige de enkelte investeringsafdelinger er. 
 
-Dog skal man være opmærksom på, at bæredygtighedsratingen ikke er absolut, men relativ. Det betyder, at bæredygtighedsratingen kigger på, hvor bæredygtige de udvalgte produkter er i forhold til sektoren, de er udvalgt fra. Det betyder fx, at fonde med fossile brændstoffer og kul i porteføljen godt kan få en god rating, hvis bare de udvalgte aktier og obligationer er bedre end gennemsnittet i branchen. På den anden side betyder det også, at [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) kun får tre ud af fem globusser i bæredygtighedsratingen. 
+Dog skal man være opmærksom på, at Morningstars bæredygtighedsrating ikke er absolut, men relativ. Det betyder, at bæredygtighedsratingen kigger på, hvor bæredygtige de udvalgte produkter er i forhold til sektoren, de er udvalgt fra. Det betyder fx, at fonde med fossile brændstoffer og kul i porteføljen godt kan få en god rating, hvis bare de udvalgte aktier og obligationer er bedre end gennemsnittet i branchen. På den anden side kan det også betyde, at [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) kun får tre ud af fem globusser i bæredygtighedsratingen. 
 
-Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfordringer, og man skal stadig læse grundigt på de enkelte værdipapirer. 
+Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfordringer, og man skal stadig læse grundigt på de enkelte værdipapirer.
 
 **Gå selv på jagt efter bæredygtige fonde hos Nordnet**. Du kan selv gå på jagt efter bæredygtige investeringer ved at benytte de nye værktøjer. Du kan lede efter [fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs) og filtrere forskellige parametre. Desværre kan man ikke filtrere på om investeringsstrategien er passiv eller aktiv.
 {: .notice--info}
+
+## Svanemærkede investeringsfonde
+
+Man kan også lade sig inspirere af de svanemærkede investeringsfonde.
+
+> Svanemærkede investeringsfonde skal opfylde 25 obligatoriske krav, der regulerer de forskellige måder, som en fond kan påvirke virksomheder på. Det vil blandt andet sige gennem fravalg og tilvalg af virksomheder samt åbenhed om fondens investeringer. Kravene betyder bl.a., at mindst halvdelen af fondens portefølje skal være investeringer i virksomheder, der har fået en god bedømmelse i en bæredygtighedsanalyse. Samtidig må fonden ikke investere i visse brancher og virksomheder, der er særlig problematiske. Fx skal fonden udelukke virksomheder, der ikke følger internationale normer og konventioner, bl.a. ift. menneskerettigheder, grov korruption og grove miljøovertrædelser. Forvalteren af en svanemærket fond skal hvert kvartal publicere en rapport over, hvilke aktier og obligationer fonden investerer i – og mindst en gang årligt publicere en oversigt over fondens bæredygtighedsaktiviteter. Vær opmærksom på, at Svanemærkning af en fond ikke er nogen garanti for fondens afkast eller for, hvor risikofyldt placeringen er.
+
+---<cite>[Svanemærkede Investeringsfonde](https://www.ecolabel.dk/da/produkter/investeringsfonde/investeringsfonde)
+
+Umiddelbart kan man imidlertid ikke købe nogen af aktiefondene på fx Nordnet, så derfor har jeg ikke undersøgt fondene yderligere.
 
 ## Bæredygtighed i de danske passive indeksfonde
 
@@ -170,11 +190,13 @@ For at vælge bæredygtige investeringer i aktier kan du lade dig inspirere af d
 
 ---<cite>[MakeImpact App](http://makeimpact.io/site/)</cite>
 
+MakeImpact App'en er imidlertid baseret på selskabernes egenevaluering, så du skal som altid også lave din egen research, inden du vælger at investere i noget.
+
 ## Andre typer bæredygtige investeringer
 
 Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men der er naturligvis også andre muligheder for at investere. Fx har jeg investeret i crowdlending gennem [Trine\*](/go/trine/), som har specialiseret sig i at udbyde lån til udviklingsprojekter af især solenergi i Afrika. Ift. andre crowdlending-udbydere er udbyttet begrænset, men formålet er primært at sætte et godt fodaftryk i verden.
 
-Jeg har også købt nogle træer gennem [Better Globe](/go/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte.
+Jeg har også købt nogle træer gennem [Better Globe](/platform/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte. <ins>Overvej dog grundigt om det er en investering for dig ved at [læse mere om platformen](/platform/betterglobe/).</ins>
 
 [Få 10 EUR til Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [Få 25 EUR på Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--success }
 
