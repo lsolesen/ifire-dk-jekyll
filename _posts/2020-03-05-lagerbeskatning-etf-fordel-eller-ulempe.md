@@ -42,6 +42,10 @@ Det kunne altså godt - alt andet lige - se ud til, at det er bedre at søge væ
 De udbyttebetalende danske investeringsforeninger bliver naturligvis også beskattet hvert år, da de betaler udbytte, så der er en løbende skatteindbetaling der skal laves. Fordelen er, at man for den urealiserede værdistigning selv kan bestemme i højere grad, hvornår man vil betale skat af den.
 {: .notice .notice--info }
 
+## Fordele og ulemper ved lagerbeskatning
+
+Den største ulempe ved lagerbeskatning er, at man er skattepligtig, uanset om man har realiseret en gevinst eller ej. Som investor skal man så finde pengene til skattebetalingen et andet sted, fx gennem salg af andre værdipapirer. (Det betyder imidlertid også, at du ikke får en stor skattregning ved salg af dine værdipapirer efter 5-10 år). En anden fordel er, at du som investor år fradrag for et eventuelt tab, uanset om man har valgt at realisere tabet eller ej. Man behøver derfor ikke sælge sine investeringsbeviser for at få fradrag for et evt. tab til modregning i andre værdipapirer med gevinst eller i anden indkomst.
+
 ## Lagerbeskatning af investeringsfonde og ETF’er
 
 Alle ETF’er er lagerbeskattede uanset om de er akkumulerende (geninvesterer automatisk udbyttet) eller distribuerende (betaler udbytte). Du kan få danske indeksforeninger, der er akkumulerende, og så er de også lagerbeskattede i udgangspunktet. 
