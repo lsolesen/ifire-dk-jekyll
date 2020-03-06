@@ -73,10 +73,10 @@ Dow Jones Sustainability Index World (DJSI)
 I de fleste indekser har det amerikanske indeks en stor vægt, og man kan argumentere for, at rigtig mange amerikanske selskaber har en stor international berøringsflade, fx [J. L. Collins](https://jlcollinsnh.com/2012/09/26/stocks-part-xi-international-funds-2/). Derfor har jeg også taget S&P500 indekset med, som primært tracker amerikanske virksomheder. Dette indeks kan man nemlig følge passivt med utrolig lave årlige omkostninger (0,07%).
 
 Morningstar Global Markets Sustainability Leaders (MGMSL)
-: Beskrivelse følger
+: Beskrivelse følger. Du kan [læse lidt mere om indekset hos Morningstar](https://www.morningstar.com/insights/2017/10/20/sustainability-index).
 
 S&P 500
-:S&P 500 (Standard & Poor's 500) er et aktieindeks over 500 store amerikanske virksomheder. Aktierne udvælges af en komité, som repræsenterer et bredt udsnit af alle amerikanske industrier, og altså ikke blot de 500 største virksomheder. Virksomhedernes størrelse er målt på omsætning i aktien, så det er de mest handlede der ligger i S&P 500-indekset.
+: S&P 500 (Standard & Poor's 500) er et aktieindeks over 500 store amerikanske virksomheder. Aktierne udvælges af en komité, som repræsenterer et bredt udsnit af alle amerikanske industrier, og altså ikke blot de 500 største virksomheder. Virksomhedernes størrelse er målt på omsætning i aktien, så det er de mest handlede der ligger i S&P 500-indekset.
 
 ## Hvilke indekser trackes så?
 
