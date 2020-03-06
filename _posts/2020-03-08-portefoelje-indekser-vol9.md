@@ -36,12 +36,10 @@ For at få en høj grad af diversificering, så vil jeg helst følge et indeks, 
 *[FTSE ]:
 *[S&P]: Standard & Poor
 *[MSCI]:
-*[ACWI]:
-*[IMI]:
-*[NR]:
-*[DJSI]:
-
-### Verdensindekser
+*[ACWI]: All Countries World Index
+*[IMI]: Investable Market Index
+*[NR]: Net return
+*[DJSI]: Dow Jones Sustainability Index
 
 FTSE All World
 : FTSE All-World index series er et aktieindeks med 3.100 aktier fra 47 lande - både udviklede og udviklingslande. Det udregnes og udgives af en underafdeling af London Stock Exchange og opstod som et _joint venture_ mellem Financial Times og London Stock Exchange.
