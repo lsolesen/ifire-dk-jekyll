@@ -44,7 +44,7 @@ For at få en høj grad af diversificering, så vil jeg helst følge et indeks, 
 ### Verdensindekser
 
 FTSE All World
-:FTSE All-World index series er et aktieindeks med 3.100 aktier fra 47 lande - både udviklede og udviklingslande. Det udregnes og udgives af en underafdeling af London Stock Exchange og opstod som et _joint venture_ mellem Financial Times og London Stock Exchange.
+: FTSE All-World index series er et aktieindeks med 3.100 aktier fra 47 lande - både udviklede og udviklingslande. Det udregnes og udgives af en underafdeling af London Stock Exchange og opstod som et _joint venture_ mellem Financial Times og London Stock Exchange.
 
 MSCI ACWI (All Countries World Index)
 : Indekset dækker mere end 2.400 bestanddele i _large_ og _mid-cap_ selskaber i forskellige sektorer og fordelt på 49 udviklede og udviklingslande.
