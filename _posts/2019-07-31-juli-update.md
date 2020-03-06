@@ -7,6 +7,14 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "I juli har jeg lejet mit hus ud, fået gang i Gomore, oprettet et nyt affiliate site og så ellers bare investeret videre."
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
+    alt: "The Simple Path to Wealth"
+    title: "The Simple Path to Wealth"
+    excerpt: "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Velkommen til alle jer, der også interesserer sig for at blive finansielt uafhængige og bæredygtighed.
@@ -57,6 +65,8 @@ Jeg startede faktisk med en relativt afklaret investeringsstrategi, men ville og
 Jeg ville først starte med at se J. L. Collins Google Talk omkring hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) - og dernæst ville jeg gå i gang med at læse hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden igen (jeg har allerede læst den, men fik så interesse for udbytteaktier - og jeg skulle bare holde mig til indeksfondene).
 
 Det har jeg [skrevet lidt om](/investering-vol7/). Jeg vil minde mig selv om det og stoppe med at lytte til det vanedannende Millionærklubben, som ikke hjælper en til at blive på den rene index-linje. Men I skal naturligvis ikke snydes for den nuværende status i mine investeringer.
+
+{% include feature_row type="left" %}
 
 Samlet har jeg haft en **XIRR på 4,19% i juli på mine værdipapirer**. Men det er absolut ikke pga. de to porteføljer, hvor jeg har forsøgt at udvælge nogle aktier selv. De er nemlig nede med hhv. -18% og -13%. Bedst går de for mine porteføljer med indeksfonde, mens robotinvestorerne Darwin på 10% og [Nord.Investments\*](/go/nord/) på 6% klarer sig også strålende. Jeg er kommet lidt ned på jorden igen med [EToro\*](/go/etoro/), som havde en helt fantastisk start i sidste måned. Heldigvis tænker jeg langsigtet og glæder mig til at følge _copy trading_ fremover også.
 

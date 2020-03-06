@@ -10,6 +10,14 @@ tags:
   - obligationer
 excerpt: "Nu er det igen tid til at overveje, om jeg holder mig tæt nok til min strategi for investeringer i værdipapirer? Jeg skal igen gøre det enklere og holde følelserne udenfor."
 classes: wide
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
+    alt: "The Simple Path to Wealth"
+    title: "The Simple Path to Wealth"
+    excerpt: "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer, bl.a. fordi jeg vil sørge for at jeg holder min strategi. Det skrev jeg også lidt om tidligere i ['Simple Path to Wealth'](/investering-vol7/).
@@ -136,5 +144,7 @@ Lige nu har jeg DKIGIADKKH og SparNord-aktier. Næste gang SparNord-aktierne giv
 Foreløbig bruger jeg en SPIGLAMRIK på børneopsparingsdepoterne. Det vil egentlig være smartere, hvis det var en akkumulerende fond med lavere omkostninger, så det vil jeg ændre næste gang jeg har mulighed for at investere penge på børneopsparingen.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+
+{% include feature_row type="left" %}
 
 {% include disclaimer.md %}

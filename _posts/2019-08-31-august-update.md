@@ -9,6 +9,8 @@ tags:
 excerpt: "I august måned har jeg fortsat investeret både i aktier, obligationer og crowdlending - og oprettet lidt flere kreditkort."
 ---
 
+*[GA]: Gennemsnitlig anskaffelseskurs
+
 Hey. Fedt du kigger forbi.
 
 I august måned har jeg fortsat investeret både i aktier, obligationer og crowdlending. Jeg har oprettet flere kreditkort fra Santander Consumer Bank, Coopbank og Ikano Bank for at udnytte de fordele, kreditkortene giver. Jeg har (igen) lejet mit hus ud på [AirBnb\*](/go/airbnb/). Endelig har jeg hentet varer til nogle andre gennem Rema 1000’s Vigo App sammen med mine børn, så de kunne tjene lidt lommepenge på et stykke reelt arbejde - og jeg giver stadig [pigerne renter for deres opsparing](/boern-og-oekonomi/).
@@ -19,7 +21,7 @@ Desuden har jeg tilføjet [EstateGuru\*](/go/estateguru/), [Kuflink\*](/go/kufli
 
 ## Aktier og obligationer
 
-Aktiemarkedet har været uroligt. Mine bankaktier fra Danske Bank og Nordea som var tiltænkt min udbytteaktieportefølje er styrtdykket. Men aktierne minder mig om, at jeg er meget mere til passiv indeksinvestering, og så snart udbyttet bliver udbetalt næste år og de forhåbentlig er steget til over min GA-pris, så kommer jeg til at reducere disse positioner til fordel for de passive indeksforeninger igen. Jeg vil huske på, at det er [ganske få superaktier, der skaber hele afkastet også på langt sigt](https://finans.dk/privatokonomi/ECE11549009/ganske-faa-superaktier-skaber-hele-afkastet-de-fleste-aktier-er-rent-tilsaet/?ctxref=ext).
+Aktiemarkedet har været uroligt. Mine bankaktier fra Danske Bank og Nordea som var tiltænkt min udbytteaktieportefølje er styrtdykket. Men aktierne minder mig om, at jeg er meget mere til passiv indeksinvestering, og så snart <del>udbyttet bliver udbetalt næste år og</del> de forhåbentlig er steget til over min GA-pris, så kommer jeg til at reducere disse positioner til fordel for de passive indeksforeninger igen. Jeg vil huske på, at det er [ganske få superaktier, der skaber hele afkastet også på langt sigt](https://finans.dk/privatokonomi/ECE11549009/ganske-faa-superaktier-skaber-hele-afkastet-de-fleste-aktier-er-rent-tilsaet/?ctxref=ext).
 
 ![](https://lh3.googleusercontent.com/uchd2vVYME0G8twjZdiXn81X8KjPUxsSryCaBIlTIP_jv3NISjWMsVj1fFAwGwllBXZfjuD4Jkw0KWkHQxV5QhDVIQqa-y5yMoQmvWxC4uU4eDjUtk4xM3Rf8DlJXqESjgeBwfZJ)
 

@@ -48,6 +48,13 @@ feature_row:
     url: "https://amzn.to/2PBPqm1"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
+    alt: "Your Money or Your Life"
+    title: "Your Money or Your Life"
+    excerpt: "Start the new year with a fully revised edition of one of the most influential books ever written on personal finance with more than a million copies sold"
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=kindle&banner=1TC354VDT7K8N1C85H82&f=ifr&linkID=1b58c3069f2b5eda29b08f6f09072caf&t=ifire00-20&tracking_id=ifire00-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>

@@ -10,6 +10,14 @@ tags:
   - obligationer
 excerpt: "Hold dig til din strategi, når du har lavet den? Eller hvorfor udbytteaktier ikke er noget for mig, når jeg nu vil gøre det enkelt!"
 classes: wide
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
+    alt: "The Simple Path to Wealth"
+    title: "The Simple Path to Wealth"
+    excerpt: "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Jeg havde besluttet mig for en strategi. Jeg ville købe index-fonde - og gøre det enkelt! 
@@ -44,6 +52,8 @@ Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om han
 {% include video id="T71ibcZAX3I" provider="youtube" %}
 
 Så jeg fandt tilbage til min strategi. Og min fremtid er helt sikkert i indeksfondene. Jeg kan endda vælge vælge udbyttebetalende indeksfonde - og stadig få udbytte.
+
+{% include feature_row type="left" %}
 
 ## Lave omkostninger og indeks
 
@@ -199,5 +209,7 @@ Hvad er din strategi, og hvordan sørger du for at holde den?
 [^1]: [Four Pillar Freedom](https://fourpillarfreedom.com/most-individual-stocks-underperform-index-funds/).
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+
+{% include feature_row type="left" %}
 
 {% include disclaimer.md %}
