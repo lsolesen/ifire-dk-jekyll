@@ -60,8 +60,7 @@ Warren Buffetts vigtigste regel inden for investering er dog:
  
 Når jeg læser følgende regler bliver det rigtig tydeligt for mig, hvorfor jeg er _passiv investor_. Jeg er ikke interesseret i at bruge så meget tid på at sætte mig ind i de enkelte virksomheder og selskaber, og så risikere alligevel at vælge forkert.[^note]
  
-[^note]: Hvis du i perioden fra 1989 til 2015 ikke investerede i de 20% mest profitable aktier, så ville dit samlede afkast være 0%. Se mere under [Passiv investering slår aktiv investering
-](/passiv-investering-slaar-aktiv/)
+[^note]: Hvis du i perioden fra 1989 til 2015 ikke investerede i de 20% mest profitable aktier, så ville dit samlede afkast være 0%. Se mere under [Passiv investering slår aktiv investering](/passiv-investering-slaar-aktiv/)
  
 Men Warren Buffett råder faktisk heller ikke længere den _almindelige investor_ til at vælge aktier selv.
  
@@ -77,7 +76,7 @@ Da Warren Buffett grundlagde sin formue og investeringsselskab var tiderne nogle
 
 I [2008 udfordrede Warren Buffett de amerikanske _hedge funds_ til at slå S&P500-indekset](https://www.cnbc.com/2017/08/09/buffett-challenge-hedge-funds-vs-index-funds-9-years-on.html). 9 år senere [rapporterer CNBC](https://www.cnbc.com/2017/08/09/buffett-challenge-hedge-funds-vs-index-funds-9-years-on.html) at porteføljerne fra fem _hedge funds_ i gennemsnit var steget 22%, mens Warren Buffetts valg _Vanguard Admiral Shares S&P Index Fund_ var steget 85,4%.
 
-<iframe width=560 height=349 src=https://player.cnbc.com/p/gZWlPC/cnbc_global?playertype=synd&byGuid=3000643931 frameborder=0 scrolling=no allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen ></iframe>
+<iframe width="560" height="349" src="https://player.cnbc.com/p/gZWlPC/cnbc_global?playertype=synd&byGuid=3000643931" frameborder="0" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen ></iframe>
 
 Det resultat synes jeg taler for sig selv.
 
