@@ -20,7 +20,7 @@ Min primære strategi er at investere i passive indekser som _buy & hold_-invest
 
 Men psykologien som investor kan hurtigt spille dig et puds. Måske kan du se dig selv i denne rutsjetur som investor.
 
-{% include figure image_path="https://steemitimages.com/DQmXFnUnxar4vuTSh891qpD8Vgekk5pe2AthSpdEvkRaFw2/Investment%20behavior.jpg" caption="[Why You Need to Understand Fear and Greed and the Psychology of Investing](https://steemit.com/steemit/@tgheretic/why-you-need-to-understand-fear-and-greed-and-the-psychology-of-investing)""
+{% include figure image_path="https://steemitimages.com/DQmXFnUnxar4vuTSh891qpD8Vgekk5pe2AthSpdEvkRaFw2/Investment%20behavior.jpg" caption="[Why You Need to Understand Fear and Greed and the Psychology of Investing](https://steemit.com/steemit/@tgheretic/why-you-need-to-understand-fear-and-greed-and-the-psychology-of-investing)" %}
 
 Jeg har besluttet mig for at have en _buy & hold_-strategi, fordi den fungerer i det lange løb. John Bogle grundlagde den første indeksfond i Vanguard.
 
@@ -28,7 +28,7 @@ Jeg har besluttet mig for at have en _buy & hold_-strategi, fordi den fungerer i
 
 ---<cite>John Bogle</cite>
 
-{% include video provider="youtube" id="Tk1woz1OQrc" %}
+{% include video provider='youtube' id='Tk1woz1OQrc' %}
 
 Vi kan imidlertid stå overfor to problemer.
 
