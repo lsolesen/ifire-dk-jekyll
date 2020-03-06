@@ -2,6 +2,10 @@
 title: "Passiv investering slår aktiv investering"
 permalink: /passiv-investering-slaar-aktiv/
 last_modified_at: 2020-03-06T13:22:02+02:00
+header:
+  overlay_image: https://blog.foster.uw.edu/wp-content/uploads/2014/11/sharpe_73.jpg
+  teaser: https://blog.foster.uw.edu/wp-content/uploads/2014/11/sharpe_73.jpg
+  caption: [Sharpe’s living laboratory](https://blog.foster.uw.edu/sharpes-living-laboratory/)
 category:
   - Investering
 tags:
