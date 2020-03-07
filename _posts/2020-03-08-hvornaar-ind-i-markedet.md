@@ -67,7 +67,7 @@ Charles Schwab Company lavede i [2012 en undersøgelse](http://retirementdesk.co
 
 Den største udfordring med at forsøge at _time_ markedet er, om man kan ramme _de bedste dage_. Hvis man skal _time_ markedet, er det nemlig virkelig vigtigt, at man investerer på disse dage.
 
-{% include figure image_path="/assets/images/schwab-bestdays.png" caption="Charles Schwab Company [2012 undersøgelse](http://retirementdesk.com/wp-content/uploads/schwab-charts-through-06302011.pdf)" %}
+{% include figure image_path="/assets/images/posts/schwab-bestdays.png" caption="Charles Schwab Company [2012 undersøgelse](http://retirementdesk.com/wp-content/uploads/schwab-charts-through-06302011.pdf)" %}
 
 Undersøgelsen konkluderer, at det vigtigste er at _være på markedet_. Figuren ovenfor viser, at man går glip af en del afkast, hvis man **ikke** var på markedet de bedste dage.
 
