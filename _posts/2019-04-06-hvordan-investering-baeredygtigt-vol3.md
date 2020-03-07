@@ -1,5 +1,5 @@
 ---
-title: "Videre med bæredygtige aktier og obligationer #3?"
+title: "Videre med bæredygtige investeringer i aktier og obligationer #3?"
 permalink: /investering-vol3/
 last_modified_at: 2020-03-038T09:16:18+02:00
 category:
@@ -9,7 +9,7 @@ tags:
   - aktier
   - obligationer
   - bæredygtighed
-excerpt: "Jeg satser primært på passive investeringsforeninger og ETF’er i min værdipapir-portefølje. Hvilke bæredygtige muligheder er der?"
+excerpt: "Hvilke bæredygtige muligheder for investeringer er der i investeringsforeninger og ETF'er?"
 last_modified_at: 2019-07-23T10:22:02+02:00
 ---
 
@@ -24,7 +24,7 @@ Jeg synes CO2 generelt fylder for meget i debatten om bæredygtighed og klimabev
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/da/chris_mcknett_the_investment_logic_for_sustainability" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-## Hvilke typer investeringsformer findes der? 
+## Hvilke typer investeringer findes der? 
 
 1. **Traditionelle investeringer.**  
 Investeringerne har fokus på finansielt afkast og foregår typisk i traditionelle aktier, obligationer, investeringsfonde og ETF’er.
@@ -45,7 +45,7 @@ Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og _impact_-i
 
 Så hvad er mine muligheder egentlig?
 
-## Bæredygtighed kan være mange ting
+## Bæredygtige investeringer kan være mange ting
 
 En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig. Den samlede effekt med en _impact_-investering er formentlig noget højere end ved at købe enkeltaktier.
 
