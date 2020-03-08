@@ -1,6 +1,6 @@
 ---
 title: "Warren Buffett anbefaler en passiv indeksfond"
-permalink: /passiv-investering-slaar-aktiv/
+permalink: /warren-buffett-anbefaler-passive-indekser/
 header:
   overlay_image: https://ei.marketwatch.com/Multimedia/2018/02/27/Photos/ZG/MW-GE504_buffet_20180227174952_ZG.jpg?uuid=85afb6bc-1c10-11e8-91c7-9c8e992d421e
   teaser: https://ei.marketwatch.com/Multimedia/2018/02/27/Photos/ZG/MW-GE504_buffet_20180227174952_ZG.jpg?uuid=85afb6bc-1c10-11e8-91c7-9c8e992d421e

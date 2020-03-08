@@ -96,7 +96,7 @@ Selv holder jeg ikke op med at arbejde, men jeg vil gerne så længe mine børn 
 
 Der er et utal af beregnere rundt omkring på nettet. Jeg kan godt lide beregneren fra [networthify.com](https://networthify.com/calculator/earlyretirement?income=600000&initialBalance=2000000&expenses=300000&annualPct=5&withdrawalRate=4), men beregnerne er naturligvis bare en simpel fremskrivning af værdi - og du ved aldrig helt, hvad fremtiden bringer.
 
-[Hvornår er du økonomisk uafhængig?](https://networthify.com/calculator/earlyretirement?income=600000&initialBalance=2000000&expenses=300000&annualPct=5&withdrawalRate=4)
+[Hvornår er du økonomisk uafhængig?](https://networthify.com/calculator/earlyretirement?income=600000&initialBalance=2000000&expenses=300000&annualPct=5&withdrawalRate=4){: .btn .btn--info }
 
 ## Opsamling
 
