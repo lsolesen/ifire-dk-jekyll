@@ -15,6 +15,14 @@ tags:
   - lump sum
   - buy the dip
 excerpt: "Du kan komme ind i aktiemarkedet på flere måder. Enten ved lump sum, dollar cost averaging eller ved buy the dips. Præmisserne for dine investeringer skal være klare, inden du ved hvordan du skal komme ind i markedet?"
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
+    alt: "The Simple Path to Wealth"
+    title: "The Simple Path to Wealth"
+    excerpt: "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Jeg har virkelig haft mange diskussioner med mig selv. For et års tid skulle jeg omlægge mine investeringer, og derfor stod jeg med et stort uinvesteret beløb i frie midler, jeg ville investere på ny. Min sunde fornuft fortalte mig, at der er et tidspunkt, hvor det er bedst at begynde at investere på. 
@@ -184,5 +192,7 @@ Hvad gør du når markederne skifter eller gerne vil ind på markedet?
 - Hvad er din risikoprofil?
 - Hvad er din tidshorisont? 5 år så er aktier nok ikke sagen, men måske kan du være heldig med at spekulere i dem. På 10 år kan jeg ikke være sikker på den bedste strategi. 20 år er det ret sikkert, at det er bedre at investere løbende efter _dollar cost averaging_.
 - Vil du bruge lang tid på at sætte dig ind i markedet?
+
+{% include feature_row type="left" %}
 
 {% include disclaimer.md %}
