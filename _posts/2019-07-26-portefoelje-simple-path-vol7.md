@@ -82,6 +82,9 @@ Desværre kan man ikke filtrere på fonde, der er en del af Nordnets månedsopsp
 
 **Vigtigt**: Dette er mit bud på, hvordan jeg vil bruge indsigterne fra 'Simple Path to Wealth' i en dansk kontekst. Jeg vil så vidt muligt ramme Vanguards, VT-fond, som er deres internationale fond - og det vil jeg gerne opnå med lavest mulige omkostninger. (Jeg har daglige slagsmål med mig selv, om det ikke bare er smartere at følge det amerikanske S&P 500-indeks).
 
+**VIGTIGT.** VTSAX er udbyttebetalende med omkring 3,5% om året. I det nedenstående har jeg taget en række akkumulerende fonde med, men vil redigere artikelen for bedre at ramme J. L. Collins ideer.
+{: .notice .notice--info }
+
 ### Danske fonde
 
 Hvordan kan jeg følge ´Simple Path to Wealth` gennem danske fonde, der følger indekset?
@@ -123,12 +126,13 @@ Jeg har allerede investeret i nogle prisbillige fonde fra Blackrock i en af mine
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning | Måned | Udbytte | Skat   |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|-------|---------|--------|
 | EUNL | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ)   | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Akk     | Aktie  |
+| IUSN | [BlackRock iShares MSCI World Small Cap UCITS ETF USD (Acc)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001D6Z2)   | 0,35% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | Passiv      |       | Akk     | Aktie  |
 | IS3N | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM)  | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | Passiv      | *     | Akk     | Aktie  |
 | IUSQ | [BlackRock iShares MSCI ACWI UCITS ETF USD (Acc)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000X4V9)              | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | Passiv      |       | Akk     | Aktie  |
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)      | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Akk     | Aktie  |
 | EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)       | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | Passiv      | *     | Dist    | Aktie  |
 
-Hvis man skal matche VTSAX, så kan man supplere EUNL med lidt _emerging markets_ gennem IS3N. Derved får man en omkostning på omkring 0,20% for de to akkumulerende fonde. Her er beskatningen i Danmark dog i øjeblikket lidt mindre gunstig, fordi de lagerbeskattes som <del>kapitalindkomst</del><ins>aktieindkomst, fordi de er på Skats godkendte liste</ins>. [Blackrock har også ESG-screenede ETF’er til 0,20% der er udbyttebetalende](https://next.nordnet.dk/market/etfs?sortField=fund_yearly_fee&sortOrder=asc&freeTextSearch=blackrock&fundType=EQUITY&fundDividendStrategy=INCOME&fundRegionCategories=GLOBAL), hvis man foretrækker det.
+For at dække verdensindekset kan man supplere EUNL med lidt _emerging markets_ gennem IS3N og _small caps_ gennem IUSN. Derved får man en omkostning på omkring 0,23% for de tre akkumulerende fonde. Her er beskatningen i Danmark dog i øjeblikket lidt mindre gunstig, fordi de lagerbeskattes som <del>kapitalindkomst</del><ins>aktieindkomst, fordi de er på Skats godkendte liste</ins>. [Blackrock har også ESG-screenede ETF’er til 0,20% der er udbyttebetalende](https://next.nordnet.dk/market/etfs?sortField=fund_yearly_fee&sortOrder=asc&freeTextSearch=blackrock&fundType=EQUITY&fundDividendStrategy=INCOME&fundRegionCategories=GLOBAL), hvis man foretrækker det.
 
 #### X-trackers
 
