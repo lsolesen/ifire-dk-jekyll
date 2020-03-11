@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Investering kan være ret simpelt. (Faktisk kan det være meget mere udbytterigt end konstant at sidde og justere sine investeringer). Men der er alligevel nogle ting, du skal gøre dig klart. J. L. Collins beskriver i Simple Path To Wealth to faser i dit investeringsliv.
+Investering kan være ret simpelt. (Faktisk kan det være meget mere udbytterigt end konstant at sidde og justere sine investeringer). Men der er alligevel nogle ting, du skal gøre dig klart. J. L. Collins beskriver i [Simple Path To Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) to faser i dit investeringsliv.
 
 - **Opbygning af formue**. Den periode hvor du arbejder, sparer op og investerer. Hvis finansiel uafhængighed er dit mål, så skal din opsparingsrate være høj. Hvis du investerer penge løbende i perioden, så bliver rutjsebaneturen på markedet lidt mere glat. Måske tager du en lidt højere risiko i denne fase.
 - **Vedligeholdelse af formue**. Når du ikke længere har en indkomst, så vil du gerne have at pengene mere tilgængelige. Måske sænker du din risiko i denne periode, fx ved obligationer i porteføljen.
