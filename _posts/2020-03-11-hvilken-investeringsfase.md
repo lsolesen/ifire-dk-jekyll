@@ -1,6 +1,6 @@
 ---
 title: "Hvilken investeringsfase er du i? Opbygning eller vedligeholdelse?"
-last_modified_at: 2020-03-1T09:20:02+02:00
+last_modified_at: 2020-03-11T09:20:02+02:00
 permalink: /hvilken-investeringsfase/
 category:
   - Investering
