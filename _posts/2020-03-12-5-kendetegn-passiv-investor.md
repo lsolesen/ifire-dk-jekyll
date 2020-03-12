@@ -1,7 +1,7 @@
 ---
 title: "5 kendetegn for den passive, langsigtede investor"
 last_modified_at: 2020-03-12T09:20:02+02:00
-permalink: /hvilken-investeringsfase/
+permalink: /5-kendetegn-passiv-investor/
 category:
   - Investering
 tags:
