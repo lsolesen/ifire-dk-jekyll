@@ -33,9 +33,9 @@ For at få en høj grad af diversificering, så vil jeg helst følge et indeks, 
 
 ## Verdensindekser
 
-*[FTSE ]:
+*[FTSE ]: Financial Times Stock Exchange Index
 *[S&P]: Standard & Poor
-*[MSCI]:
+*[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
 *[ACWI]: All Countries World Index
 *[IMI]: Investable Market Index
 *[NR]: Net return
