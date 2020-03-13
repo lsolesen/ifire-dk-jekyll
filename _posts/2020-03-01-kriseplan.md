@@ -18,9 +18,9 @@ Aktiemarkederne kan hele tiden blive ramt af udfordringer og op- og nedgange. De
 
 Så længe det går godt på aktiemarkederne er det let at investere - og det er let at holde sig til en _buy & hold_ strategi.
 
-Men hvad nu, hvis vi havner i en økonomisk krise? Når folk mister deres arbejde, bliver trukket i løn, eller store aktieselskaber lukker og slukker? Eller når en verdensomspændende virus truer som fx SARS eller Coronavirus.
+Men hvad sker der, når vi havner i en økonomisk krise? Folk bliver bekymrede. Folk mister deres arbejde, bliver trukket i løn, eller store aktieselskaber lukker og slukker? Eller når en verdensomspændende virus truer som fx SARS eller Coronavirus.
 
-Min primære strategi er at investere i passive indekser som _buy & hold_-investor. Svaret er egentlig lige til: Vi sælger ikke vores investeringer. Vi ser i stedet situationen som et tidspunkt, hvor det måske endda kan betale sig at købe ekstra ind. Vi ser situationen som Black Friday og Cyber Monday for aktier. Når vi køber billigt kan vi få et højere afkast i sidste ende.
+Min primære strategi er at investere i passive indekser som _buy & hold_-investor. Svaret er derfor egentlig lige til: Jeg sælger ikke vores investeringer. Jeg ser i stedet situationen som et tidspunkt, hvor det måske endda kan betale sig at købe ekstra ind. Vi ser situationen som Black Friday og Cyber Monday for aktier. Når vi køber billigt kan vi få et højere afkast i sidste ende.
 
 Men psykologien som investor kan hurtigt spille dig et puds. Måske kan du se dig selv i denne rutsjetur som investor.
 

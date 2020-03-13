@@ -186,6 +186,8 @@ Hvis markederne falder, så kigger jeg på min samlede økonomi og ser om der er
 - **En større sum**. Hvis jeg har en større sum, jeg skal have investeret på en gang, så er min strategi følgende. På Nordnet hvor minimumskurtagen er 29DKK deler jeg mine ordrer op i mindre portioner af 29.000 DKK stykket. Med mindre jeg er helt sikker på, at den nuværende pris er den bedst mulige, så giver jeg ordrerne lidt forskellige _limit_ priser. 
 - **Månedsopsparing**. Hver måned investerer jeg på Nordnets månedsopsparing, så mine investeringer er automatiseret. Jeg har sat en automatisk overførsel op, og så sørger månedsopsparingen for at købe _kurtagefrit_ hver eneste måned.
 
+Jeg har her under Corona lidt af FOMO hver gang, der har været et fald i aktiemarkedet. For tænk hvis nu jeg ikke når at købe i _dippet_. Men jeg har jo ikke brug for at nå at købe i dippet. Hvis markedet går opad igen, så er der ikke sket noget. Hvis til gengæld markedet fortsætter nedad, så ville jeg senere få endnu mere rabat ved bare at lade månedsopsparingen gøre købet.
+
 Hvad gør du når markederne skifter eller gerne vil ind på markedet?
 
 - Hvad kan du tåle at tabe?
