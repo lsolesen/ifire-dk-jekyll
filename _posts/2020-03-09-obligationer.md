@@ -117,11 +117,11 @@ Forskellen på kort sigt kan være relativt høj i afkast, men på længere sigt
 
 De fleste obligationsfonde betaler udbytte. Det betyder, at du ikke bare kan kigge på en graf med kursværdien for en obligationsafdeling for at se afkastet af en investering i obligationer. Du vil fx lægge mærke til at kursen ligger inden for et meget lille kursudsving.
 
-{% include figure image_path="/assets/images/book/spisokl-udvikling.png" caption="[Kursgraf for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL) fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7&tab=13)" %}
+{% include figure image_path="/assets/images/book/spisokla-udvikling.png" caption="[Kursgraf for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL) fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7&tab=13)" %}
 
 Hvis man til gengæld kigger på vækstgrafen som inkluderer udbytter, så ser det sådan her ud. Ikke en imponerende vækst, men det er jo heller ikke formålet med obligationer.
 
-{% include figure image_path="/assets/images/book/spisokl-growth.png" caption="[Vækstgraf for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL)  fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7&tab=13)" %}
+{% include figure image_path="/assets/images/book/spisokla-growth.png" caption="[Vækstgraf for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL)  fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7&tab=13)" %}
 
 ## Indekser for obligationer
 
@@ -165,7 +165,7 @@ Obligationer i porteføljen er formentlig en god ide, fordi de kan være med til
 
 I praksis kan du gå ind på [Morningstar](http://www.morningstar.dk/) og slå den obligation op, du er interesseret i. Hvis du vil vurdere risikoen i obligationsfonden, kan du kigge efter Morningstar Stylebox.
 
-{% include figure image_path="/assets/images/book/spisokl-growth.png" caption="[Morningstar Stylebox for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL)  fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7). Den viser noget om rentefølsomheden - altså hvor lange obligationerne er - og om kreditkvaliteten i firmaerne - altså noget om kreditvurderingen af dem pengene er lånt ud til." %}
+{% include figure image_path="/assets/images/book/spisokla-growth.png" caption="[Morningstar Stylebox for Sparinvest INDEX Stabile Obligationer KL A (SPISOKL)  fra Morningstar](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000000GS7). Den viser noget om rentefølsomheden - altså hvor lange obligationerne er - og om kreditkvaliteten i firmaerne - altså noget om kreditvurderingen af dem pengene er lånt ud til." %}
 
 Hvis du ikke kan finde en obligationsfond, hvor afkastet bliver højt nok til at det kan betale sig, så kan du finde en (høj)rente-konto, hvor du kan have et kontant indskud. Selv en lille rente kan betyde noget i din samlede portefølje.
 
