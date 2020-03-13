@@ -1,7 +1,9 @@
 ---
-title: "5 fordele ved langsigtet _buy and hold_, passiv investering"
+title: "5 fordele ved passiv, langsigtet buy and hold investering"
 last_modified_at: 2020-03-13T09:20:02+02:00
-permalink: /5-grund-buy-hold/
+permalink: /5-grunde-buy-hold/
+redirect_from:
+  - /5-grund-buy-hold/
 category:
   - Investering
 tags:
