@@ -5,6 +5,28 @@ permalink: /inspiration/
 excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed og tidlig pensionering."
 author_profile: true
 classes: wide
+feature_row_setup:
+  - image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=0B2r5iwetmG48WkZwVk11UTlmM2dobzNfLUVqeVdZbDNtWXhB&w=300&h=200&a=attention&t=square
+    alt: "Forside til årsskrift 2018"
+    title: "Bank"
+    excerpt: "Som bank bruger jeg [Lunar](/go/lunar/), og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/) til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
+    url: "/aarsskrift/2018/"
+    btn_label: "Læs årsskriftet"
+    btn_class: "btn--primary"
+  - image_path: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E&w=300&h=200&a=attention&t=square
+    alt: "Højskolens begyndelse"
+    title: "Investering"
+    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/) til min månedsopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto."
+    url: "/dji-start/"
+    btn_label: "Læs artiklen"
+    btn_class: "btn--primary"
+  - image_path: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXb0lvbGt2SHpqaTQ&w=300&h=200&a=attention&t=square
+    alt: "Tidslinjer fra skolen"
+    title: "Opsparing"
+    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/) og [Kraken](/go/kraken/) til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian) til en opsparingskonto."
+    url: "/tidslinjer/"
+    btn_label: "Få overblik"
+    btn_class: "btn--primary"
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
@@ -57,7 +79,11 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=kindle&banner=1TC354VDT7K8N1C85H82&f=ifr&linkID=1b58c3069f2b5eda29b08f6f09072caf&t=ifire00-20&tracking_id=ifire00-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+## Min privatøkonomi
+
+{% include feature_row id="feature_row_setup" %}
+
+## Bliv klogere med Saxo
 
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde masser af inspiration investering og finansiel uafhængighed. Her kommer nogle af mine favoritter. Jeg forsøger at læse mindst en time dagligt om emner, der intereserer mig.
 
