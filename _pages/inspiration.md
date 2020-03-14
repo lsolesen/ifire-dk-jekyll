@@ -6,27 +6,18 @@ excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed
 author_profile: true
 classes: wide
 feature_row_setup:
-  - image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=0B2r5iwetmG48WkZwVk11UTlmM2dobzNfLUVqeVdZbDNtWXhB&w=300&h=200&a=attention&t=square
-    alt: "Forside til årsskrift 2018"
+  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    alt: "Bank"
     title: "Bank"
-    excerpt: "Som bank bruger jeg [Lunar](/go/lunar/), og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/) til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
-    url: "/aarsskrift/2018/"
-    btn_label: "Læs årsskriftet"
-    btn_class: "btn--primary"
-  - image_path: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXVWFJY2MxZ29UT0E&w=300&h=200&a=attention&t=square
-    alt: "Højskolens begyndelse"
+    excerpt: "Som bank bruger jeg [Lunar](/go/lunar/) (reklamelink), og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/) (reklamelink) til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    alt: "Investering"
     title: "Investering"
     excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/) til min månedsopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto."
-    url: "/dji-start/"
-    btn_label: "Læs artiklen"
-    btn_class: "btn--primary"
-  - image_path: //images.weserv.nl/?url=drive.google.com/uc?id=0B5v4mAibvkKXb0lvbGt2SHpqaTQ&w=300&h=200&a=attention&t=square
-    alt: "Tidslinjer fra skolen"
+  - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
+    alt: "Opsparing"
     title: "Opsparing"
     excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/) og [Kraken](/go/kraken/) til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian) til en opsparingskonto."
-    url: "/tidslinjer/"
-    btn_label: "Få overblik"
-    btn_class: "btn--primary"
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
