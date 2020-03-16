@@ -133,6 +133,16 @@ Dan Ariely skriver i [Predictably Irrational\*](https://www.partner-ads.com/dk/k
 
 Når vi investerer, skal vi altså kigge på fremtiden og ikke på fortiden. Du skal altså kigge på, hvad der vil ske, hvis jeg investerer i dag. Ellers risikerer du at lade følelserne styre, hvad du gør. Du skal med andre ord lave en strategi for, hvordan dine investeringer skal se ud.
 
+[Dan Ariely forslår bl.a.](https://acquirersmultiple.com/2018/06/dan-ariely-3-simple-tricks-to-help-investors-overcome-their-internal-biases/)
+
+1. Tænk på dig selv som en rådgiver. Hvad vil du rådgive andre til? På den måde undgår du nogle af de _biases_, du kan være påvirket af.
+2. Tænk langsigtet. Er det noget du vil gøre, hvis du skal tage beslutningen mange gange.
+3. Hvad ville der ske, hvis det er en større beslutning.
+
+Ved at tænke på det på den måde, så er der mindre risiko for at du (ubevidst) narrer dig selv.
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6634720/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/de0209/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## Læs mere
 
 [A dozen lessons about investing and monney from Dan Ariely](https://25iq.com/2017/09/01/a-dozen-lessons-about-investing-and-money-from-dan-airely/)
