@@ -12,14 +12,14 @@ feature_row:
   - image_path: https://imgcdn.saxo.com/_9788711533284/0x500
     alt: "At tænke - hurtigt og langsomt"
     title: "At tænke - hurtigt og langsomt"
-    excerpt: "Daniel Kahneman giver os i At tænke - hurtigt og langsomt  et unikt indblik i den menneskelige bevidsthed og i de to systemer, som driver den måde, vi tænker på: System 1 er hurtigt, intuitivt og følelsesdrevet; System 2 er langsomt, rationelt og logisk. Ved at trække på erfaringerne fra eksperimenter foretaget gennem et helt liv afslører Daniel Kahneman, hvornår vi kan stole på den hurtige tænknings intuition, og hvordan vi kan drage fordel af den langsomme tænkning."
+    excerpt: "Daniel Kahneman giver os i At tænke - hurtigt og langsomt et unikt indblik i den menneskelige bevidsthed og i de to systemer, som driver den måde, vi tænker på: System 1 er hurtigt, intuitivt og følelsesdrevet; System 2 er langsomt, rationelt og logisk. Ved at trække på erfaringerne fra eksperimenter foretaget gennem et helt liv afslører Daniel Kahneman, hvornår vi kan stole på den hurtige tænknings intuition, og hvordan vi kan drage fordel af den langsomme tænkning."
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/at-taenke-hurtigt-og-langsomt_daniel-kahneman_haeftet_9788711533284
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: https://imgcdn.saxo.com/_9781324002185/0x500
     alt: "A Random Walk Down Wall Street"
     title: "A Random Walk Down Wall Street"
-    excerpt: "Today's stock market is not for the faint hearted. At a time of frightening volatility, the answer is to turn to Burton G. Malkiel's advice in his reassuring, authoritative, gimmick-free and perennially best-selling guide to investing. Long established as the first book to purchase before starting a portfolio, A Random Walk Down Wall Street now features new material on "tax-loss harvesting"; the current bitcoin bubble and automated investment advisers; as well as a brand-new chapter on factor investing and risk parity."
+    excerpt: "Today's stock market is not for the faint hearted. At a time of frightening volatility, the answer is to turn to Burton G. Malkiel's advice in his reassuring, authoritative, gimmick-free and perennially best-selling guide to investing. Long established as the first book to purchase before starting a portfolio, A Random Walk Down Wall Street now features new material on _tax-loss harvesting_; the current bitcoin bubble and automated investment advisers; as well as a brand-new chapter on factor investing and risk parity."
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/a-random-walk-down-wall-street_burton-g-malkiel_hardback_9781324002185
     btn_label: "Læs mere"
     btn_class: "btn--success"
