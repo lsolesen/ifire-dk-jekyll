@@ -54,6 +54,8 @@ Men min strategi har ikke båret særligt frugt. Niveauet på markedet er nogenl
 
 Men det er ikke det eneste problem med at forsøge at _time_ markedet. Men det kommer jeg tilbage til.
 
+[Prøv om du kan time markedet](https://www.personalfinanceclub.com/time-the-market-game/){: .btn .btn--large .btn--info }
+
 ## Tidshorisonten er afgørende
 
 Jeg har læst mange diskussioner, hvor folk på baggrund af den ene eller anden nyhed forslår andre investorer at vente indtil markedet er gået ned - og i stedet spare pengene op (buy the dip). En anden gruppe foreslår, at de skal sørge for at få investeret med det samme, fx efter _dollar vist averaging_ eller _lump sum_-princippet. 
@@ -194,6 +196,8 @@ Hvad gør du når markederne skifter eller gerne vil ind på markedet?
 - Hvad er din risikoprofil?
 - Hvad er din tidshorisont? 5 år så er aktier nok ikke sagen, men måske kan du være heldig med at spekulere i dem. På 10 år kan jeg ikke være sikker på den bedste strategi. 20 år er det ret sikkert, at det er bedre at investere løbende efter _dollar cost averaging_.
 - Vil du bruge lang tid på at sætte dig ind i markedet?
+
+[Udregn din formue over tid](https://www.personalfinanceclub.com/investment-growth-retirement-calculator/){: .btn .btn--large .btn-success }
 
 {% include feature_row type="left" %}
 
