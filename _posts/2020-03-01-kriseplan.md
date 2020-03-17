@@ -26,7 +26,7 @@ Men psykologien som investor kan hurtigt spille dig et puds. Måske kan du se di
 
 {% include figure image_path="https://steemitimages.com/DQmXFnUnxar4vuTSh891qpD8Vgekk5pe2AthSpdEvkRaFw2/Investment%20behavior.jpg" caption="[Why You Need to Understand Fear and Greed and the Psychology of Investing](https://steemit.com/steemit/@tgheretic/why-you-need-to-understand-fear-and-greed-and-the-psychology-of-investing)" %}
 
-Jeg har besluttet mig for at have en _buy & hold_-strategi, fordi den fungerer i det lange løb. John Bogle grundlagde den første indeksfond i Vanguard.
+Jeg har besluttet mig for at have en _buy & hold_-strategi med passivt forvaltede indeksfonde, fordi den fungerer i det lange løb. John Bogle grundlagde den første indeksfond i Vanguard.
 
 > “Don’t do something, just stand there”
 
@@ -90,7 +90,11 @@ Den største risiko under en krise er altså, at jeg bliver nødt til at sælge 
 
 ## Under krisen
 
-Hvis du er forberedt før krisen med din _buy & hold_strategi og er maksimalt investeret, så bør krisen ikke bekymre dig.
+Hvis du er forberedt før krisen med din _buy & hold_-strategi og er maksimalt investeret, så bør krisen ikke bekymre dig.
+
+Du skal med andre ord stole på, at din strategi med at købe ind efter _dollar cost averaging_ i passivt forvaltede indeksfonde med en _buy & hold_-strategi fører dig sikkert gennem en evt. krise.
+
+{% include video provider="youtube" id="OgVqE3peiHo" %}
 
 Under krisen skal du huske på din egen strategi - og du kan holde dig til John Bogles citat:
 
@@ -98,7 +102,7 @@ Under krisen skal du huske på din egen strategi - og du kan holde dig til John 
 
 ---<cite>John Bogle</cite>
 
-En diversificeret portefølje holdt med _buy & hold_-strategien har fungeret i rigtig mange år - og har klaret 1. verdenskrig, den store depression i 1929, 2. Verdenskrig, dot.com-boblen og finanskrisen i 2007. 
+En diversificeret portefølje med _buy & hold_-strategien har fungeret i rigtig mange år - og har klaret 1. verdenskrig, den store depression i 1929, 2. Verdenskrig, dot.com-boblen og finanskrisen i 2007. 
 
 Nogle vil måske overtale dig til at sælge ud, men så er du helt sikker på at tabe penge. Andre vil overtale dig til at investere og tjene hurtige penge. Hold ud. Hold dig til strategien.
 
