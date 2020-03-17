@@ -1,5 +1,5 @@
 ---
-title: "Hvordan får jeg et bredt aktieverdensindeks #9"
+title: "Hvordan investerer jeg i et bredt aktieverdensindeks #9"
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
 category:
@@ -8,7 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
-excerpt: "Nu er det igen tid til at overveje, om jeg holder mig tæt nok til min strategi for investeringer i værdipapirer? Jeg skal igen gøre det enklere og holde følelserne udenfor."
+excerpt: "Hvad er et bredt verdensindeks, når man snakker om investeringer i aktier?"
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
@@ -19,6 +19,18 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
+
+*[FTSE]: Financial Times Stock Exchange Index
+*[S&P]: Standard & Poor
+*[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
+*[ACWI]: All Countries World Index
+*[IMI]: Investable Market Index
+*[NR]: Net return
+*[DJSI]: Dow Jones Sustainability Index
+
+Når jeg skriver om verdensmarkedet, så handler det om aktier. Der er flere forskellige virksomheder, der arbejder med at sammensætte indekser. Hvis du deltager i diskussioner om verdensindekset, skal du altså vide nøjagtigt hvilket indeks, der refereres til.
+
+## Hvorfor er jeg interesseret i verdensindekset?
 
 Jeg investerer på langt sigt. Jeg investerer efter to principper:
 
@@ -33,22 +45,30 @@ For at få en høj grad af diversificering, så vil jeg helst følge et indeks, 
 
 ## Verdensindekser
 
-*[FTSE ]: Financial Times Stock Exchange Index
-*[S&P]: Standard & Poor
-*[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
-*[ACWI]: All Countries World Index
-*[IMI]: Investable Market Index
-*[NR]: Net return
-*[DJSI]: Dow Jones Sustainability Index
+Der er forskellige typer verdensindekser. Det mest brugt er MSCI, men FTSE nævnes også ofte i forskellige sammenhænge.
 
-FTSE All World
-: FTSE All-World index series er et aktieindeks med 3.100 aktier fra 47 lande - både udviklede og udviklingslande. Det udregnes og udgives af en underafdeling af London Stock Exchange og opstod som et _joint venture_ mellem Financial Times og London Stock Exchange.
+Generelt deles verden i aktiemæssig forstand ofte op i tre forskellige dele.
 
-MSCI ACWI (All Countries World Index)
+- Developed markets,
+- Emerging markets &
+- Frontier markets
+
+Du kan se i følgende figur fra MSCI, hvordan markederne hænger sammen. Her kan du fx se, at MSCI AWCI dækker hele verden, mens MSCI World dækker udviklede lande og MSCI Emerging dækker udviklingslande. Frontiermarkeder er i den markedsmæssige forståelse altså nederste trin på udviklingen.
+
+{% include figure image_path="https://www.msci.com/documents/1296102/14634018/Market+Classification+Chart+-+2019.jpg/93723bb1-b154-1c2a-b9bd-faa8e38521f4?t=1559107458844" caption="Opdeling af MSCI AWCI i developed, emerging og frontier markets. Fra [msci.com](http://www.msci.com)" %}
+
+For MSCI ACWI er der tre forskellige fortolkninger af indekset alt efter hvor store firmaerne skal være for at være inkluderet i indekset.
+
+MSCI ACWI (All Countries World Index) ([Factsheet](https://www.msci.com/documents/10199/b93d88ef-632f-4bdb-9069-d7c5aecd9d6d))
 : Indekset dækker mere end 2.400 bestanddele i _large_ og _mid-cap_ selskaber i forskellige sektorer og fordelt på 49 udviklede og udviklingslande.
 
-MSCI ACWI Investable Market Index (IMI)
+MSCI ACWI Investable Market Index (IMI) ([Factsheet](https://www.msci.com/documents/10199/b93d88ef-632f-4bdb-9069-d7c5aecd9d6d))
 : Dækker mere end 9.000 bestanddele på tværs af virksomheder i _large, mid and small-cap_ på tværs af sektorer og fordelt på 49 udviklede og udviklingslande. 
+
+MSCI ACWI All Cap Index ([Factsheet](https://www.msci.com/documents/10199/1fbb5ec6-b5d2-4806-b873-cd9f51551701))
+: Dækker mere end 14.000 bestanddele og inkluderer large, mid, small og micro-cap størrelser af virksomheder for udviklede lande og large, mid, small-cap for emerging markets.
+
+Ud over MSCI AWCI er det også godt at kende de lidt mere begrænsede indekser. MSCI World har det ret misvisende navn _World_, selvom det kun dækker udviklingslandene.
 
 MSCI World
 : MSCI World indeholder 23 udviklede lande med Europa, Nordamerika og Japan og indeholder 1.644 bestanddele.
@@ -60,27 +80,36 @@ Hvad betyder lav volatilitet egentlig på aktiemarkedet - og er risikoen i virke
 
 {% include video id="xUbJ21WcUWA" provider="youtube" %}
 
-Hvis du fx køber iShares MSCI World (EUNL), men gerne vil dække hele verden, kan du altså supplere den med iShares MSCI Emerging markets.
-
 MSCI Emerging
 : MSCI World indeholder 26 udviklingslande og indeholder >1.100 bestanddele.
 
-### Bæredygtige indekser
+Endelig er der to andre ret brugte indekser, som jeg synes er gode at nævne i denne sammenhæng.
 
-Dow Jones Sustainability Index World (DJSI)
-: DJSI World er baseret på de 2500 største firmaer i Dow Jones Global Total Stock Market Index (DJGTSMI). Det dækker de 10% af firmaerne, der scorer bedst på økonomiske, miljømæssige og sociale kriterier, og indekset indeholder omkring 300 firmaer i 57 industrigrupper fordelt på 51 lande. Indekset er også etisk screenet. Indekset er altså et ret bredt indeks i forhold til industrigrupper og lande, men jo lidt mere snævert ift. antallet af bestanddele i indekset.
+FTSE All World
+: FTSE All-World index series er et aktieindeks med 3.100 aktier fra 47 lande - både udviklede og udviklingslande. Det udregnes og udgives af en underafdeling af London Stock Exchange og opstod som et _joint venture_ mellem Financial Times og London Stock Exchange.
 
 I de fleste indekser har det amerikanske indeks en stor vægt, og man kan argumentere for, at rigtig mange amerikanske selskaber har en stor international berøringsflade, fx [J. L. Collins](https://jlcollinsnh.com/2012/09/26/stocks-part-xi-international-funds-2/). Derfor har jeg også taget S&P500 indekset med, som primært tracker amerikanske virksomheder. Dette indeks kan man nemlig følge passivt med utrolig lave årlige omkostninger (0,07%).
-
-Morningstar Global Markets Sustainability Leaders (MGMSL)
-: Beskrivelse følger. Du kan [læse lidt mere om indekset hos Morningstar](https://www.morningstar.com/insights/2017/10/20/sustainability-index).
 
 S&P 500
 : S&P 500 (Standard & Poor's 500) er et aktieindeks over 500 store amerikanske virksomheder. Aktierne udvælges af en komité, som repræsenterer et bredt udsnit af alle amerikanske industrier, og altså ikke blot de 500 største virksomheder. Virksomhedernes størrelse er målt på omsætning i aktien, så det er de mest handlede der ligger i S&P 500-indekset.
 
+### Bæredygtige indekser
+
+Der findes også en række bæredygtige indekser, som altså er screenet for at virksomhederne kan inkluderes i indekset.
+
+Dow Jones Sustainability Index World (DJSI)
+: DJSI World er baseret på de 2500 største firmaer i Dow Jones Global Total Stock Market Index (DJGTSMI). Det dækker de 10% af firmaerne, der scorer bedst på økonomiske, miljømæssige og sociale kriterier, og indekset indeholder omkring 300 firmaer i 57 industrigrupper fordelt på 51 lande. Indekset er også etisk screenet. Indekset er altså et ret bredt indeks i forhold til industrigrupper og lande, men jo lidt mere snævert ift. antallet af bestanddele i indekset.
+
+Morningstar Global Markets Sustainability Leaders (MGMSL)
+: Beskrivelse følger. Du kan [læse lidt mere om indekset hos Morningstar](https://www.morningstar.com/insights/2017/10/20/sustainability-index).
+
 ## Hvilke indekser trackes så?
 
 Jeg har primært koncentreret mig om at finde nogle passive fonde, der kan give mig en eksponering mod et bredt verdensindeks. Jeg har i det følgende angivet hvilket indeks de hver især følger, og hvor mange bestanddele der er i indekset.
+
+Hvis du ønsker at investere i verdensmarkedet, så skal du altså ramme MSCI ACWI. Det kan gøres med en fond i nogen sammenhænge, men du kan også kombinere to fonde. Hvis du fx køber iShares MSCI World (EUNL), kan du supplere den med iShares MSCI Emerging markets og på den måde får du ramt MSCI AWCI.
+
+I det følgende har jeg listet forskellige danske investeringsafdelinger og udenlandske ETF'er, der kan bruges til at etablere en aktieportefølje, hvor vi rammer verdensindekset.
 
 ### Udbyttebetalende danske fonde - realisationsbeskattede
 
@@ -94,11 +123,11 @@ Jeg har primært koncentreret mig om at finde nogle passive fonde, der kan give 
 | DKIGI        | [Danske Invest Global Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                                | MSCI World                    | >1.570      | 0,44% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 | DK0010207141 | [Danske Invest Fjernøsten Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                            | MSCI AC Asia ex Japan Index   | >740        | 0,61% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 
-SparInvests SPVIGAKL følger altså det bredeste verdensindeks, fordi den også inkluderer emerging markets. Til gengæld er Danske Invests DKIGI der kun inkluderer udviklede lande noget billigere i ÅOP, og kan suppleres med fx Sparinvests emerging markets fond: SPIEMIKL.
+SparInvests SPVIGAKL følger altså det bredeste verdensindeks MSCI ACWI IMI. Til gengæld er Danske Invests Global Indeks (DKIGI), der kun inkluderer udviklede lande, noget billigere i ÅOP, og kan suppleres med fx Sparinvests Emerging Markets (SPIEMIKL) eller med Danske Invest Fjernøsten Indeks.
 
 ### Akkumulerende danske fonde - lagerbeskattede
 
-Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er fondene fra Storebrand lagerbeskattet (de var tidligere realisationsbeskattet, selvom de var akkumulerende). STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger je en af de akkumulerende fonde på min kapitalpension.
+Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst efter lagerprincippet. Storebrands Alle Markeder A5 (STIIAM) har attraktive årlige omkostninger (ÅOP). Fordi den er akkumulerende kan den være god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger jeg en af de akkumulerende fonde på min kapitalpension, men den kan også med fordel bruges i depoter som i forvejen er lagerbeskattede (som aktiesparekontoen og pensionsdepoter).
 
 | Ticker     | Værdipapir                                                                                                      | Indeks                   | Beholdning | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
 |------------|-----------------------------------------------------------------------------------------------------------------|--------------------------|------------|-------|------------------------------------------|------------------------------------------|-------|
@@ -106,7 +135,7 @@ Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskatte
 | STIGEP     | [Storebrand Global - ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)      | MSCI ACWI - ESG screenet | >490       | 0,47% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | MSCI World               | >1.570     | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 
-Fordelen ved Storebrands fonde er, at de følger et bredt verdensindeks inklusive udviklede lande - og samtidig er omkostningerne ret lave.
+Fordelen ved Storebrands fonde er, at de følger det brede verdensindeks MSCI ACWI, så du kan nøjes med en fond. Samtidig er omkostningerne ret lave.
 
 ### Udenlandske ETF'er - lagerbeskattede
 
