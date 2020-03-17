@@ -65,7 +65,7 @@ Men at svarer på _Hvorfor?_ er ikke nødvendigvis let. Vi er alle indfældet i 
 
 Hvis du gerne vil i gang med at investere, så er det godt at stille sig de samme spørgsmål. 
 
-- **Hvorfor** vil du gerne investere? Jeg vil gerne investere for at få et passivt afkast af mine penge.
+- **Hvorfor** vil du gerne investere? Jeg investerer for at disciplin i min privatøkonomi og for at få et passivt afkast af mine penge, som kan bruges til frihed.
 - **Hvordan** vil du gerne investere? Jeg vil gerne bruge så lidt tid som muligt på at investere, og jeg vil gerne så vidt muligt følge verdensmarkedet.
 - **Hvad** vil du gerne investere i? Jeg investerer i passivt forvaltede indeksfonde, som hvert år giver et udbytte, så jeg har en løbende udbetaling fra mine investeringer. Jeg investerer automatisk gennem månedsopsparingen på [Nordnet\*](/go/nordnet/).
 
