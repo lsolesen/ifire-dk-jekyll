@@ -46,6 +46,12 @@ Danske indeksafdelinger
 
 Risikoen ved de danske indeksafdelinger er, at du ikke kan købe og sælge på præcis det tidspunkt, du gerne vil. Da afdelingens indre værdi skal stemme overens med prisen på investeringsbeviset, så kan handlen blive suspenderet. Det kan fx ske ved store daglige fald eller stigninger på aktiemarkedet, som det fx blev set i løbet af nedgangen på aktiemarkedet i forbindelse med Corona-virussen.
 
+Når handlen suspenderes gøres det typisk under usædvanlige og uforudsigelige markedsforhold:
+
+> Det gør det umuligt at beregne en indre værdi for fonden, og i den situation kan fonden vælge at suspendere handelen med fondens beviser. Ved at suspendere handlen sikres der ligestilling mellem sælgere og købere af fondens beviser. Det er altså hensynet til investorerne, der ligger bag beslutningen om at suspendere handlen med en fonds beviser.
+
+--- <cite>Finansdanmark.dk - [Hvad betyder det når handlen med investeringsfonde suspenderes](https://finansdanmark.dk/nyheder/2020/hvad-betyder-det-naar-handlen-med-investeringsfonde-suspenderes/)</cite>
+
 Udenlandske ETF’er
 : ETF er en forkortelse af Exchange Traded Fund - altså en børshandlet fond. ETF’er har typisk en passiv strategi med lave omkostninger. ETF’ere handles som en aktie på de udenlandske børser er det udbud og efterspørgsel, der afgør prisen, selvom en ETF har en indre værdi ligesom indeksafdelinger.
 
