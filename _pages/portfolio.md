@@ -49,17 +49,7 @@ I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og gu
 
 [Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success}
 
-#### Nordnet #3: Udbytteaktier
-
-Jeg kæmper med at opbygge en portefølje af udbytteaktier, som kan supplere min faste, passive indtægt fra crowdlending.
-
-<iframe src="https://www.shareville.se/widget/portfolio/358447/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-
-<iframe src="https://www.shareville.se/widget/portfolio/358447/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-
-[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/358447){: .btn .btn--large .btn--success}
-
-#### Nordnet #4: Aldersopsparing
+#### Nordnet #3: Aldersopsparing
 
 I aldersopsparingen har jeg satset på Nordnets fonde, da man kan handle dem gratis.
 
