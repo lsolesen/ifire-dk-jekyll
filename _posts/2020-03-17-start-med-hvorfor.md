@@ -7,7 +7,7 @@ category:
 tags:
   - investering
   - psykologi
-excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet - Hvad er illusion of stock-picking skill, anchoring og loss aversion?"
+excerpt: "Simon Sinek foreslår at man starter med at spørge Hvorfor? i stedet for at starte med Hvad? og Hvordan?"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788717043664/0x500
     alt: "Start med Hvorfor - Simon Sinek"
