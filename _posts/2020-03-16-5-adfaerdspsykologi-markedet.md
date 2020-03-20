@@ -53,11 +53,40 @@ Man ser også masser af eksempler i FIRE-verden, hvor folk der er begyndt at inv
 
 Adfærdspsykologien kan formentlig være med til at forklare noget af det, der sker med mig som privat investor.
 
-- **Illusion of Stock-Picking Skill.** Da jeg selv begyndte at tage ansvaret for mine investeringer, så læste jeg at mange koncentrerer sig om at opbygge en portefølje af udbytteaktier - og folk rapporterer om, at det går rigtig godt for dem. Så bliver man tiltrukket, men først og fremmest så bliver man draget af _illustionen om evnen til at vælge aktier_, som Daniel Kahneman også har beskæftiget sig med.
+- **Illusion of Stock-Picking Skill.** Da jeg selv begyndte at tage ansvaret for mine investeringer, så læste jeg at mange gerne vil opbygge en portefølje af udbytteaktier - og folk rapporterer om, at det går rigtig godt for dem. Så bliver man tiltrukket, men først og fremmest så bliver man draget af _illustionen om evnen til at vælge aktier_, som Daniel Kahneman også har beskæftiget sig med.
+- **Priming**. The Illusion of Stock-Picking Skill opstår formentlig bl.a. pga. _priming_. Tidligere stimuli påvirker ens senere beslutninger - og jo flere gange budskaber gentages, jo mere sandsynligt er det, at det har ubevidst betydning for ens senere beslutninger.
 - **Anchoring.** Undertiden sidder man så og kigger på nogle tidligere kurser, som begynder - uanset om man vil det eller ej - have indflydelse på sine beslutninger i forhold til sine fremtidige beslutninger om sine investeringer.
 - **Loss aversion.** Når man taber penge, betyder det mere for en end at vinde penge.
 
-Disse tre adfærdspsykologiske mekanismer gør mig bare endnu mere sikker i min sag om at være passiv investor.
+Disse adfærdspsykologiske mekanismer gør mig bare endnu mere sikker i min sag om at være passiv investor.
+
+## Priming
+
+_Priming_ er når du bliver eksponeret for noget, der får betydning for dine beslutninger senere. Det er det reklamebranchen udnytter. Hvis du fx ser en reklame for en dejligt måltid mad på en restaurant, og du senere på dagen begynder at tjekke restauranter eller take away uden egentlig at tænke nærmere over det. Eller når du skal udfylde det sidste bogstav i det engelske ord: S O _ P. Hvilket bogstav valgte du så?
+
+Man kan blive _primet_ på mange måde. Priming foregår på det ubevidste niveau. Effekten kan være overraskende effektfuld. Endte du fx med at skrive S O **U** P. Det gjorde du formentlig, fordi du allerede var _primet_ fordi den foregående sætning handlede om mad. Havde den i stedet handle om noget rent, så var du måske endt med S O **A** P.
+
+Dan Ariely beskriver meget godt i hvor høj grad vi er i kontrol over vores egen beslutninger i følgende TED-talk.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Folk reagerer også typisk mere positivt på ideer, der bliver gentaget for dem. Når jeg gang på gang fx lytter til Millionærklubben eller folk, der køber udbytteaktier, så kan der være stor sandsynlighed for, at jeg pludselig selv tror, at jeg kan slå markedet.
+
+Hvad kan vi gøre i forhold til _priming_. Det bedste værn er at få lavet en strategi, som du kan følge konsistent i forskellige markedsforhold. På den måde kan du tage følelserne ud af investeringsbeslutningerne. 
+
+Men hvordan får du opbygget din strategi uden at den bliver for farvet af den priming, du har været udsat for.
+
+[Psykologen, Katherine Vohs, har vist](https://www.moneymanagement.com.au/features/editorial/investing-and-power-priming), at når folk tænker på penge eller er blevet primet med finansielle begreber, så bliver folk mere selvtilstrækkelige og viser præferencer mod at arbejde alene. Hun efterlod fx en stak matadorpenge på et bord, og folk der var blevet primet med dette, foretrak i højere grad at arbejde alene.
+
+_Value_-investor Sir John Templeton sagde: 
+
+> “it is impossible to produce superior performance unless you do something different from the majority”. 
+
+--- <cite>Sir John Templeton</cite>
+
+Man kan hurtigt blive _primet_ til, at det kan lade sig gøre at slå markedet, eller at det bedre kan betale sig at købe en udbytteaktie end at købe en passiv investeringsforening, der udbetaler udbytter.
+
+Spørgsmålet er, hvilket budskab der gentages oftest, og som u bliver _primet_ af. Derfor er det nok en god ide at spørge dig selv først: [Hvorfor investerer du?](/start-med-hvorfor/)
 
 ## Illusion of Stock-Picking Skill
 
