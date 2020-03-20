@@ -46,7 +46,7 @@ Du kan finde omkostningerne på [Morningstar](http://www.morningstar.dk/) ved at
 
 Her kan du se et eksempel på omkostninger på SparInvests Globale Aktier (SPVIGAKL).
 
-{% include figure image_path="/assets/images/book/spvigakl-omkostninger.png" caption="[Omkostninger for SPVIGAKL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK4&tab=5)" %}
+{% include figure image_path="/assets/images/book/spvigakl-omkostninger.jpg" caption="[Omkostninger for SPVIGAKL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK4&tab=5)" %}
 
 ## Køb med valutakonto
 
