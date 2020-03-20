@@ -7,7 +7,7 @@ category:
 tags:
   - investering
   - psykologi
-excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet - Hvad er illusion of stock-picking skill, anchoring og loss aversion?"
+excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet - Hvad er priming, Illusion of Stock-Picking Skill, anchoring og loss aversion?"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788711533284/0x500
     alt: "At tænke - hurtigt og langsomt"
