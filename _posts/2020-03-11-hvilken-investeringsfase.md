@@ -58,11 +58,11 @@ Hvornår skal man så begynde at sænke risikoen sin portefølje fx med en stør
 
 Traditionelt hænger andelen og risikoen sammen på denne måde (der er altid risiko ved investering):
 
-|               | Aktier | Obligationer |
-|---------------|--------|--------------|
-| Lav risiko    | 25%    | 75%          |
-| Mellem risiko | 50%    | 50%          |
-| Høj risiko    | 75%    | 25%          |
+|               | Aktier | Obligationer | Tidshorisont |
+|---------------|--------|--------------|--------------|
+| Lav risiko    | 25%    | 75%          | 3-5 år       |
+| Mellem risiko | 50%    | 50%          | 5-7 år       |
+| Høj risiko    | 75%    | 25%          | 8-10 år      |
 
 Det afhænger naturligvis af din tidshorisont, din personlige situation og din tolerance for risiko. J. L. Collins foreslår i Simple Path to Wealth en fordeling tættere på 100% aktier i formueopbygningsfasen, og i formuevedligeholdelsesfasen benytter han selv det man i tabellen vil betegne som 'høj risiko'.
 
