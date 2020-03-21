@@ -123,6 +123,38 @@ Desuden skal du kigge på, hvilken kategori og hvilket indeks fonden sammenligne
 
 Hvis du fx gerne vil følge det globale marked, så skal fonden sammenlignes med det marked, hvis Morningstars analyser skal bruges til at sige noget om fondens præstationer.
 
+## Analysere din portefølje
+
+Inden du vælger fonde, skal du først have styr på din strategi. Hvorfor investerer du, og hvordan vil du gerne investere? Og hvilket indeks vil du følge?
+
+Hvis du fx vælger at følge verdensindekset, og du gerne vil bruge [Nordnets månedsopsparing\*](/go/nordnet/), så kan du fx vælge Sparinvest INDEX Globale Aktier Min. Risiko, som følger MSCI World Minimum Volatility og supplere den med Sparinvest INDEX Emerging Markets.
+
+Men hvordan bliver din samlede portefølje så egentlig, og hvad skal fordelingen være mellem dem? Og hvad bliver de samlede omkostninger?
+
+Hvis du vælger flere fonde til din portefølje, så kan du med fordel bruge [Morningstars porteføljeværkøj](https://www.morningstar.dk/dk/portfoliomanager/portfolio.aspx).
+
+Først opretter du din portefølje. Du kan selvfølgelig selv bestemme, hvad den skal hedde.
+
+{% include figure image_path="/assets/images/book/morningstar-portfolio-create.png" %}
+
+Dernæst vælger du dine fonde. Du kan både søge ved hjælp af navnet eller _tickeren_.
+
+{% include figure image_path="/assets/images/book/morningstar-portfolio-funds.png" %}
+
+Når du har besluttet dig for, hvordan din portefølje skal se ud - og har indtastet fordelingen mellem dem, så kan du klikke på _X-Ray_.
+
+{% include figure image_path="/assets/images/book/morningstar-porfolio-analyze.png" %}
+
+I _X-Ray_ er der en masse forskellige oplysninger om den samlede portefølje. Fx kan du se fordelingen på lande og sektorer. Dette viser noget om, hvor diversificeret din portefølje er.
+
+{% include figure image_path="/assets/images/book/morningstar-portfolio-xray.png" %}
+
+Desuden er der på oversigten oplysninger om aktiestilen og de samlede omkostninger i procent (ÅOP).
+
+{% include figure image_path="/assets/images/book/morningstar-portfolio-xray-2.png" %}
+
+[Morningstars porteføljeværkøj](https://www.morningstar.dk/dk/portfoliomanager/portfolio.aspx) er gratis og giver et rigtig fint overblik over den samlede portefølje.
+
 {% include feature_row type="left" %}
 
 {% include disclaimer.md %}
