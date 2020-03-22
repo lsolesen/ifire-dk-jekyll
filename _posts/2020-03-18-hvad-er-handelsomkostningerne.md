@@ -8,6 +8,10 @@ tags:
   - investering
   - omkostninger
 excerpt: "Hvad er handelsomkostningerne, når man handler danske investeringsforeninger og udenlandske ETF'er? Hvad er billigst at handle?"
+header:
+  overlay_image: https://images.unsplash.com/photo-1567427018369-9216e43df052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1567427018369-9216e43df052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Michael Longmire on Unsplash
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788793724488/0x500
     alt: "Investering - lær det selv - indeks, fonde og ETF'er"

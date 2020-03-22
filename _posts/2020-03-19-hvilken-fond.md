@@ -8,6 +8,10 @@ tags:
   - investering
   - psykologi
 excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
+header:
+  overlay_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Carlos Muza on Unsplash
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788793724488/0x500
     alt: "Investering - lær det selv - indeks, fonde og ETF'er"

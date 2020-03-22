@@ -9,6 +9,10 @@ tags:
   - aktier
   - obligationer
 excerpt: "Risikoprofilen i din investeringsportefølje kan afhænge af, hvilken fase i dit investeringsliv du er i: formueopbygning eller formuevedligeholdelse"
+header:
+  overlay_image: https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Albert S on Unsplash
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

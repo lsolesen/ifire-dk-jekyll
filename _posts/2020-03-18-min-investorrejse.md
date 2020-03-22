@@ -8,6 +8,10 @@ tags:
   - investering
   - psykologi
 excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet. Måske genkender du noget i min rejse fra dig selv."
+header:
+  overlay_image: https://images.unsplash.com/photo-1550983552-c97e42e10cb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1550983552-c97e42e10cb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by William Warby on Unsplash
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788717043664/0x500
     alt: "Start med Hvorfor - Simon Sinek"

@@ -10,6 +10,10 @@ tags:
   - investering
   - aktier
   - obligationer
+header:
+  overlay_image: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Eric Muhr on Unsplash
 excerpt: "Langsigtet buy and hold-strategien er begyndervenlig, kan automatiseres, er ikke tidskrævende, sænker risikoen og har lave omkostninger."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

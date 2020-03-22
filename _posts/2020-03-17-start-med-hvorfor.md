@@ -8,6 +8,10 @@ tags:
   - investering
   - psykologi
 excerpt: "Simon Sinek foreslår at man starter med at spørge Hvorfor? i stedet for at starte med Hvad? og Hvordan?"
+header:
+  overlay_image: https://i1.wp.com/www.director.co.uk/wp-content/uploads/SimonSinekMain.jpg?fit=1000%2C500&ssl=1
+  teaser: https://i1.wp.com/www.director.co.uk/wp-content/uploads/SimonSinekMain.jpg?fit=1000%2C500&ssl=1
+  caption: Photo by Directors Magazine
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788717043664/0x500
     alt: "Start med Hvorfor - Simon Sinek"
