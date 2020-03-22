@@ -85,7 +85,7 @@ Jeg investerer på lang sigt. [SPIVA U.S. Mid-Year 2018](https://us.spindices.co
 {% include figure image_path="https://www.aei.org/wp-content/uploads/2018/10/SPIVA.png"
 caption="[SPIVA U.S. Mid-Year 2018](https://us.spindices.com/documents/spiva/spiva-us-mid-year-2018.pdf?force_download=true)" alt="Table from S&P SPIVA Mid-Year 2018 Report" %}
 
-Jeg har derfor besluttet mig for, at jeg ikke vil tage risikoen for at vælge forkert og i stedet lade indekset give mit markedsafkastet.
+Jeg har derfor besluttet mig for, at jeg ikke vil tage risikoen for at vælge forkert og i stedet lade indekset give mig markedsafkastet.
 
 ## Konklusion
 
