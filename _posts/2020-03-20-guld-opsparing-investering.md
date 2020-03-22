@@ -68,7 +68,19 @@ Hvis du gerne vil have guld som opsparing eller investering, er der forskellige 
 ## ETF’er der tracker guld
 
 Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet\*](/go/nordnet/), hvor de årlige omkostninger ikke er alt for høje:
- 
+
+| Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
+|------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
+| VZLD | [WisdomTree Physical Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                               | 0,39% |  | | Passiv      |
+| GZUR | [WisdomTree Physical Swiss Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NA52)                               | 0,19% |  |  | Passiv      |
+| 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0%-0,30%[^note] |  |  | Passiv      |
+
+[^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
+
+> Når du er kunde i Nordnet er der ingen "custody" omkostninger ved 4GLD der bliver sendt videre til kunden (som det er i dag, vi tager forbehol for at det kan ændre sig med tiden). Derfor er det korrekt at RIY er 0,00% som det også står oplyst i faktaark til 4GLD.
+
+---<cite>Nordnet Support</cite>
+
 ## Investering i guld gennem aktier
 
 Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet\*](/go/nordnet/) eller [SaxoInvestor\*](/go/saxoinvestor) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
