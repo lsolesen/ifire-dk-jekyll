@@ -38,10 +38,7 @@ De følgende videoer er rigtig gode at blive kloge af.
 
 Sharpes argument er enkelt og bygger på to præmisser: Hvis ”aktiv” og ”passiv” investering er defineret på fornuftig vis, så må de to følgende udsagn nødvendigvis gælde:
 
-1. **Før omkostningerne** er afkastet af den _gennemsnitlige aktivt_ forvaltede dollar lig med afkastet af den _gennemsnitlige passivt_ forvaltede dollar 
-
-og
-
+1. **Før omkostningerne** er afkastet af den _gennemsnitlige aktivt_ forvaltede dollar lig med afkastet af den _gennemsnitlige passivt_ forvaltede dollar _og_
 2. **Efter omkostningerne** er afkastet af den _gennemsnitlige aktivt_ forvaltede dollar mindre end afkastet af den _gennemsnitlige passivt_ forvaltede dollar.
 
 ## Definition af passiv og aktiv investor
@@ -83,8 +80,7 @@ S&P Dow Jones Indicies udgiver hvert år en rapport, hvor de bl.a. undersøger h
 
 Jeg investerer på lang sigt. [SPIVA U.S. Mid-Year 2018](https://us.spindices.com/documents/spiva/spiva-us-mid-year-2018.pdf?force_download=true) viser, at over en 15 års periode, så er der det kun 3-8% (alt efter om det er large-, mid- eller smallcap) af de aktive fonde, der gør det bedre end markedet, når de investerer i det amerikanske S&P.
 
-[^note2]: [More evidence that it’s really hard to ‘beat the market’ over time, 95% of finance professionals can’t do it
-](https://www.aei.org/carpe-diem/more-evidence-that-its-really-hard-to-beat-the-market-over-time-95-of-finance-professionals-cant-do-it/)
+[^note2]: [More evidence that it’s really hard to ‘beat the market’ over time, 95% of finance professionals can’t do it](https://www.aei.org/carpe-diem/more-evidence-that-its-really-hard-to-beat-the-market-over-time-95-of-finance-professionals-cant-do-it/)
 
 {% include figure image_path="https://www.aei.org/wp-content/uploads/2018/10/SPIVA.png"
 caption="[SPIVA U.S. Mid-Year 2018](https://us.spindices.com/documents/spiva/spiva-us-mid-year-2018.pdf?force_download=true)" alt="Table from S&P SPIVA Mid-Year 2018 Report" %}
