@@ -43,7 +43,7 @@ Sharpes argument er enkelt og bygger på to præmisser: Hvis ”aktiv” og ”p
 
 ## Definition af passiv og aktiv investor
 
-Men hvad er ifølge Sharep en passende definition af en passiv og en aktiv investor?
+Men hvad er ifølge Sharpe en passende definition af en passiv og en aktiv investor?
 
 En **passiv investor** følger et markedsindeks ved at besidde alle aktiver af det pågældende marked i samme forhold, som de forekommer i på markedet. Hvis aktien X udgør 3% af værdien af aktierne på markedet, så udgør aktien X også 3% af værdien i den passive investors aktieportefølje. Det samme gælder for alle andre aktier på markedet.
 
