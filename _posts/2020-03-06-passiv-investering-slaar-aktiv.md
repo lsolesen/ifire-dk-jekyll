@@ -63,7 +63,7 @@ Den anden antagelse finder sin bevisbyrde i erfaringerne fra aktiemarkedet. De p
 
 ## Usandsynligt at aktiv forvaltning kan slå passiv investering
 
-[Longboard Capital Management analyserede afkastet fra 14.500 aktier i perioden fra 1989 til 2015.](http://info.longboardfunds.com/defense-wins-championships)[^note] Studiet viste, at de 2.942 aktier med det bedste afkast stod for alt afkastet, mens de 11.513 aktier med det dårligste afkast havde et afkast på 0%. 
+[Longboard Capital Management analyserede afkastet fra 14.500 aktier i perioden fra 1989 til 2015.](http://info.longboardfunds.com/defense-wins-championships)[^note1] Studiet viste, at de 2.942 aktier med det bedste afkast stod for alt afkastet, mens de 11.513 aktier med det dårligste afkast havde et afkast på 0%. 
 
 [^note1]: Via [FourPillarFreedom](https://fourpillarfreedom.com/most-individual-stocks-underperform-index-funds/)
 
