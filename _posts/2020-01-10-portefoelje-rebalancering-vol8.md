@@ -90,9 +90,9 @@ I princippet vælger jeg mellem følgende ETF'er til REIT alt efter hvilket mark
 | XREA | [Xtrackers FTSE Developed Europe ex UK Real Estate UCITS ETF 1C (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014B9L) | 0,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |
 | IQQP | [iShares European Property Yield UCITS ETF EUR (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)            | 0,40% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |
 
-Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle købe i dag, så ville jeg have valgt GZUR eller 4GLD, som begge har lavere omkostninger.
-
 ### Guld
+
+Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle købe i dag, så ville jeg have valgt GZUR eller 4GLD, som begge har lavere omkostninger.
 
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|

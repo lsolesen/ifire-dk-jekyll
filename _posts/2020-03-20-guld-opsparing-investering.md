@@ -1,7 +1,9 @@
 ---
 title: "Guld som opsparing eller investering"
 last_modified_at: 2020-03-17T09:20:02+02:00
-permalink: /guld-opsparing-investering/
+permalink: /guld/
+redirect_from:
+  - /guld-opsparing-investering/
 header:
   overlay_image: https://images.unsplash.com/photo-1514214460829-5f081763862a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1514214460829-5f081763862a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -27,6 +29,13 @@ feature_row:
     title: "Fail-Safe Investing af Harry Browne"
     excerpt: "Harry Browne shows you what you need to know to make your savings and investments safe and profitable, no matter what the economy and the investment markets do. There are no secret trading systems here, no jargon to learn. Instead, Harry Browne teaches you in simple terms too."
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9780071759175/0x500
+    alt: "Four Pillars of Investing: Lessons for Building a Winning Portfolio"
+    title: "Four Pillars of Investing: Lessons for Building a Winning Portfolio"
+    excerpt: "With relatively little effort, you can design and assemble an investment portfolio that, because of its wide diversification and minimal expenses, will prove superior to the most professionally managed accounts. Great intelligence and good luck are not required. William Bernstein s commonsense approach to portfolio construction has served investors well during the past turbulent decade and it s what made The Four Pillars of Investing an instant classic when it was first published nearly a decade ago."
+    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/four-pillars-of-investing-lessons-for-building-a-winning-portfolio_william-j-bernstein_epub_9780071759175
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
@@ -88,6 +97,14 @@ Du kan også investere i selskaber, der har guld som sit primære forretningsomr
 ## Køb og sælg guld i certifikater
 
 På [Etoro\*](/go/etoro/) kan du spekulere i guld gennem certifikater. Det ville jeg aldrig selv begive mig ud i, da jeg ikke tror på, at man kan forudsige markedet konsistent over tid. Du kan lynhurtigt tage mange penge på denne måde.
+
+## Er guld et godt værn mod inflation?
+
+Guld har ikke noget indtjeningspotentiale over lang tid (derfor mange bruger det som opsparing og ikke investering). William Bernstein foreslår, at guld slet ikke er et godt værn mod inflation:
+
+> “Commodity producers, it turns out, have worked better. The cheapest solution is to hold an internationally diversified stock portfolio, so that rampant inflation in the U.S. can be offset by more stable returns from foreign stocks. A long-term, fixed rate mortgage tied to a house not purchased in a bubble will also offer an offset. Finally, there are inflation-protected bonds (TIPS) for those who want them.”
+
+--- <cite>William Bernstein fra [Forbes](https://www.forbes.com/sites/phildemuth/2013/09/03/essential-reading-deep-risk-by-william-bernstein-plus-q-a-with-author/)</cite>
 
 ## Er guld noget for dig?
 
