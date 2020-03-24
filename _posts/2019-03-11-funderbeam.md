@@ -3,7 +3,7 @@ title: "Funderbeam - anmeldelse"
 permalink: /funderbeam-anmeldelse/
 header:
   overlay_image: /assets/images/funderbeam.jpg
-  teaser: /assets/images/logo/funderbeam.jpg
+  teaser: /assets/images/logo/funderbeam.png
 category:
   - Anmeldelse
 tags:
