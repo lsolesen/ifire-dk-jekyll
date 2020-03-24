@@ -1,8 +1,8 @@
 ---
 title: "Nord.Investments"
 permalink: /platform/nord/
-# header:
-#  teaser: /assets/images/logo/mintos.png
+header:
+  teaser: /assets/images/logo/nord.png
 tags:
   - investering
   - robot

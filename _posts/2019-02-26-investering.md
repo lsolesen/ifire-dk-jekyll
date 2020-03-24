@@ -1,6 +1,6 @@
 ---
 title: "Hvordan skal jeg investere i aktier og obligationer? #1"
-permalink: /investering/
+permalink: /investering-vol1/
 category:
   - Opsparing
 tags:

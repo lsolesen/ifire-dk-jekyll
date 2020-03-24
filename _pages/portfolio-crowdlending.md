@@ -5,6 +5,7 @@ permalink: /crowdlending/
 excerpt: "Her kan du se min samlede portefølje crowdlending - med intern rente, totalt investeret og indkomst."
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 Jeg har en del penge investeret i crowdlending. Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/).
@@ -82,5 +83,17 @@ Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er i
 <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1763727713&amp;format=image"></iframe>
 
 [Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
+
+## Crowdlending platforme
+
+<div class="page__content">
+
+{% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
+
+{% for post in site_posts %}
+  {% include archive-teaser-images.html type="grid" %}
+{% endfor %}
+
+</div>
 
 {% include disclaimer.md %}

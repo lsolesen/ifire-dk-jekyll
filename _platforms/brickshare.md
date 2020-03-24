@@ -2,7 +2,7 @@
 title: "Brickshare"
 permalink: /platform/brickshare/
 header:
-  teaser: /assets/images/logo/brickshare.jpg
+  teaser: /assets/images/logo/brickshare.png
 tags:
   - crowdlending
   - ejendomsinvestering
@@ -40,4 +40,4 @@ last_modified_at: 2019-12-31T00:00:00+08:00
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=834005279&amp;format=image"></iframe>
 
-[Brickshare](/go/brickshare/){: .btn .btn--large .btn--info}
+[Brickshare\*](/go/brickshare/){: .btn .btn--large .btn--info }

@@ -2,7 +2,7 @@
 title: "Grupeer"
 permalink: /platform/grupeer/
 header:
-  teaser: /assets/images/logo/grupeer.jpg
+  teaser: /assets/images/logo/grupeer.png
 tags:
   - crowdlending
   - ejendomsinvestering

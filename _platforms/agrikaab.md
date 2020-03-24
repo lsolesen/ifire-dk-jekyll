@@ -1,8 +1,8 @@
 ---
 title: "Agrikaab"
 permalink: /platform/agrikaab/
-# header:
-#   teaser: /assets/images/logo/bondora.png
+header:
+  teaser: /assets/images/logo/agrikaab.png
 tags:
   - crowdlending
 #excerpt: "På Agrikaab kan du investere i afrikanske udviklingsprojekter. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."

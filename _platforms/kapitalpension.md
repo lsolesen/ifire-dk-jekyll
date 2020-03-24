@@ -1,8 +1,8 @@
 ---
 title: "SparNord Kapitalpension"
 permalink: /platform/kapitalpension/
-# header:
-#  teaser: /assets/images/logo/mintos.png
+header:
+  teaser: /assets/images/logo/sparnord.png
 tags:
   - investering
   - værdipapirer

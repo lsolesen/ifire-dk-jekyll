@@ -1,8 +1,8 @@
 ---
 title: "Revolut"
 permalink: /platform/revolut/
-# header:
-# teaser: /assets/images/logo/grupeer.jpg
+header:
+  teaser: /assets/images/logo/revolut.png
 tags:
   - betalingskort
   - bank

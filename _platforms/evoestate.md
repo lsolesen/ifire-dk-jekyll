@@ -1,8 +1,8 @@
 ---
 title: "EvoEstate"
 permalink: /platform/evoestate/
-#header:
-#  teaser: /assets/images/logo/crowdestate.png
+header:
+  teaser: /assets/images/logo/evoestate.png
 tags:
   - crowdlending
   - ejendomsinvestering

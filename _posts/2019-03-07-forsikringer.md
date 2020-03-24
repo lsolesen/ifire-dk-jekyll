@@ -1,5 +1,5 @@
 ---
-title: "Tjek dine forsikringer"
+title: "Tjek dine forsikringer - og spar penge"
 permalink: /forsikringer/
 category:
   - Spare penge

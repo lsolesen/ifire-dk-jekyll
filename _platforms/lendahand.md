@@ -1,8 +1,8 @@
 ---
 title: "Lendahand"
 permalink: /platform/lendahand/
-# header:
-#   teaser: /assets/images/logo/bondora.png
+header:
+   teaser: /assets/images/logo/lendahand.png
 tags:
   - crowdlending
 #excerpt: "På Lendahand kan du investere i udviklingsprojekter i Afrika og Mongoliet. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."

@@ -1,8 +1,8 @@
 ---
 title: "Etoro"
 permalink: /platform/etoro/
-# header:
-# teaser: /assets/images/logo/grupeer.jpg
+header:
+  teaser: /assets/images/logo/etoro.png
 tags:
   - investering
   - copy trading

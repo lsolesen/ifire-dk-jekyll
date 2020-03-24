@@ -2,7 +2,7 @@
 title: "Crowdestor"
 permalink: /platform/crowdestor/
 header:
-  teaser: /assets/images/logo/crowdestor.jpg
+  teaser: /assets/images/logo/crowdestor.png
 tags:
   - crowdlending
 excerpt: "Crowdestor er en _peer-to-peer_ _crowd lending_ platform baseret i Letland."

@@ -3,7 +3,7 @@ title: "Funderbeam"
 permalink: /platform/funderbeam/
 header:
   image_overlay: /assets/images/funderbeam.jpg
-  teaser: /assets/images/logo/funderbeam.jpg
+  teaser: /assets/images/logo/funderbeam.png
 tags:
   - crowdlending
   - blockchain

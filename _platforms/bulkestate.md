@@ -1,8 +1,8 @@
 ---
 title: "Bulkestate"
 permalink: /platform/bulkestate/
-# header:
-#  teaser: /assets/images/logo/crowdestate.png
+header:
+  teaser: /assets/images/logo/bulkestate.png
 tags:
   - crowdlending
   - ejendomsinvestering

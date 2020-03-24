@@ -1,8 +1,8 @@
 ---
 title: "Sparnord Stjerneinvest Fri"
 permalink: /platform/stjerneinvest/
-# header:
-#  teaser: /assets/images/logo/mintos.png
+header:
+  teaser: /assets/images/logo/sparnord.png
 tags:
   - investering
   - værdipapirer

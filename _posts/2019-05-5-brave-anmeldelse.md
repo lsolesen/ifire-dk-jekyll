@@ -3,7 +3,7 @@ title: "Brave - hurtig sikker browser og Basic Attention Token"
 permalink: /brave-anmeldelse/
 header:
   overlay_image: /assets/images/brave.jpg
-  teaser: /assets/images/logo/brave.jpg
+  teaser: /assets/images/logo/brave.png
 category:
   - Anmeldelser
 tags:

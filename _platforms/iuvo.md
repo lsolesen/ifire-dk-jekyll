@@ -2,13 +2,13 @@
 title: "Iuvo"
 permalink: /platform/iuvo/
 header:
-  teaser: /assets/images/logo/iuvo.jpg
+  teaser: /assets/images/logo/iuvo.png
 tags:
   - crowdlending
 excerpt: "Iuvo giver gode renter og hører til i Estland"
 last_modified_at: 2019-06-04T10:38:00+08:00
 toc: true
-classes: wide
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

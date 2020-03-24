@@ -9,15 +9,25 @@ feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
     alt: "Bank"
     title: "Bank"
-    excerpt: "Som bank bruger jeg [Lunar](/go/lunar/) (reklamelink), og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/) (reklamelink) til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
+    excerpt: "Som bank bruger jeg [Lunar\\*](/go/lunar/), og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut\\*](/go/revolut/) til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
   - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
     alt: "Investering"
     title: "Investering"
-    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/) (reklamelink) til min månedsopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/) (reklamelink) til min aktiesparekonto."
+    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet\\*](/go/nordnet/) til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor\\*](/go/saxoinvestor/) til min aktiesparekonto."
   - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
     alt: "Opsparing"
     title: "Opsparing"
-    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/) (reklamelink) og [Kraken](/go/kraken/) (reklamelink) til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian) (reklamelink) til en opsparingskonto."
+    excerpt: "Til opsparing bruger jeg [Coinbase\\*](/go/coinbase/) og [Kraken\\*](/go/kraken/) til at købe Bitcoins. Desuden bruger jeg [Norwegian\\*](/go/norwegian) til en opsparingskonto."
+gallery_books:
+  - url: https://amzn.to/2KphbcG
+    image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
+    alt: "Early Retirement Extreme"
+  - url: https://amzn.to/31riw8s
+    image_path: https://images-na.ssl-images-amazon.com/images/I/51ultoit2OL._SX330_BO1,204,203,200_.jpg
+    alt: "The Opposite of Spoiled"
+  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
+    image_path: https://imgcdn.saxo.com/_9781533667922/0x500
+    alt: "Simple Path To Wealth"
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
@@ -70,6 +80,8 @@ feature_row:
     btn_class: "btn--success"
 ---
 
+{% include disclosure.html %}
+
 ## Min privatøkonomi
 
 {% include feature_row id="feature_row_setup" %}
@@ -78,7 +90,7 @@ feature_row:
 
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde masser af inspiration investering og finansiel uafhængighed. Her kommer nogle af mine favoritter. Jeg forsøger at læse mindst en time dagligt om emner, der intereserer mig.
 
-{% include feature_row type="left" %}
+{% include feature_row %}
 
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
 

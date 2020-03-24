@@ -2,7 +2,7 @@
 title: "Kameo"
 permalink: /platform/kameo/
 header:
-  teaser: /assets/images/logo/kameo.jpg
+  teaser: /assets/images/logo/kameo.png
 tags:
   - crowdlending
 excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige."

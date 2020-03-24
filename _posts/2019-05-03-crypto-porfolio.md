@@ -1,14 +1,30 @@
 ---
 title: "Portefølje med cryptovaluta som opsparing"
 permalink: /crypto-portfolio/
-header:
-  overlay_image: /assets/images/crypto.jpg
 category:
   - Opsparing
 tags:
   - bitcoin
   - block chain
+  - kryptovaluta
 excerpt: "Jeg er så småt gået i gang med at lave en lille portefølje i cryptovaluta."
+header:
+  overlay_image: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Viktor Forgacs on Unsplash
+feature_row_solutions:
+  - image_path: /assets/images/logo/coinbase.png
+    alt: "Coinbase"
+    title: "Coinbase"
+    excerpt: "[Coinbase\\*](/go/coinbase/) har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/)."
+  - image_path: /assets/images/logo/kraken.png
+    alt: "Kraken"
+    title: "Kraken"
+    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken\\*](/go/kraken/), som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+  - image_path: /assets/images/logo/ledger.png
+    alt: "Ledger"
+    title: "Ledger"
+    excerpt: "[Ledger\\*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 ---
 
 Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
@@ -121,5 +137,7 @@ Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op
 Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/) eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/). Uanset hvad du gør, så tænk dig om.
 
 [![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+
+{% include feature_row id="feature_row_solutions" %}
 
 {% include disclaimer.md %}

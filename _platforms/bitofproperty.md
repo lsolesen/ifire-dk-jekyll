@@ -1,8 +1,8 @@
 ---
 title: "BitOfProperty"
 permalink: /platform/bitofproperty/
-#header:
-#  teaser: /assets/images/logo/crowdestate.png
+header:
+  teaser: /assets/images/logo/bitofproperty.png
 tags:
   - crowdlending
   - ejendomsinvestering

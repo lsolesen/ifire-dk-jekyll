@@ -2,7 +2,7 @@
 title: "FlexFunding"
 permalink: /platform/flexfunding/
 header:
-  teaser: /assets/images/logo/flexfunding.gif
+  teaser: /assets/images/logo/flexfunding.png
 tags:
   - crowdlending
 excerpt: "Flexfunding er den største danske crowdlending platform, og den platform jeg startede på."

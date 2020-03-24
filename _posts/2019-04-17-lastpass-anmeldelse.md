@@ -3,7 +3,7 @@ title: "Tænk på sikkerheden - med LastPass"
 permalink: /lastpass-anmeldelse/
 header:
   overlay_image: /assets/images/lastpass.jpg
-  teaser: /assets/images/logo/lastpass.jpg
+  teaser: /assets/images/logo/lastpass.png
 category:
   - Anmeldelser
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "Better Globe"
 permalink: /platform/betterglobe/
-# header:
-#   teaser: /assets/images/logo/bondora.png
+header:
+  teaser: /assets/images/logo/betterglobe.png
 tags:
   - crowdlending
 excerpt: "Med Better Globe investerer du i træer i Afrika. Spørgsmålet er om det er et Ponzi scheme"
