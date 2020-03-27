@@ -2,11 +2,17 @@
 <html lang="en-US">
   {% include analytics.html %}
   <meta charset="utf-8">
-  <title>Redirecting&hellip;</title>
+  <title>Videresender til {{ page.title }}&hellip;</title>
   <link rel="canonical" href="{{ page.redirect.to }}">
-  <script>location="{{ page.redirect.to }}"</script>
+  {% unless page.warning %}
+  <script>window.location.href="{{ page.redirect.to }}";</script>
   <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  {% endunless %}
   <meta name="robots" content="noindex">
-  <h1>Redirecting&hellip;</h1>
-  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+  <h1>Videresender {{ page.title }}&hellip;</h1>
+  <div>
+    {{ page.warning | markdownify }}
+    {{ content | markdownify }}
+  </div>
+  <p><a href="{{ page.redirect.to }}">Klik her hvis du er sikker på at du vil til {{ page.title }}.</a></p>
 </html>
