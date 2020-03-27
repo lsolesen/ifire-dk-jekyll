@@ -7,6 +7,19 @@ author_profile: true
 toc: true
 ---
 
+{% include deal platform="Trine" %}
+
+
+{% assign deals = site.platforms | where: "tags", "deal" %}
+{% for d in deals %}
+  {% if everything %}
+    {% assign everything = d.deal | concat: d.deal %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
+
 ## Crowdlending og crowdfunding
 
 {% assign site_posts = site.redirects | where: "tags", "crowdlending" | sort: "date" %}

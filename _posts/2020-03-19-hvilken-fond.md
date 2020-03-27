@@ -1,7 +1,7 @@
 ---
 title: "Find de bedste investeringsafdelinger eller ETF’er"
 last_modified_at: 2020-03-17T09:20:02+02:00
-permalink: /min-investorrejse/
+permalink: /hvilken-fond/
 category:
   - Investering
 tags:

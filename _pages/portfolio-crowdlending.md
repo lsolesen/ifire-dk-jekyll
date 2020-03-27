@@ -86,7 +86,7 @@ Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er i
 
 ## Crowdlending platforme
 
-<div class="page__content">
+<div class="feature__wrapper">
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
 

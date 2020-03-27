@@ -1,12 +1,21 @@
 ---
-title: "Trine"
+title: &title "Trine"
 permalink: /platform/trine/
 header:
-  teaser: /assets/images/logo/trine.png
+  teaser: &logo /assets/images/logo/trine.png
 tags:
   - crowdlending
-excerpt: "Trine har et særligt bæredygtigt sigte med cleantech / clean energy og investerer i Afrika."
+  - deal
+excerpt: &excerpt "Trine har et særligt bæredygtigt sigte med cleantech / clean energy og investerer i Afrika."
 last_modified_at: 2020-01-01T00:00:00+08:00
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: *excerpt
+    url: /go/trine/
+    btn_label: "Få 10 EUR hos Trine*"
+    btn_class: "btn--success"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
