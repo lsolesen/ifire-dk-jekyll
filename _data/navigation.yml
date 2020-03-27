@@ -2,14 +2,16 @@
 main:
   - title: "Portefølje"
     url: /portfolio/
-  - title: "Anmeldelser"
-    url: /anmeldelser/
   - title: "Spar penge"
     url: /spar-penge/
+  - title: "Investering"
+    url: /investering/
   - title: "Opdateringer"
     url: /opdateringer/
   - title: "Inspiration"
     url: /inspiration/
+  - title: "Anmeldelser"
+    url: /anmeldelser/
   - title: "Deals"
     url: /deals/
   - title: "Om"

@@ -41,7 +41,9 @@ På Morningstar kan du få et hurtigt overblik over fondene - og deres investeri
 
 ## Kategori og indeks
 
-Når man kigger på Morningstar, så sammenlignes alle fonde med både en kategori og et indeks. Det gør de uanset om du vælger en aktivt forvaltet fond eller en passiv indeksinvestering.
+Når man kigger på Morningstar, så sammenlignes alle fonde med både en kategori og et indeks. Det gør de uanset, om du vælger en aktivt forvaltet fond eller en passiv indeksinvestering. Hvis du er passiv investor, skal du vælge et indeks at følge. Hvis du er aktiv investor, så er det interessant at se om din portefølje kan slå et indeks. Uanset hvad så skal du vælge en strategi for dine investeringer - og hvordan du gerne vil ramme det globale marked.
+
+[Læs mere om verdensindekset](/investering-vol9/){: .btn .btn--large .btn--info }
 
 ## Morningstar rating
 
@@ -96,6 +98,10 @@ En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nog
 
 Ved at trække benchmarkafkastet fra fondsafkastet kan du finde benchmarkafkastafvigelsen. Benchmarkafkastafvigelsen har et fortegn, så du kan opdagee systematiske afvigelser i fondens afkast.
 
+Du kan finde benchmarkafkastafvigelsen på [Morningstar](http://www.morningstar.dk) under 'Afkast'. Du skal dog være opmærksom på, om Morningstar har valgt det samme indeks som sammenligningsgrundlag, som fonden forsøger at ramme.
+
+{% include figure image_path="/assets/images/book/spiemikl-benchmarkafvigelse-afkast.png" caption="Benchmarkafkastafvigelse for SparInvest Emerging Markets ([SPIEMIKL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0&tab=1))" %}
+
 ## Omkostninger
 
 Hvis du er langsigtet investor, så har de årlige omkostninger i fonden stor betydning for, hvor højt dit samlede afkast kan ende med at blive. Der er relativt stor forskel på, hvad de årlige omkostninger er. Der er især stor forskel på, hvad de aktive fonde har i årlige omkostninger, sammenlignet med de passive fonde. Men du vil også se en stor forskel mellem danske investeringsforeninger og udenlandske ETF’er.
@@ -127,11 +133,10 @@ For at vælge den bedste fond til dit formål, kan du altså kigge på:
 - Indeks
 - Passiv eller aktiv
 - Morningstar Rating
-- Annualiseret afkast
-- Standardafvigelse
-- (Tracking Error - afkastet fra en passivt forvaltet fond skal gerne følge det underliggende indeks.)
-- Sharpe Ratio
 - Omkostninger
+- Annualiseret afkast
+- Tracking Error og Benchmarkafkast-afvigelsen - afkastet fra en passivt forvaltet fond skal gerne følge det underliggende indeks.
+- Din risiko - bl.a. standardafvigelse og Sharpe Ratio
 - Udbyttebetalende eller akkumulerende
 
 Desuden skal du kigge på, hvilken kategori og hvilket indeks fonden sammenlignes med. Giver den kategori og det indeks mening for dig og dine investeringer.
