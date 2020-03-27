@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Videresender til {{ page.title }}&hellip;</title>
   <link rel="canonical" href="{{ page.redirect.to }}">
+  {% include favicon.html %}
   {% unless page.warning %}
   <script>window.location.href="{{ page.redirect.to }}";</script>
   <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">

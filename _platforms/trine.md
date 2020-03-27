@@ -5,7 +5,6 @@ header:
   teaser: &logo /assets/images/logo/trine.png
 tags:
   - crowdlending
-  - deal
 excerpt: &excerpt "Trine har et særligt bæredygtigt sigte med cleantech / clean energy og investerer i Afrika."
 last_modified_at: 2020-01-01T00:00:00+08:00
 deal:

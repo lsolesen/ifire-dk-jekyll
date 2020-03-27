@@ -6,7 +6,6 @@ category:
   - Investering
 tags:
   - investering
-  - psykologi
 excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
 header:
   overlay_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
@@ -22,15 +21,15 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Aktiemarkedet er et yderst volatilt marked, hvor kurserne på aktierne går op og ned. Du kan opleve store daglige fald og stigninger. 
+Aktiemarkedet er et yderst volatilt marked, hvor kurserne på aktierne går op og ned. Du kan opleve store daglige fald og stigninger. Det ændrer sig ikke selvom, du vælger at investere i fonde. Fordelen ved at investere i fonde er, at du automatisk får en høj diversificering i din portefølje, fordi fondene køber sig ind i mange aktiver.
 
-Hvis du gerne vil finde de bedste fonde, så er der nogle begreber, det er godt at kende. Samtidig skal du beslutte dig for din investeringsstrategi.
+Hvis du gerne vil finde de bedste fonde, så er der nogle begreber, som det er en fordel at kende. Samtidig skal du beslutte dig for din investeringsstrategi.
 
-## Kategori og indeks
-
-Alle fonde sammenlignes med en kategori og et indeks.
+Jeg bruger selv hovedsageligt [Morningstar](http://www.morningstar.dk/) og fondenes egne hjemmesider til at finde oplysningerne.
 
 ## Aktiv eller passiv forvaltning
+
+Du skal vælge om du vil følge en aktiv eller en passiv strategi i forhold til de fonde, du vælger.
 
 Jeg sværger til passive investeringsfonde, der følger et verdensindeks, fordi der er stor sandsynlighed for, at de [passivt forvaltede fonde klarer sig bedre end de aktive](/passiv-investering-slaar-aktiv/). I bund og grund handler forskellen om, hvordan aktierne udvælges. I en passivt forvaltet fond køber manageren underliggende aktier, der afspejler det underliggende indeks (fx [verdensmarkedet](/investering-vol9/)), mens en aktiv forvalter forsøger at finde aktier, der klarer sig bedre end de øvrige aktier. 
 
@@ -39,6 +38,10 @@ De aktivt forvaltede fonde lyder tillokkende, men det indebærer højere omkostn
 På Morningstar kan du få et hurtigt overblik over fondene - og deres investeringsstrategi. Hvis du fx har fundet SparInvest INDEX DJSI World KL (SPIDJWKL), så kan du se at investeringsstrategien er _passiv_.
 
 {% include figure image_path="/assets/images/book/djsi-overblik.png" caption="[Fra Morningstar Oversigt for DJSI](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Her kan du se at investeringsstrategien er passiv og hvad de årlige omkostninger i procent er." %}
+
+## Kategori og indeks
+
+Når man kigger på Morningstar, så sammenlignes alle fonde med både en kategori og et indeks. Det gør de uanset om du vælger en aktivt forvaltet fond eller en passiv indeksinvestering.
 
 ## Morningstar rating
 
