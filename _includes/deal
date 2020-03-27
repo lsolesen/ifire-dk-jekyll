@@ -1,0 +1,5 @@
+{% assign deals = site.platforms | where: "title", include.platform %}
+
+{% for d in deals %}
+[{{ d.deal[0].title }}\*]({{ d.deal[0].url }}){: .btn .btn--large .btn--{{ include.type | default: "info" }}}
+{% endfor %}
