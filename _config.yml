@@ -121,7 +121,7 @@ author:
       icon: "fas fa-fw fa-sync-alt"
       url: "/go/flattr/"
     - label: "Disclaimer"
-      icon: "fas fa-badge-check"
+      icon: "fas fa-fw fas fa-user-shield"
       url: "/disclaimer/"
 
 

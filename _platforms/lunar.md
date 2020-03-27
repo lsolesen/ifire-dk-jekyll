@@ -1,15 +1,24 @@
 ---
-title: "Lunar bankapp"
-redirect_from: /platform/lunarway/
+title: &title "Lunar"
 permalink: /platform/lunar/
+redirect_from:
+  - /platform/lunarway/
 header:
-  teaser: /assets/images/logo/lunar.png
+  teaser: &logo /assets/images/logo/lunar.png
   overlay_image: https://lunarway.com/static/a20ae910-81c2-46cd-a4dc-a984b632c65b_lunar-private-hero-optimized-2b2944c0893983dd098c17509f41bf3e.png
 tags:
-  - investering
-excerpt: "Lunar er en moderne bankapp, der giver cashback for at bruge deres kort og have NemKonto hos dem."
+  - betalingskort
+excerpt: "Lunar er en moderne bank med en rigtig god app, hvor du kan styre hele din økonomi."
 last_modified_at: 2019-10-03T00:00:00+08:00
 toc: true
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: "Lunar er en moderne bank"
+    url: /go/lunar/
+    btn_label: "Få 50 DKK og Lunar*"
+    btn_class: "btn--success"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

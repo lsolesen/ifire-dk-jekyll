@@ -1,12 +1,20 @@
 ---
-title: "Lendahand"
+title: &title "Lendahand"
 permalink: /platform/lendahand/
 header:
-   teaser: /assets/images/logo/lendahand.png
+   teaser: &logo /assets/images/logo/lendahand.png
 tags:
   - crowdlending
 #excerpt: "På Lendahand kan du investere i udviklingsprojekter i Afrika og Mongoliet. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."
 last_modified_at: 2019-06-22T00:00:00+08:00
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: "På Lendahand investerer du i udviklingsprojekter i udviklingslande. Du får 25 EUR ved oprettelsen."
+    url: /go/lendahand/
+    btn_label: "Få 25 EUR hos Lendahand*"
+    btn_class: "btn--success"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

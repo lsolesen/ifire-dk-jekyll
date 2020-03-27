@@ -1,13 +1,21 @@
 ---
-title: "Nord.Investments"
+title: &title "Nord.Investments"
 permalink: /platform/nord/
 header:
-  teaser: /assets/images/logo/nord.png
+  teaser: &logo /assets/images/logo/nord.png
 tags:
   - investering
   - robot
 excerpt: "Nord.Investments er en investeringsrobot"
 last_modified_at: 2019-06-05T00:00:00+08:00
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: *excerpt
+    url: /go/nord/
+    btn_label: "Få gratis investeringsplan*"
+    btn_class: "btn--success"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

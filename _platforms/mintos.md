@@ -1,13 +1,21 @@
 ---
-title: "Mintos"
+title: &title "Mintos"
 permalink: /platform/mintos/
 header:
-  teaser: /assets/images/logo/mintos.png
+  teaser: &logo /assets/images/logo/mintos.png
 tags:
   - crowdlending
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
 last_modified_at: 2019-08-17T20:01:00+08:00
 toc: true
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: "Bliv en del af Europas største crowdlending platform med årlige afkast på 10%+"
+    url: /go/revolut/
+    btn_label: "Få Mintos*"
+    btn_class: "btn--info"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

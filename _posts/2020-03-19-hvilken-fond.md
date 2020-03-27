@@ -49,37 +49,17 @@ Morningstar er en anerkendt, international virksomhed, der rater alle fonde - b�
 
 Fondene skal have været i gang et stykke tid, inden de får en rating fra morningstar.
 
-## Tjek de annualiserede afkast
-
-Du kan tjekke fondens annualiserede afkast, hvor fonden sammenlignes med kategorien og indekset. Hvis du tjekker en passivt forvaltet fond, så skal den gerne ligge relativt tæt på sit indeks.
-
-Men her kan det også hurtigt blive lidt kryptisk. Fx følger BlackRocks iShares MSCI World (EUNL) indekset MSCI World, som er et underindeks af MSCI All-Countries World Index (ACWI). MSCI World indeholder kun 23 udviklede lande, mens MSCI ACWI indeholder både udviklede og udviklingslande. I [Morningstars oversigt](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ&tab=1&InvestmentType=FE) sammenlignes den imidlertid med MSCI ACWI. Fondens afkast ligger relativt tæt på indekset. Variationerne skyldes formentlig hvor godt udviklingslandene (MSCI Emerging) har klaret sig relativt set ift. de udviklede lande disse år.
-
-{% include figure image_path="/assets/images/book/eunl-afkast.png" caption="Fra [Morningstars afkastoversigt for EUNL](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ&tab=1&InvestmentType=FE)" %}
-
-Hvis man fx kigger på Sparinvest INDEX DJSI World (SPIDJWKL), som egentlig følger et indeks med 51 lande, men som er screenet i forhold til bæredygtighed og etik, så sammenlignes det stadig med MSCI ACWI i forhold til afkast.
-
-{% include figure image_path="/assets/images/book/djsi-afkast.png" caption="[Morningstars afkastoversigt for DJSI](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG&tab=1)" %}
-
-Det er altså vigtigt, at du er opmærksom på, hvad du sammenligner.
-
 ## Risiko
 
 Fondene klassificeres på en skala fra 1-7 i forhold til forventet risiko. Aktiefonde har højere risiko end obligationsfonde. Når du påtager dig højere risiko, må du forvente et højere afkast. Men du skal også have en længere tidshorisont for din investering. Tvinges du til at sælge dine værdipapirer på et bestemt tidspunkt, er der nemlig risiko for, at du må tage et tab.
 
 {% include figure image_path="/assets/images/book/djsi-risiko.png" caption="[Morningstar Risiko og Rating for DJSI](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG&tab=2)" %}
 
-## Standardafvigelsen
+### Standardafvigelsen
 
 Standardafvigelsen sammenligner udsvinget i fondens afkast ift. markedets udsving. Standardafvigelsen på afkast måler derfor risikoen ved værdipapiret. Når du vælger fonde, så kan du forsøge at finde fonde inden for samme kategori med så højt afkast som muligt med en så lav standardafvigelse som muligt.
 
-## Tracking error
-
-En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nogenlunde. Der er ikke nogen fonde, der nøjagtigt kan følge indekset, men de skal gerne komme tæt på. Fx følger Sparinvest INDEX Globale Aktier (SPVIGAKL) indekset MSCI ACWI IMI, der har omkring 9.000 aktier fra både udviklede og udviklingslande. Selve investeringsafdelingen består kun af 463 aktier - og det er så afgørende, at udviklingen i de 463 ender med at følge indekset. 
-
-{% include figure image_path="/assets/images/book/spvigakl-afkast.png" caption="[Afkast sammenlignet med Benchmark for SPVIGAKL](https://www.sparinvest.dk/afdelinger/indeks/index%20globale%20aktier%20kl.aspx)" %}
-
-## Sharpe Ratio - kan risikoen betale sig?
+### Sharpe Ratio - kan risikoen betale sig?
 
 Sharpe ratio indikerer, hvor god en fond er til at få afkast i forhold til risikoen. Moderne porteføljeteori forudsætter, at en (rationel) investor ønsker altid så højt afkast som muligt i forhold til riskoen ved investeringen. Ved større risiko bør afkastet være højere.
 
@@ -102,6 +82,20 @@ R<sub>f</sub> = forventede risiko-frie afkast (fx en obligation)
 
 Jeg har ikke kunnet finde nogle passive indeksforeninger eller ETF'er, der dækker verdensmarkedet, som har en høj _Sharpe Ratio_.
 
+## Følger fonden indekset
+
+Der er to begreber, det kan være godt at kende i denne forbindelse. Ofte nævnes _tracking error_ som et vigtigt parameter, men måske er _benchmarkafkast-afvigelsen_ et endnu bedre tal at forholde sig, fordi du kan bruge det til at opdage systematiske afvigelser fra indekset.
+
+### Tracking error
+
+En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nogenlunde. Der er ikke nogen fonde, der nøjagtigt kan følge indekset, men de skal gerne komme tæt på. Fx følger Sparinvest INDEX Globale Aktier (SPVIGAKL) indekset MSCI ACWI IMI, der har omkring 9.000 aktier fra både udviklede og udviklingslande. Selve investeringsafdelingen består kun af 463 aktier, men fondens samlede afkast skal stadig følge indekset. 
+
+{% include figure image_path="/assets/images/book/spvigakl-afkast.png" caption="[Afkast sammenlignet med Benchmark for SPVIGAKL](https://www.sparinvest.dk/afdelinger/indeks/index%20globale%20aktier%20kl.aspx)" %}
+
+### Benchmarkafkast-afvigelsen (BA)
+
+Ved at trække benchmarkafkastet fra fondsafkastet kan du finde benchmarkafkastafvigelsen. Benchmarkafkastafvigelsen har et fortegn, så du kan opdagee systematiske afvigelser i fondens afkast.
+
 ## Omkostninger
 
 Hvis du er langsigtet investor, så har de årlige omkostninger i fonden stor betydning for, hvor højt dit samlede afkast kan ende med at blive. Der er relativt stor forskel på, hvad de årlige omkostninger er. Der er især stor forskel på, hvad de aktive fonde har i årlige omkostninger, sammenlignet med de passive fonde. Men du vil også se en stor forskel mellem danske investeringsforeninger og udenlandske ETF’er.
@@ -109,6 +103,20 @@ Hvis du er langsigtet investor, så har de årlige omkostninger i fonden stor be
 ## Udbyttebetalende eller akkumulerende
 
 En fond kan være enten udbyttebetalende eller akkumulerende. Hvis fonden udbetaler udbytte, så får du en gang om året udbetalt penge til dit aktiedepot. Dette udbytte kan du så trække ud eller geninvestere. Hvis fonden derimod er akkumulerende, så sørger fonden selv for at geninvestere de udbytter, der kommer løbende. Der er fordele og ulemper ved begge typer fonde - og der er forskel på beskatningen af de to typer.
+
+## Tjek de annualiserede afkast
+
+Du kan tjekke fondens annualiserede afkast, hvor fonden sammenlignes med kategorien og indekset. Hvis du tjekker en passivt forvaltet fond, så skal den gerne ligge relativt tæt på sit indeks.
+
+Men her kan det også hurtigt blive lidt kryptisk. Fx følger BlackRocks iShares MSCI World (EUNL) indekset MSCI World, som er et underindeks af MSCI All-Countries World Index (ACWI). MSCI World indeholder kun 23 udviklede lande, mens MSCI ACWI indeholder både udviklede og udviklingslande. I [Morningstars oversigt](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ&tab=1&InvestmentType=FE) sammenlignes den imidlertid med MSCI ACWI. Fondens afkast ligger relativt tæt på indekset. Variationerne skyldes formentlig hvor godt udviklingslandene (MSCI Emerging) har klaret sig relativt set ift. de udviklede lande disse år.
+
+{% include figure image_path="/assets/images/book/eunl-afkast.png" caption="Fra [Morningstars afkastoversigt for EUNL](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ&tab=1&InvestmentType=FE)" %}
+
+Hvis man fx kigger på Sparinvest INDEX DJSI World (SPIDJWKL), som egentlig følger et indeks med 51 lande, men som er screenet i forhold til bæredygtighed og etik, så sammenlignes det stadig med MSCI ACWI i forhold til afkast.
+
+{% include figure image_path="/assets/images/book/djsi-afkast.png" caption="[Morningstars afkastoversigt for DJSI](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG&tab=1)" %}
+
+Det er altså vigtigt, at du er opmærksom på, hvad du sammenligner.
 
 ## Find den bedste fond?
 
