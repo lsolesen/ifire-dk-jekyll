@@ -39,6 +39,8 @@ Du kan se [indtjeningen i min portefølje i aktier og obligationer](/investering
 
 ## Crowdlending
 
+{% include crowdlending-warning.html %}
+
 I alt har jeg i august måned tjent **2.588 DKK** på crowdlending, og jeg venter stadig meget tålmodigt på at ejendomsplatformene begynder at give afkast.
 
 I denne måned har [Flexfunding](/go/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
@@ -57,7 +59,7 @@ Jeg overvejede at smide lidt flere penge efter [PropertyPartner\*](/go/propertyp
 
 [Få 50-250 GBP i cashback hos Kuflink\*](/go/kuflink/){: .btn .btn--large .btn--warning}
 
-Min investering i en kamel på [Agrikaab\*](/go/agrikaab) sammen med mine børn (de kalder kamelen Elna) er blevet effektueret, og der burde snart komme lidt udbytte ved salg af mælk. [Lendahand\*](/go/lendahand/) har en masse fine projekter, hvor man kan hjælpe Mellemamerika, Afrika og Asien - og starte med _25 EUR i sign up bonus_. Dog skal man vente et halvt år, inden der udbetales (et relativt begrænset) udbytte. [Trine\*](/go/trine/) - hvor jeg investerer i solenergi i Afrika - er begyndt at give udbytte, og der er jævnligt nye projekter.
+Min investering i en kamel på [Agrikaab\*](/go/agrikaab) sammen med mine børn (de kalder kamelen Elna) er blevet effektueret, og der burde snart komme lidt udbytte ved salg af mælk. [Lendahand\*](/go/lendahand/) har en masse fine projekter, hvor man kan hjælpe Mellemamerika, Afrika og Asien - og starte med _25 EUR i sign up bonus_. Dog skal man vente et halvt år, inden der udbetales (et relativt begrænset) udbytte. [Trine\*](/go/trine/) - hvor jeg investerer i solenergi i Afrika - er begyndt at give udbytte, og der er jævnligt nye projekter. <ins>**Agrikaab lukkede ned marts 2020.**</ins>
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 

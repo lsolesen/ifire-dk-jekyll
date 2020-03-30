@@ -12,11 +12,13 @@ last_modified_at: 2019-06-10T20:22:02+02:00
 classes: wide
 ---
 
+{% include crowdlending-warning.html %}
+
 Crowdlending er en måde at tjene passiv indkomst på. Du låner dine penge ud til enten andre private eller virksomhed, og du tjener penge på renter. Du leverer således _cash flow_ til låneudbydere, og du får en indtægtskilde.
 
 Der er både crowdlending sites på dansk og på engelsk. De klart mest lukrative renter får du på udenlandske crowdlending sites. Når du investerer i crowdlending kan det være rigtig godt at diversificere dine investeringer - både på den enkelte platform med forskellige lånetyper, men også ved at have flere platforme. Jeg selv har nok lige rigeligt i øjeblikket, men pointen er at du skal lave en risikostrategi som ved alle andre investeringer.
 
-- [Envestio\*](/go/envestio/) lokker en gennemsnitlig rente på 18,55%
+- <del>[Envestio\*](/go/envestio/) lokker en gennemsnitlig rente på 18,55%</del><ins>Envestio lukkede ned som et _scam_ i januar 2020.</ins>
 - [Mintos\*](/go/mintos/) med 12% p.a.
 
 Men hvornår begynder man egentlig at tjene noget der ligner de procenter, der bliver lovet på de forskellige platforme?

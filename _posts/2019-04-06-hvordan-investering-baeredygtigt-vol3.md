@@ -202,6 +202,8 @@ MakeImpact App'en er imidlertid baseret på selskabernes egenevaluering, så du 
 
 ## Andre typer bæredygtige investeringer
 
+{% include crowdlending-warning.html %}
+
 Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men der er naturligvis også andre muligheder for at investere. Fx har jeg investeret i crowdlending gennem [Trine\*](/go/trine/), som har specialiseret sig i at udbyde lån til udviklingsprojekter af især solenergi i Afrika. Ift. andre crowdlending-udbydere er udbyttet begrænset, men formålet er primært at sætte et godt fodaftryk i verden.
 
 Jeg har også købt nogle træer gennem [Better Globe](/platform/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte. <ins>Overvej dog grundigt om det er en investering for dig ved at [læse mere om platformen](/platform/betterglobe/).</ins>

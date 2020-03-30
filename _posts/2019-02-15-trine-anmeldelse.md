@@ -12,7 +12,9 @@ tags:
 excerpt: "Anmeldelse af crowd lending platformen Join Trine, der er særligt målrettet mod bæredygtige projekter."
 ---
 
-[Trine*](/go/trine/) er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_. Join Trine er en svensk platform, der blev stiftet i 2014. Join Trine specialiserer sig i solenergi i en række afrikanske lande. 
+{% include disclosure.html %}
+
+[Trine\*](/go/trine/) er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_. Join Trine er en svensk platform, der blev stiftet i 2014. Join Trine specialiserer sig i solenergi i en række afrikanske lande. 
 
 Det er altid en god ide at sprede risikoen, så jeg har smidt mine investeringer foreløbigt i et par forskellige solpanel-projekter i to forskellige lande.
 
@@ -38,7 +40,7 @@ Platformen udbyder gavekort, så du kan give folk en gave, der bliver mere værd
 
 Jeg har skrevet til support på platformen for at tjekke responstiden, og de svarede inden for en time af min henvendelse.
 
-[Join Trine](/go/trine/){: .btn .btn--large .btn--warning}
+[Join Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
 
 ## Sætte penge ind og hive dem ud igen
 
@@ -48,7 +50,7 @@ Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvi
 
 ## Vær opmærksom på
 
-[Join Trine*](/go/trine/) er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika, og der er ikke _buy back_ på lånene. Investeringer i Trine er altså ikke uden risiko. Jeg opdaterer naturligvis anmeldelsen senere med, hvordan mine investeringer på Trine går. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
+[Join Trine\*](/go/trine/) er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika, og der er ikke _buy back_ på lånene. Investeringer i Trine er altså ikke uden risiko. Jeg opdaterer naturligvis anmeldelsen senere med, hvordan mine investeringer på Trine går. Foreløbig har jeg kun et godt indtryk af virksomheden. De svarer hurtigt på spørgsmål på e-mails, men der er altid en risiko, når der kun er en låneudbyder - og økonomierne i Afrika er måske ikke kendt for at være stabile.
 
 ## En mere bæredygtig portefølje?
 
@@ -58,6 +60,8 @@ Jeg går i øjeblikket og overvejer, hvordan jeg kan gøre mine samlede invester
 
 Husk at jeg ikke er finansiel rådgiver, men selv ude på et eventyr i denne verden. Crowdfunding og crowdlending indebærer risiko, så husk at sprede dine investeringer.
 
-[Lav bæredygtige investeringer på Trine*](/go/trine/){: .btn .btn--large .btn--warning}
+[Lav bæredygtige investeringer på Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
+
+{% include crowdlending-warning.html %}
 
 {% include disclaimer.md %}

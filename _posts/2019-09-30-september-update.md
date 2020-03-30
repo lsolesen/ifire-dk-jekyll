@@ -91,6 +91,8 @@ Du kan se [indtjeningen i min portefølje med værdipapirer](/investeringer/).
 
 ### Crowdlending
 
+{% include crowdlending-warning.html %}
+
 Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
 
 Jeg har min største investering i [Mintos\*](/go/mintos/). Min interne rente er faldet lidt i løbet af september, men det hænger formentlig først og fremmest sammen med at jeg kraftigt har øget min investering i Mintos. Hovedparten af min investering  har jeg lagt over i _Invest & Access_, fordi jeg oplever _cash drag_ på min _auto invest_. Jeg holder fortsat en intern rente over 13% - og nyder også at jeg har hurtig likviditet på denne måde, hvis det bliver nødvendigt.
@@ -120,7 +122,7 @@ Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/trine/) - og investeringerne har efterhånden rundet de 4% i intern rente, hvilket jeg er rigtig god tilfreds med. Hos [Lendahand\*](/go/lendahand/) er der mulighed for at finde mange spændende udviklingsprojekter - og jeg ser frem til at det første afkast begynder at tikke ind omkring nytår. Jeg afventer også stadig at den kamel, jeg har købt sammen med ungerne i [Agrikaab\*](/go/agrikaab/) begynder at give lidt afkast. Men alt i alt er jeg med i alle disse projekter, fordi jeg håber, at de kan gøre en forskel i verden. Det føles noget bedre end at donere pengene væk.
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/trine/) - og investeringerne har efterhånden rundet de 4% i intern rente, hvilket jeg er rigtig god tilfreds med. Hos [Lendahand\*](/go/lendahand/) er der mulighed for at finde mange spændende udviklingsprojekter - og jeg ser frem til at det første afkast begynder at tikke ind omkring nytår. Jeg afventer også stadig at den kamel, jeg har købt sammen med ungerne i [Agrikaab\*](/go/agrikaab/) begynder at give lidt afkast. Men alt i alt er jeg med i alle disse projekter, fordi jeg håber, at de kan gøre en forskel i verden. Det føles noget bedre end at donere pengene væk. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
 [Invester hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
 

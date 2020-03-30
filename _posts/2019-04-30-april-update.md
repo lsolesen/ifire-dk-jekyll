@@ -39,7 +39,9 @@ I april har jeg tjent **-38 DKK på investeringer i værdipapirer**, men har få
 
 [Få en gratis investeringsplan fra Nord.investments*](/go/nord/){: .btn .btn--large .btn--info}
 
-## Crowd lending
+## Crowdlending
+
+{% include crowdlending-warning.html %}
 
 Jeg har valgt at lave et Premium-abonnement på [Revolut\*](/go/revolut/), da jeg gerne ville skyde lidt flere penge i crowdlending hurtigere. På den gratis version af Revolut, kan man veksle 40.000 DKK om måneden. Det koster omkring 60 DKK om måneden at have Premium, og så kan man veksle ubegrænset. Desværre skal man binde sig for et år, men det giver altså samlet mindre end jeg kan tjene på at have pengene udlånt. Jeg forventer ikke at forlænge om et år, da jeg forventer at mine transaktioner i crowdlending-markedet falder betydeligt - og da har jeg allerede hovedparten af mine penge i markedet i EUR.
 
@@ -47,7 +49,7 @@ Jeg har valgt at lave et Premium-abonnement på [Revolut\*](/go/revolut/), da je
 
 I månedens løb har der været lidt _cash drag_ på **[FastInvest (EUR)\*](/go/fastinvest/)** og **[Grupeer\*](/go/grupeer/)**, men jeg har lavet lidt manuelle investeringer - og så hjalp lidt tålmodighed med _auto invest_ også.
 
-På [Envestio\*](/go/envestio/) er det lykkes at nå med på lidt flere projekter. Man skal gå ind på [Envestio\*](/go/envestio/) så snart, man får en notifikation i sin e-mail.
+<del>På [Envestio\*](/go/envestio/) er det lykkes at nå med på lidt flere projekter. Man skal gå ind på [Envestio\*](/go/envestio/) så snart, man får en notifikation i sin e-mail.</del><ins>**Envestio var et _scam_ og lukkede ned i januar 2020.</ins>
 
 Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afprøve [Bulkestate*](/go/bulkestate/), og det virker som en lovende platform, hvor jeg kan få endnu mere ud af boligmarkedet. Det er også lykkes mig at investere i [Brickshare](/go/brickshare/)s nyeste projekt på Nørrebro. Desuden har jeg sat lidt flere penge ind på [ReInvest24\*](/go/reinvest24/), [Crowdestate\*](/go/crowdestate/), [PropertyPartner\*](/go/propertypartner/) og [Housers\*](/go/housers/). Jeg glæder mig til at følge investeringerne.
 

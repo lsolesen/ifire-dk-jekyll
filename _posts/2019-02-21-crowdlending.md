@@ -9,6 +9,10 @@ tags:
 excerpt: "Crowdlending er i vækst - og et marked, hvor du kan få tocifrede afkast procenter."
 ---
 
+{% include disclosure.html %}
+
+{% include crowdlending-warning.html %}
+
 Det bliver mere og mere populært at investere i udlån af penge til private og virksomheder. Og der er efterhånden rigtig mange gode platform, hvor du kan komme i gang. Afkastet på platformene slår ofte aktier og kan også være tocifret, så det kan være en attraktiv måde at investere sine penge på.
 
 Jeg overvejer stadig, hvor meget crowdlending skal være af min samlede portefølje, men jeg har efterhånden investeret i mere end 10 forskellige platforme med hver deres fordele og ulemper.
@@ -74,9 +78,9 @@ Jeg skal have kigget alle platformene efter ift. _auto invest_, og hvordan jeg g
 
 ## Kom i gang med crowdlending
 
-[Mintos*](/go/mintos/){: .btn .btn--large .btn--success} eller [Grupeer*](/go/grupeer/){: .btn .btn--large .btn--success} eller [PeerBerry*](/go/peerberry/){: .btn .btn--large .btn--success} eller [FastInvest*](/go/fastinvest/){: .btn .btn--large .btn--success}
+{% include crowdlending-warning.html %}
 
-{% include disclaimer.md %}
+[Mintos\*](/go/mintos/){: .btn .btn--large .btn--success } eller [PeerBerry*](/go/peerberry/){: .btn .btn--large .btn--success }
 
 Lige nu er jeg ved at gøre mig erfaringer med en masse forskellige platforme:
 
@@ -95,3 +99,5 @@ Lige nu er jeg ved at gøre mig erfaringer med en masse forskellige platforme:
 </div>
 
 ***
+
+{% include disclaimer.md %}

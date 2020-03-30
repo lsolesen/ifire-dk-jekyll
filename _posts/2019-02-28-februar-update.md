@@ -31,7 +31,9 @@ Jeg har sendt lidt prøveballoner op ift. Darwin og NORD.investments, som er aut
 
 Jeg har således sat et meget lille beløb ind på Darwin App, som samarbejder med min bank, bare for at se, hvordan det fungerer.
 
-## Crowd lending
+## Crowdlending
+
+{% include crowdlending-warning.html %}
 
 I løbet af februar er jeg gået massivt ind i _crowd lending.
 

@@ -59,6 +59,8 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
+{% include crowdlending-warning.html %}
+
 Faktisk går mine crowdlending-investeringer udemærket som helhed. Men markedet er bekymret i øjeblikket og jeg blev mindet om, at investeringerne er høj risiko.
 
 Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/). 
@@ -95,9 +97,9 @@ Jeg reducererer eksponeringen mod crowdlending løbende de næste måneder og ov
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Som planlagt har både Agrikaab (7,33%) og Lendahand (3,13%) givet afkast i løbet af januar - og Trine kører også stabilt med en intern rente på 6,56%. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det dejligt at de giver et godt afkast.
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Som planlagt har både Agrikaab (7,33%) og Lendahand (3,13%) givet afkast i løbet af januar - og Trine kører også stabilt med en intern rente på 6,56%. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det dejligt at de giver et godt afkast. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning } eller [Agrikaab\*](/go/agrikaab/){: .btn .btn--large .btn--success }
+[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning }
 
 ## Opsparing
 

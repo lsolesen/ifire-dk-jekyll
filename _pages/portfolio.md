@@ -7,6 +7,8 @@ author_profile: true
 toc: true
 ---
 
+{% include disclosure.html %}
+
 På denne side kommer du til at kunne se mit samlede portfolio, og hvordan jeg lige nu forholder mig til investering og opsparing.
 
 ## Investeringer

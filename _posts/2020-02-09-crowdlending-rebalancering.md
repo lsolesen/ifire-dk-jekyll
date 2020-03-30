@@ -1,6 +1,6 @@
 ---
 title: "Rebalancering af crowdlending ud fra risk-reward"
-last_modified_at: 2020-02-10T09:20:02+02:00
+last_modified_at: 2020-03-30T09:20:02+02:00
 permalink: /crowdlending-rebalancering/
 category:
   - Investering
@@ -10,9 +10,18 @@ excerpt: "Crowdlending er en højrisikoinvestering, men platformene er meget for
 classes: wide
 ---
 
+<ins>**Advarsel**: Læs venligst første afsnit grundigt. Du kan finde en meget bedre analyse hos [Kristaps Mors: P2P platform ratings - March 2020](https://kristapsmors.substack.com/p/p2p-platform-ratings-march-2020).</ins>
+{: .notice .notice--danger }
+
 Når man investerer i crowdlending kan det være let at miste fokus og ende med et en rodet portefølje, fordi man bliver lokket af _cash back_, _sign up_-bonusser, lovninger om høje renter. De fleste platforme er jeg endt med at skrive mig op til ved at have læst en blogger, der nævner platformen og samtidig lover en _sign up_-bonus. Bloggeren har formentlig skrevet om platformen, fordi vedkommende samtidig har en _referral_-aftale med platformen. (Min egen side er ingen undtagelse. Hvis du bruger et link på min side, er det typisk et referral-link.)
 
 Udfordringerne med Kuetzal og Envestio (som jeg selv havde investeret i) og bekymringerne ift. nogle af de andre platforme har mindet mig om, at jeg skal have rebalanceret min crowdlending-portefølje. Først og fremmest skal jeg have bragt min investering lidt ned, men jeg skal også have rebalanceret mellem platformene.
+
+<ins>Kristaps Mors har lavet en [P2P platform ratings - March 2020](https://kristapsmors.substack.com/p/p2p-platform-ratings-march-2020), som er meget mere kvalificeret end følgende forsøg. Tjek det ud før du overvejer noget som helst crowdlending.</ins>
+
+Du kan læse videre i min originale artikel, hvis du vil.
+
+***
 
 Jeg har imidlertid ikke helt kunnet finde ud af, hvordan jeg ville gribe det an indtil jeg blev inspireret af [Risk Adjusting My P2P Lending Portfolio](https://www.onemillionjourney.com/risk-adjusting-my-p2p-lending-portfolio/) og [Nerd Factor’s Risk vs Return Analysis P2P Portfolio](https://factornerd.com/a-risk-vs-return-analysis-of-my-p2p-lending-portfolio/). De har lavet deres egne risiko-afkast-vurderinger af platformene, og det er dem jeg vil tage udgangspunkt i, når jeg laver min egen rebalancering af min portefølje.
 
@@ -131,7 +140,7 @@ I den anden ende af skalaen har vi følgende:
 
 Her er det tydeligt, at vi har med crowdlending platforme, der specialiserer sig i ejendomsmarkedet. Det er også dem, der scorer lavest. Jeg har brug for at undersøge [EvoEstate\*](/go/evoestate/) før jeg øger eksponeringen til den platform, men jeg vil helt sikkert sænke eksponeringen mod de ovenstående platforme ud fra min analyse.
 
-Jeg har også [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/) og [Agrikaab\*](/go/agrikaab/), som jeg investerer i pga. bæredygtige og velgørende formål, så dem fastholder jeg, selvom deres risk-reward ratio ikke er fantastisk.
+Jeg har også [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/)<del> og [Agrikaab\*](/go/agrikaab/)</del>, som jeg investerer i pga. bæredygtige og velgørende formål, så dem fastholder jeg, selvom deres risk-reward ratio ikke er fantastisk. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
 I følgende radar-graf kan du se, hvordan de enkelte platforme er blevet vurderet. Den **røde linje med risk-return vurderingen** er den vigtigste, men den **blå med platformsikkerheden** er også ret væsentlig. Fx scorer [Bondora\*](/go/bondora/) ikke så højt på risk-reward, men sikkerheden i platformen er ret høj.
 

@@ -4,7 +4,6 @@ title: Inspiration
 permalink: /inspiration/
 excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed og tidlig pensionering."
 author_profile: true
-classes: wide
 feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
     alt: "Bank"
@@ -78,6 +77,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+classes: wide
 ---
 
 {% include disclosure.html %}
@@ -95,3 +95,15 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+
+## FIRE
+
+### TV
+
+- [DR - Stå af hamsterhjulet](https://www.dr.dk/drtv/program/staa-af-hamsterhjulet-_-med-penge-nok-til-resten-af-livet_78056)
+
+### Podcasts
+
+- ChooseFI
+- Our Rich Journey
+- Afford Anything

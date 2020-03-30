@@ -115,6 +115,8 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
+{% include crowdlending-warning.html %}
+
 Jeg er ved at reducere min samlede crowdlending-portefølje og i den forbindelse skrev jeg tidligere [et forslag til, hvordan man kan lave en risiko-afkast-analyse af crowdlending-platformene](/crowdlending-rebalancering/). Jeg hæver stille og roligt penge fra nogle platforme og overfører til andre platforme eller til min aktie-portefølje, så de kommer tættere på min ideelle allokation.
 
 Husk at med crowdlending er det forventede afkast. På crowdlending platformene er der opgjort et tal, men man kan jo reelt ikke vide, hvad det endelige afkast er, før man hæver hele beløbet fra kontoen. Jeg har fx skrevet til RoboCash-support, hvordan det kan være, at man interne rente er faldet fra omkring 10%+ til 6% efter, at jeg har fået _payout_ i stedet for at reinvestere pengene.
@@ -125,6 +127,9 @@ _Risk-reward_-tallet fra min analyse er naturligvis ret afhængigt af afkastet. 
 Jeg hæver også løbende fra [FastInvest\*](/go/fastinvest/), fordi folk i crowdlending-miljøet er ret skeptiske over for platformen. Den performer dog rigtig godt for mig og pengene udbetales planmæssigt (selvom de har en fast 5 dages forsinkelse, som de også skriver på deres hjemmeside).
 
 [Agrikaab\*](/go/agrikaab/) har omlagt deres forretningsmodel, så de i fremtiden vil tilbyde mikrofinansiering til lokale i Somalia. Derfor er de i gang med at sælge de projekter, jeg har investeret i (kameler og vandopsamling). Det er garanteret en god beslutning for Agrikaab, men jeg synes det var spændende med de særlige projekter. Jeg håber, at nogle af projekterne fremover kan have samme karakter. Ellers kommer [Agrikaab\*](/go/agrikaab/) nok til at ligne [Lendahand\*](/go/lendahand) en hel del, men det bliver spændende at følge. Da min sikkerhedsscore på Agrikaab er lavere end Lendahand og [Trine\*](/go/trine/), så vil jeg nok allokere mine øremærkede bæredygtige og velgørende investeringer den vej i stedet.
+
+<ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
+{: .notice .notice--warning }
 
 [Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--danger }
 
@@ -142,9 +147,9 @@ Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/) og [Agrikaab\*](/go/agrikaab/). Trine kører også stabilt med en intern rente på omkring 7%, mens Lendahand forhåbentlig over tid kommer til at give lidt mere end de 3,3%. Hvad fremtiden bringer for Agrikaab - og om det lykkes dem at sælge deres nuværende projekter er lidt spændende. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det jo også dejlig med et afkast.
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/)<del> og [Agrikaab\*](/go/agrikaab/)</del>. Trine kører også stabilt med en intern rente på omkring 7%, mens Lendahand forhåbentlig over tid kommer til at give lidt mere end de 3,3%. Hvad fremtiden bringer for Agrikaab - og om det lykkes dem at sælge deres nuværende projekter er lidt spændende. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det jo også dejlig med et afkast. <ins>**Agrikaab lukkede ned marts 2020 - og jeg har sandsynligvis mistet hele det investerede beløb.**</ins>
 
-[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning } eller [Agrikaab\*](/go/agrikaab/){: .btn .btn--large .btn--success }
+[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning }
 
 ## Opsparing
 
@@ -154,7 +159,7 @@ Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), og jeg venter sp�
 
 Jeg er begyndt at bruge [Curve\*](/go/curve/) som mit primære betalingskort, fordi jeg synes, at det er ret genialt, at man i praksis kan nøjes med at have et kort med, men kan betale via alle sine betalingskort. Jeg fik sendte Curve-kortet med min familie til Ikea og fik på den måde lidt cashback (som tilbydes på tre forskellige firmaer de første 90 dage).
 
-[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success } 
+[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }
 [Smart Bankapp med Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
 

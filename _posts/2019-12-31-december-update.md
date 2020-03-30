@@ -47,9 +47,11 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
+{% include crowdlending-warning.html %}
+
 I løbet af december er der begyndt at florere flere og flere historier om crowdlending-udfordringer. [Kuetzal har haft store problemer](https://financiallyfree.eu/concerns-about-kuetzal-is-kuetzal-a-scam/), men jeg har heldigvis ikke investeret i dem. 
 
-- [Envestio](/platform/envestio/) har skiftet ejerkreds, og det har skabt lidt [bekymringer for Envestios fremtid, som de dog svarer nogenlunde tilfredsstillende på](https://colminey.com/envestio-calming-news). Envestio har imidlertid fortsat for mig _kun_ en intern rente på 12,15%, hvilket får mig til at overveje om det er risikoen værd. Jeg sætter ikke flere penge ind på kontoen og vil ved tilbagebetalinger trække penge ud. Det skal dog bemærkes at alle tilbagebetalinger ser ud til at falde til tiden. 
+- [Envestio](/platform/envestio/) har skiftet ejerkreds, og det har skabt lidt [bekymringer for Envestios fremtid, som de dog svarer nogenlunde tilfredsstillende på](https://colminey.com/envestio-calming-news). Envestio har imidlertid fortsat for mig _kun_ en intern rente på 12,15%, hvilket får mig til at overveje om det er risikoen værd. Jeg sætter ikke flere penge ind på kontoen og vil ved tilbagebetalinger trække penge ud. Det skal dog bemærkes at alle tilbagebetalinger ser ud til at falde til tiden. <ins>**Envestio var et scam og lukkede ned i januar 2020**</ins>.
 - [RoboCash\*](/go/robocash/) har [suspenderet investeringer i en af deres låneudbydere](https://robo.cash/news/robocash_suspends_investment_into_the_loans_of_robocash_finance_corp). For mig virker det som om RoboCash håndterer udfordringerne, og [RoboCash\*](/go/robocash/) kører uden udfordringer for mig, selvom den interne rente er faldet til omkring 10,03% i denne måned.
 - [Mintos\*](/go/mintos/) har haft flere låneudbydere, men som samleplatform virker Mintos til at være dygtige til at håndtere udfordringerne. Jeg investerer kun i lån fra låneudbydere med en rating bedre end B-. Den interne rente på Mintos er faldet til 11,17%, men det er meget tilfredsstillende, når man tænker på, hvor let platformen er - og hvor stor diversificering man kan få.
 
@@ -65,9 +67,9 @@ I alt har jeg tjent **3.969 DKK** på crowdlending i løbet af denne måned. Det
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Fra næste måned kommer der endelig afkast fra Lendahand.
+Jeg investerer i solenergi og andre udviklingsprojekter<del> gennem [Agrikaab\*](/go/agrikaab/),</del> [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Fra næste måned kommer der endelig afkast fra Lendahand. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Agrikaab\*](/go/agrikaab/){: .btn .btn--large .btn--success }
+Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning }
 
 ## Opsparing
 

@@ -6,14 +6,43 @@ header:
 tags:
   - crowdlending
 #excerpt: "På Agrikaab kan du investere i afrikanske udviklingsprojekter. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."
-last_modified_at: 2019-06-14T00:00:00+08:00
+last_modified_at: 2020-03-30T10:00:00+08:00
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 14. juni 2019  
-**Totalt indskud**: 1.010 USD  
+**Totalt indskud**: 1.600 USD  
 **Totalt trukket ud**: 0 USD
+**Tabt investering**: 1600 USD
+
+## Marts 2020 - Agrikaab er lukket ned
+
+Desværre så har jeg formentlig tabt alle mine penge på Agrikaab. Det er virkelig ærgerligt, da projektet var godt.
+
+> Sadly this means losses of some or all of the capital invested in the projects. However, we will continue to look for buyers and if we find them we will refund any proceeds to the investors.
+
+--- <cite>E-mail til investorer fra Agrikaab</cite>
+
+Agrikaab lukkede ned med følgende besked på deres hjemmeside:
+
+> Dear users,
+>
+> Regrettably, Agrikaab is shutting down due to the impact of the economic crisis. We have exhausted all options to keep this company alive as we have reached a point where we are unable to pay staff salaries, buy feed and fertilizers for animals and farms.
+>
+> Two months ago we announced that we want to focus on the new microfinance service and wind down existing projects. Unfortunatley, it has proven difficult to find investors or buyers for the projects as there is a very low interest in new investments due to the current economic crisis. Somalia's economy is heavily dependent on remittances from Europe/US, foreign aid and trade which are all badly impacted by the coronavirus crisis. In addition, external funding we expected to receive from our global users has dried up.
+>
+> We have put every bit of our energy into this company, but we weren’t able to turn the corner on creating a profitable business due to the difficult working environments and unforeseen situations. Although as a business we didn't succeed we are proud of the impact and contribution we have made to the community. 
+>
+> We have sent an email with more details to users who have participated in our projects. Please direct any questions to info@agrikaab.com (only this email will work). We will answer at the earliest convenience.
+>
+> Best regards
+>
+> Agrikaab Team
+
+## Højrisiko-investering
+
 
 Agrikaab (tidligere Ari.farm) investerer i landbrug i Østafrika, og firmaet fortæller selv, at det er en investering i Afrikas fødevaresikkerhed. Agrikaab blev grundlagt af den tidligere nomade Mohamed Jimale i 2016, da Somalia blev ramt af en forfærdelig tørke, som påvirkede livet for mange nomader i Somalia. Agrikaab gør det muligt at investere i landbruget i Somalia og skabe job til nomaderne.
 

@@ -9,6 +9,10 @@ author_profile: true
 classes: wide
 ---
 
+{% include disclosure.html %}
+
+{% include crowdlending-warning.html %}
+
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
 
 {% if site_posts.size > 0 %}

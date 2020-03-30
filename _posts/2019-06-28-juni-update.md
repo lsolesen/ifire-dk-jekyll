@@ -66,11 +66,13 @@ Samlet giver mine værdipapirinvesteringer lige nu **1,14%** i intern rente, hvi
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
-## Crowd lending
+## Crowdlending
+
+{% include crowdlending-warning.html %}
 
 Nu kommer jeg heldigvis snart tættere på, at de enkelte platforme viser sit sande potentiale ift. _intern rente_. Det tager nemlig for en del platforme [mindst fire måneder, inden den interne rente for alvor begynder at nå de højder](/investering/hvornaar-crowdlending/), man havde håbet på.
 
-Jeg troede egentlig i maj, at jeg havde nået grænsen for, hvor mange platforme, jeg skulle være repræsenteret på, men så endte jeg alligevel med at finde et par nye platforme. Jeg faldt over to platforme, hvor man særligt kunne investere i udviklingslande. Jeg har derfor udvidet porteføljen med [Agrikaab\*](/go/agrikaab/) og [Lendahand\*](/go/lendahand/). Platformene giver et begrænset renteafkast, men supplerer [Trine\*](/go/trine/) i mine bæredygtige og sociale crowdlending investeringer.
+Jeg troede egentlig i maj, at jeg havde nået grænsen for, hvor mange platforme, jeg skulle være repræsenteret på, men så endte jeg alligevel med at finde et par nye platforme. Jeg faldt over to platforme, hvor man særligt kunne investere i udviklingslande. Jeg har derfor udvidet porteføljen med <del>[Agrikaab\*](/go/agrikaab/) og</del> [Lendahand\*](/go/lendahand/). Platformene giver et begrænset renteafkast, men supplerer [Trine\*](/go/trine/) i mine bæredygtige og sociale crowdlending investeringer.
 
 Jeg har til gengæld trukket mig ud af Kameo (NOK), hvor det på tre måneder ikke er lykkes mig at investere en eneste krone. Jeg er også endelig ude af Mintos (DKK), hvor jeg har flyttet alle midler over på [Mintos (EUR)\*](/go/mintos/). Selvom jeg først startede min investering på Mintos (DKK) midt i februar og egentlig har brugt det meste af tiden på at trække pengene ud og over på Mintos (EUR), så er det stadig lykkes mig at have en intern rente på **9,9 %** på investeringen (selvom der tages højde for vekselgebyr på Mintos). Det synes jeg egentlig er meget imponerende.
 
@@ -122,12 +124,12 @@ Funderbeam er en smule anderledes end de andre platforme. Jeg overvejer kraftigt
 
 ### Socialt ansvarlige og bæredygtig crowdlending
 
-Jeg er på de følgende platforme primært for at sætte et socialt impact i verden. Det føles godt på [Agrikaab\*](/go/agrikaab/) at investere i kameler, vandopsamling og drivhuse i Afrika, på [Trine\*](/go/trine/) at investere i vedvarende energi i Afrika og på [Lendahand\*](/go/lendahand/) at investere i udviklingsprojekter i Afrika og Mongoliet.
+Jeg er på de følgende platforme primært for at sætte et socialt impact i verden. Det føles godt på <del>[Agrikaab\*](/go/agrikaab/) at investere i kameler, vandopsamling og drivhuse i Afrika, på</del> [Trine\*](/go/trine/) at investere i vedvarende energi i Afrika og på [Lendahand\*](/go/lendahand/) at investere i udviklingsprojekter i Afrika og Mongoliet.
 
 | Platform                                | Start | Låneudbydere | Auto | Mine lån | XIRR |
 |-----------------------------------------|-------|--------------|------|----------|------|
 | [Trine (EUR)\*](/go/trine/)             | 2019  | 1            | Nej  | 6        | 0%   |
-| [Agrikaab (USD)\*](/go/agrikaab/)       | 2019  | 1            | Nej  | 2        | 0%   |
+| <del>[Agrikaab (USD)\*](/go/agrikaab/)</del>       | 2019  | 1            | Nej  | 2        | 0%   |
 | [Lendahand (EUR)\*](/go/lendahand/)     | 2019  | 1            | Nej  | 2        | 0%   |
 
 ## Crowdlending til ejendomsprojekter

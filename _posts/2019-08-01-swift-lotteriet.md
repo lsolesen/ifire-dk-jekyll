@@ -8,7 +8,7 @@ tags:
 excerpt: "Gebyrer for Swift bankoverførsler er et uigennemskueligt system - og man kan ikke finde ud af, hvem der tager det."
 ---
 
-Jeg er virkelig godt tilfreds med [Revolut\*](/go/revolut/), hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab\*](/go/agrikaab/) er en spændende [crowdlending platform](/platform/agrikaab/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet.
+Jeg er virkelig godt tilfreds med [Revolut\*](/go/revolut/), hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab\*](/go/agrikaab/) er en spændende [crowdlending platform](/platform/agrikaab/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet. <ins>Agrikaab er lukket ned marts 2020, og jeg har sandsynligvis tabt alle mine penge på platformen.</ins>.
 
 - Første gang jeg overførte med bankoverførsel til _app balance_ på Agrikaab var overførslen gratis.
 - Anden gang jeg brugte bankoverførsel for at betale for en investering kom der 36 USD på i gebyr.
@@ -17,6 +17,9 @@ Jeg er virkelig godt tilfreds med [Revolut\*](/go/revolut/), hvor jeg får grati
 Det var mærkeligt, tænkte jeg. Så jeg skrev til både Agrikaab og Revolut efter den anden overførsel. Og efter at have snakket med begge firmaer, så er det stadig mærkeligt. Lad os kigge lidt på forvirringen.
 
 Først skriver jeg til Agrikaab. De forsikrer mig, at det ikke er deres bank, der har taget et gebyr for overførslen. (Til gengæld var deres kundeservice så venlige at godtgøre mig beløbet på kontoen).
+
+Agrikaab er lukket ned marts 2020, så der er naturligvis ikke flere investeringer denne vej. Men det ændrer jo ikke ved SWIFT-lotteriet.
+{: .notice--info .notice }
 
 Så jeg skriver i stedet til kundeservicen hos Revolut. (Jeg har kun gode erfaringer med deres kundeservice, og det har jeg stadigvæk.)
 

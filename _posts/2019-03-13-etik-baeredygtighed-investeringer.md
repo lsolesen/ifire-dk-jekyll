@@ -33,13 +33,15 @@ Det bliver _næste trin for mig_. Min nuværende [portefølje](/portfolio/), som
 
 ## Hvordan investerer jeg etisk og bæredygtigt i crowdlending med højt afkast?
 
+{% include crowdlending-warning.html %}
+
 Crowdlending-platformene giver et ret højt afkast stort set over hele linjen. Men der er mange forskellige lånetyper i platformene, og helt grundlæggende har jeg det lidt svært med forbrugslån til private, som har en ret høj rente - og måske bliver forbrugslånet brugt til overdimensionerede biler eller andet. Samtidig vil jeg jo gerne have et ret godt afkast.
 
 Lige nu investerer jeg kun i en platform, som decideret slår sig op på at være bæredygtig og investerer i Afrika med _clean tech_ og _clean energy_, og det er [Trine*](/go/trine/). Men hvad skal jeg egentlig kigge efter på de andre platforme for at gøre mine investeringer fx mest mulig bæredygtige?
 
 På danske [Flexfunding](/go/flexfunding/) vælger man selv, hvilke projekter man gerne vil yde et lån, og der kan jeg jo opstille kriterier om etik og bæredygtighed. Men det kan også godt tage lang tid at skulle sætte sig ind i alle virksomhederne - og hvis det bliver et højtvægtet kriterium, så kan det være vanskeligt at finde nok lån til at skabe en alsidig låneportefølje på FlexFunding. Nogle af de andre platforme giver også mulighed for at investere i præcise projekter, hvor du kan tage dine egne beslutninger om, hvad du sætte dine penge i.
 
-Den største Europæiske platform, [Mintos*](/go/mintos/), er en rigtig god platform, hvis man gerne vil have et fornuftigt afkast, effektiv _auto invest_, høj diversificering, hvilket betyder meget på en _crowd lending_-platform for mig. Det har de bl.a. fordi de har rigtig mange låneudbydere. Hvordan kan jeg finde de etiske og bæredygtige argumenter for alle låneudbyderne og samtidig ikke bruge al min tid på det.
+Den største Europæiske platform, [Mintos\*](/go/mintos/), er en rigtig god platform, hvis man gerne vil have et fornuftigt afkast, effektiv _auto invest_, høj diversificering, hvilket betyder meget på en _crowd lending_-platform for mig. Det har de bl.a. fordi de har rigtig mange låneudbydere. Hvordan kan jeg finde de etiske og bæredygtige argumenter for alle låneudbyderne og samtidig ikke bruge al min tid på det.
 
 Mine **investeringer i ejendomme og ejendomsudvikling** er alle gennem crowdlending, så her kan jeg også selv vælge de bæredygtige alternativer. Indtil nu synes jeg dog ikke at det har stået så tydeligt i de projekter, jeg har investeret i.
 

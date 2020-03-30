@@ -53,7 +53,9 @@ Jeg har flyttet lidt penge til [Nord.investments\*](/go/nord/) og jeg har et lil
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
-## Crowd lending
+## Crowdlending
+
+{% include crowdlending-warning.html %}
 
 I denne måned har jeg udvidet mit engagement i flere platforme, som også giver mulighed for et godt afkast. Jeg har tilføjet følgende platforme til porteføljen: [FastInvest (EUR)\*](/go/fastinvest/), [RoboCash (EUR)\*](/go/robocash/) og [PeerBerry (EUR)\*](/go/peerberry/). Alle platformene er lette og overskuelige, giver et fornuftigt afkast og har en god auto-invest funktion.
 

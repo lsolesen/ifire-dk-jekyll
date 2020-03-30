@@ -76,11 +76,11 @@ Nu har du et lille overblik - og måske har du fundet nogle penge, som du i sted
 
 ## Tjekliste inden investering
 
-[ ] Jeg har betalt dyr gæld - fx forbrugslån
-[ ] Jeg har lavet en nødopsparing
-[ ] Jeg har lavet en generel opsparing
-[ ] Jeg har overvejet min egen risikoprofil
-[ ] Jeg er klar til at investere
+- [ ] Jeg har betalt dyr gæld - fx forbrugslån
+- [ ] Jeg har lavet en nødopsparing
+- [ ] Jeg har lavet en generel opsparing
+- [ ] Jeg har overvejet min egen risikoprofil
+- [ ] Jeg er klar til at investere
 
 {% include feature_row type="left" %}
 

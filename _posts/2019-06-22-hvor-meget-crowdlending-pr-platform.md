@@ -12,6 +12,8 @@ last_modified_at: 2019-06-22T20:22:02+02:00
 classes: wide
 ---
 
+{% include crowdlending-warning.html %}
+
 Når du låner penge ud i crowdlending vil du gerne hele tiden have dine penge ude i et lån, så de kan tjene passiv indkomst til dig i form af renter. Man kalder det _cash drag_, hvis pengene ikke bliver investeret med det samme.
 
 Der er mange platforme, der lokker med høje renter på de enkelte lån, men hvis det ikke er muligt at få investeret sine penge - eller det tager for lang tid inden, man kan reinvestere sine renteindtægter, så hjælper det ikke så meget, for så vil den faktuelle indtjening falde. Det kan man udregne som den interne rente, og jeg har for nylig skrevet lidt om, [hvor lang tid det tager, inden den interne rente kommer op på det forventede niveau](/investering/hvornaar-crowdlending/) (hvis den nogensinde gør det).

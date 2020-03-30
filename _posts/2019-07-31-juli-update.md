@@ -82,9 +82,11 @@ Du kan læse lidt mere om nogle af porteføljerne her:
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
-## Crowd lending
+## Crowdlending
 
-Jeg har jo tidligere købt en kamel i Agrikaab sammen med mine døtre (som de kalder Elna). Det har bl.a. fået mig til at kigge lidt [lidt kritisk på Agrikaab](/platform/agrikaab/). Det bliver spændende at følge de næste måneder, om mit kamel-projekt og vandopsamlingsreservoir kommer på skinner.
+{% include crowdlending-warning.html %}
+
+Jeg har jo tidligere købt en kamel i Agrikaab sammen med mine døtre (som de kalder Elna). Det har bl.a. fået mig til at kigge lidt [lidt kritisk på Agrikaab](/platform/agrikaab/). Det bliver spændende at følge de næste måneder, om mit kamel-projekt og vandopsamlingsreservoir kommer på skinner. <ins>**Agrikaab er lukket ned marts 2020, og jeg har mistet hele min investering.**</ins>
 
 Ellers er jeg stadig ret aktiv på alle platforme. Jeg har trukket nogle penge ud af [Bondora Go & Grow\*](/go/bondora/), selvom jeg synes produktet er ganske fint. Renten på omkring 6,75% p.a. er bare lidt for lav - og så er platformen og afkastet meget forudsigelig, og derfor er det ikke så meget at undersøge. Så er det lidt sjovere at følge de andre platforme.
 
@@ -98,7 +100,7 @@ Den almindelige crowdlending er platformenes interne rente ved at stabilisere si
 
 En af undtagelserne er [Kameo](/go/kameo/), som har været lidt længe undervejs, men for de svenske lån har den dog sneget sig over XIRR på 5% nu - og jeg forventer ikke en XIRR på Kameo, der bliver så meget højere. 
 
-Både [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/) og [Agrikaab\*](/go/agrikaab/), som er udviklingsprojekter i Afrika, lader også vente længere på sig, men jeg er ikke på de platforme for at tjene penge, så det gør ikke så meget.
+Både [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/)<del> og [Agrikaab\*](/go/agrikaab/)</del>, som er udviklingsprojekter i Afrika, lader også vente længere på sig, men jeg er ikke på de platforme for at tjene penge, så det gør ikke så meget.
 
 Det forholder sig helt anderledes med crowdlending til ejendomme og ejendomsinvesteringer. Her er den samlede interne rente ikke et særlig opmuntrende syn endnu her efter tre-fire måneder. Men forhåbentlig komme det til at blive meget bedre i fremtiden.
 
@@ -166,7 +168,7 @@ Jeg tjente i juli i alt **307 DKK** i passiv indkomst på _affiliate_ og _referr
 
 ## Hvad vil du gerne høre mere om?
 
-Jeg synes på mange måder, at Better Globe og Agrikaab er de platforme, jeg allerhelst ville investere i, fordi de flytter noget vigtigt i verden. Better Globe skal i gang med at vise regnskaber, før jeg investerer mere i det, og Agrikaab skal jeg lige se, hvordan projekterne reelt kommer til at køre, før jeg overvejer at støtte flere af deres projekter. 
+Jeg synes på mange måder, at Better Globe og Agrikaab er de platforme, jeg allerhelst ville investere i, fordi de flytter noget vigtigt i verden. Better Globe skal i gang med at vise regnskaber, før jeg investerer mere i det, og Agrikaab skal jeg lige se, hvordan projekterne reelt kommer til at køre, før jeg overvejer at støtte flere af deres projekter. <ins>**Agrikaab er lukket ned marts 2020.**</ins>.
 
 Det er ret tidskrævende at lave disse opdateringer hver måned. Hvis der er nogen detaljer, du gerne vil vide mere om, så skriv endelig i kommentarerne, så skal jeg forsøge at svare på det.
 

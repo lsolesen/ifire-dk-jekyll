@@ -8,6 +8,10 @@ toc: true
 toc_sticky: true
 ---
 
+{% include disclosure.html %}
+
+{% include crowdlending-warning.html %}
+
 Jeg har en del penge investeret i crowdlending. Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/).
 
 **Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. En platform kan gå ned eller være svindel, som det ses i crowdlending. Crowdlending er en højrisiko investeringsform.**

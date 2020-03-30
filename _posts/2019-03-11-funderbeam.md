@@ -14,6 +14,8 @@ tags:
 excerpt: "Funderbeam er en spændende crowd investing platform baseret på blockchain-teknologierne - men måske for risikofyldt?"
 ---
 
+{% include disclosure.html %}
+
 Jeg stødte for en uge siden ind i en spændende platform. Funderbeam er en _crowd funding_ og _trading_ platform for private virksomheder, der er i vækst. Platformen hjælper virksomhedsejerne med at rejse kapital til virksomheder, som er i gang med at vækste.
 
 For investorerne hjælper Funderbeam med at få adgang til ambitiøse virksomheder i vækst. Helt grundlæggende køber man en form for aktie i virksomhederne, som man så senere kan handle på markedet. Funderbeam har hverken renter eller _buy back_. I stedet køber du en lille del af virksomheden, som er på et tidligt stadium - og forhåbentlig vækster det senere. Funderbeam gør meget ud af at fortælle, at firmaet også kan gå konkurs, og at dine penge så er tabt.
@@ -21,7 +23,9 @@ For investorerne hjælper Funderbeam med at få adgang til ambitiøse virksomhed
 ## Hvorfor blev jeg interesseret?
 
 Jeg blev interesseret i virksomheden, fordi jeg godt kan lide at støtte folk, der har en god ide - men også fordi det danske crowdfunding-virksomhed, Lendino, i øjeblikket er en af de virksomheder, man kan byde sig ind i. Lendino vil nemlig gerne udvide deres platform, så andre selskaber kan få adgang til at lave crowdfunding på en lettere måde. Fx har de samarbejdet med Coop, men de vil gerne gøre softwaren endnu bedre. Det synes jeg kunne være interessant at støtte.
- 
+
+{% include crowdlending-warning.html %}
+
 ## Lidt om Funderbeam
 
 Funderbeam er etableret i Estland, men har flyttet investorerne til Funderbeam Markets Ltd i England i stedet for at [skabe bedre muligheder for at tilbyde produkter](https://www.funderbeam.com/help/changing-your-service-provider-to-our-authorised-uk-company/).

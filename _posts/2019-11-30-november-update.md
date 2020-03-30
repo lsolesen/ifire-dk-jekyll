@@ -57,6 +57,8 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
+{% include crowdlending-warning.html %}
+
 Jeg har haft _cash drag_ på [PeerBerry\*](/go/peerberry/) og [Mintos\*](/go/mintos/), så jeg har ændret på _auto invest_ for at acceptere lidt lavere renter. Platformene kører imidlertid fortsat uden de helt store udfordringer, og jeg er meget tilfredse med dem.
 
 Det står noget stille på [Bit Of Property\*](/go/bitofproperty/). Der er et par projekter, som alligevel ikke er blevet til noget i løbet af november, så her endte jeg også med _cash drag_. Da der ikke er nogle aktive projekter, har jeg trukket en del penge hjem - ud over at have forespurgt på et par enkelte projekter på deres lidt mærkværdige ‘over the counter’-køb fra andre. Den feature er lidt forvirrende, men typisk ender man med hurtigt at få en andel i et tidligere projekt. Det er også noget svært at se nøjagtigt, hvor mange penge man har på platformen totalt, fordi backenden er lidt mangelfuld.
@@ -81,9 +83,9 @@ I alt har jeg tjent **4.665 DKK** på crowdlending i løbet af november måned. 
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Nu varer det ikke længe til de første afkast fra Lendahand.
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Nu varer det ikke længe til de første afkast fra Lendahand. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Agrikaab\*](/go/agrikaab/){: .btn .btn--large .btn--success }
+Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning }
 
 ## Opsparing
 

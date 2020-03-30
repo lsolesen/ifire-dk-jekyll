@@ -54,6 +54,8 @@ Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstil
 
 **Flexfunding** har givet en fornuftig intern rente i perioden, og jeg vil helt sikkert afsøge mulighederne inden for _crowd lending_ yderligere og gøre det til en lidt større del af min portefølje.
 
+{% include crowdlending-warning.html %}
+
 ## Spørgsmål
 
 - Hvordan skal mine konti være skruet sammen - og hvilke betalingskort har jeg brug for, så det fungerer bedst muligt?
