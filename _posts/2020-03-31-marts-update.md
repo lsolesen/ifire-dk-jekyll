@@ -36,15 +36,15 @@ Det var virkelig en måned, hvor tålmodigheden og strategien blev testet, og je
 
 Jeg vil ikke bruge lang tid på aktiemarkedet. Det er gået voldsomt ned for alle mine porteføljer. Jeg har brugt tiden på at rebalancere lidt i porteføljerne og købe ekstra op. Alle mine tanker om investeringer gemmer sig i [mine indlæg om investeringer](/investering/).
 
-Samlet dalede værdien af mine investeringer i værdipapirer med 149.157 DKK i denne måned. Jeg benyttede igen muligheden til at få købt lidt ind.
+Samlet dalede den urealiserede værdi af mine investeringer i værdipapirer med -149.157 DKK i denne måned. Jeg benyttede igen muligheden til at få købt lidt ind.
 
 I alt har jeg i øjeblikket en **vægtet intern rente på -11,04%** på mine investeringer i værdipapirer.
 
-[Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få en gratis investeringsplan fra Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
-[Copytrading og kurtagefri handel på E-Toro \*](/go/etoro/){: .btn .btn--large .btn--success }
+[Copytrading og kurtagefri handel på E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
 
 ### Crowdlending
 
@@ -54,15 +54,17 @@ Jeg har i et stykke tid villet reducere eksponeringen mod crowdlending, og endnu
 
 Værre er det, at der mange rygter om, at [Grupeer](/platform/grupeer/) er endnu et _crowdlending scam_. Jeg har en del penge på Grupeer, og jeg har taget screenshots af de relevante sider på Grupeer og downloadet alle lånekontrakter. Jeg er meget spændt pål hvordan dette kommer til at gå. Jeg var egentlig begyndt at trække lidt penge ud af platformen, men har endnu ikke modtaget de to seneste _withdrawals_. Jeg har endnu ikke afskrevet platformen, da det ikke er officielt. Der skal jo også være noget at afskrive næste måned.
 
-Jeg reducerer løbende mine andre crowdlending-aktiviteter, men det tager virkelig lang tid at komme ud af mange af platformene igen. Jeg håber ikke flere går konkurs. Jeg har stadig stor tiltro til [Mintos\*](/go/mintos/) og [Bondora\*](/go/bondora/).
+Jeg har tweaket auto invest på Mintos, mens jeg har slukket den på alle andre platforme med det formål at reducere eksponeringen mod crowdlending yderligere.
 
-Tilbagetrækningen fra [FastInvest\*](/go/fastinvest/) går helt planmæssigt, hvilket giver tiltro til platformen, men jeg bliver nødt til at reducere yderligere, da jeg forventer et stort tab på Grupeer i næste måned. [Crowdestor\*](/go/crowdestor/) har tilkendegivet, at de giver låntagerne forlængede betalingsfrister, hvilket er helt fornuftigt i disse tider. Jeg håber, at de løser situationen tilfredsstillende. 
+Jeg reducerer løbende mine andre crowdlending-aktiviteter, men det tager virkelig lang tid at komme ud af mange af platformene igen. Jeg håber ikke flere går konkurs. Jeg har stadig stor tiltro til [Mintos\*](/go/mintos/) og [Bondora\*](/go/bondora/). Hvis du er ny i crowdlending, synes jeg kun at jeg kan anbefale [Mintos\*](/go/mintos/) i øjeblikket.
+
+Tilbagetrækningen fra [FastInvest\*](/go/fastinvest/) går helt planmæssigt, hvilket giver tiltro til platformen, men jeg bliver nødt til at reducere yderligere, da jeg forventer et stort tab på Grupeer i næste måned. [Crowdestor\*](/go/crowdestor/) har tilkendegivet, at de giver låntagerne forlængede betalingsfrister, hvilket er helt fornuftigt i disse tider. Jeg håber, at de løser situationen tilfredsstillende, så jeg senere kan trække penge ud hos dem. Jeg har ikke haft udfordringer med at trække penge ud fra andre platforme end Grupeer.
 
 Jeg synes de mest spændende platforme er Trine og Lendahand, som støtter udviklingsprojekter. Desuden mener jeg at [Mintos\*](/go/mintos/) og [Bondora Go & Grow\*](/go/bondora/) stadig har potentiale. De resterende platforme var primært med afkast ift. renteindtægter for øje, men de ser ikke ud til, at de kan levere det.
 
 [Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--danger }
 
-I løbet af marts har jeg haft en **tab på -9.733 DKK** på den almindelige crowdlending pga. Agrikaabs konkurs. Det tal forventer jeg bliver endnu højere i næste måned, hvilket er virkelig ærgerligt. På den crowdlending der retter sig mod boligmarkedet, har jeg haft et **(realiseret) tab på 2.354 DKK**. Det har jeg primært haft, fordi min andele i [Brickshare\*](/go/brickshare/) er faldet i værdi - og jeg endnu ikke har fået afkast fra investeringen.
+I løbet af marts har jeg haft en **tab på -9.733 DKK** på den almindelige crowdlending pga. Agrikaabs konkurs. Det tal forventer jeg bliver endnu højere i næste måned, hvilket er virkelig ærgerligt. På den crowdlending der retter sig mod boligmarkedet, har jeg haft et **(realiseret) tab på -2.354 DKK**. Det har jeg primært haft, fordi min andele i [Brickshare\*](/go/brickshare/) er faldet i værdi - og jeg endnu ikke har fået afkast fra investeringen.
 
 Vægtet intern rente for den almindelige crowdlending er på 3,50%. Siden nytår er den faldet fra 8,78%. Den ejendomsbaserede crowdlending har en vægtet intern rente på 0,40%, hvilket er faldet fra 2,48% primært pga. Brickhares bidrag (det er min største investering).
 
@@ -94,7 +96,7 @@ Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -770.17 E
 
 Stellar Lumens er faldet en del, men når man [lærer om Stellar XML\*](https://coinbase.com/earn/xlm/invite/cxq453w7), så synes jeg dog, at det lyder som om, at XML har en fremtid i det finansielle system.
 
-[Lær om Stellar XML\*](https://coinbase.com/earn/xlm/invite/cxq453w7){: .btn .btn--large .btn--default }
+[Lær om Stellar XML\*](https://coinbase.com/earn/xlm/invite/cxq453w7){: .btn .btn--large .btn--info }
 
 ## Passiv indtægt
 
