@@ -7,6 +7,14 @@ tags:
   - biløkonomi
 excerpt: "Vores bil har efterhånden gjort det godt, men hvordan finder man ud af, hvornår det er er tid til at skifte?"
 last_modified_at: 2019-07-15T20:22:02+02:00
+feature_row_autobutler:
+  - image_path: "https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=49818"
+    alt: "Autobutler.dk"
+    title: "Autobutler.dk"
+    excerpt: "Autobutler.dk udbyder service, hvor bilejere kan få 3 tilbud fra udvalgte værksteder. Autobutler.dk fokuserer på at det skal være nemt, trygt og til en gennemskuelig pris at få sin bil lavet."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=49818"
+    btn_label: "Læs mere"
+    btn_class: "btn--info"
 ---
 
 Kilometertæller ved overtagelse: 80.000  
@@ -77,5 +85,7 @@ Jeg overvejer også, at [udlejning via GoMore\*](/go/gomore/) kan være en måde
 Men hvornår ved man egentlig om man skal skifte bil?
 
 [Opret dig på GoMore\*](/go/gomore/){: .btn .btn--large .btn--info}
+
+{% include feature_row id="feature_row_autobutler" type="left" %}
 
 {% include disclaimer.md %}

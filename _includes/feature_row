@@ -1,6 +1,6 @@
 {% if include.id %}
   {% assign feature_row = page[include.id] %}
-{% else if include.array %}
+{% elsif include.array.size > 0 %}
   {% assign feature_row = include.array %}
 {% else %}
   {% assign feature_row = page.feature_row %}

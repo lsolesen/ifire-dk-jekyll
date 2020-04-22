@@ -15,6 +15,14 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+feature_row_autobutler:
+  - image_path: "https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=49818"
+    alt: "Autobutler.dk"
+    title: "Autobutler.dk"
+    excerpt: "Autobutler.dk udbyder service, hvor bilejere kan få 3 tilbud fra udvalgte værksteder. Autobutler.dk fokuserer på at det skal være nemt, trygt og til en gennemskuelig pris at få sin bil lavet."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=49818"
+    btn_label: "Læs mere"
+    btn_class: "btn--info"
 ---
 
 Tak fordi du kigger forbi. Igen har det været en rigtig god måned.
@@ -26,6 +34,8 @@ Min datter vågnede op i dag, så at det var den sidste dag i måneden, og udbr�
 Jeg sagde til hende, om det det var ved at være tid til, at der mine generøse "børnerenter" også skulle komme med en risiko, der matcher renten. Det mente hun nu ikke var nødvendigt.
 
 Jeg har stadig **holdt mit købestop**. Desværre er blæseren i min bil gået, så jeg bliver nødt til at få den fikset. Derfor har jeg fået tre tilbud på [AutoButler\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59707), hvor jeg så sparer lidt penge på den måde.
+
+{% include feature_row id="feature_row_autobutler" type="left" %}
 
 Jeg bliver også nødt til at købe nogle nye løbesko. Løbesko er det eneste andet, jeg har købt i år, men de sko jeg har købt er _trailsko_, og de kan ikke holde til at løbe på asfalt. 
 
