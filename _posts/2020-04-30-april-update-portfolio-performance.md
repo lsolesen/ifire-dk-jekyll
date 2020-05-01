@@ -60,6 +60,9 @@ Jeg opdaterer senere med resten af min månedsoversigt, så kig tilbage om nogle
 
 Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne på mine platform-oversigter. Det tager virkelig lang tid at lave dem. Jeg håber at PP kan være med til at gøre det lidt lettere, men måske kommer jeg til at savne automatiseringen direkte fra Google Sheets til sitet. Jeg går i tænkeboks og vender tilbage.
 
+
+{% include figure image_path="/assets/images/posts/2020-april-p2p-pie.jpg" caption="Fordeling på platforme" %}
+
 <div class="grid__wrapper">
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
