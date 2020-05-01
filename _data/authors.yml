@@ -1,11 +1,11 @@
 lsolesen:
   name: "Lars Olesen"
-  bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
+  bio: "Blogger om Fiansiel Uafhængighed, investeringer og crowdlending."
   avatar: "/assets/images/authors/default-profile.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lars@vih.dk"
+      url: "mailto:info@ifire.dk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://larsolesen.dk"
@@ -15,3 +15,6 @@ lsolesen:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
+    - label: "Køb mig en kaffe"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
