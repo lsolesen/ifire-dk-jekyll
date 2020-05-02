@@ -24,8 +24,6 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-
-
 Jeg har længe siddet og bakset med et Google Sheets ark, som jeg manuelt hver måned har opdateret med investeringer, crowdlending og kryptovaluta. Jeg synes det er lidt besværligt og kunne godt tænke mig en lidt mere robust løsning til at få et overblik over økonomien, så jeg gik lidt på udkig efter en bedre løsning.
 
 Inspireret af [Angelo](https://www.p2pinvesting.eu/how-to-track-your-investments-p2p-lending/) afprøvede jeg det gratis, open source [Portfolio Performance](http://www.portfolio-performance.info), som jeg ville se om det kunne være en mulighed til at tracke mine investeringer på en bedre måde. Programmet er lavet af en tysker, og meget af materialet er på tysk. Programmet kan fås både på Windows, Mac og Linux. Der er ingen reklamer og du skal ikke registrere dig for at bruge programmet. 
@@ -86,7 +84,7 @@ Du højreklikker ganske enkelt på kontoen og vælger `Deposit` eller `Removal` 
 
 Hver måned når jeg laver en opdatering, så kigger jeg på værdien af min konto sidste måned med den nuværende værdi. Forskellen er en sammenblanding af rente, bonusser, gebyrer mv. For at gøre det lettest muligt, så bogfører jeg det samlede beløb som renter eller renteudgifter i programmet. På den måde stemmer min konto. 
 
-Jeg husker naturligvis at det ikke er en realiseret indtægt, men den forventede renteindtægt, når jeg trækker pengene ud.
+Når det registreres som renter, så er det for Portfolio Performance en realiseret gevinst. I praksis er en gevinst i crowdlending ikke realiseret før pengene reelt er hævet, da der er risiko for at platformen går konkurs. Hvis det kunne lade sig gøre at registrere crowdlending som aktier og kryptovaluta, hvor det fremgår som urealiseret indtægt, ville det være optimalt.
 {: .notice .notice--info }
 
 For at tilføje renterne højreklikker du bare på kontoen og vælger `Interest` i menuen, der kommer frem.
@@ -128,6 +126,10 @@ Hvis du vil tracke mere end din crowdlending portefølje, men gerne vil have en 
 Du kan også lave en oversigt over hele din crowdlending portefølje. Det gør du ved at gruppere dine crowdlending platforme under `Asset class`.
 
 {% include figure image_path="/assets/images/posts/pp-group-by-asset-class.jpg" caption="Lav en _asset class_ med crowdlending for let at kunne lave dine dashboards." %}
+
+### Håndtering af scams og konkurser
+
+Jeg har dummet mig ved at investere i Envestio, som har vist sig at være en _scam_. Jeg fastholder den dog i min portefølje. Jeg har sørget for at kontoen er gået i nul ved at tilføje en renteudgift, som sætter kontoen i nul. Selvom den interne rente for kontoen ser lidt spøjs ud i Portfolio Performance, så ser det ud til, at den samlede vægtede interne rente udregnes korrekt.
 
 ### Crowdlending baseret på shares eller andele
 
