@@ -20,9 +20,7 @@ deal:
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 29. marts 2019  
-**Totalt indskud**: 30.000 DKK  
-**Totalt hævet**: 0 DKK  
+**Første investeringsdato**: 29. marts 2019
 
 ## Marts 2019
 

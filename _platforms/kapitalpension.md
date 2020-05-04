@@ -12,10 +12,7 @@ last_modified_at: 2019-06-24T10:14:00+08:00
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 15. maj 2001  
-**Totalt indskud**: 12.885 DKK  
-**Totalt hævet**: 0 DKK  
-
+**Første investeringsdato**: 15. maj 2001
 ## 2001
 
 - Åbnet efter råd fra min bankrådgiver i SparNord for at blive Stjernekunde med de fordele det nu gav.

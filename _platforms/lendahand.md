@@ -19,9 +19,7 @@ deal:
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 22. juni 2019  
-**Totalt indskud**: 2.000 USD  
-**Totalt trukket ud**: 0 USD
+**Første investeringsdato**: 22. juni 2019
 
 ## Investering
 

@@ -15,9 +15,7 @@ toc: true
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 5. marts 2019  
-**Totalt indskud**: 2.000 GBP  
-**Totalt trukket ud**: 0 GBP
+**Første investeringsdato**: 5. marts 2019
 
 **Note:** Når du skal tilmelde dig, bliver du bedt om at sende et billede af dit pas eller kørekort med e-mail til dem. Det er knap så tjekket som mange andre platforme.
 {: .notice--danger }

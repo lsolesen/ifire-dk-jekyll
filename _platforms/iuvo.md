@@ -13,10 +13,7 @@ toc: true
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 21. maj 2019  
-**Totalt indskud**: 1.000 EUR  
-**Totalt trukket ud**: 0 EUR
-
+**Første investeringsdato**: 21. maj 2019
 ## Fordele
 
 - Mange lån - fra 5-15% rente

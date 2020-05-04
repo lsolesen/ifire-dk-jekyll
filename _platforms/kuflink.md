@@ -15,9 +15,7 @@ platform:
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 21. august 2019  
-**Totalt indskud**: 1.000 GBP  
-**Totalt trukket ud**: 0 GBP
+**Første investeringsdato**: 21. august 2019
 
 ## Fordele
 

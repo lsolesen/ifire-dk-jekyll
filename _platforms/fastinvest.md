@@ -11,9 +11,7 @@ last_modified_at: 2019-09-01T12:54:00+08:00
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 18. februar 2019  
-**Totalt indskud**: 4.048 EUR  
-**Totalt trukket ud**: 48 EUR
+**Første investeringsdato**: 18. februar 2019
 
 ## Fordele
 

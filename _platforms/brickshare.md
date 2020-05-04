@@ -13,8 +13,6 @@ last_modified_at: 2019-12-31T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 23. april 2019  
-**Totalt indskud**: 50.000 DKK
-**Totalt trukket ud**: 0 DKK
 
 ## Ulemper
 

@@ -26,8 +26,6 @@ Heldigvis har jeg på [borger.dk](https://www.borger.dk/internet-og-sikkerhed/id
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 1. marts 2019  
-**Totalt indskud**: 1.500 EUR  
-**Totalt trukket ud**: 0 EUR
 **Tabt renteindtægt**: 169 EUR
 **Tabt indskud**: 1.500 EUR
 

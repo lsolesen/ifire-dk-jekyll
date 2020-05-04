@@ -20,8 +20,7 @@ deal:
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 18. februar 2019  
-**Totalt indskud**: 8.203 EUR
+**Første investeringsdato**: 18. februar 2019
 
 ## Auto invest
 

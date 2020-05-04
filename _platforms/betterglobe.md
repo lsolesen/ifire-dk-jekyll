@@ -12,8 +12,6 @@ last_modified_at: 2020-01-06T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 14. juni 2019  
-**Totalt indskud**: 1.000 USD  
-**Totalt trukket ud**: 0 USD
 
 Med Better Globe investerer du (ikke specifikke) træer i Afrika. Efter fem år begynder Better Globe at kunne tjene penge på at høste fx frugt eller frø og investorerne får de første tilbagebetalinger på deres investering. Efter 20 år fældes træet og sælges som tømmer og den sidste tilbagebetaling finder sted. 
 

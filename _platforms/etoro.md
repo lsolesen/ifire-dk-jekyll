@@ -14,8 +14,6 @@ last_modified_at: 2019-07-11T20:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 29. maj 2019  
-**Totalt indskud**: 5.000 EUR  
-**Totalt trukket ud**: 0 EUR
 
 Jeg bruger Etoro til _copy trading_. Jeg har samlet fordele og ulemper i [min anmeldelelse af Etoro](/etoro-anmeldelse/).
 

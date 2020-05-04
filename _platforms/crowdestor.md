@@ -13,8 +13,6 @@ toc: true
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 6. marts 2019  
-**Totalt indskud**: 3.500 EUR  
-**Totalt trukket ud**: 0 EUR
 
 ## Fordele
 

@@ -13,9 +13,6 @@ last_modified_at: 2019-07-04T07:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 27. februar 2017  
-**Totalt indskud**: 60.000 DKK  
-**Totalt trukket ud**: 10.000 DKK
-**I alt investeret**: 50.000 DKK + renter
 
 [Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 

@@ -13,8 +13,6 @@ last_modified_at: 2020-03-02T15:15:00+08:00
 
 **Første investeringsdato**: 18. marts 2019  
 **Totalt indskud**: 670 EUR
-**Totalt trukket ud**: 152 EUR
-**Nuværende indskud**: 518 EUR
 
 ## Februar 2020
 

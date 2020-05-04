@@ -19,9 +19,7 @@ deal:
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 5. marts 2019  
-**Totalt indskud**: 2.547 EUR  
-**Totalt trukket ud**: 0 EUR
+**Første investeringsdato**: 5. marts 2019
 
 ## December
 

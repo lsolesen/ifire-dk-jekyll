@@ -13,8 +13,6 @@ toc: true
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 14. juni 2019  
-**Totalt indskud**: 1.600 USD  
-**Totalt trukket ud**: 0 USD
 **Tabt investering**: 1600 USD
 
 ## Marts 2020 - Agrikaab er lukket ned

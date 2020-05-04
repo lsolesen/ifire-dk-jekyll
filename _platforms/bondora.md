@@ -12,8 +12,6 @@ last_modified_at: 2019-06-14T00:00:00+08:00
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 20. februar 2019  
-**Totalt indskud**: 1.000 EUR  
-**Totalt trukket ud**: 4.000 EUR
 
 Den mere [traditionelle _crowd lending_ hos Bondora får kritik i øjeblikket](https://financiallyfree.eu/portfolio-update-january-2019/), så jeg har valgt kun at investere i Go & Grow. Jeg opfatter det egentlig som en ret sikker opsparing, da jeg hurtigt kan få pengene ud igen, hvis jeg har brug for dem. Det kan man også på andre crowdlending platforme med likvide sekundære markeder, som fx [Mintos](/platform/mintos/).
 
