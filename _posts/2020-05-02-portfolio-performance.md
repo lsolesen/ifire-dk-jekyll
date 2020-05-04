@@ -32,9 +32,26 @@ Når man investerer, så synes jeg det er vigtigt, at man holder styr på, hvad 
 
 ## Forudsætninger
 
-Hvis du vil læse videre, så kan det være en god ide at installere programmet for at se dets muligheder. Du downloader det fra [Portfolio Performance](http://www.portfolio-performance.info).
+Hvis du vil læse videre, så kan det være en god ide at installere programmet for at se dets muligheder. Du downloader det fra [Portfolio Performance](http://www.portfolio-performance.info) - og så anbefaler jeg, at du læser denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu/2019/06/27/how-to-track-your-investments-with-portfolio-performance/).
 
 I det følgende forsøger jeg at forklare, hvordan jeg bruger programmet til at tracke mine investeringer.
+
+## Overblik
+
+Der er ikke meget ved at bruge en masse tid på indtastninger, hvis ikke du efterfølgende kan få et godt overblik over værdierne efterfølgende. Jeg har bygget et dashboard, som giver mig et årligt overblik over, hvordan det går:
+
+{% include figure image_path="/assets/images/posts/pp-dashboard-4.jpg" caption="Der er flere muligheder for at afgrænse de enkelte ting i dashboardet." %}
+
+Jeg har bygget et dashboard, der giver mig et nogenlunde overblik over mine værdier med både investeringer, crowdlending, opsparing og kryptovaluta.
+
+{% include figure image_path="/assets/images/posts/pp-dashboard-2.jpg" caption="Du kan selv oprette dine egne dashboards med de oplysninger, du har brug for." %}
+
+Man kan også lave dashboards med månedlig indtjening eller grafer, men lige nu kan man ikke redigere filtre i Portfolio Performance, så det har jeg ikke arbejdet videre med indtil jeg finder ud af, hvordan det kan gøres nøjagtigt.
+{: notice }
+
+### Watchlist
+
+I øverste højre hjørne over `All Securities` kan du klikke på **+**-tegnet. Jeg har lavet en række Watchlist for at holde lidt styr på de forskellige securities, hvilket gør det noget lettere hurtigt at finde, hvad du søger.
 
 ## Investeringer
 
@@ -42,15 +59,30 @@ Jeg har et stykke tid brugt [Atlaz\*](/go/atlaz/) til at få et samlet overblik 
 
 Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordnet\*](/go/nordnet/) til mine frie midler og [SaxoInvestor\*](/go/saxoinvestor/) til min aktiesparekonto, men de skilter ikke just med et overblik over renteudgifter, valutaudgifter og kurtage i en let oversigt.
 
+### Opsætning til investeringer
+
+Jeg fulgte denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu/2019/06/27/how-to-track-your-investments-with-portfolio-performance/) for at komme  gang med at bruge Portfolio Performance til investeringer.
+
 ### Importere data ind i Portfolio Performance
 
-Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutahandlerne, så dem har jeg efterfølgende oprettet manuelt. Jeg kunne ikke finde CSV-filer fra [SaxoInvestor\*](/go/saxoinvestor/), så det har jeg spurgt supporten om. 
+Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutahandlerne, så dem har jeg efterfølgende oprettet manuelt. 
 
-Jeg har også spurgt supporten om CSV-export fra [Revolut Trading\*](/go/revolut/), mens jeg lige nu er lidt i tvivl om, hvordan jeg vil håndtere copytrading på [Etoro\*](/go/etoro/), men jeg opdaterer artiklen, så snart jeg har fundet ud af det.
+Jeg kan ikke finde CSV-filer:
 
-#### Flere valutakonti
+- **[SaxoInvestor\*](/go/saxoinvestor/)**. Jeg kunne ikke finde CSV-filer fra [SaxoInvestor\*](/go/saxoinvestor/), så det har jeg spurgt supporten om - og lige nu kan man ikke se sine historiske handler.
+- **[Revolut Trading\*](/go/revolut/)**. Jeg har også spurgt supporten om CSV-export fra [Revolut Trading\*](/go/revolut/)
+
+### Flere valutakonti
 
 Hvis du handler i flere valutaer, skal du oprette flere `Deposit Accounts` med forskellige valutaer. Jeg importerede bare CSV-filen på alle konti, for den kan kun importere ting, der er i samme valuta.
+
+### Copytrading på [Etoro\*](/go/etoro/)
+
+Jeg har valgt at oprette den enkelte copytrader som en `Security Account`. Når jeg sætter penge ind har jeg sat den aktuelle kurs til 1 USD, og så køber jeg det antal fiktive shares, som jeg sætter penge ind med.
+
+Når jeg vil opgøre den enkelte copytrader, så dividerer jeg traderens samlede værdi med det indsatte, og så tilføjer jeg manuelt det beløb som dagskursen. Det er naturligvis ikke helt optimalt eller automatiseret, men på den måde kan jeg følge copytraderens performance i den tid, jeg har investeret i vedkommende.
+
+{% include figure image_path="/assets/images/posts/pp-brickshare-historical-values.jpg" caption="Du kan selv tilføje historiske kurser nederst, når du klikker på et instrument." %}
 
 ### Det fede dashboard til alm. investeringer
 
@@ -60,9 +92,9 @@ Jeg er ved at få styr på alle mine investeringer i Portfolio Performance, og j
 
 Mit hjemmestrikkede Google Sheets ark startede med, at jeg ville tracke den interne rente på min Crowdlending. Jeg synes det var blevet lidt tidskrævende, møjsommeligt og ikke robust nok.
 
-Jeg har fundet ud af, at det faktisk er ret enkelt med Portfolio Performance. Tidligere havde jeg fordelen af, at mine ændringer i mit Google Sheet automatisk blev vist på mine oversigter, men jeg tror fordelene ved Portfolio Manager er så store, at jeg må finde en anden måde at få opdateret oversigterne på.
+Jeg har fundet ud af, at det faktisk er ret enkelt med Portfolio Performance. Tidligere havde jeg fordelen af, at mine ændringer i mit Google Sheet automatisk blev vist på mine oversigter, men jeg tror fordelene ved Portfolio Manager er så store, at jeg må finde en anden måde at få opdateret oversigterne på. Jeg fulgte [Angelos fremgangsmåde med nogle enkelte afstikkere](https://www.p2pinvesting.eu/how-to-track-your-investments-p2p-lending/).
 
-## Tilføj dine crowdlending konti
+### Tilføj dine crowdlending konti
 
 Under `Deposit Accounts` klikker du på det lille plus oppe i højre hjørne og vælger `Add account…`. Det letteste er med det samme at tilføje alle dine crowdlending platforme.
 
@@ -163,11 +195,40 @@ Når du har styr på din portefølje i Portfolio Manager, så er der mange fine 
 
 Jeg har brugt den gratis version af [cointracking.info\*](/go/cointracking/) til manuelt at holde styr på min kryptovaluta, de forskellige børser og wallets. Det fungerer ret godt, og jeg kan let hver måned aflæse realiserede og urealiserede gevinster og tab og den samlede nuværende værdi af min portefølje.
 
-Der er ret smart funktioner i Portfolio Performance, hvor man bl.a. automatisk kan hente de aktuelle priser fra Kraken eller andre steder. Jeg opdaterer artiklen, når jeg finder ud af, hvordan jeg vil tracke kryptovaluta.
+Jeg eksperimenterer lige nu med at tracke kryptovaluta i Portfolio Performance i stedet, og jeg er så småt gået i gang.
 
-Det er let at oprette den enkelte kryptovaluta som `Security`, men der er lige en lille finurlighed, hvis den automatisk skal hente kurserne fra [Kraken\*](/go/kraken/), som jeg foretrækker som min egen børs. 
+Jeg har gjort følgende:
 
-{% include figure image_path="/assets/images/posts/pp-crypto-symbol.webp" caption="Jeg har valgt Kraken til at hente `Historical Quotes` for kryptovaluta. For at den kan gøre det automatisk, skal du sætte Symbol til `XXBTZEUR` for Bitcoins." %}
+- Jeg har oprettet alle kryptovalutaer som `Security` ligesom aktier. Jeg har sat dem alle til EUR som værdi.
+- Oprettet alle mine wallets som `Security Accounts`.
+- Oprettet tilhørende `Deposit Accounts` til de `Security Accounts`, hvor jeg typisk lægger penge ind, fx Euro.
+
+Jeg kan gøre følgende:
+
+- Jeg kan købe en kryptovaluta for FIAT-valuta på den enkelte konto, ligesom jeg køber aktier.
+- Jeg kan sælge kryptovalutaen for FIAT-valuta på den enkelte konto.
+- Jeg kan overføre kryptovalutaen mellem de forskellige wallets.
+
+Jeg er i tvivl om:
+
+- **Handel mellem coins**. Hvordan kan jeg handle en coin for en anden. Fx købe BTC for ETH.
+- **Renter og udbytte betalt i coins**. Hvordan skal jeg håndtere _inflation pool_ på fx Stellar Lumens. Det er egentlig renter, men de udbetales i XLM, og derfor kan jeg ikke sætte dem direkte ind som security og få det tilskrevet som renter. Skal jeg tilskrive det som EUR på tidspunktet og købe XLM for pengene?
+- **Indtægter udbetalt i coins**. Hvordan håndterer jeg indtægter, fx fra [Coinbase\*](/go/coinbase/) Earn. Lige nu har jeg lagt dem ind som Inbound Transfer og givet dem værdien i EUR på tidspunktet. Jeg har jo lavet en form for arbejde, så man kan godt argumentere for, at de har en værdi på det tidspunkt og skal skrives som sådan. Jeg kan også lægge dem ind som 1 cent, men så får jeg en alt for høj intern rente på mine coins, hvilket ikke vil afspejle virkeligheden.
+
+### Hente historiske priser på kryptovaluta
+
+Der er ret smart funktioner i Portfolio Performance, hvor man bl.a. automatisk kan hente de aktuelle priser fra Kraken eller andre steder.
+
+Når du opretter kryptovalutaen som en `Security`, kan du også hente de historiske priser på valutaen. Jeg henter fra Yahoo Finance og Kraken.
+
+Der er lige en lille finurlighed, når du skal skrive `Ticker symbol` på de to tjenester.
+
+- Jeg foretrækker selv [Kraken\*](/go/kraken/) som min egen børs, så jeg startede med at hente priser fra dem. Hos Kraken skal tickeren stå som `XXBTZEUR` (læg også mærke til at de har en anden betegnelse for Bitcoins på Kraken).
+- Kraken havde imidlertid ikke alle priser, så derfor henter jeg også nogle priser fra Yahoo Finance. Hos Yahoo skal tickeren stå som `DASH-EUR`, hvis du vil hente Europriser.
+
+Se eksempel med [Kraken\*](/go/kraken/) på, hvordan du skriver det ind.
+
+{% include figure image_path="/assets/images/posts/pp-crypto.jpg" caption="Jeg har valgt Kraken til at hente `Historical Quotes` for kryptovaluta. For at den kan gøre det automatisk, skal du sætte Symbol til `XXBTZEUR` for Bitcoins." %}
 
 ## Andre referencer 
 
