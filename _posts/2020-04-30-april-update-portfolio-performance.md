@@ -116,6 +116,8 @@ Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 E
 
 ## Passiv indtægt
 
-Det er lykkes mig at få en **indtjening på 111 DKK**. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). Den største indtjening er pudsigt nok kommet, da jeg sendte et gratis hæfte ud til mine brugere på [Fodboldens Legestue](http://www.legestue.net), hvor jeg skrev, at de var velkomne til at [byde mig på en kop kaffe](http://www.buymeacoffee.com/lsolesen), hvis de kunne lide materialet.
+Det er lykkes mig at få en **indtjening på 246 DKK**. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). Den største indtjening er pudsigt nok kommet, da jeg sendte et gratis hæfte ud til mine brugere på [Fodboldens Legestue](http://www.legestue.net), hvor jeg skrev, at de var velkomne til at [byde mig på en kop kaffe](http://www.buymeacoffee.com/lsolesen), hvis de kunne lide materialet.
+
+Hav en god dag.
 
 {% include disclaimer.md %}
