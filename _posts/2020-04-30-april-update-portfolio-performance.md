@@ -82,7 +82,7 @@ Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne p�
 
 {% include figure image_path="/assets/images/posts/2020-april-p2p-pie.jpg" caption="Fordeling på platforme" %}
 
-<div class="grid__wrapper">
+<div class="feature__wrapper">
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
 
