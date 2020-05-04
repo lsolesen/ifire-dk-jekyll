@@ -24,11 +24,31 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Tak fordi du læser med. Jeg er endnu ikke helt færdig med min opdatering, men har fået nogenlunde styr på crowdlending porteføljen, så den præsenterer jeg lige.
+Tak fordi du læser med.
 
-Jeg er nemlig blevet lidt træt af mit hjemmelavede regneark, så jeg gik i gang med at eksperimentere med det gratis open source program [PortfolioPerformance.info](http://www.portfolio-performance.info). Jeg håber, at jeg både kan tracke min almindelige investeringer, crowdlending og måske endda min kryptovaluta der.
+Det har været et stort arbejde at lave denne månedsopdatering.
 
-Jeg er ved at skrive på en artikel om, hvordan jeg bruger det, så kig tilbage om nogle dage.
+Jeg er nemlig blevet lidt træt af mit hjemmelavede regneark, så jeg gik i gang med at eksperimentere med det gratis open source program [PortfolioPerformance.info](http://www.portfolio-performance.info). Jeg håber, at jeg både kan tracke min almindelige investeringer, crowdlending og måske endda min kryptovaluta der. 
+
+Jeg har skrevet en artikel om, [hvordan jeg tracker min portefølje](/hvordan-tracker-jeg-min-portefolje/), og jeg kan godt afsløre at det nok primært i fremtiden bliver via det gratis program.
+
+Måneden bød på en fin opsparingsrate på 48%. Det ret motiverende, at opsparingsraten kan holdes højt over lang tid.
+
+Efter nogle hårde investeringsmåneder, så er min samlede formue næsten igen kommet op på niveauet for februar, så det går fremad igen.
+
+[Bilen døde også i denne måned](/bilen-synes-2020/), så på kort sigt falder udgifterne formenlig til transport indtil vi finder ud af, om vi har brug for en bil.
+
+Endelig har jeg igen med stor succes købt nogle tjenester på [Fiverr\*](/go/fiverr/). Jeg fik både tegnet noget til [www.motionsplan.dk](http://www.motionsplan.dk/), lavet søgeordsanalyser til [www.cykel-ruter.dk](http:)
+
+## Investeringer
+
+### Værdipapirer
+
+Jeg kæmper lige med at få Performance Portfolio til at udregne XIRR for investeringsdepoter, hvor der er flere valutakonti tilknyttet, så jeg ved ikke nøjagtigt, hvad min samlede interne rente er på mine investeringer i denne måned. Hvis jeg kigger på de enkelte depoter, så tror jeg nogenlunde at det går i 0 efter fine stignigner i denne måned.
+
+Jeg har ellers mest ladet papirerne passe sig selv og kun suppleret op med månedsopsparingen. Til gengæld har jeg brugt det meste af en weekend på at få sat mig ind i Portfolio Performance. Forhåbentlig bliver det lettere at få et hurtigt overblik næste måned, når jeg har fundet ud af detaljerne.
+
+[Få en gratis investeringsplan fra Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info } [Copytrading og kurtagefri handel på E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
 
 ### Crowdlending
 
@@ -60,7 +80,6 @@ Jeg opdaterer senere med resten af min månedsoversigt, så kig tilbage om nogle
 
 Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne på mine platform-oversigter. Det tager virkelig lang tid at lave dem. Jeg håber at PP kan være med til at gøre det lidt lettere, men måske kommer jeg til at savne automatiseringen direkte fra Google Sheets til sitet. Jeg går i tænkeboks og vender tilbage.
 
-
 {% include figure image_path="/assets/images/posts/2020-april-p2p-pie.jpg" caption="Fordeling på platforme" %}
 
 <div class="grid__wrapper">
@@ -72,5 +91,29 @@ Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne p�
 {% endfor %}
 
 </div>
+
+## Opsparing
+
+### Kontant
+
+Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min _nødopsparing_. Pengene er imidlertid lidt for tilgængelige kan jeg mærke, for de brænder hele tiden efter at ville investeres i aktier. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer. 
+
+[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+
+[Curve\*](/go/curve/) er stadig mit primære betalingskort. I praksis er det en overbygning på alle dine andre kort, så du i den medhørende app selv kan bestemme, hvilket kort og konti pengene reelt trækkes på. Det er en form for Mobile Pay i form af et betalingskort. Og så kan man relativt let _go back in time_, hvis man får lavet købet på det forkerte kort.
+
+[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Smart Bank app med Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
+
+### Kryptovaluta
+
+Jeg handler fortsat gennem [Kraken\*](/go/kraken/), hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase\*](/go/coinbase/), hvor jeg kigger efter deres _Earn_-programmer. 
+
+Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 EUR**. 
+
+[Få 10EUR til Bitcoins på Coinbase\*](/go/coinbase){: .btn .btn--large .btn--info }
+
+## Passiv indtægt
+
+Det er lykkes mig at få en **indtjening på 246 DKK**. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). Den største indtjening er pudsigt nok kommet, da jeg sendte et gratis hæfte ud til mine brugere på [Fodboldens Legestue](http://www.legestue.net), hvor jeg skrev, at de var velkomne til at [byde mig på en kop kaffe](http://www.buymeacoffee.com/lsolesen), hvis de kunne lide materialet.
 
 {% include disclaimer.md %}
