@@ -38,7 +38,9 @@ Efter nogle hårde investeringsmåneder, så er min samlede formue næsten igen 
 
 [Bilen døde også i denne måned](/bilen-synes-2020/), så på kort sigt falder udgifterne formenlig til transport indtil vi finder ud af, om vi har brug for en bil.
 
-Endelig har jeg igen med stor succes købt nogle tjenester på [Fiverr\*](/go/fiverr/). Jeg fik både tegnet noget til [www.motionsplan.dk](http://www.motionsplan.dk/), lavet søgeordsanalyser til [www.cykel-ruter.dk](http:)
+Endelig har jeg igen med stor succes købt nogle tjenester på [Fiverr\*](/go/fiverr/). Jeg fik både tegnet noget til [www.motionsplan.dk](http://www.motionsplan.dk/), lavet søgeordsanalyser til [www.cykel-ruter.dk](http://www.cykel-ruter.dk), tegnet skraldespandsmærkater til min arbejdsplads og fået tjekket om koblingen mellem Google Analytics og Google Search Console er rigtig. Noget jeg selv ville skulle bruge ret lang tid på at lave, men har fundet nogle dygtige mennesker, der gør det for et relativt lille beløb.
+
+[Opret dig på Fiverr\*](/go/fiverr/){: .btn .btn--large .btn--success }
 
 ## Investeringer
 
@@ -82,7 +84,7 @@ Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne p�
 
 {% include figure image_path="/assets/images/posts/2020-april-p2p-pie.jpg" caption="Fordeling på platforme" %}
 
-<div class="feature__wrapper">
+<div class="grid__wrapper">
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
 
@@ -114,6 +116,6 @@ Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 E
 
 ## Passiv indtægt
 
-Det er lykkes mig at få en **indtjening på 246 DKK**. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). Den største indtjening er pudsigt nok kommet, da jeg sendte et gratis hæfte ud til mine brugere på [Fodboldens Legestue](http://www.legestue.net), hvor jeg skrev, at de var velkomne til at [byde mig på en kop kaffe](http://www.buymeacoffee.com/lsolesen), hvis de kunne lide materialet.
+Det er lykkes mig at få en **indtjening på 111 DKK**. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). Den største indtjening er pudsigt nok kommet, da jeg sendte et gratis hæfte ud til mine brugere på [Fodboldens Legestue](http://www.legestue.net), hvor jeg skrev, at de var velkomne til at [byde mig på en kop kaffe](http://www.buymeacoffee.com/lsolesen), hvis de kunne lide materialet.
 
 {% include disclaimer.md %}
