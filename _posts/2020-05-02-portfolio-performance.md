@@ -84,6 +84,10 @@ Når jeg vil opgøre den enkelte copytrader, så dividerer jeg traderens samlede
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-historical-values.jpg" caption="Du kan selv tilføje historiske kurser nederst, når du klikker på et instrument." %}
 
+## Investment plans = månedsopsparing
+
+Du kan automatisere registreringen af fx [Nordnets\*](/go/nordnet) månedsopsparing fra `Investment Plans`. Du kan vælge at lave den automatiske pengeoverførsel, og du kan vælge én _security_ pr. investeringsplan, du sætter op. Den kender naturligvis ikke den nøjagtige kurs, men den kan du manuelt relativt hurtigt stille efterfølgende.
+
 ### Det fede dashboard til alm. investeringer
 
 Jeg er ved at få styr på alle mine investeringer i Portfolio Performance, og jeg vender tilbage, når jeg har lagt mig fast på en god måde at gøre det på - og et godt dashboard.
@@ -195,7 +199,9 @@ Når du har styr på din portefølje i Portfolio Manager, så er der mange fine 
 
 Jeg har brugt den gratis version af [cointracking.info\*](/go/cointracking/) til manuelt at holde styr på min kryptovaluta, de forskellige børser og wallets. Det fungerer ret godt, og jeg kan let hver måned aflæse realiserede og urealiserede gevinster og tab og den samlede nuværende værdi af min portefølje.
 
-Jeg eksperimenterer lige nu med at tracke kryptovaluta i Portfolio Performance i stedet, og jeg er så småt gået i gang.
+### Krypto i Portfolio Performance
+
+Jeg har lagt hele min kryptoportefølje ind i Portfolio Performance efter nedenstående retningslinjer. Der er ikke så meget materiale på nettet om de lidt mere indviklede ting, som handler mellem coins, renter, udbytter og indtægter i coins, så der kan være andre løsninger.
 
 Jeg har gjort følgende:
 
@@ -205,15 +211,27 @@ Jeg har gjort følgende:
 
 Jeg kan gøre følgende:
 
-- Jeg kan købe en kryptovaluta for FIAT-valuta på den enkelte konto, ligesom jeg køber aktier.
-- Jeg kan sælge kryptovalutaen for FIAT-valuta på den enkelte konto.
-- Jeg kan overføre kryptovalutaen mellem de forskellige wallets.
+- Jeg kan købe en kryptovaluta for FIAT-valuta på den enkelte konto ligesom jeg køber andre `securities`.
+- Jeg kan sælge kryptovalutaen for FIAT-valuta på den enkelte konto ligesom jeg køber andre `securities`.
 
-Jeg er i tvivl om:
+#### Overførsel mellem wallets
 
-- **Handel mellem coins**. Hvordan kan jeg handle en coin for en anden. Fx købe BTC for ETH.
-- **Renter og udbytte betalt i coins**. Hvordan skal jeg håndtere _inflation pool_ på fx Stellar Lumens. Det er egentlig renter, men de udbetales i XLM, og derfor kan jeg ikke sætte dem direkte ind som security og få det tilskrevet som renter. Skal jeg tilskrive det som EUR på tidspunktet og købe XLM for pengene?
-- **Indtægter udbetalt i coins**. Hvordan håndterer jeg indtægter, fx fra [Coinbase\*](/go/coinbase/) Earn. Lige nu har jeg lagt dem ind som Inbound Transfer og givet dem værdien i EUR på tidspunktet. Jeg har jo lavet en form for arbejde, så man kan godt argumentere for, at de har en værdi på det tidspunkt og skal skrives som sådan. Jeg kan også lægge dem ind som 1 cent, men så får jeg en alt for høj intern rente på mine coins, hvilket ikke vil afspejle virkeligheden.
+Jeg overfører mellem de enkelte wallets ved at lave en `Transfer` mellem de enkelte konti.
+
+Jeg er i tvivl om, hvilken pris jeg skal sætte i `rate`. Enten kan jeg sætte den gennemsnitlige indkøbskurs, eller jeg kan sætte kursen på dagen for overførslen. Jeg kan ikke helt gennemskue om en transfer med dagens pris ikke pludselig skifter nogle gains til realiserede i stedet for urealiserede gains.
+{: notice .notice--warning }
+
+#### Handel mellem coins
+
+Jeg har lavet nogle handler mellem coins, fx købt ETH for BTC. Jeg har lavet en workaround, hvor jeg først laver en `Sell` på BTC for den aktuelle EUR-pris. Derefter laver jeg en `Buy` for ETH, hvor jeg køber for nøjagtigt den pris jeg fik for den solgte coin, her BTC
+
+#### Renter og udbytte
+
+Jeg har en _inflation pool_ på mine Stellar Lumens, hvor jeg får renter i XML. Jeg har valgt at lave dem som en `Inbound Transfer`, og så sætter jeg værdien for den enkelte til 0,01 EUR. Det er et hack, men alterativet er, at jeg hver gang skal oprette en `Dividend` og udbetale den i EUR, som jeg så skal lave et køb af XML for. Det bliver hurtigt for bøvlet.
+
+#### Indtægter
+
+Når jeg har indtægter, fx fra [Coinbase\*](/go/coinbase/) Earn, der udbetales i _coins_, lægger jeg dem ind med den aktuelle dagskurs. Denne indtægt har jeg typisk for et arbejde, jeg har udført, og derfor giver det god mening, at jeg har fået en FIAT-løn på dagen, jeg udførte arbejdet. Jeg har således betalt kryptovalutaen med min tid omskrevet til EUR.
 
 ### Hente historiske priser på kryptovaluta
 
