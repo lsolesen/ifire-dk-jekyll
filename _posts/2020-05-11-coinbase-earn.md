@@ -13,7 +13,7 @@ excerpt: "Coinbase har lavet en række kurser, hvor du kan tjene kryptovaluta p�
 
 Det er naturligvis et markedsføringsindslag fra dem, for du skal oprette en konto på Coinbase for at gennemgå kurserne. Jeg synes gebyrerne for at handle på Coinbase er lidt i den høje ende.
 
-## Kurserne
+## Kurser i kryptovaluta
 
 Jeg har gennemgået kurserne følgende kurser:
 
@@ -26,7 +26,7 @@ Jeg har gennemgået kurserne følgende kurser:
 [Orchid](https://coinbase.com/earn/oxt/invite/pc1gh5xs)
 : Målet med Orchid er at skabe et privatlivsværktøj, der er baseret på krypto. Du kan tjene gratis OXT og prøve Orchids VPN-service. Det kræver lidt teknisk snilde at få sat det op.
 
-## Andre kurser
+## Andre kurser om kryptovaluta
 
 Der er også kurser i:
 
