@@ -9,15 +9,17 @@ toc_sticky: true
 last_modified_at: 2020-05-12T10:00:00+08:00
 ---
 
+*[PAL]: Pensionsafkast lagerbeskatning
+
 ## Penge investeret i aktier og obligationer
 
 Totale værdi falder kraftigt i marts 2019, da jeg sælger min SparNord StjerneInvest Fri for i stedet at gå kontant, inden jeg opbygger mine nye porteføljer.
 
-{% include figure image_path="/assets/images/status/investering.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
+{% include figure image_path="/assets/images/status/investeringer.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
 
 ## Fordeling på porteføljer
 
-{% include figure image_path="/assets/images/status/investering-allokering.jpg" caption="Allokering på de enkelte investeringsporteføljer" %}
+{% include figure image_path="/assets/images/status/investeringer-allokering.jpg" caption="Allokering på de enkelte investeringsporteføljer" %}
 
 ### Nordnet Danske Passive Investeringsforeninger - realisationsbeskattet 
 
@@ -29,7 +31,7 @@ Som ægtefælle kan man bruge hinandens bundgrænse, og så bliver grænsen stø
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success}
+[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success }
 
 ### Nordnet Passive Index Growth Portfolio - lagerbeskattet
 
@@ -56,7 +58,7 @@ Jeg vil forsøge at rebalancere en gang om året med en handel, der bringer mig 
 
 Jeg har lavet en portefølje med det formål at spare op til mine døtres eventuelle efterskoleophold. Jeg er meget fleksibel med, hvornår pengene skal udbetales, da jeg har tre piger, så deres ophold har en tidshorisont der spænder fra 6-10 år inden pengene skal bruges.
 
-### SaxoBank Aktiesparekonto - Frie midler 
+### SaxoBank Aktiesparekonto - Lagerbeskattet
 
 Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres ved årets udgang efter lagerbeskatningsprincippet.
 

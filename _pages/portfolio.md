@@ -11,19 +11,20 @@ toc: true
 
 På denne side kommer du til at kunne se mit samlede portfolio, og hvordan jeg lige nu forholder mig til investering og opsparing.
 
+{% include figure image_path="/assets/images/status/value.jpg" caption="Samlede investeringer" %}
 ## Investeringer
 
 Jeg er ved at udarbejde en strategi for mine investeringer. Du kan følge med i [mine månedsopdateringer](/opdateringer/), for hvordan det går.
 
 ### Distribution af investeringer
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=530543382&amp;format=image"></iframe>
+{% include figure image_path="/assets/images/status/allocation.jpg" caption="Allokering af investeringer" %}
 
 ### Investeringer i værdipapirer - aktier og obligationer
 
 Min strategi for værdipapir-investering er [under](/investering-vol2/) [stadige](/investering-vol3/) og [løbende](/investering-vol4/) [overvejelser](/investering-vol5/).
 
-<iframe width="600" height="427" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=858965065&amp;format=image"></iframe>
+{% include figure image_path="/assets/images/status/investeringer.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
 
 #### Nordnet og månedsopsparing
 
@@ -49,7 +50,7 @@ I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og gu
 
 <iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success}
+[Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success }
 
 #### Nordnet #3: Aldersopsparing
 
@@ -59,11 +60,11 @@ I aldersopsparingen har jeg satset på Nordnets fonde, da man kan handle dem gra
 
 <iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success}
+[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
 
 #### SaxoInvestor - og aktiesparekonto
 
-Jeg har en **aktiesparekonto** hos [SaxoInvestor*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_, hvor jeg blander købene lidt.
+Jeg har en **aktiesparekonto** hos [SaxoInvestor\*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_, hvor jeg blander købene lidt.
 
 #### Kapitalpension
 
@@ -76,19 +77,19 @@ Min kapitalpension investeret i nogle SparNord-aktier og akkumulerende fonde.
 
 ### Investeringer i crowdlending
 
+Jeg investerer i crowdlending, og jeg har lavet en opdeling af platformene alt efter om det er forbrugslån, investeringer i projekter (bl.a. ejendomsprojekter) eller investeringer i ejendomme, der giver huslejeindtægter.
+
 Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/).
 
-<iframe width="600" height="427.012" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1157747909&amp;format=image"></iframe>
+#### Samlet værdi
 
-<iframe width="829.512" height="544.017" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1070569247&amp;format=image"></iframe>
+{% include figure image_path="/assets/images/status/p2p-value.jpg" caption="Samlede værdi af crowdlending"  %}
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info}
+#### Samlede fordeling
 
-### Investeringer i ejedomme
+{% include figure image_path="/assets/images/status/p2p-allocation-groups.jpg" caption="Crowdlending fordelt på typer" %}
 
-Jeg investerer i ejendomme gennem forskellige crowdlending initiativer. Det er ikke en del af min strategi at investere i mine egne ejendomme.
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=683129836&amp;format=image"></iframe>
+[Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info }
 
 ## Opsparing
 
@@ -114,7 +115,9 @@ Mange sparer op i fysisk guld og sølv. Jeg ville egentlig have brugt [BullionVa
 
 ### Cryptovaluta
 
-Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan se min portefølje på [CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/).
+Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du kan læse om mine planer for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/).
+
+{% include figure image_path="/assets/images/status/crypto-allocation.jpg" caption="Sammensætning af kryptovaluta-porteføljen" %}
 
 [Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--success}
 
