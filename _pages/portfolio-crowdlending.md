@@ -6,6 +6,7 @@ excerpt: "Her kan du se min samlede portefølje crowdlending - med intern rente,
 author_profile: true
 toc: true
 toc_sticky: true
+last_modified_at: 2020-05-12T10:00:00+08:00
 ---
 
 {% include disclosure.html %}

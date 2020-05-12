@@ -6,15 +6,18 @@ excerpt: "Her kan du se min samlede portefølje i aktier og obligationer"
 author_profile: true
 toc: true
 toc_sticky: true
+last_modified_at: 2020-05-12T10:00:00+08:00
 ---
 
 ## Penge investeret i aktier og obligationer
 
-<iframe width="600" height="427" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=858965065&amp;format=image"></iframe>
+Totale værdi falder kraftigt i marts 2019, da jeg sælger min SparNord StjerneInvest Fri for i stedet at gå kontant, inden jeg opbygger mine nye porteføljer.
+
+{% include figure image_path="/assets/images/status/investering.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
 
 ## Fordeling på porteføljer
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1778122809&amp;format=image"></iframe>
+{% include figure image_path="/assets/images/status/investering-allokering.jpg" caption="Allokering på de enkelte investeringsporteføljer" %}
 
 ### Nordnet Danske Passive Investeringsforeninger - realisationsbeskattet 
 
@@ -77,23 +80,9 @@ Man kan ikke længere indebetale penge på en kapitalpension. Der betales pensio
 
 Lige nu har jeg SparNord-aktier og en akkumulerende dansk investeringsforening der dækker MSCI World (udviklede lande). Jeg overvejer at omlægge til en akkumulerende, prisbillig ETF.
 
-## Total værdi
+## Porteføljens performance
 
-- Totale værdi falder kraftigt i marts 2019, da jeg sælger min SparNord StjerneInvest Fri for i stedet at gå kontant, inden jeg opbygger mine nye porteføljer.
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=507089913&amp;format=image"></iframe>
-
-## Månedlig urealiseret værdiændring
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1969596978&amp;format=image"></iframe>
-
-## Akkumuleret urealiseret afkast
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=967145576&amp;format=image"></iframe>
-
-## XIRR
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1257448086&amp;format=image"></iframe>
+{% include figure image_path="/assets/images/status/investering-performance.jpg" caption="Performance sammenlignet med verdensindekset. Indtil marts 2019 var det banken, der stod for investeringerne." %}
 
 [Få gratis porteføljeforslag på Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
