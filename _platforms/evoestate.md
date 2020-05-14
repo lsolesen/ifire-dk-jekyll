@@ -7,7 +7,13 @@ tags:
   - crowdlending
   - ejendomsinvestering
 excerpt: "EvoEstate er en litauisk platform. Den skiller sig ud ved, at den udbyder ejendomme fra andre crowdlending platforme, der fokuserer på ejendomme. Så det er en form for samleplatform."
+last_modified_at: 2020-01-06T00:00:00+08:00
+first_investment_at: 2019-09-12T10:00:00+08:00
 ---
+
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
+
+**Første investeringsdato**: {{ page.first_investment_at | date: "%b %-d, %Y"}}
 
 {{ page.excerpt }}
 

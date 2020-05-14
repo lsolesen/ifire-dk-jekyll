@@ -15,11 +15,12 @@ deal:
     url: /go/trine/
     btn_label: "Få 10 EUR hos Trine*"
     btn_class: "btn--success"
+first_investment_at: 2019-02-22T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 5. marts 2019
+**Første investeringsdato**: 22. februar 2019
 
 ## December
 

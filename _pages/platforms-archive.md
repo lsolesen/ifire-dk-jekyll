@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Crowdlending platforme
-excerpt: "Oversigt over crowdlending platforme, jeg investerer i eller har kendskab til."
+title: Crowdlending, crowdfunding og P2P-platforme
+excerpt: "Oversigt over platofmre for crowdlending, crowdfunding og P2P-investeringer, som jeg investerer i eller har kendskab til."
 permalink: /crowdlending-platforme/
 redirect_from:
   - /platforme/
@@ -15,6 +15,8 @@ classes: wide
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
 
+<div class="feature__wrapper">
+
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
@@ -22,3 +24,5 @@ classes: wide
 {% else%}
   Fandt i øjeblikket ikke lige nogen platforme på iFire. Vi arbejder på det.
 {% endif %}
+
+</div>

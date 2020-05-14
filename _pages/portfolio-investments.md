@@ -74,7 +74,7 @@ Jeg har valgt at bruge Nordnets indeksfonde, som har 0% i kurtage og 0% i årlig
 
 <iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success}
+[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
 
 ### SparNord Kapitalpension - PAL og lagerbeskattet
 
@@ -86,6 +86,19 @@ Lige nu har jeg SparNord-aktier og en akkumulerende dansk investeringsforening d
 
 {% include figure image_path="/assets/images/status/investering-performance.jpg" caption="Performance sammenlignet med verdensindekset. Indtil marts 2019 var det banken, der stod for investeringerne." %}
 
-[Få gratis porteføljeforslag på Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få gratis porteføljeforslag på Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info }
+
+## Deals
+
+{% assign everything = "" %}
+{% assign investments = site.platforms | where: "tags", "investering" | where_exp: "item", "item.deal != ''" %}
+{% for d in investments %}
+  {% if everything.size > 0 %}
+    {% assign everything = d.deal | concat: everything %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
 
 {% include disclaimer.md %}

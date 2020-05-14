@@ -7,6 +7,7 @@ tags:
   - crowdlending
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
 last_modified_at: 2019-09-01T12:54:00+08:00
+first_investment_at: 2019-02-18T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -54,4 +55,4 @@ last_modified_at: 2019-09-01T12:54:00+08:00
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1442216585&amp;format=image"></iframe>
 
-[FastInvest\*](/go/fastinvest/){: .btn .btn--large .btn--warning}
+[FastInvest\*](/go/fastinvest/){: .btn .btn--large .btn--warning }

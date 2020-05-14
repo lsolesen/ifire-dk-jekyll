@@ -9,6 +9,7 @@ tags:
   - værdipapirer
 excerpt: "Etoro er en investeringsplatform, hvor man kan købe udenlandske aktier gratis og lave copy trading."
 last_modified_at: 2019-07-11T20:00:00+08:00
+first_investment_at: 2019-05-29T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

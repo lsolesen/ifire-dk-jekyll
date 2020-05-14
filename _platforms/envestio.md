@@ -5,13 +5,17 @@ header:
   teaser: /assets/images/logo/envestio.png
 tags:
   - crowdlending
-excerpt: "Envestio er registreret i Estland og låner ud til investeringsprojekter for virksomheder, og er startet med nogle ret gode procenter på deres investeringer."
+excerpt: "Envestio viste sig at være svindel, og jeg tabte hele mit indestående."
 last_modified_at: 2020-01-21T11:40:00+08:00
+first_investment_at: 2019-03-01T10:00:00+08:00
 toc: true
 ---
 
-Jeg ville ikke selv i øjeblikket investere i Envestio - og jeg håber, at det bliver muligt at trække pengene ud fra platformen igen. Læs mere under juni 2020 nedenunder.
-{: .notice .notice--danger }
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
+
+**Første investeringsdato**: 1. marts 2019  
+**Tabt renteindtægt**: 169 EUR
+**Tabt indskud**: 1.500 EUR
 
 ## Envestio var et svindelnummer
 
@@ -22,12 +26,6 @@ Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra cro
 Jeg har meldt mig ind i [Facebookgruppen Envestio Investorer DK](https://www.facebook.com/groups/127110065133037/), hvor andre investorer i samme knibe deler erfaringer. Jeg har politianmeldt Envestio ud fra [den hjælpsomme skabelon delt i denne tråd](https://www.facebook.com/groups/127110065133037/permalink/127894991721211/).
 
 Heldigvis har jeg på [borger.dk](https://www.borger.dk/internet-og-sikkerhed/identitetstyveri/kreditadvarsel) indsat en kreditadvarsel allerede da jeg startede mit investeringseventyr. Advarslen har til formål at forbindre tilfælde af identitetsmisbrug. _Desværre skal firmaerne tilmelde sig ordningen for at det virker._
-
-**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
-
-**Første investeringsdato**: 1. marts 2019  
-**Tabt renteindtægt**: 169 EUR
-**Tabt indskud**: 1.500 EUR
 
 ## Ulemper
 
@@ -62,19 +60,3 @@ Heldigvis har jeg på [borger.dk](https://www.borger.dk/internet-og-sikkerhed/id
 ## Marts 2019
 
 - Det er endnu ikke lykkes mig at finde en investering på Envestio, men de har lovet snart at lægge lån ud. Lånene bliver virkelig optaget hurtigt på Envestio.
-
-## Investering og værdi af investering
-
-<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1155691955&amp;format=image"></iframe>
-
-## Månedlig indkomst
-
-<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1293854206&amp;format=image"></iframe>
-
-## XIRR
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1516999013&amp;format=image"></iframe>
-
-## Transaktioner
-
-<iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=677233925&amp;format=image"></iframe>

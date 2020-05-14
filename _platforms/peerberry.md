@@ -7,6 +7,7 @@ tags:
   - crowdlending
 excerpt: "PeerBerry er fra november 2017 og tilbyder kortsigtede lånetyper med omkring 12% i årligt afkast og buy back garanti. Lån i bl.a. Polen, Kazakstan, Ukraine og Tjekkiet."
 last_modified_at: 2019-07-12T23:30:00+08:00
+first_investment_at: 2019-02-27T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

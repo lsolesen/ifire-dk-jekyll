@@ -7,11 +7,12 @@ tags:
   - crowdlending
 excerpt: "Crowdlending firma fra Estland - som virker meget som Mintos" 
 last_modified_at: 2019-03-24T00:00:00+08:00
+first_investment_at: 2019-05-21T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 5. marts 2019
+**Første investeringsdato**: 21. maj 2019
 
 ## September 2019
 

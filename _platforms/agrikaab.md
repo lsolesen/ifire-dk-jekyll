@@ -5,8 +5,9 @@ header:
   teaser: /assets/images/logo/agrikaab.png
 tags:
   - crowdlending
-#excerpt: "På Agrikaab kan du investere i afrikanske udviklingsprojekter. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."
+#excerpt: "På Agrikaab kunne man investere i afrikanske udviklingsprojekter. Platformen er gået ned."
 last_modified_at: 2020-03-30T10:00:00+08:00
+first_investment_at: 2019-06-14T10:00:00+08:00
 toc: true
 ---
 
@@ -14,6 +15,12 @@ toc: true
 
 **Første investeringsdato**: 14. juni 2019  
 **Tabt investering**: 1600 USD
+
+
+
+## April 2020
+
+Jeg havde et lille indestående på kontoen, som Agrikaab valgte at returnere via Bitcoins til min Bitcoin-konto. De lovede at følge op på, hvordan det går med at få lidt flere penge ind til investorerne ved salg af deres projekter. Jeg var i projektet for at gøre en forskel i Afrika, og selvom Agrikaab er lukket ned, så ser det ud til, at projekterne trods alt gør gavn i nærområdet.
 
 ## Marts 2020 - Agrikaab er lukket ned
 
@@ -40,7 +47,6 @@ Agrikaab lukkede ned med følgende besked på deres hjemmeside:
 > Agrikaab Team
 
 ## Højrisiko-investering
-
 
 Agrikaab (tidligere Ari.farm) investerer i landbrug i Østafrika, og firmaet fortæller selv, at det er en investering i Afrikas fødevaresikkerhed. Agrikaab blev grundlagt af den tidligere nomade Mohamed Jimale i 2016, da Somalia blev ramt af en forfærdelig tørke, som påvirkede livet for mange nomader i Somalia. Agrikaab gør det muligt at investere i landbruget i Somalia og skabe job til nomaderne.
 
@@ -94,21 +100,3 @@ Hvis du stadig tør investere, så kan du høre Mohamed Jimale fortælle lidt om
 ## Juni 2019
 
 Jeg kunne ikke få lov til at bruge mit Revolut-betalingskort til at overføre penge til Agrikaab, så jeg lavede i stedet en bankoverførsel fra [Revolut\*](/go/revolut/). I Revolut skulle jeg angive formålet med overførslen og hele adressen til modtageren. På [Agrikaabs\*](/go/agrikaab/) hjemmeside stod ikke postnummeret, så jeg skrev til deres kundservice, som svarede inden for en time med den fulde adresse. 
-
-## Investering og værdi af investering
-
-<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1541626736&amp;format=image"></iframe>
-
-## Månedlig indkomst
-
-<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=391698304&amp;format=image"></iframe>
-
-## XIRR
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1072634129&amp;format=image"></iframe>
-
-## Transaktioner
-
-<iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=237808947&amp;format=image"></iframe>
-
-[Tilmeld dig Agrikaab\*](/go/agrikaab/){: .btn .btn--large .btn--success}

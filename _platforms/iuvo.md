@@ -7,13 +7,14 @@ tags:
   - crowdlending
 excerpt: "Iuvo giver gode renter og hører til i Estland"
 last_modified_at: 2019-06-04T10:38:00+08:00
-toc: true
+first_investment_at: 2019-05-21T10:00:00+08:00
 toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 21. maj 2019
+
 ## Fordele
 
 - Mange lån - fra 5-15% rente

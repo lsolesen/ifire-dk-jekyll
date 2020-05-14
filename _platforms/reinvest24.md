@@ -8,6 +8,7 @@ tags:
   - ejendomsinvestering
 excerpt: "ReInvest24 er en crowdfunding platform for ejendomsinvesteringer hvor du kan investere i ejendomme i Estland."
 last_modified_at: 2019-03-24T00:00:00+08:00
+first_investment_at: 2019-02-26T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

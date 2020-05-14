@@ -38,7 +38,7 @@ Denne portefølje er dedikeret til primært danske, passive fonde.
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success}
+[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success }
 
 #### Nordnet #2: Investering i udenlandske, passive fonde
 
@@ -79,7 +79,7 @@ Min kapitalpension investeret i nogle SparNord-aktier og akkumulerende fonde.
 
 Jeg investerer i crowdlending, og jeg har lavet en opdeling af platformene alt efter om det er forbrugslån, investeringer i projekter (bl.a. ejendomsprojekter) eller investeringer i ejendomme, der giver huslejeindtægter.
 
-Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/).
+Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/crowdlending/).
 
 #### Samlet værdi
 
@@ -99,7 +99,7 @@ For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskell
 
 Jeg har en indlånskonto hos [Lunar\*](/go/lunar/)<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
 
-[Opret en konto hos Lunar og få 50 DKK\*](/go/lunar/){: .btn .btn--large .btn--success}
+[Opret en konto hos Lunar og få 50 DKK\*](/go/lunar/){: .btn .btn--large .btn--success }
 
 ### Opsparingskonto
 
@@ -119,7 +119,7 @@ Jeg er så småt gået i gang med at opbygge en portefølje med cryptovaluta. Du
 
 {% include figure image_path="/assets/images/status/crypto-allocation.jpg" caption="Sammensætning af kryptovaluta-porteføljen" %}
 
-[Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--success}
+[Køb cryptovaluta hos Coinbase og få for 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info }
 
 ## Opsparingsrate
 

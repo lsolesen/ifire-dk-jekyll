@@ -7,7 +7,7 @@ author_profile: true
 toc: false
 ---
 
-## Crowdlending og crowdfunding
+## Crowdlending, crowdfunding og P2P-investeringer
 
 {% assign deals = site.platforms | where: "tags", "crowdlending" | where_exp: "item", "item.deal != ''" %}
 {% for d in deals %}

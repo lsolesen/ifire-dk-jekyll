@@ -11,6 +11,7 @@ last_modified_at: 2019-08-21T12:54:00+08:00
 platform:
   autoinvest: yes
   twofactorauth: no
+first_investment_at: 2019-08-21T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

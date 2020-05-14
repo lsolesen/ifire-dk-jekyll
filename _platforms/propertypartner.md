@@ -8,6 +8,7 @@ tags:
   - ejendomsinvestering
 excerpt: "På Property Partner investerer du i ejendomme i England ved at købe aktier i selskaberne og modtage udbytte (husleje) hver måned."
 last_modified_at: 2019-12-31T08:19:00+08:00
+first_investment_at: 2019-03-21T10:00:00+08:00
 toc: true
 ---
 
@@ -15,7 +16,7 @@ toc: true
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 5. marts 2019
+**Første investeringsdato**: 21. marts 2019
 
 **Note:** Når du skal tilmelde dig, bliver du bedt om at sende et billede af dit pas eller kørekort med e-mail til dem. Det er knap så tjekket som mange andre platforme.
 {: .notice--danger }

@@ -8,6 +8,7 @@ tags:
   - ejendomsinvestering
 excerpt: "Hos Bulkestate investeres i udviklingslån til boligprojekter."
 last_modified_at: 2020-01-21T11:40:00+08:00
+first_investment_at: 2019-02-20T10:00:00+08:00
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
