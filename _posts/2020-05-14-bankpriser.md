@@ -26,9 +26,10 @@ feature_row_solutions:
     excerpt: "[Ledger\\*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 classes: wide
 toc: false
+last_modified_at: 2020-05-14T16:11:00+08:00
 ---
 
-<table>
+<table class="table">
   {% for row in site.data.bankpriser %}
     {% if forloop.first %}
     <tr>

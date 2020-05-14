@@ -23,17 +23,13 @@ Både hos [mobilpakke.dk\*](/go/pa/mobilpakke/) og [mobilsparer.dk\*](/go/pa/mob
 
 Tjek om du kan spare hos
 
-[Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning} eller [Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning}
+[Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning } eller [Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning }
 
 ***
 
 ## Hvad hvis jeg skal have ny mobil?
 
 Ofte kan det betale sig at købe en ny mobil gennem en pakkeaftale ved et teleselskab, og når mobilen er betalt, så kan du tjekke om abonnementet er det mest konkurrencedygtige på de to services.
-
-Hvis du foretrækker at købe en mobil og bare bruge dit eksisterende abonnement, så kan du du på [nemmobil.dk*](/go/pa/nemmobil/) finde en masse modeller til konkurrencedygtige priser.
-
-Du kan også søge på [pricebutler.dk*](/go/pa/pricebutler) for at sammenligne priser mellem selskaberne. Der er garanteret også mange andre måder at gøre det på, som du gerne må dele i kommentarerne.
 
 ## Har du sparet på din mobilregning?`
 
@@ -45,7 +41,7 @@ Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene 
 
 Tjek dit mobilabonnemnt hos
 
-[Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning} eller [Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning}
+[Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning } eller [Mobilpakke.dk\*](/go/pa/mobilpakke/ ){: .btn .btn--large .btn--warning}
 
 ***
 

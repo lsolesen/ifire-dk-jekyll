@@ -5,6 +5,10 @@ category:
   - Opsparing
 tags:
   - investering
+header:
+  overlay_image: https://images.unsplash.com/photo-1549421263-5ec394a5ad4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  teaser: https://images.unsplash.com/photo-1549421263-5ec394a5ad4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Ishant Mishra on Unsplash
 excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen?"
 ---
 
