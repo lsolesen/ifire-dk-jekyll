@@ -40,11 +40,11 @@ Denne portefølje er dedikeret til primært danske, passive fonde.
 
 [Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success }
 
-#### Nordnet #2: Investering i udenlandske, passive fonde
+#### Nordnet #2: Investering i udenlandske, passive ETF'er
 
 Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor.com) og forsøger at have en ligelige fordeling mellem aktier, obligationer, guld og REIT. Her investerer jeg i EUR og USD.
 
-I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og guld, mens jeg har valgt tre specifikke REIT i USD. <del date="2020-01-03T09:16:18+02:00">Ved at vælge tre REIT, så bliver jeg beskattet som aktieindkomst efter realisationsprincippet på mine REIT, og jeg synes omkostningerne på de mest interessante REIT ETF'er er lidt høje.</del><ins date="2020-01-03T09:16:18+02:00">Nu beskattes ETF'er som aktieindkomst efter lagerprincippet, og derfor overvejer jeg at skifte til en REIT ETF. Dog synes jeg omkostningerne på 0,40% er lige i det højeste.</ins>
+I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer<ins>, REIT</ins> og guld<del>, mens jeg har valgt tre specifikke REIT i USD</del>. <del date="2020-01-03T09:16:18+02:00">Ved at vælge tre REIT, så bliver jeg beskattet som aktieindkomst efter realisationsprincippet på mine REIT, og jeg synes omkostningerne på de mest interessante REIT ETF'er er lidt høje.</del><ins date="2020-01-03T09:16:18+02:00">Nu beskattes ETF'er som aktieindkomst efter lagerprincippet, og derfor har jeg skiftet til en REIT ETF.</ins>
 
 <iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
@@ -52,7 +52,13 @@ I øjeblikket har jeg valgt at investere i ETF'er for aktier, obligationer og gu
 
 [Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success }
 
-#### Nordnet #3: Aldersopsparing
+#### SaxoInvestor - og aktiesparekonto
+
+Jeg har en **aktiesparekonto** hos [SaxoInvestor\*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_, hvor jeg blander købene lidt.
+
+[Få en gratis investeringsplan fra NORD\*](/go/nord/){: .btn .btn--large .btn--warning}
+
+#### Nordnet: Aldersopsparing
 
 I aldersopsparingen har jeg satset på Nordnets fonde, da man kan handle dem gratis.
 
@@ -60,20 +66,11 @@ I aldersopsparingen har jeg satset på Nordnets fonde, da man kan handle dem gra
 
 <iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
-
-#### SaxoInvestor - og aktiesparekonto
-
-Jeg har en **aktiesparekonto** hos [SaxoInvestor\*](/go/saxoinvestor/), som er investeret i en blanding af nordiske aktier i øjeblikket. Det er hovedsageligt en _legeportefølje_, hvor jeg blander købene lidt.
+[Se porteføljen på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
 
 #### Kapitalpension
 
-Min kapitalpension investeret i nogle SparNord-aktier og akkumulerende fonde.
-
-- [SparNord-aktier](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)
-- [Danske Invest Global Indeks Akk KL DKK](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)
-
-[Få en gratis investeringsplan fra NORD\*](/go/nord/){: .btn .btn--large .btn--warning}
+Min kapitalpension investeret i nogle [SparNord]((http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)-aktier og [Danske Invest Global Indeks akkumulerende](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX) fond. Jeg overvejer at skifte til en ETF med lavere omkostninger.
 
 ### Investeringer i crowdlending
 
