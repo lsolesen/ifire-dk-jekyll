@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Crowdlending, crowdfunding og P2P-investeringer
+title: Crowdlending, crowdfunding og P2P-investeringer siden 2017
 permalink: /crowdlending/
 excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
 author_profile: true
@@ -81,5 +81,12 @@ Jeg har forsøgt at dele mine crowdlending investeringer op i almindelige forbru
 {% endfor %}
 
 </div>
+
+## Historik for signups
+
+{% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "first_investment_at" %}
+
+{% for post in site_posts %}- {{ post.first_investment_at | date: "%b %-d, %Y"}} - Oprettede konto hos [{{ post.title }}\*]({{ post.cta_url }}) {% if post.exit_message %}({{ post.exit_message }}){% endif %}
+{% endfor %}
 
 {% include disclaimer.md %}

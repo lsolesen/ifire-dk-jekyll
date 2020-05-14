@@ -9,14 +9,13 @@ excerpt: "På Agrikaab kunne man investere i afrikanske udviklingsprojekter. Pla
 last_modified_at: 2020-03-30T10:00:00+08:00
 first_investment_at: 2019-06-14T10:00:00+08:00
 toc: true
+exit_message: "lukkede ned april 2020, og jeg tabte pengene"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 14. juni 2019  
 **Tabt investering**: 1600 USD
-
-
 
 ## April 2020
 

@@ -14,6 +14,7 @@ first_investment_at: 2019-08-21T10:00:00+08:00
 platform:
   autoinvest: yes
   twofactorauth: yes
+cta_url: /go/estateguru/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

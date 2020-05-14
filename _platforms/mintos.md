@@ -19,6 +19,7 @@ deal:
     btn_label: "Få Mintos*"
     btn_class: "btn--info"
 first_investment_at: 2019-02-18T10:00:00+08:00
+cta_url: /go/mintos/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

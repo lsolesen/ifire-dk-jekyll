@@ -11,6 +11,7 @@ excerpt: "På PropertyPartner investerer du i ejendomme i England ved at købe a
 last_modified_at: 2019-12-31T08:19:00+08:00
 first_investment_at: 2019-03-21T10:00:00+08:00
 toc: true
+cta_url: /go/propertypartner/
 ---
 
 {{ page.exerpt }}

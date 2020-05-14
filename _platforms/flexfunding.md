@@ -10,6 +10,7 @@ excerpt: "Flexfunding er en af de ældste danske crowdlending platforme, hvor du
 date: 2019-02-27T20:47:31+08:00
 last_modified_at: 2019-07-04T07:00:00+08:00
 first_investment_at: 2017-02-27T10:00:00+08:00
+cta_url: /go/flexfunding/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

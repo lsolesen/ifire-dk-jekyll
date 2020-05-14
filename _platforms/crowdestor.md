@@ -11,6 +11,7 @@ excerpt: "Crowdestor er en _peer-to-peer_ _crowd lending_ platform baseret i Let
 last_modified_at: 2019-08-31T00:08:00+08:00
 first_investment_at: 2019-03-06T10:00:00+08:00
 toc: true
+cta_url: /go/crowdestor/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

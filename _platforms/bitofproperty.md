@@ -11,6 +11,8 @@ tags:
 excerpt: "BitOfProperty opererer primært i Estland. Platformen giver dig mulighed for at investere i ejendom og få husleje for udlejningen."
 last_modified_at: 2020-01-06T00:00:00+08:00
 first_investment_at: 2019-06-14T10:00:00+08:00
+cta_url: /go/bitofproperty/
+exit_message: "velfungerende platform, men er på for mange platforme"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
