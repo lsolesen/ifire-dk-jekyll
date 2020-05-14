@@ -11,11 +11,11 @@ last_modified_at: 2020-05-12T10:00:00+08:00
 
 {% include disclosure.html %}
 
-I februar 2017 investerede jeg mine første penge i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/). Følg udviklingen, mine erfaringer og afkastet herunder.
+I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/). 
+
+Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
 
 {% include crowdlending-warning.html %}
-
-Jeg har en del penge investeret i crowdlending. Du kan se.
 
 ## Udvikling i værdi af crowdlending
 

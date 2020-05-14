@@ -5,6 +5,12 @@ Når man er økonomisk uafhængig kan man klare sig uden en løbende indkomst fr
 Man får finansiel frihed ved at etablere en _passiv indkomst_, der er høj nok til, at man ikke er afhængig af et lønarbejde.
 
 
+Udregne dit FI-nummer
+
+Du tager dine 
+
+TJEK DOG BENJAMIN GRAHAM.
+
 
 
 {% include video provider="youtube" id="https://youtu.be/OpdkDpF_V3w" %}
