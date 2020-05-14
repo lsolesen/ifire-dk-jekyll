@@ -7,7 +7,9 @@ header:
 tags:
   - crowdlending
   - blockchain
-excerpt: "Hos Funderbeam investerer du i startups. Platformen er baseret på blockchain-teknologien."
+  - England
+  - Østeuropa
+excerpt: "Hos Funderbeam investerer du i startups gennem `shares`. Platformen er baseret på blockchain-teknologien."
 last_modified_at: 2019-07-04T07:00:00+08:00
 first_investment_at: 2017-07-04T10:00:00+08:00
 ---

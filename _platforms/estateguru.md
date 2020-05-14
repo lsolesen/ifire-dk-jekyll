@@ -6,7 +6,9 @@ header:
 tags:
   - crowdlending
   - ejendomme
-excerpt: "Hos Estate Guru investerer du ejendomme i med hovedsæde i Estland."
+  - Estland
+  - Østeuropa
+excerpt: "Hos Estate Guru investerer du udviklingsprojekter med ejendomme i med hovedsæde i Estland."
 last_modified_at: 2019-08-21T12:54:00+08:00
 first_investment_at: 2019-08-21T10:00:00+08:00
 platform:

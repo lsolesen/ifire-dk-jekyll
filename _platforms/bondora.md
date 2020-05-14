@@ -5,6 +5,8 @@ header:
   teaser: /assets/images/logo/bondora.png
 tags:
   - crowdlending
+  - Estland
+  - Østeuropa
 excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på omkring 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"
 last_modified_at: 2019-06-14T00:00:00+08:00
 first_investment_at: 2019-02-20T10:00:00+08:00

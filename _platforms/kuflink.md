@@ -6,7 +6,8 @@ header:
 tags:
   - crowdlending
   - ejendomme
-excerpt: "Hos Kuflink investerer du ejendomme i Storbritanien."
+  - England
+excerpt: "Hos Kuflink investerer du ejendomme og ejendomsudvikling i Storbritanien og England."
 last_modified_at: 2019-08-21T12:54:00+08:00
 platform:
   autoinvest: yes

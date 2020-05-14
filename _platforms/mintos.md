@@ -5,6 +5,8 @@ header:
   teaser: &logo /assets/images/logo/mintos.png
 tags:
   - crowdlending
+  - Letland
+  - Østeuropa
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
 last_modified_at: 2019-08-17T20:01:00+08:00
 toc: true

@@ -6,7 +6,8 @@ header:
 tags:
   - crowdlending
   - ejendomsinvestering
-excerpt: "Housers giver dig mulighed for at investere både i ejendom, men også ejendomsudviklingsprojekter. Housers opererer i Spanien, Italien og Portugal."
+  - Spanien
+excerpt: "Housers giver dig primært mulighed for at investere i ejendomsudviklingsprojekter. Housers opererer i Spanien, Italien og Portugal."
 last_modified_at: 2019-03-24T00:00:00+08:00
 first_investment_at: 2019-03-05T10:00:00+08:00
 ---

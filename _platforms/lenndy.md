@@ -5,7 +5,9 @@ header:
   teaser: /assets/images/logo/lenndy.png
 tags:
   - crowdlending
-excerpt: "Crowdlending firma fra Estland - som virker meget som Mintos" 
+  - Estland
+  - Østeuropa
+excerpt: "Crowdlending firma fra Estland, hvor du kan investere i forbrugslån til private. En noget mindre udgave af Mintos." 
 last_modified_at: 2019-03-24T00:00:00+08:00
 first_investment_at: 2019-05-21T10:00:00+08:00
 ---

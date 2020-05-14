@@ -5,7 +5,8 @@ header:
   teaser: /assets/images/logo/betterglobe.png
 tags:
   - crowdlending
-excerpt: "Med Better Globe investerer du i træer i Afrika. Spørgsmålet er om det er et Ponzi scheme"
+  - Sverige
+excerpt: "Med Better Globe investerer du i træer i Afrika. Spørgsmålet er om det er et Ponzi scheme."
 last_modified_at: 2020-01-06T00:00:00+08:00
 first_investment_at: 2019-06-14T10:00:00+08:00
 ---

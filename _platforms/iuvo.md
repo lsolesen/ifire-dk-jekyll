@@ -1,11 +1,13 @@
 ---
-title: "Iuvo"
+title: "Iuvo Group"
 permalink: /platform/iuvo/
 header:
   teaser: /assets/images/logo/iuvo.png
 tags:
   - crowdlending
-excerpt: "Iuvo giver gode renter og hører til i Estland"
+  - Estland
+  - Østeuropa
+excerpt: "Iuvo opererer i Estland og giver lån til private - primært forbrugslån."
 last_modified_at: 2019-06-04T10:38:00+08:00
 first_investment_at: 2019-05-21T10:00:00+08:00
 toc: true

@@ -6,10 +6,16 @@ header:
 tags:
   - crowdlending
   - ejendomsinvestering
-excerpt: "Grupeer er virkelig lovende, hvor du kan investere i lån, udviklingsprojekter og snart kvadratmeter på ejendomsmarkedet."
+  - Irland
+  - Østeuropa
+excerpt: "Grupeer er virkelig lovende, hvor du kan investere i lån, udviklingsprojekter og snart kvadratmeter på ejendomsmarkedet. Er det et scam?"
 last_modified_at: 2019-03-24T00:00:00+08:00
 first_investment_at: 2019-02-27T10:00:00+08:00
+toc: true
 ---
+
+Er Grupeer et scam - eller er det bare ramt af Corona. Tjek opdateringen under marts.
+{: .notice .notice--danger }
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 

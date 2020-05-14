@@ -5,7 +5,8 @@ header:
    teaser: &logo /assets/images/logo/lendahand.png
 tags:
   - crowdlending
-#excerpt: "På Lendahand kan du investere i udviklingsprojekter i Afrika og Mongoliet. Risikoen i crowdlending får en ny dimension med risiko for tørke, sygdom osv."
+  - Holland
+excerpt: "På Lendahand kan du investere i udviklingsprojekter i Afrika og Mongoliet. Opererer fra Holland."
 last_modified_at: 2019-06-22T00:00:00+08:00
 deal:
   - image_path: *logo

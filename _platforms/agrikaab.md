@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/logo/agrikaab.png
 tags:
   - crowdlending
-#excerpt: "På Agrikaab kunne man investere i afrikanske udviklingsprojekter. Platformen er gået ned."
+excerpt: "På Agrikaab kunne man investere i afrikanske udviklingsprojekter. Platformen er gået ned."
 last_modified_at: 2020-03-30T10:00:00+08:00
 first_investment_at: 2019-06-14T10:00:00+08:00
 toc: true

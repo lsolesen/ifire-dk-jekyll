@@ -5,7 +5,8 @@ header:
   teaser: /assets/images/logo/kameo.png
 tags:
   - crowdlending
-excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige."
+  - Danmark
+excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme."
 last_modified_at: 2019-07-12T12:45:00+08:00
 first_investment_at: 2019-02-04T10:00:00+08:00
 ---

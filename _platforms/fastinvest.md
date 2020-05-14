@@ -5,6 +5,8 @@ header:
   teaser: /assets/images/logo/fastinvest.png
 tags:
   - crowdlending
+  - England
+  - Østeuropa
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
 last_modified_at: 2019-09-01T12:54:00+08:00
 first_investment_at: 2019-02-18T10:00:00+08:00
