@@ -32,11 +32,13 @@ last_modified_at: 2020-05-14T16:11:00+08:00
 <table class="table">
   {% for row in site.data.bankpriser %}
     {% if forloop.first %}
+    <thead>
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
+    </thead>
     {% endif %}
 
     {% tablerow pair in row %}
