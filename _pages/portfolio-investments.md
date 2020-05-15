@@ -1,5 +1,7 @@
 ---
 layout: single
+created_at: 2019-05-14T10:00:00+08:00
+last_modified_at: 2020-05-15T10:00:00+08:00
 title: Investeringsportefølje
 permalink: /investeringer/
 excerpt: "Her kan du se min samlede portefølje i aktier og obligationer"
@@ -7,6 +9,11 @@ author_profile: true
 toc: true
 toc_sticky: true
 last_modified_at: 2020-05-12T10:00:00+08:00
+tags:
+  - overblik
+header:
+  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
     excerpt: 'Jeg bruger selv [Nordnet\*](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen.'

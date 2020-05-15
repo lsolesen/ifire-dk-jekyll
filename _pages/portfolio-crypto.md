@@ -1,11 +1,17 @@
 ---
 layout: single
+created_at: 2019-05-16T10:00:00+08:00
 title: Kryptovaluta portefølje
 permalink: /cryptovaluta/
 excerpt: "Her kan du se min samlede cryptovaluta portefølje - med intern rente, totalt investeret og indkomst."
 author_profile: true
 toc: false
 last_modified_at: 2020-05-12T10:00:00+08:00
+tags:
+  - overblik
+header:
+  teaser: https://images.unsplash.com/photo-1550565360-6986a92b7169?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Dmitry Demidko on Unsplash
 feature_row_solutions:
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"

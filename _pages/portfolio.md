@@ -1,5 +1,6 @@
 ---
 layout: single
+last_modified_at: 2020-05-15T10:00:00+08:00
 title: Portefølje - aktier, obligationer, crowdlending, guld og cryptovaluta
 permalink: /portfolio/
 excerpt: "Her kan du se min samlede portefølje med aktier, obligationer, crowdlending, guld, sølv og cryptovaluta."
@@ -168,6 +169,18 @@ Jeg har opbygget en portefølje med kryptovaluta. Du kan læse om mine planerne 
 [Coinbase og få 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info }
 
 {% include feature_row id="feature_row_crypto" %}
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.pages | where: "tags", "overblik" | sort: "created_at" %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single-simple.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
 
 ## Opsparingsrate
 
