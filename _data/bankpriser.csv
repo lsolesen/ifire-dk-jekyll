@@ -9,8 +9,8 @@ Kort,Visa/Dankort,Visa/Dankort,Visa/Dankort,Visa/Dankort,Visa/Dankort,Visa/Danko
 Kortgebyr,0,175,0,0,0,0
 Lønkonto,0,Lønkonto 0 DKK,LSB Løn 0 DKK,Lønkonto 0 DKK,0 DKK,Lønkonto 0 DKK
 Fælles budgetkonto,0,Budgetkonto 0 DKK,LSB Budget 0 DKK,Budget 0 DKK,Ikke muligt,Budgetkonto 0 DKK
-Børnekonti,0,0,0,0,Ikke muligt,0
-Børneopsparing,0,0,0,0,Ikke muligt,0
+Børnekonti,0,0,0,0,Ikke muligt,Ikke muligt
+Børneopsparing,0,0,0,0,Ikke muligt,Ikke muligt
 Depotgebyr,Ja,Ja,Ja,Ja,Ikke muligt,Ja
 Kurtage,Mindst 29 DKK,Mindst 50 DKK,Mindst 29 DKK,Mindst 29 DKK,19 DKK,Mindst 50 DKK
 Udlandsoverførsel (SEPA EU),Gratis SEPA,50 DKK,Gratis SEPA,Gratis SEPA,Gratis SEPA,Gratis SEPA
