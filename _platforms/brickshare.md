@@ -11,6 +11,14 @@ excerpt: "Hos Brickshare laver man ejendomsinvestering i Danmark ved at købe an
 last_modified_at: 2019-12-31T00:00:00+08:00
 first_investment_at: 2019-04-23T10:00:00+08:00
 cta_url: /go/brickshare/
+deal:
+  - image_path: *logo
+    alt: *title
+    title: *title
+    excerpt: "Få 250 DKK hvis du begynder at investere på Brickshare."
+    url: /go/brickshare/
+    btn_label: "Få 250 kr til Brickshare*"
+    btn_class: "btn--info"
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

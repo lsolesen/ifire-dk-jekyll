@@ -30,8 +30,8 @@ Jeg vil beskrive min rejse med alle de spørgsmål, jeg selv har stået med i pr
 
 Jeg håber du vil følge med i min rejse.
 
-[Opret en konto hos Lunar<del date="2019-10-03T09:16:18+02:00">Way</del> og få 50 DKK*](/go/lunar/){: .btn .btn--large .btn--success}
+[Opret en konto hos Lunar<del date="2019-10-03T09:16:18+02:00">Way</del> og få 50 DKK*](/go/lunar/){: .btn .btn--large .btn--success }
 
-[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning }
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info}
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info }

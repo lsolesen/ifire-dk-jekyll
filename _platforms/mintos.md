@@ -10,14 +10,14 @@ tags:
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
 last_modified_at: 2019-08-17T20:01:00+08:00
 toc: true
-deal:
-  - image_path: *logo
-    alt: *title
-    title: *title
-    excerpt: "Bliv en del af Europas største crowdlending platform med årlige afkast på 10%+"
-    url: /go/revolut/
-    btn_label: "Få Mintos*"
-    btn_class: "btn--info"
+#deal:
+#  - image_path: *logo
+#    alt: *title
+#    title: *title
+#    excerpt: "Bliv en del af Europas største crowdlending platform med årlige afkast på 10%+"
+#    url: /go/mintos/
+#    btn_label: "Få Mintos*"
+#    btn_class: "btn--info"
 first_investment_at: 2019-02-18T10:00:00+08:00
 cta_url: /go/mintos/
 ---
