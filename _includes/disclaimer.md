@@ -1,9 +1,10 @@
-**[Disclaimer](/disclaimer/)**
+<p><strong>Hvis du kan lide sitet</strong>, så klik dig videre fra de forskellige links eller <strong>støt sitet</strong> ved at <a href="{{ '/go/buymeacoffee/' | relative_url }}">købe mig en kop kaffe</a> eller gennem <a href="{{ '/go/flattr/' | relative_url }}">Flattr</a>.</p>
 
-_iFire.dk modtager kommission gennem affiliate links og omtale af udvalgte finansielle produkter og services. Affiliate og referral links er markeret med (*). Jeg anstrenger mig for at være neutral og objektiv, og jeg har selv investeret og brugt alle værktøjer på sitet, og jeg kan stå inde for de services, jeg fremhæver._
+{% include buymeacoffee.html %}
 
-_Jeg fralægger mig ethvert ansvar for aktualitet, nøjagtighed, og gyldighed af oplysningerne på dette website. Jeg kan ikke holdes til ansvar for evt. tab på baggrund af information._
-
-_**Hvis du kan lide sitet**, så klik dig videre fra de forskellige links eller **støt sitet** via [Brave](/go/brave/), [BuyMeACoffee](https://www.buymeacoffee.com/hmBeaqv9P), [Flattr](/go/flattr/) eller send nogle Bitcoins til `{{ site.bitcoin_address }}`_
-
-<style>.bmc-button img{width: 27px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#FFFFFF !important;background-color:#FF813F !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 1px 9px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#FFFFFF !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/lsolesen"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+<hr>
+<div class="disclaimer">
+  <p><strong><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a></strong>: iFire.dk modtager kommission gennem affiliate links og omtale af udvalgte finansielle produkter og services. Disse links er markeret med (*). Jeg anstrenger mig for at være neutral og objektiv, og jeg har selv investeret og brugt alle værktøjer på sitet.</p>
+  <p>Jeg fralægger mig ethvert ansvar for aktualitet, nøjagtighed, og gyldighed af oplysningerne på dette website. Jeg kan ikke holdes til ansvar for evt. tab på baggrund af information.</p>
+</div>
+<hr>
