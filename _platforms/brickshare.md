@@ -1,8 +1,8 @@
 ---
-title: "Brickshare"
+title: &title "Brickshare"
 permalink: /platform/brickshare/
 header:
-  teaser: /assets/images/logo/brickshare.png
+  teaser: &logo /assets/images/logo/brickshare.png
 tags:
   - crowdlending
   - ejendomsinvestering
@@ -15,7 +15,7 @@ deal:
   - image_path: *logo
     alt: *title
     title: *title
-    excerpt: "Få 250 DKK hvis du begynder at investere på Brickshare."
+    excerpt: "Få 250 DKK lagt til din første investering i danske ejendomme på Brickshare med lejeindtægter."
     url: /go/brickshare/
     btn_label: "Få 250 kr til Brickshare*"
     btn_class: "btn--info"

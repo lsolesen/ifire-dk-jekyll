@@ -2,7 +2,8 @@
 title: "Hvordan tracker jeg min portefølje med Atlaz, Portfolio Performance og Cointracking.info?"
 permalink: /hvordan-tracker-jeg-min-portefolje/
 category:
-  - Opdateringer
+  - Investeringer
+  - Status
 tags:
   - rigdomsformularen
   - status

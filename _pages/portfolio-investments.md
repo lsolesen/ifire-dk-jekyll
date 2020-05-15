@@ -7,6 +7,13 @@ author_profile: true
 toc: true
 toc_sticky: true
 last_modified_at: 2020-05-12T10:00:00+08:00
+feature_row_own:
+  - image_path: /assets/images/logo/nordnet.png
+    excerpt: 'Jeg bruger selv [Nordnet\*](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen.'
+  - image_path: /assets/images/logo/saxoinvestor.png
+    excerpt: Desuden bruger jeg [SaxoInvestor\*](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage.'
+  - image_path: /assets/images/logo/etoro.png
+    excerpt: Desuden har jeg testet [Etoro\*](/go/etoro/) til kurtagefri handel med bl.a. Vanguards ETF\'er og copytrading.'
 ---
 
 *[PAL]: Pensionsafkast lagerbeskatning
@@ -64,6 +71,12 @@ Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres 
 
 I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank.
 
+### Etoro Kurtagefri handel og Copytrading
+
+Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro\*](/go/etoro/) for at afprøve platformen, hvor man kan handle kurtagefrit.
+
+[Kurtagefri handel på Etoro\*](/go/etoro/){: .btn .btn--large .btn--success }
+
 ### Nordnet Aldersopsparing - PAL og lagerbeskattet
 
 I 2020 må man indbetale 5.300 DKK på aldersopsparingen. Af det beløb betaler man PAL-skat, som lige nu er 15,3% efter lagerprincippet. Der skal ikke betales afgift, når aldersopsparingen udbetales ved pensionsalderen. Pensionsudbetalingsalderen er 3 år før folkepensionsalderen.
@@ -99,6 +112,10 @@ Lige nu har jeg SparNord-aktier og en akkumulerende dansk investeringsforening d
     {% assign everything = d.deal %}
   {% endif %}
 {% endfor %}
-{% include feature_row array=everything %}
+{% include feature_row array=everything type="left" %}
+
+## Mine platforme
+
+{% include feature_row id="feature_row_own" type="center" %}
 
 {% include disclaimer.md %}

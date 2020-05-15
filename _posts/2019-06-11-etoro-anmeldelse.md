@@ -4,7 +4,7 @@ permalink: /etoro-anmeldelse/
 last_modified_at: 2019-12-31T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
-  teaser: /assets/images/logo/etoro.jpg
+  teaser: /assets/images/logo/etoro.png
 category:
   - Anmeldelser
 tags:

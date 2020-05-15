@@ -15,7 +15,7 @@ deal:
     excerpt: *excerpt
     url: /go/trine/
     btn_label: "Få 10 EUR hos Trine*"
-    btn_class: "btn--success"
+    btn_class: "btn--warning"
 first_investment_at: 2019-02-22T10:00:00+08:00
 cta_url: /go/trine/
 ---

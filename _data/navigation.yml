@@ -1,18 +1,20 @@
 # main links
 main:
-  - title: "Portefølje"
-    url: /portfolio/
-  - title: "Spar penge"
-    url: /spar-penge/
-  - title: "Investering"
-    url: /investering/
   - title: "Opdateringer"
     url: /opdateringer/
+  - title: "Investering"
+    url: /investering/
+  - title: "Crowdlending"
+    url: /crowdlending/
+  - title: "Krypto"
+    url: /cryptovaluta/
   - title: "Inspiration"
     url: /inspiration/
-  - title: "Anmeldelser"
-    url: /anmeldelser/
+  - title: "Spar penge"
+    url: /spar-penge/
   - title: "Deals"
     url: /deals/
+  - title: "Portefølje"
+    url: /portfolio/
   - title: "Om"
     url: /om/
