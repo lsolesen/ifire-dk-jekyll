@@ -8,6 +8,8 @@ tags:
   - forsikring
 excerpt: "Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt."
 last_modified_at: 2019-07-16T20:22:02+02:00
+sidebar:
+  - text: '<a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625042&media_id=81507"/></a>'
 ---
 
 Jeg tjekker jævnligt mine forsikringer igennem for at se om de stadig passer til mig og min familie. Er det stadig det samme forsikringer vi har brug for? Er jeg dobbeltforsikret fx ift. rejseforsikring, autohjælp, pension og så videre.
@@ -30,7 +32,9 @@ Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
 
 - **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på. 
 
-Det tog 15 minutter - men det var også en pæn besparelse på 2900 kroner om året på forsikringer.
+Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507) og [Findforsikring.dk](/go/pa/findforsikring/), men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
+
+Det tog 15 minutter - men det var også en pæn besparelse på 2.900 kroner om året på forsikringer.
 
 Nu er min udgift på forsikringer årligt følgende:
 
@@ -44,7 +48,7 @@ Hvad kunne du spare på dine forsikringer?
 
 Tjek dine forsikringer hos:
 
-[Findforsikring.dk](/go/pa/findforsikring/){: .btn .btn--large .btn--warning} eller [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--warning}
+[Findforsikring.dk](/go/pa/findforsikring/){: .btn .btn--large .btn--warning } eller [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--info }
 
 ***
 
