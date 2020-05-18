@@ -31,7 +31,7 @@ comments:
   disqus:
     shortname            : "ifire"
 staticman:
-  branch                 : "gh-pages"
+  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -83,12 +83,18 @@ social:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lsolesen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lsolesen/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/lsolesen"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lsolesen"
+    - label: "Køb mig en kop kaffe"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lsolesen/ifire-dk-jekyll"
