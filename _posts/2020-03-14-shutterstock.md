@@ -29,7 +29,7 @@ Jeg mangler stadig at sortere omkring 1.000 billeder, hvoraf måske 50-100 også
 
 Husk selv at undersøge priserne grundigt både hos Shutterstock og konkurrenterne, inden du beslutter dig for dit eget salgssted.
 
-[Køb billeder på Shutterstock](/go/shutterstock/){: .btn .btn--large .btn--info }
+[Sælg billeder på Shutterstock](http://submit.shutterstock.com?rid=261127496){: .btn .btn--large .btn--info }
 
 ## Køb billeder på Shutterstock
 
