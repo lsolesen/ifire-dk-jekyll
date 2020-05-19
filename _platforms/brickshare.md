@@ -8,7 +8,7 @@ tags:
   - ejendomsinvestering
   - Danmark
 excerpt: "Hos Brickshare laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene."
-last_modified_at: 2019-12-31T00:00:00+08:00
+last_modified_at: 2020-05-19T00:00:00+08:00
 first_investment_at: 2019-04-23T10:00:00+08:00
 cta_url: /go/brickshare/
 deal:
@@ -25,11 +25,15 @@ deal:
 
 **Første investeringsdato**: 23. april 2019  
 
+## Fordele
+
+- Dansk crowdlending hvor du bliver husejer og får huslejeindtægt.
+
 ## Ulemper
 
 - Afkast kommer først, når projektet er finansieret og der er kommet lejere i bygningen.
 
-### April
+### April 2019
 
 - Fik endelig investeret i et projekt på BrickShare.
 
