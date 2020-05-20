@@ -89,7 +89,7 @@ Når jeg vil opgøre den enkelte copytrader, så dividerer jeg traderens samlede
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-historical-values.jpg" caption="Du kan selv tilføje historiske kurser nederst, når du klikker på et instrument." %}
 
-## Investment plans = månedsopsparing
+### Investment plans = månedsopsparing
 
 Du kan automatisere registreringen af fx [Nordnets\*](/go/nordnet) månedsopsparing fra `Investment Plans`. Du kan vælge at lave den automatiske pengeoverførsel, og du kan vælge én _security_ pr. investeringsplan, du sætter op. Den kender naturligvis ikke den nøjagtige kurs, men den kan du manuelt relativt hurtigt stille efterfølgende.
 
