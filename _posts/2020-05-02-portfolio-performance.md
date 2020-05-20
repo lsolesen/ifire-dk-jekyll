@@ -64,9 +64,11 @@ Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordne
 
 Jeg fulgte denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu/2019/06/27/how-to-track-your-investments-with-portfolio-performance/) for at komme  gang med at bruge Portfolio Performance til investeringer.
 
+**VIGTIGT**: Hvis du vil bruge programmet på flere computere, skal du gå ind under Help --> Preferences og sætte et flueben i `Store GUI settings next to Portfolio Performance file`, ellers er dine perioder og filtre ikke tilgængelige på alle computerne.
+
 ### Importere data ind i Portfolio Performance
 
-Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutahandlerne, så dem har jeg efterfølgende oprettet manuelt. 
+Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt. 
 
 Jeg kan ikke finde CSV-filer:
 
@@ -75,7 +77,9 @@ Jeg kan ikke finde CSV-filer:
 
 ### Flere valutakonti
 
-Hvis du handler i flere valutaer, skal du oprette flere `Deposit Accounts` med forskellige valutaer. Jeg importerede bare CSV-filen på alle konti, for den kan kun importere ting, der er i samme valuta.
+Hvis du handler i flere valutaer, skal du oprette flere `Deposit Accounts` med forskellige valutaer. Jeg importerede bare CSV-filen på alle konti med de samme oplysninger. Portfolio Performance importerer kun de poster, der er i den rigtige valuta.
+
+Hvis du gerne vil have en widget med XIRR (IRR) på dit Performance Dashboard med en `Security Account`, der har flere valutakonti, så kan du oprette et filter, hvor du inkluderer de relevante konti. Derefter kan du på Performance Dashboard vælge filteret til din widget.
 
 ### Copytrading på [Etoro\*](/go/etoro/)
 

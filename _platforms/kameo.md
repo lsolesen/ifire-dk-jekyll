@@ -5,6 +5,9 @@ header:
   overlay_image: https://dl2phipa8wx75.cloudfront.net/mediaxpress/1200x0/b189367ce4065edaddd8502994a35a709b7c3520/article/1574777600-9io-_13I9708_192.jpg
   overlay_filter: 0.8
   teaser: /assets/images/logo/kameo.png
+  actions:
+    - label: "Invester hos Kameo*"
+      url: "/go/kameo/"
 tags:
   - crowdlending
   - Danmark
@@ -19,7 +22,7 @@ toc: true
 
 **Første investeringsdato**: {{ page.first_investment_at | date: "%b %-d, %Y"}}
 
-{{ page.excerpt }}
+{% include figure image_path=page.header.teaser caption=page.excerpt %}
 
 Kameo er grundlagt i 2014. De er repræsenteret i Norge, Sverige og Danmark og derfor kan du også investere i lån fra alle tre lande. Hos Kameo investerer du i ejendomsprojekter og andre virksomhedslån. Lånene giver typisk et relativt højt afkast i forhold til dansk crowdlending generelt.
 
@@ -40,34 +43,49 @@ Kameo kredit- og risikovurderer alle lånene på crowdlendingplatformen. Det giv
 
 ## Ulemper
 
+- Der er ingen autoinvest, hvilket gør, at man jævnligt skal ind på platformen - og lige nu er der heller ikke planlagt nogen autoinvest.
 - Kun muligt at investere beløb deleligt med 500 DKK / SEK / NOK, hvilket gør, at man ofte vil have mindre beløb stående fra renteindtægter, der ikke kan geninvesteres. Du kan naturligvis altid "toppe op" med det nødvendige beløb næste gang, du gerne vil investere.
 - Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der er ikke så mange norske lån).
 - Projekterne er kun oversat mellem de forskellige sprog på oversigtssiden - ikke de uddybende informationer om projektet.
 - Overførslerne mellem de forskellige valutakonti tager en dag, så man kan ikke investere med det samme, hvis der er et spændende lån (dog kan man med en ny funktion reservere investeringer, selvom man ikke har penge på kontoen).
 - Det tager lidt tid inden den interne rente vokser til det forventede.
 
-## Juli 2019
+## Min erfaring med Kameo
 
-> Platformen i Norge har været under ombygning da det norske finanstilsyn krævede ændringer for alle platforme der operere i landet. Dette er på plads nu og du vil snart kunne se norske projekter også.
-
---- <cite>Jesper M. Johansen, Managing director - via support email 12. juli 2019</cite>
-
-## Marts 2019
+### Marts 2019
 
 - Det var ret let at oprette en konto på Kameo.
 - 5\. marts overførte jeg penge til Kameo (DKK) og Kameo (SEK).
 - 15\. marts overførte jeg penge til Kameo (NOK).
 - Hele måneden har jeg kørt med cash drag, da der ikke er så mange lån.
 
-## April 2019
+### April 2019
 
 - Man veksler gratis mellem valutakonti på Kameo, men det er virkelig irriterende, at man ikke kan _straksoverføre_ penge mellem de forskellige valutakonti, hvis der kommer et interessant lån i en anden valuta.
 - Jeg kører stadig med cash drag, da der ikke er så mange lån - særligt den norske del, hvor der slet ikke har været nogen lån.
 
-## Juni 2019
+### Juni 2019
 
 - Jeg kører stadig med cash drag i alle valutaer (DKK, SEK og NOK).
 - Jeg trak pengene ud til Kameo (NOK), da der slet ikke har været et eneste norsk lån på to måneder. Jeg har valgt at trække pengene helt ud af Kameo og kun fastholde Kameo (SEK) og Kameo (DKK). Jeg forventer ikke at skyde flere penge ind i Kameo som lånesituationen og brugen af platformen ser ud lige nu. Der sker lidt for lidt til lidt for dårlige renter. **Jeg skulle naturligvis have valgt at flytte pengene til den danske del af Kameo, da jeg så var sluppet for vekselgebyret, når de skal ind på min danske konto i Spar Nord, hvilket Kameo support venligt gjorde mig opmærksom på, inden jeg trak pengene ud.**
+
+### Juli 2019
+
+Jeg har trukket mig fra den norske del af Kameo, fordi der ganske enkelt ikke kommer nogen lån.
+
+> Platformen i Norge har været under ombygning da det norske finanstilsyn krævede ændringer for alle platforme der operere i landet. Dette er på plads nu og du vil snart kunne se norske projekter også.
+
+--- <cite>Jesper M. Johansen, Managing director - via support email 12. juli 2019</cite>
+
+**Update 18. marts 2020**: Jeg har efterfølgende fulgt lidt med i de norske lån, og der er meget få af dem, så jeg holder mig fra at veksle penge til NOK. Jeg er godt tilfreds med den danske og svenske del af Kameo.
+
+### Maj 2020
+
+Jeg kunne virkelig godt bruge en _auto invest_ på Kameo, så jeg ikke behøver at tjekke om jeg har _cash drag_ et par gange om måneden. Men det ser ikke ud til, at den lige er på trapperne.
+
+> Vi har ikke en auto-invest funktion på tegnebrættet i den nærmeste fremtid da det er noget der kræver både tekniske og forretningsmæssige overvejelser.
+
+--- <cite>Svar på e-mail fra Kameo kundeservice</cite>
 
 ## XIRR Kameo DKK
 
