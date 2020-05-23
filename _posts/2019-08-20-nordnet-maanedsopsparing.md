@@ -77,4 +77,8 @@ Jeg har skrevet lidt mere om [passiv indeks investering](/investering/), hvis du
 
 Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor\*](/go/saxoinvestor/) også være en mulighed. Der er nemlig ikke nogen minimumskurtage.
 
+En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter. Jeg synes den mest interessante er [Nord.Investments\*](/go/nord/), fordi den er uafhængig af din bank, og de skal præstere for at beholde dig som kunde.
+
+[Få gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info }
+
 {% include disclaimer.md %}
