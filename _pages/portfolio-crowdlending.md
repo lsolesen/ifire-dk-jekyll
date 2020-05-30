@@ -21,8 +21,6 @@ I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sa
 
 Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
 
-{% include crowdlending-warning.html %}
-
 ## Udvikling i værdi af crowdlending
 
 Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg ogås har været ramt af. Crowdlending er en højrisiko investeringsform.

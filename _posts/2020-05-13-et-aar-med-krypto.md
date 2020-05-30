@@ -1,5 +1,5 @@
 ---
-title: "Et år med kryptovaluta"
+title: "Status efter et år med opsparing i kryptovaluta"
 permalink: /crypto-1-aar/
 category:
   - Opsparing

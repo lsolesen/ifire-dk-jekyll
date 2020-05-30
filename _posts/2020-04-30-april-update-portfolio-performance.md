@@ -29,7 +29,6 @@ Tak fordi du læser med.
 Det har været et stort arbejde at lave denne månedsopdatering.
 
 Jeg er nemlig blevet lidt træt af mit hjemmelavede regneark, så jeg gik i gang med at eksperimentere med det gratis open source program [PortfolioPerformance.info](http://www.portfolio-performance.info). Jeg håber, at jeg både kan tracke min almindelige investeringer, crowdlending og måske endda min kryptovaluta der. 
-
 Jeg har skrevet en artikel om, [hvordan jeg tracker min portefølje](/hvordan-tracker-jeg-min-portefolje/), og jeg kan godt afsløre at det nok primært i fremtiden bliver via det gratis program.
 
 Måneden bød på en fin opsparingsrate på 48%. Det ret motiverende, at opsparingsraten kan holdes højt over lang tid.
