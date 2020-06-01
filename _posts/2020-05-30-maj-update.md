@@ -108,6 +108,8 @@ I løbet af maj har jeg **renteindtægter på 3.091 DKK på crowdlending**. Hove
 
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg gruperer dem i privatlån, udviklingsprojekter og ejendomme.
 
+Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+
 ## Opsparing
 
 ### Kontant
