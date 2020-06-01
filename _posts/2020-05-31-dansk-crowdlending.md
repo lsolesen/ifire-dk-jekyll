@@ -78,7 +78,7 @@ Jeg har lavet en detaljeret oversigt over [mine erfaringer med Flexfunding, som 
 
 ## Kameo
 
-{% include figure image_path="/assets/images/logo/kameo.png caption="Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme. %}
+{% include figure image_path="/assets/images/logo/kameo.png" caption="Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme." %}
 
 Kameo er grundlagt i 2014. De er repræsenteret i Norge, Sverige og Danmark og derfor kan du også investere i lån fra alle tre lande. Hos Kameo investerer du i ejendomsprojekter og andre virksomhedslån. Lånene giver typisk et relativt højt afkast i forhold til dansk crowdlending generelt.
 
@@ -110,7 +110,7 @@ Kameo kredit- og risikovurderer alle lånene på crowdlendingplatformen. Det giv
 
 Det er ikke så let at få et overblik over sine samlede investeringer på Kameo. Her er et screenshot fra `Min Konto`. Her kan jeg finde kontoens værdi, men der er ikke et samlet overblik over den forventede renteindtægt eller eventuelle gebyrer.
 
-{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)"" %}
+{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
 
 Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
 
@@ -155,7 +155,7 @@ Brickshare regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i,
 
 På Brickshare køber man sig ind i en ejerforening af de enkelte projekter, som juridisk er adskilt fra hinanden. Det er en rigtig god sikkerhed. Det betyder også, at det forventede afkast på de enkelte projekter ikke påvirker hiananden.
 
-{% include figure image_path="/assets/images/posts/brickshare-expeted-dividend.png" caption="Oversigt over hvilket forventet afkast Brickshare forventer for projekterne" %}
+{% include figure image_path="/assets/images/posts/brickshare-expected-dividend.png" caption="Oversigt over hvilket forventet afkast Brickshare forventer for projekterne" %}
 
 Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for nøjagtigt et år siden i _Nordvest, Nørrebros hippe nabo_-projektet med 50.000 DKK og har fået 441,64 DKK udbetalt i første udbytte. Det svarer til 0,8% i afkast på et projekt, der lover 3-4% i udbytte om året. Årsagen til det lave udbytte er naturligvis, at jeg skulle indbetale pengene inden projektet reelt gik i gang, og derfor dækker udbyttet en noget kortere del af året.
 
@@ -170,6 +170,14 @@ Der er altså flere muligheder for at investere i dansk crowdlending.
 Jeg har også overvejet at investere i [Lendino\*](/go/lendino/), som ligner [Flexfunding](/platform/flexfunding/) rigtig meget. En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindsteinvesteringen 1000 DKK, hvilket hurtigt ville gøre, at jeg ville få _cash drag_ så længe jeg ikke vil investere mere end 10.000 til 30.000.
 
 Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [Brickshare](/platform/brickshare/), hvor man bliver medejer af projeket.
+
+Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
+
+Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast. 
+
+Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for Brickshare er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
+
+Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
 [Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til Brickshare](/go/brickshare/){: .btn .btn--large .btn--info }
 

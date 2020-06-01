@@ -67,7 +67,7 @@ Brickshare regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i,
 
 På Brickshare køber man sig ind i en ejerforening af de enkelte projekter, som juridisk er adskilt fra hinanden. Det er en rigtig god sikkerhed. Det betyder også, at det forventede afkast på de enkelte projekter ikke påvirker hiananden.
 
-{% include figure image_path="/assets/images/posts/brickshare-expeted-dividend.png" caption="Oversigt over hvilket forventet afkast Brickshare forventer for projekterne" %}
+{% include figure image_path="/assets/images/posts/brickshare-expected-dividend.png" caption="Oversigt over hvilket forventet afkast Brickshare forventer for projekterne" %}
 
 Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for nøjagtigt et år siden i _Nordvest, Nørrebros hippe nabo_-projektet med 50.000 DKK og har fået 441,64 DKK udbetalt i første udbytte. Det svarer til 0,8% i afkast på et projekt, der lover 3-4% i udbytte om året. Årsagen til det lave udbytte er naturligvis, at jeg skulle indbetale pengene inden projektet reelt gik i gang, og derfor dækker udbyttet en noget kortere del af året.
 

@@ -54,7 +54,7 @@ Kameo kredit- og risikovurderer alle lånene på crowdlendingplatformen. Det giv
 
 Det er ikke så let at få et overblik over sine samlede investeringer på Kameo. Her er et screenshot fra `Min Konto`. Her kan jeg finde kontoens værdi, men der er ikke et samlet overblik over den forventede renteindtægt eller eventuelle gebyrer.
 
-{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)"" %}
+{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
 
 Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
 
