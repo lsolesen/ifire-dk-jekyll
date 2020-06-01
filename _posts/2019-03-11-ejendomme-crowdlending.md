@@ -35,13 +35,13 @@ Grundlæggende kan du være med i ejendomsmarkedet på to måder.
 
 Gennem crowdlending kan du sammen med andre investorer bruge det til ejendomsinvestering, hvis du investerer i ejendomsudvikling. Her er et par af de platforme, hvor du kan gøre dette.
 
-- **[Kameo\*](/go/kameo/)**. På Kameo er mange af investeringsmulighederne udlån til ejendomsprojekter.
+- **[Kameo](/platform/kameo/)**. På Kameo er mange af investeringsmulighederne udlån til ejendomsprojekter. Du kan se min ærlige mening på min beskrivelse af [Kameo](/platform/kameo/).
 
 ## Investering i ejendomme
 
 I forhold til at sprede mine investeringer, så synes jeg dette er det mest interessante koncept. Fordelen ved at have en investering i ejendommen er, at der hver måned kommer leje ind, og investeringen således har et løbende udbytte samtidig med, at man på sigt kan drømme om en værdistigning af ejendommen.
 
-- **[Brickshare\*](/go/brickshare/)** er dansk investeringsportal, hvor du bliver medejer af ejendomme, hvor du så får lejeindtægter. Se min vurdering af [Brickshare](/platform/brickshare/).
+- **[Brickshare](/platform/brickshare/)** er dansk investeringsportal, hvor du bliver medejer af ejendomme, hvor du så får lejeindtægter. Se min grundige vurdering af [Brickshare](/platform/brickshare/).
 
 Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige platforme, men også at forsøge at sprede dem på de enkelte platforme.
 

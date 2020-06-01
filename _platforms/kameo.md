@@ -12,7 +12,7 @@ tags:
   - crowdlending
   - Danmark
 excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme."
-last_modified_at: 2020-05-19T12:45:00+08:00
+last_modified_at: 2020-05-30T12:45:00+08:00
 first_investment_at: 2019-02-04T10:00:00+08:00
 cta_url: /go/kameo/
 toc: true
@@ -48,7 +48,17 @@ Kameo kredit- og risikovurderer alle lånene på crowdlendingplatformen. Det giv
 - Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der er ikke så mange norske lån).
 - Projekterne er kun oversat mellem de forskellige sprog på oversigtssiden - ikke de uddybende informationer om projektet.
 - Overførslerne mellem de forskellige valutakonti tager en dag, så man kan ikke investere med det samme, hvis der er et spændende lån (dog kan man med en ny funktion reservere investeringer, selvom man ikke har penge på kontoen).
-- Det tager lidt tid inden den interne rente vokser til det forventede.
+- Det tager lidt tid inden den interne rente vokser til det forventede, men så er afkastet også fint.
+
+## Forventet afkast på Kameo
+
+Det er ikke så let at få et overblik over sine samlede investeringer på Kameo. Her er et screenshot fra `Min Konto`. Her kan jeg finde kontoens værdi, men der er ikke et samlet overblik over den forventede renteindtægt eller eventuelle gebyrer.
+
+{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)"" %}
+
+Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
+
+Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
 
 ## Min erfaring med Kameo
 
@@ -79,6 +89,8 @@ Jeg har trukket mig fra den norske del af Kameo, fordi der ganske enkelt ikke ko
 
 **Update 18. marts 2020**: Jeg har efterfølgende fulgt lidt med i de norske lån, og der er meget få af dem, så jeg holder mig fra at veksle penge til NOK. Jeg er godt tilfreds med den danske og svenske del af Kameo.
 
+- De svenske lån har den dog sneget sig over XIRR på 5% nu.
+
 ### Maj 2020
 
 Jeg kunne virkelig godt bruge en _auto invest_ på Kameo, så jeg ikke behøver at tjekke om jeg har _cash drag_ et par gange om måneden. Men det ser ikke ud til, at den lige er på trapperne.
@@ -95,4 +107,10 @@ Jeg kunne virkelig godt bruge en _auto invest_ på Kameo, så jeg ikke behøver 
 
 <iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=183896305&amp;format=image"></iframe>
 
-[Kameo](/go/kameo/){: .btn .btn--large .btn--success }
+## Samlet vurdering
+
+Kameo er en rigtig god dansk platform, hvis du gerne vil investere i danske eller svenske ejendomsudviklingsprojekter. Der har i mere end et års investering ikke været nogle nødlidende lån.
+
+Jeg kunne godt tænke mig, at de etablerede en auto invest og sænkede investeringsbeløbet. Kameo kunne også godt kæle lidt for backenden, så man kunne få lidt brugbare statistikker om investeringerne.
+
+[Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success }

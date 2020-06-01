@@ -74,7 +74,9 @@ Jeg har investeret lidt i ejendomme gennem [Brickshare\*](/go/brickshare/), som 
 
 ## Hvordan gør jeg?
 
-Jeg følger altså ejendomsmarkedet gennem REITs og crowdlending. Jag kan stadig ikke se mig selv investere direkte selv i en ejendom og blive udlejer.
+Jeg følger altså ejendomsmarkedet gennem REITs og crowdlending. Jeg kan stadig ikke se mig selv investere direkte selv i en ejendom og blive udlejer.
+
+Jeg har skrevet mere om, [hvordan jeg følger ejendomsmarkedet gennem crowdlending og hvilke platforme, jeg bruger](/ejendomme-crowdlending/).
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 

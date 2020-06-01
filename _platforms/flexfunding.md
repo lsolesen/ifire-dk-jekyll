@@ -29,7 +29,7 @@ Flex Funding er en dansk platform for crowdlending og crowdfunding. Flex Funding
 Da jeg startede på Flexfunding kunne man byde på lånene med hvilken rente, man var interesseret i at låne sine penge ud til. Det synes jeg var en ret genial og unik tilgang til crowdlending-markedet. Siden er Flexfunding (desværre) gået over til faste renter - og på den måde ligner de mange andre projektbaserede crowdlendingplatforme.
 {: .notice .notice--info }
 
-{% include figure image_path=.page.header.teaser caption=page.excerpt %}
+{% include figure image_path=page.header.teaser caption=page.excerpt %}
 
 ## Fordele ved Flexfunding
 
@@ -46,8 +46,26 @@ Da jeg startede på Flexfunding kunne man byde på lånene med hvilken rente, ma
 - Lidt uoverskuelige gebyrer
 - Det er ikke så let at se, hvor mange aktive lån, man har på platformen. Den viser det historiske antal lån, man har investeret i.
 - Der er sommetider lidt rod med softwaren
-- Folk på [Trustpilot](https://dk.trustpilot.com/review/flexfunding.dk) er ikke kun positive.
+- Anmeldelserne på [Trustpilot](https://dk.trustpilot.com/review/flexfunding.dk) er blandede.
 - Ingen buy back garanti
+
+## Ikke nok informationer om nødlidende lån
+
+Hvis man har et nødlidende lån på Flexfunding, som jeg har nogle stykker af - hvoraf et par stykker er konkurser, så sender Flexfunding dig en e-mail. Jeg kunne dog godt tænke mig, at de samme informationer var lette at finde på deres hjemmeside.
+
+Jeg tjekker jævnligt hjemmesiden for at se, om der er kommet nye lån - og hvordan det går med de eksisterende, men informationerne om de nødlidende lån er ret begrænsede.
+
+{% include figure image_path="/assets/images/posts/flexfunding-opsagt.png" caption="På den konkursramte Samfundstanken står der bare _Opsagt_ og _Betaling mangler eller forsinket_. Det kunne være hjælpsomt med en liste over de aktuelle tiltag Flexfunding tager." %}
+
+## Forventet afkast på Flexfunding
+
+Hvilket afkast du får på Flexfunding afhænger naturligvis af, hvilken risiko lånene har. Jeg har en blanding af lån, og det var fx tydeligt, at Samfundstanken var et for risikabelt lån. Risikopræmien er ikke i så imponerende på Flexfunding.
+
+I øjeblikket har jeg 51 lån på Flexfunding. Flexfunding skriver at _Gennemsnitligt samlet afkast_ bliver på 8,42%.
+
+{% include figure image_path="/assets/images/posts/flexfunding-rente-udregning.png" caption="Flexfunding udregner Vægtet rentegennemsnit til 8,42%" %}
+
+Min samlede interne rente siden jeg startede mine investeringer på Flexfunding er imidlertid kun 4,39% (her pr. maj 2020), og det er ikke fordi jeg kun har valgt lån med lave renter. Samlet set har jeg betalt 1.581 DKK i gebyrer på platformen, og så har jeg også nogle nødlidende lån. Det er helt sikkert ikke regnet med i Flexfundings vægtede rentegennemsnit.
 
 ## Mine erfaringer med Flexfunding
 
@@ -59,10 +77,19 @@ Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv v
 
 - Der er ikke så mange lån på Flexfunding, men der kommer jævnligt nye til. Desværre skal man holde en del øje for at fange lånene.
 
+### August 2019
+
+- I denne måned har [Flexfunding](/go/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
+
 ### September 2019
 
+- Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
 - Jeg har tre lån i restance på Flexfunding (ud af i alt 44 lån) pga. konkurs i selskaberne, jeg har lånt penge til: Samfundstanken, Dinnr og DSS Sikringsteknik. Flexfunding sender en e-mail om status på de enkelte lån, og de forsøger naturligvis at inddrive det udestående beløb, men det bliver interessant at se, hvordan det over tid kommer til at påvirke den interne rente. Jeg synes ikke interfacet i Flexfunding er tydeligt nok ift. lånene, der er problemer med. Der er et udråbstegn ud for et af lånene, men det ville klæde Flexfunding, at oplysningerne og status på lånene kunne ses på selve platformen også.
 - Jeg er begyndt at trække penge ud af Flexfunding, da den interne rente ikke giver en høj nok rente til at veje op for den risiko, jeg synes de seneste ubetalte lån tyder på, at der er på platformen.
+
+### Oktober 2019
+
+- Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg er begyndt at trække lidt penge hjem ud fra. Flexfunding kunne godt være lidt bedre til informere om de aftaler, de laver med firmaer, der har udfordringer med at betale. I løbet af oktober har jeg fået en e-mail om to af mine lån hos "Samfundstanken" og "DSS Sikringsteknik Aps", og der er Flexfunding i gang med inddrivelse i konkursboet i de to firmaer.
 
 ### April 2020
 
@@ -72,9 +99,16 @@ Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv v
 
 - Jeg kunne virkelig godt bruge en _auto invest_ på Flexfunding, så man ikke behøver at tjekke for _cash drag_ et par gange om måneden. Og måske kan man være heldig, at vi får en _auto invest_ at se inden for de nærmeste måneder? Det vil i hvert fald gøre, at jeg vil blive på platformen længere og støtte danske crowdfundingprojekter.
 - Der er en række COVID-19 lån tilgængelige på Flexfunding, som har delvis statsgaranti. Det er ret tillokkende at investere i de lån, men jeg er lidt forsigtig med alt crowdlending i øjeblikket. Jeg forventer dog at det nuværende beløb på Flexfunding kommer til at blive geninvesteret på platformen (særligt hvis det bliver en realitet med _auto invest_).
+- [Flexfunding\*](/go/flexfunding/) har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
 
 ## XIRR
 
 <iframe width="601.8858029824594" height="371.811460857151" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=299196547&amp;format=image"></iframe>
+
+## Samlet vurdering
+
+Flexfunding er en solid dansk platform for crowdlending, som har været på banen i mange år. Jeg kunne godt tænke mig, at de fik etableret en auto invest og at den vægtede rente på sitet i højere grad afspejlede den interne rente, man reelt får ved at investere der. 
+
+I den periode jeg har investeret der har både jeg og min kæreste oplevet lidt rod med opgørelsen af det indestående og samlede kontoværdi på dashboardet, hvilket mest er irriterende, fordi man bliver nødt til at kontakte kundeservice for at få det udbedret.
 
 [Besøg Flexfunding\*](/go/flexfunding/){: .btn .btn--large .btn--info }
