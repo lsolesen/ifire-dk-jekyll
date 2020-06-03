@@ -6,7 +6,7 @@ tags:
   - investering
   - xirr
 excerpt: "XIRR er en måde at finde ud af, hvad du tjener på en investering?"
-last_modified_at: 2019-06-10T14:22:02+02:00
+last_modified_at: 2017-01-10T14:22:02+02:00
 mathjax: true
 classes: wide
 ---
@@ -23,7 +23,7 @@ Man kan bruge _intern rente_, som står for _Internal Rate of Return_. Beregning
 
 Beregningen af intern rente kræver kun, at du har en liste med transaktioner (datoer og beløb) på din konto. 
 
-## Bergn den interne rente (XIRR)
+## Beregn den interne rente (XIRR)
 
 Sådan beregnes XIRR AKA intern rente
 Takket være de fantastiske mennesker som opfandt regnearket, er det ikke nødvendigt at hive lommeregneren frem og forsøge at huske det, vi lærte i matematiktimerne. Man skal bare bruge en simpel formel, der tager sig af alle mellemregningerne.
