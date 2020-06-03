@@ -82,7 +82,7 @@ Jeg har lavet en detaljeret oversigt over [mine erfaringer med Flexfunding, som 
 
 Kameo er grundlagt i 2014. De er repræsenteret i Norge, Sverige og Danmark og derfor kan du også investere i lån fra alle tre lande. Hos Kameo investerer du lån, som typisk skal finansiere ejendomsprojekter og andre virksomhedslån. Lånene giver typisk et relativt højt afkast i forhold til dansk crowdlending generelt.
 
-Kameo bruger kredit- og risikovurderinger fra deres partnere, hvilket indgår i en samlet analyse- og risikovurdering i en sag. Det giver en ekstra sikkerhed for dig som investor, men husk at det i sidste ende er virksomheden bag lånenen, som er ansvarlig for at levere de korrekte informationer.
+Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet analyse- og risikovurdering i en sag. Det giver en ekstra sikkerhed for dig som investor, men husk at det i sidste ende er virksomheden bag lånene, som er ansvarlig for at levere de korrekte informationer.
 
 ### Fordele ved Kameo
 
