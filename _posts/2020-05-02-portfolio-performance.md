@@ -132,7 +132,11 @@ For at tilføje renterne højreklikker du bare på kontoen og vælger `Interest`
 
 ### Tilføj bonus
 
-Jeg har valgt at tilføje de signup bonuses, jeg har fået på de enkelte platforme som renter også, da det er det mest enkle. Der er desværre ikke så vidt jeg kan se en rigtig god måde at adskille det på.
+Jeg har valgt at tilføje de signup bonuses og premiums fra fx sekundære markeder, jeg har fået, på de enkelte platforme som renter også på nogle af mine platforme.
+
+Jeg har et par platforme, hvor jeg har fået en høj _signup bonus_ (fx [Kuflink\*](/go/kuflink/)). Der har jeg valgt at oprette en `Security`, hvor jeg registrerer bonussen som en `Dividend`. Det er naturligvis lidt et workaround.
+
+{% include figure image_path="/assets/images/posts/portfolio-performance-crowdlending-bonus.jpg" caption="Hvis du vil tracke signup bonus og premiums, så kan du oprette dem som en `Security`. På en security kan du udbetale `Dividend` til crowdlending-kontoen." %}
 
 ### Importere data
 
