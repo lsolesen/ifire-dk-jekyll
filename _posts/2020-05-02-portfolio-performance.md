@@ -81,6 +81,18 @@ Hvis du handler i flere valutaer, skal du oprette flere `Deposit Accounts` med f
 
 Hvis du gerne vil have en widget med XIRR (IRR) på dit Performance Dashboard med en `Security Account`, der har flere valutakonti, så kan du oprette et filter, hvor du inkluderer de relevante konti. Derefter kan du på Performance Dashboard vælge filteret til din widget.
 
+### Historiske priser
+
+Rigtig mange værdipapirer kan finde priserne på Yahoo Finance, hvis du skriver `ticker` ind, når du opretter din `Security`. Men du kan få de historiske priser ind på mange andre måder. 
+
+Jeg har en del værdipapirer, hvor jeg henter priserne ved hjælp af en tabel i stedet.
+
+Jeg har fået et spørgsmål om, hvordan man fx tilføjer en Danske Banks June fond. Hvis vi tager et eksempel med _June Moderate Screened_, som har ISIN LU1806380595. Du skal bruge `ISIN`-nummeret og så skal du bruge et link til de historiske priser. De historiske priser kan fx findes på [Financial Times](https://markets.ft.com/data/funds/tearsheet/historical?s=LU1806380595:DKK).
+
+{% include figure image_path="/assets/images/posts/pp-june-example.jpg" caption="Opret dit instrument, vælg `Historical Quotes`, vælg `Table on website` og under `Feed URL` skriver du hjemmeside-adressen, hvor du kan finde de historiske data." %}
+
+Hvis du har brug for data længere tilbage end der er på hjemmesiden, så kan man også importere historiske kursdata ved hjælp af en CSV-fil.
+
 ### Copytrading på [Etoro\*](/go/etoro/)
 
 Jeg har valgt at oprette den enkelte copytrader som en `Security Account`. Når jeg sætter penge ind har jeg sat den aktuelle kurs til 1 USD, og så køber jeg det antal fiktive shares, som jeg sætter penge ind med.
