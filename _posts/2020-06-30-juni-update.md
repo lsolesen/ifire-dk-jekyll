@@ -72,7 +72,7 @@ Lige nu afspejler mine investeringer ikke, hvad jeg allerhelst vil gøre med inv
 
 Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, så kan du se den i min [oversigt over alle mine egne investeringer](/investeringer/). Her kan du også se, hvilke værktøjer jeg bruger.
 
-[Få en gratis investeringsplan fra Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info } [Copytrading og kurtagefri handel på E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
+[Gratis investeringsplan fra Nord\*](/go/nord/){: .btn .btn--large .btn--info } [Kurtagefri E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
 
 ### Crowdlending
 
@@ -90,15 +90,21 @@ I løbet af maj har jeg **et tab på 1.126 DKK på crowdlending**. Husk at rente
 
 Heldigvis er jeg samlet stadig i plus.
 
+Jeg har været relativt imponeret af [Trine\*](/go/trine/), hvor jeg stadig har over 7% i intern rente, og selvom de specialiserer sig i bæredygtige projekter i Afrika, så ser det foreløbig ud til at være nogenlunde godt styr på virksomhederne, der lånes penge ud til. De er også gode til at informere om evt. udfordringer, og hvordan de håndterer dem. 
+
+Hvis du bruger mit [mit link til Trine\*](/go/trine/), så får vi begge 10 EUR at investere for.
+
 [Brickshare\*](/go/brickshare/) er dansk crowdfunding af ejendomme, hvor man ender med at få andelsbeviser i ejendommene og modtager løbende udbytter fra huslejer. Jeg er investeret i tre ejendomme, men ville egentlig gerne investere i flere, så har skrevet mig på venteliste på resten. Der har jeg stået i mere end et halvt år nu, og der har stadig ikke åbnet sig nogen muligheder.
 
 Det er fedt at jeg er begyndt at få udbytter fra min [Brickshare\*](/go/brickshare/)-investeringer, og når jeg samtidig tracker ejendomsværdien, så er min interne rente lige nu sneget sig op på 0,21%. Det er ikke så meget, men investeringerne er langsigtede og ejendomspriserne vil forhåbentlig over tid gå opad.
 
 Heldigvis har de åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos Brickshare\*](/go/brickshare/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos [Brickshare\*](/go/brickshare/), så kan du bruge mit [link\*](/go/brickshare/) og så får vi begge 250 DKK at investere for.
 
+Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg gruperer dem i privatlån, udviklingsprojekter og ejendomme.
 
-Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+[10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK Brickshare\*](/go/etoro/){: .btn .btn--large .btn--info }
 
 ## Opsparing
 
@@ -110,13 +116,13 @@ Men jeg skal bruge flere konti, og jeg vil ikke betale for Premium-Lunar. Jeg ha
 
 Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
 
-[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+[Få Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
 
 Jeg havde i denne måned lidt udfordringer med mit [Curve\*](/go/curve) kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
 
 Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/curve/).
 
-[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Smart Bank app med Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
+[Få Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Få Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
 
 ## Kryptovaluta
 
