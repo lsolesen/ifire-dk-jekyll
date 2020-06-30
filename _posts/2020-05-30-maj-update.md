@@ -58,6 +58,7 @@ Jeg har brugt rigtig lang tid på at skrive nogle artikler om, hvorfor en passiv
 Lige nu afspejler mine investeringer ikke, hvad jeg allerhelst vil gøre med investeringerne. Men de er også en måde for mig at lære mere om investeringer, så jeg kan dele det her på bloggen.
 
 Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, så kan du se den i min [oversigt over alle mine egne investeringer](/investeringer/). Her kan du også se, hvilke værktøjer jeg bruger.
+
 [Få en gratis investeringsplan fra Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info } [Copytrading og kurtagefri handel på E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
 
 ### Crowdlending

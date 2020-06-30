@@ -88,9 +88,11 @@ De foreslår i stedet, at du udnytter **Google Alphabet Soup**-metoden og **rela
 
 Når du skriver dine blog posts, så foreslår Income School en blanding mellem følgende tre typer indlæg. Og selv de korte _response posts_ er altså relativt lange. Jeg skal altså i gang med at kigge på alle mine indlæg for at se, hvilken kategori de falder i.
 
-| Response posts | 1350 ord lang | Korte - svarer et specifikt spørgsmål med lav konkurrence på søgeordene. Bringer ikke så meget trafik, men hjælper domænet.
-| Stable posts | 2200 ord lang | Lidt mere involveret. Måske en liste, hvordan gør du dette? Eller måske lidt mere diskuterende svar-post |
-| Pillar posts | | Her skal du sørge for, at lave de bedst mulige posts, som folk vil følge |
+| Type | Ord | Tidsforbrug | Beskrivelse |
+|-|-|-|-|
+| Response posts | 1350 ord lang | 2 timer | Korte - svarer et specifikt spørgsmål med lav konkurrence på søgeordene. Bringer ikke så meget trafik, men hjælper domænet.
+| Stable posts | 2200 ord lang | 4 timer | Lidt mere involveret. Måske en liste, hvordan gør du dette? Eller måske lidt mere diskuterende svar-post |
+| Pillar posts | 3500 ord lang | 8 timer | Her skal du sørge for, at lave de bedst mulige posts, som folk vil følge |
 
 At skabe så meget content kræver formentlig, at du sætter tid af hver eneste dag. Og det kræver  også, at du bliver relativt effektiv til at skrive dine indlæg. 
 
@@ -110,9 +112,15 @@ Ud over et godt indhold og ranking på Google, så kan man også få flere page 
 
 {% include video provider="youtube" id="o_F8d3rr-S8" %}
 
+{% include video provider="youtube" id="5ZFgCgPexww" %}
+
 ## Søgeoptimering
 
 {% include video provider="youtube" id="hZ6hTmB3VO0" %}
+
+## Lav en plan over indholdet
+
+{% include video provider="youtube" id="Js1uRntrbj4" %}
 
 ## Kan jeg tjene penge på at blogge?
 
