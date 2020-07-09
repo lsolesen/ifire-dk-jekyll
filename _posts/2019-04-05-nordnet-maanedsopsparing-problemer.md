@@ -89,6 +89,6 @@ Jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med
 
 Nordnet har været meget opmærksomme og rettet op på marts måneds udfordringer med månedsopsparingen - og jeg fortsætter i hvert fald ufortrødent med månedsopsparingen. Planen med månedsopsparingen er stadig, at sætte investeringerne på autopilot.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info }
 
 {% include disclaimer.md %}
