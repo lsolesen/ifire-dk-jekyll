@@ -8,19 +8,12 @@ tags:
   - crowdlending
 excerpt: "Jeg har investeret i dansk crowdlending i tre år og her er en lille opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
 feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
-    alt: "Ét liv, én tid, ét menneske"
-    title: "Ét liv, én tid, ét menneske"
-    excerpt: "I _Ét liv Én tid Ét menneske_ kritiserer den danske filosof og erhvervsleder Morten Albæk idéen om, at man ved at sætte klarere grænser mellem arbejdstid og fritid, kan løse dette seriøse problem. Ifølge Morten Albæk findes svaret snarere ved at skabe sig et meningsfuldt liv."
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-  - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
-    alt: "Your Money or Your Life"
-    title: "Your Money or Your Life"
-    excerpt: "Start the new year with a fully revised edition of one of the most influential books ever written on personal finance with more than a million copies sold"
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
-    btn_label: "Læs mere"
+  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
+    alt: "Den lille guide til Crowdlending"
+    title: "Den lille guide til Crowdlending"
+    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
+    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
 ---
 
@@ -182,5 +175,7 @@ Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg vil
 [Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til Brickshare](/go/brickshare/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
+
+{% include feature_row type="left" %}
 
 {% include disclaimer.md %}

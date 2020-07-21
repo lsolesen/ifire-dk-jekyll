@@ -14,7 +14,15 @@ feature_row:
     title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
     url: "https://amzn.to/31riw8s"
-    btn_label: "Læs mere"
+    btn_label: "Læs mere*"
+    btn_class: "btn--success"
+feature_row_opheliainvest:
+  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/07/Anna-og-Olli-sparer-op.jpg
+    alt: "Anna og Olli sparer op"
+    title: "Anna og Olli sparer op"
+    excerpt: "Anna og Olli Sparer Op handler om Annas første opsparing. Anna er på besøg hos sin mormor og morfar, hvor hun har sin første sparegris Olli. Hos mormor og morfar leger Anna med Olli. Anna giver sparegrisen mad. Maden er penge. Det er det sparegrisen spiser. Når der ikke kan være flere mønter i sparegrisen, kan Anna købe noget, som hun ønsker sig med mormor."
+    url: https://www.opheliainvest.dk/vare/anna-og-olli-sparer-op/?ref=507
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
 ---
 
@@ -33,6 +41,8 @@ Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere m
 Jeg er sikkert alt for meget. Jeg synes langt de fleste ting, mine børn gerne vil købe er fjollet, fordi de allerede har så mange ting. 
 
 Jeg synes også, at det er ret vildt, hvor mange penge de allerede har samlet sammen gennem gaver. Jeg vil gerne inspirere dem til at beholde pengene og måske endda til at investere dem på den ene eller anden måde.
+
+{% include feature_row type="left" id="feature_row_opheliainvest" %}
 
 ## Hvordan får man pengene til at arbejde?
 

@@ -1,14 +1,13 @@
 ---
 layout: single
-created_at: 2019-05-14T10:00:00+08:00
-last_modified_at: 2020-05-15T10:00:00+08:00
+created_at: '2019-05-14T10:00:00+08:00'
+last_modified_at: '2020-05-15T10:00:00+08:00'
 title: Investeringsportefølje
 permalink: /investeringer/
 excerpt: "Her kan du se min samlede portefølje i aktier og obligationer"
 author_profile: true
 toc: true
 toc_sticky: true
-last_modified_at: 2020-05-12T10:00:00+08:00
 tags:
   - overblik
 header:
@@ -16,11 +15,11 @@ header:
   caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: 'Jeg bruger selv [Nordnet\*](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen.'
+    excerpt: "Jeg bruger selv [Nordnet*](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen."
   - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: Desuden bruger jeg [SaxoInvestor\*](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage.'
+    excerpt: "Desuden bruger jeg [SaxoInvestor*](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage."
   - image_path: /assets/images/logo/etoro.png
-    excerpt: Desuden har jeg testet [Etoro\*](/go/etoro/) til kurtagefri handel med bl.a. Vanguards ETF\'er og copytrading.'
+    excerpt: "Desuden har jeg testet [Etoro*](/go/etoro/) til kurtagefri handel med bl.a. Vanguards ETF'er og copytrading."
 ---
 
 *[PAL]: Pensionsafkast lagerbeskatning

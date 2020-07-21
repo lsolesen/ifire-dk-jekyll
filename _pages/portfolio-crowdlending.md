@@ -13,6 +13,14 @@ last_modified_at: 2020-05-12T10:00:00+08:00
 header:
   teaser: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   caption: Photo by Christine Roy on Unsplash
+feature_row:
+  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
+    alt: "Den lille guide til Crowdlending"
+    title: "Den lille guide til Crowdlending"
+    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
+    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
+    btn_label: "Læs mere*"
+    btn_class: "btn--success"
 ---
 
 {% include disclosure.html %}
@@ -85,6 +93,8 @@ Jeg har forsøgt at dele mine crowdlending investeringer op i almindelige forbru
 {% endfor %}
 
 </div>
+
+{% include feature_row type="left" %}
 
 ## Historik for signups
 
