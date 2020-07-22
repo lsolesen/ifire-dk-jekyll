@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.19.2"
+remote_theme:            "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -296,11 +296,11 @@ defaults:
       sidebar:
         - text: >
             ---
-            [![Crowdlending på Mintos - få 11,6% p.a.](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/08/Mintos-banner-300x250.png?resize=300%2C250&ssl=1)](/go/mintos/)
+            [![Crowdlending på Mintos - få 11,6% p.a.](/assets/images/Mintos-banner-300x250.png)](/go/mintos/)
             ---
-            [![Få gratis investeringsplan fra Nord.Investments](https://i2.wp.com/www.frinans.dk/wp-content/uploads/2018/07/Gratis-investeringsplan.jpg?w=552&ssl=1)](/go/nord/)
+            [![Få gratis investeringsplan fra Nord.Investments](/assets/images/Gratis-investeringsplan.jpg)](/go/nord/)
             ---
-            [![Få Bitcoins til en værdi af $10](https://i1.wp.com/www.frinans.dk/wp-content/uploads/2018/01/Coinbase-banner_annonce-1024x333.png?resize=750%2C244&ssl=1)](/go/coinbase/)
+            [![Få Bitcoins til en værdi af $10](/assets/images/Coinbase-banner_annonce-1024x333.png)](/go/coinbase/)
             ---
 # _faq
   - scope:
