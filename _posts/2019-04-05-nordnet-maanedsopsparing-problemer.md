@@ -38,7 +38,7 @@ Han linker også til dette billede af kursen på [Sparinvest INDEX Globale Akt M
 
 {% include figure image_path="https://shareville-media.s3.amazonaws.com/cache/d2/d0/d2d014c1b25e0e19b1790af185d7702a.jpg" alt="Sparinvest INDEX Globale Akt Min Risiko KL - kurs 5. april 2019" caption="Sparinvest INDEX Globale Akt Min Risiko KL - kurs 5. april 2019" %}
 
-Jeg købte i alt 75 aktier, så jeg har altså i alt betalt 150 kroner i alt for mine aktier i overpris ift. Dagskursen for at spare en kurtage på 104 DKK (0,1% er min kurtage hos Nordnet).
+Jeg købte i alt 75 aktier, så jeg har altså i alt betalt 131,25 kroner i alt for mine aktier i overpris ift. dagskursen for at spare en kurtage på 29 DKK (0,1% i kurtage hos Nordnet giver 10,4 DKK, men da det er under mindstekurtagen på 29 DKK). Det er jo en dårlig forretning.
 
 Jeg kiggede således hurtigt på min anden store satsning i min portefølje, nemlig den også ret populære [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) - og grafen spikede på samme måde på det værdipapir (hvilket ved nærmere eftersyn var om formiddagen). Så blev jeg lidt bekymret og gennemgik alle min køb i månedsopsparingen.
 
