@@ -141,7 +141,7 @@ Ligesom sidste måned har jeg den højeste interne rente på [Grupeer\*](/go/gru
 
 I løbet af februar har jeg haft en **(urealiseret) indtjening på 4588 DKK**, hvilket jeg forventer daler en lille smule de kommende måneder, fordi jeg reducerer eksponeringen lidt mod crowdlendingen.
 
-Vægtet intern rente for den almindelige crowdlending er på 6,46% og lider stadig under det store tab på Envestio sidste måned. Den ejendomsbaserede crowdlending har en vægtet intern rente på 2,46%. Jeg glæder mig til at interne rente på den ejendomsbaserede crowdlending går op, men det gør den først, når jeg får afkast fra [Brickshare\*](/go/brickshare/), hvor jeg har en stor procentdel investeret. Det er vel også ved at være tid, når jeg lavede den første investering i april sidste år.
+Vægtet intern rente for den almindelige crowdlending er på 6,46% og lider stadig under det store tab på Envestio sidste måned. Den ejendomsbaserede crowdlending har en vægtet intern rente på 2,46%. Jeg glæder mig til at interne rente på den ejendomsbaserede crowdlending går op, men det gør den først, når jeg får afkast fra <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, hvor jeg har en stor procentdel investeret. Det er vel også ved at være tid, når jeg lavede den første investering i april sidste år.
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 

@@ -130,11 +130,11 @@ classes: wide
 
 {% include feature_row id="feature_row_setup" %}
 
-## Investeringsmuligheder
+## Investeringsmuligheder (reklamelinks)
 
 {% include feature_row id="feature_row_solutions" %}
 
-## Bliv klogere med Saxo
+## Bliv klogere med Saxo (reklamelinks)
 
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde masser af inspiration investering og finansiel uafhængighed. Her kommer nogle af mine favoritter. Jeg forsøger at læse mindst en time dagligt om emner, der intereserer mig.
 

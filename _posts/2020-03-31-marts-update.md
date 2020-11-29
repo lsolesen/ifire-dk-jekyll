@@ -64,7 +64,7 @@ Jeg synes de mest spændende platforme er Trine og Lendahand, som støtter udvik
 
 [Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--danger }
 
-I løbet af marts har jeg haft en **tab på -9.733 DKK** på den almindelige crowdlending pga. Agrikaabs konkurs. Det tal forventer jeg bliver endnu højere i næste måned, hvilket er virkelig ærgerligt. På den crowdlending der retter sig mod boligmarkedet, har jeg haft et **(realiseret) tab på -2.354 DKK**. Det har jeg primært haft, fordi min andele i [Brickshare\*](/go/brickshare/) er faldet i værdi - og jeg endnu ikke har fået afkast fra investeringen.
+I løbet af marts har jeg haft en **tab på -9.733 DKK** på den almindelige crowdlending pga. Agrikaabs konkurs. Det tal forventer jeg bliver endnu højere i næste måned, hvilket er virkelig ærgerligt. På den crowdlending der retter sig mod boligmarkedet, har jeg haft et **(realiseret) tab på -2.354 DKK**. Det har jeg primært haft, fordi min andele i <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins> er faldet i værdi - og jeg endnu ikke har fået afkast fra investeringen.
 
 Vægtet intern rente for den almindelige crowdlending er på 3,50%. Siden nytår er den faldet fra 8,78%. Den ejendomsbaserede crowdlending har en vægtet intern rente på 0,40%, hvilket er faldet fra 2,48% primært pga. Brickhares bidrag (det er min største investering).
 

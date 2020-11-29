@@ -190,13 +190,13 @@ Jeg har dummet mig ved at investere i Envestio, som har vist sig at være en _sc
 
 ### Crowdlending baseret på shares eller andele
 
-Jeg investerer i [Brickshare\*](/go/brickshare/) og [Funderbeam\*](/go/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
+Jeg investerer i <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins> og [Funderbeam\*](/go/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
 
-For eksempel så har jeg to investeringer i Brickshare. Dem har jeg oprettet som en security. Jeg har kaldt dem Brickshare: Projektnavn. Når jeg laver en opdatering, så opdaterer jeg værdien af andelene ved at højreklikke nederst i billedet under fanen `Historical Quotes`. På den måde så får jeg det mest retvisende billede med den interne rente for projekterne.
+For eksempel så har jeg to investeringer i [The Many\*](/go/themany/). Dem har jeg oprettet som en security. Jeg har kaldt dem Brickshare: Projektnavn. Når jeg laver en opdatering, så opdaterer jeg værdien af andelene ved at højreklikke nederst i billedet under fanen `Historical Quotes`. På den måde så får jeg det mest retvisende billede med den interne rente for projekterne.
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-historical-values.jpg" caption="Opret dine Brickshare projekter og tilføj selv de historiske værdier for andelene" %}
 
-Under min _widget_ på mit dashboard skal jeg huske at vælge `Brickshare + Brickshare` for at have både Deposit account og Security account med i beregningen. Jeg glæder mig fortsat til at få udbytte fra Brickshare.
+Under min _widget_ på mit dashboard skal jeg huske at vælge `The Many + The Many` for at have både Deposit account og Security account med i beregningen. Jeg glæder mig fortsat til at få udbytte fra The Many.
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-widget.jpg" caption="På din Dashboard widget skal du vælge Brickshare + Brickshare for at få den korrekte interne rente." %}
 
