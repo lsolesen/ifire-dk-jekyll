@@ -19,9 +19,9 @@ feature_row:
 
 Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme. Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
 
-**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, Brickshare, Lendino og Fundbricks, som er det største spillere i øjeblikket.**
+**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare</del><ins>The Many (tidligere The Many)</ins>, Lendino og Fundbricks, som er det største spillere i øjeblikket.**
 
-Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg startede i januar 2017 med min første investering i Flexfunding og har siden investeret i Kameo og Brickshare. Du kan læse mange steder på nettet, hvordan du bruger platformene. Her trækker jeg i stedet mine erfaringer frem - og du kan også læse videre under mine detaljerede platform-erfaringer under de enkelte platforme.
+Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg startede i januar 2017 med min første investering i Flexfunding og har siden investeret i Kameo og The Many. Du kan læse mange steder på nettet, hvordan du bruger platformene. Her trækker jeg i stedet mine erfaringer frem - og du kan også læse videre under mine detaljerede platform-erfaringer under de enkelte platforme.
 
 ## Flexfunding
 
@@ -111,22 +111,22 @@ Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner ståend
 
 Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo, som jeg opdaterer de fleste måneder](/platform/kameo/).
 
-## Brickshare
+## The Many (tidligere Brickshare)
 
-{% include figure image_path="/assets/images/logo/brickshare.png" caption="Hos Brickshare laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene." %}
+{% include figure image_path="/assets/images/logo/themany.jpg" caption="Hos The Many laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene." %}
 
-[Brickshare\*](/go/brickshare/) er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
+[The Many\*](/go/themany/) er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
 
 {% include video provider="youtube" id="8W3zK4JoV4A" %}
 
-### Fordele ved Brickshare
+### Fordele ved The Many
 
 - Dansk crowdlending hvor du bliver husejer og får huslejeindtægt.
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
-- Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/brickshare/).
+- Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
 
-### Ulemper ved Brickshare
+### Ulemper ved The Many
 
 - Afkast kommer først, når projektet er finansieret og der er kommet lejere i bygningen.
 - Der er ikke så mange nye projekter, og selvom jeg er skrevet op på ventelisten til alle projekter, så er jeg endnu ikke blevet tilbudt en plads.
@@ -134,27 +134,27 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Ingen auto invest
 - De årlige omkostninger forbundet med investeringen er ikke helt tydelige
 
-### Hvordan tracker jeg den interne rente på Brickshare?
+### Hvordan tracker jeg den interne rente på The Many?
 
-Værdien af andelene i Brickshare er afhængig af markedsforholdene. Fx købte jeg i april 2019 mit første projekt på Brickshare til en NAV på 1,0. I dag lidt mere end et år efter er den på 0,95. Det betyder i realiteten at værdien af min andel i projektet er faldet med 5%. Men samtidig får jeg også udbytte fra de enkelte projekter, så hvordan finder jeg ud af, hvad den interne rente på Brickshare i virkeligheden er.
+Værdien af andelene i The Many er afhængig af markedsforholdene. Fx købte jeg i april 2019 mit første projekt på The Many til en NAV på 1,0. I dag lidt mere end et år efter er den på 0,95. Det betyder i realiteten at værdien af min andel i projektet er faldet med 5%. Men samtidig får jeg også udbytte fra de enkelte projekter, så hvordan finder jeg ud af, hvad den interne rente på The Many i virkeligheden er.
 
-Jeg bruger [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke min portefølje hos Brickshare. Jeg har oprettet de enkelte projekter som `Securities`, og så har jeg jeg lavet en `Security Account` og en `Deposit Account`. Hvis jeg har købt for 10.000 DKK, så har jeg jeg fået 10.000 fondsandele, hvis NAV er 1. Hvis NAV falder, Så opdaterer jeg manuelt kursen på det enkelte projekt hver måned med den aktuelle NAV-værdien. Jeg taster naturligvis også udbytterne ind i Portfolio Performance, og på den måde kan den regne min reelle interne rente ud.
+Jeg bruger [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke min portefølje hos The Many. Jeg har oprettet de enkelte projekter som `Securities`, og så har jeg jeg lavet en `Security Account` og en `Deposit Account`. Hvis jeg har købt for 10.000 DKK, så har jeg jeg fået 10.000 fondsandele, hvis NAV er 1. Hvis NAV falder, Så opdaterer jeg manuelt kursen på det enkelte projekt hver måned med den aktuelle NAV-værdien. Jeg taster naturligvis også udbytterne ind i Portfolio Performance, og på den måde kan den regne min reelle interne rente ud.
 
 {% include figure image_path="/assets/images/posts/brickshare-nav.png" caption="Du kan finde NAV-værdien på oversigtssiden under `Min Portefølje`" %}
 
-Brickshare regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i, hvad dine projekter er værd. Som du kan se i skærmbilledet ovenfor, så er det ene af mine projekter omtrent det samme værd, mens det andet er faldet i værdi i forhold, hvad jeg købte mig ind til.
+The Many regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i, hvad dine projekter er værd. Som du kan se i skærmbilledet ovenfor, så er det ene af mine projekter omtrent det samme værd, mens det andet er faldet i værdi i forhold, hvad jeg købte mig ind til.
 
-### Forventet afkast på Brickshare
+### Forventet afkast på The Many
 
-På Brickshare køber man sig ind i en ejerforening af de enkelte projekter, som juridisk er adskilt fra hinanden. Det er en rigtig god sikkerhed. Det betyder også, at det forventede afkast på de enkelte projekter ikke påvirker hiananden.
+På The Many køber man sig ind i en ejerforening af de enkelte projekter, som juridisk er adskilt fra hinanden. Det er en rigtig god sikkerhed. Det betyder også, at det forventede afkast på de enkelte projekter ikke påvirker hiananden.
 
-{% include figure image_path="/assets/images/posts/brickshare-expected-dividend.png" caption="Oversigt over hvilket forventet afkast Brickshare forventer for projekterne" %}
+{% include figure image_path="/assets/images/posts/brickshare-expected-dividend.png" caption="Oversigt over hvilket forventet afkast The Many forventer for projekterne" %}
 
 Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for nøjagtigt et år siden i _Nordvest, Nørrebros hippe nabo_-projektet med 50.000 DKK og har fået 441,64 DKK udbetalt i første udbytte. Det svarer til 0,8% i afkast på et projekt, der lover 3-4% i udbytte om året. Årsagen til det lave udbytte er naturligvis, at jeg skulle indbetale pengene inden projektet reelt gik i gang, og derfor dækker udbyttet en noget kortere del af året.
 
 Derfor er det også en stor forbedring, at man nu kan reservere andele i projekterne uden at skulle betale pengene med det samme. Det har jeg udnyttet med deres nyeste projekt.
 
-Jeg følger mine investeringer på Brickshare tæt, og jeg opdaterer løbende [mine erfaringer med Brickshare under min platformbeskrivelse](/platform/flexfunding/).
+Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/flexfunding/).
 
 ## Andre muligheder for dansk crowdlending
 
@@ -162,17 +162,17 @@ Der er altså flere muligheder for at investere i dansk crowdlending.
 
 Jeg har også overvejet at investere i [Lendino\*](/go/lendino/), som ligner [Flexfunding](/platform/flexfunding/) rigtig meget. En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindsteinvesteringen 1000 DKK, hvilket hurtigt ville gøre, at jeg ville få _cash drag_ så længe jeg ikke vil investere mere end 10.000 til 30.000.
 
-Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [Brickshare](/platform/brickshare/), hvor man bliver medejer af projeket.
+Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/brickshare/), hvor man bliver medejer af projeket.
 
 Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
 
 Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast. 
 
-Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for Brickshare er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
+Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
 
 Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
-[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til Brickshare](/go/brickshare/){: .btn .btn--large .btn--info }
+[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many](/go/themany/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 

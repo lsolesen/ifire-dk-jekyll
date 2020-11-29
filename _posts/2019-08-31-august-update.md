@@ -65,7 +65,7 @@ Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
 ## Cryptovaluta
 
-Jeg er begyndt at få lidt renter på den cryptovaluta, jeg har lånt ud via Uphold og Cred. I alt blev det til **20.82 USD** i denne måned. Dem brugte jeg til at købe lidt ekstra Bitcoins.
+Jeg er begyndt at få lidt renter på den cryptovaluta, jeg har lånt ud via Uphold og Cred <ins>(Cred er gået konkurs, så det var en dårlig ide at låne penge ud på den platform)</ins>. I alt blev det til **20.82 USD** i denne måned. Dem brugte jeg til at købe lidt ekstra Bitcoins.
 
 Ellers går det ikke så godt for min samlede cryptovaluta-portefølje. Det er stadig LBA og XLM, der er faldt med hhv. 62% og 35% siden, jeg startede porteføljen, der gør, at der lige nu er et ret stort negativt afkast.
 

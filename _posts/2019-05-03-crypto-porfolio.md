@@ -16,15 +16,15 @@ feature_row_solutions:
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
-    excerpt: "[Coinbase\\*](/go/coinbase/) har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/)."
+    excerpt: "[Coinbase*](/go/coinbase/) har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/)."
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"
     title: "Kraken"
-    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken\\*](/go/kraken/), som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken*](/go/kraken/), som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
-    excerpt: "[Ledger\\*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
+    excerpt: "[Ledger*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 ---
 
 Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
@@ -55,7 +55,7 @@ Der er _coins_ og _tokens_, der giver investorerne en passiv indkomst (lidt lige
 
 **Tezos (XTZ)** er lavet på Ethereum block chain. Tezos bygger ikke på _mining_, som også er kendt som _proof of work_. hvor vinderne af løsninger til matematiske problemer får lov til at tilføje den næste blok til _block chain_. I stedet bygger Tezos på et _proof of stake_-system, der bruger et vægtet lotterisystem. Desto flere enheder af en valuta, man holder, desto større sandsynlighed er der for, at man vinder lotteriet og får en finansiel præmie. For at deltage i denne _baking_-proces, skal man dog holde mindst $10.000 og selv køre et program. Hvis du bruger Trust Wallet, så kan du _stake_ XTZ der og deltage i _baking_-processen. Det gør det meget enklere at være med og få udbytte af sine Tezos og altså en kontinuerlig indtjening (udbytte).
 
-Hvis man bruger **Uphold** kan man gennem en ekstern app fra CredEarn tjene renter på sit indestående i fx Bitcoins eller Ethereum. For at få de højeste renter, skal man også eje **Cred (LBA)**, som man kan købe via Uphold. Det er naturligvis en ret risikofyldt aktivitet.
+Hvis man bruger **Uphold** kan man gennem en ekstern app fra CredEarn <ins>(Cred er gået konkurs, så det var en dårlig ide at låne penge ud på den platform)</ins> tjene renter på sit indestående i fx Bitcoins eller Ethereum. For at få de højeste renter, skal man også eje **Cred (LBA)**, som man kan købe via Uphold. Det er naturligvis en ret risikofyldt aktivitet.
 {: .notice--info}
 
 ### Market Hedger: Stable Coins

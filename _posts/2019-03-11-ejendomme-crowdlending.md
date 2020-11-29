@@ -49,7 +49,7 @@ Gennem crowdlending kan du sammen med andre investorer bruge det til ejendomsinv
 
 I forhold til at sprede mine investeringer, så synes jeg dette er det mest interessante koncept. Fordelen ved at have en investering i ejendommen er, at der hver måned kommer leje ind, og investeringen således har et løbende udbytte samtidig med, at man på sigt kan drømme om en værdistigning af ejendommen.
 
-- **[Brickshare](/platform/brickshare/)** er dansk investeringsportal, hvor du bliver medejer af ejendomme, hvor du så får lejeindtægter. Se min grundige vurdering af [Brickshare](/platform/brickshare/).
+- **[The Many (tidl. Brickshare)\*](/platform/themany/)** er dansk investeringsportal, hvor du bliver medejer af ejendomme, hvor du så får lejeindtægter. Se min grundige vurdering af [The Many](/platform/themany/).
 
 Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige platforme, men også at forsøge at sprede dem på de enkelte platforme.
 

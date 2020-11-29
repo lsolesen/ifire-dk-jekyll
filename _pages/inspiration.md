@@ -99,6 +99,28 @@ feature_row_opheliainvest:
     url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+feature_row_solutions:
+  - image_path: /assets/images/logo/nord.png
+    alt: "Nord.Investments"
+    title: "Nord.Investments"
+    excerpt: "[Nord.Investments*](/go/nord/) er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
+    url: /go/nord/
+    btn_label: "Få gratis investeringsprofil*"
+    btn_class: "btn--info"
+  - image_path: /assets/images/logo/themany.jpg
+    alt: "The Many"
+    title: "The Many"
+    excerpt: "[The Many*](/go/themany/) gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
+    url: /go/themany/
+    btn_label: "Få 250 DKK på The Many*"
+    btn_class: "btn--info"
+  - image_path: /assets/images/logo/mintos.png
+    alt: "Mintos"
+    title: "Mintos"
+    excerpt: "[Mintos*](/go/mintos/) er den største europæiske crowdlending-platform, hvor du får adgang til et meget diversificeret lånemarked og tjen mere end 9%+"
+    url: /go/mintos/
+    btn_label: "Få Mintos*"
+    btn_class: "btn--info"
 classes: wide
 ---
 
@@ -107,6 +129,10 @@ classes: wide
 ## Min privatøkonomi
 
 {% include feature_row id="feature_row_setup" %}
+
+## Investeringsmuligheder
+
+{% include feature_row id="feature_row_solutions" %}
 
 ## Bliv klogere med Saxo
 

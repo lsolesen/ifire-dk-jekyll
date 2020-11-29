@@ -30,7 +30,7 @@ Det har økonomisk set ikke sket så meget i denne måned. Dog har jeg lige lave
 
 Ellers venter jeg på at kunne få lov til at overføre flere penge til min aktiesparekonto, så pengene kan komme ind og hygge sig i nogle passive investeringsforeninger.
 
-**Brickshare** åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos Brickshare\*](/go/brickshare/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos [Brickshare\*](/go/brickshare/), så kan du bruge mit [link\*](/go/brickshare/) og så får vi begge 250 DKK at investere for.
+**The Many (tidl. Brickshare)** åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many\*](/go/themany/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, så kan du bruge mit [link\*](/go/brickshare/) og så får vi begge 250 DKK at investere for.
 
 ## Bankskifte
 
@@ -94,17 +94,17 @@ Jeg har været relativt imponeret af [Trine\*](/go/trine/), hvor jeg stadig har 
 
 Hvis du bruger mit [mit link til Trine\*](/go/trine/), så får vi begge 10 EUR at investere for.
 
-[Brickshare\*](/go/brickshare/) er dansk crowdfunding af ejendomme, hvor man ender med at få andelsbeviser i ejendommene og modtager løbende udbytter fra huslejer. Jeg er investeret i tre ejendomme, men ville egentlig gerne investere i flere, så har skrevet mig på venteliste på resten. Der har jeg stået i mere end et halvt år nu, og der har stadig ikke åbnet sig nogen muligheder.
+<del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins> er dansk crowdfunding af ejendomme, hvor man ender med at få andelsbeviser i ejendommene og modtager løbende udbytter fra huslejer. Jeg er investeret i tre ejendomme, men ville egentlig gerne investere i flere, så har skrevet mig på venteliste på resten. Der har jeg stået i mere end et halvt år nu, og der har stadig ikke åbnet sig nogen muligheder.
 
-Det er fedt at jeg er begyndt at få udbytter fra min [Brickshare\*](/go/brickshare/)-investeringer, og når jeg samtidig tracker ejendomsværdien, så er min interne rente lige nu sneget sig op på 0,21%. Det er ikke så meget, men investeringerne er langsigtede og ejendomspriserne vil forhåbentlig over tid gå opad.
+Det er fedt at jeg er begyndt at få udbytter fra min <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>-investeringer, og når jeg samtidig tracker ejendomsværdien, så er min interne rente lige nu sneget sig op på 0,21%. Det er ikke så meget, men investeringerne er langsigtede og ejendomspriserne vil forhåbentlig over tid gå opad.
 
-Heldigvis har de åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos Brickshare\*](/go/brickshare/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos [Brickshare\*](/go/brickshare/), så kan du bruge mit [link\*](/go/brickshare/) og så får vi begge 250 DKK at investere for.
+Heldigvis har de åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many\*](/go/themany/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, så kan du bruge mit [link\*](/go/themany/) og så får vi begge 250 DKK at investere for.
 
-Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og The Many](/dansk-crowdlending/).
 
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg gruperer dem i privatlån, udviklingsprojekter og ejendomme.
 
-[10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK Brickshare\*](/go/etoro/){: .btn .btn--large .btn--info }
+[10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many\*](/go/themany/){: .btn .btn--large .btn--info }
 
 ## Opsparing
 

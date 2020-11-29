@@ -51,7 +51,7 @@ I månedens løb har der været lidt _cash drag_ på **[FastInvest (EUR)\*](/go/
 
 <del>På [Envestio\*](/go/envestio/) er det lykkes at nå med på lidt flere projekter. Man skal gå ind på [Envestio\*](/go/envestio/) så snart, man får en notifikation i sin e-mail.</del><ins>**Envestio var et _scam_ og lukkede ned i januar 2020.</ins>
 
-Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afprøve [Bulkestate*](/go/bulkestate/), og det virker som en lovende platform, hvor jeg kan få endnu mere ud af boligmarkedet. Det er også lykkes mig at investere i [Brickshare](/go/brickshare/)s nyeste projekt på Nørrebro. Desuden har jeg sat lidt flere penge ind på [ReInvest24\*](/go/reinvest24/), [Crowdestate\*](/go/crowdestate/), [PropertyPartner\*](/go/propertypartner/) og [Housers\*](/go/housers/). Jeg glæder mig til at følge investeringerne.
+Det er lykkes at øge mit engagement i ejendomme. Jeg blev inspireret til at afprøve [Bulkestate*](/go/bulkestate/), og det virker som en lovende platform, hvor jeg kan få endnu mere ud af boligmarkedet. Det er også lykkes mig at investere i <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>s nyeste projekt på Nørrebro. Desuden har jeg sat lidt flere penge ind på [ReInvest24\*](/go/reinvest24/), [Crowdestate\*](/go/crowdestate/), [PropertyPartner\*](/go/propertypartner/) og [Housers\*](/go/housers/). Jeg glæder mig til at følge investeringerne.
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|--------------|------|----------|

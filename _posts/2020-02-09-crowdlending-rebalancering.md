@@ -78,7 +78,7 @@ Sikkerheden på platformen betyder også noget ift. om hackere kan komme ind og 
 
 ### Market Risk
 
-- **Geo.** Hvor geografisk spredte kan man lave investeringer. Fx har nogle af ejendomsplatformene stort set kun en by, fx [Brickshare\*](/go/brickshare/), mens [PeerBerry\*](/go/peerberry/) opererer i mange lande.
+- **Geo.** Hvor geografisk spredte kan man lave investeringer. Fx har nogle af ejendomsplatformene stort set kun en by, fx <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, mens [PeerBerry\*](/go/peerberry/) opererer i mange lande.
 - **Investment Type.** Nogle lånetyper er mere risikable end andre lånetyper, fx har [Crowdestor\*](/go/crowdestor/) nogle tilsyneladende meget risikable lån. I forhold til mine investeringer, så forsøger jeg at fravælge de mest risikable lånetyper, og det er baggrunden for min vurdering af platformen.
 
 Hvis du vil lave din egen analyse, så kan du tage udgangspunkt i følgende regneark. Husk på at der er mange ting i analysen, man kan diskutere det objektive af.

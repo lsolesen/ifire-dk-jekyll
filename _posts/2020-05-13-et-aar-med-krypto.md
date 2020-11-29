@@ -48,7 +48,7 @@ Min kryptovaluta er købt med **opsparing** for øje, så jeg handler ikke i por
 
 - **Kryptovaluta for at følge kurser**. Jeg har tjent kryptovaluta på [Coinbase Earn](/coinbase-earn/), hvor jeg har gennemgået kurser i bl.a. [Stellar Lumens\*](https://coinbase.com/earn/xlm/invite/cxq453w7), [EOSIO\*](https://coinbase.com/earn/eos/invite/cjdkm8sp), [Orchid\*](https://coinbase.com/earn/oxt/invite/pc1gh5xs), men også Dai, Tezos, Basic Attention Token, som bl.a. bruges i [Brave browseren](/brave-anmeldelse/). Kurserne tager ikke så lang tid, og du kan tjene mellem 6-10 USD i coins på de fleste kurser.
 
-- **Udlån af kryptovaluta**. Desuden låner jeg min kryptovaluta ud via Uphold gennem CredEarn. Det er naturligvis relativ høj risiko ikke at holde sine coins selv og endda låne dem ud, men da mine _coins_ er langsigtet opsparing, og jeg ikke skal bruge dem, så er det en god måde at få lidt renter på. Jeg bruger den løbende renteindtægt til at købe op i Bitcoins.
+- **Udlån af kryptovaluta**. Desuden låner jeg min kryptovaluta ud via Uphold gennem CredEarn <ins>(Cred er gået konkurs, så det var en dårlig ide at låne penge ud på den platform)</ins>. Det er naturligvis relativ høj risiko ikke at holde sine coins selv og endda låne dem ud, men da mine _coins_ er langsigtet opsparing, og jeg ikke skal bruge dem, så er det en god måde at få lidt renter på. Jeg bruger den løbende renteindtægt til at købe op i Bitcoins.
 
 Det har været en dyr fornøjelse at købe Cred, men LBA var nødvendige for at få de bedste renter på CredEarn. Jeg købte en relativt stor andel LBA, og den interne rente på LBA er -78%, så hvis du er interesseret i at bruge modellen med at udlåne til Uphold, så er det noget billigere nu.
 

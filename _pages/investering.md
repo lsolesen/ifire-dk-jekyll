@@ -4,9 +4,9 @@ title: Simpel minimalistisk investering
 permalink: /investering/
 header:
   overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-  actions:
-    - label: "Presale: Kursus i minimalistik investering"
-      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
+#  actions:
+#    - label: "Presale: Kursus i minimalistik investering"
+#      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
 excerpt: "Inspiration til at komme i gang med investeringer selv."
 author_profile: true
 classes: wide
@@ -18,12 +18,12 @@ feature_row_solutions:
     url: /go/nord/
     btn_label: "Få gratis investeringsprofil*"
     btn_class: "btn--info"
-  - image_path: /assets/images/logo/brickshare.png
-    alt: "Brickshare"
-    title: "Brickshare"
-    excerpt: "[Brickshare*](/go/brickshare/) gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
-    url: /go/brickshare/
-    btn_label: "Få 250 DKK på Brickshare*"
+  - image_path: /assets/images/logo/themany.jpg
+    alt: "The Many"
+    title: "The Many"
+    excerpt: "[The Many*](/go/themany/) gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
+    url: /go/themany/
+    btn_label: "Få 250 DKK på The Many*"
     btn_class: "btn--info"
   - image_path: /assets/images/logo/mintos.png
     alt: "Mintos"
