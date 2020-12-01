@@ -84,7 +84,7 @@ Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, s
 
 Jeg brugte det meste af en times tid i går på at overføre 2-10 EUR til alle mine crowdlending-platforme, fordi min [Revolut\*](/go/revolut/)-konto i forbindelse med Brexit er blevet flyttet. Derfor har jeg fået nyt kontonummer, og på langt de fleste platforme skal det bekræftes med en ny kontooverførsel. Da en del af platformene samtidig har skiftet kontonummer siden min seneste overførsel, så var der en del tastearbejde.
 
-I den forbindelse er jeg ret imponeret af [Peerberry\*](/go/peerberry/). Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt.
+I den forbindelse er jeg ret imponeret af [Peerberry\*](/go/peerberry/). Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt. 
 
 Men årsagen til at jeg skulle opdatere kontonumre er også, fordi jeg gerne vil trække mig ud af en del af platformene.
 
@@ -100,7 +100,7 @@ Jeg valgte at hoppe helt ud af Funderbeam i denne måned ved at sælge mine _sha
 
 [Robocash\*](/go/robocash/) ser ud til at køre stabilt for mig. De har den geniale feature, at man bare kan sætte beløbene til at blive udbetalt til sin konto, hvis man slår auto invest fra. Jeg bemærkede dog, at jeg havde et bare udbetalinger, som ikke var eksekveret fra før sommer. Jeg annullerede dem, men vil lige følge i fremtiden om pengene faktisk lykkes med at blive udbetalt.
 
-[Crowdestor\*](/go/crowdestor/) er jeg ved at reducere kraftigt. Lige nu har jeg kun 9,57% i intern rente, men projekterne er meget risikable, tror jeg.
+[Crowdestor\*](/go/crowdestor/) er jeg ved at reducere kraftigt. Lige nu har jeg kun 9,57% i intern rente, og jeg synes de meget attraktive renter på mange af projekterne virker for godt til at være sandt. Så det er det nok også. Det vil vise sig.
 
 [Evoestate\*](/go/evoestate/) synes jeg stadig virker smart, fordi den samler lån fra flere platforme, men risikoen generelt i crowdlending er for stor for mig lige nu, så jeg er på vej ud af den.
 
