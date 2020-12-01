@@ -172,10 +172,26 @@ Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many
 
 Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
-[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many](/go/themany/){: .btn .btn--large .btn--info }
+[Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 
+## Køb bog om crowdlending
+
 {% include feature_row type="left" %}
+
+## Dansk crowdlending
+
+{% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+
+<div class="feature__wrapper">
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single-simple.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
 
 {% include disclaimer.md %}
