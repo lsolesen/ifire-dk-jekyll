@@ -122,6 +122,18 @@ Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne
 
 Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino\*](/go/lendino/), da jeg synes de har en interessant forretningsmodel, hvor de lancerer platform, som andre kan udnytte, mere regulær crowdlending og de giver mulighed for netværkslån (uden kreditvurdering) på en formaliseret måde.
 
+{% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+
+<div class="feature__wrapper">
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single-simple.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg grupperer dem i privatlån, udviklingsprojekter og ejendomme.
 
 [10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many\*](/go/themany/){: .btn .btn--large .btn--info }
