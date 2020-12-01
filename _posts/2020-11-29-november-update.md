@@ -120,6 +120,8 @@ Da [Revolut\*](/go/revolut/) har ændret deres vilkår for internationale overf�
 
 Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne rente på [Kameo\*](/go/kameo/). Men du kan læse mine [erfaringer med dansk crowdledning gennem Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
 
+Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino\*](/go/lendino/), da jeg synes de har en interessant forretningsmodel, hvor de lancerer platform, som andre kan udnytte, mere regulær crowdlending og de giver mulighed for netværkslån (uden kreditvurdering) på en formaliseret måde.
+
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg grupperer dem i privatlån, udviklingsprojekter og ejendomme.
 
 [10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many\*](/go/themany/){: .btn .btn--large .btn--info }
