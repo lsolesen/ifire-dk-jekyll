@@ -110,7 +110,7 @@ Forudsætningerne i regnearket formuleres således i tråden:
  
 ---<cite>[u/mikkelse](https://www.reddit.com/r/dkfinance/comments/amrnk5/lager_vs_realisation_beregninger/)</cite>
  
-Jeg har [kopieret regnearket](https://docs.google.com/spreadsheets/d/1I4ocGQybTQLSXV0QeSXx3XyPzqNCyol8X-ewuo0yn-Q/edit?usp=sharing) og sat mine egne værdier ind i det. Hvis man bruger regnearket opdager man hurtigt, at der ikke skal ændres ret meget på forudsætningerne, før fordelen kan tippe den ene eller anden vej.
+Jeg har [kopieret regnearket](https://docs.google.com/spreadsheets/d/1I4ocGQybTQLSXV0QeSXx3XyPzqNCyol8X-ewuo0yn-Q/copy?usp=sharing) og sat mine egne værdier ind i det. Hvis man bruger regnearket opdager man hurtigt, at der ikke skal ændres ret meget på forudsætningerne, før fordelen kan tippe den ene eller anden vej.
  
 Hvis jeg bruger følgende forudsætninger i regnearket:
  

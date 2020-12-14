@@ -173,7 +173,7 @@ Det er jo besnærende med de lave omkostninger på de udenlandske ETF’er, selv
 
 Over lang tid betyder omkostninger meget for, hvad dit samlede afkast bliver. 
 
-Jeg har siddet og [leget lidt med et regneark ift. omkostninger](https://docs.google.com/spreadsheets/d/1Yl2ur4-E7h5xknCBnRti4mCtA7Ru2UeUdBNoP7HQ7DI/edit?usp=sharing) i et par enkelte forslag til porteføljer, der kunne tilfredsstille ‘Simple Path to Wealth’ i en dansk kontekst.
+Jeg har siddet og [leget lidt med et regneark ift. omkostninger](https://docs.google.com/spreadsheets/d/1Yl2ur4-E7h5xknCBnRti4mCtA7Ru2UeUdBNoP7HQ7DI/copy?usp=sharing) i et par enkelte forslag til porteføljer, der kunne tilfredsstille ‘Simple Path to Wealth’ i en dansk kontekst.
 
 <iframe style="width:60%; height: 450px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4PX-3-nzknSdq3HrJAOtluzQKDCkzjha_pjYYtQgMWDDByOHiIiP_LvHDd1ustXgYyvTKd7ea6YV/pubhtml?widget=true&amp;headers=false"></iframe>
 
