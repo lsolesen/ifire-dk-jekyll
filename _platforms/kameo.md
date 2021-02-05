@@ -119,3 +119,5 @@ Jeg kunne godt tænke mig, at de etablerede en auto invest og sænkede investeri
 [Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success }
 
 {% include gallery %}
+
+Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

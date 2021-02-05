@@ -9,14 +9,6 @@ tags:
   - ejendomsinvestering
   - ejendom
 excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investere i ejendomsmarkedet gennem crowdlending?"
-feature_row:
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
-    alt: "Den lille guide til Crowdlending"
-    title: "Den lille guide til Crowdlending"
-    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
 ---
 
 {% include disclosure.html %}
@@ -82,7 +74,5 @@ Lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfu
 Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowd lending_.
 
 Skal du også have fat i ejendomsmarkedet for at sprede dine investeringer - og hvad er din strategi?
-
-{% include feature_row type="left" %}
 
 {% include disclaimer.md %}

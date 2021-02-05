@@ -18,6 +18,10 @@ first_investment_at: 2020-12-01T10:00:00+08:00
 cta_url: /go/lendino/
 ---
 
+**{{ page.excerpt }}**
+
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 1. december 2020
+
+Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

@@ -7,49 +7,6 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "Investeringerne kører på autopilot. En del arbejde med at få opdateret kontooplysninger på crowdlending - og svindel hos CredEarn."
-feature_row:
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
-    alt: "Den lille guide til Crowdlending"
-    title: "Den lille guide til Crowdlending"
-    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/07/Anna-og-Olli-sparer-op.jpg
-    alt: "Anna og Olli sparer op"
-    title: "Anna og Olli sparer op"
-    excerpt: "Anna og Olli Sparer Op handler om Annas første opsparing. Anna er på besøg hos sin mormor og morfar, hvor hun har sin første sparegris Olli. Hos mormor og morfar leger Anna med Olli. Anna giver sparegrisen mad. Maden er penge. Det er det sparegrisen spiser. Når der ikke kan være flere mønter i sparegrisen, kan Anna købe noget, som hun ønsker sig med mormor."
-    url: https://www.opheliainvest.dk/vare/anna-og-olli-sparer-op/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/04/Screenshot-2020-05-04-at-16.21.19.png
-    alt: "‘Den lille guide til investering’"
-    title: "‘Den lille guide til investering’"
-    excerpt: "Med den lille guide til investering får du en grundlæggende introduktion til investering og en udførlig guide til at komme i gang. Bogen kan anvendes som guide uanset niveau, om du er nybegynder eller erfaren investor der ønsker et brugervenligt opslagsværk. Sproget er let forståeligt, uden for mange dikkedarer og unødvendigt svære fagtermer."
-    url: https://www.opheliainvest.dk/vare/bog-om-investering/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-21.09.20.png
-    alt: "‘Den lille guide til pension’"
-    title: "‘Den lille guide til pension’"
-    excerpt: "I denne lille guide får du en grundig introduktion til alt det, der er værd at vide om pension. Et emne, som berører os alle. Bogen lærer dig blandt andet om alle de vigtige elementer der udgør din pensionsopsparing. Dit fremtidige jeg vil takke dig for at investere tid i at få styr på pensionsjunglen inden det bliver alt for sent."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-pension/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.05.11.png
-    alt: "Den lille guide til børns opsparing"
-    title: "Den lille guide til børns opsparing"
-    excerpt: "Denne guide til giver dig mulighed for at lære om alt det grundlæggende omkring en børneopsparing, samtidig med at den giver dig masser af inspiration og gør dig klogere på alle de muligheder der er, både som forældre, bedsteforældre og pårørende. Når du har læst bogen er du godt rustet til at give dit barn eller barnebarn den bedste økonomiske start på voksenlivet."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-boerns-opsparing/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-11-10-at-12.17.59.png
-    alt: "Den lille guide til ung økonomi"
-    title: "Den lille guide til ung økonomi"
-    excerpt: "Den lille guide til ung økonomi er skrevet til unge mennesker som ønsker en god privatøkonomisk start på livet. Bogen kommer flot rundt om alt hvad den unge læser måtte have behov for at vide. Hvis du selv er ung, så vil bogen formentlig være den bedste investering du nogensinde vil gøre dig. Er du beriget med unge mennesker i familie eller netværk, så er denne bog en oplagt gaveidé."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-ung-oekonomi/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
 ---
 
 Tak fordi du kigger forbi for at følge med i min rejse mod økonomisk frihed.
@@ -177,10 +134,6 @@ Jeg gik i gang med at følge rådene fra _Income School_ i forhold til at lave n
 Der er altså sket en del med trafikken på de enkelte sites. Jeg har kun arbejdet meget målrettet med motionsplan.dk, og det er tydeligt, at man kan få noget til at ske med trafikken, hvis man producerer noget content, som Google kan finde og vil vise.
 
 Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/portfolio/).
-
-## Interessante bøger om privatøkonomi (reklame)
-
-{% include feature_row type="left" %}
 
 {% include disclaimer.md %}
 

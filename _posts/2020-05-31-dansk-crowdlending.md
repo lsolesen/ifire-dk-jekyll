@@ -7,14 +7,6 @@ category:
 tags:
   - crowdlending
 excerpt: "Jeg har investeret i dansk crowdlending i tre år og her er en lille opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
-feature_row:
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
-    alt: "Den lille guide til Crowdlending"
-    title: "Den lille guide til Crowdlending"
-    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
 ---
 
 Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme. Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
@@ -25,7 +17,7 @@ Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg started
 
 ## Flexfunding
 
-{% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder." %}
+{% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder." alt="Flexfunding er dansk crowdlending" %}
 
 Flexfunding var min første crowdlending-platform. [Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 
@@ -37,11 +29,11 @@ Flex Funding er en dansk platform for crowdlending og crowdfunding. Flex Funding
 - Fornuftige renter efter danske crowdlending forhold
 - Sekundært marked så du kan komme ud af platformen igen
 - Fine informationer om lånene og mulighed for at spørge yderligere ind til lånene
-- Ingen investorer har endnu haft et tab
+- Autoinvest
 
 ### Ulemper ved Flexfunding
 
-- Ingen autoinvest
+- Efterhånden er der flere tab på Flexfunding, som ellers havde klaret sig uden tab i en årrække. Jeg har selv haft flere konkurser, hvor pengene ikke kommer igen.
 - Firmaet bag platformen har endnu ikke leveret overskud
 - Lidt uoverskuelige gebyrer
 - Det er ikke så let at se, hvor mange aktive lån, man har på platformen. Den viser det historiske antal lån, man har investeret i.
@@ -55,7 +47,7 @@ Hvis man har et nødlidende lån på Flexfunding, som jeg har nogle stykker af -
 
 Jeg tjekker jævnligt hjemmesiden for at se, om der er kommet nye lån - og hvordan det går med de eksisterende, men informationerne om de nødlidende lån er ret begrænsede.
 
-{% include figure image_path="/assets/images/posts/flexfunding-opsagt.png" caption="På den konkursramte Samfundstanken står der bare _Opsagt_ og _Betaling mangler eller forsinket_. Det kunne være hjælpsomt med en liste over de aktuelle tiltag Flexfunding tager." %}
+{% include figure image_path="/assets/images/posts/flexfunding-opsagt.png" caption="På den konkursramte Samfundstanken står der bare _Opsagt_ og _Betaling mangler eller forsinket_. Det kunne være hjælpsomt med en liste over de aktuelle tiltag Flexfunding tager." alt="Flexfunding er dansk crowdlending" %}
 
 ### Forventet afkast på Flexfunding
 
@@ -71,7 +63,7 @@ Jeg har lavet en detaljeret oversigt over [mine erfaringer med Flexfunding, som 
 
 ## Kameo
 
-{% include figure image_path="/assets/images/logo/kameo.png" caption="Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme." %}
+{% include figure image_path="/assets/images/logo/kameo.png" caption="Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme." alt="Kameo er en dansk crowdlending platform" %}
 
 Kameo er grundlagt i 2014. De er repræsenteret i Norge, Sverige og Danmark og derfor kan du også investere i lån fra alle tre lande. Hos Kameo investerer du lån, som typisk skal finansiere ejendomsprojekter og andre virksomhedslån. Lånene giver typisk et relativt højt afkast i forhold til dansk crowdlending generelt.
 
@@ -124,6 +116,7 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Dansk crowdlending hvor du bliver husejer og får huslejeindtægt.
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
+- Det er let at indløse sine andele direkte fra dashboardet.
 - Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
 
 ### Ulemper ved The Many
@@ -154,13 +147,40 @@ Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for n
 
 Derfor er det også en stor forbedring, at man nu kan reservere andele i projekterne uden at skulle betale pengene med det samme. Det har jeg udnyttet med deres nyeste projekt.
 
-Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/flexfunding/).
+Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/themany/).
+
+[Start på The Many](/go/themany/){: .btn .btn--large .btn--success }
+
+## Lendino - dansk crowdlending
+
+Jeg har også investeret i [Lendino\*](/go/lendino/). Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
+
+{% include video provider="youtube" id="vbA5pW1zTrc" %}
+
+En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindsteinvesteringen 1000 DKK, hvilket hurtigt kan gøre, at man får _cash drag_, så længe jeg ikke vil investere mere end 10.000 til 30.000.
+
+Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivelse](/platform/lendino/).
+
+[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success }
+
+### Fordele ved Lendino
+
+- Danske lån
+- Fornuftige renter efter danske crowdlending forhold
+- Sekundært marked så du kan komme ud af platformen igen
+- Fine informationer om lånene og mulighed for at spørge yderligere ind til lånene
+- Autoinvest
+- Anmeldelserne på [Trustpilot](https://dk.trustpilot.com/review/www.lendino.dk) er overvejende positive.
+
+### Ulemper ved Lendino
+
+- Flere har tidligere oplevet ustabile låntagere.
+- Ingen buy back garanti
+- Der har været lidt langt mellem lånene, så min autoinvest har ikke investeret i noget i mere end en måned primo 2021.
 
 ## Andre muligheder for dansk crowdlending
 
 Der er altså flere muligheder for at investere i dansk crowdlending.
-
-Jeg har også overvejet at investere i [Lendino\*](/go/lendino/), som ligner [Flexfunding](/platform/flexfunding/) rigtig meget. En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindsteinvesteringen 1000 DKK, hvilket hurtigt ville gøre, at jeg ville få _cash drag_ så længe jeg ikke vil investere mere end 10.000 til 30.000.
 
 Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/brickshare/), hvor man bliver medejer af projeket.
 
@@ -175,10 +195,6 @@ Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg vil
 [Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
-
-## Køb bog om crowdlending
-
-{% include feature_row type="left" %}
 
 ## Dansk crowdlending
 

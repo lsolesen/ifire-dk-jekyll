@@ -98,3 +98,5 @@ Jeg har skrevet mig op på venteliste på alle The Manys projekter, men desværr
 <iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=541432533&amp;format=image"></iframe>
 
 [Få 250 kroner til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+
+Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

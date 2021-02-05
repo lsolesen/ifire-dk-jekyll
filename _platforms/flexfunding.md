@@ -112,3 +112,5 @@ Flexfunding er en solid dansk platform for crowdlending, som har været på bane
 I den periode jeg har investeret der har både jeg og min kæreste oplevet lidt rod med opgørelsen af det indestående og samlede kontoværdi på dashboardet, hvilket mest er irriterende, fordi man bliver nødt til at kontakte kundeservice for at få det udbedret.
 
 [Besøg Flexfunding\*](/go/flexfunding/){: .btn .btn--large .btn--info }
+
+Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
