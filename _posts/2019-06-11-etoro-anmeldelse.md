@@ -36,7 +36,7 @@ Lige nu bruger jeg udelukkende Etoro til _copy trading_, men der er også mange 
 - **Copy Portfolios**. Har kan du følge fx en portefølje af de mest succesfulde tradere på Etoro eller kryptovaluaer. Det kræver at du mindst har sat 5.000 US$ ind på din konto. Men så får du en diversificeret portefølje med relativt lave omkostninger.
 - **Bliv copy investor**. Du kan selv blive en af de investorer, man følger. Hvis du er godt til at investere, så kan du tjene en lille skilling på at blive en af dem, folk gerne vil følge. 
 
-## Hvordan har jeg brugt copytrading?
+## Hvordan har jeg brugt copytrading på Etoro?
 
 Det er rigtig let at oprette en konto på [Etoro\*](/go/etoro/), så det vil jeg ikke gennemgå her. Jeg tilføjede _gratis_ penge til min [Revolut\*](/go/revolut/) med mit kreditkort. Derefter brugte jeg (på en hverdag) mit Revolut-betalingskort til at tilføje penge til min Etoro, for så fik jeg gratis valutaveksling til US$ til interbank-raten.
 
@@ -84,6 +84,14 @@ På forsiden får du _Account summary_. Hvis du klikker på _Financial Summary_ 
 {% include figure image_path="/assets/images/etoro-account-summary.png" caption="Financial statement for Etoro" alt="Skat på Etoro" %}
 
 Husk at beløbene er i USD, så de skal lige omregnes til dansk og sættes ind i de rigtige rubrikker på årsopgørelsen.
+
+Ifølge [invested.dk](https://www.invested.dk/guides/indberetning-til-skattestyrelsen-og-udfyldelse-af-selvangivelse) skal man med udenlandske aktier og investeringsbeviser i udenlandsk depot - som Etoro jo er - oplyse udbytte i de relevante rubrikker for "Udenlandske aktier og investeringsbeviser". Du skal også husk at oplyse de land Etoro er hjemmehørende i.
+
+Gevinst og tab på børsnoterede udenlandske aktier og investeringsbeviser, skal oplyses i rubrik 454.
+
+Den samlede formueværdi for aktier mv. ultimo året for det land, hvor brokeren er hjemmehørende, skal oplyses i rubrik 490 (Kursværdi af aktier i udenlandsk depot og investeringsforeningsbeviser i udlandet).
+
+Husk at skat på Etoro er dit ansvar at få oplyst rigtigt til Skat.
 
 ## Min fremtid på Etoros copytrading?
 
