@@ -11,7 +11,6 @@ category:
   - Webclips
 last_modified_at: 2020-12-31T18:21:26Z
 popular_posts:
-  - /renters-rente/
   - /lagerbeskatning-etf-fordel-eller-ulempe/
   - /skat-af-aktier/
   - /investering-vol3/
@@ -21,6 +20,7 @@ popular_posts:
   - /hvad-er-investeringsforeninger-og-etfer/
   - /dansk-crowdlending/
   - /nordnet-maanedsopsparing-problemer/
+  - /hvordan-tracker-jeg-min-portefolje/
 ---
 
 Det har været et godt år på Ifire. Vi har skrevet en del artikler, og vores besøgstal er virkelig gået i vejret.

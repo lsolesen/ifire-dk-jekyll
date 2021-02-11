@@ -1,5 +1,6 @@
 ---
 title: "Nordnets månedsopsparing giver problemer"
+permalink: /nordnet-maanedsopsparing-problemer/
 redirect_from:
   - /investering/nordnet-maanedsopsparing-problemer/
 category:
