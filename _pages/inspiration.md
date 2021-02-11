@@ -12,7 +12,7 @@ feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
     alt: "Investering"
     title: "Investering"
-    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet\\*](/go/nordnet/) til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor\\*](/go/saxoinvestor/) til min aktiesparekonto."
+    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet\\*](/go/nordnet/) til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor\\*](/go/saxoinvestor/) til min aktiesparekonto. Jeg tracker mine porteføljer gratis med [Atlaz\\*](/go/atlaz/)."
   - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
     alt: "Opsparing"
     title: "Opsparing"
@@ -77,28 +77,6 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere*"
     btn_class: "btn--success"
-feature_row_opheliainvest:
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-20.04.55.png
-    alt: "Den lille guide til Minimalisme"
-    title: "Den lille guide til Minimalisme"
-    excerpt: "I denne bog gennemgås begrebet minimalisme. Hvad betyder det, hvor opstod det og hvem er de der minimalister egentlig? Fra en minimalist til en anden, deler Jane Ibsen Piper hendes vaner, tips og råd til hvordan man lever et simpelt liv."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-minimalisme/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.05.11.png
-    alt: "Den lille guide til Børns Opsparing"
-    title: "Den lille guide til Børns Opsparing"
-    excerpt: "Denne guide til giver dig mulighed for at lære om alt det grundlæggende omkring en børneopsparing, samtidig med at den giver dig masser af inspiration og gør dig klogere på alle de muligheder der er, både som forældre, bedsteforældre og pårørende. Når du har læst bogen er du godt rustet til at give dit barn eller barnebarn den bedste økonomiske start på voksenlivet."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-boerns-opsparing/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
-  - image_path: https://www.opheliainvest.dk/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-18.36.12.png
-    alt: "Den lille guide til Crowdlending"
-    title: "Den lille guide til Crowdlending"
-    excerpt: "I denne bog får du en grundig og lettilgængelig indføring i emnet crowdlending, som er en passiv investeringsform. Formålet er at skabe et fast, løbende afkast. Guiden introducerer dig for lånemarkedet, og giver svar på alle de gængse spørgsmål vedrørende risikostyring, skat, valg af investeringsplatform og meget mere."
-    url: https://www.opheliainvest.dk/vare/den-lille-guide-til-crowdlending/?ref=507
-    btn_label: "Læs mere*"
-    btn_class: "btn--success"
 feature_row_solutions:
   - image_path: /assets/images/logo/nord.png
     alt: "Nord.Investments"
@@ -143,8 +121,6 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
-
-{% include feature_row id="feature_row_opheliainvest" type="left" %}
 
 ## FIRE
 
