@@ -18,3 +18,16 @@ main:
     url: /portfolio/
   - title: "Om"
     url: /om/
+blog:
+  - title: "Populære søgninger"
+    children:
+      - title: "renters rente"
+        url: /renters-rente/
+      - title: "rentes rente"
+        url: /renters-rente/
+      - title: "lagerbeskatning eller realisationsbeskatning"
+        url: /skat-af-aktier/
+      - title: "bagestål vs bagesten"
+        url: /bagestaal-vs-bagesten-anmeldelse/
+      - title: "crowdlending danmark"
+        url: /dansk-crowdlending/

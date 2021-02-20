@@ -300,6 +300,8 @@ defaults:
             ---
             [![Få Bitcoins til en værdi af $10](/assets/images/Coinbase-banner_annonce-1024x333.png)](/go/coinbase/)
             ---
+        title: "Populære sider"
+        nav: blog
 # _faq
   - scope:
       path: ""
