@@ -11,7 +11,7 @@ excerpt: "Jeg har investeret i dansk crowdlending i tre år og her er en lille o
 
 Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme. Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
 
-**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare</del><ins>The Many (tidligere The Many)</ins>, Lendino og Fundbricks, som er det største spillere i øjeblikket.**
+**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare<ins>The Many (tidligere Brickshare)</ins>, Lendino og Fundbricks, som er det største spillere i øjeblikket.**
 
 Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg startede i januar 2017 med min første investering i Flexfunding og har siden investeret i Kameo og The Many. Du kan læse mange steder på nettet, hvordan du bruger platformene. Her trækker jeg i stedet mine erfaringer frem - og du kan også læse videre under mine detaljerede platform-erfaringer under de enkelte platforme.
 
