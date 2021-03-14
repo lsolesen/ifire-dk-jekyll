@@ -7,11 +7,13 @@ tags:
   - crowdlending
   - ejendomsinvestering
   - England
+  - udenlandsk crowdlending
 excerpt: "På PropertyPartner investerer du i ejendomme i England ved at købe aktier i selskaberne og modtage udbytte (husleje) hver måned."
 last_modified_at: 2019-12-31T08:19:00+08:00
 first_investment_at: 2019-03-21T10:00:00+08:00
 toc: true
 cta_url: /go/propertypartner/
+country: England
 ---
 
 {{ page.exerpt }}
@@ -38,6 +40,14 @@ cta_url: /go/propertypartner/
 - Usikkerhed ved Brexit, hvor boligmarkedet i England kan ændre sig, og £ kommer formentlig under pres.
 - Det tager [mindst fem-seks måneder inden den interne rente bliver positiv](#xirr)
 - Kunne være dejligt med lidt mere statistik på platformen
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/propertypartner-tax.png" caption="Sådan finder du årsopgørelsen på Propery Partner" alt="årsopgørelse skat propertypartner" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

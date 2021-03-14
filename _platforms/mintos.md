@@ -7,6 +7,7 @@ tags:
   - crowdlending
   - Letland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Mintos er Europas største _crowd lending_ platformen Mintos, som er en markedsplads for rigtig mange låneudbydere."
 last_modified_at: 2019-08-17T20:01:00+08:00
 toc: true
@@ -20,6 +21,7 @@ toc: true
 #    btn_class: "btn--info"
 first_investment_at: 2019-02-18T10:00:00+08:00
 cta_url: /go/mintos/
+country: letland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -43,6 +45,14 @@ Mintos har et rigtig stort sekundært marked, hvor du kan sætte dine lån til s
 Senere har Mintos etableret deres Invest & Access-produkt, hvor det formentlig er endnu enklere at få pengene ud hurtigt. Dog kan man kun hæve de penge, der er investeret i lån, der er _current_. Jeg har invsteret en del i Invest & Access, som jeg forventer er nogenlunde likvidt, men hvis jeg har brug for mere sikker likviditet på crowdlending, så sætter jeg dem i [Bondora Go & Grow\*](/go/bondora/).
 
 {% include video provider="youtube" id="cd9juR3gc7Y" %}
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/mintos-tax.png" caption="Sådan finder du årsopgørelsen på Mintos" alt="årsopgørelse skat mintos" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Februar 2019
 

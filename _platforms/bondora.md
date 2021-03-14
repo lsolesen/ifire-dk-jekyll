@@ -7,10 +7,13 @@ tags:
   - crowdlending
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på omkring 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"
 last_modified_at: 2019-06-14T00:00:00+08:00
 first_investment_at: 2019-02-20T10:00:00+08:00
 cta_url: /go/bondora/
+country: Estland
+toc: true
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -36,6 +39,14 @@ Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svind
 Se en sammenligning her:
 
 {% include video provider="youtube" id="cd9juR3gc7Y" %}
+
+## Skat ved crowdlending på Bondora
+
+Bondora er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Bondora. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/bondora-tax.png" caption="Sådan finder du årsopgørelsen på Bondora" alt="årsopgørelse skat bondora" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Februar 2019
 

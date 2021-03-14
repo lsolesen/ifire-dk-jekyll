@@ -7,10 +7,12 @@ tags:
   - crowdlending
   - Letland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "PeerBerry tilbyder kortsigtede lånetyper med omkring 12% i årligt afkast og buy back garanti. Alternativ til Mintos."
 last_modified_at: 2019-07-12T23:30:00+08:00
 first_investment_at: 2019-02-27T10:00:00+08:00
 cta_url: /go/peerberry/
+country: Letland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -31,6 +33,14 @@ cta_url: /go/peerberry/
 - Kunne godt have bedre statisik om diversificering.
 - Ikke muligt at prioritere sin auto invest.
 - Ingen sekundær markedsplads.
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/peerberry-tax.png" caption="Sådan finder du årsopgørelsen på peerberry" alt="årsopgørelse skat peerberry" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

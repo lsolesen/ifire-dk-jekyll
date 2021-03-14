@@ -8,10 +8,12 @@ tags:
   - ejendomsinvestering
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Crowdestate opererer primært i Estland og Letland. Platformen giver dig mulighed for at investere i udviklingsprojekter med ejendomme."
 last_modified_at: 2020-01-21T11:40:00+08:00
 first_investment_at: 2019-02-20T10:00:00+08:00
 cta_url: /go/crowdestate/
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -25,6 +27,14 @@ Crowdestate er en fin platform, hvis du gerne vil investere i udviklingsprojekte
 ## Ulemper
 
 - Kun muligt at investere beløb deleligt med 100 EUR, hvilket gør at man ofte vil have mindre beløb fra renteindtægter stående på kontoen, som ikke kan reinvesteres.
+
+## Skat ved crowdlending på Crowdestate
+
+Crowdestate er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Crowdestate. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/crowdestate-tax.png" caption="Sådan finder du årsopgørelsen på Crowdestate" alt="årsopgørelse skat crowdestate" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investeret og værdi
 

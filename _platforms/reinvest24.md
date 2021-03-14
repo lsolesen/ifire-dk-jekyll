@@ -8,10 +8,12 @@ tags:
   - ejendomsinvestering
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "ReInvest24 er en crowdfunding platform for ejendomsinvesteringer i ejendomme i Estland med udlejningsindkomst."
 last_modified_at: 2019-03-24T00:00:00+08:00
 first_investment_at: 2019-02-26T10:00:00+08:00
 cta_url: /go/reinvest24/
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -32,6 +34,14 @@ cta_url: /go/reinvest24/
 - Ingen auto invest
 - Minimum investering er 100 EUR
 - Statistikken er ikke alt for let at læse
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/reinvest24-tax.png" caption="Sådan finder du årsopgørelsen på reinvest24" alt="årsopgørelse skat reinvest24" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

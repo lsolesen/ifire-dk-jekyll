@@ -117,6 +117,18 @@ Hvis du følger denne guide, så kan du gøre det relativt hurtigt. Det hjælper
 
 Hvis du gerne vil vide, hvordan du finder årsopgørelserne og tallene til brug for indberetning af udenlandsk crowdlending, så kan du klikke ind på de enkelte platforme her.
 
+{% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "udenlandsk crowdlending" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+
+<div class="feature__wrapper">
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single-simple.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
 **Det kan være et godt råd, at du har dine forventede afkast fra crowdlending med i din forskudsopørgelse, så du undgår at skulle betale meget i skat efterfølgende.**
 
 Jeg plejer at opgøre summen af mine investeringer på hver platform omkring nytåret. Selvom du kan få en "tax report" eller årsopgørelse fra platformene, hvor de angiver indtægter og tab, så er det i øjeblikket kun omkring halvdelen af dem, der viser summen af indestående midler for det pågældende år. Da alle platformene er forskellige kan det være lidt vanskeligt at grave frem efterfølgende.

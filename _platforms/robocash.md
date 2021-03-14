@@ -7,10 +7,12 @@ tags:
   - crowdlending
   - Kroatien
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "RoboCash tilbyder kortsigtede lånetyper særligt i Euroasien og Asien - og de giver omkring 12% i årligt afkast og har buy back garanti. Funderet i Letland."
 last_modified_at: 2020-03-02T15:15:00+08:00
 first_investment_at: 2019-03-18T10:00:00+08:00
 cta_url: /go/robocash/
+country: Kroatien
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -40,6 +42,14 @@ Der er sådan set ikke noget overraskende i deres svar. Naturligvis er der defau
 Hvis det reelle afkast ender med at være 6%, så ville jeg formentlig slet ikke være på platformen. Derfor er det problematisk at den totale værdi af kontoen ikke til hver en tid reflekterer, når nogle af lånene er blevet ramt af _buyback_ eller _defaults_. Som investor føles det lidt som at blive ført bag lyset.
 
 Nu har jeg sat den resterende del af min portefølje til _Payout_, og så glæder jeg mig til at udregne min reelle interne rente på RoboCash. Jeg håber, at den er  bedre end jeg frygter.
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/robocash-tax.png" caption="Sådan finder du årsopgørelsen på Robocash" alt="årsopgørelse skat robocash" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

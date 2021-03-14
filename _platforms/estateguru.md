@@ -8,6 +8,7 @@ tags:
   - ejendomsinvestering
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Hos Estate Guru investerer du udviklingsprojekter med ejendomme i med hovedsæde i Estland."
 last_modified_at: 2019-08-21T12:54:00+08:00
 first_investment_at: 2019-08-21T10:00:00+08:00
@@ -15,12 +16,12 @@ platform:
   autoinvest: yes
   twofactorauth: yes
 cta_url: /go/estateguru/
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 21. august 2019  
-
 
 ## Fordele
 
@@ -39,6 +40,14 @@ cta_url: /go/estateguru/
 For alle os, som investerer under €250 pr lån, er autoinvestor desværre meget begrænset. Man det er muligt at benytte de udvidede filtre, selvom man kun investerer mindre beløb.
 Det gøres ved at ændre minimumsbeløbet til €250 og herefter aktivere "Invest all funds available". Derved investeres også kontantbeløb mellem €50 og under €250. Jeg har fx lige fået autoinvesteret €87, som stod på kontoen. Det fungerer ganske godt, hvis man vil geninvestere renter og afdrag og samtidig frasortere lån med fx høj LTV.
 ... bare husk evt. at ændre minimusbeløbet, inden du indbetaler større beløb til kontoen.
+
+## Skat ved crowdlending på EstateGuru
+
+EstateGuru er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra EstateGuru. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/estateguru-tax.png" caption="Sådan finder du årsopgørelsen på EstateGuru" alt="årsopgørelse skat estateguru" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ### August
 

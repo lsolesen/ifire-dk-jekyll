@@ -6,6 +6,7 @@ header:
 tags:
   - crowdlending
   - Holland
+  - udenlandsk crowdlending
 excerpt: "På Lendahand kan du investere i udviklingsprojekter i Afrika og Mongoliet. Opererer fra Holland."
 last_modified_at: 2019-06-22T00:00:00+08:00
 deal:
@@ -18,6 +19,7 @@ deal:
     btn_class: "btn--success"
 first_investment_at: 2019-06-22T10:00:00+08:00
 cta_url: /go/lendahand/
+country: Holland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -55,6 +57,14 @@ Der er ikke så meget data endnu, og jeg er lige gået ind i investeringen, men 
 - Det tager lidt tid, inden der tikker renter ind, fx har jeg investeret i juni 2019, men der kommer ikke afkast i år på investeringerne.
 
 [Tilmeld dig Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning}
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/lendahand-tax.png" caption="Sådan finder du årsopgørelsen på Lendahand" alt="årsopgørelse skat lendahand" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

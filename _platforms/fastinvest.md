@@ -7,10 +7,12 @@ tags:
   - crowdlending
   - England
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Hos FastInvest investerer du i forbrugslån - og de kortsigtede lån kan give op til 14% årligt."
 last_modified_at: 2019-09-01T12:54:00+08:00
 first_investment_at: 2019-02-18T10:00:00+08:00
 cta_url: /go/fastinvest/
+country: England
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -27,6 +29,14 @@ cta_url: /go/fastinvest/
 ## Ulemper
 
 - Viser ikke præcist hvem deres _loan originators_ er.
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/fastinvest-tax.png" caption="Sådan finder du årsopgørelsen på FastInvest" alt="årsopgørelse skat fastinvest" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Marts
 

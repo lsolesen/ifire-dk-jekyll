@@ -7,6 +7,7 @@ tags:
   - crowdlending
   - ejendomme
   - England
+  - udenlandsk crowdlending
 excerpt: "Hos Kuflink investerer du ejendomme og ejendomsudvikling i Storbritanien og England."
 last_modified_at: 2019-08-21T12:54:00+08:00
 platform:
@@ -14,6 +15,7 @@ platform:
   twofactorauth: no
 first_investment_at: 2019-08-21T10:00:00+08:00
 cta_url: /go/kuflink/
+country: England
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -35,6 +37,14 @@ cta_url: /go/kuflink/
 - Renten betales årligt i stedet for månedligt eller dagligt.
 - Knap så mange lån på platformen.
 - Du skal have en UK-bankkonto (hvilket ikke er noget problem, hvis du bruger [Revolut\*](/go/revolut/))
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+{% include figure image_path="/assets/images/skat/kufling-tax.png" caption="Sådan finder du årsopgørelsen på Kuflink" alt="årsopgørelse skat kuflink" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ### August
 
