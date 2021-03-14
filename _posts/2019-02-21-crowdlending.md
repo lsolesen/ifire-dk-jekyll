@@ -11,15 +11,13 @@ excerpt: "Crowdlending er i vækst - og et marked, hvor du kan få tocifrede afk
 
 {% include disclosure.html %}
 
-{% include crowdlending-warning.html %}
-
 Det bliver mere og mere populært at investere i udlån af penge til private og virksomheder. Og der er efterhånden rigtig mange gode platform, hvor du kan komme i gang. Afkastet på platformene slår ofte aktier og kan også være tocifret, så det kan være en attraktiv måde at investere sine penge på.
 
 Jeg overvejer stadig, hvor meget crowdlending skal være af min samlede portefølje, men jeg har efterhånden investeret i mere end 10 forskellige platforme med hver deres fordele og ulemper.
 
 > Crowdlending is the practice of lending money to individuals or businesses through online services that match lenders with borrowers. 
-> 
-> \- [Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer_lending)
+
+--- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer_lending)</cite>
 
 Det er ikke længere kun bankerne, der låner penge ud. Det er der også mange andre platforme, der gør, og du kan være med til at låne de penge ud.
 
@@ -33,7 +31,7 @@ Men efter at have gennemgået min økonomi lidt nærmere, så har jeg besluttet 
 
 ## Mine første fejl
 
-Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu, og jeg kan godt være lidt utålmodig. 
+Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu. 
 
 - **Vælg den rigtige valuta.** Jeg fik derfor overført et stort beløb til Mintos i DKK, men der er ikke særlig mange forskellige låneudbydere, så lige nu er jeg ved at få pengene konverteret over til EUR, hvor der er mange flere låneudbydere.
 
@@ -59,18 +57,18 @@ Følgende platforme er svære at komme uden om, når man kigger på ovenstående
 
 - **[Mintos](/go/mintos)** Det er den største i Europa. Der er mulighed for stor divercificering, hvis du investerer i Euro, og deres sekundære marked fungerer rigtig godt, hvor du bl.a. Også kan bruge _auto invest_.
 - **[Bondora Go&Grow](/go/bondora/)**. Med deres Go&Grow-koncept har du til en pæn rente på 6,75% høj likviditet, hvor du ret hurtigt kan få pengene ud igen.
-- **[Grupeer](/go/grupeer/)**. Hos Grupeer kan du både investere i lån, men du kan også investere i ejendomsudvikling, som gør platformen relativt alsidig.
 
 Jeg har oprettet profiler på en del platforme efterhånden, og [jeg deler mine erfaringer med de forskellige platforme løbende](/platforme/).
 
 Der er også nogle danske platforme, fx [Flexfunding](/go/flexfunding/). De giver ikke helt samme mulighed for divercificering og høje afkast endnu.
+
 ## Skat af crowdlending
 
 Du bliver beskattet af renterne, du tjener på crowdlending. Du skal være opmærksom på, hvordan de skal indberettes til Skat - især hvis platformene er udenlandske. Indtægterne bliver altså beskattet som kapitalindkomst. Hvor høj procenten er på kapitalindkomst afhænger af din øvrige økonomi.
 
-Du kan også fratrække tab, men vær opmærksom på, at der er en bagatelgrænse og krav til dokumentation.
+Du kan også fratrække tab, men vær opmærksom på, at der er en bagatelgrænse og krav til dokumentation, når du skal fratrække tab på crowdlending.
 
-## Hvad med fremtiden?
+## Hvad med fremtiden for crowdlending?
 
 Jeg vil primært forsøge at holde hvert enkelt lån på et mindre beløb, men til gengæld have mange lån for at mindske risikoen. Men over tid bliver det også vigtigt for mig, hvor automatisk setuppet kan være. 
 

@@ -67,6 +67,14 @@ I øjeblikket har jeg 51 lån på Flexfunding. Flexfunding skriver at _Gennemsni
 
 Min samlede interne rente siden jeg startede mine investeringer på Flexfunding er imidlertid kun 4,39% (her pr. maj 2020), og det er ikke fordi jeg kun har valgt lån med lave renter. Samlet set har jeg betalt 1.581 DKK i gebyrer på platformen, og så har jeg også nogle nødlidende lån. Det er helt sikkert ikke regnet med i Flexfundings vægtede rentegennemsnit.
 
+## Skat af crowdlending hos Flexfunding
+
+Flexfunding har indberetningspligt til Skat. Derfor indrapporteres din renteindtægter automatisk til Skat. Det fremgår også af den årsopgørelse, du let kan downloade fra Flexfunding.
+
+{% include figure image_path="/assets/images/skat/flexfunding-tax.png" caption="Flexfunding indberetter automatisk renteindtægter til Skat" alt="Flexfunding skat af crowdlending" %}
+
+Jeg har skrevet en guide til indrapportering af [skat af dansk og udenlandsk crowdlending](/skat-af-dansk-udenlandsk-crowdlending/), hvis du vil vide, hvordan de andre platforme håndterer Skat.
+
 ## Mine erfaringer med Flexfunding
 
 ### Februar 2017

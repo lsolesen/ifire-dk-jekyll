@@ -63,6 +63,14 @@ Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% 
 
 Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
 
+## Skat af crowdlending hos Kameo
+
+Kameo [skriver](https://www.kameo.dk/blog/Saadan-indberetter-du-renteindtaegter-til-SKAT), at Kameo automatisk indrapporterer Skat fra 2020 og frem. Det står også på den årsopgørelse, du let kan downloade fra Kameo. Jeg går ud fra, at den automatiske indberetning også gælder for de norske og svenske lån.
+
+{% include figure image_path="/assets/images/skat/kameo-tax.png" caption="Kameo indberetter automatisk renteindtægter til Skat" alt="Kameo skat af crowdlending" %}
+
+Jeg har skrevet en guide til indrapportering af [skat af dansk og udenlandsk crowdlending](/skat-af-dansk-udenlandsk-crowdlending/), hvis du vil vide, hvordan de andre platforme håndterer Skat.
+
 ## Min erfaring med Kameo
 
 ### Marts 2019
