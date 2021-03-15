@@ -7,18 +7,20 @@ tags:
   - crowdlending
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Iuvo opererer i Estland og giver lån til private - primært forbrugslån."
 last_modified_at: 2019-06-04T10:38:00+08:00
 first_investment_at: 2019-05-21T10:00:00+08:00
 toc: true
 cta_url: /go/iuvo/
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 21. maj 2019
 
-## Fordele
+## Fordele ved Iuvo Group
 
 - Mange lån - fra 5-15% rente
 - 5 lånetyper, 4 lande, 7 låneudbydere
@@ -30,7 +32,7 @@ cta_url: /go/iuvo/
 - En del information på hver enkelt lån
 - Mulighed for at få **30 EUR på 1000 EUR investering i signup bonus** (skriv til {{ site.email }}, hvis du vil have en _referral_ invitation)
 
-## Ulemper
+## Ulemper ved Iuvo Group
 
 - _Autoinvest_ kan forbedres
 - Man kan ikke let læse mere information om den enkelte låneudbyder (jeg har i hvert fald ikke fundet det)
@@ -40,6 +42,16 @@ cta_url: /go/iuvo/
 
 [Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}
 
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
+{% include figure image_path="/assets/images/skat/iuvo-tax.png" caption="Sådan finder du årsopgørelsen på Iuvo" alt="årsopgørelse skat iuvo" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+
 ## Autoinvest
 
 _Auto invest_ fungerer lidt mærkeligt på Iuvo. Først investeres i den senest oprettede eller redigerede _auto investor_, som står nederst på listen. Så investeres der i 10 lån, hvorefter den går videre til den næste i rækken. Så sørg for, at du har dem i den rækkefølge, du gerne vil have at den skal starte investeringerne i.
@@ -47,8 +59,8 @@ _Auto invest_ fungerer lidt mærkeligt på Iuvo. Først investeres i den senest 
 Iuvo skriver, at årsagen til, at den springer videre til næste autoinvestor er:
 
 > ... in order for our investors to be able to diversify their investments when creating specific portfolios with low, mid and high risk. ... This is a business decision and our software is made this way.
->
-> \- Adiran Baev, Customer Support på chat 4. juni 2019
+
+--- <cite>Adiran Baev, Customer Support på chat 4. juni 2019</cite>
 
 Jeg svarede ham, at jeg synes investorerne skulle tage den beslutning selv. Iuvo lovede at tage det med i overvejelserne i fremtidige opdateringer.
 

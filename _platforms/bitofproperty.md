@@ -13,6 +13,7 @@ last_modified_at: 2020-01-06T00:00:00+08:00
 first_investment_at: 2019-06-14T10:00:00+08:00
 cta_url: /go/bitofproperty/
 exit_message: "velfungerende platform, men er på for mange platforme"
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -21,9 +22,23 @@ exit_message: "velfungerende platform, men er på for mange platforme"
 
 {{ page.excerpt }}
 
-## Fordele
+## Fordele ved BitOfProperty
 
 - Giver renter for udlejning
+
+## Ulemper ved BitOfProperty
+
+- En del processer hos BitOfProperty er manuelle. De arbejder dog rimelig hurtigt.
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Bitofproperty gør det relativt let at få fat i en årsrapport, men du skal først klikke på "Request tax report", og så skal de manuelt generere den.**
+
+{% include figure image_path="/assets/images/skat/bitofproperty-tax.png" caption="Sådan finder du årsopgørelsen på Bitofproperty" alt="årsopgørelse skat bitofproperty" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investeret og værdi
 

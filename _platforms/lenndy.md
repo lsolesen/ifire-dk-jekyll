@@ -7,15 +7,27 @@ tags:
   - crowdlending
   - Estland
   - Østeuropa
+  - udenlandsk crowdlending
 excerpt: "Crowdlending firma fra Estland, hvor du kan investere i forbrugslån til private. En noget mindre udgave af Mintos." 
 last_modified_at: 2019-03-24T00:00:00+08:00
 first_investment_at: 2019-05-21T10:00:00+08:00
 cta_url: /go/lenndy/
+country: Letland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
 **Første investeringsdato**: 21. maj 2019
+
+## Skat ved crowdlending på {{ page.title }}
+
+{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
+{% include figure image_path="/assets/images/skat/lenndy-tax.png" caption="Sådan finder du årsopgørelsen på Lenndy" alt="årsopgørelse skat lenndy" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## September 2019
 

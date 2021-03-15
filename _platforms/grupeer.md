@@ -41,6 +41,8 @@ Er Grupeer et scam - eller er det bare ramt af Corona. Tjek opdateringen under m
 
 Selvom Grupeer har store problemer i øjeblikket, så vil jeg mene, at det er nødvendigt at indberette indtjeningen. Men her skal du nok have fat i en revisor for at få et præcist svar.
 
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
 {% include figure image_path="/assets/images/skat/grupeer-tax.png" caption="Sådan finder du årsopgørelsen på Grupeer" alt="årsopgørelse skat grupeer" %}
 
 Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).

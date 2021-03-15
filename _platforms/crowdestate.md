@@ -32,6 +32,8 @@ Crowdestate er en fin platform, hvis du gerne vil investere i udviklingsprojekte
 
 Crowdestate er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Crowdestate. Du kan relativt let på platformen finde din årsopgørelse.
 
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
 {% include figure image_path="/assets/images/skat/crowdestate-tax.png" caption="Sådan finder du årsopgørelsen på Crowdestate" alt="årsopgørelse skat crowdestate" %}
 
 Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).

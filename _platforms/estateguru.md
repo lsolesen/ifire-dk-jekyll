@@ -45,6 +45,8 @@ Det gøres ved at ændre minimumsbeløbet til €250 og herefter aktivere "Inves
 
 EstateGuru er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra EstateGuru. Du kan relativt let på platformen finde din årsopgørelse.
 
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
 {% include figure image_path="/assets/images/skat/estateguru-tax.png" caption="Sådan finder du årsopgørelsen på EstateGuru" alt="årsopgørelse skat estateguru" %}
 
 Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).

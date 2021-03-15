@@ -25,7 +25,7 @@ country: England
 **Note:** Når du skal tilmelde dig, bliver du bedt om at sende et billede af dit pas eller kørekort med e-mail til dem. Det er knap så tjekket som mange andre platforme.
 {: .notice--danger }
 
-## Fordele
+## Fordele ved Property Partner
 
 - Du køber aktier i ejendommene og får husleje.
 - Aktier i ejendomme er typisk ret billige, hvilket gør at det er let at få en diversificeret portefølje. 
@@ -33,7 +33,7 @@ country: England
 - De har en (relativt dyr) auto invest (som de naturligvis også tager et begyr for)
 - Platformen er let og overskuelig at bruge.
 
-## Ulemper
+## Ulemper ved Property Partner
 
 - Autoinvest koster mindst 1000 £ og der er gebyr for at have den
 - Gebyr på 1 £ om måneden for at være på platformen
@@ -44,6 +44,8 @@ country: England
 ## Skat ved crowdlending på {{ page.title }}
 
 {{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
 
 {% include figure image_path="/assets/images/skat/propertypartner-tax.png" caption="Sådan finder du årsopgørelsen på Propery Partner" alt="årsopgørelse skat propertypartner" %}
 

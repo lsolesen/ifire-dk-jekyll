@@ -20,12 +20,12 @@ country: Estland
 
 **Første investeringsdato**: 26. februar 2019
 
-## Fordele
+## Fordele ved Reinvest24
 
 - Giver udbytte i form af husleje
 - Platformen er let at bruge
 
-## Ulemper 
+## Ulemper ved Reinvest24
 
 - 2% investeringsgebyr burde i stedet være indregnet i renten.
 - Ikke så ofte nye projekter
@@ -38,6 +38,8 @@ country: Estland
 ## Skat ved crowdlending på {{ page.title }}
 
 {{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
 
 {% include figure image_path="/assets/images/skat/reinvest24-tax.png" caption="Sådan finder du årsopgørelsen på reinvest24" alt="årsopgørelse skat reinvest24" %}
 
