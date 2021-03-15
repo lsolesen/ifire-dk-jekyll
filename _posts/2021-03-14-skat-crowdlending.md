@@ -67,7 +67,7 @@ Indtægterne fra den udenlandske crowdlending skal indberettes som "Udenlandsk i
 
 Derefter skulle jeg i gang med et større indberetningsarbejde, da jeg har investereret i mange forskellige crowdlending-platforme. Du skal nemlig opgøre, hvilke lande du har penge stående i, og hvilke lande du modtager renter fra.
 
-Da jeg har flere platforme i de samme lande, så har jeg lavet et regneark, som kan summere det hele sammen for mig. I praksis er jeg først gået ind på alle de udenlanske crowdlending platforme for at downloade en "income report" eller årsopgørelse. Jeg har tastet alle tingene ind i mit regneark, som så summerer tallene sammen for det enkelte land.
+Da jeg har flere platforme i de samme lande, så har jeg lavet et [regneark](https://docs.google.com/spreadsheets/d/1ydVWmgXqvu8T47ed5KW8nKI2svOML7Ypsb07Z8zcqHE/copy?usp=sharing), som kan summere det hele sammen for mig. I praksis er jeg først gået ind på alle de udenlanske crowdlending platforme for at downloade en "income report", "tax report" eller hvad de nu kalder deres årsopgørelse. Jeg har tastet alle tingene ind i mit regneark, som så summerer tallene sammen for det enkelte land. Det er relativt let at lave i Google Sheets. Du kan kigge i mit [regneark](https://docs.google.com/spreadsheets/d/1ydVWmgXqvu8T47ed5KW8nKI2svOML7Ypsb07Z8zcqHE/copy?usp=sharing), hvis du vil have inspiration.
 
 De fleste platforme har heldigvis en ret enkel måde at finde årsopgørelserne på. Læs hele artiklen til ende, så har jeg lavet en liste over, hvordan man gør det på alle de platforme, jeg investerer i.
 
