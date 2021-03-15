@@ -1,5 +1,5 @@
 ---
-title: &title "Skat af indkomst fra dansk og udenlandsk crowdlending?"
+title: &title "Skat af indkomst fra dansk og udenlandsk crowdlending 2020?"
 seo_title: "Skat af indkomst fra dansk og udenlandsk crowdlending »"
 description: "Guide til indberetning af renteindtægter fra dansk og udenlandsk crowdlending som kapitalindkomst på selvangivelsen. Komplet med screenshots og rubrikker."
 last_modified_at: 2021-03-14T09:20:02+02:00
@@ -51,6 +51,10 @@ Når du er logget ind på skat.dk kan du tjekke dine beløb i "Rubrik 19: Rentei
 
 Når du investerer i udenlandsk crowdlending er skat desværre ikke helt så let som de danske platforme. Skats vejledning forklarer det ikke helt. Derfor har jeg forsøgt at samle min forståelse af, hvordan du indberetter renteindtægterne af udenlandsk crowdlending som udenlandsk kapitalindkomst.
 
+> Hvis du som låntager eller långiver benytter dig af en virksomhed (platform), som ikke hører til eller driver virksomhed fra et fast driftssted her i landet, skal du selv oplyse renterne. Du oplyser renteudgifterne i rubrik 44 og renteindtægterne i rubrik 39 på din årsopgørelse.
+
+--- <cite>[Skat.dk](https://www.skat.dk/SKAT.aspx?oId=2234858)</cite>
+
 Du skal i gang med lidt manuelt arbejde for at indberette indtægterne fra den udenlanske crowdlending. Heldigvis leverer de fleste platforme informationerne relativt let. Desuden har jeg sammensat en skabelon i Google Sheets som du kan bruge til at udregne, hvad du skal sætte i de forskellige rubrikker på årsopgørelsen hos Skat.
 
 ## Skal jeg indberette beløbet på mine crowdlending platforme?
@@ -79,7 +83,7 @@ Fx er [Mintos](/platform/mintos/) placeret i Letland. Derfor gør du følgende p
 
 {% include figure image_path="/assets/images/skat/renter-crowdlending-land.png" caption="Indtægterne for udenlandsk crowdlending skal opgøres pr. land" alt="crowdlending land årsopgørelse" %}
 
-Derefter skal du indberette dine renteindtægter af dine crowdlending indtægter, samt hvor meget du har **indestående hos din crowdlending platform i rubrik 492**. Det indestående er summen af indestående kontanter og værdien af gældsbeviser. 
+Derefter skal du indberette dine renteindtægter af dine crowdlending indtægter, samt hvor meget du har **indestående hos din crowdlending platform i rubrik 492**. Det indestående er summen af indestående kontanter og værdien af gældsbeviser den 31. december det pågældende år. 
 
 {% include figure image_path="/assets/images/skat/renter-formue-skat.png" caption="Crowdlending fra udlandet beskattes som renteindtægter" alt="crowdlending beskatning udland renter årsopgørelse" %}
 

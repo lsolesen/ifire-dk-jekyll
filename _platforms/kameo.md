@@ -65,7 +65,7 @@ Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner ståend
 
 ## Skat af crowdlending hos Kameo
 
-Kameo [skriver](https://www.kameo.dk/blog/Saadan-indberetter-du-renteindtaegter-til-SKAT), at Kameo automatisk indrapporterer Skat fra 2020 og frem. Det står også på den årsopgørelse, du let kan downloade fra Kameo. Jeg går ud fra, at den automatiske indberetning også gælder for de norske og svenske lån.
+Kameo [skriver](https://www.kameo.dk/blog/Saadan-indberetter-du-renteindtaegter-til-SKAT), at Kameo automatisk indrapporterer Skat fra 2020 og frem. Det står også på den årsopgørelse, du let kan downloade fra Kameo. Det ser ud til, at de norske og svenske lån også automatisk bliver indberettet af Kameo.
 
 {% include figure image_path="/assets/images/skat/kameo-tax.png" caption="Kameo indberetter automatisk renteindtægter til Skat" alt="Kameo skat af crowdlending" %}
 
