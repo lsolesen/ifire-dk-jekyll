@@ -29,6 +29,7 @@ country: England
 ## Ulemper
 
 - Viser ikke præcist hvem deres _loan originators_ er.
+- Der er i øjeblikket ved at blive [lagt sag an mod FastInvest](https://p2p.holdings/p2p-lawsuits)
 
 ## Skat ved crowdlending på {{ page.title }}
 

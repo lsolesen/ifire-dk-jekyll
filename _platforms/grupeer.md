@@ -16,7 +16,7 @@ toc: true
 country: Irland
 ---
 
-Er Grupeer et scam - eller er det bare ramt af Corona. Tjek opdateringen under marts.
+Er Grupeer et scam - eller er det bare ramt af Corona. Tjek opdateringen under marts. Der er i øjeblikket ved at blive [lagt sag an mod Grupeer](https://p2p.holdings/p2p-lawsuits).
 {: .notice .notice--danger }
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}

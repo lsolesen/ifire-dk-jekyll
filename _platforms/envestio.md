@@ -20,6 +20,8 @@ exit_message: viste sig at være et svindelnummer
 
 ## Envestio var et svindelnummer
 
+Der er i øjeblikket ved at blive [lagt sag an mod Envestio](https://p2p.holdings/p2p-lawsuits).
+
 ### Januar 2020
 
 Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/). 
