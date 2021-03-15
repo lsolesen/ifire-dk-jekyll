@@ -12,6 +12,7 @@ last_modified_at: 2019-08-31T00:08:00+08:00
 first_investment_at: 2019-03-06T10:00:00+08:00
 toc: true
 cta_url: /go/crowdestor/
+country: Estland
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -30,6 +31,16 @@ cta_url: /go/crowdestor/
 
 - Ingen _auto invest_
 - Kun en låneudbyder
+
+## Skat ved crowdlending på Crowdestor
+
+Crowdestor er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Crowdestor. Du kan relativt let på platformen finde din årsopgørelse.
+
+**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+
+{% include figure image_path="/assets/images/skat/crowdestor-tax.png" caption="Sådan finder du årsopgørelsen på Bulkestate" alt="årsopgørelse skat crowdestor" %}
+
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Investering og værdi af investering
 

@@ -42,14 +42,14 @@ deal:
 
 {% include figure image_path=page.header.teaser caption=page.excerpt %}
 
-## Fordele
+## Fordele ved The Many (tidl. Brickshare)
 
 - Dansk crowdlending hvor du bliver husejer og får huslejeindtægt.
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
 - Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
 
-## Ulemper
+## Ulemper ved The Many (tidl. Brickshare)
 
 - Afkast kommer først, når projektet er finansieret og der er kommet lejere i bygningen.
 - Der er ikke så mange nye projekter, og selvom jeg er skrevet op på ventelisten til alle projekter, så er jeg endnu ikke blevet tilbudt en plads.
@@ -76,6 +76,10 @@ På The Many køber man sig ind i en ejerforening af de enkelte projekter, som j
 Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for nøjagtigt et år siden i _Nordvest, Nørrebros hippe nabo_-projektet med 50.000 DKK og har fået 441,64 DKK udbetalt i første udbytte. Det svarer til 0,8% i afkast på et projekt, der lover 3-4% i udbytte om året. Årsagen til det lave udbytte er naturligvis, at jeg skulle indbetale pengene inden projektet reelt gik i gang, og derfor dækker udbyttet en noget kortere del af året.
 
 Derfor er det også en stor forbedring, at man nu kan reservere andele i projekterne uden at skulle betale pengene med det samme. Det har jeg udnyttet med deres nyeste projekt.
+
+## Skat og The Many
+
+The Many er dog aktieindkomst og indberettes som sådan. 
 
 ## Mine erfaringer
 
