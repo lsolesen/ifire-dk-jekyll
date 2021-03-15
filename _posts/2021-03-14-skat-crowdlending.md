@@ -115,6 +115,8 @@ Det er relativt enkelt at have med skat og dansk crowdlending at gøre, men der 
 
 Hvis du følger denne guide, så kan du gøre det relativt hurtigt. Det hjælper at være lidt struktureret omkring indberetningerne. Jeg har lavet en guide til, hvordan du hurtigst muligt selv finder de oplysninger, du skal indberette under alle de platforme, jeg investerer i.
 
+## Hvor finder jeg årsopgørelserne for de udenlandske crowdlending platforme?
+
 Hvis du gerne vil vide, hvordan du finder årsopgørelserne og tallene til brug for indberetning af udenlandsk crowdlending, så kan du klikke ind på de enkelte platforme her.
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "udenlandsk crowdlending" | where_exp: "post", "post.url != page.url" | sort: "date" %}
