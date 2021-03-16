@@ -48,8 +48,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 <iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=123565987&amp;format=image"></iframe>
 
-## Transactions
-
-<iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=538096516&amp;format=image"></iframe>
-
 [Bulkestate\*](/go/bulkestate/){: .btn .btn--large .btn--warning}
