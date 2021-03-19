@@ -73,9 +73,9 @@ Min samlede crypto-portefølje er stadig lidt i bero, så længe niveauerne er s
 
 ## Opsparing og kontant
 
-Min kontante opsparing står hos [LunarWay\*](/go/lunarway/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
 
-[Opret LunarWay og få 50DKK gratis\*](/go/lunarway/){: .btn .btn--large .btn--success} 
+{% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
 
 ## Passiv indtægt
@@ -83,7 +83,5 @@ Min kontante opsparing står hos [LunarWay\*](/go/lunarway/), som nu giver **4% 
 Jeg har skrevet en [kort opfølgning på projektet med passiv indtægt gennem referral- og affiliate-marketing](/projekt-referral-affiliate-august-2019/). Der kan du finde tallene lidt mere udspecificeret, men igen er indtægten ret beskeden for august på **84,95 DKK**.
 
 Jeg forsøger at blive Amazon affiliate, men mangler stadig at lave tre affiliate salg i løbet af de frøste tre måneder. Hvis du lige står og skal købe noget på Amazon, så brug meget gerne mit affiliate banner nedenunder.
-
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=amazonhomepage&f=ifr&linkID=4af25240d3a69d79c76f0454a97b6416&t=ifire00-20&tracking_id=ifire00-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 {% include disclaimer.md %}

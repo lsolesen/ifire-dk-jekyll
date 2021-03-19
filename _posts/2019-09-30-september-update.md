@@ -134,9 +134,10 @@ Jeg har købt nogle træer [i Better Globe](/platform/betterglobe/). Lige nu inv
 
 ### Kontant
 
-Min kontante opsparing står hos [LunarWay\*](/go/lunarway/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
 
-[Opret LunarWay og få 50DKK gratis\*](/go/lunarway/){: .btn .btn--large .btn--success} 
+{% include cta-redirect title="Lunar" class="success" %}
+
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
 
 ### Guld og sølv

@@ -119,7 +119,7 @@ Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar\*](/go/lunar/).
 
 Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
 
-[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+{% include cta-redirect title="Lunar" class="success" %}
 
 [Curve\*](/go/curve/) er stadig mit foretrukne betalingskort. I praksis er det en overbygning på alle dine andre kort, så du i den medhørende app selv kan bestemme, hvilket kort og konti pengene reelt trækkes på. Det er en form for Mobile Pay i form af et betalingskort. Og så kan man relativt let _go back in time_, hvis man får lavet købet på det forkerte kort. Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/curve/).
 

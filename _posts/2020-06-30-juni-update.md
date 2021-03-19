@@ -116,7 +116,7 @@ Men jeg skal bruge flere konti, og jeg vil ikke betale for Premium-Lunar. Jeg ha
 
 Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
 
-[Få Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+{% include cta-redirect title="Lunar" class="success" %}
 
 Jeg havde i denne måned lidt udfordringer med mit [Curve\*](/go/curve) kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
 

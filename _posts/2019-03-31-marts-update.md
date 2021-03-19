@@ -99,15 +99,15 @@ I fremtiden vil jeg formentlig skærpe min portefølje lidt, men nu vil jeg se, 
 
 Jeg er ret interesseret i, [hvordan jeg kan gøre mine investeringer lidt mere bæredygtige](/etik-baeredygtighed-investeringer/) - og en af de måder jeg er blevet interesseret i er [Better Globe\*](http://www.passivindkomst.nu/better-globe/).
 
-I den forbindelse stødte jeg også på [COOPs crowdfunding projekter](https://crowdfunding.coop.dk/projects), hvilket er lidt sjovt, for deres platform leveres af danske Lendino, som netop er [et af de projekter](https://www.funderbeam.com/syndicate/lendino) hos [Funderbeam*](/go/funderbeam/), jeg har budt på.
+I den forbindelse stødte jeg også på [COOPs crowdfunding projekter](https://crowdfunding.coop.dk/projects), hvilket er lidt sjovt, for deres platform leveres af danske Lendino, som netop er [et af de projekter](https://www.funderbeam.com/syndicate/lendino) hos [Funderbeam\*](/go/funderbeam/), jeg har budt på.
 
 [Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
 
 ## Opsparing og kontant
 
-Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [LunarWay\*](/go/lunarway/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
+Efter salget af min samlede værdipapir-portefølje har jeg en stor del i kontant. Jeg har sat pengene ind på hhv. [Lunar\*](/go/lunar/), hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Det er naturligvis ikke hensigten at midlerne skal blive her alt for længe, men jeg vil i fremtiden have en lidt større likvid opsparing, så jeg har en nødopsparing og hurtigere kan investere.
 
-[Opret Lunar<del date="2019-10-03T09:16:18+02:00">Way</del> og få 50DKK*](/go/lunarway/){: .btn .btn--large .btn--info}
+{% include cta-redirect title="Lunar" class="success" %}
 
 ### Guld og sølv
 
