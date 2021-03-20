@@ -1,7 +1,8 @@
 ---
-title: "Etoro - copytrading og kurtagefri aktiehandel"
-permalink: /etoro-anmeldelse/
-last_modified_at: 2019-12-31T20:20:00+08:00
+title: "Etoro: Copytrading og kurtagefri aktiehandel og skat"
+redirect_from: /etoro-anmeldelse/
+permalink: /etoro-copytrading-skat/
+last_modified_at: 2021-03-31T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
   teaser: /assets/images/logo/etoro.png
@@ -16,10 +17,13 @@ tags:
   - råvarer
   - copy trading
   - værdipapirer
+description: På Etoro handler du med mange forskellige typer værdipapirer. Jeg har kigget på platformen og dykket ned i, hvordan det hænger sammen med Etoro og skat.
 excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
 ---
 
 Jeg er blevet interesseret i Etoro, fordi man kan lave _copy trading_ på platformen. I _copy trading_ kopierer du andre tradere. Jeg har ambitioner om, at mine investeringer følger markedet for størstedelen af min portefølje. Men det er også tillokkende at kunne slå markedet. Jeg har ikke tid eller tålmodighed til at sidde og _trade_ ofte. Derfor er det interessant at kunne følge andre tradere, der hele tiden forsøger at slå markedet og konstant skal gøre sig fortjent til at blive fulgt, fordi de kan levere et godt afkast. 
+
+## Hvad er Etoro?
 
 På Etoro kan man handle aktier (mange udenlandske aktier med _zero commision_), CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta. Flere af aktiverne kan du købe kurtagefrit, fx en del udenlandske aktier, hvis du vil i gang med at øve dig lidt, så kan Etoro altså være en god platform at starte på. Du skal være opmærksom på, hvilke gebyrer, der ellers er forbundet med handlerne på Etoro, især hvis du _gearer_ din investering. Hvis du ikke ved, hvad gearing er, så ville jeg ikke kaste mig ud i at handle selv, men blot følge nogle andre tradere. 
 
@@ -63,7 +67,7 @@ Jeg er ret opmærksom på, at der er et helt urimelig højt _hævegebyr_ på Eto
 
 Jeg overvejede egentlig også at bruge Etoro til kryptovaluta, men de opererer med ret høje _spreads_ (forskellen mellem køb og salg). Et _spread_ er i princippet et usynligt gebyr. Jeg havde ellers overvejet også at bruge Etoro til kryptovaluta, men tror jeg vil fastholde [Coinbase\*](/go/coinbase/), hvor man på deres PRO udgave handler med relativt lave gebyrer. Der er også spørgsmålet om, hvordan man får de købte coins ud i en _wallet_ - og hvad det koster.
 
-## Skat på Etoro
+## Skat på Etoro og copytrading 2021
 
 Skat bliver ikke automatisk indberettet på Etoro, fordi det ikke er en dansk platform. Du skal altså lave lidt manuelt arbejde.
 
@@ -71,29 +75,46 @@ Jeg indberetter skatten sådan her.
 
 Du skal [finde din handelshistorik](https://www.etoro.com/da-dk/customer-service/help/1195663252/hvordan-kan-jeg-se-min-handelshistorik/), hvor du kan se, hvad du har realiseret af gevinst eller tab på Etoro.
 
-Du klikker ind på din Portefølje og og klikker på ur-ikonet.
+Du klikker ind på din Portefølje og og klikker på ur-ikonet. Derefter klikker du på tandhjulet i højre hjørne og vælger "Account Statement".
 
-{% include figure image_path="https://lh4.googleusercontent.com/mp2ty25du4Whzyxre7Eah92DB6Z0rtlTzIGjQCtVubosGELlfc6abVIaFG6u8Vdh_oPsVHjSLZDQ6ODfzWfcRyDVpjSG6ANKbbmMcyErXQajYHbwVDh8_eF3yJ6AaYyiV2wV0RhGCnFCSNNjLg" caption="Se dine handler på Etoro" alt="Handler på Etoro copy trading" %}
+{% include figure image_path="/assets/images/posts/etoro-skat-account-statement.png" caption="Se dit kontoudtog på Etoro til brug for skat" alt="Handler på Etoro copy trading og skat" %}
 
-Du skal naturligvis vælge alle handlerne for hele året. Det foregår oppe i højre hjørne af skærmbilledet.
+Nu får du muligheden for at lave et kontoudtog af din Etoro konto, som du kan bruge til at finde værdierne til din årsopgørelse til Skat.
 
-Derefter kan du klikke på Kontoudtog (account statement) oppe i tandhjulet til højre. Det åbner en ny side, hvor du lige skal være opmærksom på at få findstillet datoen korrekt for at få dit kontoudtog.
+{% include figure image_path="/assets/images/posts/etoro-skat-account-statement-create.png" caption="Lav dit 'account statement' fra Etoro. Du kan selv vælge periode" alt="etoro copytrading og skat og årsopgørelse" %}
 
-På forsiden får du _Account summary_. Hvis du klikker på _Financial Summary_ i bunden af siden, så får du en oversigt over gevinst og tab fordelt på de forskellige typer af værdier, der er blevet handlet på din Etoro konto.
+Nu er du så klar til at læse din kontoopgørelse. Klik på Financial Summary.
 
-{% include figure image_path="/assets/images/etoro-account-summary.png" caption="Financial statement for Etoro" alt="Skat på Etoro" %}
+{% include figure image_path="/assets/images/posts/etoro-skat-financial-summary.png" caption="'Financial summary' på Etoro" alt="etoro financial summary skat og årsopgørelse" %}
+
+På _Financial Summary_ får du en oversigt over gevinst og tab fordelt på de forskellige typer af værdier, der er blevet handlet på din Etoro konto. Hvis tallet står i parentes på siden, så er det et tab. Ellers er det en gevinst.
 
 Husk at beløbene er i USD, så de skal lige omregnes til dansk og sættes ind i de rigtige rubrikker på årsopgørelsen.
 
-Ifølge [invested.dk](https://www.invested.dk/guides/indberetning-til-skattestyrelsen-og-udfyldelse-af-selvangivelse) skal man med udenlandske aktier og investeringsbeviser i udenlandsk depot - som Etoro jo er - oplyse udbytte i de relevante rubrikker for "Udenlandske aktier og investeringsbeviser". Du skal også husk at oplyse de land Etoro er hjemmehørende i.
+Ifølge [invested.dk](https://www.invested.dk/guides/indberetning-til-skattestyrelsen-og-udfyldelse-af-selvangivelse) skal man med udenlandske aktier og investeringsbeviser i udenlandsk depot - som Etoro jo er - oplyse udbytte i de relevante rubrikker for "Udenlandske aktier og investeringsbeviser". Du skal også huske at oplyse de land Etoro er hjemmehørende i. Jeg har angivet at Etoro er hjemmehørende på Cypern.
 
-Gevinst og tab på børsnoterede udenlandske aktier og investeringsbeviser, skal oplyses i rubrik 454.
+- Gevinst og tab på **børsnoterede udenlandske aktier og investeringsbeviser**, skal oplyses i rubrik 454.
+- Den **samlede formueværdi for aktier** mv. ultimo året for det land, hvor brokeren er hjemmehørende, skal oplyses i rubrik 490 (Kursværdi af aktier i udenlandsk depot og investeringsforeningsbeviser i udlandet).
 
-Den samlede formueværdi for aktier mv. ultimo året for det land, hvor brokeren er hjemmehørende, skal oplyses i rubrik 490 (Kursværdi af aktier i udenlandsk depot og investeringsforeningsbeviser i udlandet).
+## Hvordan betaler du skat af CFD'er på Etoro?
 
-Husk at skat på Etoro er dit ansvar at få oplyst rigtigt til Skat.
+> Indberetningsmæssigt betragtes alle syntetiske CFD - kontrakter som aktiebaserede uanset det underliggende aktiv.
 
-## Min fremtid på Etoros copytrading?
+--- <cite>[Skat.dk](https://skat.dk/skat.aspx?oid=2277150)</cite>
+
+CFD'erne skal altså lægges til beløbet for aktier.
+
+## Hvordan betaler du skat af kryptovaluta på Etoro?
+
+Hvis du på Etoro også har købt kryptovaluta er reglerne lidt indviklede. [Skat](https://skat.dk/skat.aspx?oid=8953) skriver om det her. Jeg har brugt Skats måde at opgive kryptovaluta på, selvom de er købt på en international broker.
+
+## Hvordan indberetter jeg _commisions (spread)_ på Etoro?
+
+Jeg har indberettet kommisionerne fra Etoro som kapitalindkomst på samme måde, som jeg gør, når jeg indberetter [skat fra crowdlending]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+
+Husk at skat på Etoro er dit ansvar at få oplyst rigtigt til Skat. Jeg er ikke revisor, så det her er mit bedste bud på, hvordan du skal opgive skat fra Etoro baseret på de forskellige værdipapirtyper.
+
+## Min fremtid på Etoros copytrading og kurtagefri aktiehandel?
 
 Jeg vil aktivt det næste års tid bruge Etoro til _copy trading_ for at se, hvilken intern rente jeg kan skabe her. Jeg vil formentlig sætte lidt flere penge ind, men hvis dollarkursen falder meget på et tidspunkt, vil jeg nok gå endnu mere aktivt ind på platformen (som jo er i USD).
 

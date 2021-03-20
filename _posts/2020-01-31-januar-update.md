@@ -107,7 +107,7 @@ Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/
 
 Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), og jeg venter spændt på, hvad de vil tilbyde i fremtiden. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
 
-[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success } 
+{% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }
 [Smart Bankapp med Curve\*](/go/curve/){: .btn .btn--large .btn--default }
 

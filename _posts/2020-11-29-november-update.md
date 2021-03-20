@@ -103,7 +103,7 @@ Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med L
 
 Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
 
-[Få Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+{% include cta-redirect title="Lunar" class="success" %}
 
 Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/curve/). Der kan du få et betalingskort som overbygning på dine andre betalingskort.
 

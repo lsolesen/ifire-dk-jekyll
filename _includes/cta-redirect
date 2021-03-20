@@ -1,0 +1,5 @@
+{% assign redirects = site.redirects | where: "title", include.title %}
+{% assign class = include.class | default: "info" %}
+{% for redirect in redirects %}
+[{{ redirect.cta_label }}\*]({{ redirect.url }}){: .btn .btn--large .btn--{{ class }}}
+{% endfor %}

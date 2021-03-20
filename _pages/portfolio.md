@@ -144,7 +144,7 @@ For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskell
 
 Jeg har en indlånskonto hos [Lunar\*](/go/lunar/)<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
 
-[Opret en konto hos Lunar og få 50 DKK\*](/go/lunar/){: .btn .btn--large .btn--success }
+{% include cta-redirect title="Lunar" class="success" %}
 
 ### Opsparingskonto
 
