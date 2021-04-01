@@ -1,12 +1,12 @@
 ---
-title: "#18 juni - Tab på Flexfunding og stødt stigende"
+title: "#18 juni - Tab på Flexfunding og stødt stigende formue"
 permalink: /opdateringer/juni-2020-update/
 category:
   - Opdateringer
 tags:
   - rigdomsformularen
   - status
-excerpt: "Investeringerne kører på autopilot - og jeg er virkelig glad for overblikket fra det gratis Portfolio Performance."
+excerpt: "Investeringerne kører stadig på autopilot, tab på Flexfunding og nye investeringer i The Many."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
     alt: "Ét liv, én tid, ét menneske"

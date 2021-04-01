@@ -10,16 +10,16 @@ I marts 2019 startede jeg [mit projekt med at skabe lidt passiv indkomst ved hj�
 
 Jeg har følgende sites:
 
-- [www.larsolesen.dk](http://www.larsolesen.dk)
 - [Cykel-ruter.dk](http://www.cykel-ruter.dk)
 - [Fodboldens Legestue](http://www.legestue.net)
 - [Motionsplan.dk](http://www.motionsplan.dk)
-- [Teambuildingsøvelser](http://teambuilder.vih.dk)
+- [Teambuildingsøvelser](http://www.teambuilder.dk)
 
 Jeg bruger bl.a. følgende værktøjer:
 
 - Google Adsense
 - [Partner-Ads\*](/go/partnerads/)
+- [Ezoic\*](/go/ezoic/)
 
 ## Passiv indkomst
 
