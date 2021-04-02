@@ -39,6 +39,7 @@ Jeg har kategoriseret alle mine indkøb i Spiir, så jeg kunne hurtigt lige hent
 |2018 | 77.450 | 3.904 | 12.891 |
 | 2019 | 69.040 | 2.813 | 8.730 |
 | 2020 | 70.020 | 935 | 4.347 |
+
 Jeg brugte altså i 2018 i gennemsnit 6.454 kroner på dagligvarer og kantineordning, mens jeg i 2020 brugte 5.835 kroner. Det er altså 619 kroner sparet om måneden. Vi er en familie med 2 voksne og 3 børn.
 
 En del fastfood, take way og restaurant er blevet sparet, fordi vi **altid har madpakker med nu**.
