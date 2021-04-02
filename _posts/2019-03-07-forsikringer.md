@@ -1,8 +1,9 @@
 ---
-last_modified_at: 2019-07-16T20:22:02+02:00
-excerpt: Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt.
-permalink: /forsikringer/
 title: Tjek dine forsikringer - og spar penge
+permalink: /forsikringer/
+redirect_from:
+  - /blog/spar-penge-forsikringer/
+excerpt: Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt.
 header:
   overlay_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=80
   teaser: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=80
@@ -12,6 +13,7 @@ category:
 tags:
   - spareråd
   - forsikring
+last_modified_at: 2019-07-16T20:22:02+02:00
 sidebar:
   - text: <a
       href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507"
