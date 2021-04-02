@@ -1,15 +1,22 @@
 ---
-title: "Tjek dine forsikringer - og spar penge"
+last_modified_at: 2019-07-16T20:22:02+02:00
+excerpt: Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt.
 permalink: /forsikringer/
+title: Tjek dine forsikringer - og spar penge
+header:
+  overlay_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1900&q=80
+  teaser: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=80
+  caption: Tjek dine forsikringer - og spar penge
 category:
   - Spare penge
 tags:
   - spareråd
   - forsikring
-excerpt: "Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt."
-last_modified_at: 2019-07-16T20:22:02+02:00
 sidebar:
-  - text: '<a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625042&media_id=81507"/></a>'
+  - text: <a
+      href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507"
+      target="_blank"><img
+      src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625042&media_id=81507"/></a>
 ---
 
 Jeg tjekker jævnligt mine forsikringer igennem for at se om de stadig passer til mig og min familie. Er det stadig det samme forsikringer vi har brug for? Er jeg dobbeltforsikret fx ift. rejseforsikring, autohjælp, pension og så videre.
@@ -30,9 +37,9 @@ Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
 
 - **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/), hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det gav næsten 1100 kroner i forskel på indboforsikringen, som nu er uden rejseforsikring.
 
-- **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på. 
+- **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet (vores arbejde) til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på. 
 
-Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507) og [Findforsikring.dk](/go/pa/findforsikring/), men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
+Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507) og [Findforsikring.dk](/go/pa/findforsikring/), men kunne desværre ikke finde et billigere tilbud på min bilforsikring lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
 
 Det tog 15 minutter - men det var også en pæn besparelse på 2.900 kroner om året på forsikringer.
 
