@@ -37,15 +37,20 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false, hint: "Only change if you update redirect_from also"}
+      - {label: "Redirect from", name: "redirect_from", widget: "list", allow_add: true, hint: "Add all urls you want to redirect to this page using 301-redirects"}
+      - {label: "SEO title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO description", name: "descriptiont", widget: "text", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
       - label: Header
         name: header
         widget: object
         collapsed: true
         required: false
         fields:
-          - {label: "Overlay Image", name: "overlay_image", widget: "string"}
-          - {label: "Teaser Image", name: "teaser", widget: "string"}
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+          - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
           - label: Actions
             name: actions
             widget: list
@@ -70,7 +75,6 @@ collections:
           - {label: "Url", name: "url", widget: "string"}
           - {label: "Btn label", name: "btn_label", widget: "string"}
           - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
-      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
       - label: Gallery
         name: gallery
         widget: list
@@ -81,6 +85,7 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Sider" # Used in the UI
     folder: "_pages/" # The path to the folder where the documents are stored
@@ -121,7 +126,6 @@ collections:
           - {label: "Url", name: "url", widget: "string"}
           - {label: "Btn label", name: "btn_label", widget: "string"}
           - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
-      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
       - label: Gallery
         name: gallery
         widget: list
@@ -132,6 +136,7 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - label: "Site options"
     name: "settings"
     editor:
