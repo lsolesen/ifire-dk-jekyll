@@ -1,6 +1,5 @@
 ---
-title: "Brug Airbnb og spar penge på at rejse
-"
+title: "Brug Airbnb og spar penge på at rejse"
 permalink: /airbnb-anmeldelse/
 header:
   overlay_image: /assets/images/airbnb.jpg
