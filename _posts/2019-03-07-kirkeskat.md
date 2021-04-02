@@ -110,7 +110,7 @@ Jeg bekræftede, og så var jeg udmeldt af Folkekirken. Det kan være, at proces
 
 [Slip for kirkeskatten for 189 kroner*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning}
 
-- - -
+***
 
 ## Hvordan kan jeg ellers spare penge?
 
@@ -124,6 +124,6 @@ Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du ge
   {% endfor %}
 {% endif %}
 
-- - -
+***
 
 {% include disclaimer.md %}
