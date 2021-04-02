@@ -1,6 +1,6 @@
 ---
 title: Tjek dine forsikringer - og spar penge
-permalink: /forsikringer/
+permalink: "/forsikringer/ "
 redirect_from:
   - /blog/spar-penge-forsikringer/
 excerpt: Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt.
