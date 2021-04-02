@@ -1,7 +1,10 @@
 ---
 title: "Videre med bæredygtige investeringer i aktier og obligationer #3?"
 permalink: /investering-vol3/
-last_modified_at: 2020-03-038T09:16:18+02:00
+header:
+  caption: "Videre med bæredygtige investeringer i aktier og obligationer #3?"
+  overlay_image: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
 category:
   - Investering
 tags:
@@ -9,7 +12,9 @@ tags:
   - aktier
   - obligationer
   - bæredygtighed
-excerpt: "Hvilke bæredygtige muligheder for investeringer er der i investeringsforeninger og ETF'er?"
+last_modified_at: 2021-04-02T12:28:25+02:00
+excerpt: Hvilke bæredygtige muligheder for investeringer er der i
+  investeringsforeninger og ETF'er?
 ---
 
 *[ESG]: Environmental, Social and Governance
