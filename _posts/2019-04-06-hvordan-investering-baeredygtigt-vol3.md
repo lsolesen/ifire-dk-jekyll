@@ -10,7 +10,6 @@ tags:
   - obligationer
   - bæredygtighed
 excerpt: "Hvilke bæredygtige muligheder for investeringer er der i investeringsforeninger og ETF'er?"
-last_modified_at: 2019-07-23T10:22:02+02:00
 ---
 
 *[ESG]: Environmental, Social and Governance
