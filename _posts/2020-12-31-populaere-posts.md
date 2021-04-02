@@ -1,5 +1,6 @@
 ---
 title: &title "Populære blog posts på Ifire i 2020 🥇"
+permalink: /populaere-posts/
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1461263895214-7761d3a942de?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1984&q=80
