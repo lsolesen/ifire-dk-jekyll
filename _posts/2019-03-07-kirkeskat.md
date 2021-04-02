@@ -1,19 +1,20 @@
 ---
-title: Spar på kirkeskatten
+title: Meld dig gratis ud af Folkekirken og spar på kirkeskatten
 permalink: /kirkeskat/
 header:
   overlay_image: https://images.unsplash.com/photo-1529070538774-1843cb3265df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
   teaser: https://images.unsplash.com/photo-1529070538774-1843cb3265df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
-  caption: Spar på kirkeskatten
+  caption: Meld dig gratis ud af Folkekirken og spar på kirkeskatten
 category:
   - Spare penge
 tags:
   - spareråd
   - skat
+  - kirkeskat
 excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem
   af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde
   dig ud. "
-last_modified_at: 2021-04-02T11:36:43+02:00
+last_modified_at: 2021-04-02T12:20:28+02:00
 ---
 Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud og derved spare kirkeskat. 
 
