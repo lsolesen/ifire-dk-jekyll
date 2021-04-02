@@ -1,33 +1,34 @@
-# main links
 main:
-  - title: "Opdateringer"
+  - title: Opdateringer
     url: /opdateringer/
-  - title: "Investering"
+  - title: Investering
     url: /investering/
-  - title: "Crowdlending"
+  - title: Crowdlending
     url: /crowdlending/
-  - title: "Krypto"
+  - title: Krypto
     url: /cryptovaluta/
-  - title: "Inspiration"
+  - title: Inspiration
     url: /inspiration/
-  - title: "Spar penge"
+  - title: Spar penge
     url: /spar-penge/
-  - title: "Deals"
+  - title: Deals
     url: /deals/
-  - title: "Portefølje"
+  - title: Portefølje
     url: /portfolio/
-  - title: "Om"
+  - title: Om
     url: /om/
 blog:
-  - title: "Populære søgninger"
+  - title: Populære søgninger
     children:
-      - title: "renters rente"
+      - title: renters rente
         url: /renters-rente/
-      - title: "rentes rente"
+      - title: rentes rente
         url: /renters-rente/
-      - title: "lagerbeskatning eller realisationsbeskatning"
+      - title: lagerbeskatning eller realisationsbeskatning
         url: /skat-af-aktier/
-      - title: "bagestål vs bagesten"
+      - title: bagestål vs bagesten
         url: /bagestaal-vs-bagesten-anmeldelse/
-      - title: "crowdlending danmark"
+      - title: crowdlending danmark
         url: /dansk-crowdlending/
+      - title: gratis tv online
+        url: /gratis-tv-online-nettet/
