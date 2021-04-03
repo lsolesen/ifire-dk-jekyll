@@ -135,7 +135,9 @@ Jeg vil gerne ramme det globale aktiemarked på den mest omkostnings- og skattee
 
 Min førsteprioritet er at have en traditionel **børneopsparing**, hvor jeg hvert år sætter et beløb ind. Jeg har tilknyttet et depot til børneopsparingen. 
 
-Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at en fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%. 
+Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at en fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%.
+
+{% include fund-select.html tickers="STIIAM" %}
 
 Fonden er beskattet efter lagerprincippet som aktieindkomst, men da børneopsparingen er skattefri betyder det ikke så meget.
 

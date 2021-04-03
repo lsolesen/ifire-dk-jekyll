@@ -23,10 +23,12 @@ feature_row:
 *[NAV]: Net Asset Value
 
 Hvis du har besluttet dig for at følge markedet, så er det tid til at finde ud af, hvad du kan investere i.
+
 Først skal vi lige have styr på begreberne.
 
-Indeksfonde
-: Indeksfonde samler penge fra forskellige investorer og bruger pengene til at købe aktier eller værdipapirer fra et bestemt indeks. I indeksfonden købes værdipapirerne efter forskellige vægtninger, så indeksfonden kan ramme det pågældende indeks bedst muligt. En traditionel fond kan ikke handles på børsen.
+## Hvad er indeksfonde?
+
+Indeksfonde samler penge fra forskellige investorer og bruger pengene til at købe aktier eller værdipapirer fra et bestemt indeks. I indeksfonden købes værdipapirerne efter forskellige vægtninger, så indeksfonden kan ramme det pågældende indeks bedst muligt. En traditionel fond kan ikke handles på børsen.
 
 For at kopiere et indeks skal man købe rigtig mange aktier for at kunne opnå det samme forhold mellem de forskellige aktier som i det marked indekset følger. Det kan ikke lade sig gøre for de fleste privatinvestorer, fordi det bliver dyrt. (Man kan godt lave en position, der kommer tæt på det danske indeks).
 
@@ -36,13 +38,15 @@ Indeksfonden tjener ved at opkræve et årligt gebyr fra alle investorer (de lø
 
 {% include video provider="youtube" id="4zUA-D_sZhY" %}
 
-Danske Investeringsforeninger
-: Mange investorer går sammen i en investeringsforening om at investere sammen. I en investeringsforening får du ofte spredning af risiko. En investeringsforening kan investere aktivt eller passivt. Investeringsforeningerne kan have forskellige afdelinger med forskellige investeringsmål. 
+## Hvad er danske investeringsforeninger?
+
+Mange investorer går sammen i en investeringsforening om at investere sammen. I en investeringsforening får du ofte spredning af risiko. En investeringsforening kan investere aktivt eller passivt. Investeringsforeningerne kan have forskellige afdelinger med forskellige investeringsmål. 
 
 {% include video provider="youtube" id="q6vEWVMLbLY" %}
 
-Danske indeksafdelinger
-: Indeksafdelinger følger et markedsindeks. Omkostningerne holdes nede, fordi afdelingerne passivt følger et indeks. Kendetegnet ved de danske indeksafdelinger er, at der er en fast pris. Man køber og sælger altid til en pris tæt på afdelingens indre værdi - som afgøres af værdipapirbeholdningen i afdelingen - plus de faste omkostninger, fordi indeksafdelingen er _market maker_. Det er også typisk derfor omkostningerne på de danske indeksafdelinger er højere end visse ETF’er.
+## Hvad er danske indeksafdelinger?
+
+Danske indeksafdelinger følger et markedsindeks. Omkostningerne holdes nede, fordi afdelingerne passivt følger et indeks. Kendetegnet ved de danske indeksafdelinger er, at der er en fast pris. Man køber og sælger altid til en pris tæt på afdelingens indre værdi - som afgøres af værdipapirbeholdningen i afdelingen - plus de faste omkostninger, fordi indeksafdelingen er _market maker_. Det er også typisk derfor omkostningerne på de danske indeksafdelinger er højere end visse ETF’er.
 
 Risikoen ved de danske indeksafdelinger er, at du ikke kan købe og sælge på præcis det tidspunkt, du gerne vil. Da afdelingens indre værdi skal stemme overens med prisen på investeringsbeviset, så kan handlen blive suspenderet. Det kan fx ske ved store daglige fald eller stigninger på aktiemarkedet, som det fx blev set i løbet af nedgangen på aktiemarkedet i forbindelse med Corona-virussen.
 
@@ -52,8 +56,9 @@ Når handlen suspenderes gøres det typisk under usædvanlige og uforudsigelige 
 
 --- <cite>Finansdanmark.dk - [Hvad betyder det når handlen med investeringsfonde suspenderes](https://finansdanmark.dk/nyheder/2020/hvad-betyder-det-naar-handlen-med-investeringsfonde-suspenderes/)</cite>
 
-Udenlandske ETF’er
-: ETF er en forkortelse af Exchange Traded Fund - altså en børshandlet fond. ETF’er har typisk en passiv strategi med lave omkostninger. ETF’ere handles som en aktie på de udenlandske børser er det udbud og efterspørgsel, der afgør prisen, selvom en ETF har en indre værdi ligesom indeksafdelinger.
+## Hvad er udenlandske ETF’er?
+
+ETF er en forkortelse af Exchange Traded Fund - altså en børshandlet fond. ETF’er har typisk en passiv strategi med lave omkostninger. ETF’ere handles som en aktie på de udenlandske børser er det udbud og efterspørgsel, der afgør prisen, selvom en ETF har en indre værdi ligesom indeksafdelinger.
 
 ## Sådan virker ETF’er
 
@@ -124,7 +129,7 @@ Du kan både investere i udbyttebetalende eller akkumulerende indeksforeninger o
 
 ## Lær mere
 
-- Passiv investering - guide til indeks og ETF](https://www.invested.dk/trading/basal-trading/passiv-investering-indeks-og-etf)
+- [Passiv investering - guide til indeks og ETF](https://www.invested.dk/trading/basal-trading/passiv-investering-indeks-og-etf)
 
 {% include feature_row type="left" %}
 

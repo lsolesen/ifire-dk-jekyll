@@ -55,6 +55,8 @@ For mig betyder bæredygtighed også noget. Jeg satser jeg primært på månedso
 | SYIMSTAR   | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |            |
 | DKIGI      | [Danske Invest Global Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                                | 0,44% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 
+{% include fund-select.html tickers="SPIGLAMRIK,SPVIGAKL,SPIDJWKL,SPVIGAETIK,SPIEMIKL,SYIMSTAR,DKIGI" %}
+
 ### Akkumulerende danske fonde
 
 Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er fondene fra Storebrand lagerbeskattet (de var tidligere realisationsbeskattet, selvom de var akkumulerende). STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger je en af de akkumulerende fonde på min kapitalpension.
@@ -66,6 +68,8 @@ Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskatte
 | STIGM      | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | STIGS      | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+
+{% include fund-select.html tickers="STIIAM,STIGEP,STIGM,STIGS,DKIGIADKKH" %}
 
 ## Growth Portfolio (#2)
 
@@ -90,6 +94,8 @@ I princippet vælger jeg mellem følgende ETF'er til REIT alt efter hvilket mark
 | XREA | [Xtrackers FTSE Developed Europe ex UK Real Estate UCITS ETF 1C (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014B9L) | 0,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |
 | IQQP | [iShares European Property Yield UCITS ETF EUR (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)            | 0,40% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |
 
+{% include fund-select.html tickers="SPYJ,H4ZL,TRET,D5BK,XREA,IQQP" %}
+
 ### Guld
 
 Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle købe i dag, så ville jeg have valgt GZUR eller 4GLD, som begge har lavere omkostninger.
@@ -99,6 +105,8 @@ Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle k�
 | VZLD | [WisdomTree Physical Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                               | 0,39% |  | | Passiv      |
 | GZUR | [WisdomTree Physical Swiss Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NA52)                               | 0,19% |  |  | Passiv      |
 | 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0%-0,30%[^note] |  |  | Passiv      |
+
+{% include fund-select.html tickers="VZLD,GZUR,4GLD" %}
 
 [^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
 
@@ -116,12 +124,16 @@ I forhold til aktier og obligationer, så vil jeg først og fremmest tænke på 
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)     | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *               |
 | IS3N | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM) | 0,18% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | *               |
 
+{% include fund-select.html tickers="EUNL,SXR8,IS3N" %}
+
 ### Obligationer
 
 | Tick | Værdipapir                                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsopsparing |
 |------|---------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------------|
 | EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)      | 0,09% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | *               |
 | D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                 | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; |                                          | *               |
+
+{% include fund-select.html tickers="EUNH,D5BG" %}
 
 ## Udbytteaktier (#3)
 

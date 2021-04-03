@@ -1,12 +1,13 @@
 ---
-title: "Find de bedste investeringsafdelinger eller ETF’er"
+title: "Find de bedste investeringsafdelinger, indeksfonde eller ETF’er"
+description: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi! Læs denne guide inden du investerer!"
+excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
 last_modified_at: 2020-03-17T09:20:02+02:00
 permalink: /hvilken-fond/
 category:
   - Investering
 tags:
   - investering
-excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
 header:
   overlay_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -27,7 +28,7 @@ Hvis du gerne vil finde de bedste fonde, så er der nogle begreber, som det er e
 
 Jeg bruger selv hovedsageligt [Morningstar](http://www.morningstar.dk/) og fondenes egne hjemmesider til at finde oplysningerne.
 
-## Aktiv eller passiv forvaltning
+## Aktiv eller passiv forvaltning?
 
 Du skal vælge om du vil følge en aktiv eller en passiv strategi i forhold til de fonde, du vælger.
 

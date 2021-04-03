@@ -98,6 +98,8 @@ For nylig [skrev jeg lidt om Storebrands fonde](/investering-vol6/), som er akku
 | STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      |       | Akk     | Lager |
 | STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |       | Akk     | Lager |
 
+{% include fund-select.html tickers="STIIAM,STIINM" %}
+
 Hvis man bare vælger den [globale fond fra Storebrand (STIIAM)](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK), så har man <del>nogenlunde samme verdensdækning som man får i J. L. Collins forslag fra Vanguard, VTSAX</del> en fond, der følger verdensindekset, MSCI ACWI.
 
 #### SparInvest
@@ -110,6 +112,8 @@ SparInvest tilbyder også efter danske forhold prisbillige indeksfonde. Aktiefon
 | SPIDJWKL     | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | Passiv      | *     | Dist    | Reali |
 | SPIEMIKL     | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,84% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Reali |
 | DK0060950541 | [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          | Passiv      |       | Dist    | Reali |
+
+{% include fund-select.html tickers="SPIGLAMRIK,SPIDJWKL,SPIEMIKL,DK0060950541" %}
 
 Den populære [SPIGLAMRIK](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) fra SparInvest har en lidt anden fordeling end VTSAX. 57% USA, 17% Eurolande, 9% Japan, 9% Europa - ex Eurolande og 4% Canada. I denne fond mangler altså Asiens nye markeder, så her bør man nok supplere med Emerging Markets fonden for at få samme dækning.
 
@@ -132,6 +136,8 @@ Jeg har allerede investeret i nogle prisbillige fonde fra Blackrock i en af mine
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)      | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Akk     | Aktie  |
 | EUNH | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4)       | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | Passiv      | *     | Dist    | Aktie  |
 
+{% include fund-select.html tickers="EUNL,IUSN,IS3N,IUSQ,SXR8,EUNH" %}
+
 For at dække verdensindekset kan man supplere EUNL med lidt _emerging markets_ gennem IS3N og _small caps_ gennem IUSN. Derved får man en omkostning på omkring 0,23% for de tre akkumulerende fonde. Her er beskatningen i Danmark dog i øjeblikket lidt mindre gunstig, fordi de lagerbeskattes som <del>kapitalindkomst</del><ins>aktieindkomst, fordi de er på Skats godkendte liste</ins>. [Blackrock har også ESG-screenede ETF’er til 0,20% der er udbyttebetalende](https://next.nordnet.dk/market/etfs?sortField=fund_yearly_fee&sortOrder=asc&freeTextSearch=blackrock&fundType=EQUITY&fundDividendStrategy=INCOME&fundRegionCategories=GLOBAL), hvis man foretrækker det.
 
 #### X-trackers
@@ -143,6 +149,8 @@ Man kan også kigge lidt efter X-trackers udbud af passive fonde og sammensætte
 | XDWL | [Xtrackers MSCI World UCITS ETF 1D](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00015VBW)                             | 0,19% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Kapita |
 | DBXN | [Xtrackers II Eurozone Government Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC)            | 0,15% | &#x2605;&#x2605;&#x2605;&#x260;&#x2606;  |                                          | Passiv      | *     | Dist    | Kapita |
 | D5BG | [Xtrackers II EUR Corporate Bond UCITS ETF 1C](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ)                  | 0,16% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      | *     | Dist    | Kapita |
+
+{% include fund-select.html tickers="XDWL,DBXN,D5BG" %}
 
 #### Vanguard
 
@@ -158,6 +166,8 @@ J. L. Collins sværger til Vanguard. Du kan også [finde Vanguard på Nordnet](h
 | VEUR | [Vanguard FTSE Developed Europe UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YVD4)                    | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | Passiv      |       | Dist    | Kapita |
 | VDTY | [Vanguard USD Treasury Bond UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017JX0)                        | 0,12% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; |                                          | Passiv      |       | Dist    | Kapita |
 | VUCP | [Vanguard USD Corporate Bond UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017M0P)                       | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |       | Dist    | Kapita |
+
+{% include fund-select.html tickers="VGWL,VNRT,VFEM,VUSA,VGWD,VEUR,VDTY,VUCP" %}
 
 [Vanguard FTSE All-World UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG9) ligner VT, som har et internationalt islæt. VGWL dækker altså hele verden. Fonden er eksponeret mod 54% USA, 9% Eurolande, 8% Japan, 6% Asien Nye markeder og 5% Storbritannien. Desværre har VGWL højere omkostninger, så man må slippe 0,25% for at have den.
 

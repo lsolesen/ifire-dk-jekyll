@@ -160,6 +160,8 @@ I det følgende har jeg listet forskellige danske investeringsafdelinger og uden
 | DKIGI        | [Danske Invest Global Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                                | MSCI World                    | >1.570      | 0,44% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 | DK0010207141 | [Danske Invest Fjernøsten Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                            | MSCI AC Asia ex Japan Index   | >740        | 0,61% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
 
+{% include fund-select.html tickers="SPVIGAKL,SPIGLAMRIK,SPIEMIKL,SPIDJWKL,SYIMSTAR,DKIGI,DK0010207141" %}
+
 SparInvests SPVIGAKL følger altså det bredeste verdensindeks MSCI ACWI IMI. Til gengæld er Danske Invests Global Indeks (DKIGI), der kun inkluderer udviklede lande, noget billigere i ÅOP, og kan suppleres med fx Sparinvests Emerging Markets (SPIEMIKL) eller med Danske Invest Fjernøsten Indeks.
 
 ### Akkumulerende danske fonde - lagerbeskattede
@@ -171,6 +173,8 @@ Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskatte
 | STIIAM     | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | MSCI ACWI - ESG screenet | >490       | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
 | STIGEP     | [Storebrand Global - ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)      | MSCI ACWI - ESG screenet | >490       | 0,47% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | MSCI World               | >1.570     | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+
+{% include fund-select.html tickers="STIIAM,STIGEP,DKIGIADKKH" %}
 
 Fordelen ved Storebrands fonde er, at de følger det brede verdensindeks MSCI ACWI, så du kan nøjes med en fond. Samtidig er omkostningerne ret lave.
 
@@ -189,6 +193,8 @@ I forhold til aktier og obligationer, så vil jeg først og fremmest tænke på 
 | SXR8 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)     | S&P500            | 511        | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *               |
 | VWCE | [Vanguard FTSE All-World UCITS ETF (USD) Accumulating](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001I3S0)        | FTSE All-World    | 3.367      | 0,22% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |                 |
 
+{% include fund-select.html tickers="IUSQ,EUNL,IUSN,IS3N,SXR8,VWCE" %}
+
 #### Distribuerende
 
 Hvis du foretrækker udbytter findes ETF'erne også i udbyttebetalende versioner.
@@ -199,6 +205,8 @@ Hvis du foretrækker udbytter findes ETF'erne også i udbyttebetalende versioner
 | IBC3 | [BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Dist) (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001D2CG) | MSCI Emerging IMI | 2.760      | 0,18% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |                 |
 | IUSA | [BlackRock iShares Core S&P 500 UCITS ETF USD (Dist)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000IWFP)           | S&P500            | 511        | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |                 |
 | VGWL | [Vanguard FTSE All-World UCITS ETF (USD) Dist](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG9)                  | FTSE All-World    | 3.367      | 0,22% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |                 |
+
+{% include fund-select.html tickers="IQQW,IBC3,IUSA,VGWL" %}
 
 Du kan søge på Nordnet efter [MSCI AWCI](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=MSCI%20ACWI) og [FTSE World](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=FTSE%20All%20World).
 

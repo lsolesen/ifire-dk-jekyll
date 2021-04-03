@@ -27,6 +27,8 @@ Ingen af fondene har endnu fået en Morningstar-vurdering, da de er relativt nye
 | STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |       |
 
+{% include fund-select.html tickers="STIIAM,STIINM,STIGEP,STIGM,STIGS" %}
+
 ## Hvordan var det med skatten?
 
 <del>Fondene beskattes ligesom alle andre danske, udbyttebetalende aktieinvesteringsforeninger efter den såkaldte minimumsbeskatningsordning.</del> Fondene beskattes som aktiebaserede investeringsselskaber efter <del>realisationsprincippet</del> <ins>lagerprincippet</ins>. Fondene skal hvert år udbetale udbytte svarende til udbyttet fra alle de indeholdte aktier og gevinsten fra de aktier, de har frasolgt i årets løb. Dette udbytte beskattes så med det samme.

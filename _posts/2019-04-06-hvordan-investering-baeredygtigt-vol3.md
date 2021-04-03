@@ -91,7 +91,7 @@ De følgende fonde hører til i min portefølje. De er alle udbyttebetalende fon
 | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          | *          |
 | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |            |
 
-{% include fonde.html funds="SPVIGAETIK,SPIDJWKL,SYIMSTAR" %}
+{% include fund-select.html tickers="SPVIGAETIK,SPIDJWKL,SYIMSTAR" %}
 
 ### Akkumulerende, lagerbeskattede
 
@@ -109,7 +109,7 @@ Storebrand har en række prisbillige indeksfonde, som følger verdensindekset MS
 | STIGM  | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 | STIGS  | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |       |
 
-{% include fonde.html funds="STIIAM,STIINM,STIGEP,STIGM,STIGS" %}
+{% include fund-select.html tickers="STIIAM,STIINM,STIGEP,STIGM,STIGS" %}
 
 ## Aktive investeringsforeninger og sustainability
 
@@ -126,7 +126,7 @@ Her ser fx de [svanemærkede fonde](https://www.merkur.dk/investeringer/svanemae
 | [Triodos Sustainable Mixed Fund EUR R Capitalisation](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000JXOZ)   | 1,33% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; |                                          | 55,42          |
 | [Triodos Sustainable Equity Fund EUR R Distribution](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000ITED)    | 1,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 54,93          |
 
-{% include fonde.html funds="LU0278272413,LU0504302356,LU0278272843" %}
+{% include fund-select.html tickers="LU0278272413,LU0504302356,LU0278272843" %}
 
 Du kan finde [alle Triodos fonde på Morningstar](http://www.morningstar.dk/dk/funds/SecuritySearchResults.aspx?search=triodos&type=).
 
@@ -151,7 +151,7 @@ I denne tabel kan du se deres Morningstar-vurderinger og årlige omkostninger:
 | [Nordea 1 - Global Climate and Environment Fund BP EUR](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000001AKN) | 1,82% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 49,61          |
 | [SDG Invest DKK](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000110IR)                                        | 1,25% |                                          |                                          |                |
 
-{% include fonde.html funds="LU0348926287,LU1165135523,LU0406802685,SDKINV" %}
+{% include fund-select.html tickers="LU0348926287,LU1165135523,LU0406802685,SDKINV" %}
 
 De aktive investeringsforeninger kommer altså med noget højere årlige omkostninger end de passive fonde. Inden du investerer, så læs grundigt om fonden harmonerer med, hvad du gerne vil have ud af dine investeringer.
 
@@ -179,7 +179,7 @@ BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ish
 | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)         | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 46,07          |
 | [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,49          |
 
-{% include fonde.html funds="EUNL,SXR8,IQQH" %}
+{% include fund-select.html tickers="EUNL,SXR8,IQQH" %}
 
 Jeg har ikke kunnet finde flere af BlackRocks bæredygtige ETF'er, der er decideret bæredygtige og klimavenlige.
 

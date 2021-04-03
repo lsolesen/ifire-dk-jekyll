@@ -41,6 +41,8 @@ På Nordnet kan han også bruge månedsopsparingen, som naturligvis er kurtagefr
 | EUNL       | [BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ) | 0,20% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |
 | SXR8       | [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21)    | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |
 
+{% include fund-select.html tickers="SPIGLAMRIK,SPIDJWKL,EUNL,SXR8" %}
+
 ## Renters rente fastholder motivationen
 
 Hvorfor skal min nevø lægge lidt til side?
