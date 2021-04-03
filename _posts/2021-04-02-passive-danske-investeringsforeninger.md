@@ -53,7 +53,7 @@ Listen er lavet på baggrund af følgende overvejelser:
 
 Lad os først få et hurtigt overblik over alle fondene:
 
-{% assign fonde = site.data.funds | where: "type", "Investeringsforening" | where: "strategy", "passiv" %}
+{% assign fonde = site.data.funds | where: "type", "Investeringsforening" | where: "strategy", "Passiv" %}
 
 {% include fund-table.html funds=fonde %}
 
