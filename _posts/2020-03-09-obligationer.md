@@ -20,7 +20,6 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-## TLDR;
 Traditionelt har obligationer været det sikre valg til opsparing. Renteniveauet på det seneste har imidlertid gjort det vanskeligt at få et højt afkast på obligationerne. Derfor betyder omkostningerne ved at handle obligationer gennem obligationsfonde for private investorer meget.
 
 ## Makroøkonomiske risici for penge
