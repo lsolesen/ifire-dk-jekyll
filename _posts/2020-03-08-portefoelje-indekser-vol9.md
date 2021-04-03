@@ -1,5 +1,8 @@
 ---
-title: "Hvordan investerer jeg i et bredt aktieverdensindeks #9"
+title: "Verdensindekset 2021: Passiv investering i aktier [Guide]"
+seo_title: "Verdensindekset 2021: Passiv investering i aktier [Guide] »"
+description: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Jeg viser her hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
+excerpt: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Det består af henholdsvis de udviklede lande og fremvoksende markeder. Jeg viser her, hvordan det hænger sammen, og hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
 category:
@@ -8,7 +11,6 @@ tags:
   - investering
   - aktier
   - obligationer
-excerpt: "Hvad er et bredt verdensindeks, når man snakker om investeringer i aktier?"
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
@@ -28,9 +30,9 @@ feature_row:
 *[NR]: Net return
 *[DJSI]: Dow Jones Sustainability Index
 
-Når jeg skriver om verdensmarkedet, så handler det om aktier. Der er flere forskellige virksomheder, der arbejder med at sammensætte indekser. Hvis du deltager i diskussioner om verdensindekset, skal du altså vide nøjagtigt hvilket indeks, der refereres til.
+Når jeg skriver om verdensmarkedet og verdensindekset, så handler det om aktier. Der er flere forskellige virksomheder, der arbejder med at sammensætte indekser. Hvis du deltager i diskussioner om verdensindekset, skal du altså vide nøjagtigt hvilket indeks, der refereres til.
 
-## Hvorfor er jeg interesseret i verdensindekset?
+## Hvorfor er jeg interesseret i at investere i verdensindekset?
 
 Jeg investerer på langt sigt. Jeg investerer efter to principper:
 
@@ -103,7 +105,7 @@ Dow Jones Sustainability Index World (DJSI)
 Morningstar Global Markets Sustainability Leaders (MGMSL)
 : Beskrivelse følger. Du kan [læse lidt mere om indekset hos Morningstar](https://www.morningstar.com/insights/2017/10/20/sustainability-index).
 
-## Hvilke indekser trackes så?
+## Hvilke indekser trackes så i verdensindekset?
 
 Jeg har primært koncentreret mig om at finde nogle passive fonde, der kan give mig en eksponering mod et bredt verdensindeks. Jeg har i det følgende angivet hvilket indeks de hver især følger, og hvor mange bestanddele der er i indekset.
 
@@ -165,7 +167,7 @@ Hvis du foretrækker udbytter findes ETF'erne også i udbyttebetalende versioner
 
 Du kan søge på Nordnet efter [MSCI AWCI](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=MSCI%20ACWI) og [FTSE World](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=FTSE%20All%20World).
 
-## Hvad vælger du?
+## Hvad vælger du, når du investerer i verdensindekset?
 
 Jeg er [ikke så bekymret for lagerbeskatning](/lagerbeskatning-etf-fordel-eller-ulempe/), men derfor kan man godt overveje om, hvilken beskatning man gerne vil have på værdipapirerne.
 
