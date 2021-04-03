@@ -90,6 +90,8 @@ De følgende fonde hører til i min portefølje. De er alle udbyttebetalende fon
 | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          | *          |
 | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 65,39          |            |
 
+{% include fonde.html funds=site.data.funds %}
+
 ### Akkumulerende, lagerbeskattede
 
 Storebrand har en række prisbillige indeksfonde, som følger verdensindekset MSCI ACWI, men hvor [nogle firmaer fravælges på baggrund af ekstra kriterier](https://www.storebrandfondene.dk/baeredygtighed/frav%C3%A6lgelse/ekstra-kriterier-ud-over-storebrand-standarden).

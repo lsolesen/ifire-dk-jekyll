@@ -19,6 +19,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
+{% comment %}
 
 Du har jo nok stødt på Ray Dalio og hans all weather portfolio, som mange sværger til - find evt inpsiration der. Jeg hælder (pension,frie og ASK) til EUNL, EUNM, SXRG og XDEX . De 2 sidste grundet historiske afkast indenfor Small cap og Value - men ingen ved hvad fremtiden bringer.
 
@@ -53,7 +54,7 @@ FT.COM
 Thematic ETFs can deliver significant losses, academics find
 
 ***
-
+{% endcomment%}
 *[FTSE]: Financial Times Stock Exchange Index
 *[S&P]: Standard & Poor
 *[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
