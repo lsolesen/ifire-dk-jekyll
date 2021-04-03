@@ -23,7 +23,8 @@ Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det vir
 
 Jeg har mulighed for at starte for et relativt lavt beløb, og det er lettere at sprede min investering over flere ejendomme. Dermed er min risiko betydeligt reduceret. Jeg har ikke forstand på ejendomme eller administration, så det er rigtig godt, at folk med både tid og evner vurderer købet. 
 
-Samtidig er jeg naturligvis opmærksom på, at jeg med den mindre risiko naturligvis heller ikke får det samme afkast, som hvis jeg ejede min egen ejendom. Udbuddet på crowdfunding platformene er også med til at begrænse mit valg, men ulemperne opvejes helt klart af fordelene for mig. 
+Samtidig er jeg naturligvis opmærksom på, at jeg med den mindre risiko naturligvis heller ikke får det samme afkast, som hvis jeg ejede min egen ejendom. Udbuddet på crowdfunding platformene er også med til at begrænse mit valg, men ulemperne opvejes helt klart af fordelene for mig.
+
 ## Crowdfunded investering i ejendomme
 
 Grundlæggende kan du være med i ejendomsmarkedet på to måder.
