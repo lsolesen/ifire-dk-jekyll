@@ -20,6 +20,40 @@ feature_row:
     btn_class: "btn--success"
 ---
 
+Du har jo nok stødt på Ray Dalio og hans all weather portfolio, som mange sværger til - find evt inpsiration der. Jeg hælder (pension,frie og ASK) til EUNL, EUNM, SXRG og XDEX . De 2 sidste grundet historiske afkast indenfor Small cap og Value - men ingen ved hvad fremtiden bringer.
+
+***
+
+
+http://enkroneadgangen.dk/hvordan-investerer-man-i-aktier-som-nybegynder-simpel-portefoelje-for-den-nye-investor/
+
+
+***
+https://www.ft.com/content/7e16172e-ce51-4c41-a139-3a796790bbbe
+
+
+Sæt 100 % i MSCI ACWI-verdensindekset og intet andet.
+MSCI ACWI er det bredeste verdensindeks, der findes med både aktier fra udviklede og ikke-udviklede lande (emerging markets).
+Det kan man f.eks. gøre ved at investere i Sparindex INDEX Globale Aktier eller iShares MSCI ACWI, som begge følger indekset.
+Sparinvest INDEX Globale Aktier følger MSCI ACWI IMI, der både har globale aktier fra large-cap, mid-cap og small-cap.
+"Jeg vil gerne have større spredning!!"
+Du opnår ikke større spredning end at investere i hele verden gennem MSCI ACWI-indekset. Der er ikke nogen rationel grund til at ønske flere fonde.
+"Jeg vil gerne have tematiske ETF'er!!"
+Fint nok, de underperformer bare som regel i forhold til resten af markedet.
+(Kilde: https://www.ft.com/.../7e16172e-ce51-4c41-a139-3a796790bbbe)
+"USA fylder meget i verdensindekset!!"
+Ja, fordi de største virksomheder er amerikanske målt på aktieværdi. Hvis dette ændrer sig, så ændrer allokeringen sig også i indekset; f.eks. når / hvis emerging markets-virksomhederne kommer til at blive større i fremtiden.
+"Verdensindekset er kedeligt. Jeg vil slå markedet!!"
+Held og lykke. 90 % af de topuddannede, professionelle, amerikanske investorer lykkes ikke med det.
+(Kilde: https://www.businessinsider.com/.../investment-pros-cant...)
+Mere op Sparindex INDEX Globale Aktier / MSCI ACWI-indekset:
+https://youtu.be/ZOPTemYbt7U
+Thematic ETFs can deliver significant losses, academics find
+FT.COM
+Thematic ETFs can deliver significant losses, academics find
+
+***
+
 *[FTSE]: Financial Times Stock Exchange Index
 *[S&P]: Standard & Poor
 *[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
