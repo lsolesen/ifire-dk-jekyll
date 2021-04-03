@@ -1,6 +1,6 @@
 ---
 title: &title "Skat af indkomst fra dansk og udenlandsk crowdlending 2020?"
-seo_title: "Skat af indkomst fra dansk og udenlandsk crowdlending »"
+seo_title: "Skat af dansk og udenlandsk crowdlending • Komplet guide »"
 description: "Guide til indberetning af renteindtægter fra dansk og udenlandsk crowdlending som kapitalindkomst på selvangivelsen. Komplet med screenshots og rubrikker."
 last_modified_at: 2021-03-14T09:20:02+02:00
 permalink: /skat-af-dansk-udenlandsk-crowdlending/
