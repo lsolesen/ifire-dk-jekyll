@@ -1,0 +1,26 @@
+{% assign funds = include.funds %}
+
+<table>
+    <thead>
+        <tr>
+            <th>Ticker</th>
+            <th>Værdipapir</th>
+            <th>ÅOP</th>
+            <th>Morningstar Rating</th>
+            <th>Bæredygtighed</th>
+            <th>Nordnets månedsopsparing</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for fund in funds %}
+         <tr>
+             <td>{{ fund.ticker }}</td>
+             <td><a href="{{ fund.morningstar_url | relative_url }}">{{ fund.name }}</a></td>
+             <td>{{ fund.aaop }}</td>
+             <td>{% include rating rate=fund.morningstar_rating %}</td>
+             <td>{% include rating rate=fund.sustainability_rating icon_on="&#x26AB;" icon_off="&#x26AA;" %}</td>
+             <td>{{ fund.nordnet_maanedsopsparing }}</td>
+         </tr>
+         {% endfor %}
+    </tbody>
+</table>
