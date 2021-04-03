@@ -1,11 +1,4 @@
-{% assign find = include.funds | split: "," %}
-{% assign funds = "" | split: "," %}
-
-{% for f in find %}
-  {% assign found = site.data.funds | where: "ticker", f %}
-  {{ found.name }}
-  {% assign funds = funds | concat: found %}
-{% endfor %}
+{% assign funds = include.funds %}
 
 <table>
     <thead>
