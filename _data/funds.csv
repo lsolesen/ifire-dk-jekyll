@@ -1,0 +1,8 @@
+ticker,name,type,aaop,index,dividend,tax,strategy,morningstar_rating,sustainability_rating
+,Danske Invest Global Indeks,Investeringsforening,"0,42%",MSCI World Index TR Net,Ja,Aktieindkomst,Passiv,1,4
+,Nordea Invest Globale Aktier Indeks,Investeringsforening,"0,59%",MSCI World,Ja,Aktieindkomst,Passiv,2,3
+,Sparindex Globale Aktier,Investeringsforening,"0,55%",MSCI World ACWI IMI Index (DKK),Ja,Aktieindkomst,Passiv,3,3
+,Sparindex Globale Aktier – Etik,Investeringsforening,"0,55%",MSCI AC World (DKK),Ja,Aktieindkomst,Passiv,4,1
+,Sparindex Globale Aktier Min. Risiko,Investeringsforening,"0,54%",MSCI World Minimum Volatility Optimized in EUR (DKK/SPI),Ja,Aktieindkomst,Passiv,5,1
+,Sparindex Dow Jones Sustainability World,Investeringsforening,"0,56%","Dow Jones Sustainability World ex. Alcohol, Gambling, Tobacco, Armaments & Firearms and Adult Entertainment Index",Ja,Aktieindkomst,Passiv,1,3
+,Sydinvest Morningstar Global Sustainability,Investeringsforening,"0,62%",Morningstar Global Markets Sustainability Leaders,Ja,Aktieindkomst,Passiv,2,4
