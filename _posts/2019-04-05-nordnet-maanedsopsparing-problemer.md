@@ -1,7 +1,7 @@
 ---
 permalink: /nordnet-maanedsopsparing-problemer/
 title: "Nordnets månedsopsparing: Guide til at komme i gang og problemer"
-seo_title: "Nordnets månedsopsparing 2021 • Kom i gang og problemer »" 
+seo_title: "Nordnets månedsopsparing 2021 • Kom i gang og problemer »"
 description: "Få en guide til at komme i gang med Nordnets månedsopsparing, så du kan automatisere dine investeringer kurtagefrit. Læs også om potentielle problemer."
 excerpt: "Nordnets månedsopsparing er en måde selv at bestemme over sine investeringer, automatisere dem og sørge for lave årlige omkostninger. Her kan du læse om, hvordan du kommer i gang - og om de problemer jeg har haft med månedsopsparingen."
 last_modified_at: 2021-04-03T09:20:02+02:00
