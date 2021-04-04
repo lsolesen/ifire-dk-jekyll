@@ -74,7 +74,7 @@ collections:
           - {label: "Exerpt", name: "excerpt", widget: "text"}
           - {label: "Url", name: "url", widget: "string"}
           - {label: "Btn label", name: "btn_label", widget: "string"}
-          - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
+          - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: ""}
       - label: Gallery
         name: gallery
         widget: list
@@ -89,7 +89,7 @@ collections:
   - name: "drafts" # Used in routes, e.g., /admin/collections/blog
     label: "Kladder" # Used in the UI
     label_singular: "Kladde"
-    folder: "_posts/" # The path to the folder where the documents are stored
+    folder: "_drafts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
