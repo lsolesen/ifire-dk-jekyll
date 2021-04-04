@@ -1,5 +1,6 @@
 ---
 title: "Hjemmeklipning: Lær at klippe dit eget og familiens hår"
+permalink: /hjemmeklipning-laer-klippe-haar/
 seo_title: Hjemmeklipning • Lær at klippe dit eget og familiens hår »
 descriptiont: Spar mange penge på at lave hjemme klipning. Lær at klippe dit
   eget hår selv og se hvordan du klipper din kæreste, ægtefælle eller børn. Lær
@@ -7,6 +8,15 @@ descriptiont: Spar mange penge på at lave hjemme klipning. Lær at klippe dit
 excerpt: Spar penge på at lave hjemme klipning. Lær at klippe hår, så du kan
   klippe dit eget hår selv, og se hvordan du klipper din kæreste, ægtefælle
   eller børn.
+header:
+  overlay_image: https://images.unsplash.com/photo-1589876518759-5b460cabcc4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1589876518759-5b460cabcc4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  caption: "Hjemmeklipning: Lær at klippe dit eget og familiens hår"
+category:
+  - Spar penge
+tags:
+  - hårklipning
+  - hjemmeklipning
 feature_row:
   - btn_class: btn--success
     title: Test
