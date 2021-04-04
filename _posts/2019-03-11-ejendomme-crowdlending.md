@@ -13,7 +13,9 @@ excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investe
 
 {% include disclosure.html %}
 
-Crowdfunding bliver bare større og større, og der kommer flere og flere muligheder for også at kunne sprede sine investeringer til ejendomsmarkedet. Når man læser om mulighederne for at skabe _passiv indkomst_, så kommer ejendomsinvesteringer ofte frem på listen over ting, folk kaster sig over. Men jeg har besluttet, at jeg ikke skal eje ejendom på den måde, hvor jeg bliver ansvarlig for lejemål (og skulle stå for udlejning, reparation og i sidste ende et salg).
+Crowdfunding bliver bare større og større, og der kommer flere og flere muligheder for også at kunne sprede sine investeringer til ejendomsmarkedet.
+
+Når man læser om mulighederne for at skabe _passiv indkomst_, så kommer ejendomsinvesteringer ofte frem på listen over ting, folk kaster sig over. Men jeg har besluttet, at jeg ikke skal eje ejendom på den måde, hvor jeg bliver ansvarlig for lejemål (og skulle stå for udlejning, reparation og i sidste ende et salg).
 
 [Historisk set](https://finans.dk/privatokonomi/ECE10175690/forskere-den-bedste-langsigtede-investering-er-ikke-aktier/) har ejendoms- og boliginvestering vist sig at være en god investering (og justeret for risiko bedre en aktier). Samtidig kan ejendomsinvesteringer være med til at sprede din risiko for de penge, du investerer.
 

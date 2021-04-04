@@ -11,9 +11,7 @@ tags:
   - spareråd
   - skat
   - kirkeskat
-excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem
-  af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde
-  dig ud. "
+excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud."
 last_modified_at: 2021-04-02T12:20:28+02:00
 ---
 Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud og derved spare kirkeskat. 

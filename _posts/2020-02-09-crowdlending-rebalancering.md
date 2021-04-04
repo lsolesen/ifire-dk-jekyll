@@ -1,5 +1,5 @@
 ---
-title: "Rebalancering af crowdlending ud fra risk-reward"
+title: "Rebalancering af crowdlending ud fra risk-reward-analyse"
 last_modified_at: 2020-03-30T09:20:02+02:00
 permalink: /crowdlending-rebalancering/
 category:
