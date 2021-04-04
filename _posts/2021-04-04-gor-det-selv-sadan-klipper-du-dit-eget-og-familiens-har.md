@@ -1,33 +1,12 @@
 ---
 title: "Hjemmeklipning: Lær at klippe dit eget og familiens hår"
 seo_title: Hjemmeklipning • Lær at klippe dit eget og familiens hår »
-excerpt: >-
-  Spar penge på at lave hjemme klipning. Lær at klippe hår, så du kan lære at
-  klippe dit eget hår.
-
-
-  hvordan klipper jeg min kæreste
-
-  klip dit eget hår mand
-
-  klippet hår
-
-  hår klipning
-
-
-  hvordan klipper man selv etager i langt hår
-
-
-  lær at klippe hår kursus
-
-
-  lær at klippe hår
-
-
-  hvordan klipper man hår med trimmer
-
-
-  klippe hår selv tips
+descriptiont: Spar mange penge på at lave hjemme klipning. Lær at klippe dit
+  eget hår selv og se hvordan du klipper din kæreste, ægtefælle eller børn. Lær
+  det allerede i dag!
+excerpt: Spar penge på at lave hjemme klipning. Lær at klippe hår, så du kan
+  klippe dit eget hår selv, og se hvordan du klipper din kæreste, ægtefælle
+  eller børn.
 feature_row:
   - btn_class: btn--success
     title: Test
@@ -38,23 +17,6 @@ feature_row:
     btn_label: Test
 last_modified_at: 2021-04-04T06:58:53+02:00
 ---
-hjemme klipning
-hvordan klipper jeg min kæreste
-klip dit eget hår mand
-klippet hår
-hår klipning
-
-hvordan klipper man selv etager i langt hår
-
-lær at klippe hår kursus
-
-lær at klippe hår
-
-hvordan klipper man hår med trimmer
-
-klippe hår selv tips
-
-
 Spar mange penge årligt ved at droppe frisøren. Lær at klippe dig eget hår, så du selv kan stå for din klipning hjemme. Få tips til at klippe hår selv.
 
 Hår gror konstant. Derfor skal du klippes igen og igen for at holde styr på det.
@@ -135,15 +97,23 @@ Selvom - eller netop fordi - det er delt på Youtube, så er det ikke sikkert, a
 
 Hvis du gerne vil øve dig, så kan du starte med at lære at klippe kort hår. Det gror jo ud på ingen tid igen. Hvis du laver en fejl, så kan du altid bare klippe det helt kort i samme længde, vente et par uger, og så kan du allerede øve dig lidt igen.
 
-Her kan du se en video fra Youtube, der viser hvordan du kan klippe kort hår med en hårtrimmer til en pæn frisure:
+Her kan du se en video fra Youtube, der viser hvordan du kan klippe kort hår med en hårtrimmer til en pæn frisure.
 
-{% include video provider%}
+{% include video provider="youtube" id="mBtay3_Ux7c" %}
 
-
-Kort hår er virkelig taknemmeligt at øve sig på, det gror ud igen på ingen tid. Og går det helt skævt, så klipper man det bare kort i samme længde. Herunder er en video som viser hvordan man kan klippe en pæn frisure med hårtrimmer.
-
+Der er altså ingen undskyldning. Du kan sagtens klippe dit eget hår som mand også.
 
 
-Sådan klipper du frisure med hårtrimmer.
 
-Jeg håber du har fået mod på at prøve at klippe dit eget eller familiens hår selv, hvis du ikke allerede gør det?
+
+## Konklusion
+
+Her var nogle enkle tips til, hvordan du kan klippe dit eget hår selv, og hvordan du kommer i gang med klipning hjemme.
+
+Du fik svar på:
+
+- Hvor meget kan du spare på klipning hjemme ved at klippe dit eget hår?
+- Hvordan klipper jeg langt hår glat?
+- Sådan klipper du frisure med hårtrimmer
+
+Skal du i gang med at klippe dit eget hår eller familiens hår selv? Har du også kastet dig ud i at klippe hår selv?
