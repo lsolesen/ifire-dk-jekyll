@@ -55,7 +55,7 @@ Så jeg fandt tilbage til min strategi. Og min fremtid er helt sikkert i indeksf
 
 {% include feature_row type="left" %}
 
-## Lave omkostninger og indeks
+## Lave omkostninger og indeksinvesteringer
 
 Lave omkostninger er over tid meget vigtigt. De laveste omkostninger får man ofte på passivt forvaltede fonde, der følger et indeks.
 
