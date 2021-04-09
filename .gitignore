@@ -9,4 +9,6 @@ bower_components
 Gemfile.lock
 npm-debug.log
 .jekyll-cache
-.ztr-directory
+*/.ztr-directory
+.bundle/
+vendor/
