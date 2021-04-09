@@ -12,3 +12,4 @@ npm-debug.log
 .ztr-directory
 .bundle/
 vendor/
+.vscode/settings.json
