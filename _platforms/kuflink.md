@@ -44,7 +44,7 @@ country: England
 
 **Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
 
-{% include figure image_path="/assets/images/skat/kufling-tax.png" caption="Sådan finder du årsopgørelsen på Kuflink" alt="årsopgørelse skat kuflink" %}
+{% include figure image_path="/assets/images/skat/kuflink-tax.png" caption="Sådan finder du årsopgørelsen på Kuflink" alt="årsopgørelse skat kuflink" %}
 
 Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 

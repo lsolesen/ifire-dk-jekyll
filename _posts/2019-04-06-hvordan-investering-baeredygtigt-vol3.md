@@ -209,11 +209,11 @@ Selvom du fx investerer i Vestas, kommer der naturligvis ikke flere vindmøller,
 
 Hvis du gerne vil sætte et bæredygtigt aftryk, kan du lade dig inspirere af [AltEnergy Stocks](http://www.altenergystocks.com/archives/category/stock-list/), eller du kan dykke ned i, hvad de ovenstående investeringsforeninger, -fonde og ETF'er har købt i deres porteføljer. Der er i hvert fald masser af mulighed for investere bæredygtigt og have _impact_.
 
-For at vælge bæredygtige investeringer i aktier kan du lade dig inspirere af den gratis app [MakeImpact App](http://makeimpact.io/site/). De vurderer de enkelte firmaer ift. FNs Bæredygtighedsmål.
+For at vælge bæredygtige investeringer i aktier kan du lade dig inspirere af den gratis app [MakeImpact App](http://makeimpact.io/). De vurderer de enkelte firmaer ift. FNs Bæredygtighedsmål.
 
 > Our goal is to enable you to make informed decisions about the companies you want to invest in, and when you are ready – we help you make the investment via your own bank – allowing you to put your money where your heart is.
 
----<cite>[MakeImpact App](http://makeimpact.io/site/)</cite>
+---<cite>[MakeImpact App](https://makeimpact.io/)</cite>
 
 MakeImpact App'en er imidlertid baseret på selskabernes egenevaluering, så du skal som altid også lave din egen research, inden du vælger at investere i noget.
 

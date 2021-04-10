@@ -62,7 +62,7 @@ Her er en graf fra Portfolio Performance, hvor man kan se, at det er lykkes mig 
 
 {% include figure image_path="/assets/images/posts/crypto-performance.jpg" caption="Performance for kryptoporteføljen med benchmark ud fra Bitcoins og verdensindekset" %}
 
-Min fordeling i _coins_ er lige nu følgende. Jeg har foreløbig beholdt de coins, jeg har tjent i [Coinbase Earn\*](/coinbase/). Man ved jo aldrig hvad fremtiden bringer i kryptoverden.
+Min fordeling i _coins_ er lige nu følgende. Jeg har foreløbig beholdt de coins, jeg har tjent i [Coinbase Earn\*](/go/coinbase/). Man ved jo aldrig hvad fremtiden bringer i kryptoverden.
 
 {% include figure image_path="/assets/images/posts/crypto-allocation.jpg" caption="Nuværende allokering af kryptovaluta" %}
 
