@@ -283,6 +283,10 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: 'page*'
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
