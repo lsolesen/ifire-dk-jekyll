@@ -12,6 +12,10 @@
 
 {% include favicon.html %}
 
+{% if page.sitemap == false or page.robots %}
+  <meta name="robots" content="{{ page.robots | default: "noindex" }}">
+{% endif %}
+
 <meta name="flattr:id" content="zlqkxl">
 
 <script>

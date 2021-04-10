@@ -5,6 +5,7 @@ permalink: /deals/
 excerpt: "Her er nogle af de bedste deals."
 author_profile: true
 toc: true
+sitemap: false
 ---
 
 ## Crowdlending, crowdfunding og P2P-investeringer

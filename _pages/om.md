@@ -6,6 +6,7 @@ tags:
   - rigdomsformularen
 excerpt: "Læs mere om iFire.dk og tankerne bagved."
 author_profile: true
+sitemap: false
 ---
 
 Velkommen til iFire.dk.
