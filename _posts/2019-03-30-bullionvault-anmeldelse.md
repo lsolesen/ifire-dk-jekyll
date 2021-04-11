@@ -73,9 +73,4 @@ Hvad er din strategi for guld? Og hvorfor har du det i din portefølje - eller h
 
 [Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info}
 
-## Mere inspiration
-
-- [Millionærklubben: Guld, olie og robotter](https://www.24syv.dk/programmer/millionaerklubben/19280817/guld-olie-og-robotter)
-- [Millionærklubben: Guld, cannabis og krypto](https://www.24syv.dk/programmer/millionaerklubben/49549306/guld-cannabis-og-krypto)
-
 {% include disclaimer.md %}

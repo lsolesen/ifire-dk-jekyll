@@ -64,7 +64,7 @@ For at beskatningen bliver korrekt, så skal du sørge for, at Skat ved hvad din
 
 Handler du derimod gennem en udenlandsk børsmægler, så er det dit eget ansvar at indberette skattegrundlaget.
 
-Jeg handler selv ved [Nordnet\*](/go/nordnet) og [Saxo\*](/go/saxo/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro\*](/go/etoro/), som jeg så selv indberetter. 
+Jeg handler selv ved [Nordnet\*](/go/nordnet) og [Saxo\*](/go/saxoinvestor/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro\*](/go/etoro/), som jeg så selv indberetter. 
 
 ## Hvad er lagerbeskatning?
 
