@@ -2,6 +2,7 @@
 title: &title "Madbudget: Undgå Luksusfælden med en madplan [2021]"
 seo_title: "Madbudget • Undgå Luksusfælden med madplaner og tilbud »"
 description: "Der er mange penge at spare på madbudgettet, hvis du tænker dig om. Jeg viser dig her hvordan du kan spare penge med en madplan og ved at lede efter gode tilbud."
+excerpt: "Dit madbudget er en af de helt store poster på dit månedlige budget. Hvad er et fornuftigt madbudget for at undgå luksusfælden? Og hvordan kan du lave madplaner?"
 last_modified_at: 2021-03-14T09:20:02+02:00
 permalink: /madbudget-undgaa-luksusfaelden-med-madplan/
 category:
