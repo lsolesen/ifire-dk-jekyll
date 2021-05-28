@@ -101,7 +101,7 @@ Det er ikke så let at få et overblik over sine samlede investeringer på Kameo
 
 {% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
 
-Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
+Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med.
 
 Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
 
@@ -130,16 +130,6 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Ingen buy back garanti
 - Ingen auto invest
 - De årlige omkostninger forbundet med investeringen er ikke helt tydelige
-
-### Hvordan tracker jeg den interne rente på The Many?
-
-Værdien af andelene i The Many er afhængig af markedsforholdene. Fx købte jeg i april 2019 mit første projekt på The Many til en NAV på 1,0. I dag lidt mere end et år efter er den på 0,95. Det betyder i realiteten at værdien af min andel i projektet er faldet med 5%. Men samtidig får jeg også udbytte fra de enkelte projekter, så hvordan finder jeg ud af, hvad den interne rente på The Many i virkeligheden er.
-
-Jeg bruger [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke min portefølje hos The Many. Jeg har oprettet de enkelte projekter som `Securities`, og så har jeg jeg lavet en `Security Account` og en `Deposit Account`. Hvis jeg har købt for 10.000 DKK, så har jeg jeg fået 10.000 fondsandele, hvis NAV er 1. Hvis NAV falder, Så opdaterer jeg manuelt kursen på det enkelte projekt hver måned med den aktuelle NAV-værdien. Jeg taster naturligvis også udbytterne ind i Portfolio Performance, og på den måde kan den regne min reelle interne rente ud.
-
-{% include figure image_path="/assets/images/posts/brickshare-nav.png" caption="Du kan finde NAV-værdien på oversigtssiden under `Min Portefølje`" %}
-
-The Many regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i, hvad dine projekter er værd. Som du kan se i skærmbilledet ovenfor, så er det ene af mine projekter omtrent det samme værd, mens det andet er faldet i værdi i forhold, hvad jeg købte mig ind til.
 
 ### Forventet afkast på The Many
 
@@ -190,7 +180,7 @@ Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslå
 
 Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
 
-Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast. 
+Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast.
 
 Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
 

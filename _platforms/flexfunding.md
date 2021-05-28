@@ -13,14 +13,14 @@ tags:
   - Danmark
 excerpt: "Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder."
 date: 2019-02-27T20:47:31+08:00
-last_modified_at: 2019-07-04T07:00:00+08:00
+last_modified_at: 2021-05-04T07:00:00+08:00
 first_investment_at: 2017-02-27T10:00:00+08:00
 cta_url: /go/flexfunding/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-**Første investeringsdato**: 27. februar 2017  
+**Første investeringsdato**: 27. februar 2017
 
 [Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 
@@ -115,7 +115,7 @@ Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv v
 
 ## Samlet vurdering
 
-Flexfunding er en solid dansk platform for crowdlending, som har været på banen i mange år. Jeg kunne godt tænke mig, at de fik etableret en auto invest og at den vægtede rente på sitet i højere grad afspejlede den interne rente, man reelt får ved at investere der. 
+Flexfunding er en solid dansk platform for crowdlending, som har været på banen i mange år. Jeg kunne godt tænke mig, at de fik etableret en auto invest og at den vægtede rente på sitet i højere grad afspejlede den interne rente, man reelt får ved at investere der.
 
 I den periode jeg har investeret der har både jeg og min kæreste oplevet lidt rod med opgørelsen af det indestående og samlede kontoværdi på dashboardet, hvilket mest er irriterende, fordi man bliver nødt til at kontakte kundeservice for at få det udbedret.
 
