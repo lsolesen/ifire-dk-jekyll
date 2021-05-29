@@ -90,6 +90,12 @@ Koncernselskabet The Many registrerede et underskud på 11,7 mio i 2019, mens un
 
 Der er naturligvis mulighed for at miste pengene på en investering i The Many, men heldigvis vil ligger der en høj værdi i de enkelte ejendomme, som en sikkerhed for at ikke alle pengene vil blive mistet.
 
+## The Many på Trustpilot
+
+Når man kigger på [Trustpilot](https://dk.trustpilot.com/review/the-many.com) for The Many, så er anmeldelserne meget blandede. Der er mange rigtig tilfredse investorer med fem-stjernede anmeldelser, men der er desværre også 18% af anmeldelserne under middel.
+
+The Many svarer så vidt jeg kan se grundigt og konstruktivt på de dårlige anmeldelser på Trustpilot.
+
 ## Hvordan tracker jeg den interne rente på The Many?
 
 Værdien af andelene i The Many er afhængig af markedsforholdene. Fx købte jeg i april 2019 mit første projekt på The Many til en NAV på 1,0. I dag lidt mere end et år efter er den på 0,95. Det betyder i realiteten at værdien af min andel i projektet er faldet med 5%. Men samtidig får jeg også udbytte fra de enkelte projekter, så hvordan finder jeg ud af, hvad den interne rente på The Many i virkeligheden er.
