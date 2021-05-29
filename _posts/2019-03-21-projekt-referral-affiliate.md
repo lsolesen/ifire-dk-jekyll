@@ -21,7 +21,7 @@ Jeg vil arbejde med to forskellige tilgange:
 
 ## Projekt 1: Skab passiv indkomst ud fra eksisterende materiale
 
-Jeg har gennem tiden lavet en del gratis indhold, som jeg har delt på [mit eget website](http://larsolesen.dk), [motionsplan.dk](http://motionsplan.dk), [Fodboldens Legestue](http://legestue.net) og [et site med teambuildingsøvelser](http://teambuilder.vih.dk) (kræver login). I første omgang vil jeg se, om jeg med de eksisterende sider kan lave en passiv indtægt.
+Jeg har gennem tiden lavet en del gratis indhold, som jeg har delt på [mit eget website](http://larsolesen.dk), [motionsplan.dk](http://motionsplan.dk), [Fodboldens Legestue](http://legestue.net) og [et site med teambuildingsøvelser](http://www.teambuilder.dk) (kræver login). I første omgang vil jeg se, om jeg med de eksisterende sider kan lave en passiv indtægt.
 
 Reglerne bliver som følger:
 

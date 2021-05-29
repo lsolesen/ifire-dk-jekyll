@@ -9,7 +9,7 @@ author_profile: true
 sitemap: false
 ---
 
-Velkommen til iFire.dk.
+Velkommen til ifire.dk.
 
 Jeg vil dele og lære mere om, hvordan jeg kan blive **finansiel uafhængig** så hurtigt og sikkert som muligt.
 
@@ -39,5 +39,9 @@ Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
 {% endif %}
 
 ***
+
+## Redaktør
+
+Lars Olesen. Ud over ifire.dk, så ejer Lars også [motionsplan.dk](https://www.motionsplan.dk), [Fodboldens Legestue](https://www.legestue.net), [cykel-ruter.dk](https://www.cykel-ruter.dk) og [Teambuilder.dk](https://www.teambuilder.dk).
 
 {% include disclaimer.md %}

@@ -17,7 +17,7 @@ Projektet var delt i to.
 
 ## Projekt 1: Skab passiv indkomst fra eksisterende materiale
 
-Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://teambuilder.vih.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads\*](/go/partnerads/) på de forskellige sites.
+Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://www.teambuilder.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads\*](/go/partnerads/) på de forskellige sites.
 
 Jeg har brugt omkring en uge på fuld tid med at få flyttet de tre sidstnævnte væk fra en PHP-server og Drupal og hen til en Jekyll-blog, der hostes gratis på Github Pages. Udgifterne er således kun prisen for domænerne. Samtidig har jeg fået ryddet op på de forskellige sites. 
 
