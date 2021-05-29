@@ -13,7 +13,7 @@ excerpt: "Airbnb åbner markedet for at få overnatning på kortere og længere 
 last_modified_at: 2021-04-10T14:50:00+08:00
 ---
 
-Får man nu elsker at rejse, men samtidig gerne vil være finansielt uafhængig hurtigst muligt, så er det godt, at der er muligheder for at rejse lidt billigere - og her er Airbnb en platform, jeg sætter meget pris på.
+Får man nu elsker at rejse, men samtidig gerne vil være finansielt uafhængig hurtigst muligt, så er det godt, at der er muligheder for at rejse lidt billigere. Jeg har sparet mange penge ved at bruge Airbnb til at finde overnatning og et sted at bo på mine rejser.
 
 Airbnb åbner markedet for at få overnatning på kortere og længere ferier - og det er ofte det første sted, jeg kigger efter overnatning, uanset om jeg skal alene afsted eller sammen med familien.
 
@@ -64,5 +64,9 @@ Vores forberedelser var naturligvis en rigtig grundig rengøring (som det jo alt
 Selvom AirBnb tager deres andel af udlejningsprisen, så kan indtægten altså stadig være ret fornuftig.
 
 [Bliv vært på AirBnb og få 66 kroner\*](/go/airbnb/){: .btn .btn--large .btn--danger }
+
+## Konklusion
+
+Der er altså [mange penge at spare](/spar-penge/), når du er ude at rejse, hvis du bruger lidt tid på at søge på Airbnb. Samtidig kan du tjene lidt penge på at være vært på Airbnb, når du ikke selv skal bruge dit hus.
 
 {% include disclaimer.md %}

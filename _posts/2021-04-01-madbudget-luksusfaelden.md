@@ -195,4 +195,6 @@ Formålet med Spenderlog er at give dig et indblik i dit eget forbrug. Den hente
 
 Hvordan håndterer du dit madbudget, så du undgår luksusfælden? Hvad bruger du særligt penge på i dit madbudget - og bruger du madplaner selv?
 
+Jeg har også skrevet en del andre indlæg om at [spare penge](/spar-penge/).
+
 {% include disclaimer.md %}

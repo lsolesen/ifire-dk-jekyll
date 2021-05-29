@@ -40,9 +40,7 @@ Du kan spare mange penge i det lange løb, hvis du tør kaste dig ud i det. Du k
 - Hvordan klipper jeg min kæreste?
 - Lær at klip dit eget hår mand
 - Hvordan klipper man selv etager i langt hår?
-
 - Hvordan klipper man hår med trimmer?
-
 
 ## Hvad kan du spare på hjemmeklipning?
 
@@ -74,8 +72,6 @@ I øjeblikket er der ingen herhjemme, der går til frisør. Vi laver hjemmeklipn
 
 Du kan få en relativ billig hårtrimmer fra Braun rigtig mange steder. Du skal naturligvis også på udkig efter et saksesæt. Men det hele er tjent hjem allerede efter første klipning hjemme.
 
-
-
 Youtube kan hjælpe dig, når du skal lære at klippe dig selv og andre. Også når du skal lære at klippe dig selv, mand!
 
 Der er en grund til, at det tager nogle år at blive udlært frisør. Derfor skal du formentlig ikke starte med en avanceret frisure.
@@ -86,13 +82,9 @@ Når du har valgt en simpel frisure, så kan du altså kigge nærmere på at læ
 
 ## Hvordan klipper jeg langt hår lige?
 
-
-
 Du kan let klippe dit eget hår og dine døtre og pigers hår lige ved at følge instruktionerne i denne Youtube-video:
 
 {% include video provider="youtube" id="kgYVImOwYiI" %}
-
-
 
 ## Sådan klipper du langt hår, dit eget eller en andens
 
@@ -116,9 +108,6 @@ Her kan du se en video fra Youtube, der viser hvordan du kan klippe kort hår me
 
 Der er altså ingen undskyldning. Du kan sagtens klippe dit eget hår som mand også.
 
-
-
-
 ## Konklusion
 
 Her var nogle enkle tips til, hvordan du kan klippe dit eget hår selv, og hvordan du kommer i gang med klipning hjemme.
@@ -127,7 +116,8 @@ Du fik svar på:
 
 - Hvor meget kan du spare på klipning hjemme ved at klippe dit eget hår?
 - Hvordan klipper jeg langt hår glat?
-- 
-Sådan klipper du frisure med hårtrimmer
+- Sådan klipper du frisure med hårtrimmer
 
 Skal du i gang med at klippe dit eget hår eller familiens hår selv? Har du også kastet dig ud i at klippe hår selv?
+
+Jeg har også skrevet en del andre indlæg om at [spare penge](/spar-penge/).
