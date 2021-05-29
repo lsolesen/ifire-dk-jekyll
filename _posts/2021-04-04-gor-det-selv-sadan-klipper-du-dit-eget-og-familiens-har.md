@@ -17,6 +17,7 @@ category:
 tags:
   - hårklipning
   - hjemmeklipning
+  - spareråd
 feature_row:
   - btn_class: btn--success
     title: Test
@@ -52,10 +53,12 @@ Hvis du og familien normalt bliver klippet hos en frisør, så er her et forslag
 
 || Klip pr år | Pris pr. klip | Pris pr år |
 |-|-|-|-|
-| Far | 4 | 255 | 1.020 |
+| Far | 4 | 255 | 1.020
+ |
 | Søn | 4 | 205 | 820 |
 | Mor | 2 | 265 | 530 |
-|Datter | 2 | 205 | 410 |
+|Datter | 2 | 205 | 410
+ |
 | Total pris | | 2.780 kr |
 
 
@@ -124,6 +127,7 @@ Du fik svar på:
 
 - Hvor meget kan du spare på klipning hjemme ved at klippe dit eget hår?
 - Hvordan klipper jeg langt hår glat?
-- Sådan klipper du frisure med hårtrimmer
+- 
+Sådan klipper du frisure med hårtrimmer
 
 Skal du i gang med at klippe dit eget hår eller familiens hår selv? Har du også kastet dig ud i at klippe hår selv?

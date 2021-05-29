@@ -1,14 +1,21 @@
 ---
-title: "3 lette måder at spare (mange) penge"
+title: "8 lette måder at spare (mange) penge på allerede i dag"
 permalink: /spar-penge/
 category:
   - Spare penge
 tags:
   - spare
-excerpt: "Her får du en masse gode råd til, hvordan du kan spare penge uden at gå på kompromis."
+excerpt: "Jeg har samlet en masse gode spareråd, og hvordan du kan spare rigtig mange penge uden at gå ud over din livskvalitet."
+last_modified_at: 2021-05-29T20:22:02+02:00
 ---
 
-Det andet punkt i rigdomsformlen er at gennemgå dine udgifter og se, hvor du kan spare noget.
+Jeg er startet min rejse mod finansiel uafhængighed ved at kigge på, hvordan jeg kan spare penge på noget, der ikke giver mig ekstra livskvalitet.
+
+Det andet punkt i [rigdomsformlen]({% link _posts/2019-01-15-rigdomsformlen.md %}) er at gennemgå dine udgifter og se, hvor du kan spare penge, så dine samlede udgifter kun er det nødvendige.
+
+Jeg har fundet rigtig mange besparelser ved at have fokus på, hvordan jeg kan spare penge. 
+
+Når de faste udgifter og privatforbruget er begrænset, så skal du jo i sidste ende tjene færre penge for at opnå finansiel uafhængighed.
 
 ## Gennemgå dit nuværende forbrug
 
@@ -26,11 +33,13 @@ Når du får dine udgifter ind i Spiir, så får du også øjnene op for dit kla
 
 ***
 
-## Hvor kan jeg spare penge?
+## Hvordan kan jeg spare penge?
 
-Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+Her gennemgår vi lidt mere grundigt forskellige måder at spare penge på. Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare penge, men også for at finde ud af, hvad der er vigtigt for dig.
 
 {% assign site_posts = site.posts | where: "tags", "spareråd" | sort: "date" %}
+
+Her har jeg samlet {{ site_posts.size }} gode spareråd, som gør at du kan spare tusindvis af kroner årligt.
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
@@ -46,8 +55,8 @@ Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en
 
 ***
 
-## Har du flere spareråd?
+## Hvad er dine gode spareråd?
 
-Vi er altid interesseret i at spare, så hvis du har andre måder at spare på, så skriv endelig.
+Vi er altid interesseret i gode nye ideer til at spare penge, så hvis du har andre måder at spare på, så skriv endelig.
 
 {% include disclaimer.md %}
