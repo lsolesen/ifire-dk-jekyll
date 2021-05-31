@@ -120,8 +120,6 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
-
 ## FIRE
 
 ### TV

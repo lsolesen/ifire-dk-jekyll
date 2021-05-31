@@ -124,8 +124,6 @@ Det behøver ikke koste noget at få inspiration til madplaner, hvis du ikke sel
 
 Jeg har jævnligt abonneret på [måltidskasser fra Aarstiderne\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1825824&media_id=90735), som jeg har været rigtig godt tilfredse med. Det fede ved måltidskasserne var, at der kom økologiske råvarer og spændende opskrifter, som jeg ikke lige selv var kommet på.
 
-<a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1908829&media_id=81507" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1908829&media_id=81507"/></a>
-
 Men du kan sagtens selv sammensætte det hele ud fra **gratis hjemmesider med madplaner**. Her er nogle af de bedste.
 
 ### Mad for fattigrøve
@@ -141,8 +139,6 @@ På [sundpaabudget.dk](https://sundpaabudget.dk/guide-til-madplan/) kan du let f
 På [webopskrifter.dk](https://www.webopskrifter.dk/artikler/50/) er der enkle madplaner og opskrifter, der anvender ingredienserne så optimalt som muligt. Simon har fx skrevet om denne lækre [proteinlasagne til motionsplan.dk](https://www.motionsplan.dk/opskrift/protein-lasagne/).
 
 Alle disse gratis sites til at finde dine madplaner er virkelig imponerende.
-
-<a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1908831&media_id=81507" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1908831&media_id=81507"/></a>
 
 Ud over Årstiderne, så er [Hello Fresh\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1846880&media_id=81507) også for alvor trådt ind på det danske marked. De kører nogle rigtig gode introduktionstilbud, som du kan afprøve. Det er nok ikke en langsigtet løsning, hvis du også er interesseret i at holde madbudgettet nede.
 
