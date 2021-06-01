@@ -41,7 +41,7 @@ Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, s
 
 Jeg brugte det meste af en times tid i går på at overføre 2-10 EUR til alle mine crowdlending-platforme, fordi min [Revolut\*](/go/revolut/)-konto i forbindelse med Brexit er blevet flyttet. Derfor har jeg fået nyt kontonummer, og på langt de fleste platforme skal det bekræftes med en ny kontooverførsel. Da en del af platformene samtidig har skiftet kontonummer siden min seneste overførsel, så var der en del tastearbejde.
 
-I den forbindelse er jeg ret imponeret af [Peerberry\*](/go/peerberry/). Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt. 
+I den forbindelse er jeg ret imponeret af [Peerberry\*](/go/peerberry/). Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt.
 
 Men årsagen til at jeg skulle opdatere kontonumre er også, fordi jeg gerne vil trække mig ud af en del af platformene.
 
@@ -61,13 +61,13 @@ Jeg valgte at hoppe helt ud af Funderbeam i denne måned ved at sælge mine _sha
 
 [Evoestate\*](/go/evoestate/) synes jeg stadig virker smart, fordi den samler lån fra flere platforme, men risikoen generelt i crowdlending er for stor for mig lige nu, så jeg er på vej ud af den.
 
-[EstateGuru\*](/go/estateguru/), [Housers\*](/go/housers/), [Bulkestate\*](/go/bulkestate/),  [Crowdestate\*](/go/crowdestate/) og [Reinvest24\*](/go/reinvest24/) har virket nogenlunde for mig, men jeg er også på vej ud af dem, fordi jeg har alt for mange platforme. Bulkestate og EstateGuru er klart dem, der performer bedst for mig. 
+[EstateGuru\*](/go/estateguru/), [Housers\*](/go/housers/), [Bulkestate\*](/go/bulkestate/),  [Crowdestate\*](/go/crowdestate/) og [Reinvest24\*](/go/reinvest24/) har virket nogenlunde for mig, men jeg er også på vej ud af dem, fordi jeg har alt for mange platforme. Bulkestate og EstateGuru er klart dem, der performer bedst for mig.
 
 Hvis jeg skulle blive på en platform, så ville det nok være [EstateGuru\*](/go/estateguru/), som giver det bedste afkast og virker meget stabil. Den har også et fint ry i crowdlendingkredse.
 
 [Kuflink\*](/go/kuflink/) opererer med nogle ret vanvittige signup bonuses, og platformen virker stabil, men den interne rente er for mig kun omkring 3-4%. [PropertyPartner\*](/go/propertypartner/) minder lidt om danske [The Many\*](/go/themany/), men der er relativt mange gebyrer. Det er den eneste crowdlending-platform jeg har, hvor den interne rente er negativ på -4%.
 
-Jeg er egentlig godt tilfreds med [Lenndy\*](/go/lenndy/) og [Iuvo Group\*](/go/iuvo/), men jeg er på vej ud af platformene, da det ganske enkelt er alt for meget arbejde at følge med i så mange platforme. 
+Jeg er egentlig godt tilfreds med [Lenndy\*](/go/lenndy/) og [Iuvo Group\*](/go/iuvo/), men jeg er på vej ud af platformene, da det ganske enkelt er alt for meget arbejde at følge med i så mange platforme.
 
 Grupeer er stadig en dark horse, som jeg ikke forventer at få mine penge tilbage fra.
 
@@ -75,7 +75,7 @@ Da [Revolut\*](/go/revolut/) har ændret deres vilkår for internationale overf�
 
 **I alt har jeg 3,86% i intern rente på al crowdlending.** Det skyldes fortsat tabene på Envestio og Agrikaab. Hvis der ikke kommer nogen penge tilbage fra Grupeer kan det ende med, at jeg efter en del arbejde med crowdlending i bedste fald vil gå i nul efter flere års investeringer i dette felt.
 
-Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne rente på [Kameo\*](/go/kameo/). Men du kan læse mine [erfaringer med dansk crowdledning gennem Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne rente på [Kameo](/go/platform/). Men du kan læse mine [erfaringer med dansk crowdledning gennem Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
 
 Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino\*](/go/lendino/), da jeg synes de har en interessant forretningsmodel, hvor de lancerer platform, som andre kan udnytte, mere regulær crowdlending og de giver mulighed for netværkslån (uden kreditvurdering) på en formaliseret måde.
 
@@ -101,7 +101,7 @@ Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/),
 
 Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med Lunar.Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto\*](/go/lunar/). Jeg bruger i stedet Coop Bank i øjeblikket, hvor man gratis kan have sin konto og fælleskonto.
 
-Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
+Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/).
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -136,5 +136,3 @@ Der er altså sket en del med trafikken på de enkelte sites. Jeg har kun arbejd
 Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/portfolio/).
 
 {% include disclaimer.md %}
-
-

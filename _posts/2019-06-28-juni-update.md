@@ -32,7 +32,7 @@ Det er også værd at bemærke, at mine crowdlending ejendomsinvesteringer stadi
 
 ## Værdipapirer - aktier og obligationer
 
-Mine værdipapirporteføljer har kørt nogenlunde stabilt gennem perioden, og juni har været noget bedre end maj. 
+Mine værdipapirporteføljer har kørt nogenlunde stabilt gennem perioden, og juni har været noget bedre end maj.
 
 _Copy trading_ på [eToro\*](/go/etoro/) synes jeg er ret genialt (med en mindre del af porteføljen, for opfatter det også som risikofyldt). Jeg har en intern rente på **39,73%** i juni måned, som er min første måned på Etoro. Alle de investorer, jeg har valgt at _copy trade_, har positivt afkast. Jeg synes, at det er en ret god måde at diversificere min portefølje på, da _traderne_ både handler med aktier, krypto, commodities, indekser, ETF'er og andre valuta. Du kan se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen).
 
@@ -78,7 +78,7 @@ Jeg har til gengæld trukket mig ud af Kameo (NOK), hvor det på tre måneder ik
 
 Mintos har i juni lanceret _Invest & Access_, som der er blandede meninger om. Det gjorde imidlertid, at jeg har trukket nogle af mine midler ud af [Bondora Go & Grow\*](/go/bondora/), fordi det minder meget om Invest & Access, men hos [Mintos\*](/go/mintos/) er afkastet noget højere. Hvis jeg kun skulle vælge en platform og målet var et solidt afkast uden at jeg skal bruge tid og interesse på at investere i nogle lån, der giver mening for mig, så ville jeg klart nøjes med [Mintos\*](/go/mintos/).
 
-Samtidig har jeg gjort mig [lidt overvejelser om, hvad hvad mindsteinvesteringen på de forskellige platforme egentlig bør være](/investering/hvor-meget-crowdlending-pr-platform/). Det kommer til at betyde lidt ift. fx [Kameo](/go/kameo/), [Crowdestor\*](/go/crowdestor/), [ReInvest24\*](/go/reinvest24/), [Housers\*](/go/housers/), [PropertyPartner\*](/go/propertypartner/), [Crowdestate\*](/go/crowdestate/) og [BulkEstate\*](/go/bulkestate/). Når minimumsinvesteringerne er relativt høje, så er det nødvendigt med et vist beløb inveesteret på platformen for at renteindtægterne kan reinvesteres igen i et fornuftigt tempo.
+Samtidig har jeg gjort mig [lidt overvejelser om, hvad hvad mindsteinvesteringen på de forskellige platforme egentlig bør være](/investering/hvor-meget-crowdlending-pr-platform/). Det kommer til at betyde lidt ift. fx [Kameo](/platform/kameo/), [Crowdestor\*](/go/crowdestor/), [ReInvest24\*](/go/reinvest24/), [Housers\*](/go/housers/), [PropertyPartner\*](/go/propertypartner/), [Crowdestate\*](/go/crowdestate/) og [BulkEstate\*](/go/bulkestate/). Når minimumsinvesteringerne er relativt høje, så er det nødvendigt med et vist beløb inveesteret på platformen for at renteindtægterne kan reinvesteres igen i et fornuftigt tempo.
 
 Her er et hurtigt overblik over platformene.
 
@@ -89,7 +89,7 @@ Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods 
 | Automatiserede platforme                | Start | Låneudbydere | Auto | Mine lån | XIRR   |
 |-----------------------------------------|-------|--------------|------|----------|--------|
 | [Mintos (EUR)\*](/go/mintos/)           | 2019  | Flere        | Ja   | 621      | 13,34% |
-| [Grupeer (EUR)\*](/go/grupeer/)         | 2019  | Flere        | Ja   | 339      | 13,38% |     
+| [Grupeer (EUR)\*](/go/grupeer/)         | 2019  | Flere        | Ja   | 339      | 13,38% |
 | [FastInvest (EUR)\*](/go/fastinvest/)   | 2019  | Flere        | Ja   | 356      | 10,83% |
 | [PeerBerry (EUR)\*](/go/peerberry/)     | 2019  | Flere        | Ja   | 307      | 9,65%  |
 | [RoboCash (EUR)\*](/go/robocash/)       | 2019  | 1            | Ja   | 750      | 10,18% |
@@ -108,9 +108,9 @@ Jeg har flyttet Bondora Go&Grow herned, fordi jeg måske hellere vil over på Mi
 
 | Platform                                | Start | Låneudbydere | Auto | Mine lån | XIRR   |
 |-----------------------------------------|-------|--------------|------|----------|--------|
-| [Flexfunding (DKK)](/go/flexfunding/)   | 2017  | 1            | Nej  | 24       | 4,36%  |  
-| [Kameo (DKK)](/go/kameo/)               | 2019  | 1            | Nej  | 4        | 3,03%  |
-| [Kameo (SEK)](/go/kameo/)               | 2019  | 1            | Nej  | 3        | 1,68%  |
+| [Flexfunding (DKK)](/platform/flexfunding/)   | 2017  | 1            | Nej  | 24       | 4,36%  |
+| [Kameo (DKK)](/platform/kameo/)               | 2019  | 1            | Nej  | 4        | 3,03%  |
+| [Kameo (SEK)](/platform/kameo/)               | 2019  | 1            | Nej  | 3        | 1,68%  |
 | [Crowdestor (EUR)\*](/go/crowdestor/)   | 2019  | 1            | Nej  | 9        | 13,02% |
 | [Envestio (EUR)\*](/go/envestio/)       | 2019  | 1            | Nej  | 6        | 8,93%  |
 
@@ -138,7 +138,7 @@ Jeg glæder mig virkelig til at få lidt løbende indtægter fra mine ejendomsin
 
 | Platforme (mulighed for lejeindtægter)          | Start | Låneudbydere | Auto | Mine lån | XIRR   |
 |-------------------------------------------------|-------|--------------|------|----------|--------|
-| [Brickshare (DKK)](/go/brickshare/)             | 2019  | 1            | Nej  | 1        | 0%     |  
+| [Brickshare (DKK)](/go/brickshare/)             | 2019  | 1            | Nej  | 1        | 0%     |
 | [ReInvest24 (EUR)\*](/go/reinvest24/)           | 2019  | 1            | Nej  | 5        | -4,94% |
 | [Housers (EUR)\*](/go/housers/)                 | 2019  | 1            | Nej  | 7        | 2,70%  |
 | [PropertyPartner (GBP)\*](/go/propertypartner/) | 2019  | 1            | Ja   | 11       | -2,44% |
@@ -168,7 +168,7 @@ I alt har jeg tjent **2.127 DKK** på crowdlending i juni måned.
 
 ## Opsparing og kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -180,11 +180,11 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 Kryptovaluta stiger stadig kraftigt. Jeg får næsten lyst til at spekulere lidt ved at sælge ud af det, jeg har. Selvom jeg egentlig tænker kryptovalutaen som opsparing, så har jeg besluttet mig for, at jeg ikke køber mere så længe priserne går mod himlen. Det er ikke så vigtigt for mig at have kryptovaluta, så jeg venter til en korrektion af markedet inden jeg supplerer op. Mine [overvejelser om sammensætningen af min portefølje af kryptovalutaer](/crypto-portfolio/) gælder stadigvæk, men de fem mest populære kryptovalutaer er vikrelig dem, der har rykket, så overvejer stadig kraftigt om jeg skal rebalancere min portefølje til at tracke dem, når markedet falder lidt igen.
 
-Jeg bruger stadig [CoinTracking\*](/go/cointracking/) til at holde styr på min krypto-opsparing. Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). 
+Jeg bruger stadig [CoinTracking\*](/go/cointracking/) til at holde styr på min krypto-opsparing. Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4).
 
-I alt har jeg _urealiseret profit_ på **517,88 EUR** og _realiseret_ profit på **6.03 EUR**. Den _urealiserede_ profit er faktisk lidt mindre end sidste måned. Her er det bl.a. LBA og Tezos (XTZ), der trækker lidt ned ligesom Stellar Lumens (XLM) heller ikke har så højt et afkast. 
+I alt har jeg _urealiseret profit_ på **517,88 EUR** og _realiseret_ profit på **6.03 EUR**. Den _urealiserede_ profit er faktisk lidt mindre end sidste måned. Her er det bl.a. LBA og Tezos (XTZ), der trækker lidt ned ligesom Stellar Lumens (XLM) heller ikke har så højt et afkast.
 
-Jeg [_miner_ stadig lidt krypto på Minergate\*](/go/minergate/). Lige nu kan det bedst betale sig at _mine_ Monero (XMR). I løbet af juni har jeg i alt minet **0,04** XMR, hvilket i dagens kurs svarer til **3.7154 US$**. 
+Jeg [_miner_ stadig lidt krypto på Minergate\*](/go/minergate/). Lige nu kan det bedst betale sig at _mine_ Monero (XMR). I løbet af juni har jeg i alt minet **0,04** XMR, hvilket i dagens kurs svarer til **3.7154 US$**.
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--success}
 

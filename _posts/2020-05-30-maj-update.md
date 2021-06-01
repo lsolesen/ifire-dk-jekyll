@@ -28,7 +28,7 @@ Fedt, at du kigger forbi, for at følge med i, hvordan det går med min søgning
 
 Det har været en god måned, og samfundet er heldigvis ved at normalisere sig lidt igen.
 
-Jeg er virkelig glad for, at jeg er begyndt at bruge det gratis [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke investeringerne. Det har naturligvis taget noget tid og få sat det op, men spørg endelig, hvis du har spørgsmål om opsætningen. 
+Jeg er virkelig glad for, at jeg er begyndt at bruge det gratis [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke investeringerne. Det har naturligvis taget noget tid og få sat det op, men spørg endelig, hvis du har spørgsmål om opsætningen.
 
 Særligt investeringerne i aktier er meget lettere at holde styr på, hvordan det egentlig går, fordi priserne automatisk hentes ind i programmet. Jeg blev også bekræftet i, hvorfor bankernes fuldmagtsprodukter er helt håbløse, da jeg analyserede [SparNord Stjernefri Invest](/stjerneinvest-fri/) programmet.
 
@@ -51,7 +51,7 @@ Der er lidt forskellige årsager til den ret beskedne interne rente:
 - **Banken havde fuldmagten**. Jeg i mange år har haft mine investeringer i et fuldmagtsprodukt. Det har jeg skrevet lidt om i min analyse af mine investeringer i [SparNord Stjernefri Invest](/stjerneinvest-fri/). Den an
 - **Aktiv forvaltning**. Da jeg skiftede fra bankens fuldmagtsprodukt til selv at stå for investeringerne, så var jeg i den illusion, at jeg måske kunne finde nogle rigtig gode produkter. Det kunne jeg ikke, så en del af pengene er lige nu i et urealiseret tab på enkeltaktier.
 
-Min interne rente er 8,35% på mine investeringer i passive danske indeksfonde hos Nordnet, som jeg startede i februar 2019 og har brugt _dollar cost averaging_ som strategi. 
+Min interne rente er 8,35% på mine investeringer i passive danske indeksfonde hos Nordnet, som jeg startede i februar 2019 og har brugt _dollar cost averaging_ som strategi.
 
 Jeg har brugt rigtig lang tid på at skrive nogle artikler om, hvorfor en passiv, buy and hold strategi formentlig vil passe langt de fleste mennesker. Jeg har lavet en [samlet liste over mine artikler om investeringer her](/investering/).
 
@@ -63,7 +63,7 @@ Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, s
 
 ### Crowdlending
 
-Tidsforbruget med at holde styr på investeringerne i crowdlending er med til at gøre mig mere struktureret og kræsen i forhold til, hvad der giver mening. Jeg bruger meget tid på at følge med på de enkelte platforme for at følge med, og jeg synes det er vigtigt selv at være investeret i platformene. 
+Tidsforbruget med at holde styr på investeringerne i crowdlending er med til at gøre mig mere struktureret og kræsen i forhold til, hvad der giver mening. Jeg bruger meget tid på at følge med på de enkelte platforme for at følge med, og jeg synes det er vigtigt selv at være investeret i platformene.
 
 Men efterhånden som jeg også vil reducere min eksponering mod crowdlending generelt (jeg er stadig investeret med mere end 30% af min formue i crowdlending), så overvejer jeg naturligvis også om risikoen og indtjeningen kan betale sig.
 
@@ -71,7 +71,7 @@ Jeg har en **intern rente på 3,6% på crowdlending**. Det skyldes primært tabe
 
 {% include figure image_path="/assets/images/status/p2p-xirr-2020-may.jpg" caption="Interne rente på crowdlending for maj 2020" %}
 
-Det er virkelig vanskeligt at finde ud af nøjagtigt, hvad der sker hos **Grupeer**. Det kan godt ligne et koordineret forsvindingsnummer, og det skriver mange bloggere om. De skriver jævnligt en lille opdatering om deres planer for at genrejse forretningen ift. Investorerne, men det er formentlig en strategi for at myndighederne vil gå i gang med at undersøge dem yderligere. 
+Det er virkelig vanskeligt at finde ud af nøjagtigt, hvad der sker hos **Grupeer**. Det kan godt ligne et koordineret forsvindingsnummer, og det skriver mange bloggere om. De skriver jævnligt en lille opdatering om deres planer for at genrejse forretningen ift. Investorerne, men det er formentlig en strategi for at myndighederne vil gå i gang med at undersøge dem yderligere.
 
 To dage før denne månedsopdatering fiksede Grupeer pludselig et issue på deres hjemmeside, hvor den totale værdi af ens investeringer ikke indeholdt det beløb, som afventede udbetaling. Hver gang Grupeer sender en opdatering, opfordrer de til at skrive til support, hvis man har flere spørgsmål. Jeg har dog aldrig fået et svar selv på simple forespørgsler. Jeg har endnu ikke helt afskrevet Grupeer, fordi der er små tegn på liv i platformen, men det er ikke penge, jeg forventer at se igen.
 
@@ -85,7 +85,7 @@ Jeg testede i sidste måned, hvad min reelle interne rente ville blive på **[Ro
 
 Jeg er på vej ud af **[Housers\*](/go/housers/)**, som ellers oprindeligt var en af de platforme, jeg havde store forhåbninger. Det er imidlertid på et år ikke lykkes mig at få investeret i ejendomme, som giver lejeindtægter. I stedet er det hele ejendomsudvikling, og der er mange af de andre platforme bedre. Jeg har på Housers fx kun en intern rente på 3,48%, hvilket ikke er risikoen værd for mig.
 
-Jeg trækker mig også ud af **[Reinvest24\*](/go/reinvest24)**. Det er ellers en rigtig fin platform, men der er ikke helt nok projekter, og [Evoestate\*](/go/evoestate/) udbyder fx også nogle af ReInvest24’s projekter. Evoestate er godt tænkt, fordi de udbyder projekter fra forskellige platforme, så man kan få en bredere portefølje, men kun skulle følge med i en platform. [Evoestate\*](/go/evoestate/) er lovende, men har ikke så mange år på bagen endnu. 
+Jeg trækker mig også ud af **[Reinvest24\*](/go/reinvest24)**. Det er ellers en rigtig fin platform, men der er ikke helt nok projekter, og [Evoestate\*](/go/evoestate/) udbyder fx også nogle af ReInvest24’s projekter. Evoestate er godt tænkt, fordi de udbyder projekter fra forskellige platforme, så man kan få en bredere portefølje, men kun skulle følge med i en platform. [Evoestate\*](/go/evoestate/) er lovende, men har ikke så mange år på bagen endnu.
 
 **[Kuflink\*](/go/kuflink/)** giver en relativ høj signup bonus, hvis du bliver på platformen i et år. Jeg har skrevet til dem, at det er lidt irriterende at det ikke er let at finde kontoens samlede værdi, når man logger ind. Men du har mulighed for at blive eksponeret mod det britiske ejendomsmarked på platformen både gennem direkte investering og autoinvest. Kuflink giver ikke huslejeindtægter, så jeg overvejer at trække mig ud af platformen.
 
@@ -95,11 +95,11 @@ Værdien på mine **[Funderbeam](/go/funderbeam/)** investeringer er gået op. D
 
 [Lenndy\*](/go/lenndy/) og [Iuvo\*](/go/iuvo) fungerer rigtig fint og minder lidt om [Mintos\*](/go/mintos/). Men da afkastet er mindre for mig har jeg stoppet autoinvest, fordi det tilbageværende beløb på de to platforme ikke er så højt. Jeg vil flytte pengene over på Mintos i stedet.
 
-**[Flexfunding\*](/go/flexfunding/)** har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
+**[Flexfunding\*](/platform/flexfunding/)** har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
 
-**[Kameo\*](/go/kameo/)** giver et bedre afkast, men der mangler virkelig en autoinvest. Der kommer jævnligt nye lån, men det er irriterende at skulle logge ind og ud flere gange om måneden, hvis man vil følge lidt med. Lånene bliver også rigtig hurtigt overtegnet, så har noget cashdrag. Samtidig skal man mindst investere for 500 ad gangen. Det betyder, at der er cashdrag indtil, man har fået tilbagebetalinger og renter, så man kommer over 500 kroner. Men den interne rente på [Kameo\*](/go/kameo/) er flere procent bedre end den reelle interne rente på Flexfunding.
+**[Kameo](/platform/kameo/)** giver et bedre afkast, men der mangler virkelig en autoinvest. Der kommer jævnligt nye lån, men det er irriterende at skulle logge ind og ud flere gange om måneden, hvis man vil følge lidt med. Lånene bliver også rigtig hurtigt overtegnet, så har noget cashdrag. Samtidig skal man mindst investere for 500 ad gangen. Det betyder, at der er cashdrag indtil, man har fået tilbagebetalinger og renter, så man kommer over 500 kroner. Men den interne rente på [Kameo](/platform/kameo/) er flere procent bedre end den reelle interne rente på Flexfunding.
 
-**[Trine\*](/go/trine/)** som jeg investerer i primært af velgørende formål, fordi man kan støtte projekter i ren energi i Afrika og andre udviklingslande, giver faktisk i øjeblikket en intern rente på 7,40%, hvilket er ret vildt. Der har naturligvis været udfordringer med et par enkelte projekter, men der bliver kommunikeret rigtig fint fra platformen, og foreløbig har jeg ikke haft tab på platformen efter at have investeret i mere end et år. Investeringer på Trine giver rigtig god mening for mig, og du får 10 EUR, hvis du bruger [mit lnk til Trine\*](/go/trine/), når du skriver dig op.
+**[Trine\*](/platform/trine/)** som jeg investerer i primært af velgørende formål, fordi man kan støtte projekter i ren energi i Afrika og andre udviklingslande, giver faktisk i øjeblikket en intern rente på 7,40%, hvilket er ret vildt. Der har naturligvis været udfordringer med et par enkelte projekter, men der bliver kommunikeret rigtig fint fra platformen, og foreløbig har jeg ikke haft tab på platformen efter at have investeret i mere end et år. Investeringer på Trine giver rigtig god mening for mig, og du får 10 EUR, hvis du bruger [mit link til Trine\*](/go/trine/), når du skriver dig op.
 
 **[Lendahand\*](/go/lendahand/)** er også et velgørende projekt, og jeg er stadig i plus på platformen. Det kunne være rigtig godt med en autoinvest, så ville jeg helt sikkert blive på platformen, men jeg vil følge den fremover for at se projekterne - og hvordan de kan sammenlignes med Trine. Lige nu er Lendahand ved at samle penge på en anden crowdlending-platform. Hvis du vil i gang med at støtte udviklingsprojekter, så får du [25 EUR at starte med gennem mit link til Lendahand\*](/go/lendahand/)
 
@@ -117,7 +117,7 @@ Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem
 
 Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar\*](/go/lunar/). SparNord er begyndt at opkræve flere gebyrer og har opstillet nye kriterier for at være Stjernekunde, så jeg leder efter en ny bank, hvor jeg kan have en fælleskonto med min bedre halvdel. Det kan man i Lunar, hvis du betaler for deres premium-udgave, men det er jeg ikke interesseret i. Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto\*](/go/lunar/).
 
-Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
+Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/).
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -127,7 +127,7 @@ Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar\*](/go/lunar/).
 
 ## Kryptovaluta
 
-Det var fedt at få min kryptovaluta i Portfolio Performance. Så har jeg nemlig et samlet overblik over værdierne, og kurserne bliver automatisk hentet hver måned. Det har også fået mig til at lave en [status på, hvordan det går efter et år med med kryptovaluta i porteføljen](/crypto-1-aar/). 
+Det var fedt at få min kryptovaluta i Portfolio Performance. Så har jeg nemlig et samlet overblik over værdierne, og kurserne bliver automatisk hentet hver måned. Det har også fået mig til at lave en [status på, hvordan det går efter et år med med kryptovaluta i porteføljen](/crypto-1-aar/).
 
 Samlet går det godt med de fleste coins, men Cred (LBA), som jeg købte en del af for at få renter på at låne min kryptovaluta ud på [Uphold](http://www.uphold.com/) er faldet rigtig meget. Så hvis du gerne vil låne dine penge ud og få fine renter, så kan det måske være et godt tidspunkt at gøre det nu?
 
@@ -145,7 +145,7 @@ Jeg har i denne måned **tjent 389 kroner på passiv indkomst**. Det er alt for 
 
 Jeg bruger rigtig lang tid på at lave opdateringerne og dele alle de erfaringer og tanker jeg har om privatøkonomi og investeringer. En stor del af de enkelte virksomheders platforme har jeg opdaget sker gennem _affiliate_- og _referral_-links, hvor skribenterne får en lille kommision for at skrive om produkterne. Det får jeg også på dette site, og sommetider tror jeg det godt kan prikke lidt til den enkeltes dømmekraft.
 
-Jeg forsøger at være så objektiv som muligt. De seneste dage har jeg dykket ned i en virkelig god ressource om at skrive en blog på nettet, som man kan lave en passiv indkomst fra. Det har givet mig en rigtig fin retning for, hvordan jeg vil gribe mine blogs an fremadrettet. 
+Jeg forsøger at være så objektiv som muligt. De seneste dage har jeg dykket ned i en virkelig god ressource om at skrive en blog på nettet, som man kan lave en passiv indkomst fra. Det har givet mig en rigtig fin retning for, hvordan jeg vil gribe mine blogs an fremadrettet.
 
 Jeg har samlet alle de bedste råd om, hvordan man laver en blog, der faktisk på et tidspunkt kan generere en indtægt, jeg har kunnet finde i mine fem dages research på at skabe en passiv indkomst gennem blogging i [dette blogindlæg om Income School](/tjene-penge-blogge/).
 

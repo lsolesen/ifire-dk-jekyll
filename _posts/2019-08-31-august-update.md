@@ -27,11 +27,11 @@ Aktiemarkedet har været uroligt. Mine bankaktier fra Danske Bank og Nordea som 
 
 Billede fra [Dr. Wealth](https://www.drwealth.com/how-to-avoid-investor-baises-in-stock-picking/)
 
-Mine øvrige porteføljer på Nordnet klarer sig hæderligt, selvom jeg er blevet straffet en del af min position i _emerging markets_. Jeg minder mig selv om, at jeg er langsigtet og at aktiemarkedet nok skal bevæge sig opad. 
+Mine øvrige porteføljer på Nordnet klarer sig hæderligt, selvom jeg er blevet straffet en del af min position i _emerging markets_. Jeg minder mig selv om, at jeg er langsigtet og at aktiemarkedet nok skal bevæge sig opad.
 
 Mine robotinvesteringer hos Darwin og [Nord.Investments\*](/go/nord/) kører bare derudaf, uden at man behøver at holde øje. Hos Nord.Investments har jeg valgt den bæredygtige profil. Jeg er klar over, at der er lidt højere omkostninger forbundet med investeringerne, end hvis man selv klarer det hele. Jeg er langsigtet på robotinvesteringerne, men de ville præstere noget bedre, hvis jeg månedligt tilførte nye midler, som kunne lave _dollar cost averaging_.
 
-Min _copy trading_ på [Etoro\*](/go/etoro/) har haft det hårdt i løbet af august, men jeg ændrer ikke noget min strategi om at følge de samme tradere langsigtet. Men da dollaren stadig er i høj kurs, så sætter jeg ikke lige foreløbig flere penge ind på Etoro. 
+Min _copy trading_ på [Etoro\*](/go/etoro/) har haft det hårdt i løbet af august, men jeg ændrer ikke noget min strategi om at følge de samme tradere langsigtet. Men da dollaren stadig er i høj kurs, så sætter jeg ikke lige foreløbig flere penge ind på Etoro.
 
 Alt i alt er der et negativt afkast på aktieplatformene på **21.603 DKK** i denne måned.
 
@@ -43,7 +43,7 @@ Du kan se [indtjeningen i min portefølje i aktier og obligationer](/investering
 
 I alt har jeg i august måned tjent **2.588 DKK** på crowdlending, og jeg venter stadig meget tålmodigt på at ejendomsplatformene begynder at give afkast.
 
-I denne måned har [Flexfunding](/go/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
+I denne måned har [Flexfunding](/platform/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
 
 Jeg øger jævnligt mine investeringer i [Mintos\*](/go/mintos/), som giver et rigtig godt afkast. Desuden er jeg ret glad for [Crowdestor\*](/go/crowdestor/) og [Envestio\*](/go/envestio/). På begge platforme er der interessante projekter med høje afkast. Jeg overvejer lidt min investering i [Iuvo\*](/go/iuvo/), selvom jeg egentlig er udmærket tilfreds med platformen. Dog har både deres 2017- og 2018-regnskab givet underskud på 3 millioner EUR, hvilket ikke er så betryggende, men jeg har lige nu en intern rente på **9,01%**, hvilket er tilfredsstillende.
 
@@ -73,7 +73,7 @@ Min samlede crypto-portefølje er stadig lidt i bero, så længe niveauerne er s
 
 ## Opsparing og kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}

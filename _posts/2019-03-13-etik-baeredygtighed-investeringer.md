@@ -15,7 +15,7 @@ excerpt: "Hvordan gør jeg mine investeringer i værdipapirer, crowdlending og e
 
 Jeg er ved at få helt styr på, hvordan min samlede økonomi skal være skruet sammen. Næste skridt er at kigge lidt på mine samlede investeringer og finde ud af, hvordan jeg kan være med til at **gøre verden til et bedre og mere bæredygtigt sted** og samtidig bevæge mig mod **finansiel uafhængighed**. Kan det overhovedet hænge sammen?
 
-- Jeg har fået sat gang i en **flytning af mine værdipapirer til [Nordnet](/go/nordnet/)**. Værdipapirerne står fortsat, som min tidligere bank har investeret dem. 
+- Jeg har fået sat gang i en **flytning af mine værdipapirer til [Nordnet](/go/nordnet/)**. Værdipapirerne står fortsat, som min tidligere bank har investeret dem.
 - Jeg har **eksperimenteret med forskellige crowdlending-platforme**, som både yder lån til private og forbrugslån, lån til ejendomsudvikling, andele i ejendomme og bæredygtige udviklingsprojekter på [Trine*](/go/trine/).
 - Jeg har **købt lidt træer hos Better Globe**, som lover ret fint udbytte på 13%+ over 20 år, men det er en ret lille del af min portefølje.
 
@@ -23,9 +23,9 @@ Jeg er ved at få helt styr på, hvordan min samlede økonomi skal være skruet 
 
 Min strategi er at investere i investeringsforeninger, indexfonde eller ETF’er. Det gør jeg fordi det sikrer en spredning automatisk. Men hvordan sikrer jeg mig, at de fonde jeg vælger, tager etiske hensyn og bæredygtige valg i udvælgelsen af de værdipapirer, de inkluderer i den samlede portefølje?
 
-På [Morningstar](http://www.morningstar.dk/dk/) kan du slå de forskellige værdipapirer op (du kan endda lave din egen portefølje, så du let kan følge dine egne værdipapirer). Her kan du få en masse at vide om værdipapirerne og tage beslutninger på baggrund af den viden. 
+På [Morningstar](http://www.morningstar.dk/dk/) kan du slå de forskellige værdipapirer op (du kan endda lave din egen portefølje, så du let kan følge dine egne værdipapirer). Her kan du få en masse at vide om værdipapirerne og tage beslutninger på baggrund af den viden.
 
-En af funktionerne på Morningstar er, at du kan se, hvor bæredygtige dine fonde er. De indikerer det med 1-5 globusser. Du skal dog være opmærksom på, at vurderingen sker ift. det enkelte papir ift. branchen som helhed. En fond kan altså godt bestå af aktier i områder med fx fossilt brændstof og stadig have en høj samlet rating, hvis de udvalgte virksomheder inden for de fossile brændstof er bedre end konkurrenterne. 
+En af funktionerne på Morningstar er, at du kan se, hvor bæredygtige dine fonde er. De indikerer det med 1-5 globusser. Du skal dog være opmærksom på, at vurderingen sker ift. det enkelte papir ift. branchen som helhed. En fond kan altså godt bestå af aktier i områder med fx fossilt brændstof og stadig have en høj samlet rating, hvis de udvalgte virksomheder inden for de fossile brændstof er bedre end konkurrenterne.
 
 Morningstar er altså et fint redskab til at vurdere hvilke fonde, du vil investere i, så du maksimerer de etiske overvejelser og bæredygtige valg i porteføljerne.
 
@@ -39,13 +39,13 @@ Crowdlending-platformene giver et ret højt afkast stort set over hele linjen. M
 
 Lige nu investerer jeg kun i en platform, som decideret slår sig op på at være bæredygtig og investerer i Afrika med _clean tech_ og _clean energy_, og det er [Trine*](/go/trine/). Men hvad skal jeg egentlig kigge efter på de andre platforme for at gøre mine investeringer fx mest mulig bæredygtige?
 
-På danske [Flexfunding](/go/flexfunding/) vælger man selv, hvilke projekter man gerne vil yde et lån, og der kan jeg jo opstille kriterier om etik og bæredygtighed. Men det kan også godt tage lang tid at skulle sætte sig ind i alle virksomhederne - og hvis det bliver et højtvægtet kriterium, så kan det være vanskeligt at finde nok lån til at skabe en alsidig låneportefølje på FlexFunding. Nogle af de andre platforme giver også mulighed for at investere i præcise projekter, hvor du kan tage dine egne beslutninger om, hvad du sætte dine penge i.
+På danske [Flexfunding](/platform/flexfunding/) vælger man selv, hvilke projekter man gerne vil yde et lån, og der kan jeg jo opstille kriterier om etik og bæredygtighed. Men det kan også godt tage lang tid at skulle sætte sig ind i alle virksomhederne - og hvis det bliver et højtvægtet kriterium, så kan det være vanskeligt at finde nok lån til at skabe en alsidig låneportefølje på FlexFunding. Nogle af de andre platforme giver også mulighed for at investere i præcise projekter, hvor du kan tage dine egne beslutninger om, hvad du sætte dine penge i.
 
 Den største Europæiske platform, [Mintos\*](/go/mintos/), er en rigtig god platform, hvis man gerne vil have et fornuftigt afkast, effektiv _auto invest_, høj diversificering, hvilket betyder meget på en _crowd lending_-platform for mig. Det har de bl.a. fordi de har rigtig mange låneudbydere. Hvordan kan jeg finde de etiske og bæredygtige argumenter for alle låneudbyderne og samtidig ikke bruge al min tid på det.
 
 Mine **investeringer i ejendomme og ejendomsudvikling** er alle gennem crowdlending, så her kan jeg også selv vælge de bæredygtige alternativer. Indtil nu synes jeg dog ikke at det har stået så tydeligt i de projekter, jeg har investeret i.
 
-Jeg er stadig lidt i tvivl om, hvordan jeg skal gribe opgaven an med mine crowdlending platforme. Jeg har spredt mine investeringer ud over mange platforme, men igen skal jeg have analyseret _afkast, automatisering, diversificering, bæredygtighed og etik_. Brug endelig kommentarerne, hvis du har nogle gode input. 
+Jeg er stadig lidt i tvivl om, hvordan jeg skal gribe opgaven an med mine crowdlending platforme. Jeg har spredt mine investeringer ud over mange platforme, men igen skal jeg have analyseret _afkast, automatisering, diversificering, bæredygtighed og etik_. Brug endelig kommentarerne, hvis du har nogle gode input.
 
 ## Deciderede etisk og bæredygtige investeringer
 

@@ -22,7 +22,7 @@ Det bliver mere og mere populært at investere i udlån af penge til private og 
 
 Jeg overvejer stadig, hvor meget crowdlending skal være af min samlede portefølje, men jeg har efterhånden investeret i mere end 10 forskellige platforme med hver deres fordele og ulemper.
 
-> Crowdlending is the practice of lending money to individuals or businesses through online services that match lenders with borrowers. 
+> Crowdlending is the practice of lending money to individuals or businesses through online services that match lenders with borrowers.
 
 --- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer_lending)</cite>
 
@@ -32,13 +32,13 @@ Det er ikke længere kun bankerne, der låner penge ud. Det er der også mange a
 
 ## Hvordan kom jeg ind i crowdlending?
 
-Jeg kom tilfældigt ind i crowdlending, da min arbejdsplads oprettede et lån på danske [Flexfunding](/go/flexfunding/). Jeg ville gerne være med til at realisere målet, så jeg oprettede en konto og begyndte at vælge lån ud, jeg kunne investere i. Hovedparten investerede jeg dog i starten i min arbejdsplads’ lån.
+Jeg kom tilfældigt ind i crowdlending, da min arbejdsplads oprettede et lån på danske [Flexfunding](/platform/flexfunding/). Jeg ville gerne være med til at realisere målet, så jeg oprettede en konto og begyndte at vælge lån ud, jeg kunne investere i. Hovedparten investerede jeg dog i starten i min arbejdsplads’ lån.
 
 Men efter at have gennemgået min økonomi lidt nærmere, så har jeg besluttet mig for, at crowdlending skal fylde noget i min samlede portefølje.
 
 ## Mine første fejl
 
-Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu. 
+Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/) og [FastInvest*](/go/fastinvest/). Jeg havde ikke helt overvejet min nøjagtige strategi endnu.
 
 - **Vælg den rigtige valuta.** Jeg fik derfor overført et stort beløb til Mintos i DKK, men der er ikke særlig mange forskellige låneudbydere, så lige nu er jeg ved at få pengene konverteret over til EUR, hvor der er mange flere låneudbydere.
 
@@ -67,7 +67,7 @@ Følgende platforme er svære at komme uden om, når man kigger på ovenstående
 
 Jeg har oprettet profiler på en del platforme efterhånden, og [jeg deler mine erfaringer med de forskellige platforme løbende](/platforme/).
 
-Der er også nogle danske platforme, fx [Flexfunding](/go/flexfunding/). De giver ikke helt samme mulighed for divercificering og høje afkast endnu.
+Der er også nogle danske platforme, fx [Flexfunding](/platform/flexfunding/). De giver ikke helt samme mulighed for divercificering og høje afkast endnu.
 
 ## Skat af crowdlending
 
@@ -79,9 +79,9 @@ Jeg har skrevet en [guide til hvordan du indberetter indtægter fra crowdlending
 
 ## Hvad med fremtiden for crowdlending?
 
-Jeg vil primært forsøge at holde hvert enkelt lån på et mindre beløb, men til gengæld have mange lån for at mindske risikoen. Men over tid bliver det også vigtigt for mig, hvor automatisk setuppet kan være. 
+Jeg vil primært forsøge at holde hvert enkelt lån på et mindre beløb, men til gengæld have mange lån for at mindske risikoen. Men over tid bliver det også vigtigt for mig, hvor automatisk setuppet kan være.
 
-Jeg skal have kigget alle platformene efter ift. _auto invest_, og hvordan jeg gerne vil stille det op - ligesom jeg skal have fundet ud af, hvor stor min samlede crowdlending portefølje skal være. Endelig er det også interessant at kigge på, om jeg på de forskellige platform skal operere med lidt forskellige strategier. 
+Jeg skal have kigget alle platformene efter ift. _auto invest_, og hvordan jeg gerne vil stille det op - ligesom jeg skal have fundet ud af, hvor stor min samlede crowdlending portefølje skal være. Endelig er det også interessant at kigge på, om jeg på de forskellige platform skal operere med lidt forskellige strategier.
 
 ## Hvornår begynder man at tjene penge på crowdlending?
 
@@ -100,7 +100,7 @@ Jeg har investeret i mange platforme i over tre måneder nu, og jeg har udregnet
 
 Jeg har to primære typer crowdlending-investeringer:
 
-- Private forbrugslån og lån til firmaer 
+- Private forbrugslån og lån til firmaer
 - Ejendomsinvestering - både udviklingsprojekter og projekter, hvor man får husleje
 
 De to typer reagerer ret forskelligt, så jeg har skilt dem ad i statisikken nedenunder.
@@ -109,7 +109,7 @@ De to typer reagerer ret forskelligt, så jeg har skilt dem ad i statisikken ned
 
 På tre måneder er [Mintos\*](/go/mintos/), [Grupeer\*](/go/grupeer/) og [Crowdestor\*](/go/crowdestor/) de eneste platforme, hvor den _interne rente_ når over 10%. Det er selvom, der for alle platformene er medregnet _signup bonus_ og _cash back_ for investeringen i den periode.
 
-Danske [Flexfunding](/go/flexfunding/) har jeg haft kørende siden 2017, og der har den interne rente stabiliseret sig på omkring 4,5%.
+Danske [Flexfunding](/platform/flexfunding/) har jeg haft kørende siden 2017, og der har den interne rente stabiliseret sig på omkring 4,5%.
 
 <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=540153126&amp;format=image"></iframe>
 
@@ -119,7 +119,7 @@ De platforme der giver lån til udviklingsprojekter, som fx [Crowdestor\*](/go/c
 
 ## Ejendomsinvestering
 
-[PropertyPartner\*](/go/propertypartner/) og [Reinvest24\*](/go/reinvest24/) har jeg efter tre-fire måneder stadig negativt afkast på. Det skyldes, at der er gebyrer forbundet med at investere i de to platforme (og at jeg ikke har fået _sign up_ bonus på de to platforme). Til gengæld er det platforme, hvor man få del i lejeindtægterne. 
+[PropertyPartner\*](/go/propertypartner/) og [Reinvest24\*](/go/reinvest24/) har jeg efter tre-fire måneder stadig negativt afkast på. Det skyldes, at der er gebyrer forbundet med at investere i de to platforme (og at jeg ikke har fået _sign up_ bonus på de to platforme). Til gengæld er det platforme, hvor man få del i lejeindtægterne.
 
 Jeg har også et par lån på [Housers\*](/go/housers/), hvor jeg får lejeindtægter, men der er også flere udviklingslån. [Housers\*](/go/housers/) giver en fin _sign up_-bonus, som ikke er medregnet i nedenstående XIRR.
 

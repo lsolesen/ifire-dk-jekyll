@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending. 
+Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending.
 
 Jeg har i denne måned investeret lidt i [EvoEstate\*](/go/evoestate/), og jeg har eksperimenteret lidt med [Revolut Trading\*](/go/revolut/) med kurtagefri aktiehandel.
 
@@ -42,7 +42,7 @@ Min samlede _net worth_ er fortsat stigende, hvilket er ret motiverende.
 
 ## Hvornår er har jeg FIRE?
 
-Jeg er jo kommet lidt sent i gang med at søge finansiel uafhængighed, men derfor er det sjovt at se, hvornår man reelt kunne blive helt finansielt uafhængig. 
+Jeg er jo kommet lidt sent i gang med at søge finansiel uafhængighed, men derfor er det sjovt at se, hvornår man reelt kunne blive helt finansielt uafhængig.
 
 Jeg har læst [Your money or your life](http://www.yourmoneyoryourlife.com), som du også kan se præsenteret i denne relativt korte video.
 
@@ -56,7 +56,7 @@ Jeg har fulgt Step 8 i bogen og kigget på mine gennemsnitlige udgifter til regn
 
 ## Investeringer
 
-Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/). 
+Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/).
 
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|
@@ -93,7 +93,7 @@ Du kan se [indtjeningen i min portefølje med værdipapirer](/investeringer/).
 
 {% include crowdlending-warning.html %}
 
-Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
+Min ældste crowdlending platform er [Flexfunding](/platform/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
 
 Jeg har min største investering i [Mintos\*](/go/mintos/). Min interne rente er faldet lidt i løbet af september, men det hænger formentlig først og fremmest sammen med at jeg kraftigt har øget min investering i Mintos. Hovedparten af min investering  har jeg lagt over i _Invest & Access_, fordi jeg oplever _cash drag_ på min _auto invest_. Jeg holder fortsat en intern rente over 13% - og nyder også at jeg har hurtig likviditet på denne måde, hvis det bliver nødvendigt.
 
@@ -106,7 +106,7 @@ Min bedste platform i form af afkast er [Crowdestor\*](/go/crowdestor/), som i d
 [Crowdestor\*](/go/crowdestor/) er en af mine yndlingsplatforme, men oprindeligt havde jeg skrevet, at jeg var nået op på en intern rente på 14%. Der havde jeg imidlertid brugt en forkert dato, så den interne rente var i stedet på omkring 10%.
 {: .notice .notice--info }
 
-Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/go/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende. 
+Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/go/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende.
 
 Da jeg skal rebalancere min samlede portefølje lidt, så overvejer jeg lidt om jeg skal sænke min investering i [Iuvo\*](/go/iuvo), hvor jeg har en intern rente på omkring 8% og [FastInvest\*](/go/fastinvest/), fordi de endnu ikke har formået at gøre platformen transperant, selvom de har fået spørgsmålet fra _communitiet_ mange gange. Men begge platforme fungerer sådan set ret upåklagelige ift. hvor lette de er at bruge - og at afkastet er relativt stabilt.
 
@@ -134,7 +134,7 @@ Jeg har købt nogle træer [i Better Globe](/platform/betterglobe/). Lige nu inv
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 

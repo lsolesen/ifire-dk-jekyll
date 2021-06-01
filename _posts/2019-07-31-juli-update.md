@@ -56,7 +56,7 @@ Det går stille og roligt den rigtige vej med den interne rente, men den skal fo
 
 ## Aktier og obligationer
 
-Min måndsopsparing kører derudaf, og jeg bliver mere og mere glad for bare at investere i fonde. 
+Min måndsopsparing kører derudaf, og jeg bliver mere og mere glad for bare at investere i fonde.
 
 Jeg er ikke så god til selv at vælge nogle aktier. Jeg laver konstant begynderfejlen at tjekke mine _langsigtede_ investeringer kortsigtet. Og det er ikke lykkes mig at opbygge en udbytte-portefølje, jeg er glad for. Sikkert fordi jeg har ladet mig rive med af aktier, der er dykket lidt. Det har betydet, at jeg har siddet og kigget lidt på røde tal. Så nu er jeg mere interesseret i at komme af med dem igen.
 
@@ -98,7 +98,7 @@ Den almindelige crowdlending er platformenes interne rente ved at stabilisere si
 
 {% include figure image_path="/assets/images/posts/crowdlending-xirr-july-2019.png" caption="Crowdlending XIRR - Interne rente - Juli 2019" alt="XIRR - Interne rente - Juli 2019" %}
 
-En af undtagelserne er [Kameo](/go/kameo/), som har været lidt længe undervejs, men for de svenske lån har den dog sneget sig over XIRR på 5% nu - og jeg forventer ikke en XIRR på Kameo, der bliver så meget højere. 
+En af undtagelserne er [Kameo](/platform/kameo/), som har været lidt længe undervejs, men for de svenske lån har den dog sneget sig over XIRR på 5% nu - og jeg forventer ikke en XIRR på Kameo, der bliver så meget højere.
 
 Både [Trine\*](/go/trine/), [Lendahand\*](/go/lendahand/)<del> og [Agrikaab\*](/go/agrikaab/)</del>, som er udviklingsprojekter i Afrika, lader også vente længere på sig, men jeg er ikke på de platforme for at tjene penge, så det gør ikke så meget.
 
@@ -106,7 +106,7 @@ Det forholder sig helt anderledes med crowdlending til ejendomme og ejendomsinve
 
 {% include figure image_path="/assets/images/posts/crowdlending-real-estate-xirr-july-2019.png" caption="Crowdlending XIRR - Interne rente - Juli 2019" alt="XIRR - Interne rente - Juli 2019" %}
 
-I juli tjente jeg i alt **2.541 DKK** på min crowdlending. Jeg venter spændt på at alle platformene med ejendomsinvesteringer også begynder at give afkast. 
+I juli tjente jeg i alt **2.541 DKK** på min crowdlending. Jeg venter spændt på at alle platformene med ejendomsinvesteringer også begynder at give afkast.
 
 ### Statistik for platformene
 
@@ -124,7 +124,7 @@ Du kan læse lidt mere om de enkelte porteføljer her:
 
 ## Opsparing og kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -136,11 +136,11 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 Kryptovalutaen var mere stabil igennem juli og den samlede portefølje er lidt mindre værd end i juni, men stadig væsentlig mere værd, end da jeg købte ind i den i marts og april. Jeg gør ikke mere i kryptomarkedet før det hele falder igen.
 
-Jeg bruger stadig [CoinTracking\*](/go/cointracking/) til at holde styr på min krypto-opsparing. Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). 
+Jeg bruger stadig [CoinTracking\*](/go/cointracking/) til at holde styr på min krypto-opsparing. Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4).
 
-I alt har jeg _urealiseret profit_ på **30,34 EUR** og _realiseret_ profit på **6.03 EUR**. Den _urealiserede_ profit er noget mindre end sidste måned primært pga LBA. 
+I alt har jeg _urealiseret profit_ på **30,34 EUR** og _realiseret_ profit på **6.03 EUR**. Den _urealiserede_ profit er noget mindre end sidste måned primært pga LBA.
 
-Jeg [_miner_ stadig lidt krypto på Minergate\*](/go/minergate/). Lige nu kan det bedst betale sig at _mine_ Monero (XMR).. 
+Jeg [_miner_ stadig lidt krypto på Minergate\*](/go/minergate/). Lige nu kan det bedst betale sig at _mine_ Monero (XMR)..
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--success}
 
@@ -158,7 +158,7 @@ Jeg er sådan set ikke i tvivl om, at Better Globe har gang i projekter i Afrika
 
 Jeg har brugt en del tid i denne måned på at lukke min gamle PHP server ned og flytte alt materialet over på den statiske website-generator Jekyll. Det betyder nemlig, at jeg ikke længere skal vedligeholde en server. Så kan det også være, at jeg kan komme lidt igang med at føre nyt materiale på de forskellige sites igen. Der er et eller andet befriende ved bare at skrive teksterne i Markdown.
 
-Det betyder, at [www.motionsplan.dk](http://www.motionsplan.dk) og [www.legestue.net](http://www.legestue.net) nu hostes gratis og det ligger som statiske HTMl-filer, så serveren skal ikke vedligeholdes. 
+Det betyder, at [www.motionsplan.dk](http://www.motionsplan.dk) og [www.legestue.net](http://www.legestue.net) nu hostes gratis og det ligger som statiske HTMl-filer, så serveren skal ikke vedligeholdes.
 
 Jeg har tidligere skrevet, at jeg ville prøve at reaktivere noget af mit gamle indhold og gøre det tilgængeligt og udnytte Google Adsense og [Partner Ads\*](/go/partnerads/) til at generere lidt passiv indkomst. Jeg har derfor åbnet [www.cykel-ruter.dk](http://www.cykel-ruter.dk). Om ikke andet så kan det da inspirere andre til at køre nogle af de dejlige cykelruter, vi har i Danmark.
 

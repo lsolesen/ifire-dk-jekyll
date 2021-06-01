@@ -23,7 +23,7 @@ Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg started
 
 {% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder." alt="Flexfunding er dansk crowdlending" %}
 
-Flexfunding var min første crowdlending-platform. [Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
+Flexfunding var min første crowdlending-platform. [Flexfunding](/platform/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 
 Flex Funding er en dansk platform for crowdlending og crowdfunding. Flex Funding blev stiftet i 2013. Overordnet har jeg et godt indtryk af platformen i de tre år, jeg har investeret der, selvom der har været lidt software-udfald og systemet kan være bedre.
 
@@ -76,7 +76,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 ### Fordele ved Kameo
 
 - Dansk crowdlending
-- Let at oprette en profil på [Kameo\*](/go/kameo/)
+- Let at oprette en profil på [Kameo](/platform/kameo/)
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
@@ -186,7 +186,7 @@ Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many
 
 Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
-[Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[Opret dig på Kameo](/platform/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 
