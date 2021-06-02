@@ -2,7 +2,6 @@
 title: "Kameo"
 permalink: /platform/kameo/
 header:
-  overlay_image: https://dl2phipa8wx75.cloudfront.net/mediaxpress/1200x0/b189367ce4065edaddd8502994a35a709b7c3520/article/1574777600-9io-_13I9708_192.jpg
   overlay_filter: 0.8
   teaser: /assets/images/logo/kameo.png
   actions:
@@ -16,9 +15,6 @@ last_modified_at: 2020-05-30T12:45:00+08:00
 first_investment_at: 2019-02-04T10:00:00+08:00
 cta_url: /go/kameo/
 toc: true
-gallery:
-  - image_path: /assets/images/posts/kameo-banner.jpg
-    url: /go/kameo/
 ---
 
 **Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
@@ -34,7 +30,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 ## Fordele
 
 - Dansk crowdlending
-- Let at oprette en profil på [Kameo\*](/go/kameo/)
+- Let at oprette en profil på [Kameo](/go/kameo/)
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
@@ -59,7 +55,7 @@ Det er ikke så let at få et overblik over sine samlede investeringer på Kameo
 
 {% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
 
-Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
+Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med.
 
 Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
 
@@ -92,11 +88,7 @@ Jeg har skrevet en guide til indrapportering af [skat af dansk og udenlandsk cro
 
 ### Juli 2019
 
-Jeg har trukket mig fra den norske del af Kameo, fordi der ganske enkelt ikke kommer nogen lån.
-
-> Platformen i Norge har været under ombygning da det norske finanstilsyn krævede ændringer for alle platforme der operere i landet. Dette er på plads nu og du vil snart kunne se norske projekter også.
-
---- <cite>Jesper M. Johansen, Managing director - via support email 12. juli 2019</cite>
+Jeg har trukket mig fra den norske del af Kameo, fordi der ganske enkelt ikke kommer nogen lån. Kameo er ved at få de sidste tilladelser til den norske del, så der skulle gerne snart komme nogle norske lån.
 
 **Update 18. marts 2020**: Jeg har efterfølgende fulgt lidt med i de norske lån, og der er meget få af dem, så jeg holder mig fra at veksle penge til NOK. Jeg er godt tilfreds med den danske og svenske del af Kameo.
 
@@ -124,8 +116,6 @@ Kameo er en rigtig god dansk platform, hvis du gerne vil investere i danske elle
 
 Jeg kunne godt tænke mig, at de etablerede en auto invest og sænkede investeringsbeløbet. Kameo kunne også godt kæle lidt for backenden, så man kunne få lidt brugbare statistikker om investeringerne.
 
-[Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success }
+[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success }
 
-{% include gallery %}
-
-Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
+Læs mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

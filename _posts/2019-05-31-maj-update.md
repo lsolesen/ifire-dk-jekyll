@@ -60,7 +60,7 @@ I alt giver det et _urealiseret_ tab på **-30.425 DKK**. Dette er naturligvis i
 
 {% include crowdlending-warning.html %}
 
-Mit fokus i maj måned har været at få investeret et mere eller mindre lige beløb hos alle låneudbyderne. Mit fokus har også været at holde lidt øje med, hvilke platforme der er lettest at håndtere. Jeg havde egentlig besluttet mig for, at jeg havde nået det antal crowdlending platforme, jeg ville investere på, men jeg har alligevel i maj tilføjet [Iuvo Group\*](/go/iuvo/) og [Lenndy\*](/go/lenndy/). De er med til at divercificere min portefølje lidt og de skulle give et fornuftigt afkast. 
+Mit fokus i maj måned har været at få investeret et mere eller mindre lige beløb hos alle låneudbyderne. Mit fokus har også været at holde lidt øje med, hvilke platforme der er lettest at håndtere. Jeg havde egentlig besluttet mig for, at jeg havde nået det antal crowdlending platforme, jeg ville investere på, men jeg har alligevel i maj tilføjet [Iuvo Group\*](/go/iuvo/) og [Lenndy\*](/go/lenndy/). De er med til at divercificere min portefølje lidt og de skulle give et fornuftigt afkast.
 
 I det hele taget har jeg glædet mig til denne maj-opdatering for nu begynder man efterhånden for alvor at kunne få et indblik i, hvad de enkelte platforme reelt giver i afkast. Jeg har lavet en side til [hver platform](/platforme/), hvor jeg laver en mere grundig opdatering af platformene.
 
@@ -83,10 +83,10 @@ Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods 
 
 | Platform                                       | Start | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|-------|--------------|------|----------|
-| [Flexfunding (DKK)](/go/flexfunding/)          | 2017  | 1            | Nej  | 24       |   
-| [Kameo (DKK)](/go/kameo/)                      | 2019  | 1            | Nej  | 4        |
-| [Kameo (SEK)](/go/kameo/)                      | 2019  | 1            | Nej  | 3        |
-| [Kameo (NOK)](/go/kameo/)                      | 2019  | 1            | Nej  | 0        |
+| [Flexfunding (DKK)](/platform/flexfunding/)          | 2017  | 1            | Nej  | 24       |
+| [Kameo (DKK)](/platform/kameo/)                      | 2019  | 1            | Nej  | 4        |
+| [Kameo (SEK)](/platform/kameo/)                      | 2019  | 1            | Nej  | 3        |
+| [Kameo (NOK)](/platform/kameo/)                      | 2019  | 1            | Nej  | 0        |
 | [Lenndy (EUR)*](/go/lenndy/)                   | 2019  | 3            | Ja   | 97       |
 | [Iuvo (EUR)*](/go/lenndy/)                     | 2019  | 1            | Ja   | 25       |
 | [Trine (EUR)*](/go/trine/)                     | 2019  | 1            | Nej  | 6        |
@@ -98,7 +98,7 @@ Dette er mine favoritplatforme, da de nærmest passer sig selv og alle er trods 
 
 | Platform                                       | Start | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|-------|--------------|------|----------|
-| [Brickshare (DKK)](/go/brickshare/)            | 2019  | 1            | Nej  | 1        |   
+| [Brickshare (DKK)](/go/brickshare/)            | 2019  | 1            | Nej  | 1        |
 | [ReInvest24 (EUR)*](/go/reinvest24/)           | 2019  | 1            | Nej  | 5        |
 | [Crowdestate (EUR)*](/go/crowdestate/)         | 2019  | 1            | Ja   | 8        |
 | [Housers (EUR)*](/go/housers/)                 | 2019  | 1            | Nej  | 7        |
@@ -115,7 +115,7 @@ Jeg er næsten ude af [Mintos (DKK)\*](/go/mintos/), hvor de fleste penge nu er 
 
 ### Fremtiden for min crowdlending
 
-Jeg fortsætter stadig på alle platformene. Dog vil jeg holde øje med Kameo - især den norske del, da det på to måneder stadig ikke er lykkes mig at investere. 
+Jeg fortsætter stadig på alle platformene. Dog vil jeg holde øje med Kameo - især den norske del, da det på to måneder stadig ikke er lykkes mig at investere.
 
 I gennemsnit har crowdledning - når man ser bort fra crowdledning til ejendomme - givet en intern rente på **9,28%**. I ejendomsporteføljen har XIRR været **0,58%**, hvilket især skyldes at PropertyPartner og Reinvest24 tager gebyrer for at komme ind i investeringerne. Jeg glæder mig til at at ejendomsporteføljen begynder at give et fornuftigt afkast.
 
@@ -125,7 +125,7 @@ I alt har jeg tjent **2.282 DKK** på crowdlending i maj måned.
 
 ## Opsparing og kontant
 
-Jeg har i løbet af maj fået bragt min kontante andel ned til, hvad jeg gerne vil have som nødopsparing. De står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Jeg har i løbet af maj fået bragt min kontante andel ned til, hvad jeg gerne vil have som nødopsparing. De står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 Jeg har i løbet af maj haft en negativ **opsparingrate på -7%**. Det skyldes primært, at jeg endelig har fået startet børnenes børneopsparing op - og det tæller jo hurtigt, når man har tre af slagsen.
 
@@ -145,7 +145,7 @@ Jeg bruger [CoinTracking\*](/go/cointracking/) til at holde styr på mine invest
 
 Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4). Lige nu er cryptomarkedet steget en del, mens jeg har været interesseret i det. Det betyder, at min portefølje er steget i værdi. I alt har jeg _urealiseret profit_ på **597.22 EUR** og _realiseret_ profit på **6.03 EUR**.
 
-For at blive klogere (og tjene lidt kryptovaluta), har jeg gennmgået nogle ganske fine, kortfattede tutorials på [Coinbase\*](/go/coinbase/). Hvis du bruger [linket\*](/go/coinbase/) får du 10 US$ Bitcoins hvis du køber for 100 US$. Coinbase er en rigtig fin og let _broker_-platform. Gebyrerne er rimelige sammenlignet med andre services, og du kan sætte automatisk månedsopsparing op. Gebyrerne er lidt høje på Coinbase, men når du er i gang, så kan du bruge PRO-udgaven, som er en _exchange_, hvor gebyrerne falder til 0,15%. 
+For at blive klogere (og tjene lidt kryptovaluta), har jeg gennmgået nogle ganske fine, kortfattede tutorials på [Coinbase\*](/go/coinbase/). Hvis du bruger [linket\*](/go/coinbase/) får du 10 US$ Bitcoins hvis du køber for 100 US$. Coinbase er en rigtig fin og let _broker_-platform. Gebyrerne er rimelige sammenlignet med andre services, og du kan sætte automatisk månedsopsparing op. Gebyrerne er lidt høje på Coinbase, men når du er i gang, så kan du bruge PRO-udgaven, som er en _exchange_, hvor gebyrerne falder til 0,15%.
 
 Igennem Coinbase _Earn-program_ har jeg fx lige gennemgået deres [Stellar Lumens\*](https://coinbase.com/earn/xlm/invite/cxq453w7)-tutorial og tjent for 10 US$ Lumens (XLM). Nu er jeg klogere på, hvad Stellar Lumens er, og jeg har tjent lidt kryptovaluta ganske enkelt ved at se lærerige videoer.
 

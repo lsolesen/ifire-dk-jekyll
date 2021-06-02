@@ -25,7 +25,7 @@ Lige nu er min samlede fordeling:
 | Investering i træ           | 2019  | 0,11%     | 0%    |
 | Kontant opsparing           | 2018  | 78,66%    | 0,7%  |
 
-Den _interne rente (XIRR)_ giver ikke så meget mening i denne måned, da engagementet i de fleste platforme og projekter lige er startet. Det bliver spændende at se, hvordan det udvikler sig på sigt. 
+Den _interne rente (XIRR)_ giver ikke så meget mening i denne måned, da engagementet i de fleste platforme og projekter lige er startet. Det bliver spændende at se, hvordan det udvikler sig på sigt.
 
 ## Værdipapirer - aktier og obligationer
 
@@ -49,7 +49,7 @@ Jeg har købt lidt [Danske Bank](https://www.morningstar.com/stocks/XCSE/DANSKE/
 
 Salget af ovenstående betyder også, at jeg lige nu har en rigtig stor andel af mine midler i kontant opsparing, som du se i tabellen ovenfor. Du kan også se den [opdaterede status på min portefølje](/portfolio/).
 
-Jeg har flyttet lidt penge til [Nord.investments\*](/go/nord/) og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at sammensætte min månedsopsparing hos [Nordnet](/go/nordnet/). 
+Jeg har flyttet lidt penge til [Nord.investments\*](/go/nord/) og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at sammensætte min månedsopsparing hos [Nordnet](/go/nordnet/).
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
 
@@ -73,8 +73,8 @@ Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investe
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|--------------|------|----------|
-| [Flexfunding (DKK)*](/go/flexfunding/)         | En           | Nej  | 17       |   
-| [Kameo (DKK)*](/go/kameo/)                     | To           | Ja   | 4        |
+| [Flexfunding (DKK)*](/platform/flexfunding/)         | En           | Nej  | 17       |
+| [Kameo (DKK)*](/platform/kameo/)                     | To           | Ja   | 4        |
 | [Mintos (DKK)*](/go/mintos/)                   | Flere        | Ja   | 53       |
 | [Mintos (EUR)*](/go/mintos/)                   | Flere        | Ja   | 386      |
 | [Grupeer (EUR)*](/go/grupeer/)                 | Flere        | Ja   | 97       |
@@ -84,7 +84,7 @@ Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investe
 | [PeerBerry (EUR)*](/go/peerberry/)             | Flere        | Ja   | 99       |
 | [RoboCash (EUR)*](/go/robocash/)               | En           | Ja   | 151      |
 | [Crowdestor (EUR)*](/go/crowdestor/)           | En           | Nej  | 4        |
-| [Envestio (EUR)*](/go/envestio/)               | En           | Nej  | 4        |
+| [Envestio (EUR)](/platform/envestio/)               | En           | Nej  | 4        |
 | [Funderbeam (EUR)*](/go/funderbeam/)           | En           | Nej  | 0        |
 | [ReInvest24 (EUR)*](/go/reinvest24/)           | En           | Nej  | 2        |
 | [Crowdestate (EUR)*](/go/crowdestate/)         | En           | Ja   | 2        |

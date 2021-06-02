@@ -24,11 +24,11 @@ deal:
 
 ## Marts 2019
 
-- Åbnet med mindsteindskuddet på 30.000 kroner. 
+- Åbnet med mindsteindskuddet på 30.000 kroner.
 
 ## Juni 2019
 
-- Nord.Investments tilbyder ny at man får lavet porteføljen om til en bæredygtig og socialt ansvarlig portefølje. Det sagde jeg ja til. 
+- Nord.Investments tilbyder ny at man får lavet porteføljen om til en bæredygtig og socialt ansvarlig portefølje. Det sagde jeg ja til.
 
 ## Investering og værdi af investering
 

@@ -37,7 +37,7 @@ Jeg har stadig **holdt mit købestop**. Desværre er blæseren i min bil gået, 
 
 {% include feature_row id="feature_row_autobutler" type="left" %}
 
-Jeg bliver også nødt til at købe nogle nye løbesko. Løbesko er det eneste andet, jeg har købt i år, men de sko jeg har købt er _trailsko_, og de kan ikke holde til at løbe på asfalt. 
+Jeg bliver også nødt til at købe nogle nye løbesko. Løbesko er det eneste andet, jeg har købt i år, men de sko jeg har købt er _trailsko_, og de kan ikke holde til at løbe på asfalt.
 
 Desuden er trænger [kaffekværnen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/kaffekvaerne/kaffekvaern/delonghi-kg521-kaffekvaern) til min [Simonelli Oscar II](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/baristamaskiner/nuova-simonelli-oscar-ii)-kaffemaskine til en mindre renovation.
 
@@ -57,7 +57,7 @@ Min samlede _net worth_ er stigende, hvilket er ret motiverende.
 
 ## Hvornår opnår jeg FIRE?
 
-Baseret på bogen [Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762), så startede jeg i september med at tracke, hvornår jeg teoretisk set kan betale mine regninger baseret på passiv indkomst ifølge 4%-reglen. 
+Baseret på bogen [Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762), så startede jeg i september med at tracke, hvornår jeg teoretisk set kan betale mine regninger baseret på passiv indkomst ifølge 4%-reglen.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1861475684&amp;format=image"></iframe>
 
@@ -65,7 +65,7 @@ Jeg er stadig ret glad for [Revolut\*](/go/revolut/), hvor jeg både kan veksle 
 
 ## Investeringer
 
-Jeg gør stadig klar til at rebalancere lidt i min samlede portefølje. Jeg har samlet ikke skudt flere penge ind i crowdlending i denne måned, men hævet lidt af det tjente på nogle platforme. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/). 
+Jeg gør stadig klar til at rebalancere lidt i min samlede portefølje. Jeg har samlet ikke skudt flere penge ind i crowdlending i denne måned, men hævet lidt af det tjente på nogle platforme. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/).
 
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|
@@ -92,7 +92,7 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 {% include crowdlending-warning.html %}
 
-Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg er begyndt at trække lidt penge hjem ud fra. Flexfunding kunne godt være lidt bedre til informere om de aftaler, de laver med firmaer, der har udfordringer med at betale. I løbet af oktober har jeg fået en e-mail om to af mine lån hos "Samfundstanken" og "DSS Sikringsteknik Aps", og der er Flexfunding i gang med inddrivelse i konkursboet i de to firmaer. 
+Min ældste crowdlending platform er [Flexfunding](/platform/flexfunding/), som jeg er begyndt at trække lidt penge hjem ud fra. Flexfunding kunne godt være lidt bedre til informere om de aftaler, de laver med firmaer, der har udfordringer med at betale. I løbet af oktober har jeg fået en e-mail om to af mine lån hos "Samfundstanken" og "DSS Sikringsteknik Aps", og der er Flexfunding i gang med inddrivelse i konkursboet i de to firmaer.
 
 Informationerne på selve hjemmesiden er ikke helt tilstrækkelige under de problematiske lån. Fx står der under Samfundstanken bare "Betaling mangler eller forsinket" og ingen oplysninger om, hvad status er for lånet, som ikke er betalt siden 1. maj 2019. Under "DSS Sikringsteknik" står der bare, at lånet er opsagt, men ikke yderligere oplysninger. Det ville klæde selve hjemmesiden, at oplysningerne om lånene var helt up-to-date her.
 
@@ -108,7 +108,7 @@ Samlet er den interne rente på mine crowdlending-platforme dalende. Jeg har ikk
 
 [Funderbeam\*](/go/funderbeam/) har lavet noget af et comeback, så nu er der ikke længere negativt afkast. Platformen er lidt særlig, fordi du køber en form for anparter eller aktier i firmaerne. Jeg har købt i to projekter og aktierne er steget i begge firmaer i løbet af denne måned. Oprindeligt synes jeg virkelig det var spændende at kigge efter startups, men jeg overvejer kraftigt at skære Funderbeam ud af porteføljen igen, når jeg nu kan gøre det uden tab.
 
-Derudover er [Grupeer\*](/go/grupeer/), [Envestio\*](/go/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/), [Crowdestor\*](/go/crowdestor/) og [PeerBerry\*](/go/peerberry/) med fine renter over 10%. 
+Derudover er [Grupeer\*](/go/grupeer/), [Envestio\*](/go/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/), [Crowdestor\*](/go/crowdestor/) og [PeerBerry\*](/go/peerberry/) med fine renter over 10%.
 
 Samlet har jeg i løbet af september **tjent 4.388 DKK på renter i crowdlending**. Den almindelig crowdlending giver i en vægtet gennemsnitlig intern rente på 9,26% og projekterne med fokus på ejendomme giver en vægtet gennemsnitlig intern rente over 1%.
 
@@ -128,7 +128,7 @@ Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Agr
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }

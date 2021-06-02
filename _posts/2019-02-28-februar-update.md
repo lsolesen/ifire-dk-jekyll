@@ -45,8 +45,8 @@ Pengene kan også overføres med [TransferWise](/go/transferwise/), som mange sn
 
 Jeg har oprettet mig selv på en række nye forskellige _crowd funding_ platforme, som jeg selv har fået anbefalet. Jeg har med vilje spredt mine forsøg over mange forskellige platforme - mest for at se, hvilke platforme, jeg bedst kan lide, men også som en ekstra sikkerhed, hvis platformen ikke leverer et ordentligt resultat eller på andre måder giver problemer, så er det kun en del af porteføljen.
 
-- [Mintos (DKK)](/go/mintos/)*. Hvis du bruger referral link, så får vi begge 0,75% ekstra af dit investerede beløb. 
-- [Mintos (EUR)](/go/mintos/)*. Hvis du bruger referral link, så får vi begge 0,75% ekstra af dit investerede beløb. 
+- [Mintos (DKK)](/go/mintos/)*. Hvis du bruger referral link, så får vi begge 0,75% ekstra af dit investerede beløb.
+- [Mintos (EUR)](/go/mintos/)*. Hvis du bruger referral link, så får vi begge 0,75% ekstra af dit investerede beløb.
 - [Grupeer (EUR)](/go/grupeer/)*. Giver et relativt godt afkast og virkelig let at bruge med fin auto-invest funktion.
 - [Trine (EUR)](/go/trine/)*. Trine leverer _bæredygtige løsninger_. Afkastet er ikke så godt som de andre platforme, men til gengæld bliver der sat solpaneler op.
 - [Bondora (EUR)](/go/bondora/)*. Jeg bruger Bondora Grow&Go, som giver omkring 6,5% i rente. Det er en fast rente, og jeg kan komme ud af lånet fra den ene dag til den anden, så egentlig kan det forstås som en _opsparing_.
@@ -61,8 +61,8 @@ Jeg glæder mig i hvert fald til at se, hvordan min øgede investering i _crowd 
 Min nuværende fordeling i _crowd funding_ ser nu sådan her ud:
 
 |                                        | Udbydere | Auto | Lån | Andel |
-| [Flexfunding (DKK)](/go/flexfunding/)  | En       | Nej  | 15  | 56%   |    
-| [Mintos (DKK)](/go/mintos/)*           | Flere    | Ja   | 37  | 26%   |    
+| [Flexfunding (DKK)](/platform/flexfunding/)  | En       | Nej  | 15  | 56%   |
+| [Mintos (DKK)](/go/mintos/)*           | Flere    | Ja   | 37  | 26%   |
 | [Mintos (EUR)](/go/mintos/)*           | Flere    | Ja   | 92  | 9%    |
 | [Grupeer (EUR)](/go/grupeer/)*         | Flere    | Ja   | 40  | 3%    |
 | [Trine (EUR)](/go/trine/)*             | En       | Nej  | 1   | 2%    |
@@ -71,7 +71,7 @@ Min nuværende fordeling i _crowd funding_ ser nu sådan her ud:
 
 Mit mål ift. næste måned er at udvide porteføljen af crowd lending, men også at balancere porteføljen lidt mere, så jeg på den enkelte platform kan komme tættere på 100 lån, hvis det kan lade sig gøre ift. Platformens opbygning.
 
-Jeg vil også den næste måned bruge lidt tid på, at analysere om låneudbyderen ejer platformen selv, eller platformen har flere låneudbydere. 
+Jeg vil også den næste måned bruge lidt tid på, at analysere om låneudbyderen ejer platformen selv, eller platformen har flere låneudbydere.
 
 ## Fordeling af investeringer
 
