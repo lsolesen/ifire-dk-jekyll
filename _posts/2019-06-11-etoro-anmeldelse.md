@@ -1,11 +1,15 @@
 ---
-title: "Etoro: Copytrading og kurtagefri aktiehandel og skat"
-redirect_from: /etoro-anmeldelse/
+title: &title "Etoro: Copytrading og kurtagefri aktiehandel og skat"
+description: På Etoro handler du med mange forskellige typer værdipapirer. Jeg har kigget på platformen og dykket ned i, hvordan det hænger sammen med Etoro og skat.
+excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
+redirect_from:
+  - /etoro-anmeldelse/
 permalink: /etoro-copytrading-skat/
 last_modified_at: 2021-03-31T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
   teaser: /assets/images/logo/etoro.png
+  caption: *title
 category:
   - Anmeldelser
 tags:
@@ -17,8 +21,6 @@ tags:
   - råvarer
   - copy trading
   - værdipapirer
-description: På Etoro handler du med mange forskellige typer værdipapirer. Jeg har kigget på platformen og dykket ned i, hvordan det hænger sammen med Etoro og skat.
-excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
 ---
 
 Jeg er blevet interesseret i Etoro, fordi man kan lave _copy trading_ på platformen. I _copy trading_ kopierer du andre tradere. Jeg har ambitioner om, at mine investeringer følger markedet for størstedelen af min portefølje. Men det er også tillokkende at kunne slå markedet. Jeg har ikke tid eller tålmodighed til at sidde og _trade_ ofte. Derfor er det interessant at kunne følge andre tradere, der hele tiden forsøger at slå markedet og konstant skal gøre sig fortjent til at blive fulgt, fordi de kan levere et godt afkast. 

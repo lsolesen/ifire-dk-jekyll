@@ -1,6 +1,8 @@
 ---
 title: &title "Passive danske fonde: Liste over danske investeringsforeninger"
-permalink: /danske-inveseringsforeninger-med-passive-indeksfonde/
+redirect_from:
+  - /danske-inveseringsforeninger-med-passive-indeksfonde/
+permalink: /danske-investeringsforeninger-med-passive-indeksfonde/
 seo_title: "Passive investeringsforeninger • 8 danske indeksfonde 2021 »"
 description: "Se en liste med de bedste passive, danske investeringsforeninger. Jeg har lavet en liste over passive investeringsfonde i Danmark. Se listen her!"
 excerpt: "Jeg er meget interesseret i at finde de bedste danske passive investeringsforeninger. Derfor har jeg lavet en liste over passive indeksfonde i Danmark."
