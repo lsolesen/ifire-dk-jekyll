@@ -2,7 +2,7 @@
 title: "8 lette måder at spare (mange) penge på allerede i dag"
 permalink: /spar-penge/
 category:
-  - Spare penge
+  - Spar penge
 tags:
   - spare
 excerpt: "Jeg har samlet en masse gode spareråd, og hvordan du kan spare rigtig mange penge uden at gå ud over din livskvalitet."

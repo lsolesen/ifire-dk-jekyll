@@ -2,7 +2,7 @@
 title: "Tjek dine forsikringer - og spar penge"
 permalink: /forsikringer/
 category:
-  - Spare penge
+  - Spar penge
 tags:
   - spareråd
   - forsikring

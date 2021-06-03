@@ -3,7 +3,7 @@ title: "Spar penge på mobilabonnementet"
 permalink: /mobilabonnement/
 last_modified_at: 2019-04-06T22:39:43+02:00
 category:
-  - Spare penge
+  - Spar penge
 tags:
   - spareråd
   - mobilabonnementet
