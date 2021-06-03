@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/funderbeam.jpg
   teaser: /assets/images/logo/funderbeam.png
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - crowdlending
   - crowdfunding

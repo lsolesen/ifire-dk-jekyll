@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/bullionvault.jpg
   teaser: /assets/images/logo/bullionvault.png
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - opsparing
   - guld

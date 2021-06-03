@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/airbnb.jpg
   teaser: /assets/images/logo/airbnb.png
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - spareråd
   - rejsetips

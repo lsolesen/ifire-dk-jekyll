@@ -5,7 +5,7 @@ header:
   overlay_image: &image /assets/images/revolut.jpg
   teaser: *image
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - anmeldelse
   - betalingskort

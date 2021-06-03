@@ -5,7 +5,7 @@ header:
   overlay_image: &image /assets/images/trine.jpg
   teaser: *image  
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - crowdlending
   - anmeldelse

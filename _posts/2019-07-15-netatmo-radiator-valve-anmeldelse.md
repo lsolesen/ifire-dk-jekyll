@@ -2,7 +2,7 @@
 title: "Anmeldelse af Netatmo Smart Radiator Valves"
 permalink: /anmeldelse/netatmo-radiator-valve-anmeldelse/
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - anmeldelse
 excerpt: "Kan det betale sig at installere Netatmos (eller andre smarte radiator termostater) i huset?"

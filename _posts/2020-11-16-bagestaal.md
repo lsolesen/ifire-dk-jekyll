@@ -2,7 +2,7 @@
 title: "Test af bagestål vs bagesten til bagning af surdejsbrød [Anmeldelse]"
 permalink: /bagestaal-vs-bagesten-anmeldelse/
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - anmeldelse
   - bagning
