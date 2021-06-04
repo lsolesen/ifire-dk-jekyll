@@ -7,13 +7,15 @@ tags:
   - spare
 excerpt: "Jeg har samlet en masse gode spareråd, og hvordan du kan spare rigtig mange penge uden at gå ud over din livskvalitet."
 last_modified_at: 2021-05-29T20:22:02+02:00
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg er startet min rejse mod finansiel uafhængighed ved at kigge på, hvordan jeg kan spare penge på noget, der ikke giver mig ekstra livskvalitet.
 
 Det andet punkt i [rigdomsformlen]({% link _posts/2019-01-15-rigdomsformlen.md %}) er at gennemgå dine udgifter og se, hvor du kan spare penge, så dine samlede udgifter kun er det nødvendige.
 
-Jeg har fundet rigtig mange besparelser ved at have fokus på, hvordan jeg kan spare penge. 
+Jeg har fundet rigtig mange besparelser ved at have fokus på, hvordan jeg kan spare penge.
 
 Når de faste udgifter og privatforbruget er begrænset, så skal du jo i sidste ende tjene færre penge for at opnå finansiel uafhængighed.
 

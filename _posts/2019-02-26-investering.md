@@ -7,6 +7,8 @@ tags:
   - investering
 excerpt: "Investering i aktier og obligationer skal stadig være en del af min portefølje, men hvordan skal den være?"
 last_modified_at: 2020-03-04T15:20:02+02:00
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Hvordan skal jeg investere i aktier?
@@ -23,11 +25,11 @@ I 2013 fik jeg gennemgået hele min økonomi, og der blev jeg af banken rådet t
 
 ## Hvilke muligheder har jeg?
 
-Grundlæggende har jeg kigget på tre forskellige muligheder i forhold til at investere i aktier og obligationer. 
+Grundlæggende har jeg kigget på tre forskellige muligheder i forhold til at investere i aktier og obligationer.
 
 - **Banken håndterer investeringen**. Det er min nuværende løsning, men jeg har regnet ud, at de samlede årsomkostninger i procent (ÅOP) de seneste tre år har ligget mellem 1,21% og 1,75%, når man lægger bankens gebyrer, kurtage og værdipapirernes omkostninger sammen. Og det er uden selve produkternes ÅOP. Samtidig har jeg regnet ud, at jeg fra 2013 til 2018 kun har en intern rente på 2,8% i alt, hvilket måske i allerbedste fald betyder, at mine penge stadig er det samme værd, som de var for 5 år siden.
 - **Automatisk investering med robot**. De fleste banker har efterhånden lavet et robot-investeringsprodukt. Fx June, Nora, Darwin, [NORD.investments\*](/go/nord/). Fælles for disse er, at du vælger en risikoprofil og på baggrund af den sammensættes din portefølje og investeringsrobotterne så sørger automatisk for at forvalte din investering. Af disse synes jeg NORD.investments er ret interessante, fordi det ikke er en banks produkt, men de bruger en partnerbank. Det betyder, at de er meget afhængige af, at deres produkt spiller for at fastholde kunderne. Omkostningerne for disse løsninger ligger mellem 0,6% og 0,95% årligt (ÅOP).
-- **Dit eget depot, fx [Nordnet\*](/go/nordnet/)**. Du sørger selv for investeringerne, men det er også muligt at indbetale et beløb hver måned, som automatisk bliver investeret uden at betale kurtage i de op til fire investeringsforeninger, man kan vælge i deres “månedsopsparing”. Nordnet opererer med en kurtage på under 0,1% (dog mindst 29 kroner) (og til sammenligning tager min nuværende bank 0,4-0,5% i kurtage for hver handel). Hvis med månedsopsparingen, så er det altså kun værdipapiromkostningerne, der skal betales, og de ligger typisk fra 0,07% - 1% alt efter hvilken ETF eller investeringsforening, man vælger at investere i. 
+- **Dit eget depot, fx [Nordnet\*](/go/nordnet/)**. Du sørger selv for investeringerne, men det er også muligt at indbetale et beløb hver måned, som automatisk bliver investeret uden at betale kurtage i de op til fire investeringsforeninger, man kan vælge i deres “månedsopsparing”. Nordnet opererer med en kurtage på under 0,1% (dog mindst 29 kroner) (og til sammenligning tager min nuværende bank 0,4-0,5% i kurtage for hver handel). Hvis med månedsopsparingen, så er det altså kun værdipapiromkostningerne, der skal betales, og de ligger typisk fra 0,07% - 1% alt efter hvilken ETF eller investeringsforening, man vælger at investere i.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
 
@@ -50,7 +52,7 @@ Der er to former for værdipapir-skat eller skat på aktieindkomst:
 
 Det er en vigtig forskal, da skatten på gevinst er større end fradraget på tab på aktier. Det betyder, at du som lagerbeskattet ved store udsving i porteføljens værdi kan ende med en ekstra regning.
 
-Hvilken metode du skal afregne skat med afhænger derfor af din investeringsform og den ordning, du investerer igennem. 
+Hvilken metode du skal afregne skat med afhænger derfor af din investeringsform og den ordning, du investerer igennem.
 
 Du skal også være opmærksom på, om din investeringsform beskattes som aktieindkomst eller bekattes som kapitalindkomst.
 
@@ -63,13 +65,13 @@ Som om ovenstående ikke var nok, så er der også nogle bundgrænser at forhold
 
 ### Hvad er aktiesparekontoen?
 
-Regeringen har lavet en ny ordning i 2019, hvor du kan oprette en aktiesparekonto, hvor du kun skal betale 17% på dit afkast. Der er dog et loft på aktiesparekontoen på 50.000 kroner om året og indtil ordningen er indfaset i 2022 giver det altså et samlet loft på 200.000 kroner. 
+Regeringen har lavet en ny ordning i 2019, hvor du kan oprette en aktiesparekonto, hvor du kun skal betale 17% på dit afkast. Der er dog et loft på aktiesparekontoen på 50.000 kroner om året og indtil ordningen er indfaset i 2022 giver det altså et samlet loft på 200.000 kroner.
 
 > Der betales skat på 17 pct. af afkastet efter lagerprincippet, dvs. af udbytter samt realiserede og urealiserede avancer. Værdiforøgelsen af indestående på aktiesparekontoen beskattes, mens værdifald (tab) fremføres og modregnes i fremtidige afkast.
 
 ### Pensionsdepot
 
-Hvis du har et **pensionsdepot**, så er skatten relativt enkel, hvor al afkast beskattes med 15%. Det foregår som lagerbeskatning. 
+Hvis du har et **pensionsdepot**, så er skatten relativt enkel, hvor al afkast beskattes med 15%. Det foregår som lagerbeskatning.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
 

@@ -6,6 +6,8 @@ category:
 tags:
   - rigdomsformularen
   - status
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 excerpt: "I marts blev strategien for opbygge en formue virkelig testet med nedgang på de globale aktiemarkeder - og igen tabte jeg penge på crowdlending."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
@@ -28,7 +30,7 @@ Tak fordi du læser med. Endnu en måned hvor formuen var under pres, og det lyk
 
 Det var virkelig en måned, hvor tålmodigheden og strategien blev testet, og jeg brugte en del tid på at skrive nogle blog-indlæg om investeringer i værdipapirer. Jeg forsøger at samle dem under en side om [Investeringer](/investering/).
 
-**Opsparingsraten for måneden har været 33%**, hvilket er tilfredsstillende. Mine samlede indtægter er gået ned, fordi jeg er trådt helt ud af mit firma, og selvom jeg har [sparet på mine forsikringer](/forsikringer/), så er det stadig en relativt stor post i marts. 
+**Opsparingsraten for måneden har været 33%**, hvilket er tilfredsstillende. Mine samlede indtægter er gået ned, fordi jeg er trådt helt ud af mit firma, og selvom jeg har [sparet på mine forsikringer](/forsikringer/), så er det stadig en relativt stor post i marts.
 
 ## Investering
 
@@ -80,7 +82,7 @@ Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/tri
 
 ### Kontant
 
-Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min nødopsparing. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer. 
+Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min nødopsparing. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
 
 Jeg bruger fortsat [Curve\*](/go/curve/) som mit primære betalingskort, fordi jeg synes, at det er ret genialt, at man i praksis kan nøjes med at have et kort med, men kan betale via alle sine betalingskort.
 
@@ -92,7 +94,7 @@ Jeg bruger fortsat [Curve\*](/go/curve/) som mit primære betalingskort, fordi j
 
 Jeg har købt lidt flere Bitcoins og Etherum gennem [Kraken\*](/go/kraken/), hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase\*](/go/coinbase/), hvor jeg kigger efter deres _Earn_-programmer. Bitcoins holdt egentlig skansen ret godt, da resten af verden dykkede, så det kan sagtens vise sig at være en fornuftig opsparing, hvis jeg køber ind efter _dollar cost averaging_-princippet. Bitcoins og Tezos er de eneste valuater, der lige nu er i plus for mig.
 
-Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -770.17 EUR**. 
+Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -770.17 EUR**.
 
 Stellar Lumens er faldet en del, men når man [lærer om Stellar XML\*](https://coinbase.com/earn/xlm/invite/cxq453w7), så synes jeg dog, at det lyder som om, at XML har en fremtid i det finansielle system.
 

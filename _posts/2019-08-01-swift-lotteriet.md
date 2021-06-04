@@ -6,6 +6,8 @@ category:
 tags:
   - problemer
 excerpt: "Gebyrer for Swift bankoverførsler er et uigennemskueligt system - og man kan ikke finde ud af, hvem der tager det."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg er virkelig godt tilfreds med [Revolut\*](/go/revolut/), hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab\*](/go/agrikaab/) er en spændende [crowdlending platform](/platform/agrikaab/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet. <ins>Agrikaab er lukket ned marts 2020, og jeg har sandsynligvis tabt alle mine penge på platformen.</ins>.
@@ -29,7 +31,7 @@ Så jeg skriver i stedet til kundeservicen hos Revolut. (Jeg har kun gode erfari
 
 Jeg spørger kundeservice, hvorfor Agrikaab ikke har modtaget det fulde beløb.
 
-> In other words, Revolut doesn’t charge for sending  bank transfers, but transfers in such currency as USD are dispatched as SWIFT and the banks (intermediary banks or/and beneficiary bank, red) processing it can deduct a fee. 
+> In other words, Revolut doesn’t charge for sending  bank transfers, but transfers in such currency as USD are dispatched as SWIFT and the banks (intermediary banks or/and beneficiary bank, red) processing it can deduct a fee.
 
 Man kan finde oplysninger om [SWIFT-overførsler i i Revoluts FAQ](https://www.revolut.com/en-PL/help/exploring-revolut/sending-money/sending-money-to-a-bank-account/will-i-be-charged-for-transferring-money). Men så kommer hele udfordringen i denne sag:
 

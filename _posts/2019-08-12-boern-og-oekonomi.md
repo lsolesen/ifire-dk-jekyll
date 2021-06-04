@@ -16,13 +16,15 @@ feature_row:
     url: "https://amzn.to/31riw8s"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har tre fantastiske piger, som er født ind i en verden, hvor det virker som om bevidstløs forbrug er det mest normale. Det er også tre piger, som har en fin indtægt fra fødselsdage og andre møder med generøse familiemedlemmer. Det er tre piger, som bliver meget inspireret til at skaffe sig ting.
 
-Vi har ikke _flow tv_, så vi ser sjældent reklamer herhjemme. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted. Børnene får lov til at se tegnefilm i fjernsynet. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for _Vampyrina_ med en catchy sang. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse. Og hun er glad for det. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud. Og det er af plastik. 
+Vi har ikke _flow tv_, så vi ser sjældent reklamer herhjemme. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted. Børnene får lov til at se tegnefilm i fjernsynet. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for _Vampyrina_ med en catchy sang. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse. Og hun er glad for det. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud. Og det er af plastik.
 
-Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere mig for, hvordan jeg kunne lære mine børn om penge og ting.  
+Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere mig for, hvordan jeg kunne lære mine børn om penge og ting.
 
 - At penge ikke er en uendelig ressource.
 - At man skal arbejde for at få penge.
@@ -30,7 +32,7 @@ Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere m
 - At penge kun bør bruges, hvis man for alvor bliver lykkeligere af det, man køber.
 - At man kan få pengene til at arbejde for sig.
 
-Jeg er sikkert alt for meget. Jeg synes langt de fleste ting, mine børn gerne vil købe er fjollet, fordi de allerede har så mange ting. 
+Jeg er sikkert alt for meget. Jeg synes langt de fleste ting, mine børn gerne vil købe er fjollet, fordi de allerede har så mange ting.
 
 Jeg synes også, at det er ret vildt, hvor mange penge de allerede har samlet sammen gennem gaver. Jeg vil gerne inspirere dem til at beholde pengene og måske endda til at investere dem på den ene eller anden måde.
 
@@ -64,7 +66,7 @@ Vi har eksperimenteret lidt med andre aktiviteter, som forhåbentlig kan være m
 
 De seneste dage har jeg ledt efter mere inspiration til, hvordan jeg kan lære pigerne om penge.
 
-Jeg stødte på Ron Liebers overvejelser fra hans bog [Opposite of Spoiled\*](https://amzn.to/31riw8s), og jeg nød at se hans oplæg, som du også kan se her. 
+Jeg stødte på Ron Liebers overvejelser fra hans bog [Opposite of Spoiled\*](https://amzn.to/31riw8s), og jeg nød at se hans oplæg, som du også kan se her.
 
 {% include video provider="youtube" id="p9npcWXf4GM" %}
 
@@ -78,7 +80,7 @@ Her er pointer fra bogen i overskrifter:
 
 ## Skal vi give lommepenge?
 
-Ron Lieber foreslåer, at man giver lommepenge. Lige nu får pigerne ikke lommepenge, fordi jeg ikke helt kunne finde ud af, hvorfor de skulle have det. 
+Ron Lieber foreslåer, at man giver lommepenge. Lige nu får pigerne ikke lommepenge, fordi jeg ikke helt kunne finde ud af, hvorfor de skulle have det.
 
 Ron Lieber argumenterer for, at børn skal have lommepenge, så de lærer at spare op til noget, de har har brug for. Han foreslår, at beløbet stiger årligt, men at børnene samtidig får større ansvar for, hvad de selv skal købe for deres egne penge.
 

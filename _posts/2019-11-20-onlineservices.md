@@ -8,6 +8,8 @@ tags:
   - onlineservices
   - streaming
 excerpt: "Det lykkedes at spare 476 DKK om måneden ved at lave en status på de onlineservices, jeg bruger."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 services:
   - title: Lastpass - husk adgangskoder
     excerpt: Jeg har uhuskeligt mange forskellige adgangskoder til alle mine platforme og onlinetilstedeværelse. Derfor bruger jeg [LastPass](/lastpass-anmeldelse/), som er min helt uundværlige kode-husker. Den kan jeg slet ikke undvære.
@@ -24,7 +26,7 @@ services:
     price_after: 79 / mdr
   - title: Dropbox
     excerpt: Før jeg begyndte at smide det hele på Google Drive, så brugte jeg [Dropbox\*](https://db.tt/142zizQcTk) rigtig meget. Jeg har stadig en del liggende der. Dropbox er billigere end Google Drive, da det kun koster 99 U$D pr. år for 2TB. Jeg har været rigtig glad for Dropbox, men _jeg nedgraderer til den gratis plan. Det kræver en del oprydning, men heldigvis er det meste noget, jeg bare kan flytte til Google Drive eller slette._
-    referral: 
+    referral:
       title: Få 5G gratis på Dropbox
       url: https://db.tt/142zizQcTk
     price: 79 / mdr

@@ -15,6 +15,8 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg startede januar med at taste mine tal ind i [early.dk](http://www.early.dk) for at se, hvor mange år, der er til, jeg er økonomisk uafhængig.
@@ -51,7 +53,7 @@ Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
 
-Min **copytrading på Etoro** er også i plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen. 
+Min **copytrading på Etoro** er også i plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen.
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
@@ -63,7 +65,7 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 Faktisk går mine crowdlending-investeringer udemærket som helhed. Men markedet er bekymret i øjeblikket og jeg blev mindet om, at investeringerne er høj risiko.
 
-Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/). 
+Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/).
 
 Jeg har meldt mig ind i [Facebookgruppen Envestio Investorer DK](https://www.facebook.com/groups/127110065133037/), hvor andre investorer i samme knibe deler erfaringer. Jeg har politianmeldt Envestio ud fra [den hjælpsomme skabelon delt i denne tråd](https://www.facebook.com/groups/127110065133037/permalink/127894991721211/).
 
@@ -129,7 +131,7 @@ Det er lykkes mig at få en **indtjening på 68 DKK**. Du kan se opsamlingen på
 
 ## Afslutning
 
-Så efter en turbulent januar i crowdlending-verden vil jeg i februar rebalancere min samlede portefølje hen mod værdipapirer. 
+Så efter en turbulent januar i crowdlending-verden vil jeg i februar rebalancere min samlede portefølje hen mod værdipapirer.
 
 Samtidig vil jeg det næste stykke tid gå på nedsat tid for at få endnu bedre tid til at gøre noget spontant, lære noget nyt og have omtanke i livet. Det glæder jeg mig til.
 

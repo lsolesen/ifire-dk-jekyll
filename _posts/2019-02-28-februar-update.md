@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "I februar var målet at få mere styr på investeringerne. Der blev tilføjet en del mere crowdlending til min portefølje, fordi det ser spændende ud ift. afkastet."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Det er tid til en opdatering med, hvordan det går med at gøre min økonomi til en lidt mere selvkørende motor. Jeg har i første omgang valgt at fokusere på at optimere investeringsstrategien. Du kan se min [opdaterede portefølje her](/portfolio/).

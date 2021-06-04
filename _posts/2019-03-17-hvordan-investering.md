@@ -6,6 +6,8 @@ category:
 tags:
   - investering
 excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen?"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsplejeprodukt_, og den ser sådan her ud.
@@ -33,7 +35,7 @@ Min første aktion på Nordnet bliver således at sælge ud af mine obligationer
 
 Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. Men depotet kan ikke overføres - og det får jeg en grundig forklaring på af min bank:
 
-> Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter. 
+> Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter.
 
 Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden børsmægler efter mit valg.
 
@@ -111,7 +113,7 @@ Jeg har på [SaxoInvestor*](/go/saxoinvestor/) oprettet en **aktiesparekonto**, 
 
 Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
-### Beslutning ift. fremtidige investeringer 
+### Beslutning ift. fremtidige investeringer
 
 Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 

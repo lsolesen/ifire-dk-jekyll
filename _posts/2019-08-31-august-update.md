@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "I august måned har jeg fortsat investeret både i aktier, obligationer og crowdlending - og oprettet lidt flere kreditkort."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 *[GA]: Gennemsnitlig anskaffelseskurs

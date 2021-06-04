@@ -1,6 +1,8 @@
 ---
 title: "#14 Februar - uro på aktiemarkedet, overvejelser om kryptovaluta og rebalancering af crowdlending"
 permalink: /opdateringer/februar-2020-update/
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Opdateringer
 tags:
@@ -26,7 +28,7 @@ feature_row:
 
 *[ÅOP]: Årlige omkostninger i procent
 
-Tak fordi du læser med. Denne måned går min formue for første gang nedad siden min rejse mod finansiel uafhængighed startede for lidt mere end et år siden pga. aktiemarkedets udvikling og jeg starter ganske snart en lille mini-pension på nedsat tid. 
+Tak fordi du læser med. Denne måned går min formue for første gang nedad siden min rejse mod finansiel uafhængighed startede for lidt mere end et år siden pga. aktiemarkedets udvikling og jeg starter ganske snart en lille mini-pension på nedsat tid.
 
 Jeg har været [ude at rejse i denne måned og tænkt lidt over, hvordan det er bedst at betale i udlandet](/betalinger-udlandet/). Der havde jeg mulighed for at bruge mit [Curve\*](/go/curve/)-kort til at få gratis valutaveksling (op til 500 EUR) samtidig med at pengene i realiteten er blevet trukket på et af mine danske kreditkort. Hvis jeg skal bruge et større beløb i EUR, så bruger jeg naturligvis fortsat [Revolut\*](/go/revolut/), men ved mindre beløb er det lettere med Curve, for så kan jeg have overblikket i Spiir over hvad jeg bruger med det samme. Med Revolut plejer jeg at overføre beløbet fra mine danske konti for at få tallene rigtigt ind i Spiir.
 
@@ -42,19 +44,19 @@ Ellers har det været en nogenlunde almindelig måned, men med et ordentligt hak
 
 ## FIRE - 25x dine årlige udgifter
 
-I 2019 havde jeg og min familie samlede udgifter for 326.750 DKK. For at være finansiel uafhængig taler man ofte om 4% reglen, hvor man skal have investeret 25x sine årlige udgifter. Det ville betyde, at jeg skulle have investeret 8.171.400 DKK for at være helt finansiel uafhængig. Det er et stort beløb, og hvis det er nødvendigt, så mangler jeg altså lige nu virkelig mange penge at have investeret. 
+I 2019 havde jeg og min familie samlede udgifter for 326.750 DKK. For at være finansiel uafhængig taler man ofte om 4% reglen, hvor man skal have investeret 25x sine årlige udgifter. Det ville betyde, at jeg skulle have investeret 8.171.400 DKK for at være helt finansiel uafhængig. Det er et stort beløb, og hvis det er nødvendigt, så mangler jeg altså lige nu virkelig mange penge at have investeret.
 
 Men hvor lidt er egentlig nødvendigt for at kunne være finansiel uafhængig. Lige nu har jeg en relativ velpolstret hovedstol, som løbende kan give mig en passiv indkomst. Behøver jeg virkelig 25x mine udgifter for at kunne være finansiel uafhængig, når jeg også har en fin pensionsopsparing og lever i Danmark, hvor jeg også vil få folkepension.
 
-[WannaBeWalden](https://www.wannabewalden.com/why-25-times-your-annual-spending-aka-4-rule-is-way-too-much-money-in-order-to-retire-early/) foreslår, at 25x sine udgifter ikke er nødvendige. Jeg er 43 år. Hvis jeg lader være med at røre ved hovedstolen i mine investeringer fra nu af og til jeg når pensionalderen, så skal jeg altså bare regne ud, hvor mange penge jeg skal have investeret nu for at have det nødvendige beløb på det tidspunkt. WannaBeWalden skriver, at en gennemsnitsdansker bliver 81 år, så derfor behøver jeg kun 16x mine årlige udgifter i passive indtægter for at kunne leve resten af (det estimerede) liv for de penge. Når jeg lukrerer på renters rente af min nuværende investering og under den forudsætning, at jeg ikke rører ved hovedstolen, indtil jeg bliver pensioneret, så skal jeg på nuværende tidspunkt kun have 4,6x mine årlige udgifter investeret. Det giver 1.503.400 DKK jeg skal have investeret på nuværende tidspunkt for at kunne være finansiel uafhængig i pensionsalderen. Det har jeg allerede. Samtidig har jeg en relativt velpolstret pensionsordning fra min arbejdsgiver, så der er meget lidt sandsynlighed for at løbe tør for penge som pensioneret. Jeg kan altså med ro i sindet tage nogle mini-pauser fra mit lønarbejderliv. 
+[WannaBeWalden](https://www.wannabewalden.com/why-25-times-your-annual-spending-aka-4-rule-is-way-too-much-money-in-order-to-retire-early/) foreslår, at 25x sine udgifter ikke er nødvendige. Jeg er 43 år. Hvis jeg lader være med at røre ved hovedstolen i mine investeringer fra nu af og til jeg når pensionalderen, så skal jeg altså bare regne ud, hvor mange penge jeg skal have investeret nu for at have det nødvendige beløb på det tidspunkt. WannaBeWalden skriver, at en gennemsnitsdansker bliver 81 år, så derfor behøver jeg kun 16x mine årlige udgifter i passive indtægter for at kunne leve resten af (det estimerede) liv for de penge. Når jeg lukrerer på renters rente af min nuværende investering og under den forudsætning, at jeg ikke rører ved hovedstolen, indtil jeg bliver pensioneret, så skal jeg på nuværende tidspunkt kun have 4,6x mine årlige udgifter investeret. Det giver 1.503.400 DKK jeg skal have investeret på nuværende tidspunkt for at kunne være finansiel uafhængig i pensionsalderen. Det har jeg allerede. Samtidig har jeg en relativt velpolstret pensionsordning fra min arbejdsgiver, så der er meget lidt sandsynlighed for at løbe tør for penge som pensioneret. Jeg kan altså med ro i sindet tage nogle mini-pauser fra mit lønarbejderliv.
 
 At være finansiel uafhængig handler for mig ikke om at undgå at arbejde - men at arbejdet ikke skal fylde hele mit liv. Jeg har et for mig meningsfyldt arbejde med mulighed for at være med til at gøre en forskel i andres liv, men det har også fyldt meget i de seneste mange år.
 
 Inspireret af [Morten Albæks bog Et Liv, En Tid, Et Menneske\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069) er der kun et liv, hvor det ikke giver mening at skille tiden op i forskellige tider, fx et fritids- og arbejdsliv. At fylde livet med noget meningsfyldt - og der er mit arbejdsliv også en del af det.
 
-Når jeg tænker på finansiel uafhænighed handler det altså om, at jeg ikke arbejder for at tjene penge, men for at gøre mit liv meningsfyldt. Jeg har også en familie, og lige nu vil jeg bruge mere af min energi på at kunne være sammen med dem. 
+Når jeg tænker på finansiel uafhænighed handler det altså om, at jeg ikke arbejder for at tjene penge, men for at gøre mit liv meningsfyldt. Jeg har også en familie, og lige nu vil jeg bruge mere af min energi på at kunne være sammen med dem.
 
-Derfor vil jeg det næste år nedsætte min arbejdstid og på den måde være på en form for mini-deltids-pension. Jeg har heldigvis en fleksibel arbejdsplads, som har givet mig mulighed for det - og jeg glæder mig helt vildt. 
+Derfor vil jeg det næste år nedsætte min arbejdstid og på den måde være på en form for mini-deltids-pension. Jeg har heldigvis en fleksibel arbejdsplads, som har givet mig mulighed for det - og jeg glæder mig helt vildt.
 
 Når jeg har en investering, der giver mig en passiv indtægt, og jeg tjener en del af mine udgifter undervejs på et meningsfyldt arbejde, så giver det en høj grad af økonomisk frihed. Hvad den skal udmønte sig i løbet af 2020 ved jeg ikke helt, men det er i hvert fald ikke udelukkende fyldt med arbejde.
 
@@ -76,25 +78,25 @@ Jeg har forenklet og rebalanceret min portefølje i løbet af denne måned. Jeg 
 
 Jeg har også kigget lidt på de samlede omkostninger for mine porteføljer (i de almindelige porteføljer, har jeg ikke regnet handelsomkostninger med, hvilket er indeholdt i robotinvesteringernes ÅOP):
 
-| Portefølje                 | Indhold                                 | ÅOP   | 
+| Portefølje                 | Indhold                                 | ÅOP   |
 |----------------------------|-----------------------------------------|-------|
-| #1 SparIndex               | Aktier                                  | 0,61% | 
+| #1 SparIndex               | Aktier                                  | 0,61% |
 | #2 Growth Portfolio ETF’er | REIT, Guld, Aktier, Obligationer ETF’er | 0,25% |
-| Aldersopsparing            | Indeksfonde                             | 0%    | 
-| Nord.Investments           | Blandet robot                           | 0,75% | 
+| Aldersopsparing            | Indeksfonde                             | 0%    |
+| Nord.Investments           | Blandet robot                           | 0,75% |
 | Darwin                     | Blandet robot                           | 0,95% |
 
 De to robotinvesteringer har kun et lille beløb, og jeg fastholder dem for at holde lidt øje med markedet. SparIndex-porteføljen er realisationsbeskattet og giver udbytte, mens Growth Portfolio er lagerbeskattet og de fleste af ETF’erne er akkumulerende. Efter at de af Skat godkendte ETF’er er blevet beskattet som aktieindkomst kunne man nok godt overveje at konvertere nogle af SparIndex til de noget billigere ETF’er, men jeg er ikke sikker på, at jeg er interesseret i lagerbeskatning årligt af min portefølje.
 
-Samlet set går det stadig strålende med investeringerne, selvom der har været lidt uro på aktiemarkedet. Det er imidlertid bare en fin lejlighed til at få reduceret min kontantbeholdning lidt. Min strategi er at investere fast og ikke blande følelser ind i det, men jeg synes det er lidt svært, når jeg har et større kontantbeløb klar til investering at få trykket på knappen, når jeg kan se, at markedet er oppe. Men det tager også alt for meget tankevirksomhed at bekymre sig om, hvornår man så skal investere pengene. 
+Samlet set går det stadig strålende med investeringerne, selvom der har været lidt uro på aktiemarkedet. Det er imidlertid bare en fin lejlighed til at få reduceret min kontantbeholdning lidt. Min strategi er at investere fast og ikke blande følelser ind i det, men jeg synes det er lidt svært, når jeg har et større kontantbeløb klar til investering at få trykket på knappen, når jeg kan se, at markedet er oppe. Men det tager også alt for meget tankevirksomhed at bekymre sig om, hvornår man så skal investere pengene.
 
-> "Do nothing. I think all of this market timing is statistically unfounded. I don't trust it. You may avoid a downturn, but you may also miss the rise. Choose the risk tolerance you're OK with and hold tight." 
+> "Do nothing. I think all of this market timing is statistically unfounded. I don't trust it. You may avoid a downturn, but you may also miss the rise. Choose the risk tolerance you're OK with and hold tight."
 
 ---<cite>Professor Eugene Fama</cite>
 
 Det er efter al sandsynlighed ikke muligt at _time_ markedet, men derfor kan et fald i markedet jo godt være et startskud til at købe sig ekstra ind i markedet, hvis man har nogle frie midler, som endnu ikke er investeret.
 
-> "Don't sell out of fear or buy out of greed. Just keep making investments, and let the market take its course over the long-term." 
+> "Don't sell out of fear or buy out of greed. Just keep making investments, and let the market take its course over the long-term."
 
 ---<cite>Norman Fosback, author, researcher</cite>
 Så man kan godt overveje at investere ekstra, når markedet viser frygt, hvis man har nogle frie midler. Især når man investerer i brede indekser, som langsigtet vil gå op ad. Som passiv investor er det naturligvis ikke noget, man egentlig bør tænke så meget over. Men jeg synes det er svært at ignorere det helt.
@@ -133,7 +135,7 @@ Jeg hæver også løbende fra [FastInvest\*](/go/fastinvest/), fordi folk i crow
 
 [Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--danger }
 
-Ellers vil jeg også gerne reducere antallet af platforme, der fokuserer på ejendomme. Indtil nu har jeg ikke ret højt afkast på denne type crowdlending. Jeg har valgt at fokusere mest på [EstateGuru\*](/go/estateguru/) og [Evoestate\*](/go/evoestate/), men det kommer til at tage et godt stykke tid, inden jeg kan reducere eksponeringen, da investeringerne er langsigtede. 
+Ellers vil jeg også gerne reducere antallet af platforme, der fokuserer på ejendomme. Indtil nu har jeg ikke ret højt afkast på denne type crowdlending. Jeg har valgt at fokusere mest på [EstateGuru\*](/go/estateguru/) og [Evoestate\*](/go/evoestate/), men det kommer til at tage et godt stykke tid, inden jeg kan reducere eksponeringen, da investeringerne er langsigtede.
 
 [EstateGuru\*](/go/estateguru/){: .btn .btn--large .btn--info } eller [EvoEstate\*](/go/evoestate/){: .btn .btn--large .btn--success }
 
@@ -155,7 +157,7 @@ Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/tri
 
 ### Kontant
 
-Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), og jeg venter spændt på, hvordan de vil belønne brugerne i fremtiden. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer. 
+Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), og jeg venter spændt på, hvordan de vil belønne brugerne i fremtiden. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
 
 Jeg er begyndt at bruge [Curve\*](/go/curve/) som mit primære betalingskort, fordi jeg synes, at det er ret genialt, at man i praksis kan nøjes med at have et kort med, men kan betale via alle sine betalingskort. Jeg fik sendte Curve-kortet med min familie til Ikea og fik på den måde lidt cashback (som tilbydes på tre forskellige firmaer de første 90 dage).
 

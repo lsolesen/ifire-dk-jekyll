@@ -10,11 +10,13 @@ tags:
   - obligationer
 excerpt: "Sammenligning af fordeling af aktiver i en portefølje - og hvordan backtester man den med historiske data?"
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Man bliver [lige](/investering/) [lidt](/investering-vol2/) [klogere](/investering-vol3/) [hele](/investering-vol4/) tiden.
 
-Jeg vil som udgangspunkt gerne lave en _hands off_-investeringsstrategi. Derfor er sammensætningen af min portefølje en vigtig beslutning. 
+Jeg vil som udgangspunkt gerne lave en _hands off_-investeringsstrategi. Derfor er sammensætningen af min portefølje en vigtig beslutning.
 
 En rigtig god portefølje skal bestå både af investering og opsparing, men hvordan skal sammenhængen mellem de enkelte elementer være?
 
@@ -45,17 +47,17 @@ Forståelsen for aktivklassernes mønstre har været med til at inspirere de to 
 
 {% include figure image_path="/assets/images/posts/portfolio-2-permanent-portfolio.png" alt="Harry Brownes Permanent Portfolio" caption="Harry Brownes Permanent Portfolio" %}
 
-- **The All Weather Portfolio** sammensat af Ray Dalio og beskrevet i [Tony Robbins bog Money - Master the Game*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471143359). Porteføljen indeholder 30% aktier, 55% obligationer (både mellem- og lange), 7,5% guld og 7,5% _commodities_. 
+- **The All Weather Portfolio** sammensat af Ray Dalio og beskrevet i [Tony Robbins bog Money - Master the Game*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471143359). Porteføljen indeholder 30% aktier, 55% obligationer (både mellem- og lange), 7,5% guld og 7,5% _commodities_.
 
 ## Hvordan vælger man porteføljesammensætning?
 
-Med [Portfolio Visualizer](https://www.portfoliovisualizer.com/) kan vi [teste de forskellige aktiv-sammensætninger op mod hinanden](https://www.frinans.dk/pensionsportefoeljen-del-2-min-pensionsportefoelje/). Den traditionelle 50/50 klarer sig samlet bedst fra 2007 - 2019, men det er også den sammensætning, der har de største fald i perioden. Fordi der kun er data for _commodities_ siden 2007, kan testen ikke gå længere tilbage. 
+Med [Portfolio Visualizer](https://www.portfoliovisualizer.com/) kan vi [teste de forskellige aktiv-sammensætninger op mod hinanden](https://www.frinans.dk/pensionsportefoeljen-del-2-min-pensionsportefoelje/). Den traditionelle 50/50 klarer sig samlet bedst fra 2007 - 2019, men det er også den sammensætning, der har de største fald i perioden. Fordi der kun er data for _commodities_ siden 2007, kan testen ikke gå længere tilbage.
 
 Når man investerer for at opnå økonomisk uafhængighed, kan der altså være en ide i at inkludere andre typer aktiver i sin portefølje, så porteføljen også er stærk i nedgangstider.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 
-## Findes der andre sammensætninger? 
+## Findes der andre sammensætninger?
 
 Ejendomme fylder en del, når man læser forskellige _blogs_ om finansiel uafhængighed. Jeg her stødt på [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/) som har forfinet _The Permanent Portfolio_ til det han kalder _Growth Portfolio_. Porteføljen består af 25% aktier, 25% lange obligationer, 25% guld og 25% ejendomme. Han har udvalgt nogle helt særlige REITs, som gør at hans portefølje præsterer noget bedre end hvis han havde valgt et indeks, fx Vanguards VNQ.
 
@@ -64,7 +66,7 @@ Ejendomme fylder en del, når man læser forskellige _blogs_ om finansiel uafhæ
 Når Mark fra Obvious Investor laver sin _backtest_, så har han ikke kontanter med i The Permanent Portfolio, da han mener, at det trækker værdien uretfærdigt nedad i Portfolio Vizualizer, men hans portefølje klarer sig samlet noget bedre end markedet i perioden. Jeg har valgt at tage kontanter med i mine tests på denne side.
 {: .notice--info}
 
-Når man sammenligner Growth Portfolio (Portfolio 1), Permanent Portfolio (Portfolio 2) og 50/50 (Portfolio 3), så klarer Growth Portfolio sig altså i perioden fra 2005-2019 noget bedre sammenlagt uden at klare sig dårligere i _worst year_ og _max. drawdown_. 
+Når man sammenligner Growth Portfolio (Portfolio 1), Permanent Portfolio (Portfolio 2) og 50/50 (Portfolio 3), så klarer Growth Portfolio sig altså i perioden fra 2005-2019 noget bedre sammenlagt uden at klare sig dårligere i _worst year_ og _max. drawdown_.
 
 {% include figure image_path="/assets/images/posts/portfolio-returns.png" alt="Udvikling i de tre porteføljer" caption="Udvikling i de tre porteføljer" %}
 
@@ -78,15 +80,15 @@ Men hvordan vil Growth Portfolio egentlig klare sig, hvis man vælger en ETF til
 
 {% include figure image_path="/assets/images/posts/portfolio-4-growth-portfolio-reit-etf.png" alt="The Obvious Investors Growth Portfolio med en REIT-ETF" caption="The Obvious Investors Growth Portfolio med en REIT-ETF" %}
 
-Med ETF’en falder CAGR med cirka 1%-point, det værste år med cirka 5%-point og max. drawdown med 9%-point. Med de historiske data er [Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB) altså med til at beskytte porteføljen noget bedre end [Vanguard Real Estate ETF](https://www.morningstar.com/etfs/arcx/vnq/quote). 
+Med ETF’en falder CAGR med cirka 1%-point, det værste år med cirka 5%-point og max. drawdown med 9%-point. Med de historiske data er [Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB) altså med til at beskytte porteføljen noget bedre end [Vanguard Real Estate ETF](https://www.morningstar.com/etfs/arcx/vnq/quote).
 
 {% include figure image_path="/assets/images/posts/portfolio-return-reit-etf.png" alt="Sammenligning mellem REIT-picks i originale Growth Portfolio (1) og en udvalgt ETF (2)" caption="Sammenligning mellem REIT-picks og ETF i Growth Portfolio" %}
 
 ## Backteste danske og europæiske forhold?
 
-Desværre så kan Portfolio Vizualizer ikke bruge europæiske data (hvilket de dog arbejder på at finde en løsning på), så man kan ikke _back teste_ den præcise sammensætning af sin portefølje med europæisk og dansk islæt. 
+Desværre så kan Portfolio Vizualizer ikke bruge europæiske data (hvilket de dog arbejder på at finde en løsning på), så man kan ikke _back teste_ den præcise sammensætning af sin portefølje med europæisk og dansk islæt.
 
-Det er ganske vist [let at importere data](https://www.portfoliovisualizer.com/manage-benchmarks#import), men langt de fleste europæiske UCITS fonde har ikke et langt historisk datasæt, og jeg kunne slet ikke finde et historisk datasæt til de danske investeringsforeninger fra fx SparInvest. 
+Det er ganske vist [let at importere data](https://www.portfoliovisualizer.com/manage-benchmarks#import), men langt de fleste europæiske UCITS fonde har ikke et langt historisk datasæt, og jeg kunne slet ikke finde et historisk datasæt til de danske investeringsforeninger fra fx SparInvest.
 
 Jeg fandt historiske data til udtræk i en CSV-fil på [Investing.com](http://www.investing.com)).
 {: .notice--info}
@@ -95,13 +97,13 @@ Man må altså famle en lille smule i (historisk _backtest_) blinde, hvis man ge
 
 ## Min egen fordeling?
 
-Jeg er inspireret af The Growth Portfolio. Som [tidligere skrevet](/investering-vol4/) opererer jeg overordnet med to forskellige porteføljer. 
+Jeg er inspireret af The Growth Portfolio. Som [tidligere skrevet](/investering-vol4/) opererer jeg overordnet med to forskellige porteføljer.
 
 I den ene vil jeg nok ramme en fordeling, der ligner _Growth Portfolio_ - primært med akkumulerende ETF’er.
 
 I min anden portefølje vil jeg nok i højere grad gå efter de danske index-fonde fra SparInvest, som betaler udbytte. Spørgsmålet er også om den skal suppleres op med specifikke udbytteaktier eller andre fonde, der betaler udbytte, så jeg kan få en løbende udbetalt indtægt.
 
-Det næste jeg bør gøre mig overvejelser om at lave en strategi for er altså vægten mellem mine to primære værdipapir-porteføljer skal være, men også hvordan valutaer skal være vægtet i mine værdipapirer. 
+Det næste jeg bør gøre mig overvejelser om at lave en strategi for er altså vægten mellem mine to primære værdipapir-porteføljer skal være, men også hvordan valutaer skal være vægtet i mine værdipapirer.
 
 [Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
 

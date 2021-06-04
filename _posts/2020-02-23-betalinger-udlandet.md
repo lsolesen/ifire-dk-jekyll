@@ -8,6 +8,8 @@ tags:
   - betalingskort
   - udlandet
 excerpt: "Det lykkedes at spare 178 DKK på vekselgebyr og hævegebyr i udlandet ved at bruge en smule omtanke med betalingskortene."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har været et par gange i udlandet på det seneste, og jeg bliver altid lidt i tvivl om, hvordan det er smartest at betale. Så jeg undersøgte det lige en ekstra gang for en sikkerheds skyld.
@@ -46,7 +48,7 @@ Jeg forsøger så vidt muligt at undgå unødvendige gebyrer, og jeg medbringer 
 
 - **[Norwegian\*](/go/norwegian/)-kreditkort** bruger jeg typisk til at betale min rejse med, for så får jeg gratis rejseforsikring. Samtidig er der _cash back_ i form af Norwegian Reward point, som kan bruges til at bestille flyrejser hos Norwegian. Jeg bruger typisk mit Curve-kort til at stå for valutavekslingen, men pengene trækkes reelet på mit Norweigan kreditkort. Der er typisk større sikkerhed ved at betale med et kreditkort i udlandet, så hvis der er nogle ting jeg er lidt usikre på, så vil jeg vælge at betale direkte med mit Norweigan-kort selvom der er et mindre vekselgebyr.
 
-[Curve\*](/go/curve/), [N26\*](/go/n26/) og [Revolut\*](/go/revolut/) har tilmed nogle fine sikkerhedsindstillinger i appen, hvor man kan slå hævninger i ATM, kontaktløs betaling eller i det hele taget lukke kortet, når man ikke skal bruge det. Desuden får du en øjeblikkelig meddelelse, når der bliver trukket pengene på kortet på din smartphone. Det mindsker sandsynligheden for, at kortet bliver misbrugt. 
+[Curve\*](/go/curve/), [N26\*](/go/n26/) og [Revolut\*](/go/revolut/) har tilmed nogle fine sikkerhedsindstillinger i appen, hvor man kan slå hævninger i ATM, kontaktløs betaling eller i det hele taget lukke kortet, når man ikke skal bruge det. Desuden får du en øjeblikkelig meddelelse, når der bliver trukket pengene på kortet på din smartphone. Det mindsker sandsynligheden for, at kortet bliver misbrugt.
 
 ## Betaling med betalingskort i udlandet
 

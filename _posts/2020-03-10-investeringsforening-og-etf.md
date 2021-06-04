@@ -2,6 +2,8 @@
 title: "Hvad er investeringsforeninger og ETF’er?"
 last_modified_at: 2020-03-09T09:20:02+02:00
 permalink: /hvad-er-investeringsforeninger-og-etfer/
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Investering
 tags:
@@ -37,7 +39,7 @@ Indeksfonden tjener ved at opkræve et årligt gebyr fra alle investorer (de lø
 {% include video provider="youtube" id="4zUA-D_sZhY" %}
 
 Danske Investeringsforeninger
-: Mange investorer går sammen i en investeringsforening om at investere sammen. I en investeringsforening får du ofte spredning af risiko. En investeringsforening kan investere aktivt eller passivt. Investeringsforeningerne kan have forskellige afdelinger med forskellige investeringsmål. 
+: Mange investorer går sammen i en investeringsforening om at investere sammen. I en investeringsforening får du ofte spredning af risiko. En investeringsforening kan investere aktivt eller passivt. Investeringsforeningerne kan have forskellige afdelinger med forskellige investeringsmål.
 
 {% include video provider="youtube" id="q6vEWVMLbLY" %}
 
@@ -61,9 +63,9 @@ Udenlandske ETF’er
 
 {% include video provider="youtube" id="36JEjS5ewxk" %}
 
-ETF’er arbejder nærmest på samme måde som almindelige indeksfonde, men de sælger certifikater, der er bakket op af aktier. Den første gang certifikatet sælges, så sælger institutionen direkte til investoren. 
+ETF’er arbejder nærmest på samme måde som almindelige indeksfonde, men de sælger certifikater, der er bakket op af aktier. Den første gang certifikatet sælges, så sælger institutionen direkte til investoren.
 
-Efterfølgende handler investoren dette certifikat med andre investorer på børsen. (Andele i indeksfonde kan ikke handles). 
+Efterfølgende handler investoren dette certifikat med andre investorer på børsen. (Andele i indeksfonde kan ikke handles).
 
 ETF-udgiveren tjener et årligt administrationsgebyr, der opkræves af ETF-ejerne. Typisk er de årlige omkostninger for en ETF dog relativt lave.
 
@@ -90,15 +92,15 @@ _Tracking differencen_ beskriver en ETFs evne til at replicere et indeks og få 
 **Eksempel**. Hvis et indeks kaster 10% af sig i et givet år, og det også lykkes for ETF’en at få et afkast på 10%, så er tracking differencen 0. Hvis ETF’en har et afkast på 9% eller 11%, så er tracking  differencen 1%-point eller 10%.
 {: .notice .notice--info }
 
-Desto længere tidsrum du kigger på tracking differencen, desto bedre er tallet. 
+Desto længere tidsrum du kigger på tracking differencen, desto bedre er tallet.
 
 ## Hvad skal jeg holde øje med?
 
-Når du finder en investeringsafdeling eller ETF, du gerne vil så start med at læse Key Investor Information (KIID). 
+Når du finder en investeringsafdeling eller ETF, du gerne vil så start med at læse Key Investor Information (KIID).
 
 ## Akkumulerende vs. udbyttebetalende
 
-Selvom indeksforeningerne og ETF’erne følger indekset, så ejer de stadig aktier. Nogle aktier betaler deres investorer et aktieudbytte. De penge bliver i praksis betalt til indeksfondene. 
+Selvom indeksforeningerne og ETF’erne følger indekset, så ejer de stadig aktier. Nogle aktier betaler deres investorer et aktieudbytte. De penge bliver i praksis betalt til indeksfondene.
 
 - **Udbyttebetalende**. Nogle foreninger tager udbyttet og betaler det videre til investorerne. Der vil stå Dist(ributing) i fondens navn eller i KIID.
 - **Akkumulerende**. En anden type ETF akkumulerer udbyttet og bruger det til at geninvestere i indekset i selve fonden i stedet.
@@ -107,7 +109,7 @@ Der kan være fordele og ulemper ved begge del. Hvis du kan geninvestere udbytte
 
 ## Forskellige ETF’er
 
-Der findes en lang række forskellige ETF’er, der dækker større eller mindre markeder. Som passiv investor skal du beslutte dig for, hvilket indeks du gerne vil følge. Hvis en _niche_-ETF kan fylde et hul i et indeks, du gerne vil fylde, så kan det godt give mening. 
+Der findes en lang række forskellige ETF’er, der dækker større eller mindre markeder. Som passiv investor skal du beslutte dig for, hvilket indeks du gerne vil følge. Hvis en _niche_-ETF kan fylde et hul i et indeks, du gerne vil fylde, så kan det godt give mening.
 
 **Eksempel**. Du vil gerne følge MSCI AWCI IMI, som er et verdensindeks, der følger hele verden - både udviklede og udviklingslande. Indekset indeholder også large, mid og small cap aktier. Hos iShares kan du købe et indeks, som kun følger de udviklede lande og large cap og mid cap, som hedder iShares MCI World (EUNL). Den kunne du supplere med iShares Emerging Markets (IS3N) og iShares MSCI World Small Cap (IUSN). Hvordan ETF’erne procentvis skulle fordele sig for at ramme din ønskede fordeling, må du gerne arbejde med.
 {: .notice .notice--info }
@@ -118,7 +120,7 @@ Som _passiv investor_ med interesse i at følge verdensindekset ville jeg ikke o
 
 ## Opsamling
 
-En indeksforening er en afdeling i en dansk investeringsforening. En ETF er en fond, der kan handles på børsen. I en indeksforening er der overensstemmelse mellem indre værdig og prisen. En ETFs pris bestemmes via udbud og efterspørgsel. Der er således altid en ”bid” og en ”ask” pris. 
+En indeksforening er en afdeling i en dansk investeringsforening. En ETF er en fond, der kan handles på børsen. I en indeksforening er der overensstemmelse mellem indre værdig og prisen. En ETFs pris bestemmes via udbud og efterspørgsel. Der er således altid en ”bid” og en ”ask” pris.
 
 Du kan både investere i udbyttebetalende eller akkumulerende indeksforeninger og ETF’er. Din strategi og dit behov bestemmer, hvad der bedst kan betale sig for dig.
 

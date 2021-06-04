@@ -1,5 +1,6 @@
 ---
 title: "Projekt: At skabe passiv indkomst på nettet - uden at bruge al min tid?"
+permalink: /projekt-referral-affiliate/
 category:
   - Indkomst
 tags:
@@ -7,13 +8,15 @@ tags:
   - affiliate markedsføring
   - passiv indkomst
 excerpt: "Hvordan kan jeg skabe en passiv indkomst på nettet gennem referral og affiliate markedsføring."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg har sat mig godt ind i, hvordan jeg kan lave passiv indkomst - ud over mine investeringer i værdipapirer og crowdlending. Spørgsmålene er: 
+Jeg har sat mig godt ind i, hvordan jeg kan lave passiv indkomst - ud over mine investeringer i værdipapirer og crowdlending. Spørgsmålene er:
 
-- Hvordan kan jeg skabe en passiv indkomst på nettet? 
-- Hvor lang tid tager det at lave? 
-- Hvor meget kan jeg tjene på det? 
+- Hvordan kan jeg skabe en passiv indkomst på nettet?
+- Hvor lang tid tager det at lave?
+- Hvor meget kan jeg tjene på det?
 
 Jeg er inspireret af [dogmeaffiliate.dk](http://dogmeaffiliate.dk/), og jeg vil altså undersøge om, jeg kan skabe en _passiv indkomst_ baseret på affiliate- og referral-marketing.
 

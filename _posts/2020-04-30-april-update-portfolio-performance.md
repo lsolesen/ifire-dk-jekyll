@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "Jeg er gået lidt kold i mit gamle hjemmelavede regneark, og er ved at lægge tallene ind i Portfolio Performance."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
     alt: "Ét liv, én tid, ét menneske"
@@ -28,7 +30,7 @@ Tak fordi du læser med.
 
 Det har været et stort arbejde at lave denne månedsopdatering.
 
-Jeg er nemlig blevet lidt træt af mit hjemmelavede regneark, så jeg gik i gang med at eksperimentere med det gratis open source program [PortfolioPerformance.info](http://www.portfolio-performance.info). Jeg håber, at jeg både kan tracke min almindelige investeringer, crowdlending og måske endda min kryptovaluta der. 
+Jeg er nemlig blevet lidt træt af mit hjemmelavede regneark, så jeg gik i gang med at eksperimentere med det gratis open source program [PortfolioPerformance.info](http://www.portfolio-performance.info). Jeg håber, at jeg både kan tracke min almindelige investeringer, crowdlending og måske endda min kryptovaluta der.
 Jeg har skrevet en artikel om, [hvordan jeg tracker min portefølje](/hvordan-tracker-jeg-min-portefolje/), og jeg kan godt afsløre at det nok primært i fremtiden bliver via det gratis program.
 
 Måneden bød på en fin opsparingsrate på 48%. Det ret motiverende, at opsparingsraten kan holdes højt over lang tid.
@@ -61,7 +63,7 @@ Jeg er fortsat ved at reducere min eksponering mod crowdlending, men du kan se e
 
 Jeg har altså en urealiseret gevinst på **1.808 DKK på crowdlending** i denne måned.
 
-Når man kigger på, hvilke platforme der klarer sig godt, så 
+Når man kigger på, hvilke platforme der klarer sig godt, så
 
 {% include figure image_path="/assets/images/posts/2020-april-xirr.jpg" caption="Intern rente på crowdlending" %}
 
@@ -97,7 +99,7 @@ Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne p�
 
 ### Kontant
 
-Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min _nødopsparing_. Pengene er imidlertid lidt for tilgængelige kan jeg mærke, for de brænder hele tiden efter at ville investeres i aktier. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer. 
+Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min _nødopsparing_. Pengene er imidlertid lidt for tilgængelige kan jeg mærke, for de brænder hele tiden efter at ville investeres i aktier. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
 
 [Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
 
@@ -107,9 +109,9 @@ Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. ha
 
 ### Kryptovaluta
 
-Jeg handler fortsat gennem [Kraken\*](/go/kraken/), hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase\*](/go/coinbase/), hvor jeg kigger efter deres _Earn_-programmer. 
+Jeg handler fortsat gennem [Kraken\*](/go/kraken/), hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase\*](/go/coinbase/), hvor jeg kigger efter deres _Earn_-programmer.
 
-Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 EUR**. 
+Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 EUR**.
 
 [Få 10EUR til Bitcoins på Coinbase\*](/go/coinbase){: .btn .btn--large .btn--info }
 
