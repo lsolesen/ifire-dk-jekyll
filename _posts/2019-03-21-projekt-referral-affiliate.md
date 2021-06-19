@@ -1,7 +1,7 @@
 ---
 title: "Projekt: At skabe passiv indkomst på nettet - uden at bruge al min tid?"
 category:
-  - Indkomst
+  - Tjen penge
 tags:
   - referral markedsføring
   - affiliate markedsføring
