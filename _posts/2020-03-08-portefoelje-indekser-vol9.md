@@ -2,6 +2,8 @@
 title: "Verdensindekset 2021: Passiv investering i aktier [Guide]"
 seo_title: "Verdensindekset 2021: Passiv investering i aktier [Guide] »"
 description: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Jeg viser her hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 excerpt: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Det består af henholdsvis de udviklede lande og fremvoksende markeder. Jeg viser her, hvordan det hænger sammen, og hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
@@ -100,7 +102,7 @@ MSCI ACWI (All Countries World Index) ([Factsheet](https://www.msci.com/document
 : Indekset dækker mere end 2.400 bestanddele i _large_ og _mid-cap_ selskaber i forskellige sektorer og fordelt på 49 udviklede og udviklingslande.
 
 MSCI ACWI Investable Market Index (IMI) ([Factsheet](https://www.msci.com/documents/10199/b93d88ef-632f-4bdb-9069-d7c5aecd9d6d))
-: Dækker mere end 9.000 bestanddele på tværs af virksomheder i _large, mid and small-cap_ på tværs af sektorer og fordelt på 49 udviklede og udviklingslande. 
+: Dækker mere end 9.000 bestanddele på tværs af virksomheder i _large, mid and small-cap_ på tværs af sektorer og fordelt på 49 udviklede og udviklingslande.
 
 MSCI ACWI All Cap Index ([Factsheet](https://www.msci.com/documents/10199/1fbb5ec6-b5d2-4806-b873-cd9f51551701))
 : Dækker mere end 14.000 bestanddele og inkluderer large, mid, small og micro-cap størrelser af virksomheder for udviklede lande og large, mid, small-cap for emerging markets.
@@ -110,7 +112,7 @@ Ud over MSCI AWCI er det også godt at kende de lidt mere begrænsede indekser. 
 MSCI World
 : MSCI World indeholder 23 udviklede lande med Europa, Nordamerika og Japan og indeholder 1.644 bestanddele.
 
-The MSCI World Minimum Volatility Index 
+The MSCI World Minimum Volatility Index
 : Indekset er udregnet ved at optimere MSCI World Index, der dækker 23 udviklede lande, til at mindske den absolutte risiko (gennem en række begrænsninger). Historisk har indekset haft en lavere _beta_ og volatilitet i forhold til MSCI World.
 
 Hvad betyder lav volatilitet egentlig på aktiemarkedet - og er risikoen i virkeligheden lavere - kan du blive lidt klogere på i denne video:

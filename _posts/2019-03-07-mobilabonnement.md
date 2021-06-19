@@ -9,6 +9,8 @@ tags:
   - mobilabonnementet
   - mobil
 excerpt: "Har du tjekket om dit mobilabonnement er det billigste for nylig. Der er mange penge at spare ved at kigge på dine behov og det produkt du vælger."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Rigtig mange får lavet et nyt mobilabonnement, når de køber en ny mobiltelefon. Meget ofte kan man spare samlet på at købe en ny telefon sammen med et abonnement. Men når telefonen så er betalt af, så står man med et mobilabonnement, der ofte er relativt dyrt.

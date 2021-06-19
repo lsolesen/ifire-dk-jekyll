@@ -6,6 +6,8 @@ category:
 tags:
   - rigdomsformularen
   - status
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 excerpt: "Jeg bruger i øjeblikket Atlaz, Portfolio Performance og Cointracking.info til at få overblik over min samlede portefølje."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
@@ -26,7 +28,7 @@ feature_row:
 
 Jeg har længe siddet og bakset med et Google Sheets ark, som jeg manuelt hver måned har opdateret med investeringer, crowdlending og kryptovaluta. Jeg synes det er lidt besværligt og kunne godt tænke mig en lidt mere robust løsning til at få et overblik over økonomien, så jeg gik lidt på udkig efter en bedre løsning.
 
-Inspireret af [Angelo](https://www.p2pinvesting.eu/how-to-track-your-investments-p2p-lending/) afprøvede jeg det gratis, open source [Portfolio Performance](http://www.portfolio-performance.info), som jeg ville se om det kunne være en mulighed til at tracke mine investeringer på en bedre måde. Programmet er lavet af en tysker, og meget af materialet er på tysk. Programmet kan fås både på Windows, Mac og Linux. Der er ingen reklamer og du skal ikke registrere dig for at bruge programmet. 
+Inspireret af [Angelo](https://www.p2pinvesting.eu/how-to-track-your-investments-p2p-lending/) afprøvede jeg det gratis, open source [Portfolio Performance](http://www.portfolio-performance.info), som jeg ville se om det kunne være en mulighed til at tracke mine investeringer på en bedre måde. Programmet er lavet af en tysker, og meget af materialet er på tysk. Programmet kan fås både på Windows, Mac og Linux. Der er ingen reklamer og du skal ikke registrere dig for at bruge programmet.
 
 Når man investerer, så synes jeg det er vigtigt, at man holder styr på, hvad den interne rente på ens investeringer reelt er. Det er ikke altid det er helt præcist på de forskellige platforme, og udregningerne på platformene tager sjældent _cash drag_ med i beregningerne. Det er særligt væsentligt i forhold til P2P-crowdlending, hvor der er en en del meget lysegrønne løfter om afkast.
 
@@ -67,7 +69,7 @@ Jeg fulgte denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu
 
 ### Importere data ind i Portfolio Performance
 
-Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt. 
+Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt.
 
 Jeg kan ikke finde CSV-filer:
 
@@ -82,7 +84,7 @@ Hvis du gerne vil have en widget med XIRR (IRR) på dit Performance Dashboard me
 
 ### Historiske priser
 
-Rigtig mange værdipapirer kan finde priserne på Yahoo Finance, hvis du skriver `ticker` ind, når du opretter din `Security`. Men du kan få de historiske priser ind på mange andre måder. 
+Rigtig mange værdipapirer kan finde priserne på Yahoo Finance, hvis du skriver `ticker` ind, når du opretter din `Security`. Men du kan få de historiske priser ind på mange andre måder.
 
 Jeg har en del værdipapirer, hvor jeg henter priserne ved hjælp af en tabel i stedet.
 
@@ -134,7 +136,7 @@ Du højreklikker ganske enkelt på kontoen og vælger `Deposit` eller `Removal` 
 
 ### Tilføj dine månedlige renter
 
-Hver måned når jeg laver en opdatering, så kigger jeg på værdien af min konto sidste måned med den nuværende værdi. Forskellen er en sammenblanding af rente, bonusser, gebyrer mv. For at gøre det lettest muligt, så bogfører jeg det samlede beløb som renter eller renteudgifter i programmet. På den måde stemmer min konto. 
+Hver måned når jeg laver en opdatering, så kigger jeg på værdien af min konto sidste måned med den nuværende værdi. Forskellen er en sammenblanding af rente, bonusser, gebyrer mv. For at gøre det lettest muligt, så bogfører jeg det samlede beløb som renter eller renteudgifter i programmet. På den måde stemmer min konto.
 
 Når det registreres som renter, så er det for Portfolio Performance en realiseret gevinst. I praksis er en gevinst i crowdlending ikke realiseret før pengene reelt er hævet, da der er risiko for at platformen går konkurs. Hvis det kunne lade sig gøre at registrere crowdlending som aktier og kryptovaluta, hvor det fremgår som urealiseret indtægt, ville det være optimalt.
 {: .notice .notice--info }
@@ -268,7 +270,7 @@ Se eksempel med [Kraken\*](/go/kraken/) på, hvordan du skriver det ind.
 
 {% include figure image_path="/assets/images/posts/pp-crypto.jpg" caption="Jeg har valgt Kraken til at hente `Historical Quotes` for kryptovaluta. For at den kan gøre det automatisk, skal du sætte Symbol til `XXBTZEUR` for Bitcoins." %}
 
-## Andre referencer 
+## Andre referencer
 
 - [passives-einkommen-mit-p2p.de](https://passives-einkommen-mit-p2p.de/portfolio-performance-wie-du-deine-p2p-plattformen-einfach-verwalten-kannst/)
 

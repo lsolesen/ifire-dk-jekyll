@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "Investeringerne kører på autopilot - og jeg er virkelig glad for overblikket fra det gratis Portfolio Performance."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
     alt: "Ét liv, én tid, ét menneske"

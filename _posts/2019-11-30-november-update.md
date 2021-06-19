@@ -15,6 +15,8 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Tak fordi du kigger forbi på vej ind i julemåneden.
@@ -91,7 +93,7 @@ Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning }
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }
@@ -110,7 +112,7 @@ Jeg har stadig en _vault_ hos [Revolut\*](/go/revolut/), hvor jeg sparer lidt Bi
 
 ## Passiv indtægt
 
-Det er lykkes at få en **indtjening på 105 DKK** i november. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/). 
+Det er lykkes at få en **indtjening på 105 DKK** i november. Du kan se opsamlingen på [oversigt over passiv indkomst](/passiv-indkomst/).
 
 ## Planer for december
 

@@ -1,5 +1,6 @@
 ---
 title: "Hvordan gør jeg min samlede portefølje etisk og bæredygtig?"
+permalink: /etik-baeredygtighed-investeringer/
 header:
   overlay_image: &image https://i1.wp.com/www.stgallenbusinessreview.com/wp-content/uploads/2016/07/investment-3.jpg?fit=1600%2C1066
   teaser: *image

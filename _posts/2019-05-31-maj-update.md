@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "I maj måned har målet være at se, hvordan arbejdet etableret i april bærer frugt."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har set frem til denne opdatering, men havde håbet at jeg var kommet lidt længere med at have en _hands off_-investering. Jeg synes stadig, at jeg bruger en del tid på at tænke over, hvordan investeringerne skal være skruet sammen. Til gengæld har jeg også glædet mig lidt til at se, om det er lykkes at skabe passiv indkomst baseret på mine allerede eksisterende websites (hvilket det ikke er).

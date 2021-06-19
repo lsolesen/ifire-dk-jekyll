@@ -10,6 +10,8 @@ tags:
   - obligationer
 excerpt: "Nu er min samlede værdipapirpulje ved at tage form - og nu venter jeg lige på en korrektion af markedet til at gå kraftigt ind."
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol2/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.
@@ -20,7 +22,7 @@ Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummule
 
 Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet](/go/nordnet/) gennem månedsopsparingen. I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
-Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. 
+Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt.
 
 **UPDATE**: Desværre er fondene fra _Vanguard_ med virkelig lave omkostninger ikke **UCITS**-godkendte, så det kan ikke købes på hverken Nordnet eller SaxoInvestor.
 {: .notice--info}
@@ -31,7 +33,7 @@ Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er in
 
 Når jeg køber manuelt ind i [Nordnet](/go/nordnet/), skal jeg være opmærksom på minimumskurtagen på 29 DKK for danske aktier og investeringsforeninger. Det betyder, at jeg skal købe relativt store summer (29.000 DKK) for at få den lavest mulige kurtage. Priserne for udenlandske handler er endnu højere, og fx skal jeg for at få mindst mulige kurtage købe for omkring 10.500 USD af fx _Vanguard_ ad gangen.
 
-Til at købe enkeltaktier og mindre portioner, så bruger jeg i stedet [SaxoInvestor](/go/saxoinvestor/). 
+Til at købe enkeltaktier og mindre portioner, så bruger jeg i stedet [SaxoInvestor](/go/saxoinvestor/).
 
 ## Fordeling mellem porteføljerne
 
@@ -96,7 +98,7 @@ ETF’er beskattes efter lagerprincippet, og der skal således betales skat af g
 
 Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigtig interessant med utrolig lave omkostninger. VTI er eksponeret mod hele verden, mens jeg har valgt VYM og VNQ som er eksponeret mod USA. Når jeg køber ind til porteføljen på Nordnet, skal jeg sørge for at købe ind i store nok portioner, så kurtagen bliver mindst mulig. De er alle udbyttebetalende, og udbytterne vil i første omgang bare blive geninvesteret manuelt.
 
-De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt. 
+De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt.
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
 |-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|

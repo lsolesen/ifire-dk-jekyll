@@ -24,7 +24,7 @@ Jeg har gennemgået kurserne følgende kurser:
 [Stellar Lumens](https://coinbase.com/earn/xlm/invite/cxq453w7)
 : Stellar er en platform, der forbinder bankerne, banksystemerne og menneskene.
 
-[EOSIO](https://coinbase.com/earn/eos/invite/cjdkm8sp) 
+[EOSIO](https://coinbase.com/earn/eos/invite/cjdkm8sp)
 : EOS er en protokol, der er designet til hurtige, gratis blockchain apps.
 
 [Orchid](https://coinbase.com/earn/oxt/invite/pc1gh5xs)

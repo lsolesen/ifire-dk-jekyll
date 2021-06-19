@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "I marts har målet været at afprøve forskellige platforme og få endnu mere styr på investeringerne. Tilføjede endnu flere crowdlending platforme og særligt noget ejendomsinvestering."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har virkelig glædet mig til at lave denne opdatering, fordi det er første opdatering efter jeg for alvor er kommet i gang med at tænke mere over rigdomsformularen: at tjene mere, forbruge mindre og investere (klogere).

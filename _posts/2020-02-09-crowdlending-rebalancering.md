@@ -8,6 +8,8 @@ tags:
   - crowdlending
 excerpt: "Crowdlending er en højrisikoinvestering, men platformene er meget forskellige. Med Risk-Reward kan vi give et bud på, hvilke platforme der er risikoen værd?"
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 <ins>**Advarsel**: Læs venligst første afsnit grundigt. Du kan finde en meget bedre analyse hos [Kristaps Mors: P2P platform ratings - March 2020](https://kristapsmors.substack.com/p/p2p-platform-ratings-march-2020).</ins>
@@ -31,7 +33,7 @@ Det her er imidlertid mit bud på mit eget ræsonnement for at vurdere risiko-af
 
 ## Vurdering af afkast - Platform Return
 
-_Platform return_ vurderer jeg ganske enkelt som den interne rente (XIRR). Det er relativt enkelt at regne ud med Google Sheets eller Excel. Jeg bruger ikke platformenes egne vurderinger eller reklamerne for platformene, da det ofte ikke matcher det reelle tal, man får i intern rente (som tager tidspunktet for investeringen og det reelle afkast i betragtning). 
+_Platform return_ vurderer jeg ganske enkelt som den interne rente (XIRR). Det er relativt enkelt at regne ud med Google Sheets eller Excel. Jeg bruger ikke platformenes egne vurderinger eller reklamerne for platformene, da det ofte ikke matcher det reelle tal, man får i intern rente (som tager tidspunktet for investeringen og det reelle afkast i betragtning).
 
 Jeg husker at afkastet er _urealiseret_ indtil jeg faktisk har hævet pengene fra platformen, så der er en vis usikkerhed på den enkelte platform. Derfor er der også en vurdering af de enkelte platformes sikkerhed.
 
@@ -126,11 +128,11 @@ Af de platforme der retter sig mod ejendomsmarkedet, så fremhæver [Risk Adjust
 
 Jeg har på [EstateGuru\*](/go/estateguru/) og [Crowdestate\*](/go/crowdestate/) imidlertid lavere intern rente, så for mig ligger de i _risk-reward_-score ikke bedre end [Housers\*](/go/housers/) og [BulkEstate\*](/go/bulkestate/).
 
-Det er værd at lægge mærke til, at [EvoEstate\*](/go/evoestate/), [FastInvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor) lige nu har nogenlunde samme _risk-reward-score_. Det skyldes at FastInvest har relativt høj intern rente, mens Crowdestor ikke leverer så høj intern rente for mig (og jeg typisk undgår de lån med de højeste renter). Efter alt hvad man hører i crowdlendingmiljøet er min mavefornemmelse med Crowdestor bedst, men man må også sige, at de lokker med ret høje renter. Evoestate synes jeg er ret smart, fordi den samler lån fra forskellige platforme. 
+Det er værd at lægge mærke til, at [EvoEstate\*](/go/evoestate/), [FastInvest\*](/go/fastinvest/) og [Crowdestor\*](/go/crowdestor) lige nu har nogenlunde samme _risk-reward-score_. Det skyldes at FastInvest har relativt høj intern rente, mens Crowdestor ikke leverer så høj intern rente for mig (og jeg typisk undgår de lån med de højeste renter). Efter alt hvad man hører i crowdlendingmiljøet er min mavefornemmelse med Crowdestor bedst, men man må også sige, at de lokker med ret høje renter. Evoestate synes jeg er ret smart, fordi den samler lån fra forskellige platforme.
 
 Det smarte i det bliver tydeligt, når man ser i den anden ende af risk-reward-skalaen.
 
-I den anden ende af skalaen har vi følgende: 
+I den anden ende af skalaen har vi følgende:
 
 - [BulkEstate\*](/go/bulkestate/)
 - [Housers\*](/go/housers/)

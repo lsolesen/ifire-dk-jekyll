@@ -12,6 +12,8 @@ tags:
   - investering
   - robot
 excerpt: "Der er flere måder at gribe en børneopsparing an på: Bankrenter, obligationer, investeringer i aktier. Hvad bør man gøre?"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 En børneopsparing er en særlig opsparingskonto forældre kan lave til deres barn. Der er nogle skattemæssige fordele ved en børneopsparing, og der er grænser for, hvor mange penge, du kan have på børneopsparingen.
@@ -34,7 +36,7 @@ Det er dig, der bestemmer, hvornår pengene bliver tilgængelige for dit barn, m
 
 ## Hvilke regler er der for børneopsparing i 2021?
 
-Der kom nye regler for børneopsparing i 2018. Disse regler betyder, at du som forældre eller bedsteforældre kan sætte flere penge ind på børneopsparingskontoen end du kunne tidligere. Beløbsgrænserne er steget samtidgi med at den samlede beløbsgrænse blev fordoblet. 
+Der kom nye regler for børneopsparing i 2018. Disse regler betyder, at du som forældre eller bedsteforældre kan sætte flere penge ind på børneopsparingskontoen end du kunne tidligere. Beløbsgrænserne er steget samtidgi med at den samlede beløbsgrænse blev fordoblet.
 
 Du kan maksimalt sætte 6.000 kroner ind på børneopsparingen årligt og i alt 72.000 kroner i alt over børneopsparingens levetid (reglerne indført i 2018 fordoblede de tidligere beløb).
 
@@ -133,9 +135,9 @@ Disse løsninger er ikke relevante for mig, men [du kan læse mere om skattefri 
 
 Jeg vil gerne ramme det globale aktiemarked på den mest omkostnings- og skatteeffektive måde. I mine undersøgelser af børneopsparingen er det endt på følgende måde.
 
-Min førsteprioritet er at have en traditionel **børneopsparing**, hvor jeg hvert år sætter et beløb ind. Jeg har tilknyttet et depot til børneopsparingen. 
+Min førsteprioritet er at have en traditionel **børneopsparing**, hvor jeg hvert år sætter et beløb ind. Jeg har tilknyttet et depot til børneopsparingen.
 
-Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at en fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%. 
+Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at en fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%.
 
 Fonden er beskattet efter lagerprincippet som aktieindkomst, men da børneopsparingen er skattefri betyder det ikke så meget.
 

@@ -28,6 +28,8 @@ gallery:
     image_path: /assets/images/book/nordnet-maaned-setup.jpg
     alt: "nordnet månedsopsparing guide fonde"
     title: "Vælg depot, beløb og fonde"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg bruger [Nordnets\*](/go/nordnet/) månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
@@ -47,7 +49,7 @@ Normalt koster handler hos de fleste børsmæglere en procentdel af dit samlede 
 
 Du kan altså med månedsopsparingen komme i gang med helt ned til 500 DKK om måneden. Og selv hvis du kun kan afsætte 100 DKK om måneden, så sætter du dem bare ind på månedsopsparingen, så investeres de, når der er penge nok på kontoen.
 
-Når du sælger dine værdipapirer igen, så skal du betale almindelig kurtage. Månedsopsparingen er altså en måde at få købt gratis ind på dit depot automatisk hver måned. Du skal være opmærksom på, at der er et begrænset udbud på Nordnet. 
+Når du sælger dine værdipapirer igen, så skal du betale almindelig kurtage. Månedsopsparingen er altså en måde at få købt gratis ind på dit depot automatisk hver måned. Du skal være opmærksom på, at der er et begrænset udbud på Nordnet.
 
 Når du har opsat månedsopsparingen, så køber Nordnet automatisk op den 5. i hver måned.
 
@@ -71,14 +73,14 @@ Hvis du er ung og kan tåle udsving i værdien af din portefølje, så kan du m�
 Du kan sætte dit beløb højere end det beløb, du indbetaler om måneden og på den måde sikre dig at det hele bliver investeret hver måned.
 
 Du kan vælge op til fire forskellige papirer at investere i. Du kan selv vælge fordelingen mellem de forskellige papirer, så det rammer din strategi så godt som muligt.
- 
-Du kan tilpasse dit valg løbende, og du kan sagtens nå at rette det, hvis du får tastet noget forkert ind. Men hvis handlen først er gennemført, kan du naturligvis ikke fortryde. Så er det ligesom at have købt et værdipapir på børsen. 
+
+Du kan tilpasse dit valg løbende, og du kan sagtens nå at rette det, hvis du får tastet noget forkert ind. Men hvis handlen først er gennemført, kan du naturligvis ikke fortryde. Så er det ligesom at have købt et værdipapir på børsen.
 
 Hvilke investeringsbeviser, du skal vælge, afhænger af din risiko og din tidshorisont. Der er desværre ikke nogle passive, danske obligationsafdelinger i månedsopsparingen, så dem må du købe manuelt ved siden af, hvis du bruger obligationer til at styre din risikoprofil. Jeg har skrevet lidt om [obligationer her](/obligationer/).
 
 ## Hvad investerer jeg i på Nordnets månedsopsparing?
 
-Jeg har oprettet en fast bankoverførsel fra min bank til Nordnet hver eneste måned den første. Den 8. i hver måned investerer Nordnet så automatisk i mine ønskede værdipapirer. 
+Jeg har oprettet en fast bankoverførsel fra min bank til Nordnet hver eneste måned den første. Den 8. i hver måned investerer Nordnet så automatisk i mine ønskede værdipapirer.
 
 Jeg har valgt en af de passive fonde fra SparInvest på mit ene depot - og på et andet depot har jeg valgt passive ETF’er fra BlackRock.
 
@@ -104,7 +106,7 @@ Pengene investeres altid den 5. i måneden, og det er typisk om eftermiddagen ef
 
 ## Problemet med månedsopsparingen
 
-I denne måned (april 2019) købte jeg i alt - fordelt på to depoter - syv forskellige værdipapirer. Det glædede jeg mig over, får så sparede jeg jo kurtage på alle købene. Men så så jeg på [Shareville](https://www.shareville.dk/aktier/sparinvest-index-globale-aktier-min-ris/kommentarer/imponerende-ringe-kurs-i-dag-for-manedsopsparingen-1391487k-74002717?fbclid=IwAR07VFlJFdkzOmOl0TwiNNe96FlsPOy9UEXJQM-MHrTMyr-7NzXe1MSQF4A), at kursen på den meget populære [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som jeg har sat til at fylde en del i min portefølje have en “imponerende ringe kurs”. 
+I denne måned (april 2019) købte jeg i alt - fordelt på to depoter - syv forskellige værdipapirer. Det glædede jeg mig over, får så sparede jeg jo kurtage på alle købene. Men så så jeg på [Shareville](https://www.shareville.dk/aktier/sparinvest-index-globale-aktier-min-ris/kommentarer/imponerende-ringe-kurs-i-dag-for-manedsopsparingen-1391487k-74002717?fbclid=IwAR07VFlJFdkzOmOl0TwiNNe96FlsPOy9UEXJQM-MHrTMyr-7NzXe1MSQF4A), at kursen på den meget populære [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som jeg har sat til at fylde en del i min portefølje have en “imponerende ringe kurs”.
 
 > Imponerende ringe kurs i dag for månedsopsparingen 139,1487kr. Næsten halvanden procent fra lukkekursen eller 2kr pr aktie dårligere end det nærmest var muligt at købe til på egen hånd.
 > \- [PalleRaa](https://www.shareville.dk/medlemmer/palleraa)
@@ -142,16 +144,16 @@ Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. 
 
 På handelsdagen for månedsopsparingen sker følgende:
 
-1. Der bliver lagt en fiktiv ordre ind på folks depoter ca. 1,5% over markedskursen. Dette er udelukkende visuelt for at reservere pengene, så man ikke ender i overtræk ved handlen. 
+1. Der bliver lagt en fiktiv ordre ind på folks depoter ca. 1,5% over markedskursen. Dette er udelukkende visuelt for at reservere pengene, så man ikke ender i overtræk ved handlen.
 2. Vores mæglere samler alle disse ordre og handler dem på et Nordnet-depot til den bedst mulige kurs. Herefter fordeles aktierne ud fra en gennemsnitskurs.
 
 ## UPDATE 6. maj 2019
 
-Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået? 
+Så blev det tid for månedsopsparingen skulle gøre sit arbejde for maj måned - og hvordan er det så gået?
 
 Som sædvanligt lægger Nordnet fiktive ordrer ind for at reservere beløbet. Det skete den 5. maj. Alle disse ordrer blev helt efter bogen lagt ind med en lidt højere pris end lukkeprisen. Ordrerne slettes i depotet igen for at blive erstattet af de rigtige ordrer, som bliver gennemført til den bedst mulige pris - og til sidst får alle på månedsopsparingen en gennemsnitskurs.
 
-Jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med søndag den 5. maj, med den købskurs de endte med at blive købt til den 6. maj og med lukkekursen fredag den 3. maj. Markederne var generelt faldet lidt den 6. maj, og det er altså også afspejlet i købskursen - og ingen af værdipapirerne er således blevet købt til overkurs i denne måned. 
+Jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med søndag den 5. maj, med den købskurs de endte med at blive købt til den 6. maj og med lukkekursen fredag den 3. maj. Markederne var generelt faldet lidt den 6. maj, og det er altså også afspejlet i købskursen - og ingen af værdipapirerne er således blevet købt til overkurs i denne måned.
 
 | Værdipapir                                                                                         | Ordrekurs | Købskurs | Lukkekurs | Valuta  |
 |----------------------------------------------------------------------------------------------------|-----------|----------|-----------|---------|

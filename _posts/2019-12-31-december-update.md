@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "December har igen budt på solide afkast fra værdipapirerne, mens crowdlending ser lidt bekymrende ud."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
@@ -39,7 +41,7 @@ Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har
 
 [Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
 
-Min **copytrading på Etoro** er også ved at nærme sig plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen, men vil forsøge at reducere antallet af folk, jeg følger. 
+Min **copytrading på Etoro** er også ved at nærme sig plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen, men vil forsøge at reducere antallet af folk, jeg følger.
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
@@ -49,7 +51,7 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 {% include crowdlending-warning.html %}
 
-I løbet af december er der begyndt at florere flere og flere historier om crowdlending-udfordringer. [Kuetzal har haft store problemer](https://financiallyfree.eu/concerns-about-kuetzal-is-kuetzal-a-scam/), men jeg har heldigvis ikke investeret i dem. 
+I løbet af december er der begyndt at florere flere og flere historier om crowdlending-udfordringer. [Kuetzal har haft store problemer](https://financiallyfree.eu/concerns-about-kuetzal-is-kuetzal-a-scam/), men jeg har heldigvis ikke investeret i dem.
 
 - [Envestio](/platform/envestio/) har skiftet ejerkreds, og det har skabt lidt [bekymringer for Envestios fremtid, som de dog svarer nogenlunde tilfredsstillende på](https://colminey.com/envestio-calming-news). Envestio har imidlertid fortsat for mig _kun_ en intern rente på 12,15%, hvilket får mig til at overveje om det er risikoen værd. Jeg sætter ikke flere penge ind på kontoen og vil ved tilbagebetalinger trække penge ud. Det skal dog bemærkes at alle tilbagebetalinger ser ud til at falde til tiden. <ins>**Envestio var et scam og lukkede ned i januar 2020**</ins>.
 - [RoboCash\*](/go/robocash/) har [suspenderet investeringer i en af deres låneudbydere](https://robo.cash/news/robocash_suspends_investment_into_the_loans_of_robocash_finance_corp). For mig virker det som om RoboCash håndterer udfordringerne, og [RoboCash\*](/go/robocash/) kører uden udfordringer for mig, selvom den interne rente er faldet til omkring 10,03% i denne måned.
@@ -75,7 +77,7 @@ Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning }
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som har givet **4% cashback** på de første 50.000 kr, når man bruger deres betalingskort og har Nemkonto hos dem. _Cash back_ bliver udbetalt først i 2020. Nu er Lunar blevet godkendt som bank, så fremover vil kunderne _forhåbentlig_ blive belønnet på en anden lige så generøs måde for at bruge Lunar. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar\*](/go/lunar/), som har givet **4% cashback** på de første 50.000 kr, når man bruger deres betalingskort og har Nemkonto hos dem. _Cash back_ bliver udbetalt først i 2020. Nu er Lunar blevet godkendt som bank, så fremover vil kunderne _forhåbentlig_ blive belønnet på en anden lige så generøs måde for at bruge Lunar. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 [Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }

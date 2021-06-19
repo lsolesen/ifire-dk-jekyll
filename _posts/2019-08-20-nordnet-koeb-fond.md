@@ -5,6 +5,8 @@ description: "Få en komplet illustreret guide til at købe passive indeksfonde 
 excerpt: "Hvordan køber du en dansk investeringsforening eller en udenlandsk ETF på Nordnet - og hvordan finder du en liste over de globale indekser?"
 last_modified_at: 2021-04-03T09:20:02+02:00
 permalink: /nordnet-koeb-fond/
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Investering
 tags:
@@ -46,7 +48,7 @@ I dette eksempel vælger jeg at søge efter **Investeringsforeninger**. Så komm
 - **Region/Land**: Global
 
 Så har du en liste med med passivt forvaltede fonde, der følger et verdensindeks. (læg mærke til at [fondene følger lidt forskellige fortolkninger af et globalt indeks](/investering-vol9/)). Du kan sortere listen ud fra forskellige parametre. Fx Morningstar rating og ÅOP (som er de årlige omkostninger i procent). Når du har valgt en fond, så sørg for at læse grundigt, hvad fonden investerer i, inden du går videre.
- 
+
 ## Lav en købsordre
 
 Når du har fundet en fond, du gerne vil investere i, så er du klar til at lave en købsordre.
@@ -63,7 +65,7 @@ Når du har fundet en fond, du gerne vil investere i, så er du klar til at lave
 
 Når du angiver prisen, kan det godt betale sig at kigge på **Ordredybde**. Ligesom aktier så er der heller ikke en bestemt pris på en fond. Prisen ændrer sig konstant på markedet, hvor der er både købere og sælgere.
 
-Køberne vil gerne købe til en pris, og sælgerne vil gerne sælge til en pris. 
+Køberne vil gerne købe til en pris, og sælgerne vil gerne sælge til en pris.
 
 Markedet omfavner at begge parter lægger hhv. købs- og salgsordrer ind i markedet. Når priserne rammer hinanden, så udføres handlen. Typisk håber køberne, at priserne vil bevæge sig nedad, mens sælgerne håber at priserne vil bevæge sig opad.
 

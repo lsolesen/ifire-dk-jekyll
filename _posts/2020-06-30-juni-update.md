@@ -7,6 +7,8 @@ tags:
   - rigdomsformularen
   - status
 excerpt: "Investeringerne kører stadig på autopilot, tab på Flexfunding og nye investeringer i The Many."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500
     alt: "Ét liv, én tid, ét menneske"
@@ -36,7 +38,7 @@ Ellers venter jeg på at kunne få lov til at overføre flere penge til min akti
 
 Det var tid til et bankskifte, fordi kravene i SparNord var blevet for besværlige for at opretholde Stjernekonto-status. Og når man ikke kan opretholde Stjernekonto-status, så eksploderer gebyrerne.
 
-Jeg [undersøgte priser på en lang række banker]({% link _posts/2020-05-14-bankpriser.md %}), og jeg ringede til flere banker. Jeg ville først og fremmest gerne have en bank uden gebyrer for helt almindelige transaktioner som overførsel mellem banker og betaling af girokort. 
+Jeg [undersøgte priser på en lang række banker]({% link _posts/2020-05-14-bankpriser.md %}), og jeg ringede til flere banker. Jeg ville først og fremmest gerne have en bank uden gebyrer for helt almindelige transaktioner som overførsel mellem banker og betaling af girokort.
 
 Jeg var først interesseret i Lån & Spar, fordi de har deres 3%-konto. De gjorde det imidlertid klart, at jeg skulle samle alle aktiviteter - inkl. Nordnet og Saxo i Lån & Spar for at kunne få kontoen. Så tjekkede jeg Arbejdernes Landsbank og Coop Bank, som begge var gebyrfrie. Jeg tjekkede begge på Trustpilot, og der vandt Coop Bank relativt stort.
 
@@ -45,7 +47,7 @@ Pr. 29. juni 2020 så Trustpilotanmeldelserne sådan her ud for de to banker.
 | | Arbejdernes Landsbank | Coop Bank |
 |-|-|-|
 | Oversigt | [Trustpilot](https://dk.trustpilot.com/review/www.albank.dk) | [Trustpilot](https://dk.trustpilot.com/review/coopbank.dk) |
-| Anmeldelser | 33 | 1.273 | 
+| Anmeldelser | 33 | 1.273 |
 | Rating | 1,5 | 4,2 |
 
 Læg i øvrigt mærke til at Arbejdernes Landsbank ikke har tilegnet sig sin Trustpilot-side.
@@ -62,7 +64,7 @@ Værdien af mine investeringer stiger stille og roligt, selvom jeg laver noget m
 
 ### Værdipapirer
 
-Mine investeringer har igen fået lov til at passe sig selv i denne måned, og jeg venter på at aktiesparekontoen er klar til at modtage flere penge. 
+Mine investeringer har igen fået lov til at passe sig selv i denne måned, og jeg venter på at aktiesparekontoen er klar til at modtage flere penge.
 
 Min **interne rente er på 3,54%** over alle de år, jeg har investeret i værdipapirer. Det er klart de udbyttebetalende danske indeksfonde, jeg har haft bedst held med i min portefølje.
 
@@ -78,7 +80,7 @@ Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, s
 
 Tidsforbruget med at holde styr på investeringerne i crowdlending er med til at gøre mig mere struktureret og kræsen i forhold til, hvad der giver mening. Jeg bruger meget tid på at følge med på de enkelte platforme for at følge med, og jeg synes det er vigtigt selv at være investeret i platformene.
 
-Jeg har en **intern rente på 3,01% på crowdlending**. Det skyldes jo bl.a. tabene i **Envestio**, men i dag har jeg lige udfyldt mit _claim_ i forhold til den konkurssag, der køres mod dem snart. Måske kan jeg få noget af det tabte igen. 
+Jeg har en **intern rente på 3,01% på crowdlending**. Det skyldes jo bl.a. tabene i **Envestio**, men i dag har jeg lige udfyldt mit _claim_ i forhold til den konkurssag, der køres mod dem snart. Måske kan jeg få noget af det tabte igen.
 
 **Grupeer** er også vågnet lidt op igen. Fx har jeg skullet opdatere mine KYC-informationer (Know Your Customer), og de er begyndt at tilskrive renter igen. Spørgsmålet er imidlertid om det bare er et røgslør. Jeg har endnu ikke afskrevet Grupeer i min portefølje, men forventer ikke at modtage pengene.
 
@@ -90,7 +92,7 @@ I løbet af maj har jeg **et tab på 1.126 DKK på crowdlending**. Husk at rente
 
 Heldigvis er jeg samlet stadig i plus.
 
-Jeg har været relativt imponeret af [Trine\*](/go/trine/), hvor jeg stadig har over 7% i intern rente, og selvom de specialiserer sig i bæredygtige projekter i Afrika, så ser det foreløbig ud til at være nogenlunde godt styr på virksomhederne, der lånes penge ud til. De er også gode til at informere om evt. udfordringer, og hvordan de håndterer dem. 
+Jeg har været relativt imponeret af [Trine\*](/go/trine/), hvor jeg stadig har over 7% i intern rente, og selvom de specialiserer sig i bæredygtige projekter i Afrika, så ser det foreløbig ud til at være nogenlunde godt styr på virksomhederne, der lånes penge ud til. De er også gode til at informere om evt. udfordringer, og hvordan de håndterer dem.
 
 Hvis du bruger mit [mit link til Trine\*](/go/trine/), så får vi begge 10 EUR at investere for.
 
@@ -114,7 +116,7 @@ Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar\*](/go/lunar/).
 
 Men jeg skal bruge flere konti, og jeg vil ikke betale for Premium-Lunar. Jeg har derfor valgt at skifte SparNord ud med Coop Bank. Det har jeg skrevet lidt om ovenfor.
 
-Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/). 
+Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/).
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -126,7 +128,7 @@ Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/cu
 
 ## Kryptovaluta
 
-Jet tracker stadig min kryptovaluta i Portfolio Performance, og der er ikke sket så meget i denne måned, så [min status fra sidste måned gælder stadig](/crypto-1-aar/). 
+Jet tracker stadig min kryptovaluta i Portfolio Performance, og der er ikke sket så meget i denne måned, så [min status fra sidste måned gælder stadig](/crypto-1-aar/).
 
 Jeg har en **intern rente samlet på mine investeringer i kryptovaluta på -1,14%**, hvilket skyldes Cred, Ripple og Stellar Lumens meget dårlige interne rente. Hvis jeg udelukkende havde investeret i Bitcoins, så ville det have gået mig noget bedre, da den lige nu har en intern rente på 50%.
 
@@ -136,7 +138,7 @@ Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn\*](/go/coi
 
 ## Passiv indkomst
 
-Jeg har i denne måned **tjent 153 kroner på passiv indkomst**. Jeg valgte i sidste måned at fjerne Google Adsense fra mine sites, fordi det genererede for lidt og satse på at lave flere og bedre søgeoptimerede opslag. 
+Jeg har i denne måned **tjent 153 kroner på passiv indkomst**. Jeg valgte i sidste måned at fjerne Google Adsense fra mine sites, fordi det genererede for lidt og satse på at lave flere og bedre søgeoptimerede opslag.
 
 Jeg gik i gang med at følge rådende fra _Income School_ i forhold til at lave nogle gode blogindlæg. Jeg skrev i sidste måned [dette blogindlæg om Income School og deres tilgang til søgeoptimering](/tjene-penge-blogge/).
 

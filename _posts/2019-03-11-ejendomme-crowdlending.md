@@ -9,6 +9,8 @@ tags:
   - ejendomsinvestering
   - ejendom
 excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investere i ejendomsmarkedet gennem crowdlending?"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 {% include disclosure.html %}
@@ -19,11 +21,11 @@ Når man læser om mulighederne for at skabe _passiv indkomst_, så kommer ejend
 
 [Historisk set](https://finans.dk/privatokonomi/ECE10175690/forskere-den-bedste-langsigtede-investering-er-ikke-aktier/) har ejendoms- og boliginvestering vist sig at være en god investering (og justeret for risiko bedre en aktier). Samtidig kan ejendomsinvesteringer være med til at sprede din risiko for de penge, du investerer.
 
-Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det virkelig smart, at man nu kan være med på ejendomsmarkedet på en mere passiv måde gennem crowdfunding. Jeg har allerede investeret en del penge i det gennem følgende _crowd lending_ platforme til boligmarkedet. Alle er rigtig lette at bruge. 
+Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det virkelig smart, at man nu kan være med på ejendomsmarkedet på en mere passiv måde gennem crowdfunding. Jeg har allerede investeret en del penge i det gennem følgende _crowd lending_ platforme til boligmarkedet. Alle er rigtig lette at bruge.
 
 ## Fordele ved crowdfunded ejendomsinvestering
 
-Jeg har mulighed for at starte for et relativt lavt beløb, og det er lettere at sprede min investering over flere ejendomme. Dermed er min risiko betydeligt reduceret. Jeg har ikke forstand på ejendomme eller administration, så det er rigtig godt, at folk med både tid og evner vurderer købet. 
+Jeg har mulighed for at starte for et relativt lavt beløb, og det er lettere at sprede min investering over flere ejendomme. Dermed er min risiko betydeligt reduceret. Jeg har ikke forstand på ejendomme eller administration, så det er rigtig godt, at folk med både tid og evner vurderer købet.
 
 Samtidig er jeg naturligvis opmærksom på, at jeg med den mindre risiko naturligvis heller ikke får det samme afkast, som hvis jeg ejede min egen ejendom. Udbuddet på crowdfunding platformene er også med til at begrænse mit valg, men ulemperne opvejes helt klart af fordelene for mig.
 
