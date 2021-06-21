@@ -2,7 +2,7 @@
 title: "Opdatering på projekt: Passiv indkomst fra affiliate og referral marketing (efter 4 mdr)"
 permalink: /projekt-referral-affiliate-august-2019/
 category:
-  - Indtægter
+  - Tjen penge
 tags:
   - opsparingsrate
   - affiliate

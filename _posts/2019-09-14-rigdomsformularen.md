@@ -2,7 +2,7 @@
 title: "Ung, finansiel bevidsthed og rigdomsformlen"
 permalink: /ung-rigdomsformel/
 category:
-  - Indtægter
+  - Tjen penge
 tags:
   - rigdomsformlen
 excerpt: "Hvordan kommer man som ung i gang med at være finansielt bevidst og få styr på sin økonomi?"

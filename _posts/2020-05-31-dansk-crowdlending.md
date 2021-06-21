@@ -3,7 +3,6 @@ title: "Mine erfaringer med dansk crowdlending. 3 år senere!"
 seo_title: "Dansk crowdlending 2021 • 4 års erfaringer med platforme »"
 permalink: /dansk-crowdlending/
 category:
-  - Investeringer
   - Crowdlending
 tags:
   - crowdlending
