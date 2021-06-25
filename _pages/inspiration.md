@@ -2,6 +2,8 @@
 layout: single
 title: Inspiration
 permalink: /inspiration/
+redirect_from:
+  - /deals/
 excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed og tidlig pensionering."
 author_profile: true
 feature_row_setup:
@@ -131,3 +133,62 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 - ChooseFI
 - Our Rich Journey
 - Afford Anything
+
+## Crowdlending, crowdfunding og P2P-investeringer
+
+{% assign deals = site.platforms | where: "tags", "crowdlending" | where_exp: "item", "item.deal != ''" %}
+{% for d in deals %}
+  {% if everything.size > 0 %}
+    {% assign everything = d.deal | concat: everything %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
+
+***
+
+## Betalingskort og bankkonti
+
+{% assign everything = "" %}
+{% assign banks = site.platforms | where: "tags", "betalingskort" | where_exp: "item", "item.deal != ''" %}
+{% for d in banks %}
+  {% if everything.size > 0 %}
+    {% assign everything = d.deal | concat: everything %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
+
+***
+
+## Investering i værdipapirer
+
+{% assign everything = "" %}
+{% assign investments = site.platforms | where: "tags", "investering" | where_exp: "item", "item.deal != ''" %}
+{% for d in investments %}
+  {% if everything.size > 0 %}
+    {% assign everything = d.deal | concat: everything %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
+
+***
+
+## Deals til rejsen
+
+{% assign everything = "" %}
+{% assign travel = site.redirects | where: "tags", "rejse" | where_exp: "item", "item.deal != ''" %}
+{% for d in travel %}
+  {% if everything.size > 0 %}
+    {% assign everything = d.deal | concat: everything %}
+  {% else %}
+    {% assign everything = d.deal %}
+  {% endif %}
+{% endfor %}
+{% include feature_row array=everything %}
+
+***
