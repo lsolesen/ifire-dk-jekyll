@@ -18,8 +18,8 @@ locale                   : "da"
 title                    : "iFire"
 title_separator          : "-"
 subtitle                 : "Økonomisk frihed, investering, crowdlending og bæredygtighed"
-name                     : "iFire - Finansiel frihed, investering, crowd lending og bæredygtighed"
-description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowd lending og passiv indkomst med blik for bæredygtighed"
+name                     : "iFire - Finansiel frihed, investering, crowdlending og bæredygtighed"
+description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowdlending og passiv indkomst med blik for bæredygtighed"
 logo                     : "/android-chrome-192x192.png"
 url                      : "https://www.ifire.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 email                    : "info@ifire.dk"
@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   name: "iFire.dk"
-  bio: "Jeg hedder Lars og er på jagt efter økonomisk uafhængighed. Følg mine erfaringer med crowd lending, passiv indkomst og investeringer, og læs om hvad jeg lærer undervejs."
+  bio: "Jeg hedder Lars og er på jagt efter økonomisk uafhængighed. Følg mine erfaringer med crowdlending, passiv indkomst og investeringer, og læs om hvad jeg lærer undervejs."
   avatar: "/assets/images/authors/growth-logo.png"
   links:
     - label: "Email"
