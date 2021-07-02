@@ -27,11 +27,11 @@ Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er in
 **UPDATE**: Desværre er fondene fra _Vanguard_ med virkelig lave omkostninger ikke **UCITS**-godkendte, så det kan ikke købes på hverken Nordnet eller SaxoInvestor.
 {: .notice--info}
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hold øje med kurtagen
 
-Når jeg køber manuelt ind i [Nordnet](/go/nordnet/), skal jeg være opmærksom på minimumskurtagen på 29 DKK for danske aktier og investeringsforeninger. Det betyder, at jeg skal købe relativt store summer (29.000 DKK) for at få den lavest mulige kurtage. Priserne for udenlandske handler er endnu højere, og fx skal jeg for at få mindst mulige kurtage købe for omkring 10.500 USD af fx _Vanguard_ ad gangen.
+Når jeg køber manuelt ind i [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' }, skal jeg være opmærksom på minimumskurtagen på 29 DKK for danske aktier og investeringsforeninger. Det betyder, at jeg skal købe relativt store summer (29.000 DKK) for at få den lavest mulige kurtage. Priserne for udenlandske handler er endnu højere, og fx skal jeg for at få mindst mulige kurtage købe for omkring 10.500 USD af fx _Vanguard_ ad gangen.
 
 Til at købe enkeltaktier og mindre portioner, så bruger jeg i stedet [SaxoInvestor](/go/saxoinvestor/).
 
@@ -90,7 +90,7 @@ Gode alternativer kunne være:
 | VMID | [Vanguard FTSE 250 UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG6)                                    | 0,10% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | -         |       |
 | VUSD | [Vanguard S&P 500 UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000WA5P)                                           | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | -         |       |
 
-Mit [gratis Investeringsforslag fra Nord*](/go/nord/) foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
+Mit [gratis Investeringsforslag fra Nord*](/go/nord/){: rel='sponsored nofollow noopener' } foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen individuelle skatteprocent. Det er altså væsentligt at være opmærksom på, at jeg har frie midler nok til at svare skatten af ETF’erne.
 
@@ -148,6 +148,6 @@ Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværr
 
 Nu lader jeg altså bare Nordnets månedsopsparing arbejde for mig - og jeg håber snart at korrektionen på markedet kommer, så jeg kan komme yderligere ind i markedet igen.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

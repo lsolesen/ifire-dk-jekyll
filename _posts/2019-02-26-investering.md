@@ -28,10 +28,10 @@ I 2013 fik jeg gennemgået hele min økonomi, og der blev jeg af banken rådet t
 Grundlæggende har jeg kigget på tre forskellige muligheder i forhold til at investere i aktier og obligationer.
 
 - **Banken håndterer investeringen**. Det er min nuværende løsning, men jeg har regnet ud, at de samlede årsomkostninger i procent (ÅOP) de seneste tre år har ligget mellem 1,21% og 1,75%, når man lægger bankens gebyrer, kurtage og værdipapirernes omkostninger sammen. Og det er uden selve produkternes ÅOP. Samtidig har jeg regnet ud, at jeg fra 2013 til 2018 kun har en intern rente på 2,8% i alt, hvilket måske i allerbedste fald betyder, at mine penge stadig er det samme værd, som de var for 5 år siden.
-- **Automatisk investering med robot**. De fleste banker har efterhånden lavet et robot-investeringsprodukt. Fx June, Nora, Darwin, [NORD.investments\*](/go/nord/). Fælles for disse er, at du vælger en risikoprofil og på baggrund af den sammensættes din portefølje og investeringsrobotterne så sørger automatisk for at forvalte din investering. Af disse synes jeg NORD.investments er ret interessante, fordi det ikke er en banks produkt, men de bruger en partnerbank. Det betyder, at de er meget afhængige af, at deres produkt spiller for at fastholde kunderne. Omkostningerne for disse løsninger ligger mellem 0,6% og 0,95% årligt (ÅOP).
-- **Dit eget depot, fx [Nordnet\*](/go/nordnet/)**. Du sørger selv for investeringerne, men det er også muligt at indbetale et beløb hver måned, som automatisk bliver investeret uden at betale kurtage i de op til fire investeringsforeninger, man kan vælge i deres “månedsopsparing”. Nordnet opererer med en kurtage på under 0,1% (dog mindst 29 kroner) (og til sammenligning tager min nuværende bank 0,4-0,5% i kurtage for hver handel). Hvis med månedsopsparingen, så er det altså kun værdipapiromkostningerne, der skal betales, og de ligger typisk fra 0,07% - 1% alt efter hvilken ETF eller investeringsforening, man vælger at investere i.
+- **Automatisk investering med robot**. De fleste banker har efterhånden lavet et robot-investeringsprodukt. Fx June, Nora, Darwin, [NORD.investments\*](/go/nord/){: rel='sponsored nofollow noopener' }. Fælles for disse er, at du vælger en risikoprofil og på baggrund af den sammensættes din portefølje og investeringsrobotterne så sørger automatisk for at forvalte din investering. Af disse synes jeg NORD.investments er ret interessante, fordi det ikke er en banks produkt, men de bruger en partnerbank. Det betyder, at de er meget afhængige af, at deres produkt spiller for at fastholde kunderne. Omkostningerne for disse løsninger ligger mellem 0,6% og 0,95% årligt (ÅOP).
+- **Dit eget depot, fx [Nordnet](/go/nordnet/){: rel='nofollow noopener' }**. Du sørger selv for investeringerne, men det er også muligt at indbetale et beløb hver måned, som automatisk bliver investeret uden at betale kurtage i de op til fire investeringsforeninger, man kan vælge i deres “månedsopsparing”. Nordnet opererer med en kurtage på under 0,1% (dog mindst 29 kroner) (og til sammenligning tager min nuværende bank 0,4-0,5% i kurtage for hver handel). Hvis med månedsopsparingen, så er det altså kun værdipapiromkostningerne, der skal betales, og de ligger typisk fra 0,07% - 1% alt efter hvilken ETF eller investeringsforening, man vælger at investere i.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Investeringer og skat
 
@@ -73,7 +73,7 @@ Regeringen har lavet en ny ordning i 2019, hvor du kan oprette en aktiesparekont
 
 Hvis du har et **pensionsdepot**, så er skatten relativt enkel, hvor al afkast beskattes med 15%. Det foregår som lagerbeskatning.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Hvad gør jeg så nu med mine investeringer?
 
@@ -96,6 +96,6 @@ Hvis jeg kommer over bundgrænsen på 54.000 kroner, så vil jeg overveje at fin
 
 Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

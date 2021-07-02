@@ -17,6 +17,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
@@ -24,6 +25,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 *[ÅOP]: Årlige omkostninger i procent
@@ -52,7 +54,7 @@ Men hvor lidt er egentlig nødvendigt for at kunne være finansiel uafhængig. L
 
 At være finansiel uafhængig handler for mig ikke om at undgå at arbejde - men at arbejdet ikke skal fylde hele mit liv. Jeg har et for mig meningsfyldt arbejde med mulighed for at være med til at gøre en forskel i andres liv, men det har også fyldt meget i de seneste mange år.
 
-Inspireret af [Morten Albæks bog Et Liv, En Tid, Et Menneske\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069) er der kun et liv, hvor det ikke giver mening at skille tiden op i forskellige tider, fx et fritids- og arbejdsliv. At fylde livet med noget meningsfyldt - og der er mit arbejdsliv også en del af det.
+Inspireret af [Morten Albæks bog Et Liv, En Tid, Et Menneske\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069){: rel="sponsored nofollow noopener" } er der kun et liv, hvor det ikke giver mening at skille tiden op i forskellige tider, fx et fritids- og arbejdsliv. At fylde livet med noget meningsfyldt - og der er mit arbejdsliv også en del af det.
 
 Når jeg tænker på finansiel uafhænighed handler det altså om, at jeg ikke arbejder for at tjene penge, men for at gøre mit liv meningsfyldt. Jeg har også en familie, og lige nu vil jeg bruge mere af min energi på at kunne være sammen med dem.
 
@@ -143,7 +145,7 @@ Ligesom sidste måned har jeg den højeste interne rente på [Grupeer\*](/go/gru
 
 I løbet af februar har jeg haft en **(urealiseret) indtjening på 4588 DKK**, hvilket jeg forventer daler en lille smule de kommende måneder, fordi jeg reducerer eksponeringen lidt mod crowdlendingen.
 
-Vægtet intern rente for den almindelige crowdlending er på 6,46% og lider stadig under det store tab på Envestio sidste måned. Den ejendomsbaserede crowdlending har en vægtet intern rente på 2,46%. Jeg glæder mig til at interne rente på den ejendomsbaserede crowdlending går op, men det gør den først, når jeg får afkast fra <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, hvor jeg har en stor procentdel investeret. Det er vel også ved at være tid, når jeg lavede den første investering i april sidste år.
+Vægtet intern rente for den almindelige crowdlending er på 6,46% og lider stadig under det store tab på Envestio sidste måned. Den ejendomsbaserede crowdlending har en vægtet intern rente på 2,46%. Jeg glæder mig til at interne rente på den ejendomsbaserede crowdlending går op, men det gør den først, når jeg får afkast fra <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>, hvor jeg har en stor procentdel investeret. Det er vel også ved at være tid, når jeg lavede den første investering i april sidste år.
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 

@@ -15,6 +15,7 @@ feature_row_autobutler:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=49818"
     btn_label: "Læs mere"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---

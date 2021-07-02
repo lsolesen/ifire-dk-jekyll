@@ -43,11 +43,11 @@ Flere har imidlertid foreslået, at det også er givtigt at inkludere andre type
 
 Forståelsen for aktivklassernes mønstre har været med til at inspirere de to meget omtalte porteføljer.
 
-- **The Permanent Portfolio** sammensat af Harry Browne ([Failsafe Investing*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/fail-safe-investing_harry-browne_paperback_9780312263218)). Porteføljen indeholder 25% aktier, 25% lange obligationer, 25% guld og 25% kontanter.
+- **The Permanent Portfolio** sammensat af Harry Browne ([Failsafe Investing*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/fail-safe-investing_harry-browne_paperback_9780312263218){ rel="sponsored nofollow noopener" }). Porteføljen indeholder 25% aktier, 25% lange obligationer, 25% guld og 25% kontanter.
 
 {% include figure image_path="/assets/images/posts/portfolio-2-permanent-portfolio.png" alt="Harry Brownes Permanent Portfolio" caption="Harry Brownes Permanent Portfolio" %}
 
-- **The All Weather Portfolio** sammensat af Ray Dalio og beskrevet i [Tony Robbins bog Money - Master the Game*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471143359). Porteføljen indeholder 30% aktier, 55% obligationer (både mellem- og lange), 7,5% guld og 7,5% _commodities_.
+- **The All Weather Portfolio** sammensat af Ray Dalio og beskrevet i [Tony Robbins bog Money - Master the Game*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471143359){: rel="sponsored nofollow noopener" }. Porteføljen indeholder 30% aktier, 55% obligationer (både mellem- og lange), 7,5% guld og 7,5% _commodities_.
 
 ## Hvordan vælger man porteføljesammensætning?
 
@@ -55,7 +55,7 @@ Med [Portfolio Visualizer](https://www.portfoliovisualizer.com/) kan vi [teste d
 
 Når man investerer for at opnå økonomisk uafhængighed, kan der altså være en ide i at inkludere andre typer aktiver i sin portefølje, så porteføljen også er stærk i nedgangstider.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Findes der andre sammensætninger?
 
@@ -105,6 +105,6 @@ I min anden portefølje vil jeg nok i højere grad gå efter de danske index-fon
 
 Det næste jeg bør gøre mig overvejelser om at lave en strategi for er altså vægten mellem mine to primære værdipapir-porteføljer skal være, men også hvordan valutaer skal være vægtet i mine værdipapirer.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

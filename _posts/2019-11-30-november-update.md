@@ -15,6 +15,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
@@ -77,7 +78,7 @@ På [BulkEstate\*](/go/bulkestate/) har jeg også fået en stor sum penge tilbag
 
 [Få 12%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
 
-Platformene med de bedste afkast alle med en  intern rente over 11% er i denne rækkefølge [Grupeer\*](/go/grupeer/), [Fastinvest\*](/go/fastinvest/), [Mintos\*](/go/mintos/), [Envestio\*](/go/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy) og [Crowdestor\*](/go/crowdestor/). Ud over Envestio og Crowdestor er alle helt automatiske og stort set uden vedligeholdelse.
+Platformene med de bedste afkast alle med en  intern rente over 11% er i denne rækkefølge [Grupeer\*](/go/grupeer/), [Fastinvest\*](/go/fastinvest/), [Mintos\*](/go/mintos/), [Envestio\*](/platform/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy) og [Crowdestor\*](/go/crowdestor/). Ud over Envestio og Crowdestor er alle helt automatiske og stort set uden vedligeholdelse.
 
 I alt har jeg tjent **4.665 DKK** på crowdlending i løbet af november måned. Det giver en vægtet intern rente på 9,16% på den almindelige crowdlending og 2,16% på den ejendomsbaserede crowdlending. Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 

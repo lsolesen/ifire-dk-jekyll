@@ -17,6 +17,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 feature_row_autobutler:
   - image_path: "https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=49818"
     alt: "Autobutler.dk"
@@ -25,6 +26,7 @@ feature_row_autobutler:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=49818"
     btn_label: "Læs mere"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
 ---
 
 Tak fordi du kigger forbi. Igen har det været en rigtig god måned.
@@ -35,17 +37,17 @@ Min datter vågnede op i dag, så at det var den sidste dag i måneden, og udbr�
 
 Jeg sagde til hende, om det det var ved at være tid til, at der mine generøse "børnerenter" også skulle komme med en risiko, der matcher renten. Det mente hun nu ikke var nødvendigt.
 
-Jeg har stadig **holdt mit købestop**. Desværre er blæseren i min bil gået, så jeg bliver nødt til at få den fikset. Derfor har jeg fået tre tilbud på [AutoButler\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59707), hvor jeg så sparer lidt penge på den måde.
+Jeg har stadig **holdt mit købestop**. Desværre er blæseren i min bil gået, så jeg bliver nødt til at få den fikset. Derfor har jeg fået tre tilbud på [AutoButler\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59707){: rel="sponsored nofollow noopener" }, hvor jeg så sparer lidt penge på den måde.
 
 {% include feature_row id="feature_row_autobutler" type="left" %}
 
 Jeg bliver også nødt til at købe nogle nye løbesko. Løbesko er det eneste andet, jeg har købt i år, men de sko jeg har købt er _trailsko_, og de kan ikke holde til at løbe på asfalt.
 
-Desuden er trænger [kaffekværnen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/kaffekvaerne/kaffekvaern/delonghi-kg521-kaffekvaern) til min [Simonelli Oscar II](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/baristamaskiner/nuova-simonelli-oscar-ii)-kaffemaskine til en mindre renovation.
+Desuden er trænger [kaffekværnen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/kaffekvaerne/kaffekvaern/delonghi-kg521-kaffekvaern){: rel="sponsored nofollow noopener" } til min [Simonelli Oscar II](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/husholdning/kaffe/baristamaskiner/nuova-simonelli-oscar-ii){: rel="sponsored nofollow noopener" }-kaffemaskine til en mindre renovation.
 
-Endelig har jeg købt lidt flere genopladelige batterier for at spare i det lange løb. Jeg bruger [Panasonic Eneloop genopladelige batterier](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=3252&htmlurl=https://www.batteribyen.dk/panasonic-eneloop-8-stk-aa-inkl-oplader-taske-og-batteriaesker), som jeg har god erfaring med. Jeg synes de holer strømmen godt - også selvom de har ligget lidt. Dog synes jeg, at jeg skifter batterier oftere end ved almindelige batterier, men så er det jo bare en gang i opladeren.
+Endelig har jeg købt lidt flere genopladelige batterier for at spare i det lange løb. Jeg bruger [Panasonic Eneloop genopladelige batterier](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=3252&htmlurl=https://www.batteribyen.dk/panasonic-eneloop-8-stk-aa-inkl-oplader-taske-og-batteriaesker){: rel="sponsored nofollow noopener" }, som jeg har god erfaring med. Jeg synes de holer strømmen godt - også selvom de har ligget lidt. Dog synes jeg, at jeg skifter batterier oftere end ved almindelige batterier, men så er det jo bare en gang i opladeren.
 
-Jeg har lavet flere **crowdlending investeringer** på <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, fordi jeg synes det er en spændende måde at blive eksponeret mod crowdlending boligmarkedet og få husleje ind på den måde. Desuden nærmer alle crowdlending platformene sig et positivt afkast - også [ReInvest24\*](/go/reinvest24/) og [PropertyPartner\*](/go/propertypartner/), hvor der er et lille gebyr på ejendomsinvesteringerne i starten.
+Jeg har lavet flere **crowdlending investeringer** på <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>, fordi jeg synes det er en spændende måde at blive eksponeret mod crowdlending boligmarkedet og få husleje ind på den måde. Desuden nærmer alle crowdlending platformene sig et positivt afkast - også [ReInvest24\*](/go/reinvest24/) og [PropertyPartner\*](/go/propertypartner/), hvor der er et lille gebyr på ejendomsinvesteringerne i starten.
 
 I sidste måned legede jeg lidt med min [Renters Rente](/renters-rente/)-beregner, som giver en god grafisk overblik over, hvad effekten af afkaststørrelse og tiden egentlig er. Jeg har lavet en grafisk opstilling over mine crowdlending-investeringer, hvor man kan se, hvad der er investeringer, og hvad der er renter. Det er meget motiverende.
 
@@ -59,7 +61,7 @@ Min samlede _net worth_ er stigende, hvilket er ret motiverende.
 
 ## Hvornår opnår jeg FIRE?
 
-Baseret på bogen [Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762), så startede jeg i september med at tracke, hvornår jeg teoretisk set kan betale mine regninger baseret på passiv indkomst ifølge 4%-reglen.
+Baseret på bogen [Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762){: rel="sponsored nofollow noopener" }, så startede jeg i september med at tracke, hvornår jeg teoretisk set kan betale mine regninger baseret på passiv indkomst ifølge 4%-reglen.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1861475684&amp;format=image"></iframe>
 
@@ -110,7 +112,7 @@ Samlet er den interne rente på mine crowdlending-platforme dalende. Jeg har ikk
 
 [Funderbeam\*](/go/funderbeam/) har lavet noget af et comeback, så nu er der ikke længere negativt afkast. Platformen er lidt særlig, fordi du køber en form for anparter eller aktier i firmaerne. Jeg har købt i to projekter og aktierne er steget i begge firmaer i løbet af denne måned. Oprindeligt synes jeg virkelig det var spændende at kigge efter startups, men jeg overvejer kraftigt at skære Funderbeam ud af porteføljen igen, når jeg nu kan gøre det uden tab.
 
-Derudover er [Grupeer\*](/go/grupeer/), [Envestio\*](/go/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/), [Crowdestor\*](/go/crowdestor/) og [PeerBerry\*](/go/peerberry/) med fine renter over 10%.
+Derudover er [Grupeer\*](/go/grupeer/), [Envestio\*](/platform/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/), [Crowdestor\*](/go/crowdestor/) og [PeerBerry\*](/go/peerberry/) med fine renter over 10%.
 
 Samlet har jeg i løbet af september **tjent 4.388 DKK på renter i crowdlending**. Den almindelig crowdlending giver i en vægtet gennemsnitlig intern rente på 9,26% og projekterne med fokus på ejendomme giver en vægtet gennemsnitlig intern rente over 1%.
 

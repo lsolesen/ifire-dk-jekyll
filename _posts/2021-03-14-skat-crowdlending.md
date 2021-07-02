@@ -10,6 +10,7 @@ tags:
   - investering
   - skat
   - crowdlending
+  - featured
 header:
   overlay_image: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
   teaser: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
@@ -22,6 +23,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har skrevet en guide til, hvordan du indberetter renteindtægter fra dansk og udenlandsk crowdlending. Guiden omfatter både indkomst fra dansk crowdlending, men også hvordan du indbetter udenlansk kapitalindkomst fra udenlandsk crowdlending.

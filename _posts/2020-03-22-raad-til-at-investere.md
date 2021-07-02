@@ -22,6 +22,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
     title: "The Simple Path to Wealth"
@@ -29,6 +30,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Du behøver ikke ret mange penge for at komme i gang med at investere, men der er lige et par ting, du bør have styr på først. 

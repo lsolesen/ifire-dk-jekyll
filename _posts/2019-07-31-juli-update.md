@@ -15,6 +15,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
@@ -64,7 +65,7 @@ Jeg er ikke så god til selv at vælge nogle aktier. Jeg laver konstant begynder
 
 Jeg startede faktisk med en relativt afklaret investeringsstrategi, men ville også afprøve noget forskelligt. Skulle jeg starte forfra i dag, så ville jeg gøre det lige så enkelt som jeg havde regnet med, at det skulle være helt fra begyndelsen.
 
-Jeg ville først starte med at se J. L. Collins Google Talk omkring hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) - og dernæst ville jeg gå i gang med at læse hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden igen (jeg har allerede læst den, men fik så interesse for udbytteaktier - og jeg skulle bare holde mig til indeksfondene).
+Jeg ville først starte med at se J. L. Collins Google Talk omkring hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } - og dernæst ville jeg gå i gang med at læse hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden igen (jeg har allerede læst den, men fik så interesse for udbytteaktier - og jeg skulle bare holde mig til indeksfondene).
 
 Det har jeg [skrevet lidt om](/investering-vol7/). Jeg vil minde mig selv om det og stoppe med at lytte til det vanedannende Millionærklubben, som ikke hjælper en til at blive på den rene index-linje. Men I skal naturligvis ikke snydes for den nuværende status i mine investeringer.
 

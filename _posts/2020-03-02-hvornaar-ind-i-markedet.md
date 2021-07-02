@@ -23,6 +23,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har virkelig haft mange diskussioner med mig selv. For et års tid skulle jeg omlægge mine investeringer, og derfor stod jeg med et stort uinvesteret beløb i frie midler, jeg ville investere på ny. Min sunde fornuft fortalte mig, at der er et tidspunkt, hvor det er bedst at begynde at investere på. 

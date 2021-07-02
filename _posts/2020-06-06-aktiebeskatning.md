@@ -20,6 +20,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Man skal betale skat af det, man tjener på aktier..Da jeg for alvor begyndte at investere i aktier kunne skatten godt være lidt forvirrende. Jeg synes aktiebeskatning kan være lidt forvirrende, så jeg besluttede mig for at beskrive forskellen på lagerbeskatning og realisationsbeskatning og senere kommer jeg ind på, hvad aktieindkomst og kapitalindkomst er.
@@ -64,7 +65,7 @@ For at beskatningen bliver korrekt, så skal du sørge for, at Skat ved hvad din
 
 Handler du derimod gennem en udenlandsk børsmægler, så er det dit eget ansvar at indberette skattegrundlaget.
 
-Jeg handler selv ved [Nordnet\*](/go/nordnet) og [Saxo\*](/go/saxoinvestor/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro\*](/go/etoro/), som jeg så selv indberetter. 
+Jeg handler selv ved [Nordnet](/go/nordnet) og [Saxo\*](/go/saxoinvestor/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro\*](/go/etoro/), som jeg så selv indberetter. 
 
 ## Hvad er lagerbeskatning?
 

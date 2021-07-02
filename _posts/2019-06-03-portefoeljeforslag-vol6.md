@@ -39,6 +39,6 @@ Til forskel fra de danske, udbyttebetalende aktieinvesteringsforeninger udbetale
 
 Jeg vil formentlig selv købe op af disse, hvis jeg kommer til at købe fonde op uden for månedsopsparingen, da omkostningerne er meget favorable. Bl.a. kunne de sagtens være kandidater til mine [døtres efterskolefond](https://www.shareville.dk/profiles/lsolesen/portfolios/358995).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

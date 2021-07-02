@@ -64,7 +64,7 @@ Dog skal man være opmærksom på, at Morningstars bæredygtighedsrating ikke er
 
 Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfordringer, og man skal stadig læse grundigt på de enkelte værdipapirer.
 
-**Gå selv på jagt efter bæredygtige fonde hos Nordnet**. Du kan selv gå på jagt efter bæredygtige investeringer ved at benytte de nye værktøjer. Du kan lede efter [fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs) og filtrere forskellige parametre. Desværre kan man ikke filtrere på om investeringsstrategien er passiv eller aktiv.
+**Gå selv på jagt efter bæredygtige fonde hos Nordnet*. Du kan selv gå på jagt efter bæredygtige investeringer ved at benytte de nye værktøjer. Du kan lede efter [fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs) og filtrere forskellige parametre. Desværre kan man ikke filtrere på om investeringsstrategien er passiv eller aktiv.
 {: .notice--info}
 
 ## Svanemærkede investeringsfonde
@@ -157,11 +157,11 @@ De aktive investeringsforeninger kommer altså med noget højere årlige omkostn
 
 ## Robotinvesteringer i Nord.Investments
 
-[Nord.Investments\*](/go/nord/) er en automatiseret robotinvestering. Du vælger din risikoprofil, og så sørger algoritmerne selv for investeringerne i prisbillige ETF'er. De samlede omkostninger (ÅOP) er 0,75% inkl. de årlige udgifter til fondene, kurtage og så videre. 
+[Nord.Investments\*](/go/nord/){: rel='sponsored nofollow noopener' } er en automatiseret robotinvestering. Du vælger din risikoprofil, og så sørger algoritmerne selv for investeringerne i prisbillige ETF'er. De samlede omkostninger (ÅOP) er 0,75% inkl. de årlige udgifter til fondene, kurtage og så videre. 
 
-Og det bedste er at du kan vælge en såkaldt "ansvarlig portefølje". Hvis du ikke vil sætte dig ind i at sidde og investere selv, så er det en rigtig fin mulighed. Du kan endda få en [gratis investeringsplan fra Nord\*](/go/nord/), som du kan bruge som inspiration, hvis du vælger selv at stå for investeringerne.
+Og det bedste er at du kan vælge en såkaldt "ansvarlig portefølje". Hvis du ikke vil sætte dig ind i at sidde og investere selv, så er det en rigtig fin mulighed. Du kan endda få en [gratis investeringsplan fra Nord\*](/go/nord/){: rel='sponsored nofollow noopener' }, som du kan bruge som inspiration, hvis du vælger selv at stå for investeringerne.
 
-[Bæredygtig automatiseret investering i Nord\*](/go/nord/){: .btn .btn--large .btn--info }
+[Bæredygtig automatiseret investering i Nord\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Udenlandske ETF'er med vægt på BlackRocks iShares
 
@@ -185,7 +185,7 @@ Jeg har ikke kunnet finde flere af BlackRocks bæredygtige ETF'er, der er decide
 
 Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. Husk at ETF’er lagerbeskattes som kapitalindkomst (der er kommet nye regler fra 2020, hvor de stadig lagerbeskattes, men som aktieindkomst). Husk også, at du løber en valutarisiko ved at købe ETF’er i udenlandsk valuta.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Bæredygtighed i Nordnets månedsopsparing
 
@@ -197,7 +197,7 @@ I første omgang vil jeg lade [Sparinvest INDEX DJSI World KL](http://www.mornin
 
 Jeg er langt mere tiltrukket af de passive udenlandske ETF’er, som jeg vil se, hvordan de kan passe ind i min portefølje. Jeg vil rigtig gerne finde nogle alternativer i EUR af [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9) og [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Investér bæredygtigt i enkeltaktier
 
@@ -219,7 +219,7 @@ MakeImpact App'en er imidlertid baseret på selskabernes egenevaluering, så du 
 
 ## Andre typer bæredygtige investeringer
 
-Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men der er naturligvis også andre muligheder for at investere. Fx har jeg investeret i crowdlending gennem [Trine\*](/go/trine/), som har specialiseret sig i at udbyde lån til udviklingsprojekter af især solenergi i Afrika. Ift. andre crowdlending-udbydere er udbyttet begrænset, men formålet er primært at sætte et godt fodaftryk i verden.
+Her har jeg kun berørt bæredygtige investeringer i aktier og obligationer. Men der er naturligvis også andre muligheder for at investere. Fx har jeg investeret i crowdlending gennem [Trine\*](/go/trine/){: rel='sponsored nofollow noopener' }, som har specialiseret sig i at udbyde lån til udviklingsprojekter af især solenergi i Afrika. Ift. andre crowdlending-udbydere er udbyttet begrænset, men formålet er primært at sætte et godt fodaftryk i verden.
 
 Jeg har også købt nogle træer gennem [Better Globe](/platform/betterglobe/), hvilket jeg anser som en **højrisiko**-investering, der primært er gjort ud fra et filantropisk hjerte. <ins>Overvej dog grundigt om det er en investering for dig ved at [læse mere om platformen](/platform/betterglobe/).</ins>
 

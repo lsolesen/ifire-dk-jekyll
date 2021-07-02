@@ -6,6 +6,7 @@ category:
   - Crowdlending
 tags:
   - crowdlending
+  - featured
 excerpt: "Jeg har investeret i dansk crowdlending i fire år. Her er en grundig opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
 description: "Jeg har investeret i dansk crowdlending i fire år. Her har du en grundig opdatering på, hvad jeg synes om de danske crowdfunding-platforme."
 header:

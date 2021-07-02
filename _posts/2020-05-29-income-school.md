@@ -19,6 +19,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
@@ -26,6 +27,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har på det seneste brugt rigtig meget tid på at lave nogle websites og blogs, jeg håber kan skabe passiv indkomst for mig på sigt. I den forbindelse har jeg bl.a. også fokuseret på, hvordan jeg kunne tjene penge på de enkelte sites. Jeg har ansøgt et hav af _affiliate marketing_-programmer, jeg har _referral links_ fra en del af de produkter jeg bruger, og så har jeg kigget på, hvordan jeg kunne bruge reklamer på mine sites.

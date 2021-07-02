@@ -18,6 +18,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
@@ -49,7 +50,7 @@ Jeg investerer _langsigtet_, og udbytteaktier kan være fornuftige investeringer
 
 ## Tilbage til min (simple) strategi for værdipapirhandel
 
-Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
+Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
 
 {% include video id="T71ibcZAX3I" provider="youtube" %}
 

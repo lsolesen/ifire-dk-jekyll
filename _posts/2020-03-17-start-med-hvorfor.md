@@ -20,9 +20,10 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-Simon Sinek har skrevet en tankevækkende bog, der egentlig henvender sig til firmaer. Men jeg mener også, at den kan bruges i forbindelse med finansiel uafhængighed og investeringer. Sinek skriver: [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664).
+Simon Sinek har skrevet en tankevækkende bog, der egentlig henvender sig til firmaer. Men jeg mener også, at den kan bruges i forbindelse med finansiel uafhængighed og investeringer. Sinek skriver: [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" }.
 
 ## Start med hvorfor?
 
@@ -71,13 +72,13 @@ Hvis du gerne vil i gang med at investere, så er det godt at stille sig de samm
 
 - **Hvorfor** vil du gerne investere? Jeg investerer for at disciplin i min privatøkonomi og for at få et passivt afkast af mine penge, som kan bruges til frihed.
 - **Hvordan** vil du gerne investere? Jeg vil gerne bruge så lidt tid som muligt på at investere, og jeg vil gerne så vidt muligt følge verdensmarkedet.
-- **Hvad** vil du gerne investere i? Jeg investerer i passivt forvaltede indeksfonde, som hvert år giver et udbytte, så jeg har en løbende udbetaling fra mine investeringer. Jeg investerer automatisk gennem månedsopsparingen på [Nordnet\*](/go/nordnet/).
+- **Hvad** vil du gerne investere i? Jeg investerer i passivt forvaltede indeksfonde, som hvert år giver et udbytte, så jeg har en løbende udbetaling fra mine investeringer. Jeg investerer automatisk gennem månedsopsparingen på [Nordnet](/go/nordnet/).
 
 På den måde er du ved at lave en strategi for dig selv, men fordi du starter med hvorfor, så risikerer du ikke at fare vild undervejs.
 
 Når du læser rundt omkring på internettet, så læser du rigtig ofte om hvad folk gør, eller hvordan de gør? Det er meget sjældent, at de skriver, hvorfor de gør som de gør? Det er faktisk også sjældent, at folk skriver, hvordan det reelt virker for dem (fx sammenlignet med verdensindekset).
 
-Simon Sineks [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664) er inspirerende både for virksomheder og for sig selv.
+Simon Sineks [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" } er inspirerende både for virksomheder og for sig selv.
 
 {% include feature_row type="left" %}
 

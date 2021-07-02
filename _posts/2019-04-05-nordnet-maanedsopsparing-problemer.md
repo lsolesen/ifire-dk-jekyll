@@ -32,7 +32,7 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg bruger [Nordnets\*](/go/nordnet/) månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
+Jeg bruger [Nordnets](/go/nordnet/) månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
 
 Men Nordnets månedsopsparing er også meget populær, hvilket potentielt giver nogle problemer.
 
@@ -172,9 +172,9 @@ Månedsopsparingen er virkelig et smart koncept, hvis du vil automatisere dine i
 
 Jeg har skrevet lidt mere om [passiv indeks investering](/investering/), hvis du har lidt mere tålmodighed, inden du vil i gang med at trykke på køb-knappen.
 
-Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor\*](/go/saxoinvestor/) også være en mulighed. Der er nemlig ikke nogen minimumskurtage.
+Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor](/go/saxoinvestor/) også være en mulighed. Der er nemlig ikke nogen minimumskurtage.
 
-En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter. Jeg synes den mest interessante er [Nord.Investments\*](/go/nord/), fordi den er uafhængig af din bank, og de skal præstere for at beholde dig som kunde.
+En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter. Jeg synes den mest interessante er [Nord.Investments\*](/go/nord/){: rel='sponsored nofollow noopener' }, fordi den er uafhængig af din bank, og de skal præstere for at beholde dig som kunde.
 
 Du kan også tjekke min [guide til at købe en indeksfond eller ETF på Nordnet](/nordnet-koeb-fond/).
 

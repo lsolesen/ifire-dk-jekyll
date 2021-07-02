@@ -18,8 +18,8 @@ Jeg har følgende sites:
 Jeg bruger bl.a. følgende værktøjer:
 
 - Google Adsense
-- [Partner-Ads\*](/go/partnerads/)
-- [Ezoic\*](/go/ezoic/)
+- [Partner-Ads\*](/go/partnerads/){: rel='sponsored nofollow noopener' }
+- [Ezoic\*](/go/ezoic/){: rel='sponsored nofollow noopener' }
 
 ## Passiv indkomst
 

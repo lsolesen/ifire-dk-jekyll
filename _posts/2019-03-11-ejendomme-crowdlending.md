@@ -52,7 +52,7 @@ Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige p
 
 Du kan selv investere i ejendomme og ejendomsudvikling via crowdlending:
 
-[Housers\*](/go/housers/){: .btn .btn--success } eller [Crowdestate\*](/go/crowdestate/){: .btn .btn--success } eller [Reinvest24\*](/go/reinvest24/){: .btn .btn--success }
+[Housers\*](/go/housers/){: .btn .btn--success } eller [Crowdestate\*](/go/crowdestate/){: .btn .btn--success rel='sponsored nofollow noopener' } eller [Reinvest24\*](/go/reinvest24/){: .btn .btn--success rel='sponsored nofollow noopener' }
 
 ## Min crowdlending i ejendomme
 

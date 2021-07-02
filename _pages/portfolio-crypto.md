@@ -16,21 +16,21 @@ feature_row_solutions:
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"
     title: "Kraken"
-    excerpt: "[Kraken*](/go/kraken/) er min foretrukne børs til at købe krypto. Den har et fint udvalg og er let at bruge."
+    excerpt: "[Kraken*](/go/kraken/){: rel='sponsored nofollow noopener' } er min foretrukne børs til at købe krypto. Den har et fint udvalg og er let at bruge."
     url: /go/kraken/
     btn_label: "Gå til Kraken*"
     btn_class: "btn--info"
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
-    excerpt: "[Coinbase*](/go/coinbase/) er et let sted at købe kryptovaluta. Hvis du bruger mit link, så får du for 10 USD, når du køber for 100 USD."
+    excerpt: "[Coinbase*](/go/coinbase/){: rel='sponsored nofollow noopener' } er et let sted at købe kryptovaluta. Hvis du bruger mit link, så får du for 10 USD, når du køber for 100 USD."
     url: /go/coinbase/
     btn_label: "Få 66 DKK på Coinbase*"
     btn_class: "btn--info"
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
-    excerpt: "Den sikreste måde at opbevare kryptovaluta er i en offline hardware wallet. [Ledger*](/go/ledger/) er førende på markedet."
+    excerpt: "Den sikreste måde at opbevare kryptovaluta er i en offline hardware wallet. [Ledger*](/go/ledger/){: rel='sponsored nofollow noopener' } er førende på markedet."
     url: /go/ledger/
     btn_label: "Køb Ledger*"
     btn_class: "btn--info"

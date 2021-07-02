@@ -20,6 +20,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/at-taenke-hurtigt-og-langsomt_daniel-kahneman_haeftet_9788711533284
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781324002185/0x500
     alt: "A Random Walk Down Wall Street"
     title: "A Random Walk Down Wall Street"
@@ -27,6 +28,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/a-random-walk-down-wall-street_burton-g-malkiel_hardback_9781324002185
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780061854545/0x500
     alt: "Predictably Irrational"
     title: "Predictably Irrational"
@@ -34,6 +36,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780062699565/0x500
     alt: "Dollars and Sense"
     title: "Dollars and Sense"
@@ -41,6 +44,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/dollars-and-sense_paperback_9780062699565
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Den anden dag stod det med store bogstaver på B.T. [“Dansk mangemillionær tjener voldsomt på corona: Blev voldsomt bekymret på cirka fem minutter”](https://www.bt.dk/kendte/dansk-mangemillionaer-tjener-millioner-paa-corona-blev-voldsomt-bekymret-paa-cirka).
@@ -94,7 +98,7 @@ Spørgsmålet er, hvilket budskab der gentages oftest, og som u bliver _primet_ 
 
 ## Illusion of Stock-Picking Skill
 
-Nobelprisvinderen Daniel Kahneman behandler i [At tænke hurtigt og langsomt\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/at-taenke-hurtigt-og-langsomt_daniel-kahneman_haeftet_9788711533284) psykologien bag ved dømmekraft og beslutningstagning, og han berører også økonomisk adfærdspsykologi. 
+Nobelprisvinderen Daniel Kahneman behandler i [At tænke hurtigt og langsomt\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/at-taenke-hurtigt-og-langsomt_daniel-kahneman_haeftet_9788711533284){: rel="sponsored nofollow noopener" } psykologien bag ved dømmekraft og beslutningstagning, og han berører også økonomisk adfærdspsykologi. 
 
 {% include video provider="youtube" id="hOm6rD4m4V0" %}
 
@@ -104,7 +108,7 @@ Og det er jo netop rigtigt. Men hvad får så den ene person til at købe og den
 
 De fleste købere og sælgere har den samme information tilgængelig. De bytter aktier primært fordi de har forskellige holdninger. Køberne tænker at prisen er lav nok, og at den formentlig vil stige, mens sælgerne synes at prisen er høj og formentlig vil falde. Det er generelt teorien om, hvordan aktiemarkedet virker, og det er accepteret af alle deltagerne i industrien. 
 
-Burton Malkiels centrale ide i [A Random Walk Down Wall Street\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/a-random-walk-down-wall-street_burton-g-malkiel_hardback_9781324002185) er, at aktieprisen indeholder al viden om værdien af selskabet og de bedste forudsigelser for fremtiden for aktien. Hvis nogen mennesker tror at prisen for aktien er højere i morgen, så vil de købe flere aktier i dag. Det får - alt andet lige - prisen på aktien til at stige. Hvis markedet er korrekt prissat, så er der ikke nogen der taber eller vinder. 
+Burton Malkiels centrale ide i [A Random Walk Down Wall Street\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/a-random-walk-down-wall-street_burton-g-malkiel_hardback_9781324002185){: rel="sponsored nofollow noopener" } er, at aktieprisen indeholder al viden om værdien af selskabet og de bedste forudsigelser for fremtiden for aktien. Hvis nogen mennesker tror at prisen for aktien er højere i morgen, så vil de købe flere aktier i dag. Det får - alt andet lige - prisen på aktien til at stige. Hvis markedet er korrekt prissat, så er der ikke nogen der taber eller vinder. 
 
 Men der er mange investorer, der taber på aktiemarkedet. Faktisk er der nogen, der konsistent taber på markedet. Hvordan kan det være?
 
@@ -136,7 +140,7 @@ David McRaney, blogger på [You Are Not So Smart](http://youarenotsosmart.com/),
 
 --- <cite>[David McRaney](http://youarenotsosmart.com/2010/07/27/anchoring-effect/)</cite>
 
-Hvis et menneske og en investor skal tage en beslutning, så kan helt tilfældige tal have effekt på beslutningen. Dan Ariely nævner bl.a. i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545) et eksperiment, hvor folk skulle skrive de to sidste cifre ned i deres personnummer, inden de skal fortælle, hvor meget de vil betale for en flaske vin. Det viste sig, at dem, der skrev et højere nummer ned, var villige til at betale mere for vinen.
+Hvis et menneske og en investor skal tage en beslutning, så kan helt tilfældige tal have effekt på beslutningen. Dan Ariely nævner bl.a. i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545){: rel="sponsored nofollow noopener" } et eksperiment, hvor folk skulle skrive de to sidste cifre ned i deres personnummer, inden de skal fortælle, hvor meget de vil betale for en flaske vin. Det viste sig, at dem, der skrev et højere nummer ned, var villige til at betale mere for vinen.
 
 Lisa Kramer efterviste dette eksperiment med en aktieportefølje. I eksperimentet havde Kramer 200 personer, hvor de fik spørgsmålet: “Skal der være flere eller færre end x aktier en diversificeret portefølje?” For halvdelen af deltagerne var x = 5, mens den for den anden halvdel var x = 15. Formålet med spørgsmålet var hovedsageligt, at deltagerne fik et referencepunkt inden det næste spørgsmål. Dernæst spurgte Kramer nemlig: “Hvor mange aktier vil du have i din egen portefølje, hvis den skulle være diversificeret?”
 
@@ -154,11 +158,11 @@ Det viser bare hvor vanskeligt det er at være investor, fordi man ikke kan regn
 
 ## Loss aversion
 
-Dan Ariely skriver i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545) _loss aversion_ som:
+Dan Ariely skriver i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545){: rel="sponsored nofollow noopener" } _loss aversion_ som:
 
 > The misery we get from losses is about _twice_ as large as the happiness we get from gains. 
 
---- <cite>Dan Ariely i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545)</cite>
+--- <cite>Dan Ariely i [Predictably Irrational\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/predictably-irrational_dan-ariely_hardback_9780061854545){: rel="sponsored nofollow noopener" }</cite>
 
 {% include video provider="youtube" id="vcxRxiPSC60" %}
  

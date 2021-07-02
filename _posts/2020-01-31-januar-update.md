@@ -15,6 +15,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
@@ -89,7 +90,7 @@ Endnu lettere er udbetalinger naturligvis fra [Mintos Invest & Access\*](/go/min
 
 [Få 10%+ hos RoboCash\*](/go/robocash/){: .btn .btn--large .btn--success} [Få 10%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info} [Få 5 EUR hos Bondora\*](/go/bondora/){: .btn .btn--large .btn--success}
 
-I alt har jeg tabt **-6.882 DKK** på crowdlending i løbet af denne måned pga. Envestios forsvinding. Det giver en vægtet intern rente på 6,27% på den almindelige crowdlending. <ins>Envestio-eventyret spiste altså et par procent af min vægtede interne rente.</ins> At den samlede vægtede interne rente stadig er høj skyldes, at Envestio heldigvis ikke var så stor en del af min samlede crowdlending portefølje. Den interne vægtede rente på den ejendomsbaserede crowdlending er i januar på 2,41%. Det betyder bl.a. meget at [BrickShare\*](/go/brickshare/) fortsat ikke giver afkast, mens [PropertyPartner\*](/go/propertypartner/), [Kuflink\*](/go/kuflink/) og [ReInvest24\*](/go/reinvest24/) har lidt startomkostninger forbundet med investeringerne. Platformene er imidlertid ret lette at bruge og på sigt skal de nok være fine investeringer.
+I alt har jeg tabt **-6.882 DKK** på crowdlending i løbet af denne måned pga. Envestios forsvinding. Det giver en vægtet intern rente på 6,27% på den almindelige crowdlending. <ins>Envestio-eventyret spiste altså et par procent af min vægtede interne rente.</ins> At den samlede vægtede interne rente stadig er høj skyldes, at Envestio heldigvis ikke var så stor en del af min samlede crowdlending portefølje. Den interne vægtede rente på den ejendomsbaserede crowdlending er i januar på 2,41%. Det betyder bl.a. meget at [BrickShare\*](/platform/themany/) fortsat ikke giver afkast, mens [PropertyPartner\*](/go/propertypartner/), [Kuflink\*](/go/kuflink/) og [ReInvest24\*](/go/reinvest24/) har lidt startomkostninger forbundet med investeringerne. Platformene er imidlertid ret lette at bruge og på sigt skal de nok være fine investeringer.
 
 I forhold til løbende intern rente, så fungerer [Grupeer\*](/go/grupeer/), [Lenndy\*](/go/lenndy/), [FastInvest\*](/go/fastinvest/) (som der i crowdlendingmiljøet i øjeblikket er meget bekymring omkring), [Mintos\*](/go/mintos/) og [Crowdestor\*](/go/crowdestor/) bedst for mig. Alle har en intern rente i spændet 13,72% til 10,96%.
 

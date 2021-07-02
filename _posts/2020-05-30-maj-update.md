@@ -17,6 +17,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
@@ -24,6 +25,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Fedt, at du kigger forbi, for at følge med i, hvordan det går med min søgning efter finansiel frihed.
@@ -91,7 +93,7 @@ Jeg trækker mig også ud af **[Reinvest24\*](/go/reinvest24)**. Det er ellers e
 
 **[Kuflink\*](/go/kuflink/)** giver en relativ høj signup bonus, hvis du bliver på platformen i et år. Jeg har skrevet til dem, at det er lidt irriterende at det ikke er let at finde kontoens samlede værdi, når man logger ind. Men du har mulighed for at blive eksponeret mod det britiske ejendomsmarked på platformen både gennem direkte investering og autoinvest. Kuflink giver ikke huslejeindtægter, så jeg overvejer at trække mig ud af platformen.
 
-Jeg er også på **[PropertyPartner\*](/go/propertypartner/)**, hvor jeg får husleje fra ejendommene. Jeg har investereret på platformen i mere end et år. Den ligner danske <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, da man får husleje, men også andel i værdistigningen i ejendommene. Jeg registrerer husprisen månedligt i Portfolio Performance, og huspriserne er faldet på mange af de huse, jeg har en andel i. Det betyder, at min samlede interne rente på PropertyPartner i øjeblikket er -6,52%. Hvis du gerne vil have en eksponering mod det britiske ejendomsmarked, så kan det formentlig være et godt tidspunkt, hvor pundet er lidt lavt og priserne lidt nede. [PropertyPartner\*](/go/propertypartner/) har også autoinvestor og er en velfungerende platform. Jeg ville dog helt sikkert vælge **danske Brickshare**, hvor du kan [få 250 DKK ved at bruge mit link til at registrere dig hos Brickshare\*](/go/brickshare/).
+Jeg er også på **[PropertyPartner\*](/go/propertypartner/)**, hvor jeg får husleje fra ejendommene. Jeg har investereret på platformen i mere end et år. Den ligner danske <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>, da man får husleje, men også andel i værdistigningen i ejendommene. Jeg registrerer husprisen månedligt i Portfolio Performance, og huspriserne er faldet på mange af de huse, jeg har en andel i. Det betyder, at min samlede interne rente på PropertyPartner i øjeblikket er -6,52%. Hvis du gerne vil have en eksponering mod det britiske ejendomsmarked, så kan det formentlig være et godt tidspunkt, hvor pundet er lidt lavt og priserne lidt nede. [PropertyPartner\*](/go/propertypartner/) har også autoinvestor og er en velfungerende platform. Jeg ville dog helt sikkert vælge **danske Brickshare**, hvor du kan [få 250 DKK ved at bruge mit link til at registrere dig hos Brickshare\*](/platform/themany/).
 
 Værdien på mine **[Funderbeam](/go/funderbeam/)** investeringer er gået op. Der har jeg bl.a. Investeret i danske [Lendino\*](/go/lendino/), hvor de har rejst penge til at forbedre deres software, så den kan sælges videre. Priserne på mine andele i de firmaer, jeg har investeret i på Funderbeam, er gået meget op og ned - og der er ikke så stor aktivitet på det sekundære marked. Men nu har jeg forsøgt at sætte mine andele til salg, så må jeg se, hvor likvidt det i virkeligheden er. Lige nu ser det ud til, at der er et ret højt spread mellem købs- og salgspris. Funderbeam er en platform, hvor du køber andele i startups, og der er relativt mange projekter og et sekundært marked.
 

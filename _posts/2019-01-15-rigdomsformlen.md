@@ -35,6 +35,6 @@ Jeg håber du vil følge med i min rejse.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning }
+[Få en gratis investeringsplan fra NORD*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info }
+[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }

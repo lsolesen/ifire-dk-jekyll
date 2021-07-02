@@ -82,7 +82,7 @@ Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalg
 
 Den største udfordring jeg har ift. ETF'erne er i øjeblikket muligheden for at gøre investeringen automatiseret uden at skulle betale for meget i vekselgebyr - eller manuelt sidde og veksle pengene.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Strategi
 
@@ -109,7 +109,7 @@ Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verd
 
 ### Aktiesparekonto, månedopsparing og større værdidepot
 
-Jeg har på [SaxoInvestor*](/go/saxoinvestor/) oprettet en **aktiesparekonto**, og jeg har på [Nordnet](/go/nordnet/) en månedsopsparing. Det giver basis for lidt forskellige strategier for de forskellige placeringer.
+Jeg har på [SaxoInvestor](/go/saxoinvestor/) oprettet en **aktiesparekonto**, og jeg har på [Nordnet](/go/nordnet/) en månedsopsparing. Det giver basis for lidt forskellige strategier for de forskellige placeringer.
 
 Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
@@ -119,6 +119,6 @@ Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men d
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

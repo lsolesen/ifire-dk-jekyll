@@ -20,6 +20,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
     title: "The Simple Path to Wealth"
@@ -27,6 +28,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 *[FOMO]: Fear Of Missing Out
@@ -50,7 +52,7 @@ I 2019 får jeg så en opvågning, da jeg bliver rigtig interesseret i økonomis
 
 De seneste tre år havde ÅOP ligget på mellem 1,21% og 1,75% af min investering, når man lægger bankens gebyrer, kurtage og værdipapirenes omkostninger sammen. Samtidig havde der kun været en intern rente på 2,8% i årene fra 2013-2018. Det var med andre ord tid til noget andet!
 
-Jeg tænkte, at jeg kunne overføre hele beholdningen til mit eget depot, for så ville jeg spare de årlige omkostninger til, at banken vedligeholdt porteføljen. Jeg havde hørt godt om [Nordnet\*](/go/nordnet/), så det satte jeg i gang. Men det kunne jeg desværre ikke få lov til:
+Jeg tænkte, at jeg kunne overføre hele beholdningen til mit eget depot, for så ville jeg spare de årlige omkostninger til, at banken vedligeholdt porteføljen. Jeg havde hørt godt om [Nordnet](/go/nordnet/), så det satte jeg i gang. Men det kunne jeg desværre ikke få lov til:
 
 > Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagtsplejeprodukter.
  
@@ -157,7 +159,7 @@ Og det bedste er, at du ikke behøver at være et aktiegeni eller udvalgt dygtig
 
 **Buy and hold med passive investeringsafdelinger, der dækker verdensmarkedet, indkøbt efter _dollar cost average_ virker bare på langt sigt.**
 
-Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) er de to bøger, jeg burde have læst først på min investeringsrejse.
+Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } er de to bøger, jeg burde have læst først på min investeringsrejse.
 
 ## Genkender du de psykologiske mekanismer?
 

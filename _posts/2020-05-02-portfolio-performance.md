@@ -17,6 +17,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
@@ -24,6 +25,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har længe siddet og bakset med et Google Sheets ark, som jeg manuelt hver måned har opdateret med investeringer, crowdlending og kryptovaluta. Jeg synes det er lidt besværligt og kunne godt tænke mig en lidt mere robust løsning til at få et overblik over økonomien, så jeg gik lidt på udkig efter en bedre løsning.
@@ -59,7 +61,7 @@ I øverste højre hjørne over `All Securities` kan du klikke på **+**-tegnet. 
 
 Jeg har et stykke tid brugt [Atlaz\*](/go/atlaz/) til at få et samlet overblik over alle mine investeringer. Det fungerer virkelig godt med alle de danske investeringer, som den automatisk kan trække ind i systemet. Den gratis service er naturligvis ikke helt gratis, da du betaler med data om dine investeringer, men formålet med Atlaz er at få mange bruger, så de på sigt kan begynde at forhandle med bankerne og børsmæglerne om gebyrerne, fordi de gør det på baggrund af mange mennesker. Desværre kan Atlaz lige nu ikke levere historiske afkast, så man får først et overblik fra den dag, man investerer Atlaz. Atlaz kan imidlertid heller ikke hente data fra de udenlandske børser, fx [Etoro\*](/go/etoro/).
 
-Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordnet\*](/go/nordnet/) til mine frie midler og [SaxoInvestor\*](/go/saxoinvestor/) til min aktiesparekonto, men de skilter ikke just med et overblik over renteudgifter, valutaudgifter og kurtage i en let oversigt.
+Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto, men de skilter ikke just med et overblik over renteudgifter, valutaudgifter og kurtage i en let oversigt.
 
 ### Opsætning til investeringer
 
@@ -69,11 +71,11 @@ Jeg fulgte denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu
 
 ### Importere data ind i Portfolio Performance
 
-Det er relativt let at importere data ind i programmet. Fra [Nordnet\*](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt.
+Det er relativt let at importere data ind i programmet. Fra [Nordnet](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt.
 
 Jeg kan ikke finde CSV-filer:
 
-- **[SaxoInvestor\*](/go/saxoinvestor/)**. Jeg kunne ikke finde CSV-filer fra [SaxoInvestor\*](/go/saxoinvestor/), så det har jeg spurgt supporten om - og lige nu kan man ikke se sine historiske handler.
+- **[SaxoInvestor](/go/saxoinvestor/)**. Jeg kunne ikke finde CSV-filer fra [SaxoInvestor](/go/saxoinvestor/), så det har jeg spurgt supporten om - og lige nu kan man ikke se sine historiske handler.
 - **[Revolut Trading\*](/go/revolut/)**. Jeg har også spurgt supporten om CSV-export fra [Revolut Trading\*](/go/revolut/)
 
 ### Flere valutakonti
@@ -191,7 +193,7 @@ Jeg har dummet mig ved at investere i Envestio, som har vist sig at være en _sc
 
 ### Crowdlending baseret på shares eller andele
 
-Jeg investerer i <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins> og [Funderbeam\*](/go/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
+Jeg investerer i <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins> og [Funderbeam\*](/go/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
 
 For eksempel så har jeg to investeringer i [The Many\*](/go/themany/). Dem har jeg oprettet som en security. Jeg har kaldt dem Brickshare: Projektnavn. Når jeg laver en opdatering, så opdaterer jeg værdien af andelene ved at højreklikke nederst i billedet under fanen `Historical Quotes`. På den måde så får jeg det mest retvisende billede med den interne rente for projekterne.
 

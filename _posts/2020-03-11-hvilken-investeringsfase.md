@@ -22,9 +22,10 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-Investering kan være ret simpelt. (Faktisk kan det være meget mere udbytterigt end konstant at sidde og justere sine investeringer). Men der er alligevel nogle ting, du skal gøre dig klart. J. L. Collins beskriver i [Simple Path To Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) to faser i dit investeringsliv.
+Investering kan være ret simpelt. (Faktisk kan det være meget mere udbytterigt end konstant at sidde og justere sine investeringer). Men der er alligevel nogle ting, du skal gøre dig klart. J. L. Collins beskriver i [Simple Path To Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } to faser i dit investeringsliv.
 
 - **Opbygning af formue**. Den periode hvor du arbejder, sparer op og investerer. Hvis finansiel uafhængighed er dit mål, så skal din opsparingsrate være høj. Hvis du investerer penge løbende i perioden, så bliver rutjsebaneturen på markedet lidt mere glat. Måske tager du en lidt højere risiko i denne fase.
 - **Vedligeholdelse af formue**. Når du ikke længere har en indkomst, så vil du gerne have at pengene mere tilgængelige. Måske sænker du din risiko i denne periode, fx ved obligationer i porteføljen.
@@ -80,9 +81,9 @@ Det hele afhænger af balance.
 
 Hvis du vil kigge på andre forslag, så er de følgende porteføljer meget omtalte rundt omkring. Men læs grundigt op på alle aktivklasserne, inden du ændrer din strategi.
 
-- Klassisk aktie og obligationer, bl.a. [J. L. Collins forslag i Simple Path to Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922)
-- **Permanent Portfolio** af Harry Browne ([læs bog om porteføljen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252)), 25% aktier, 25% obligationer, 25% kontanter og 25% guld. Jeg har en mindre portefølje, hvor jeg kører en variation af dette baseret på [ObviousInvestor](http://www.obviousinvestor.com), men hvor jeg har erstattet andelen af kontanter med investeringer i REIT (ejendomme)
-- **All Weather Portfolio** - som bl.a. Anthony Robbins bruger i sin bog [Money - Master the game](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613).
+- Klassisk aktie og obligationer, bl.a. [J. L. Collins forslag i Simple Path to Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" }.
+- **Permanent Portfolio** af Harry Browne ([læs bog om porteføljen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252){: rel="sponsored nofollow noopener" }), 25% aktier, 25% obligationer, 25% kontanter og 25% guld. Jeg har en mindre portefølje, hvor jeg kører en variation af dette baseret på [ObviousInvestor](http://www.obviousinvestor.com), men hvor jeg har erstattet andelen af kontanter med investeringer i REIT (ejendomme)
+- **All Weather Portfolio** - som bl.a. Anthony Robbins bruger i sin bog [Money - Master the game](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }.
 
 ## Opsamling
 

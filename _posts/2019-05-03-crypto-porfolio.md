@@ -16,15 +16,15 @@ feature_row_solutions:
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
-    excerpt: "[Coinbase*](/go/coinbase/) har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/)."
+    excerpt: "[Coinbase*](/go/coinbase/){: rel='sponsored nofollow noopener' } har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/){: rel='sponsored nofollow noopener' }."
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"
     title: "Kraken"
-    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken*](/go/kraken/), som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken*](/go/kraken/){: rel='sponsored nofollow noopener' }, som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
-    excerpt: "[Ledger*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
+    excerpt: "[Ledger*](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 ---
 
 Cryptovaluta et meget volatilt marked. Med min risikoprofil kommer cryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
@@ -77,32 +77,32 @@ Uphold har også lavet en _stable coin_, som knytter sig til EUR (UPEUR). Den ka
 
 ## Opbevaring af cryptovaluta og Bitcoins
 
-Du skal have en **Wallet**, hvor du kan opbevare din cryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere cryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet\*](/go/atomicwallet/), som jeg kan bruge på min smartphone. _Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet\*](/go/ledger/)._
+Du skal have en **Wallet**, hvor du kan opbevare din cryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere cryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet\*](/go/atomicwallet/){: rel='sponsored nofollow noopener' }, som jeg kan bruge på min smartphone. _Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet\*](/go/ledger/){: rel='sponsored nofollow noopener' }._
 
 Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, sign-up for airdrop with promo code **Z7DSZ** and get extra 5 AWC tokens!
 {: .notice--success}
 
-[Køb en hardware wallet hos Ledger\*](/go/ledger/){: .btn .btn--large .btn--warning}
+[Køb en hardware wallet hos Ledger\*](/go/ledger/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f){: rel='sponsored nofollow noopener' }
 
 ## Hvordan køber jeg min cryptovaluta?
 
-Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase\*](/go/coinbase/) og [Binance\*](/go/binance/) ligger transaktionsgebyret på omkring 3,75%. 
+Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase\*](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Binance\*](/go/binance/){: rel='sponsored nofollow noopener' } ligger transaktionsgebyret på omkring 3,75%. 
 
-På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe Bitcoins (BTC), Ethereum (ETH) og Stellar Lumens (XLM) som alle er en del af min valgte crypto-portefølje. Desuden kan jeg købe Bitcoin SV (BSV) og Bitcoin Cash (BCH). Derfor køber jeg en af de cryptovalutaer på Coinify.dk, og så køber bruger jeg dem på [Binance\*](/go/binance/), som har et meget større udbud af cryptovalutaer og i øjeblikket er verdens største cryptobørs. Derved er transaktionsgebyret slet ikke så stort.
+På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe Bitcoins (BTC), Ethereum (ETH) og Stellar Lumens (XLM) som alle er en del af min valgte crypto-portefølje. Desuden kan jeg købe Bitcoin SV (BSV) og Bitcoin Cash (BCH). Derfor køber jeg en af de cryptovalutaer på Coinify.dk, og så køber bruger jeg dem på [Binance\*](/go/binance/){: rel='sponsored nofollow noopener' }, som har et meget større udbud af cryptovalutaer og i øjeblikket er verdens største cryptobørs. Derved er transaktionsgebyret slet ikke så stort.
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
-[Køb cryptovaluta hos Binance\*](/go/binance/){: .btn .btn--large .btn--warning}
+[Køb cryptovaluta hos Binance\*](/go/binance/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Hvordan tracker jeg min cryptovaluta?
 
-For at holde lidt styr på, hvilke priser jeg køber cryptovaluta til, så bruger jeg [CoinTracking.info\*](/go/cointracking/). På den måde kan jeg holde øje med, hvad jeg gennemsnitligt køber valutaen til - og på den måde kan jeg sørge for, at jeg ikke sælger dem igen med tab. Som sagt så køber jeg ind som opsparing, så mine planer er ikke umiddelbart at sælge min cryptovaluta igen. Ved at holde lidt styr på indkøbene har jeg imidlertid et mere informeret udgangspunkt.
+For at holde lidt styr på, hvilke priser jeg køber cryptovaluta til, så bruger jeg [CoinTracking.info\*](/go/cointracking/){: rel='sponsored nofollow noopener' }. På den måde kan jeg holde øje med, hvad jeg gennemsnitligt køber valutaen til - og på den måde kan jeg sørge for, at jeg ikke sælger dem igen med tab. Som sagt så køber jeg ind som opsparing, så mine planer er ikke umiddelbart at sælge min cryptovaluta igen. Ved at holde lidt styr på indkøbene har jeg imidlertid et mere informeret udgangspunkt.
 
-Hvus du skriver dig op til PRO-udgaven af [CoinTracking.info\*](/go/cointracking/) (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
+Hvus du skriver dig op til PRO-udgaven af [CoinTracking.info\*](/go/cointracking/){: rel='sponsored nofollow noopener' } (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
 
-[Se mit crypto-portefølje på CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4){: .btn .btn--large .btn--info}
+[Se mit crypto-portefølje på CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Investering eller opsparing i cryptovaluta
 
@@ -110,14 +110,14 @@ Jeg køber hovedsageligt cryptovaluta for at lave en opsparing. Husk, at det ene
 
 ## Mining af bitcoins
 
-For sjov **miner** jeg også lidt cryptovaluta via [Minergate\*](/go/minergate/). Her kan man installere et program på sin computer, som så går i gang med at _mine_ forskellige valutaer. Med _Smart Mining_ vælger programmet selv, hvilken valuta, der bedst kan betale sig. Jeg har brugt en hel dag på at mine Monero (XMR), og jeg er nået til 0,0007904 XMR, hvilket svarer til 0,05052 USD. Det kan altså ikke betale sig i strøm, hvis ikke computeren alligevel skulle køre.
+For sjov **miner** jeg også lidt cryptovaluta via [Minergate\*](/go/minergate/){: rel='sponsored nofollow noopener' }. Her kan man installere et program på sin computer, som så går i gang med at _mine_ forskellige valutaer. Med _Smart Mining_ vælger programmet selv, hvilken valuta, der bedst kan betale sig. Jeg har brugt en hel dag på at mine Monero (XMR), og jeg er nået til 0,0007904 XMR, hvilket svarer til 0,05052 USD. Det kan altså ikke betale sig i strøm, hvis ikke computeren alligevel skulle køre.
 
 **Monero (XMR)** fokuserer på absolut privatliv. Hvis du køber noget med Monero online, så er det umuligt at tracke transaktionen. Jeg vil tro, at det på sigt vil gøre Monero til en virkelig populær mønt i cryptoverden.
 {: .notice--info}
 
-[Bliv cryptominer på Minergate\*](/go/minergate/){: .btn .btn--large .btn--danger}
+[Bliv cryptominer på Minergate\*](/go/minergate/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins*](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hvad så herfra?
 
@@ -134,9 +134,9 @@ Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op
 | Binance Coin (BNB)    | Binance | Binance Ex             | Giver fordele i gebyrer    |
 | Cred (LBA)            | Uphold  | Uphold                 | For at få maksimale renter |
 
-Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/) eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/). Uanset hvad du gør, så tænk dig om.
+Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins\*](/go/coinbase/){: rel='sponsored nofollow noopener' } eller gå i gang med at [mine lidt coins på Minergate\*](/go/minergate/){: rel='sponsored nofollow noopener' }. Uanset hvad du gør, så tænk dig om.
 
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f){: rel='sponsored nofollow noopener' }
 
 {% include feature_row id="feature_row_solutions" %}
 

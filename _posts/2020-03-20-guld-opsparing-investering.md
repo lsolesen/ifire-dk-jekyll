@@ -24,6 +24,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780312263218/0x500
     alt: "Fail-Safe Investing af Harry Browne"
     title: "Fail-Safe Investing af Harry Browne"
@@ -31,6 +32,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780071759175/0x500
     alt: "Four Pillars of Investing: Lessons for Building a Winning Portfolio"
     title: "Four Pillars of Investing: Lessons for Building a Winning Portfolio"
@@ -38,6 +40,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/four-pillars-of-investing-lessons-for-building-a-winning-portfolio_william-j-bernstein_epub_9780071759175
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Guld har fyldt en stor del af økonomien gennem historien, og det var også en lang årrække betalingsmiddel. Tidligere var vores valutaer også bundet op på guld, og på den måde undgik man inflation. 
@@ -76,7 +79,7 @@ Hvis du gerne vil have guld som opsparing eller investering, er der forskellige 
 
 ## ETF’er der tracker guld
 
-Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet\*](/go/nordnet/), hvor de årlige omkostninger ikke er alt for høje:
+Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet](/go/nordnet/), hvor de årlige omkostninger ikke er alt for høje:
 
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
@@ -92,7 +95,7 @@ Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i E
 
 ## Investering i guld gennem aktier
 
-Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet\*](/go/nordnet/) eller [SaxoInvestor\*](/go/saxoinvestor) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
+Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet](/go/nordnet/) eller [SaxoInvestor](/go/saxoinvestor) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
 
 ## Køb og sælg guld i certifikater
 
@@ -112,7 +115,7 @@ Du skal nøje vurdere, hvad dit formål med at købe guld er? Er det til **opspa
 
 {% include video provider="youtube" id="7FBo467hLzQ" %}
 
-Guld er en del af fx [Harry Brownes Permanent Portfolio\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252) og Ray Dalios All-Weather Portfolio som Anthony Robbins har gjort populært gennem bogen [Money - Master the Game\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613)
+Guld er en del af fx [Harry Brownes Permanent Portfolio\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252){: rel="sponsored nofollow noopener" } og Ray Dalios All-Weather Portfolio som Anthony Robbins har gjort populært gennem bogen [Money - Master the Game\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }.
 
 Guld kan være en del af den balancerede portefølje, og den kan være med til at justere din risiko. Det er dog mere enkelt bare at bruge obligationer til at styre risikoen i porteføljen.
 

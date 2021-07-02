@@ -13,7 +13,7 @@ header:
 
 Velkommen til juni måneds opdatering.
 
-Det var også i juni, at jeg fik årsregnskabet færdigt for min (snart tidligere) virksomhed [Discimport.dk](http://discimport.dk/). Det er et I/S selskab, jeg i mange år har haft sammen med en af mine venner. Han er stadig meget aktiv i firmaet og vil gerne gøre det større, mens jeg har haft et ønske om at trække mig fra firmaet. Vi er blevet enige om en rigtig god måde at få det gjort på. Det er lidt vemodigt, men også en lettelse ikke at skulle lave momsregnskab og årsregnskab længere. Det frigiver også lidt likvide midler, jeg så skal have placeret på en anden måde. Jeg kommer faktisk til at savne at bruge [Billy\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=57749) til at lave regnskab. Selvom det er et affiliatelink, så er det virkelig et fantastisk regnskabsprogram til mindre virksomheder og en virkelig god support. Det har været alle pengene værd, da vi besluttede os for at bruge dem.
+Det var også i juni, at jeg fik årsregnskabet færdigt for min (snart tidligere) virksomhed [Discimport.dk](http://discimport.dk/). Det er et I/S selskab, jeg i mange år har haft sammen med en af mine venner. Han er stadig meget aktiv i firmaet og vil gerne gøre det større, mens jeg har haft et ønske om at trække mig fra firmaet. Vi er blevet enige om en rigtig god måde at få det gjort på. Det er lidt vemodigt, men også en lettelse ikke at skulle lave momsregnskab og årsregnskab længere. Det frigiver også lidt likvide midler, jeg så skal have placeret på en anden måde. Jeg kommer faktisk til at savne at bruge [Billy\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=57749){: rel="sponsored nofollow noopener" } til at lave regnskab. Selvom det er et affiliatelink, så er det virkelig et fantastisk regnskabsprogram til mindre virksomheder og en virkelig god support. Det har været alle pengene værd, da vi besluttede os for at bruge dem.
 
 ## Samlet status for investeringer og opsparing
 
@@ -114,7 +114,7 @@ Jeg har flyttet Bondora Go&Grow herned, fordi jeg måske hellere vil over på Mi
 | [Kameo (DKK)](/platform/kameo/)               | 2019  | 1            | Nej  | 4        | 3,03%  |
 | [Kameo (SEK)](/platform/kameo/)               | 2019  | 1            | Nej  | 3        | 1,68%  |
 | [Crowdestor (EUR)\*](/go/crowdestor/)   | 2019  | 1            | Nej  | 9        | 13,02% |
-| [Envestio (EUR)\*](/go/envestio/)       | 2019  | 1            | Nej  | 6        | 8,93%  |
+| [Envestio (EUR)\*](/platform/envestio/)       | 2019  | 1            | Nej  | 6        | 8,93%  |
 
 ### Investering i firmaer
 
@@ -140,7 +140,7 @@ Jeg glæder mig virkelig til at få lidt løbende indtægter fra mine ejendomsin
 
 | Platforme (mulighed for lejeindtægter)          | Start | Låneudbydere | Auto | Mine lån | XIRR   |
 |-------------------------------------------------|-------|--------------|------|----------|--------|
-| [Brickshare (DKK)](/go/brickshare/)             | 2019  | 1            | Nej  | 1        | 0%     |
+| [Brickshare (DKK)](/platform/themany/)             | 2019  | 1            | Nej  | 1        | 0%     |
 | [ReInvest24 (EUR)\*](/go/reinvest24/)           | 2019  | 1            | Nej  | 5        | -4,94% |
 | [Housers (EUR)\*](/go/housers/)                 | 2019  | 1            | Nej  | 7        | 2,70%  |
 | [PropertyPartner (GBP)\*](/go/propertypartner/) | 2019  | 1            | Ja   | 11       | -2,44% |
@@ -204,11 +204,11 @@ I juli skal jeg for første gang udleje mit hus via [AirBnb\*](/go/airbnb/) og t
 
 Jeg fik styr på serveren igen, så mine sites kører igen. Jeg har Google Adsense på [Motionsplan](http://www.motionsplan.dk/), [larsolesen.dk](http://larsolesen.dk), [iFire](http://www.ifire.dk/) og [Fodboldens Legestue](http://legestue.net). Google Adsense har i maj givet **26,61 kroner**.
 
-Jeg har også oprettet mig hos [Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193), men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **0 kroner**.
+Jeg har også oprettet mig hos [Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" }, men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **0 kroner**.
 
-Alt i alt har jeg altså **genereret 26,61 kr i passiv indkomst** ved at sætte reklamer på mine sites. At implementere affiliate links fra [Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193) kræver en del omtanke, hvis det rigtigt skal generere en indtjening, og det håber jeg at få lidt mere tid til i løbet af den næste måned.
+Alt i alt har jeg altså **genereret 26,61 kr i passiv indkomst** ved at sætte reklamer på mine sites. At implementere affiliate links fra [Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" } kræver en del omtanke, hvis det rigtigt skal generere en indtjening, og det håber jeg at få lidt mere tid til i løbet af den næste måned.
 
-[Skab passiv indkomst med Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info}
+[Skab passiv indkomst med Partner-Ads\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 ## Støt gerne mine opdateringer
 

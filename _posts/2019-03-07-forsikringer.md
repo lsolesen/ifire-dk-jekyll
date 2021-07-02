@@ -20,7 +20,7 @@ Det tager ikke så lang tid at tjekke op på forsikringerne. Til gengæld kan de
 
 Du kan fx tjekke din forsikringer igennem en gang hvert andet år - og det er ikke så vanskeligt og kedeligt som det lyder.
 
-Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp på nettet, hvor der er flere services, der hjælper med at tjekke forsikringerne igennem. Fx kan du på [findforsikring.dk](/go/pa/findforsikring/) eller på [Tjenestorvet](/go/pa/tjenestetorvet/) hurtigt gratis få hjælp til at tjekke dine forsikringer.
+Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp på nettet, hvor der er flere services, der hjælper med at tjekke forsikringerne igennem. Fx kan du på [findforsikring.dk](/go/pa/findforsikring/){: rel='sponsored nofollow noopener' } eller på [Tjenestorvet](/go/pa/tjenestetorvet/){: rel='sponsored nofollow noopener' } hurtigt gratis få hjælp til at tjekke dine forsikringer.
 
 ***
 
@@ -30,11 +30,11 @@ Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikrin
 
 Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
 
-- **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/), hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det gav næsten 1100 kroner i forskel på indboforsikringen, som nu er uden rejseforsikring.
+- **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/){: rel='nofollow noopener' }, hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det gav næsten 1100 kroner i forskel på indboforsikringen, som nu er uden rejseforsikring.
 
 - **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på.
 
-Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507) og [Findforsikring.dk](/go/pa/findforsikring/), men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
+Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507){: rel='sponsored nofollow noopener' } og [Findforsikring.dk](/go/pa/findforsikring/){: rel='sponsored nofollow noopener' }, men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
 
 Det tog 15 minutter - men det var også en pæn besparelse på 2.900 kroner om året på forsikringer.
 
@@ -50,7 +50,7 @@ Hvad kunne du spare på dine forsikringer?
 
 Tjek dine forsikringer hos:
 
-[Findforsikring.dk](/go/pa/findforsikring/){: .btn .btn--large .btn--warning } eller [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--info }
+[Findforsikring.dk](/go/pa/findforsikring/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Tjenestorvet](/go/pa/tjenestetorvet/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ***
 

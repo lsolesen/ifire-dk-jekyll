@@ -28,11 +28,11 @@ Jeg kan godt lide Airbnb, fordi
 - Ideen bag at forbinde lejere og udlejere er genialt
 - Du kan bo billigere end traditionelle hoteller og udnytte ledig kapacitet
 - Det er gratis at være medlem af Airbnb - faktisk kan du endda starte med
-[op til 220 kroner i rabat, hvis du bruger dette link\*](/go/airbnb/)
+[op til 220 kroner i rabat, hvis du bruger dette link\*](/go/airbnb/){: rel='sponsored nofollow noopener' }
 - Du kommer til at bo lokalt ved en lokal og kan få de lokale hemmeligheder
 - Du kan være så heldig, at det er muligt selv at lave noget af din mad
 
-[Tilmeld dig Airbnb og få op til 220 kroner i rabat\*](/go/airbnb/){: .btn .btn--large .btn--success }
+[Tilmeld dig Airbnb og få op til 220 kroner i rabat\*](/go/airbnb/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 Du skal naturligvis være opmærksom på, at der er også er udfordringer ved Airbnb. Udlejerne vil gerne tjene på deres udlejningen og det kan risikere at tiltrække nogen typer, man skal være lidt opmærksomme på. Heldigvis er der på platformen et rigtig godt rating system, hvor man kan _rate_ sin udlejer og boligen.
 
@@ -45,13 +45,13 @@ Du skal naturligvis være opmærksom på, at der er også er udfordringer ved Ai
 
 Airbnb gør meget for at det er sikkert at bruge for både udlejere og lejere. På sitet kan du fx **verificere dig** med et officielt dokument, og for at gøre din oplevelse bedre som lejer, så kan du nøjes med at kigge efter verificerede udlejere.
 
-Airbnb udbetaler først beløbet til udlejeren, når du har boet i boligen i 24 timer, og derfor kan du du altså nå at klage til Airbnb, hvis dit ophold slet ikke lever op til de forventninger, du fik, da du læste opslaget på [AirBnbs\*](/go/airbnb/) hjemmeside.
+Airbnb udbetaler først beløbet til udlejeren, når du har boet i boligen i 24 timer, og derfor kan du du altså nå at klage til Airbnb, hvis dit ophold slet ikke lever op til de forventninger, du fik, da du læste opslaget på [AirBnbs\*](/go/airbnb/){: rel='sponsored nofollow noopener' } hjemmeside.
 
 Efterhånden er Airbnb blevet virkelig populært, og der er nogen, der tjener relativt mange penge på at være udlejer med flere værelser. Sørg for at kigge de forskellige boliger grundigt iggennem på sitet - inden du begiver dig ud på din næste store oplevelse - hvor du har lidt flere penge med hjem, fordi du har fundet en **billigere bolig** på AirBnb.
 
 Vi har selv i løbet af denne sommerferie nydt at bruge AirBnb på vores ferie i Tyskland, hvor vi lejede to forskellige lejligheder. Den første var en ferielejlighed, mens den anden var en families egen lejlighed. Begge var rigtig gode oplevelser. Det geniale ved AirBnb er at man bliver gensidigt afhængige gennem kommunikationen og anmeldelser.
 
-[Tilmeld dig Airbnb og få op til 220 kroner i rabat\*](/go/airbnb/){: .btn .btn--large .btn--danger }
+[Tilmeld dig Airbnb og få op til 220 kroner i rabat\*](/go/airbnb/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Hvordan bliver man vært på AirBnb?
 
@@ -63,7 +63,7 @@ Vores forberedelser var naturligvis en rigtig grundig rengøring (som det jo alt
 
 Selvom AirBnb tager deres andel af udlejningsprisen, så kan indtægten altså stadig være ret fornuftig.
 
-[Bliv vært på AirBnb og få 66 kroner\*](/go/airbnb/){: .btn .btn--large .btn--danger }
+[Bliv vært på AirBnb og få 66 kroner\*](/go/airbnb/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Konklusion
 

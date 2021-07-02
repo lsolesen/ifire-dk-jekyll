@@ -20,13 +20,14 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Det koster _noget_ at handle fonde og ETF’er. Men hvor store er omkostningerne, og er det dyrest at handle danske investeringsbeviser eller ETF’er?
 
 ## Kurtage
 
-Enhver handel koster penge. Du betaler kurtage til børsmægleren. Det varierer fra børsmægler til børsmægler, hvad kurtagen er. Hos [Nordnet\*](/go/nordnet/) er der en minimumskurtage på 29 DKK og ellers er den 0,1% af det handlede beløb. Hos [SaxoInvestor\*](/go/saxoinvestor/) er der ingen minimumskurtage. I praksis kan det altså bedst betale sig at handle for mindst 29.000 DKK hos Nordent for ikke at betale for meget  i kurtage. Udgiften til kurtage kan du altså ikke undgå. Men hvis du handler ofte, så forsvinder noget af dit afkast.
+Enhver handel koster penge. Du betaler kurtage til børsmægleren. Det varierer fra børsmægler til børsmægler, hvad kurtagen er. Hos [Nordnet](/go/nordnet/) er der en minimumskurtage på 29 DKK og ellers er den 0,1% af det handlede beløb. Hos [SaxoInvestor](/go/saxoinvestor/) er der ingen minimumskurtage. I praksis kan det altså bedst betale sig at handle for mindst 29.000 DKK hos Nordent for ikke at betale for meget  i kurtage. Udgiften til kurtage kan du altså ikke undgå. Men hvis du handler ofte, så forsvinder noget af dit afkast.
 
 Kurtagen er i øvrigt fradragsberettiget, og når man bruger en dansk børsmæger sker indberetningen helt automatisk.
 
@@ -65,7 +66,7 @@ Valutakontoen har den fordel, at hvis du sælger udenlandske værdipapirer eller
 
 ## Hvad er omkostningerne
 
-Når du køber en ETF på fx [Nordnet\*](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en. 
+Når du køber en ETF på fx [Nordnet](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en. 
 
 ### Udenlandsk global ETF
 
@@ -79,7 +80,7 @@ Som eksempel vil vi købe [BlackRock iShares Core MSCI World UCITS ETF (EUNL)](h
 
 ### Dansk global indeksfond
 
-Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://www.sparinvestindex.dk/afdelinger/alle%20afdelinger/index%20globale%20aktier%20kl.aspx), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet\*](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK. 
+Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://www.sparinvestindex.dk/afdelinger/alle%20afdelinger/index%20globale%20aktier%20kl.aspx), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK. 
 
 | Emissionstillæg              | 0,29% x beløb             | 173,32 DKK |
 | Kurtage                      | 0,10% x beløb, min 29 DKK | 59,71 DKK  |
@@ -100,7 +101,7 @@ Når du køber værdipapirer, så bliver de noteret til en GA-kurs. GA-kursen in
 
 Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er. 
 
-Jeg køber hovedparten af mine værdipapirer gennem månedsopsparingen på [Nordnet\*](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor\*](/go/saxoinvestor/).
+Jeg køber hovedparten af mine værdipapirer gennem månedsopsparingen på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
 
 {% include feature_row type="left" %}
 

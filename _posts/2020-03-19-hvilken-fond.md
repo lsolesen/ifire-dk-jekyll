@@ -19,6 +19,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Aktiemarkedet er et yderst volatilt marked, hvor kurserne på aktierne går op og ned. Du kan opleve store daglige fald og stigninger. Det ændrer sig ikke selvom, du vælger at investere i fonde. Fordelen ved at investere i fonde er, at du automatisk får en høj diversificering i din portefølje, fordi fondene køber sig ind i mange aktiver.

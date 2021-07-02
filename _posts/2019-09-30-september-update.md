@@ -18,6 +18,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending.
@@ -106,7 +107,7 @@ Min bedste platform i form af afkast er [Crowdestor\*](/go/crowdestor/), som i d
 [Crowdestor\*](/go/crowdestor/) er en af mine yndlingsplatforme, men oprindeligt havde jeg skrevet, at jeg var nået op på en intern rente på 14%. Der havde jeg imidlertid brugt en forkert dato, så den interne rente var i stedet på omkring 10%.
 {: .notice .notice--info }
 
-Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/go/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende.
+Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/platform/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende.
 
 Da jeg skal rebalancere min samlede portefølje lidt, så overvejer jeg lidt om jeg skal sænke min investering i [Iuvo\*](/go/iuvo), hvor jeg har en intern rente på omkring 8% og [FastInvest\*](/go/fastinvest/), fordi de endnu ikke har formået at gøre platformen transperant, selvom de har fået spørgsmålet fra _communitiet_ mange gange. Men begge platforme fungerer sådan set ret upåklagelige ift. hvor lette de er at bruge - og at afkastet er relativt stabilt.
 
