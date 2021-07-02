@@ -57,7 +57,7 @@ Jeg har fulgt Step 8 i bogen og kigget på mine gennemsnitlige udgifter til regn
 
 ## Investeringer
 
-Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/).
+Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/kryptovaluta/).
 
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|

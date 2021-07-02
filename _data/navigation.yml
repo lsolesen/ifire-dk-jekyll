@@ -1,34 +1,32 @@
 main:
-  - title: Opdateringer
-    url: /opdateringer/
   - title: Investering
     url: /investering/
-  - title: Crowdlending
-    url: /crowdlending/
-  - title: Krypto
-    url: /cryptovaluta/
-  - title: Inspiration
-    url: /inspiration/
+  - title: Passiv indkomst
+    url: /passiv-indkomst/
   - title: Spar penge
     url: /spar-penge/
-  - title: Deals
-    url: /deals/
-  - title: Portefølje
-    url: /portfolio/
+  - title: Privatøkonomi
+    url: /inspiration/
+  - title: Crowdlending
+    url: /crowdlending/
+  - title: Kryptovaluta
+    url: /kryptovaluta/
+  - title: Blog
+    url: /blog/
   - title: Om
     url: /om/
 blog:
-  - title: Populære søgninger
+  - title: Om investeringer
     children:
-      - title: renters rente
-        url: /renters-rente/
-      - title: rentes rente
-        url: /renters-rente/
-      - title: lagerbeskatning eller realisationsbeskatning
+      - title: Skat af aktier lagerbeskatning eller realisationsbeskatning
         url: /skat-af-aktier/
-      - title: bagestål vs bagesten
-        url: /bagestaal-vs-bagesten-anmeldelse/
-      - title: crowdlending danmark
+      - title: Crowdlending Danmark
         url: /dansk-crowdlending/
-      - title: gratis tv online
+  - title: Spar penge
+    children:
+      - title: Gratis tv online
         url: /gratis-tv-online-nettet/
+  - title: Populære beregnere
+    children:
+      - title: Renters rente beregner
+        url: /renters-rente/
