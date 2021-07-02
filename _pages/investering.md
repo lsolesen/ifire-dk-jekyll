@@ -59,7 +59,7 @@ feature_row_own:
 
 <div class="feature__wrapper">
 
-{% assign site_posts = site.posts | where: "category", "Investeringer" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Investering" | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
