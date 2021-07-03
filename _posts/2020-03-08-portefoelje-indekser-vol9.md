@@ -213,7 +213,7 @@ Jeg er [ikke så bekymret for lagerbeskatning](/lagerbeskatning-etf-fordel-eller
 - **Aktiesparekontoen**. Aktiesparekontoen er lagerbeskattet, så der kan omkostninger sagtens betyde meget for valget.
 - **Pensionsmidler**. Pensionsmidler er ofte lagerbeskattet.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row type="left" %}
 

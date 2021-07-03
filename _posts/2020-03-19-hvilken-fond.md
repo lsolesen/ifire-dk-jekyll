@@ -148,7 +148,7 @@ Hvis du fx gerne vil følge det globale marked, så skal fonden sammenlignes med
 
 Inden du vælger fonde, skal du først have styr på din strategi. Hvorfor investerer du, og hvordan vil du gerne investere? Og hvilket indeks vil du følge?
 
-Hvis du fx vælger at følge verdensindekset, og du gerne vil bruge [Nordnets månedsopsparing\*](/go/nordnet/), så kan du fx vælge Sparinvest INDEX Globale Aktier Min. Risiko, som følger MSCI World Minimum Volatility og supplere den med Sparinvest INDEX Emerging Markets.
+Hvis du fx vælger at følge verdensindekset, og du gerne vil bruge [Nordnets månedsopsparing](/go/nordnet/), så kan du fx vælge Sparinvest INDEX Globale Aktier Min. Risiko, som følger MSCI World Minimum Volatility og supplere den med Sparinvest INDEX Emerging Markets.
 
 Men hvordan bliver din samlede portefølje så egentlig, og hvad skal fordelingen være mellem dem? Og hvad bliver de samlede omkostninger?
 

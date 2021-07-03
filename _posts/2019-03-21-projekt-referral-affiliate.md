@@ -30,11 +30,11 @@ Reglerne bliver som følger:
 
 - Der må kun bruges penge på domæne og webhotel
 - Jeg starter med det eksisterende indhold
-- Jeg implementerer Google Adsense (på alle sider) og [Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){ rel="sponsored nofollow noopener" } (på de sider, hvor det giver mening)
+- Jeg implementerer Google Adsense (på alle sider) og [Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" } (på de sider, hvor det giver mening)
 - Jeg afsætter en hel dag til at gennemgå indholdet, lave SEO og skrive nyt til de forskellige sites
 - Jeg afsætter en dag hver måned til at forbedre sites og lave opdateringer på fremgang
 
-[Skab passiv indkomst med Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
+[Skab passiv indkomst med Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 ## Projekt 2: Skab passiv indkomst på baggrund af affiliate marketing og referrals
 
@@ -43,10 +43,10 @@ Jeg opretter et nyt website, hvor jeg vil dokumentere min rejse mod at blive **f
 - Jeg vil afsætte en arbejdsuge på at producere indhold og komme i gang
 - Jeg vil en gang om ugen bruge 1 time på at forbedre sitet i tre måneder
 - Jeg vil en gang om måneden bruge en dag på at lave status og forbedre sitet
-- Jeg implementerer Google Adsense (på alle sider) og [Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){ rel="sponsored nofollow noopener" } på siderne
+- Jeg implementerer Google Adsense (på alle sider) og [Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" } på siderne
 - Jeg implementerer _referral links_ til forskellige platforme.
 
-[Kom i gang med crowdlending med Mintos*](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Kom i gang med crowdlending med Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hvilke faldgruber er der med affiliate- og referral markedsføring
 
@@ -56,7 +56,7 @@ At tjene penge på dette er jo et knivsæg, så jeg har opstillet følgende regl
 - Affiliate links kan lægges ind i artikler for at vise nogle muligheder, men det skal stå klart, at der også er andre muligheder - og hvis de øvrige muligheder er bedst skal de fremhæves.
 - Affiliate links skal være klart markeret på siderne (*), og der skal være en forklaring, at der på siden er affiliate links.
 
-[Skab passiv indkomst med Partner-Ads*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
+[Skab passiv indkomst med Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 ## Status på projektet
 

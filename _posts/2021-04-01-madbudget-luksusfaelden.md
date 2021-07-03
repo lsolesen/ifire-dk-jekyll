@@ -122,7 +122,7 @@ Hvis du gerne vil have inspiration til madplaner, så er der rimelig mange mulig
 
 Det behøver ikke koste noget at få inspiration til madplaner, hvis du ikke selv vil lave dem. Fordelen ved at vælge en gennemarbejdet madplan er, at ingredienserne typisk passer sammen.
 
-Jeg har jævnligt abonneret på [måltidskasser fra Aarstiderne\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1825824&media_id=90735), som jeg har været rigtig godt tilfredse med. Det fede ved måltidskasserne var, at der kom økologiske råvarer og spændende opskrifter, som jeg ikke lige selv var kommet på.
+Jeg har jævnligt abonneret på [måltidskasser fra Aarstiderne](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1825824&media_id=90735), som jeg har været rigtig godt tilfredse med. Det fede ved måltidskasserne var, at der kom økologiske råvarer og spændende opskrifter, som jeg ikke lige selv var kommet på.
 
 Men du kan sagtens selv sammensætte det hele ud fra **gratis hjemmesider med madplaner**. Her er nogle af de bedste.
 
@@ -140,7 +140,7 @@ På [webopskrifter.dk](https://www.webopskrifter.dk/artikler/50/) er der enkle m
 
 Alle disse gratis sites til at finde dine madplaner er virkelig imponerende.
 
-Ud over Årstiderne, så er [Hello Fresh\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1846880&media_id=81507) også for alvor trådt ind på det danske marked. De kører nogle rigtig gode introduktionstilbud, som du kan afprøve. Det er nok ikke en langsigtet løsning, hvis du også er interesseret i at holde madbudgettet nede.
+Ud over Årstiderne, så er [Hello Fresh](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1846880&media_id=81507) også for alvor trådt ind på det danske marked. De kører nogle rigtig gode introduktionstilbud, som du kan afprøve. Det er nok ikke en langsigtet løsning, hvis du også er interesseret i at holde madbudgettet nede.
 
 ## Sundhed og madbudget
 
@@ -166,7 +166,7 @@ På Nemlig.dk kan du faktisk oprette madplaner. Så hvis du laver faste madplane
 
 Jeg plejer at købe ind, når jeg er mæt. Så har jeg lagt mærke til, at jeg laver færre impulskøb. Desuden sørger jeg altid for at have en liste med, så jeg nogenlunde ved, hvad jeg skal købe.
 
-Der er også mange muligheder efterhånden for at handle online. Jeg har flere gange brugt [Osuma.dk\*](https://www.osuma.dk), hvor varerne plukkes i Coop-butikker og leveres til hoveddøren. Men der er også mange andre muligheder for at let at handle online. Begrænsningen er lidt, at du ikke altid kan finde rigtig gode tilbud.
+Der er også mange muligheder efterhånden for at handle online. Jeg har flere gange brugt [Osuma.dk](https://www.osuma.dk), hvor varerne plukkes i Coop-butikker og leveres til hoveddøren. Men der er også mange andre muligheder for at let at handle online. Begrænsningen er lidt, at du ikke altid kan finde rigtig gode tilbud.
 
 Hvis du gerne vil have **de bedste tilbud**, når du handler, så er appen MineTilbud ret anvendeligt. Her kan du sammenligne alle tilbud fra tilbudsaviserne. Derved kan du for alvor sikre dig, at dit madbudget ikke ender i luksusfælden. I appen kan du også få en tilbudsagent, som kan holde øje med e produkter, du plejer at købe mest.
 

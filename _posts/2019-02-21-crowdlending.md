@@ -40,7 +40,7 @@ Men efter at have gennemgået min økonomi lidt nærmere, så har jeg besluttet 
 
 ## Mine første fejl
 
-Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos\*](/go/mintos/){: rel='sponsored nofollow noopener' } og [FastInvest*](/go/fastinvest/){: rel='sponsored nofollow noopener' }. Jeg havde ikke helt overvejet min nøjagtige strategi endnu.
+Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde hørt godt om. Jeg skød fx større beløb ind i [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } og [FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' }. Jeg havde ikke helt overvejet min nøjagtige strategi endnu.
 
 - **Vælg den rigtige valuta.** Jeg fik derfor overført et stort beløb til Mintos i DKK, men der er ikke særlig mange forskellige låneudbydere, så lige nu er jeg ved at få pengene konverteret over til EUR, hvor der er mange flere låneudbydere.
 
@@ -48,7 +48,7 @@ Jeg oprettede mig lynhurtigt på en række forskellige platforme, som jeg havde 
 
 - **Utålmodighed med auto-investoren.** De større beløb over på FastInvest havde jeg egentlig tænkt skulle investeres af _auto invest_. Den fungerede dog lidt langsommere på FastInvest end på Mintos, så jeg begyndte selv at købe nogle lån, hvilket i sig selv jo ikke er en dårlig ide, da jeg fik kigget lidt på renterne, løbetiden og blev lidt klogere på platformen. Men jeg blev for utålmodig og satte beløbene på de enkelte beløb højere end, hvad min strategi egentlig siger at jeg skal.
 
-[Kom i gang med crowdlending på Mintos*](/go/mintos/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Min strategi på crowdlending markedet
 
@@ -93,8 +93,8 @@ Crowdlending er en måde at tjene passiv indkomst på. Du låner dine penge ud t
 
 Der er både crowdlending sites på dansk og på engelsk. De klart mest lukrative renter får du på udenlandske crowdlending sites. Når du investerer i crowdlending kan det være rigtig godt at diversificere dine investeringer - både på den enkelte platform med forskellige lånetyper, men også ved at have flere platforme. Jeg selv har nok lige rigeligt i øjeblikket, men pointen er at du skal lave en risikostrategi som ved alle andre investeringer.
 
-- <del>[Envestio\*](/platform/envestio/){: rel='sponsored nofollow noopener' } lokker en gennemsnitlig rente på 18,55%</del><ins>Envestio lukkede ned som et _scam_ i januar 2020.</ins>
-- [Mintos\*](/go/mintos/){: rel='sponsored nofollow noopener' } med 12% p.a.
+- <del>[Envestio](/platform/envestio/){: rel='sponsored nofollow noopener' } lokker en gennemsnitlig rente på 18,55%</del><ins>Envestio lukkede ned som et _scam_ i januar 2020.</ins>
+- [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } med 12% p.a.
 
 Men hvornår begynder man egentlig at tjene noget der ligner de procenter, der bliver lovet på de forskellige platforme?
 
@@ -109,21 +109,21 @@ De to typer reagerer ret forskelligt, så jeg har skilt dem ad i statisikken ned
 
 ## Crowdlending til private og firmaer
 
-På tre måneder er [Mintos\*](/go/mintos/){: rel='sponsored nofollow noopener' }, [Grupeer\*](/go/grupeer/){: rel='sponsored nofollow noopener' } og [Crowdestor\*](/go/crowdestor/){: rel='sponsored nofollow noopener' } de eneste platforme, hvor den _interne rente_ når over 10%. Det er selvom, der for alle platformene er medregnet _signup bonus_ og _cash back_ for investeringen i den periode.
+På tre måneder er [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, [Grupeer](/go/grupeer/){: rel='sponsored nofollow noopener' } og [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } de eneste platforme, hvor den _interne rente_ når over 10%. Det er selvom, der for alle platformene er medregnet _signup bonus_ og _cash back_ for investeringen i den periode.
 
 Danske [Flexfunding](/platform/flexfunding/) har jeg haft kørende siden 2017, og der har den interne rente stabiliseret sig på omkring 4,5%.
 
 <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=540153126&amp;format=image"></iframe>
 
-Hvis du gerne vil investere i denne type crowdlending og har en relativt kort tidshorisont, så er det hos [Mintos\*](/go/mintos/){: rel='sponsored nofollow noopener' } jeg ville satse flest penge, fordi de hurtigst kommer op på en fornuftig intern rente. (Hvis du altså sætter auto invest fornuftigt op).
+Hvis du gerne vil investere i denne type crowdlending og har en relativt kort tidshorisont, så er det hos [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } jeg ville satse flest penge, fordi de hurtigst kommer op på en fornuftig intern rente. (Hvis du altså sætter auto invest fornuftigt op).
 
-De platforme der giver lån til udviklingsprojekter, som fx [Crowdestor\*](/go/crowdestor/){: rel='sponsored nofollow noopener' } og [Envestio\*](/platform/envestio/){: rel='sponsored nofollow noopener' } er det dels lidt sværere at blive fuldt investeret, og man skal forvente at det tager noget længere tid inden den interne rente kommer op det niveau, du havde håbet på. Fx ligger [Envestio\*](/platform/envestio/){: rel='sponsored nofollow noopener' } for mig på tre måneder på en XIRR på 6,98%, så der er jo ret langt op til 18,55% endnu.
+De platforme der giver lån til udviklingsprojekter, som fx [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } og [Envestio](/platform/envestio/){: rel='sponsored nofollow noopener' } er det dels lidt sværere at blive fuldt investeret, og man skal forvente at det tager noget længere tid inden den interne rente kommer op det niveau, du havde håbet på. Fx ligger [Envestio](/platform/envestio/){: rel='sponsored nofollow noopener' } for mig på tre måneder på en XIRR på 6,98%, så der er jo ret langt op til 18,55% endnu.
 
 ## Ejendomsinvestering
 
-[PropertyPartner\*](/go/propertypartner/){: rel='sponsored nofollow noopener' } og [Reinvest24\*](/go/reinvest24/){: rel='sponsored nofollow noopener' } har jeg efter tre-fire måneder stadig negativt afkast på. Det skyldes, at der er gebyrer forbundet med at investere i de to platforme (og at jeg ikke har fået _sign up_ bonus på de to platforme). Til gengæld er det platforme, hvor man få del i lejeindtægterne.
+[PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' } og [Reinvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' } har jeg efter tre-fire måneder stadig negativt afkast på. Det skyldes, at der er gebyrer forbundet med at investere i de to platforme (og at jeg ikke har fået _sign up_ bonus på de to platforme). Til gengæld er det platforme, hvor man få del i lejeindtægterne.
 
-Jeg har også et par lån på [Housers\*](/go/housers/){: rel='sponsored nofollow noopener' }, hvor jeg får lejeindtægter, men der er også flere udviklingslån. [Housers\*](/go/housers/){: rel='sponsored nofollow noopener' } giver en fin _sign up_-bonus, som ikke er medregnet i nedenstående XIRR.
+Jeg har også et par lån på [Housers](/go/housers/){: rel='sponsored nofollow noopener' }, hvor jeg får lejeindtægter, men der er også flere udviklingslån. [Housers](/go/housers/){: rel='sponsored nofollow noopener' } giver en fin _sign up_-bonus, som ikke er medregnet i nedenstående XIRR.
 
 <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=782048792&amp;format=image"></iframe>
 
@@ -133,7 +133,7 @@ Med ejendomslånene skal man altså være endnu mere tålmodig. Der skal du mås
 
 På alle de platforme, hvor der er en auto invest-funktion, så kan det godt betale sig at bruge lidt tid på allerede fra starten at få den sat fornuftigt op. Det er forskelligt fra person til person, hvordan man griber det an ift. sin risikoprofil. Men hvis man får den sat lidt dumt op, så kan man komme til at sidde med en del lån med lidt lavere renter, end det måske var meningen.
 
-Du kan se, hvordan jeg fx har sat [Iuvo\*](/platform/iuvo/) op. Men det er bare min måde at gribe det an på. Der findes også mange andre muligheder. Du kan også selv investere manuelt, hvor du bedre kan plukke de bedste lån.
+Du kan se, hvordan jeg fx har sat [Iuvo](/platform/iuvo/) op. Men det er bare min måde at gribe det an på. Der findes også mange andre muligheder. Du kan også selv investere manuelt, hvor du bedre kan plukke de bedste lån.
 
 ## Hvor meget bør man investere på en crowdlending-platform?
 
@@ -145,7 +145,7 @@ Jeg investerer på virkelig mange platforme. En del af dem har ikke _auto invest
 
 Og det er netop minimumsinvesteringen, jeg vil kigge lidt på her. Hvis minimumsinvesteringen er høj, er det nødvendigt med flere penge investeret samlet på platformen, hvis man gerne vil have rentebeløbet hurtigt reinvesteret.
 
-Hvis man forventer en intern rente på 10% om året på en platform. Det giver en månedlig rente på omkring 0,8%. På [Crowdestor\*](/go/crowdestor/){: rel='sponsored nofollow noopener' } er minimumsinvesteringen 50 EUR. Hvis du kun vil acceptere _cash drag_ fra renteindtægten i fx 2 måneder, så kræver det, at du har 3.000 EUR investeret på platformen for at tjene over minimums investeringsbeløbet.
+Hvis man forventer en intern rente på 10% om året på en platform. Det giver en månedlig rente på omkring 0,8%. På [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } er minimumsinvesteringen 50 EUR. Hvis du kun vil acceptere _cash drag_ fra renteindtægten i fx 2 måneder, så kræver det, at du har 3.000 EUR investeret på platformen for at tjene over minimums investeringsbeløbet.
 
 Jeg har forsøgt at anskueliggøre det i nedenstående regneark. Jeg har brugt lidt tilfældige interne renter i regnearket, men du kan jo lave dine egne udregninger baseret på, hvad din interne rente på de enkelte platforme. Helt ude til højre kan du se, hvad det nødvendige beløb investeret på de enkelte platforme er med mine taleksempler. Men lav dine egne udregninger, inden du helt ukritisk går efter _sign up_-bonuser og guld og grønne rentesatser.
 
@@ -163,7 +163,7 @@ Jeg vil gå i gang med at vurdere de enkelte platforme i min portefølje. Jeg sk
 
 ## Kom i gang med crowdlending
 
-[Mintos\*](/go/mintos/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' } eller [PeerBerry*](/go/peerberry/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Mintos](/go/mintos/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' } eller [PeerBerry](/go/peerberry/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 Lige nu er jeg ved at gøre mig erfaringer med en masse forskellige platforme:
 

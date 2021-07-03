@@ -41,9 +41,9 @@ Efter nogle hårde investeringsmåneder, så er min samlede formue næsten igen 
 
 [Bilen døde også i denne måned](/bilen-synes-2020/), så på kort sigt falder udgifterne formenlig til transport indtil vi finder ud af, om vi har brug for en bil.
 
-Endelig har jeg igen med stor succes købt nogle tjenester på [Fiverr\*](/go/fiverr/). Jeg fik både tegnet noget til [www.motionsplan.dk](http://www.motionsplan.dk/), lavet søgeordsanalyser til [www.cykel-ruter.dk](http://www.cykel-ruter.dk), tegnet skraldespandsmærkater til min arbejdsplads og fået tjekket om koblingen mellem Google Analytics og Google Search Console er rigtig. Noget jeg selv ville skulle bruge ret lang tid på at lave, men har fundet nogle dygtige mennesker, der gør det for et relativt lille beløb.
+Endelig har jeg igen med stor succes købt nogle tjenester på [Fiverr](/go/fiverr/){: rel='sponsored nofollow noopener' }. Jeg fik både tegnet noget til [www.motionsplan.dk](http://www.motionsplan.dk/), lavet søgeordsanalyser til [www.cykel-ruter.dk](http://www.cykel-ruter.dk), tegnet skraldespandsmærkater til min arbejdsplads og fået tjekket om koblingen mellem Google Analytics og Google Search Console er rigtig. Noget jeg selv ville skulle bruge ret lang tid på at lave, men har fundet nogle dygtige mennesker, der gør det for et relativt lille beløb.
 
-[Opret dig på Fiverr\*](/go/fiverr/){: .btn .btn--large .btn--success }
+[Opret dig på Fiverr](/go/fiverr/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Investeringer
 
@@ -53,7 +53,7 @@ Jeg kæmper lige med at få Performance Portfolio til at udregne XIRR for invest
 
 Jeg har ellers mest ladet papirerne passe sig selv og kun suppleret op med månedsopsparingen. Til gengæld har jeg brugt det meste af en weekend på at få sat mig ind i Portfolio Performance. Forhåbentlig bliver det lettere at få et hurtigt overblik næste måned, når jeg har fundet ud af detaljerne.
 
-[Få en gratis investeringsplan fra Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info } [Copytrading og kurtagefri handel på E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
+[Få en gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Copytrading og kurtagefri handel på E-Toro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Crowdlending
 
@@ -71,15 +71,15 @@ Når man kigger på, hvilke platforme der klarer sig godt, så
 
 Samlet set har jeg en vægtet intern rente på 3,47% på crowdlending, som stadig har det lidt vanskeligt ved tabene på Envestio og Agrikaab. Jeg har endnu ikke afskrevet Grupeer, men så kan tallet få endnu et dyk nedad.
 
-Mange har været bekymrede omkring [FastInvest\*](/go/fastinvest/), men alle udbetalinger kommer planmæssigt. Jeg forventer dog fortsat at reducere eksponeringen endnu mere.
+Mange har været bekymrede omkring [FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' }, men alle udbetalinger kommer planmæssigt. Jeg forventer dog fortsat at reducere eksponeringen endnu mere.
 
-Mit eksperiment med at trække alle penge ud af [RoboCash\*](/go/robocash/) er i øvrigt endt bedre end frygtet. Som du kan se i oversigten, så er jeg endt med en intern rente på 8,83%. De har lige lovet højere renter, men der er jo stadig et lille stykke op til de 12-14% platformen reklamerer med. Det er dog formentligt det samme for alle platformene, da man først kan se den reelle interne rente, når man realiserer renteindtægterne.
+Mit eksperiment med at trække alle penge ud af [RoboCash](/go/robocash/){: rel='sponsored nofollow noopener' } er i øvrigt endt bedre end frygtet. Som du kan se i oversigten, så er jeg endt med en intern rente på 8,83%. De har lige lovet højere renter, men der er jo stadig et lille stykke op til de 12-14% platformen reklamerer med. Det er dog formentligt det samme for alle platformene, da man først kan se den reelle interne rente, når man realiserer renteindtægterne.
 
-[Kuflink\*](/go/kuflink/) er ejendomsinvestering i britiske pund, og de giver en ret generøs bonus, hvis man investerer i mere end et år, så den interne rente ligger meget højt lige nu, men den kommer til at dale til de omkring 7% platformen forventer at kunne levere.
+[Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' } er ejendomsinvestering i britiske pund, og de giver en ret generøs bonus, hvis man investerer i mere end et år, så den interne rente ligger meget højt lige nu, men den kommer til at dale til de omkring 7% platformen forventer at kunne levere.
 
 Ellers er øvelsen fortsat at sænke eksponeringen mod crowdlending og reducere antallet af platforme stille og roligt som lånene løber ud.
 
-[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--danger }
+[Få 10EUR hos Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Få 25EUR hos Lendahand](/go/lendahand/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 Jeg opdaterer senere med resten af min månedsoversigt, så kig tilbage om nogle dage, hvor jeg forhåbentlig har fået alle oplysningerne ind i Portfolio Performance-programmet.
 
@@ -101,21 +101,21 @@ Det betyder imidlertid også, at jeg formentlig skal til at retænke graferne p�
 
 ### Kontant
 
-Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), hvor jeg bl.a. har lavet et _Goal_ til min _nødopsparing_. Pengene er imidlertid lidt for tilgængelige kan jeg mærke, for de brænder hele tiden efter at ville investeres i aktier. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
+Min kontante opsparing står stadig hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg bl.a. har lavet et _Goal_ til min _nødopsparing_. Pengene er imidlertid lidt for tilgængelige kan jeg mærke, for de brænder hele tiden efter at ville investeres i aktier. Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } i forskellige valutaer.
 
-[Opret Lunar og få 50DKK gratis\*](/go/lunar/){: .btn .btn--large .btn--success }
+[Opret Lunar og få 50DKK gratis](/go/lunar/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
-[Curve\*](/go/curve/) er stadig mit primære betalingskort. I praksis er det en overbygning på alle dine andre kort, så du i den medhørende app selv kan bestemme, hvilket kort og konti pengene reelt trækkes på. Det er en form for Mobile Pay i form af et betalingskort. Og så kan man relativt let _go back in time_, hvis man får lavet købet på det forkerte kort.
+[Curve](/go/curve/){: rel='sponsored nofollow noopener' } er stadig mit primære betalingskort. I praksis er det en overbygning på alle dine andre kort, så du i den medhørende app selv kan bestemme, hvilket kort og konti pengene reelt trækkes på. Det er en form for Mobile Pay i form af et betalingskort. Og så kan man relativt let _go back in time_, hvis man får lavet købet på det forkerte kort.
 
-[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Smart Bank app med Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
+[Gratis valutaveksling med Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Smart Bank app med Curve](/go/curve/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ### Kryptovaluta
 
-Jeg handler fortsat gennem [Kraken\*](/go/kraken/), hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase\*](/go/coinbase/), hvor jeg kigger efter deres _Earn_-programmer.
+Jeg handler fortsat gennem [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' }, hvor jeg kunne finde de billigste købsbegyrer. Jeg følger også med via [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' }, hvor jeg kigger efter deres _Earn_-programmer.
 
 Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 EUR**.
 
-[Få 10EUR til Bitcoins på Coinbase\*](/go/coinbase){: .btn .btn--large .btn--info }
+[Få 10EUR til Bitcoins på Coinbase](/go/coinbase){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Passiv indtægt
 

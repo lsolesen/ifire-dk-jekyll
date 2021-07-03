@@ -18,17 +18,17 @@ Jeg køber ikke længere guld hos BullionVault, da det ikke kan betale sig med d
 
 Jeg havde egentlig ikke forventet, at jeg skulle have guld i min portefølje. Jeg kan ikke overskue konsekvenserne af at købe rigtig guld for selv at skulle opbevare det, lave sikkerhedsforanstaltninger og tegne forsikringer. Og jeg stoler ikke helt på _futures_, hvor der reelt ikke er dækning for alle papirerne.
 
-Men så faldt jeg over [BullionVault\*](/go/bullionvault/){: rel='sponsored nofollow noopener' }, hvor man kan købe ædelmetaller på det professionelle marked, men ikke behøver at købe en hel guldbarre ad gangen. Du kan købe helt ned til et gram guld, som BullionVault opbevarer sikkert - og de sørger for forsikringer af dit guld. Du handler til meget konkurrencedygtige priser, og du kan handle i USD, EUR, GBP og YEN. Du kan køb guld, sølv og platin. 
+Men så faldt jeg over [BullionVault](/go/bullionvault/){: rel='sponsored nofollow noopener' }, hvor man kan købe ædelmetaller på det professionelle marked, men ikke behøver at købe en hel guldbarre ad gangen. Du kan købe helt ned til et gram guld, som BullionVault opbevarer sikkert - og de sørger for forsikringer af dit guld. Du handler til meget konkurrencedygtige priser, og du kan handle i USD, EUR, GBP og YEN. Du kan køb guld, sølv og platin. 
 
 Du kan både handle for at beholde (som jeg har tænkt mig, da guldet vil indgå i min opsparing), eller du kan handle for at _trade_ og tjene eller tabe penge på prisændringer på guldet.
 
 ## Kom hurtigt i gang med at købe guld og sølv
 
-Hvis [du opretter dig med mit referral-link*](/go/bullionvault/){: rel='sponsored nofollow noopener' } får du 4 gram sølv og 1 EUR, 1 USD og 1 GBP, så du med det samme kan øve dig på platformen. De små kontantbeløb dækker gebyret på din første handel, som mindst skal være 100 US$.
+Hvis [du opretter dig med mit referral-link](/go/bullionvault/){: rel='sponsored nofollow noopener' } får du 4 gram sølv og 1 EUR, 1 USD og 1 GBP, så du med det samme kan øve dig på platformen. De små kontantbeløb dækker gebyret på din første handel, som mindst skal være 100 US$.
 
 Det er let at registrere sig og komme i gang på platformen, og allerede ved oprettelsen kan du altså kigge på en positiv balance både i sølv og i _cash_.
 
-[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Få 4 gram sølv på BullionVault](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Lidt om BullionVault
 
@@ -59,9 +59,9 @@ Så den store fordel ved at have en opsparing i guld er altså, at det holder pr
 
 ## Hvilken valuta skal jeg købe guldet i?
 
-På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? Det betyder i realiteten ikke så meget, da det varierer med få procent mellem de enkelte valutaer. I virkeligheden betyder det nok mest, hvornår du veksler over i den valuta, du er interesseret i at købe guld i. Jeg bruger selv [Revolut*](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor du kan veksle gratis.
+På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? Det betyder i realiteten ikke så meget, da det varierer med få procent mellem de enkelte valutaer. I virkeligheden betyder det nok mest, hvornår du veksler over i den valuta, du er interesseret i at købe guld i. Jeg bruger selv [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor du kan veksle gratis.
 
-[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Få 4 gram sølv på BullionVault](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hvad er min plan i fremtiden?
 
@@ -71,6 +71,6 @@ Foreløbigt vil jeg ikke sætte mine penge i BullionVault, da man efter min meni
 
 Hvad er din strategi for guld? Og hvorfor har du det i din portefølje - eller hvorfor har du fravalgt det?
 
-[Få 4 gram sølv på BullionVault\*](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Få 4 gram sølv på BullionVault](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

@@ -54,7 +54,7 @@ Jeg synes dog, at termostaterne har forbedret den samlede varmesituation i huset
 
 ## Er termostaterne pengene værd?
 
-Jeg købte en [Netatmo WiFi Radiator Termostat (Startpakke)\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: rel="sponsored nofollow noopener" } og nogle enkelte [](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat-enkel/){: rel="sponsored nofollow noopener" } hos [Wifibutikken\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788){: rel="sponsored nofollow noopener" } til 5.582 kroner. Det var før jeg for alvor gik op i at blive finansielt uafhængig, men var mere optaget af, at huset skulle være _smart_ :)
+Jeg købte en [Netatmo WiFi Radiator Termostat (Startpakke)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: rel="sponsored nofollow noopener" } og nogle enkelte [](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat-enkel/){: rel="sponsored nofollow noopener" } hos [Wifibutikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788){: rel="sponsored nofollow noopener" } til 5.582 kroner. Det var før jeg for alvor gik op i at blive finansielt uafhængig, men var mere optaget af, at huset skulle være _smart_ :)
 
 Jeg synes, at termostaterne virker bedre end de gamle termostater - og jeg tror, at vi generelt har det varmere i huset, end vi havde før.
 
@@ -62,6 +62,6 @@ Jeg nyder, at jeg fra appen kan skrue op og ned for termostaterne i hele huset, 
 
 Tilbagebetalingstiden for termostaterne er dog nogen flere år, end jeg oprindeligt havde forestillet mig i form af sparet varme.
 
-[Køb Netatmo Radiator Termostater hos Wifi-butikken\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
+[Køb Netatmo Radiator Termostater hos Wifi-butikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 {% include disclaimer.md %}

@@ -14,7 +14,7 @@ feature_row:
     title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
     url: "https://amzn.to/31riw8s"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -48,9 +48,9 @@ De har hver deres konto i banken, hvor alle pengene kommer ind. Jeg har også et
 
 ### Udlejning af huset
 
-Vi **lejede vores hus ud på [AirBnb\*](/go/airbnb/)**, og **børnene fik leje for deres eget værelse**. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med.
+Vi **lejede vores hus ud på [AirBnb](/go/airbnb/){: rel='sponsored nofollow noopener' }**, og **børnene fik leje for deres eget værelse**. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med.
 
-Vi aftalte at bruge indtægten fra AirBnb på at **investere dem i et fælles projekt**. Vi valgte at investere i en kamel gennem [Agrikaab\*](/go/agrikaab/). Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna. **Agrikaab lukkede ned marts 2020. Så det var dyre lærepenge sammen med børnene. Så kan vi lære lidt om risiko og reward. Heldigvis har investeringen haft et impact i lokalmiljøet indtil projektet lukkede ned.**
+Vi aftalte at bruge indtægten fra AirBnb på at **investere dem i et fælles projekt**. Vi valgte at investere i en kamel gennem [Agrikaab](/platform/agrikaab/). Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna. **Agrikaab lukkede ned marts 2020. Så det var dyre lærepenge sammen med børnene. Så kan vi lære lidt om risiko og reward. Heldigvis har investeringen haft et impact i lokalmiljøet indtil projektet lukkede ned.**
 
 At investere i en kamel er meget håndgribeligt. Vi har sammen købt et aktiv. Vi forventer, at aktivet vil give et afkast over tid både gennem mælk og på et tidspunkt bliver den også slagtet. Vi har samtidig opmærksomhed på en verdensdel, hvor livet ikke altid er lige let for befolkningen. Det giver os til gengæld et lille afkast, som vi kan følge, og som kan give os fornemmelsen af, hvad det vil sige at få pengene til at arbejde for sig. (Vi venter lidt med sammenhængen mellem afkast og risiko, som formentlig i et afrikansk investeringseventyr ikke hænger helt sammen.)
 
@@ -66,7 +66,7 @@ Vi har eksperimenteret lidt med andre aktiviteter, som forhåbentlig kan være m
 
 De seneste dage har jeg ledt efter mere inspiration til, hvordan jeg kan lære pigerne om penge.
 
-Jeg stødte på Ron Liebers overvejelser fra hans bog [Opposite of Spoiled\*](https://amzn.to/31riw8s), og jeg nød at se hans oplæg, som du også kan se her.
+Jeg stødte på Ron Liebers overvejelser fra hans bog [Opposite of Spoiled](https://amzn.to/31riw8s), og jeg nød at se hans oplæg, som du også kan se her.
 
 {% include video provider="youtube" id="p9npcWXf4GM" %}
 

@@ -34,7 +34,7 @@ Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
 
 - **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på.
 
-Jeg fik tilbud på min bilforsikring fra [Samlino\*](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507){: rel='sponsored nofollow noopener' } og [Findforsikring.dk](/go/pa/findforsikring/){: rel='sponsored nofollow noopener' }, men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
+Jeg fik tilbud på min bilforsikring fra [Samlino](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507){: rel='sponsored nofollow noopener' } og [Findforsikring.dk](/go/pa/findforsikring/){: rel='sponsored nofollow noopener' }, men kunne desværre ikke finde et billigere tilbud lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
 
 Det tog 15 minutter - men det var også en pæn besparelse på 2.900 kroner om året på forsikringer.
 

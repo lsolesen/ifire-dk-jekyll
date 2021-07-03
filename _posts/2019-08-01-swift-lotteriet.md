@@ -10,7 +10,7 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg er virkelig godt tilfreds med [Revolut\*](/go/revolut/), hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab\*](/go/agrikaab/) er en spændende [crowdlending platform](/platform/agrikaab/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet. <ins>Agrikaab er lukket ned marts 2020, og jeg har sandsynligvis tabt alle mine penge på platformen.</ins>.
+Jeg er virkelig godt tilfreds med [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab](/platform/agrikaab/) er en spændende [crowdlending platform](/crowdlending/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet. <ins>Agrikaab er lukket ned marts 2020, og jeg har sandsynligvis tabt alle mine penge på platformen.</ins>.
 
 - Første gang jeg overførte med bankoverførsel til _app balance_ på Agrikaab var overførslen gratis.
 - Anden gang jeg brugte bankoverførsel for at betale for en investering kom der 36 USD på i gebyr.
@@ -25,7 +25,7 @@ Agrikaab er lukket ned marts 2020, så der er naturligvis ikke flere investering
 
 Så jeg skriver i stedet til kundeservicen hos Revolut. (Jeg har kun gode erfaringer med deres kundeservice, og det har jeg stadigvæk.)
 
-[Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
+[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Bankoverførslen var SWIFT
 
@@ -96,6 +96,6 @@ Efterfølgende har jeg lavet endnu en overførsel for at tjekke om nogle af peng
 
 Gad vide hvorfor nogen arbejder for, at indarbejde en gennemskuelig block chain i bankverden?
 
-[Få gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
+[Få gratis valutaveksling med Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

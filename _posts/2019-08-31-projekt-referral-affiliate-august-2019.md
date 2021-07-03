@@ -19,7 +19,7 @@ Projektet var delt i to.
 
 ## Projekt 1: Skab passiv indkomst fra eksisterende materiale
 
-Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://www.teambuilder.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads\*](/go/partnerads/) på de forskellige sites.
+Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://www.teambuilder.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads](/go/partnerads/){: rel='sponsored nofollow noopener' } på de forskellige sites.
 
 Jeg har brugt omkring en uge på fuld tid med at få flyttet de tre sidstnævnte væk fra en PHP-server og Drupal og hen til en Jekyll-blog, der hostes gratis på Github Pages. Udgifterne er således kun prisen for domænerne. Samtidig har jeg fået ryddet op på de forskellige sites.
 
@@ -27,7 +27,7 @@ Desuden har jeg startet et nyt site med [Cykelruter](http://www.cykel-ruter.dk),
 
 ## Projekt 2: Skab passiv indkomst på baggrund af affiliate og referral
 
-Dette site (www.ifire.dk) har også reklamer fra Google Adsense og [Partner-Ads\*](/go/partnerads/) - og mange af de forskellige investeringsmuligheder, der behandles her på sitet har enten affiliate eller referral-tilbud. Jeg har siden februar skrevet mere end 40 indlæg her på bloggen og brugt en del tid på at følge op på mine investeringer - og skrive månedlige opdateringer.
+Dette site (www.ifire.dk) har også reklamer fra Google Adsense og [Partner-Ads](/go/partnerads/){: rel='sponsored nofollow noopener' } - og mange af de forskellige investeringsmuligheder, der behandles her på sitet har enten affiliate eller referral-tilbud. Jeg har siden februar skrevet mere end 40 indlæg her på bloggen og brugt en del tid på at følge op på mine investeringer - og skrive månedlige opdateringer.
 
 ## Hvad har indtægterne så samlet været?
 

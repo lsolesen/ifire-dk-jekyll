@@ -113,7 +113,7 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 
 {% include figure image_path="/assets/images/logo/themany.jpg" caption="Hos The Many laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene." %}
 
-[The Many\*](/go/themany/) er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
+[The Many](/go/themany/){: rel='sponsored nofollow noopener' } er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
 
 {% include video provider="youtube" id="8W3zK4JoV4A" %}
 
@@ -123,7 +123,7 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
 - Det er let at indløse sine andele direkte fra dashboardet.
-- Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
+- Hvis du bruger [mit link får du 250 kroner at starte for](/go/themany/){: rel='sponsored nofollow noopener' }.
 
 ### Ulemper ved The Many
 
@@ -145,11 +145,11 @@ Derfor er det også en stor forbedring, at man nu kan reservere andele i projekt
 
 Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/themany/).
 
-[Start på The Many](/go/themany/){: .btn .btn--large .btn--success }
+[Start på The Many](/go/themany/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Lendino - dansk crowdlending
 
-Jeg har også investeret i [Lendino\*](/go/lendino/). Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
+Jeg har også investeret i [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }. Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
 
 {% include video provider="youtube" id="vbA5pW1zTrc" %}
 
@@ -157,7 +157,7 @@ En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindst
 
 Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivelse](/platform/lendino/).
 
-[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success }
+[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Fordele ved Lendino
 
@@ -178,7 +178,7 @@ Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivels
 
 Der er altså flere muligheder for at investere i dansk crowdlending.
 
-Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/brickshare/), hvor man bliver medejer af projeket.
+Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/themany/), hvor man bliver medejer af projeket.
 
 Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
 
@@ -186,9 +186,9 @@ Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så vill
 
 Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
 
-Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
+Jeg synes Flexfunding og [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' } ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
-[Opret dig på Kameo](/platform/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[Opret dig på Kameo](/platform/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many](/go/themany/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 

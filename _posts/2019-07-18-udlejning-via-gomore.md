@@ -12,9 +12,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Vi bruger ikke vores bil så ofte længere, men vi har stadig brug for den. Når den står stille, så øjner jeg en lille mulighed for at [udleje den gennem GoMore\*](/go/gomore/). Jeg arbejder 100 meter fra, hvor den holder til daglig, så det vil være ret enkelt.
+Vi bruger ikke vores bil så ofte længere, men vi har stadig brug for den. Når den står stille, så øjner jeg en lille mulighed for at [udleje den gennem GoMore](/go/gomore/){: rel='sponsored nofollow noopener' }. Jeg arbejder 100 meter fra, hvor den holder til daglig, så det vil være ret enkelt.
 
-Tidligere kunne det [måske ikke betale sig](https://fdm.dk/node/8888), men nu er der kommet et bundfradrag ligesom der er ved fx udlejning af bolig gennem [AirBnb\*](/go/airbnb/). Der nye bundfradrag for ulejning af bil gør, at det kan [betale sig at udleje bilen i op til 40 dage om året](https://jyllands-posten.dk/livsstil/biler/ECE11239142/lej-bilen-ud-skattefrit-40-dage-om-aaret/).
+Tidligere kunne det [måske ikke betale sig](https://fdm.dk/node/8888), men nu er der kommet et bundfradrag ligesom der er ved fx udlejning af bolig gennem [AirBnb](/go/airbnb/){: rel='sponsored nofollow noopener' }. Der nye bundfradrag for ulejning af bil gør, at det kan [betale sig at udleje bilen i op til 40 dage om året](https://jyllands-posten.dk/livsstil/biler/ECE11239142/lej-bilen-ud-skattefrit-40-dage-om-aaret/).
 
 Den anden dag regnede jeg lidt på [min biløkonomi](/bilokonomi/) på min gamle Berlingo. Det er jo nødvendigt at kende sine egne udgifter, for at udregne den nødvendige udlejningspris. Jeg regnede fx ud, at jeg har haft en **udgift til vedligehold på 0,59 kr / km**. FDM anslår, at der er et **dækslid på 0,17 kr / km** og et **værditab på 0,44 kr / km**.
 
@@ -22,7 +22,7 @@ Jeg har ikke regnet forsikringer og ejerafgift med i følgende udregning. Hvis d
 
 Det giver følgende regnskab, hvor jeg går ud fra en udlejningspris på 325 kroner (udregninger baseret på [artikel fra FDM](https://fdm.dk/node/8888)).
 
-_(Læg mærke til at dine forudsætninger kan være anderledes, hvis du vil [udleje din bil via GoMore\*](/go/gomore/))_
+_(Læg mærke til at dine forudsætninger kan være anderledes, hvis du vil [udleje din bil via GoMore](/go/gomore/){: rel='sponsored nofollow noopener' })_
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcPiPHuya32XoyHcIXTxbiR_GpnSCwpHAl14gXreS31Zf5IBCxRhhirijORT9RvZRymniTJDJdG8Fo/pubhtml?gid=1711999018&amp;single=true&amp;widget=true&amp;headers=false" style="width:75%; height: 550px;"></iframe>
 
@@ -38,6 +38,6 @@ På GoMore kan man i praksis tjene lidt ekstra indkomst på enten at oprette et 
 
 Foreløbig har jeg sat min bil til udlejning på de datoer, hvor jeg ikke selv skal bruge min bil - og jeg glæder mig til at se, hvor let det er at udleje bilen.
 
-[Opret dig på GoMore\*](/go/gomore/){: .btn .btn--large .btn--info}
+[Opret dig på GoMore](/go/gomore/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

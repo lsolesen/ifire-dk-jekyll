@@ -14,23 +14,23 @@ feature_row_solutions:
   - image_path: /assets/images/logo/nord.png
     alt: "Nord.Investments"
     title: "Nord.Investments"
-    excerpt: "[Nord.Investments*](/go/nord/){: rel='sponsored nofollow noopener' } er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
+    excerpt: "[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
     url: /go/nord/
-    btn_label: "Få gratis investeringsprofil*"
+    btn_label: "Få gratis investeringsprofil"
     btn_class: "btn--info"
   - image_path: /assets/images/logo/themany.jpg
     alt: "The Many"
     title: "The Many"
-    excerpt: "[The Many*](/go/themany/){: rel='sponsored nofollow noopener' } gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
+    excerpt: "[The Many](/go/themany/){: rel='sponsored nofollow noopener' } gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
     url: /go/themany/
-    btn_label: "Få 250 DKK på The Many*"
+    btn_label: "Få 250 DKK på The Many"
     btn_class: "btn--info"
   - image_path: /assets/images/logo/mintos.png
     alt: "Mintos"
     title: "Mintos"
-    excerpt: "[Mintos*](/go/mintos/){: rel='sponsored nofollow noopener' } er den største europæiske crowdlending-platform, hvor du får adgang til et meget diversificeret lånemarked og tjen mere end 9%+"
+    excerpt: "[Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } er den største europæiske crowdlending-platform, hvor du får adgang til et meget diversificeret lånemarked og tjen mere end 9%+"
     url: /go/mintos/
-    btn_label: "Få Mintos*"
+    btn_label: "Få Mintos"
     btn_class: "btn--info"
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png

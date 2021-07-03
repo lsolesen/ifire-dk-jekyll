@@ -24,7 +24,7 @@ Tak fordi du kigger forbi på vej ind i julemåneden.
 
 Investeringerne i både crowdlending og almindelige værdipapirer er gået som planlagt i denne måned.
 
-Jeg har arbejdet rigtig meget på [motionsplan.dk](http://www.motionsplan.dk/), hvor der er kommet mange nye artikler. Jeg har også brugt [Fiverr](/go/fiverr) til at spare lidt tid på at lave et anatomi-modul til siden, hvor man kan blive klogere på musklerne. Fiverr er ret genialt i forhold til at bestille småopgaver. Jeg fik lynhurtigt en masse tilbud på min opgave. Jeg kunne imidlertid lynhurtigt sortere mere end halvdelen fra, fordi de vist ikke havde forstået opgaven helt. Det eneste lidt ærgerlige er, at folk ikke i første omgang sætter prisen til deres reelle forslag, så man skal i gang med en forhandling med hver eneste. Jeg fandt en som løste min opgave tilfredsstillende, så jeg relativt let kunne lave de sidste rettelser.
+Jeg har arbejdet rigtig meget på [motionsplan.dk](http://www.motionsplan.dk/), hvor der er kommet mange nye artikler. Jeg har også brugt [Fiverr](/go/fiverr){: rel='sponsored nofollow noopener' } til at spare lidt tid på at lave et anatomi-modul til siden, hvor man kan blive klogere på musklerne. Fiverr er ret genialt i forhold til at bestille småopgaver. Jeg fik lynhurtigt en masse tilbud på min opgave. Jeg kunne imidlertid lynhurtigt sortere mere end halvdelen fra, fordi de vist ikke havde forstået opgaven helt. Det eneste lidt ærgerlige er, at folk ikke i første omgang sætter prisen til deres reelle forslag, så man skal i gang med en forhandling med hver eneste. Jeg fandt en som løste min opgave tilfredsstillende, så jeg relativt let kunne lave de sidste rettelser.
 
 Desuden har jeg oprettet en profil på [Keybase](http://www.keybase.io), som er et site hvor du kan bevise din identitet. Jeg har ikke haft så meget at bruge det til endnu, men endte med en Airdrop på 688 Stellar Lumens (XLM), hvilket jo er meget godt for kryptoporteføljen.
 
@@ -50,54 +50,54 @@ Min samlede _net worth_ er stigende, hvilket er ret motiverende.
 
 Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har der været et lille fald på en **_urealiserede værditab_ i november på -4.075 DKK**. Det giver stadig en vægtet gennemsnitlig intern rente på 4,74% på mine værdipapirer.
 
-[Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få en gratis investeringsplan fra Nord.investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 Min **copytrading på Etoro** har stabiliseret sig efter de forrige måneders højrisiko-traderes tab. Men det går ikke så godt som de passive investeringsforeninger.
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
-[Copytrading og kurtagefri handel på E-Toro \*](/go/etoro/){: .btn .btn--large .btn--success }
+[Copytrading og kurtagefri handel på E-Toro ](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Crowdlending
 
 {% include crowdlending-warning.html %}
 
-Jeg har haft _cash drag_ på [PeerBerry\*](/go/peerberry/) og [Mintos\*](/go/mintos/), så jeg har ændret på _auto invest_ for at acceptere lidt lavere renter. Platformene kører imidlertid fortsat uden de helt store udfordringer, og jeg er meget tilfredse med dem.
+Jeg har haft _cash drag_ på [PeerBerry](/go/peerberry/){: rel='sponsored nofollow noopener' } og [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, så jeg har ændret på _auto invest_ for at acceptere lidt lavere renter. Platformene kører imidlertid fortsat uden de helt store udfordringer, og jeg er meget tilfredse med dem.
 
-Det står noget stille på [Bit Of Property\*](/go/bitofproperty/). Der er et par projekter, som alligevel ikke er blevet til noget i løbet af november, så her endte jeg også med _cash drag_. Da der ikke er nogle aktive projekter, har jeg trukket en del penge hjem - ud over at have forespurgt på et par enkelte projekter på deres lidt mærkværdige ‘over the counter’-køb fra andre. Den feature er lidt forvirrende, men typisk ender man med hurtigt at få en andel i et tidligere projekt. Det er også noget svært at se nøjagtigt, hvor mange penge man har på platformen totalt, fordi backenden er lidt mangelfuld.
+Det står noget stille på [Bit Of Property](/go/bitofproperty/){: rel='sponsored nofollow noopener' }. Der er et par projekter, som alligevel ikke er blevet til noget i løbet af november, så her endte jeg også med _cash drag_. Da der ikke er nogle aktive projekter, har jeg trukket en del penge hjem - ud over at have forespurgt på et par enkelte projekter på deres lidt mærkværdige ‘over the counter’-køb fra andre. Den feature er lidt forvirrende, men typisk ender man med hurtigt at få en andel i et tidligere projekt. Det er også noget svært at se nøjagtigt, hvor mange penge man har på platformen totalt, fordi backenden er lidt mangelfuld.
 
-På [Trine\*](/go/trine/) har et af solenergifirmaerne lidt udfordringer. Platformen er åben om det, og nu er det spændende om det lykkes for dem at få projektet på gled igen eller hvad der sker. Jeg investerer i Trine, fordi det er bæredygtige projekter i Afrika, så jeg er rigtig godt tilfreds med platformen.
+På [Trine](/go/trine/){: rel='sponsored nofollow noopener' } har et af solenergifirmaerne lidt udfordringer. Platformen er åben om det, og nu er det spændende om det lykkes for dem at få projektet på gled igen eller hvad der sker. Jeg investerer i Trine, fordi det er bæredygtige projekter i Afrika, så jeg er rigtig godt tilfreds med platformen.
 
-Hos [Funderbeam\*](/go/funderbeam/) gik det i sidste måned ret godt, men i denne måned er det gået nedad bakke igen. Primært fordi Lendio-syndikatet er faldet igen. Alt urealiseret indtjening fra sidste måned forsvandt igen.
+Hos [Funderbeam](/platform/funderbeam/) gik det i sidste måned ret godt, men i denne måned er det gået nedad bakke igen. Primært fordi Lendio-syndikatet er faldet igen. Alt urealiseret indtjening fra sidste måned forsvandt igen.
 
-Jeg har mistet tålmodigheden lidt med [ReInvest24\*](/go/reinvest24/), fordi der ikke rigtig kommer nye projekter - og at det tager lang tid at skabe et positivt afkast. Men jeg kan ikke trække penge ud, før jeg har 100 EUR på kontoen, så jeg vil stille og roligt trække pengene ud, når der kommer nogle indtægter på platformen.
+Jeg har mistet tålmodigheden lidt med [ReInvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' }, fordi der ikke rigtig kommer nye projekter - og at det tager lang tid at skabe et positivt afkast. Men jeg kan ikke trække penge ud, før jeg har 100 EUR på kontoen, så jeg vil stille og roligt trække pengene ud, når der kommer nogle indtægter på platformen.
 
-Platformene er begyndt at tænke lidt mere på sikkerhed, så i denne måned har jeg haft mulighed for at slå _two factor authentication_ til på [PeerBerry\*](/go/peerberry/), [EvoEstate\*](/go/evoestate/) og [Crowdestate\*](/go/crowdestate/).
+Platformene er begyndt at tænke lidt mere på sikkerhed, så i denne måned har jeg haft mulighed for at slå _two factor authentication_ til på [PeerBerry](/go/peerberry/){: rel='sponsored nofollow noopener' }, [EvoEstate](/go/evoestate/){: rel='sponsored nofollow noopener' } og [Crowdestate](/go/crowdestate/){: rel='sponsored nofollow noopener'}.
 
-På [BulkEstate\*](/go/bulkestate/) har jeg også fået en stor sum penge tilbage, fordi et af projekterne er færdige. Der er heldigvis auto invest på platformen, så jeg behøver ikke sidde og holde så meget øje med den, men pengene skal nok blive investeret stille og roligt.
+På [BulkEstate](/go/bulkestate/){: rel='sponsored nofollow noopener' } har jeg også fået en stor sum penge tilbage, fordi et af projekterne er færdige. Der er heldigvis auto invest på platformen, så jeg behøver ikke sidde og holde så meget øje med den, men pengene skal nok blive investeret stille og roligt.
 
-[Få 12%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
+[Få 12%+ på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
-Platformene med de bedste afkast alle med en  intern rente over 11% er i denne rækkefølge [Grupeer\*](/go/grupeer/), [Fastinvest\*](/go/fastinvest/), [Mintos\*](/go/mintos/), [Envestio\*](/platform/envestio/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy) og [Crowdestor\*](/go/crowdestor/). Ud over Envestio og Crowdestor er alle helt automatiske og stort set uden vedligeholdelse.
+Platformene med de bedste afkast alle med en  intern rente over 11% er i denne rækkefølge [Grupeer](/go/grupeer/){: rel='sponsored nofollow noopener' }, [Fastinvest](/go/fastinvest/){: rel='sponsored nofollow noopener' }, [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, [Envestio](/platform/envestio/), [RoboCash](/go/robocash/){: rel='sponsored nofollow noopener' }, [Lenndy](/go/lenndy){: rel='sponsored nofollow noopener' } og [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' }. Ud over Envestio og Crowdestor er alle helt automatiske og stort set uden vedligeholdelse.
 
 I alt har jeg tjent **4.665 DKK** på crowdlending i løbet af november måned. Det giver en vægtet intern rente på 9,16% på den almindelige crowdlending og 2,16% på den ejendomsbaserede crowdlending. Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
-[Få 5 EUR hos Bondora\*](/go/bondora/){: .btn .btn--large .btn--success}
+[Få 5 EUR hos Bondora](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Nu varer det ikke længe til de første afkast fra Lendahand. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab](/platform/agrikaab/), [Trine](/go/trine/){: rel='sponsored nofollow noopener' } og [Lendahand](/go/lendahand/){: rel='sponsored nofollow noopener' }. Nu varer det ikke længe til de første afkast fra Lendahand. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-Invester hos [Trine\*](/go/trine/){: .btn .btn--large .btn--warning }
+Invester hos [Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Opsparing
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
+Min kontante opsparing står hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, som giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
-[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }
+[Gratis valutaveksling med Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ### Guld og sølv
 
@@ -107,9 +107,9 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 Samlet er mine investeringer i kryptovaluta gået lidt frem igen, men der er stadig urealiserede tab på Cred (LBA), Stellar Lumens (XLM), Ripple (XRP) og Tezos (XTZ). Porteføljen får lov til at stå og passe sig selv.
 
-Jeg har stadig en _vault_ hos [Revolut\*](/go/revolut/), hvor jeg sparer lidt Bitcoins op hver gang, jeg bruger mit Revolut-kort. Jeg overvejer at lave _opsparings-vaulten_ om til penge i stedet, så jeg i stedet kunne investere pengene i udbytteaktier via Revolut Trading.
+Jeg har stadig en _vault_ hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg sparer lidt Bitcoins op hver gang, jeg bruger mit Revolut-kort. Jeg overvejer at lave _opsparings-vaulten_ om til penge i stedet, så jeg i stedet kunne investere pengene i udbytteaktier via Revolut Trading.
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Passiv indtægt
 

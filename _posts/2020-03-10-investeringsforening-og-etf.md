@@ -117,7 +117,7 @@ Der findes en lang række forskellige ETF’er, der dækker større eller mindre
 
 Som _passiv investor_ med interesse i at følge verdensindekset ville jeg ikke opprioritere enkelte sektorer med mindre, man mener at de er underprioriteret i den valgte ETF.
 
-[Få et gratis investeringforslag fra Nord\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få et gratis investeringforslag fra Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Opsamling
 

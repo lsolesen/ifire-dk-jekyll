@@ -34,7 +34,7 @@ Det har økonomisk set ikke sket så meget i denne måned. Dog har jeg lige lave
 
 Ellers venter jeg på at kunne få lov til at overføre flere penge til min aktiesparekonto, så pengene kan komme ind og hygge sig i nogle passive investeringsforeninger.
 
-**The Many (tidl. Brickshare)** åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many\*](/go/themany/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>, så kan du bruge mit [link\*](/platform/themany/) og så får vi begge 250 DKK at investere for.
+**The Many (tidl. Brickshare)** åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many](/go/themany/){: rel='sponsored nofollow noopener' }, hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins>, så kan du bruge mit [link](/go/themany/){: rel='sponsored nofollow noopener' } og så får vi begge 250 DKK at investere for.
 
 ## Bankskifte
 
@@ -76,7 +76,7 @@ Lige nu afspejler mine investeringer ikke, hvad jeg allerhelst vil gøre med inv
 
 Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, så kan du se den i min [oversigt over alle mine egne investeringer](/investeringer/). Her kan du også se, hvilke værktøjer jeg bruger.
 
-[Gratis investeringsplan fra Nord\*](/go/nord/){: .btn .btn--large .btn--info } [Kurtagefri E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
+[Gratis investeringsplan fra Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Kurtagefri E-Toro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Crowdlending
 
@@ -94,39 +94,39 @@ I løbet af maj har jeg **et tab på 1.126 DKK på crowdlending**. Husk at rente
 
 Heldigvis er jeg samlet stadig i plus.
 
-Jeg har været relativt imponeret af [Trine\*](/go/trine/), hvor jeg stadig har over 7% i intern rente, og selvom de specialiserer sig i bæredygtige projekter i Afrika, så ser det foreløbig ud til at være nogenlunde godt styr på virksomhederne, der lånes penge ud til. De er også gode til at informere om evt. udfordringer, og hvordan de håndterer dem.
+Jeg har været relativt imponeret af [Trine](/go/trine/){: rel='sponsored nofollow noopener' }, hvor jeg stadig har over 7% i intern rente, og selvom de specialiserer sig i bæredygtige projekter i Afrika, så ser det foreløbig ud til at være nogenlunde godt styr på virksomhederne, der lånes penge ud til. De er også gode til at informere om evt. udfordringer, og hvordan de håndterer dem.
 
-Hvis du bruger mit [mit link til Trine\*](/go/trine/), så får vi begge 10 EUR at investere for.
+Hvis du bruger mit [mit link til Trine](/go/trine/){: rel='sponsored nofollow noopener' }, så får vi begge 10 EUR at investere for.
 
-<del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins> er dansk crowdfunding af ejendomme, hvor man ender med at få andelsbeviser i ejendommene og modtager løbende udbytter fra huslejer. Jeg er investeret i tre ejendomme, men ville egentlig gerne investere i flere, så har skrevet mig på venteliste på resten. Der har jeg stået i mere end et halvt år nu, og der har stadig ikke åbnet sig nogen muligheder.
+<del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins> er dansk crowdfunding af ejendomme, hvor man ender med at få andelsbeviser i ejendommene og modtager løbende udbytter fra huslejer. Jeg er investeret i tre ejendomme, men ville egentlig gerne investere i flere, så har skrevet mig på venteliste på resten. Der har jeg stået i mere end et halvt år nu, og der har stadig ikke åbnet sig nogen muligheder.
 
-Det er fedt at jeg er begyndt at få udbytter fra min <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>-investeringer, og når jeg samtidig tracker ejendomsværdien, så er min interne rente lige nu sneget sig op på 0,21%. Det er ikke så meget, men investeringerne er langsigtede og ejendomspriserne vil forhåbentlig over tid gå opad.
+Det er fedt at jeg er begyndt at få udbytter fra min <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins>-investeringer, og når jeg samtidig tracker ejendomsværdien, så er min interne rente lige nu sneget sig op på 0,21%. Det er ikke så meget, men investeringerne er langsigtede og ejendomspriserne vil forhåbentlig over tid gå opad.
 
-Heldigvis har de åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many\*](/go/themany/), hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins>, så kan du bruge mit [link\*](/go/themany/) og så får vi begge 250 DKK at investere for.
+Heldigvis har de åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many](/go/themany/){: rel='sponsored nofollow noopener' }, hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/)</ins>, så kan du bruge mit [link](/go/themany/){: rel='sponsored nofollow noopener' } og så får vi begge 250 DKK at investere for.
 
 Jeg har også skrevet et indlæg, hvor jeg [samler op på mine erfaringer gennem tre år med de tre danske crowdlending sites; Kameo, Flexfunding og The Many](/dansk-crowdlending/).
 
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg gruperer dem i privatlån, udviklingsprojekter og ejendomme.
 
-[10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[10 EUR på Trine](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many](/go/themany/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Opsparing
 
 ### Kontant
 
-Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar\*](/go/lunar/). Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med Lunar.Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto\*](/go/lunar/).
+Jeg er lige blevet flyttet over i den nye bankafdeling af [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }. Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med Lunar.Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto](/go/lunar/){: rel='sponsored nofollow noopener' }.
 
 Men jeg skal bruge flere konti, og jeg vil ikke betale for Premium-Lunar. Jeg har derfor valgt at skifte SparNord ud med Coop Bank. Det har jeg skrevet lidt om ovenfor.
 
-Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/).
+Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-Jeg havde i denne måned lidt udfordringer med mit [Curve\*](/go/curve) kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
+Jeg havde i denne måned lidt udfordringer med mit [Curve](/go/curve){: rel='sponsored nofollow noopener' } kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
 
-Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/curve/).
+Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve](/go/curve/){: rel='sponsored nofollow noopener' }.
 
-[Få Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Få Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
+[Få Revolut](/go/revolut/){: .btn .btn--large .btn--info } [Få Curve](/go/curve/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Kryptovaluta
 
@@ -134,9 +134,9 @@ Jet tracker stadig min kryptovaluta i Portfolio Performance, og der er ikke sket
 
 Jeg har en **intern rente samlet på mine investeringer i kryptovaluta på -1,14%**, hvilket skyldes Cred, Ripple og Stellar Lumens meget dårlige interne rente. Hvis jeg udelukkende havde investeret i Bitcoins, så ville det have gået mig noget bedre, da den lige nu har en intern rente på 50%.
 
-Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn\*](/go/coinbase/)-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/coinbase-earn/), hvor du bliver betalt i kryptvaluta.
+Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/coinbase-earn/), hvor du bliver betalt i kryptvaluta.
 
-[Få 10EUR til Bitcoins på Coinbase\*](/go/coinbase/){: .btn .btn--large .btn--info } [Kraken\*](/go/kraken/){: .btn .btn--large .btn--success }
+[Få 10EUR til Bitcoins på Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Kraken](/go/kraken/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Passiv indkomst
 

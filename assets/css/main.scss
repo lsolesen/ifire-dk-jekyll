@@ -7,6 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+[rel~=sponsored]:after {
+    content: "*";
+}
+
 .disclosure, .disclaimer {
     font-size: 13px !important;
     color: #bbb;

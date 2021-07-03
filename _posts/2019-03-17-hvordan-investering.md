@@ -82,7 +82,7 @@ Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalg
 
 Den største udfordring jeg har ift. ETF'erne er i øjeblikket muligheden for at gøre investeringen automatiseret uden at skulle betale for meget i vekselgebyr - eller manuelt sidde og veksle pengene.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Strategi
 
@@ -119,6 +119,6 @@ Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men d
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

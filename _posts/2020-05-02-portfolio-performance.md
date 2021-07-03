@@ -59,7 +59,7 @@ I øverste højre hjørne over `All Securities` kan du klikke på **+**-tegnet. 
 
 ## Investeringer
 
-Jeg har et stykke tid brugt [Atlaz\*](/go/atlaz/) til at få et samlet overblik over alle mine investeringer. Det fungerer virkelig godt med alle de danske investeringer, som den automatisk kan trække ind i systemet. Den gratis service er naturligvis ikke helt gratis, da du betaler med data om dine investeringer, men formålet med Atlaz er at få mange bruger, så de på sigt kan begynde at forhandle med bankerne og børsmæglerne om gebyrerne, fordi de gør det på baggrund af mange mennesker. Desværre kan Atlaz lige nu ikke levere historiske afkast, så man får først et overblik fra den dag, man investerer Atlaz. Atlaz kan imidlertid heller ikke hente data fra de udenlandske børser, fx [Etoro\*](/go/etoro/).
+Jeg har et stykke tid brugt [Atlaz](/go/atlaz/){: rel='sponsored nofollow noopener' } til at få et samlet overblik over alle mine investeringer. Det fungerer virkelig godt med alle de danske investeringer, som den automatisk kan trække ind i systemet. Den gratis service er naturligvis ikke helt gratis, da du betaler med data om dine investeringer, men formålet med Atlaz er at få mange bruger, så de på sigt kan begynde at forhandle med bankerne og børsmæglerne om gebyrerne, fordi de gør det på baggrund af mange mennesker. Desværre kan Atlaz lige nu ikke levere historiske afkast, så man får først et overblik fra den dag, man investerer Atlaz. Atlaz kan imidlertid heller ikke hente data fra de udenlandske børser, fx [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' }.
 
 Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto, men de skilter ikke just med et overblik over renteudgifter, valutaudgifter og kurtage i en let oversigt.
 
@@ -71,12 +71,12 @@ Jeg fulgte denne [tutorial fra indexfundinvestor.eu](http://indexfundinvestor.eu
 
 ### Importere data ind i Portfolio Performance
 
-Det er relativt let at importere data ind i programmet. Fra [Nordnet](/go/nordnet/) kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt.
+Det er relativt let at importere data ind i programmet. Fra [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' } kan du ret enkelt downloade en CSV-fil. Hvis du ikke gider at lave for meget om i filen, så er tricket, når du vælger `Type` under importen, at du laver en mapping til de danske ord. Jeg fandt ikke en god måde at importere valutavekslingerne, så dem har jeg efterfølgende oprettet manuelt.
 
 Jeg kan ikke finde CSV-filer:
 
 - **[SaxoInvestor](/go/saxoinvestor/)**. Jeg kunne ikke finde CSV-filer fra [SaxoInvestor](/go/saxoinvestor/), så det har jeg spurgt supporten om - og lige nu kan man ikke se sine historiske handler.
-- **[Revolut Trading\*](/go/revolut/)**. Jeg har også spurgt supporten om CSV-export fra [Revolut Trading\*](/go/revolut/)
+- **[Revolut Trading](/go/revolut/){: rel='sponsored nofollow noopener' }**. Jeg har også spurgt supporten om CSV-export fra [Revolut Trading](/go/revolut/){: rel='sponsored nofollow noopener' }.
 
 ### Flere valutakonti
 
@@ -96,7 +96,7 @@ Jeg har fået et spørgsmål om, hvordan man fx tilføjer en Danske Banks June f
 
 Hvis du har brug for data længere tilbage end der er på hjemmesiden, så kan man også importere historiske kursdata ved hjælp af en CSV-fil.
 
-### Copytrading på [Etoro\*](/go/etoro/)
+### Copytrading på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' }
 
 Jeg har valgt at oprette den enkelte copytrader som en `Security Account`. Når jeg sætter penge ind har jeg sat den aktuelle kurs til 1 USD, og så køber jeg det antal fiktive shares, som jeg sætter penge ind med.
 
@@ -106,7 +106,7 @@ Når jeg vil opgøre den enkelte copytrader, så dividerer jeg traderens samlede
 
 ### Investment plans = månedsopsparing
 
-Du kan automatisere registreringen af fx [Nordnets\*](/go/nordnet) månedsopsparing fra `Investment Plans`. Du kan vælge at lave den automatiske pengeoverførsel, og du kan vælge én _security_ pr. investeringsplan, du sætter op. Den kender naturligvis ikke den nøjagtige kurs, men den kan du manuelt relativt hurtigt stille efterfølgende.
+Du kan automatisere registreringen af fx [Nordnets](/go/nordnet) månedsopsparing fra `Investment Plans`. Du kan vælge at lave den automatiske pengeoverførsel, og du kan vælge én _security_ pr. investeringsplan, du sætter op. Den kender naturligvis ikke den nøjagtige kurs, men den kan du manuelt relativt hurtigt stille efterfølgende.
 
 ### Det fede dashboard til alm. investeringer
 
@@ -149,7 +149,7 @@ For at tilføje renterne højreklikker du bare på kontoen og vælger `Interest`
 
 Jeg har valgt at tilføje de signup bonuses og premiums fra fx sekundære markeder, jeg har fået, på de enkelte platforme som renter også på nogle af mine platforme.
 
-Jeg har et par platforme, hvor jeg har fået en høj _signup bonus_ (fx [Kuflink\*](/go/kuflink/)). Der har jeg valgt at oprette en `Security`, hvor jeg registrerer bonussen som en `Dividend`. Det er naturligvis lidt et workaround.
+Jeg har et par platforme, hvor jeg har fået en høj _signup bonus_ (fx [Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' }). Der har jeg valgt at oprette en `Security`, hvor jeg registrerer bonussen som en `Dividend`. Det er naturligvis lidt et workaround.
 
 {% include figure image_path="/assets/images/posts/portfolio-performance-crowdlending-bonus.jpg" caption="Hvis du vil tracke signup bonus og premiums, så kan du oprette dem som en `Security`. På en security kan du udbetale `Dividend` til crowdlending-kontoen." %}
 
@@ -193,9 +193,9 @@ Jeg har dummet mig ved at investere i Envestio, som har vist sig at være en _sc
 
 ### Crowdlending baseret på shares eller andele
 
-Jeg investerer i <del>[Brickshare\*](/platform/themany/)</del><ins>[The Many\*](/go/themany/)</ins> og [Funderbeam\*](/go/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
+Jeg investerer i <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins> og [Funderbeam](/platform/funderbeam/), som baserer sig på _shares_ eller andele, som kan stige og falde i pris. Det giver ikke helt mening og opgive dette som renter, så i stedet har jeg lavet en opsætning tilsvarende almindelige investeringer, hvor jeg har en `Deposits account` og en `Security Account`.
 
-For eksempel så har jeg to investeringer i [The Many\*](/go/themany/). Dem har jeg oprettet som en security. Jeg har kaldt dem Brickshare: Projektnavn. Når jeg laver en opdatering, så opdaterer jeg værdien af andelene ved at højreklikke nederst i billedet under fanen `Historical Quotes`. På den måde så får jeg det mest retvisende billede med den interne rente for projekterne.
+For eksempel så har jeg to investeringer i [The Many](/go/themany/){: rel='sponsored nofollow noopener' }. Dem har jeg oprettet som en security. Jeg har kaldt dem Brickshare: Projektnavn. Når jeg laver en opdatering, så opdaterer jeg værdien af andelene ved at højreklikke nederst i billedet under fanen `Historical Quotes`. På den måde så får jeg det mest retvisende billede med den interne rente for projekterne.
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-historical-values.jpg" caption="Opret dine Brickshare projekter og tilføj selv de historiske værdier for andelene" %}
 
@@ -203,7 +203,7 @@ Under min _widget_ på mit dashboard skal jeg huske at vælge `The Many + The Ma
 
 {% include figure image_path="/assets/images/posts/pp-brickshare-widget.jpg" caption="På din Dashboard widget skal du vælge Brickshare + Brickshare for at få den korrekte interne rente." %}
 
-Det samme kunne jeg formentlig gøre med [Kuflink\*](/go/kuflink/) og [PropertyPartner\*](/go/propertypartner/), men her er mine investeringer lidt mindre og for nemheds skyld, bruger jeg bare _rente-metoden_.
+Det samme kunne jeg formentlig gøre med [Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' } og [PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' }, men her er mine investeringer lidt mindre og for nemheds skyld, bruger jeg bare _rente-metoden_.
 
 ### Fine værktøjer til analyse af din crowdlending
 
@@ -221,7 +221,7 @@ Når du har styr på din portefølje i Portfolio Manager, så er der mange fine 
 
 ## Kryptovaluta
 
-Jeg har brugt den gratis version af [cointracking.info\*](/go/cointracking/) til manuelt at holde styr på min kryptovaluta, de forskellige børser og wallets. Det fungerer ret godt, og jeg kan let hver måned aflæse realiserede og urealiserede gevinster og tab og den samlede nuværende værdi af min portefølje.
+Jeg har brugt den gratis version af [cointracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' } til manuelt at holde styr på min kryptovaluta, de forskellige børser og wallets. Det fungerer ret godt, og jeg kan let hver måned aflæse realiserede og urealiserede gevinster og tab og den samlede nuværende værdi af min portefølje.
 
 ### Krypto i Portfolio Performance
 
@@ -255,7 +255,7 @@ Jeg har en _inflation pool_ på mine Stellar Lumens, hvor jeg får renter i XML.
 
 #### Indtægter
 
-Når jeg har indtægter, fx fra [Coinbase\*](/go/coinbase/) Earn, der udbetales i _coins_, lægger jeg dem ind med den aktuelle dagskurs. Denne indtægt har jeg typisk for et arbejde, jeg har udført, og derfor giver det god mening, at jeg har fået en FIAT-løn på dagen, jeg udførte arbejdet. Jeg har således betalt kryptovalutaen med min tid omskrevet til EUR.
+Når jeg har indtægter, fx fra [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } Earn, der udbetales i _coins_, lægger jeg dem ind med den aktuelle dagskurs. Denne indtægt har jeg typisk for et arbejde, jeg har udført, og derfor giver det god mening, at jeg har fået en FIAT-løn på dagen, jeg udførte arbejdet. Jeg har således betalt kryptovalutaen med min tid omskrevet til EUR.
 
 ### Hente historiske priser på kryptovaluta
 
@@ -265,10 +265,10 @@ Når du opretter kryptovalutaen som en `Security`, kan du også hente de histori
 
 Der er lige en lille finurlighed, når du skal skrive `Ticker symbol` på de to tjenester.
 
-- Jeg foretrækker selv [Kraken\*](/go/kraken/) som min egen børs, så jeg startede med at hente priser fra dem. Hos Kraken skal tickeren stå som `XXBTZEUR` (læg også mærke til at de har en anden betegnelse for Bitcoins på Kraken).
+- Jeg foretrækker selv [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } som min egen børs, så jeg startede med at hente priser fra dem. Hos Kraken skal tickeren stå som `XXBTZEUR` (læg også mærke til at de har en anden betegnelse for Bitcoins på Kraken).
 - Kraken havde imidlertid ikke alle priser, så derfor henter jeg også nogle priser fra Yahoo Finance. Hos Yahoo skal tickeren stå som `DASH-EUR`, hvis du vil hente Europriser.
 
-Se eksempel med [Kraken\*](/go/kraken/) på, hvordan du skriver det ind.
+Se eksempel med [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } på, hvordan du skriver det ind.
 
 {% include figure image_path="/assets/images/posts/pp-crypto.jpg" caption="Jeg har valgt Kraken til at hente `Historical Quotes` for kryptovaluta. For at den kan gøre det automatisk, skal du sætte Symbol til `XXBTZEUR` for Bitcoins." %}
 

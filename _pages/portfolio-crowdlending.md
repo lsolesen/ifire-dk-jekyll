@@ -21,6 +21,12 @@ I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sa
 
 Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
 
+## Risiko crowdlending
+
+Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlending. Crowdlending-platforme kan gå konkurs, og dine lån kan blive misligholdt.
+
+[Læs mere om crowdlending risiko]({% link _posts/2020-02-09-crowdlending-rebalancering.md %})
+
 ## Indlæg om crowdlending
 
 <div class="feature__wrapper">
@@ -48,9 +54,9 @@ Selvom der tilskrives renter løbende på de enkelte platforme, skal du være op
 
 ### Total indkomst fra crowdlending
 
-{% include figure image_path="/assets/images/status/p2p-year-income-april-2020.jpg" caption="Income in crowdlending - status april 2020" %}
+{% include figure image_path="/assets/images/status/p2p-year-income-april-2020.jpg" caption="Indkomst fra crowdlending - status april 2020" %}
 
-{% include figure image_path="/assets/images/status/p2p-income-april-2020.jpg" caption="Income in crowdlending - status april 2020" %}
+{% include figure image_path="/assets/images/status/p2p-income-april-2020.jpg" caption="Indkomst fra crowdlending - status april 2020" %}
 
 ### XIRR for crowdlending
 
@@ -58,7 +64,7 @@ Crowdlending har været udfordret i 2020, og jeg har haft nogle relativt store t
 
 {% include figure image_path="/assets/images/status/p2p-performance.jpg" caption="Crowdlending ser voldsomt ud, når man mister hele indskuddet." %}
 
-[Få 10 EUR Trine\*](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Få 10 EUR Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 #### Status april 2020
 
@@ -66,7 +72,7 @@ Herunder er et øjebliksbillede fra april 2020.
 
 {% include figure image_path="/assets/images/status/p2p-xirr-april-2020.jpg" caption="Øjebliksbillede fra april 2020 på mine crowdlendingplatforme" %}
 
-[Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Forskellige typer crowdlending og crowdfunding
 
@@ -74,7 +80,7 @@ Jeg har forsøgt at dele mine crowdlending investeringer op i almindelige forbru
 
 {% include figure image_path="/assets/images/status/p2p-allocation-groups.jpg" caption="Crowdlending fordelt på typer" %}
 
-[Opret dig på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } eller [Bondora\*](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Opret dig på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } eller [Bondora](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Deals
 
@@ -104,7 +110,7 @@ Jeg har forsøgt at dele mine crowdlending investeringer op i almindelige forbru
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "first_investment_at" %}
 
-{% for post in site_posts %}- {{ post.first_investment_at | date: "%b %-d, %Y"}} - Oprettede konto hos [{{ post.title }}\*]({{ post.cta_url }}) {% if post.exit_message %}({{ post.exit_message }}){% endif %}
+{% for post in site_posts %}- {{ post.first_investment_at | date: "%b %-d, %Y"}} - Oprettede konto hos [{{ post.title }}]({{ post.cta_url }}) {% if post.exit_message %}({{ post.exit_message }}){% endif %}
 {% endfor %}
 
 {% include disclaimer.md %}

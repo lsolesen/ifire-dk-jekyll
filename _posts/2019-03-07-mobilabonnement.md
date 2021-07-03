@@ -19,13 +19,13 @@ Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, f
 
 ## Hvordan tjekker jeg mit abonnement let?
 
-Heldigvis er der nogle [ret enkle muligheder\*](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } for at [tjekke om du kan spare penge på dit mobilabonnement\*](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' }.
+Heldigvis er der nogle [ret enkle muligheder](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } for at [tjekke om du kan spare penge på dit mobilabonnement](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' }.
 
-Både hos [mobilpakke.dk\*](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' } og [mobilsparer.dk\*](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
+Både hos [mobilpakke.dk](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' } og [mobilsparer.dk](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
 Tjek om du kan spare hos
 
-[Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Mobilpakke.dk](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 
@@ -43,7 +43,7 @@ Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene 
 
 Tjek dit mobilabonnemnt hos
 
-[Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilpakke.dk\*](/go/pa/mobilpakke/ ){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilpakke.dk](/go/pa/mobilpakke/ ){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 

@@ -28,7 +28,7 @@ Mon ikke jeg kan gøre det lidt hurtigere. Jeg vil i hvert fald prøve.
 
 Det har ikke været den bedste måned investeringsmæssigt, fordi Envestio pludslig lukkede helt ned. Det vender jeg tilbage til senere under afsnittet Crowdlending. Heldigvis stiger min samlede formue stadig på trods af dette bump på vejen, der minder om at crowdlending er _høj risiko_.
 
-I januar brugte vi nogle dage på skiferie. Her nød jeg igen rigtig godt af mit [Revolut\*](/go/revolut/)-kort, så jeg ikke skulle betale gebyr for valutaveksling. Faktisk havde jeg allerede nogle EUR på kontoen, da jeg i løbet af januar har reduceret lidt i min crowdlending. Vi var usædvanligt heldige - både med den lejlighed, vi havde lejet på [AirBNB\*](/go/airbnb/) og vejret på de dage, hvor vi stod på ski.
+I januar brugte vi nogle dage på skiferie. Her nød jeg igen rigtig godt af mit [Revolut-kort](/go/revolut/){: rel='sponsored nofollow noopener' }, så jeg ikke skulle betale gebyr for valutaveksling. Faktisk havde jeg allerede nogle EUR på kontoen, da jeg i løbet af januar har reduceret lidt i min crowdlending. Vi var usædvanligt heldige - både med den lejlighed, vi havde lejet på [AirBNB](/go/airbnb/){: rel='sponsored nofollow noopener' } og vejret på de dage, hvor vi stod på ski.
 
 Jeg fik endelig bestilt nogle reservedele til min kaffemaskine og kværn, så mit seks måneders købestop måtte afbrydes midlertidigt, men er trådt i kraft igen.
 
@@ -38,13 +38,13 @@ For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnem
 
 I denne måned har jeg også oprettet nye betalingskort fra Curve og N26.
 
-- **[Curve\*](/go/curve/)**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback de første 90 dage, du har kortet. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. Og du kan også _Go Back In Time_, hvis du få valgt det forkerte kort, hvilket er ret smart. (Go Back In Time virker kun i den samme valuta dog). Jeg synes funktionen er ret genial, hvis man som mig har personlige kort, fælles kort og kort til brug på arbejdet.
+- **[Curve](/go/curve/){: rel='sponsored nofollow noopener' }**. Curve er en app, hvor du kan samle dine betalingskort. Du får et betalingskort fra Curve, som du kan bruge som betalingskort. I app'en kan du så vælge, hvilket af dine andre betalingskort pengene reelt bliver trukket fra. Du kan i den gratis version vælge tre firmaer, hvor du får 1% i cashback de første 90 dage, du har kortet. Du kan i den gratis version også i hverdagen veksle 500 EUR om måneden til interbankraten og hæve 200 EUR om måneden i hævemaskiner i udlandet. Hvis du bare bruger det i Danmark med danske betalingskort, så er det naturligvis gratis. Og du kan også _Go Back In Time_, hvis du få valgt det forkerte kort, hvilket er ret smart. (Go Back In Time virker kun i den samme valuta dog). Jeg synes funktionen er ret genial, hvis man som mig har personlige kort, fælles kort og kort til brug på arbejdet.
 
-[Få 5£ på Curve](/go/curve/){: .btn .btn--large .btn--info }
+[Få 5£ på Curve](/go/curve/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
-- **[N26\*](/go/n26/)**. N26 er en tysk onlinebank, som jeg har oprettet en gratis konto hos. Man kan i den gratis version veksle til interbankraten med et gebyr på 1,7%. Du får et gratis betalingskort og et tysk IBAN-nummer. Jeg har mest oprettet kontoen for at have adgang til en en anden udenlandsk konto ud over [Revolut\*](/go/revolut/), som stadig er min foretrukne udenlandske konto - og hvor du kan veksle uden gebyr i hverdagene helt op til 40.000 DKK om måneden.
+- **[N26](/go/n26/){: rel='sponsored nofollow noopener' }**. N26 er en tysk onlinebank, som jeg har oprettet en gratis konto hos. Man kan i den gratis version veksle til interbankraten med et gebyr på 1,7%. Du får et gratis betalingskort og et tysk IBAN-nummer. Jeg har mest oprettet kontoen for at have adgang til en en anden udenlandsk konto ud over [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, som stadig er min foretrukne udenlandske konto - og hvor du kan veksle uden gebyr i hverdagene helt op til 40.000 DKK om måneden.
 
-[Få gratis betalingskort N26](/go/n26/){: .btn .btn--large .btn--warning }
+[Få gratis betalingskort N26](/go/n26/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Investeringer
 
@@ -52,13 +52,13 @@ I denne måned har jeg også oprettet nye betalingskort fra Curve og N26.
 
 Mine porteføljer passer mest sig selv gennem månedsopsparingen. Samlet set har der været **_en urealiseret værdistigning_ på 14.523 DKK**. Samlet set giver det en vægtet intern rente på 10,02%. Samlet set går det altså rigtig fint med mine værdipapirinvesteringer.
 
-[Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få en gratis investeringsplan fra Nord.investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 Min **copytrading på Etoro** er også i plus. Det koster for meget at hæve pengene, så jeg fortsætter på platformen.
 
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
-[Copytrading og kurtagefri handel på E-Toro \*](/go/etoro/){: .btn .btn--large .btn--success }
+[Copytrading og kurtagefri handel på E-Toro ](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Crowdlending
 
@@ -74,7 +74,7 @@ Heldigvis har jeg på [borger.dk](https://www.borger.dk/internet-og-sikkerhed/id
 
 Men crowdlending er virkelig ramt af udfordringer i øjeblikket. Kuetzal er gået ned. Monethera ser ud til at samarbejde med et ikke aktivt firma og har en CEO, der har flere konkurser bag sig. Jeg har hele tiden synes de platforme var for risikable, så jeg har ingen penge på dem.
 
-Flere stiller også spørgsmålstegn ved [FastInvest](https://kristapsmors.substack.com/p/fastinvestcom-legitimate-p2p-platform), som jeg dog kun har gode erfaringer med indtil nu. Med udgangspunkt [FastInvest.com - legitimate P2P platform or another scam?](https://kristapsmors.substack.com/p/fastinvestcom-legitimate-p2p-platform) har jeg stoppet min auto invest og reducerer løbende min eksponering mod FastInvest. Desværre bruger de op til fem hverdage på udbetalingerne - modsat de fleste andre platforme, som er noget hurtigere.
+Flere stiller også [spørgsmålstegn](https://kristapsmors.substack.com/p/fastinvestcom-legitimate-p2p-platform) ved [FastInvest](/platform/fastinvest/), som jeg dog kun har gode erfaringer med indtil nu. Med udgangspunkt [FastInvest.com - legitimate P2P platform or another scam?](https://kristapsmors.substack.com/p/fastinvestcom-legitimate-p2p-platform) har jeg stoppet min auto invest og reducerer løbende min eksponering mod FastInvest. Desværre bruger de op til fem hverdage på udbetalingerne - modsat de fleste andre platforme, som er noget hurtigere.
 
 I det hele taget er jeg begyndt at **reducere min samlede crowdlending portefølje**, hvilket egentlig har været planlagt helt fra starten.
 
@@ -82,17 +82,17 @@ For at gøre det, så gælder det på de fleste platforme om deaktivere _auto in
 
 På FastInvest var det rigtig let at sælge lånene. Du klikker bare på Sell. Hvis du sælger et lån, får du ikke de renter lånet har genereret. Jeg solgte derfor alle de lån, der endnu ikke havde givet renter - og så venter jeg tålmodigt på tilbagebetaling af de resterende lån. Derefter beder jeg om udbetalinger, hvilket på FastInvest er lidt irriterende, for der går i gennemsnit 4-5 bankdage inden pengene er på min Revolut-konto. Men samlet har jeg stadig et stabilt afkast på FastInvest og pengene bliver udbetalt. Følg din egen mavefornemmelse med platformen.
 
-[RoboCash\*](/go/robocash/) har løst problematikken omkring udbetalinger rigtig brugervenligt. I deres _auto invest_-funktion, har de under deres geninvesteringsstrategi mulighed for _Payout_. Det betyder, at i takt med at renterne og hovedstolen tilbagebetales, så tilbagebetales pengene automatisk til ens konto. [RoboCash\*](/go/robocash/) har altså mere fuldautomatisk end de andre. Med en intern rente, der har ligget stabilt på omkring 10%, så har det altså været en god platform for mig. Øjebliksbilledet for januar i forbindelse med Payout har et fald i den interne rente til omkring 6%, men jeg forventer at den fra næste måned igen er 10%.
+[RoboCash](/go/robocash/){: rel='sponsored nofollow noopener' } har løst problematikken omkring udbetalinger rigtig brugervenligt. I deres _auto invest_-funktion, har de under deres geninvesteringsstrategi mulighed for _Payout_. Det betyder, at i takt med at renterne og hovedstolen tilbagebetales, så tilbagebetales pengene automatisk til ens konto. [RoboCash](/go/robocash/){: rel='sponsored nofollow noopener' } har altså mere fuldautomatisk end de andre. Med en intern rente, der har ligget stabilt på omkring 10%, så har det altså været en god platform for mig. Øjebliksbilledet for januar i forbindelse med Payout har et fald i den interne rente til omkring 6%, men jeg forventer at den fra næste måned igen er 10%.
 
 {% include figure image_path="/assets/images/posts/robocash-payout.png" caption="Vælg Payout for løbende udbetalinger fra RoboCash" %}
 
-Endnu lettere er udbetalinger naturligvis fra [Mintos Invest & Access\*](/go/mintos/) og [Bondora Go & Grow\*](/go/bondora/), hvor du hurtigere kan få udbetalt dine investeringer.
+Endnu lettere er udbetalinger naturligvis fra [Mintos Invest & Access](/go/mintos/){: rel='sponsored nofollow noopener' } og [Bondora Go & Grow](/go/bondora/){: rel='sponsored nofollow noopener' }, hvor du hurtigere kan få udbetalt dine investeringer.
 
-[Få 10%+ hos RoboCash\*](/go/robocash/){: .btn .btn--large .btn--success} [Få 10%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info} [Få 5 EUR hos Bondora\*](/go/bondora/){: .btn .btn--large .btn--success}
+[Få 10%+ hos RoboCash](/go/robocash/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' } [Få 10%+ på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Få 5 EUR hos Bondora](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
-I alt har jeg tabt **-6.882 DKK** på crowdlending i løbet af denne måned pga. Envestios forsvinding. Det giver en vægtet intern rente på 6,27% på den almindelige crowdlending. <ins>Envestio-eventyret spiste altså et par procent af min vægtede interne rente.</ins> At den samlede vægtede interne rente stadig er høj skyldes, at Envestio heldigvis ikke var så stor en del af min samlede crowdlending portefølje. Den interne vægtede rente på den ejendomsbaserede crowdlending er i januar på 2,41%. Det betyder bl.a. meget at [BrickShare\*](/platform/themany/) fortsat ikke giver afkast, mens [PropertyPartner\*](/go/propertypartner/), [Kuflink\*](/go/kuflink/) og [ReInvest24\*](/go/reinvest24/) har lidt startomkostninger forbundet med investeringerne. Platformene er imidlertid ret lette at bruge og på sigt skal de nok være fine investeringer.
+I alt har jeg tabt **-6.882 DKK** på crowdlending i løbet af denne måned pga. Envestios forsvinding. Det giver en vægtet intern rente på 6,27% på den almindelige crowdlending. <ins>Envestio-eventyret spiste altså et par procent af min vægtede interne rente.</ins> At den samlede vægtede interne rente stadig er høj skyldes, at Envestio heldigvis ikke var så stor en del af min samlede crowdlending portefølje. Den interne vægtede rente på den ejendomsbaserede crowdlending er i januar på 2,41%. Det betyder bl.a. meget at [Brickshare](/platform/themany/){: rel='sponsored nofollow noopener' } fortsat ikke giver afkast, mens [PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' }, [Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' } og [ReInvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' } har lidt startomkostninger forbundet med investeringerne. Platformene er imidlertid ret lette at bruge og på sigt skal de nok være fine investeringer.
 
-I forhold til løbende intern rente, så fungerer [Grupeer\*](/go/grupeer/), [Lenndy\*](/go/lenndy/), [FastInvest\*](/go/fastinvest/) (som der i crowdlendingmiljøet i øjeblikket er meget bekymring omkring), [Mintos\*](/go/mintos/) og [Crowdestor\*](/go/crowdestor/) bedst for mig. Alle har en intern rente i spændet 13,72% til 10,96%.
+I forhold til løbende intern rente, så fungerer [Grupeer](/go/grupeer/){: rel='sponsored nofollow noopener' }, [Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' }, [FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' } (som der i crowdlendingmiljøet i øjeblikket er meget bekymring omkring), [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } og [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } bedst for mig. Alle har en intern rente i spændet 13,72% til 10,96%.
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
@@ -100,19 +100,19 @@ Jeg reducererer eksponeringen mod crowdlending løbende de næste måneder og ov
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab\*](/go/agrikaab/), [Trine\*](/go/trine/) og [Lendahand\*](/go/lendahand/). Som planlagt har både Agrikaab (7,33%) og Lendahand (3,13%) givet afkast i løbet af januar - og Trine kører også stabilt med en intern rente på 6,56%. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det dejligt at de giver et godt afkast. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Agrikaab](/platform/agrikaab/), [Trine](/go/trine/){: rel='sponsored nofollow noopener' } og [Lendahand](/go/lendahand/){: rel='sponsored nofollow noopener' }. Som planlagt har både Agrikaab (7,33%) og Lendahand (3,13%) givet afkast i løbet af januar - og Trine kører også stabilt med en intern rente på 6,56%. Investeringerne er hovedsageligt af bæredygtige og velgørende hensyn, men derfor er det dejligt at de giver et godt afkast. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-[Få 10EUR hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning } eller [Få 25EUR hos Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning }
+[Få 10EUR hos Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Få 25EUR hos Lendahand](/go/lendahand/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Opsparing
 
 ### Kontant
 
-Min kontante opsparing står stadig hos [Lunar\*](/go/lunar/), og jeg venter spændt på, hvad de vil tilbyde i fremtiden. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut\*](/go/revolut/) i forskellige valutaer.
+Min kontante opsparing står stadig hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, og jeg venter spændt på, hvad de vil tilbyde i fremtiden. De resterende kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3%. Desuden har jeg nogle kontanter stående hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } i forskellige valutaer.
 
 {% include cta-redirect title="Lunar" class="success" %}
-[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info }
-[Smart Bankapp med Curve\*](/go/curve/){: .btn .btn--large .btn--default }
+[Gratis valutaveksling med Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Smart Bankapp med Curve](/go/curve/){: .btn .btn--large .btn--default rel='sponsored nofollow noopener' }
 
 ### Guld og sølv
 
@@ -122,9 +122,9 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 Kryptovalutaen har rettet sig, så den i øjeblikket stort set går i 0. Der er stadig urealiserede tab på Cred (LBA), Stellar Lumens (XLM), men Ripple (XRP) og Tezos (XTZ) har rettet sig og det går godt for Bitcoins. Jeg forventer stadig i det nye år at købe ind efter _dollar cost average_-princippet i den gamle hæderkronede Bitcoin.
 
-Jeg sparer stadig lidt Bitcoins op i en _vault_ hos [Revolut\*](/go/revolut/) hver gang, jeg bruger mit Revolut-kort.
+Jeg sparer stadig lidt Bitcoins op i en _vault_ hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } hver gang, jeg bruger mit Revolut-kort.
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Passiv indtægt
 

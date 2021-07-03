@@ -107,14 +107,14 @@ Du kan imidlertid relativt let oprette et depot for mindreårige, hvor børnenes
 
 Jeg har i hvert fald fundet to steder, hvor der er mulighed for at få en konto for mindreårige.
 
-- **[NORD.investments*](/go/nord/){: rel='sponsored nofollow noopener' }**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Der skal betales skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
+- **[NORD.investments](/go/nord/){: rel='sponsored nofollow noopener' }**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Der skal betales skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort. Hos NORD.investments vælger du en risikoprofil, og så sørger robotten for at investere dine penge. Det giver meget lave omkostninger.
 - **[Nordnet](/go/nordnet/)**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne i lidt højere grad. Her kan du altså også selv vælge produkter med lave omkostninger.
 
 Hverken Nordnet eller Nord.Investments tilbyder en traditionel børneopsparing på nuværende tidspunkt. Derfor skal du bruge din nuværende banks muligheder for børneopsparing.
 
 At skulle flytte hele sit bankengagement vil ofte være forbundet med høje omkostninger og kan blive komplekst. Du kan også vælge at have en konto for mindreårige i din nuværende bank, men vær opmærksom på handelsomkostninger og depotgebyrer. De steder jeg har undersøgt, er Nordnet bare billigere.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Skat på en investeringskonto for mindreårige
 
@@ -165,6 +165,6 @@ Hvordan håndterer du din børneopsparing - og er der noget, jeg har overset?
 
 Husk at være opmærksom på skattereglerne omkring pengegaver. Hvis det er forældrene, der giver gaverne, så er det forældrene, der bliver beskattet.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

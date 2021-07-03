@@ -74,12 +74,12 @@ Ben Felix laver nogle fremragende videoer om investering, og han fortæller ogs�
 Hvis du gerne vil have guld som opsparing eller investering, er der forskellige måder at gøre det på. 
 
 - **Køb fysisk guld**. Du køber en mønt eller en guldbar og har den liggende hjemme eller i en bankboks.
-- **Køb hos en udbyder**. Jeg har fx eksperimenteret med at købe hos [BullionVault\*](/go/bullionvault/), hvor du kan købe guld, som de opbevarer for dig. Desværre viste det sig, at gebyrerne blev for høje for mig ift. det beløb, jeg var villig til at have på denne måde.
+- **Køb hos en udbyder**. Jeg har fx eksperimenteret med at købe hos [BullionVault](/go/bullionvault/){: rel='sponsored nofollow noopener' }, hvor du kan købe guld, som de opbevarer for dig. Desværre viste det sig, at gebyrerne blev for høje for mig ift. det beløb, jeg var villig til at have på denne måde.
 - **Køb en ETF**. Du kan også købe en ETF, som er baseret på fysisk guld. Hvis du køber det som ETF som en del af din portefølje, skal du lægge mærke til, at der er forskellige typer af ETF’er. Jeg foretrækker ETF’er, der er bakket op af fysisk guld.
 
 ## ETF’er der tracker guld
 
-Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet](/go/nordnet/), hvor de årlige omkostninger ikke er alt for høje:
+Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' }, hvor de årlige omkostninger ikke er alt for høje:
 
 | Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
@@ -99,7 +99,7 @@ Du kan også investere i selskaber, der har guld som sit primære forretningsomr
 
 ## Køb og sælg guld i certifikater
 
-På [Etoro\*](/go/etoro/) kan du spekulere i guld gennem certifikater. Det ville jeg aldrig selv begive mig ud i, da jeg ikke tror på, at man kan forudsige markedet konsistent over tid. Du kan lynhurtigt tage mange penge på denne måde.
+På [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } kan du spekulere i guld gennem certifikater. Det ville jeg aldrig selv begive mig ud i, da jeg ikke tror på, at man kan forudsige markedet konsistent over tid. Du kan lynhurtigt tage mange penge på denne måde.
 
 ## Er guld et godt værn mod inflation?
 
@@ -115,7 +115,7 @@ Du skal nøje vurdere, hvad dit formål med at købe guld er? Er det til **opspa
 
 {% include video provider="youtube" id="7FBo467hLzQ" %}
 
-Guld er en del af fx [Harry Brownes Permanent Portfolio\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252){: rel="sponsored nofollow noopener" } og Ray Dalios All-Weather Portfolio som Anthony Robbins har gjort populært gennem bogen [Money - Master the Game\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }.
+Guld er en del af fx [Harry Brownes Permanent Portfolio](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252){: rel="sponsored nofollow noopener" } og Ray Dalios All-Weather Portfolio som Anthony Robbins har gjort populært gennem bogen [Money - Master the Game](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }.
 
 Guld kan være en del af den balancerede portefølje, og den kan være med til at justere din risiko. Det er dog mere enkelt bare at bruge obligationer til at styre risikoen i porteføljen.
 

@@ -70,7 +70,7 @@ I mit fuldmagtsinvesteringsprodukt havde banken investeret i nogle aktivt forval
 
 Men jeg måtte altså til at sadle helt om i mine investeringer, fordi jeg ikke bare langsomt kunne omlægge investeringerne.
 
-Jeg fik et [gratis investeringsforslag fra Nord.Investments\*](/go/nord/), som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
+Jeg fik et [gratis investeringsforslag fra Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }, som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
 
 Jeg var naturligvis oprindeligt _primet_ til at tænke at banken var den bedste rådgiver for mine penge. I bagklogskabens lys er det naturligvis ikke tilfældet, når de bliver rådgivere og sælgere af deres egne produkter.
 
@@ -78,7 +78,7 @@ Jeg var naturligvis oprindeligt _primet_ til at tænke at banken var den bedste 
 
 Derefter gik jeg selv i gang med at eksperimentere lidt med at investere, og jeg læste en masse om det. Jeg tænkte, at sådan ville jeg bedst selv hurtigt kunne se mulighederne, og hvordan jeg ville gribe det an. Jeg tilmeldte mig grupper på Facebook om finansiel uafhængighed, hvor folk havde mange forslag til investeringsmuligheder. Jeg begyndte også at lytte til Millionærklubben, hvor man får det indtryk, at enkeltaktier er en god ide for alle at gå i gang med.
 
-Jeg gik i gang med at eksperimentere med udbytteaktier, [robotinvestorer\*](/go/nord/), passive danske indeksforeninger, udenlandske ETF’er, [copy trading](/go/etoro/), crowdlending, [kryptovaluta\*](/go/coinbase/), guld. Eksperimenterne har taget meget tid og tankevirksomhed, men det har været spændende at sætte sig ind i. 
+Jeg gik i gang med at eksperimentere med udbytteaktier, [robotinvestorer](/go/nord/){: rel='sponsored nofollow noopener' }, passive danske indeksforeninger, udenlandske ETF’er, [copy trading](/go/etoro/){: rel='sponsored nofollow noopener' }, crowdlending, [kryptovaluta](/go/coinbase/){: rel='sponsored nofollow noopener' }, guld. Eksperimenterne har taget meget tid og tankevirksomhed, men det har været spændende at sætte sig ind i. 
 
 Det er imidlertid et endnu større arbejde, når kompleksiteten i investeringerne skal reduceres igen.
 
@@ -159,7 +159,7 @@ Og det bedste er, at du ikke behøver at være et aktiegeni eller udvalgt dygtig
 
 **Buy and hold med passive investeringsafdelinger, der dækker verdensmarkedet, indkøbt efter _dollar cost average_ virker bare på langt sigt.**
 
-Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } er de to bøger, jeg burde have læst først på min investeringsrejse.
+Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } er de to bøger, jeg burde have læst først på min investeringsrejse.
 
 ## Genkender du de psykologiske mekanismer?
 

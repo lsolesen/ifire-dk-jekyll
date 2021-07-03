@@ -37,49 +37,49 @@ Lige nu afspejler mine investeringer endnu ikke helt, hvordan jeg allerhelst vil
 
 Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, så kan du se den i min [oversigt over alle mine egne investeringer](/investeringer/). Her kan du også se, hvilke værktøjer jeg bruger.
 
-[Gratis investeringsplan fra Nord\*](/go/nord/){: .btn .btn--large .btn--info } og [Kurtagefri E-Toro\*](/go/etoro/){: .btn .btn--large .btn--success }
+[Gratis investeringsplan fra Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } og [Kurtagefri E-Toro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Crowdlending
 
-Jeg brugte det meste af en times tid i går på at overføre 2-10 EUR til alle mine crowdlending-platforme, fordi min [Revolut\*](/go/revolut/)-konto i forbindelse med Brexit er blevet flyttet. Derfor har jeg fået nyt kontonummer, og på langt de fleste platforme skal det bekræftes med en ny kontooverførsel. Da en del af platformene samtidig har skiftet kontonummer siden min seneste overførsel, så var der en del tastearbejde.
+Jeg brugte det meste af en times tid i går på at overføre 2-10 EUR til alle mine crowdlending-platforme, fordi min [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }-konto i forbindelse med Brexit er blevet flyttet. Derfor har jeg fået nyt kontonummer, og på langt de fleste platforme skal det bekræftes med en ny kontooverførsel. Da en del af platformene samtidig har skiftet kontonummer siden min seneste overførsel, så var der en del tastearbejde.
 
-I den forbindelse er jeg ret imponeret af [Peerberry\*](/go/peerberry/). Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt.
+I den forbindelse er jeg ret imponeret af [Peerberry](/go/peerberry/){: rel='sponsored nofollow noopener' }. Jeg lavede overførslen lørdag kl. 10.15, og den var registreret på Peerberrys konto kl. 13.03. Det synes jeg er ret vildt.
 
 Men årsagen til at jeg skulle opdatere kontonumre er også, fordi jeg gerne vil trække mig ud af en del af platformene.
 
 {% include figure image_path="/assets/images/status/p2p-xirr-2020-november.jpg" caption="Interne rente på crowdlending denne måned" %}
 
-Jeg valgte at hoppe helt ud af Funderbeam i denne måned ved at sælge mine _shares_ under det, jeg gav for dem. Det gjorde, at jeg havde en intern rente på -8,10% på Funderbeam. Jeg kunne sagtens være blevet på platformen, men ville gerne have mindre at tjekke hver måned. Det var især mine shares i danske [Lendino\*](/go/lendino/), hvor handlen var meget sparsom på platformen, og derfor solgte jeg 2 EUR under min købspris.
+Jeg valgte at hoppe helt ud af Funderbeam i denne måned ved at sælge mine _shares_ under det, jeg gav for dem. Det gjorde, at jeg havde en intern rente på -8,10% på Funderbeam. Jeg kunne sagtens være blevet på platformen, men ville gerne have mindre at tjekke hver måned. Det var især mine shares i danske [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }, hvor handlen var meget sparsom på platformen, og derfor solgte jeg 2 EUR under min købspris.
 
-[Mintos\*](/go/mintos/) som har været min største platform til investering har jeg en del penge ude i forhold til _loan originators_, som endnu ikke har betalt Mintos for deres lån. Hvis ikke pengene kommer tilbage, så ender det med at hele min indtjening på Mintos over knap to år er tabt. Hvis tingene bliver betalt tilbage, så har jeg dog stadig 10,71% i intern rente på Mintos.
+[Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } som har været min største platform til investering har jeg en del penge ude i forhold til _loan originators_, som endnu ikke har betalt Mintos for deres lån. Hvis ikke pengene kommer tilbage, så ender det med at hele min indtjening på Mintos over knap to år er tabt. Hvis tingene bliver betalt tilbage, så har jeg dog stadig 10,71% i intern rente på Mintos.
 
-[Bondora Go & Grow\*](/go/bondora/) ser ud til at køre relativt stabilt. Men er godt nok bekymret for den samlede risiko i crowdlending.
+[Bondora Go & Grow](/go/bondora/){: rel='sponsored nofollow noopener' } ser ud til at køre relativt stabilt. Men er godt nok bekymret for den samlede risiko i crowdlending.
 
-[FastInvest\*](/go/fastinvest/) giver stadig en god intern rente. De har haft en del forsinkelse på udbetalinger. På platformen har jeg beholdt nogenlunde, hvad der svarer til det, jeg har tjent i renter på platformen.
+[FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' } giver stadig en god intern rente. De har haft en del forsinkelse på udbetalinger. På platformen har jeg beholdt nogenlunde, hvad der svarer til det, jeg har tjent i renter på platformen.
 
-[Robocash\*](/go/robocash/) ser ud til at køre stabilt for mig. De har den geniale feature, at man bare kan sætte beløbene til at blive udbetalt til sin konto, hvis man slår auto invest fra. Jeg bemærkede dog, at jeg havde et bare udbetalinger, som ikke var eksekveret fra før sommer. Jeg annullerede dem, men vil lige følge i fremtiden om pengene faktisk lykkes med at blive udbetalt.
+[Robocash](/go/robocash/){: rel='sponsored nofollow noopener' } ser ud til at køre stabilt for mig. De har den geniale feature, at man bare kan sætte beløbene til at blive udbetalt til sin konto, hvis man slår auto invest fra. Jeg bemærkede dog, at jeg havde et bare udbetalinger, som ikke var eksekveret fra før sommer. Jeg annullerede dem, men vil lige følge i fremtiden om pengene faktisk lykkes med at blive udbetalt.
 
-[Crowdestor\*](/go/crowdestor/) er jeg ved at reducere kraftigt. Lige nu har jeg kun 9,57% i intern rente, og jeg synes de meget attraktive renter på mange af projekterne virker for godt til at være sandt. Så det er det nok også. Det vil vise sig.
+[Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } er jeg ved at reducere kraftigt. Lige nu har jeg kun 9,57% i intern rente, og jeg synes de meget attraktive renter på mange af projekterne virker for godt til at være sandt. Så det er det nok også. Det vil vise sig.
 
-[Evoestate\*](/go/evoestate/) synes jeg stadig virker smart, fordi den samler lån fra flere platforme, men risikoen generelt i crowdlending er for stor for mig lige nu, så jeg er på vej ud af den.
+[Evoestate](/go/evoestate/){: rel='sponsored nofollow noopener' } synes jeg stadig virker smart, fordi den samler lån fra flere platforme, men risikoen generelt i crowdlending er for stor for mig lige nu, så jeg er på vej ud af den.
 
-[EstateGuru\*](/go/estateguru/), [Housers\*](/go/housers/), [Bulkestate\*](/go/bulkestate/),  [Crowdestate\*](/go/crowdestate/) og [Reinvest24\*](/go/reinvest24/) har virket nogenlunde for mig, men jeg er også på vej ud af dem, fordi jeg har alt for mange platforme. Bulkestate og EstateGuru er klart dem, der performer bedst for mig.
+[EstateGuru](/go/estateguru/){: rel='sponsored nofollow noopener' }, [Housers](/go/housers/){: rel='sponsored nofollow noopener' }, [Bulkestate](/go/bulkestate/){: rel='sponsored nofollow noopener' },  [Crowdestate](/go/crowdestate/){: rel='sponsored nofollow noopener' } og [Reinvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' } har virket nogenlunde for mig, men jeg er også på vej ud af dem, fordi jeg har alt for mange platforme. Bulkestate og EstateGuru er klart dem, der performer bedst for mig.
 
-Hvis jeg skulle blive på en platform, så ville det nok være [EstateGuru\*](/go/estateguru/), som giver det bedste afkast og virker meget stabil. Den har også et fint ry i crowdlendingkredse.
+Hvis jeg skulle blive på en platform, så ville det nok være [EstateGuru](/go/estateguru/){: rel='sponsored nofollow noopener' }, som giver det bedste afkast og virker meget stabil. Den har også et fint ry i crowdlendingkredse.
 
-[Kuflink\*](/go/kuflink/) opererer med nogle ret vanvittige signup bonuses, og platformen virker stabil, men den interne rente er for mig kun omkring 3-4%. [PropertyPartner\*](/go/propertypartner/) minder lidt om danske [The Many\*](/go/themany/), men der er relativt mange gebyrer. Det er den eneste crowdlending-platform jeg har, hvor den interne rente er negativ på -4%.
+[Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' } opererer med nogle ret vanvittige signup bonuses, og platformen virker stabil, men den interne rente er for mig kun omkring 3-4%. [PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' } minder lidt om danske [The Many](/go/themany/){: rel='sponsored nofollow noopener' }, men der er relativt mange gebyrer. Det er den eneste crowdlending-platform jeg har, hvor den interne rente er negativ på -4%.
 
-Jeg er egentlig godt tilfreds med [Lenndy\*](/go/lenndy/) og [Iuvo Group\*](/go/iuvo/), men jeg er på vej ud af platformene, da det ganske enkelt er alt for meget arbejde at følge med i så mange platforme.
+Jeg er egentlig godt tilfreds med [Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' } og [Iuvo Group](/go/iuvo/){: rel='sponsored nofollow noopener' }, men jeg er på vej ud af platformene, da det ganske enkelt er alt for meget arbejde at følge med i så mange platforme.
 
 Grupeer er stadig en dark horse, som jeg ikke forventer at få mine penge tilbage fra.
 
-Da [Revolut\*](/go/revolut/) har ændret deres vilkår for internationale overførsler og valutaveksling siden jeg startede. Nu er der gratis valutaveksling på 7500 kroner om måneden og en gratis international overførsel. Derfor overvejer jeg i **min tilbagetrækning fra crowdlending** at betale for Premium, som vil give mig gratis overførsler og valutaveksling.
+Da [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } har ændret deres vilkår for internationale overførsler og valutaveksling siden jeg startede. Nu er der gratis valutaveksling på 7500 kroner om måneden og en gratis international overførsel. Derfor overvejer jeg i **min tilbagetrækning fra crowdlending** at betale for Premium, som vil give mig gratis overførsler og valutaveksling.
 
 **I alt har jeg 3,86% i intern rente på al crowdlending.** Det skyldes fortsat tabene på Envestio og Agrikaab. Hvis der ikke kommer nogen penge tilbage fra Grupeer kan det ende med, at jeg efter en del arbejde med crowdlending i bedste fald vil gå i nul efter flere års investeringer i dette felt.
 
-Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne rente på [Kameo](/go/platform/). Men du kan læse mine [erfaringer med dansk crowdledning gennem Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
+Hvis du vil investere i dansk crowdlending, så har jeg klart den bedste interne rente på [Kameo](/platform/kameo/). Men du kan læse mine [erfaringer med dansk crowdledning gennem Kameo, Flexfunding og Brickshare](/dansk-crowdlending/).
 
-Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino\*](/go/lendino/), da jeg synes de har en interessant forretningsmodel, hvor de lancerer platform, som andre kan udnytte, mere regulær crowdlending og de giver mulighed for netværkslån (uden kreditvurdering) på en formaliseret måde.
+Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }, da jeg synes de har en interessant forretningsmodel, hvor de lancerer platform, som andre kan udnytte, mere regulær crowdlending og de giver mulighed for netværkslån (uden kreditvurdering) på en formaliseret måde.
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 
@@ -95,29 +95,29 @@ Jeg vil i øvrigt i løbet af denne måned gå lidt mere ind i [Lendino\*](/go/l
 
 Du kan se en status over [alle mine crowdlending investeringer](/crowdlending/), og hvordan jeg grupperer dem i privatlån, udviklingsprojekter og ejendomme.
 
-[10 EUR på Trine\*](/go/trine/){: .btn .btn--large .btn--warning } [250 DKK The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[10 EUR på Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } [250 DKK The Many](/go/themany/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Opsparing
 
 ### Kontant
 
-Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med Lunar.Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto\*](/go/lunar/). Jeg bruger i stedet Coop Bank i øjeblikket, hvor man gratis kan have sin konto og fælleskonto.
+Hvis jeg kun skulle bruge en konto, så ville jeg helt sikkert have nøjes med Lunar.Du kan få et gratis betalingskort og 50 kroner, hvis du bruger [mit link til at åbne din Lunar-konto](/go/lunar/){: rel='sponsored nofollow noopener' }. Jeg bruger i stedet Coop Bank i øjeblikket, hvor man gratis kan have sin konto og fælleskonto.
 
-Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut\*](/go/revolut/), som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut\*](/go/revolut/).
+Øvrige kontanter står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,3% i rente. Jeg har udenlandsk valuta stående hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, som jeg virkelig er godt tilfreds med. Du kan **få et gratis betalingskort** ved at bruge [mit link til at registrere dig hos Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve\*](/go/curve/). Der kan du få et betalingskort som overbygning på dine andre betalingskort.
+Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve](/go/curve/){: rel='sponsored nofollow noopener' }. Der kan du få et betalingskort som overbygning på dine andre betalingskort.
 
 Du kan få lidt mere inspiration om, hvordan jeg har skruet min økonomi sammen under [Inspiration](/inspiration/).
 
-[Få Revolut\*](/go/revolut/){: .btn .btn--large .btn--info } [Få Curve\*](/go/curve/){: .btn .btn--large .btn--danger }
+[Få Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Få Curve](/go/curve/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Kryptovaluta
 
 Det går jo rigtig godt med kryptovalutaen, men det er desværre også en branche, hvor svindel er let. Jeg har brugt Uphold som wallet, fordi de havde et samarbejde med CredEarn, hvor man kunne låne sin kryptovaluta ud ligesom i crowdlending. Desværre har der været svindel i CredEarn, så lige nu har jeg det meste af min kryptovaluta ude at flyve i en konkurssag. Heldigvis har jeg aldrig været så hårdt investeret i krypto i det hele taget.
 
-[Få 10EUR til Bitcoins på Coinbase\*](/go/coinbase/){: .btn .btn--large .btn--info } [Kraken\*](/go/kraken/){: .btn .btn--large .btn--success }
+[Få 10EUR til Bitcoins på Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Kraken](/go/kraken/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Passiv indkomst
 

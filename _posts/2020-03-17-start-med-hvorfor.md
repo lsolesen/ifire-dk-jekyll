@@ -23,7 +23,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Simon Sinek har skrevet en tankevækkende bog, der egentlig henvender sig til firmaer. Men jeg mener også, at den kan bruges i forbindelse med finansiel uafhængighed og investeringer. Sinek skriver: [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" }.
+Simon Sinek har skrevet en tankevækkende bog, der egentlig henvender sig til firmaer. Men jeg mener også, at den kan bruges i forbindelse med finansiel uafhængighed og investeringer. Sinek skriver: [Start med hvorfor](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" }.
 
 ## Start med hvorfor?
 
@@ -78,7 +78,7 @@ På den måde er du ved at lave en strategi for dig selv, men fordi du starter m
 
 Når du læser rundt omkring på internettet, så læser du rigtig ofte om hvad folk gør, eller hvordan de gør? Det er meget sjældent, at de skriver, hvorfor de gør som de gør? Det er faktisk også sjældent, at folk skriver, hvordan det reelt virker for dem (fx sammenlignet med verdensindekset).
 
-Simon Sineks [Start med hvorfor\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" } er inspirerende både for virksomheder og for sig selv.
+Simon Sineks [Start med hvorfor](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664){: rel="sponsored nofollow noopener" } er inspirerende både for virksomheder og for sig selv.
 
 {% include feature_row type="left" %}
 

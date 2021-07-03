@@ -50,7 +50,7 @@ Jeg investerer _langsigtet_, og udbytteaktier kan være fornuftige investeringer
 
 ## Tilbage til min (simple) strategi for værdipapirhandel
 
-Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
+Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
 
 {% include video id="T71ibcZAX3I" provider="youtube" %}
 
@@ -207,7 +207,7 @@ Hvad er din strategi, og hvordan sørger du for at holde den?
 
 [^1]: [Four Pillar Freedom](https://fourpillarfreedom.com/most-individual-stocks-underperform-index-funds/).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row type="left" %}
 

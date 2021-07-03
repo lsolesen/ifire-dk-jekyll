@@ -80,6 +80,6 @@ Fuldmagtsproduktet Stjerneinvest Fri er alt for dyrt, hvis man bare har en lille
 
 Hvilke fonde du kan vælge, kan du læse om andre steder her på sitet.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

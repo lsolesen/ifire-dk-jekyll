@@ -10,28 +10,28 @@ feature_row_crypto:
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
-    excerpt: "[Coinbase\\*](/go/coinbase/){: rel='sponsored nofollow noopener' } har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link*](/go/coinbase/){: rel='sponsored nofollow noopener' }."
+    excerpt: "[Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link](/go/coinbase/){: rel='sponsored nofollow noopener' }."
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"
     title: "Kraken"
-    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken*](/go/kraken/){: rel='sponsored nofollow noopener' }, som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' }, som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
-    excerpt: "[Ledger*](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
+    excerpt: "[Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 feature_row_opsparing:
   - image_path: /assets/images/logo/lunar.png
     alt: "Lunar"
     title: "Lunar"
-    excerpt: "[Lunar*](/go/lunar/){: rel='sponsored nofollow noopener' } er en ret genial dansk bankapp. Du behøver ikke skifte bank, og du får 50 DKK første gang du bruger deres gratis betalingskort."
+    excerpt: "[Lunar](/go/lunar/){: rel='sponsored nofollow noopener' } er en ret genial dansk bankapp. Du behøver ikke skifte bank, og du får 50 DKK første gang du bruger deres gratis betalingskort."
   - image_path: /assets/images/logo/revolut.png
     alt: "Revolut"
     title: "Revolut"
-    excerpt: "[Revolut*](/go/revolut/){: rel='sponsored nofollow noopener' } er en genial bankapp hvor du gratis får et betalingskort og veksler til interbankkursen. I appen kan du have forskellige valutakonti, og det er et perfekt kort at have med i udlandet."
+    excerpt: "[Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er en genial bankapp hvor du gratis får et betalingskort og veksler til interbankkursen. I appen kan du have forskellige valutakonti, og det er et perfekt kort at have med i udlandet."
   - image_path: /assets/images/logo/curve.png
     alt: "Curve"
     title: "Curve"
-    excerpt: "[Curve*](/go/curve/){: rel='sponsored nofollow noopener' } er et genialt betalingskort, hvor du kan knytte alle dine andre kort til. Så kan du vælge hvilket kort, du reelt vil betalt med i appen. Og du kan gå _back in time_, hvis du har brugt det forkerte kort."
+    excerpt: "[Curve](/go/curve/){: rel='sponsored nofollow noopener' } er et genialt betalingskort, hvor du kan knytte alle dine andre kort til. Så kan du vælge hvilket kort, du reelt vil betalt med i appen. Og du kan gå _back in time_, hvis du har brugt det forkerte kort."
 ---
 
 {% include disclosure.html %}
@@ -85,15 +85,15 @@ Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor
 
 #### SaxoInvestor - og aktiesparekonto
 
-Jeg har en **aktiesparekonto** hos [SaxoInvestor\*](/go/saxoinvestor/){: rel='nofollow noopener' }, som er investeret i en uskøn blanding af aktier og fonde. Det er hovedsageligt en _legeportefølje_.
+Jeg har en **aktiesparekonto** hos [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' }, som er investeret i en uskøn blanding af aktier og fonde. Det er hovedsageligt en _legeportefølje_.
 
-[Få en gratis investeringsplan fra NORD\*](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Få en gratis investeringsplan fra NORD](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 #### Etoro Kurtagefri handel og Copytrading
 
-Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro\*](/go/etoro/){: rel='sponsored nofollow noopener' } for at afprøve platformen, hvor man kan handle kurtagefrit.
+Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } for at afprøve platformen, hvor man kan handle kurtagefrit.
 
-[Kurtagefri handel på Etoro\*](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+[Kurtagefri handel på Etoro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 #### Nordnet: Aldersopsparing
 
@@ -123,7 +123,7 @@ Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](
 
 {% include figure image_path="/assets/images/status/p2p-allocation-groups.jpg" caption="Crowdlending fordelt på typer" %}
 
-[Kom i gang med crowdlending på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% assign deals = site.platforms | where: "tags", "crowdlending" | where_exp: "item", "item.deal != ''" %}
 {% for d in deals %}
@@ -141,7 +141,7 @@ For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskell
 
 ### Indlånskonto
 
-Jeg har en indlånskonto hos [Lunar\*](/go/lunar/){: rel='sponsored nofollow noopener' }<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
+Jeg har en indlånskonto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
 
 {% include cta-redirect title="Lunar" class="success" %}
 
@@ -151,7 +151,7 @@ Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/){: rel='sponsored
 
 ### Valutakonto
 
-Jeg har en konto hos [Revolut\*](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg kan veksle gratis på tværs af valutaer til interbank vekslingsrater.
+Jeg har en konto hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg kan veksle gratis på tværs af valutaer til interbank vekslingsrater.
 
 {% include feature_row id="feature_row_opsparing" %}
 
@@ -165,7 +165,7 @@ Jeg har opbygget en portefølje med kryptovaluta. Du kan læse om mine planerne 
 
 {% include figure image_path="/assets/images/status/crypto-allocation.jpg" caption="Sammensætning af kryptovaluta-porteføljen" %}
 
-[Coinbase og få 66 DKK Bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Coinbase og få 66 DKK Bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row id="feature_row_crypto" %}
 

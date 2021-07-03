@@ -83,11 +83,11 @@ Hvis vi i stedet havde en bil, der kunne køre 14 km / l om året, så ville vi 
 
 Vi sidder i øjeblikket og kigger lidt på en ny bil, fordi vi vurderer, at den nok ikke bliver billigere i værkstedsregninger fremover - og benzinøkonomien er jo ikke imponerende.
 
-Jeg overvejer også, at [udlejning via GoMore\*](/go/gomore/) kan være en måde at finansiere en ny bil på - eller måske bruge GoMore til at leje bil på, når det bliver nødvendigt. Jeg er dog ikke sikker på, at vi som famiile vil undvære vores egen bil i hverdagen.
+Jeg overvejer også, at [udlejning via GoMore](/go/gomore/){: rel='sponsored nofollow noopener' } kan være en måde at finansiere en ny bil på - eller måske bruge GoMore til at leje bil på, når det bliver nødvendigt. Jeg er dog ikke sikker på, at vi som famiile vil undvære vores egen bil i hverdagen.
 
 Men hvornår ved man egentlig om man skal skifte bil?
 
-[Opret dig på GoMore\*](/go/gomore/){: .btn .btn--large .btn--info}
+[Opret dig på GoMore](/go/gomore/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row id="feature_row_autobutler" type="left" %}
 

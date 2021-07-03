@@ -48,7 +48,7 @@ Tankerne og begreberne i Funderbeam er lidt anderledes end andre crowdfunding fi
 
 - **Syndicate**. Når investorer samler en række investeringer, oprettes et syndikat. Syndikatet har en _lead_-investor, som forhandler med firmaet om vilkårene for syndikatet. Når både investorer og firmaet er tilfredse, vil syndikatet blive åbnet for potentielle investorer. Investorerne indikerer deres interesse, og hvis investorerne bliver godkendt af _lead_-investoren kommer man med i syndikatet - og har altså investeret i firmaet.
 
-Til de enkelte syndikater er der forskellige vilkår. [Funderbeam](/go/funderbeam/) har en god [hjælpeside](https://www.funderbeam.com/help/?topic=investing-and-trading). Her kan du læse meget mere om, hvordan platformen fungerer, hvilke risici der er - og hvad teknologien bag platformen er.
+Til de enkelte syndikater er der forskellige vilkår. [Funderbeam](/platform/funderbeam/) har en god [hjælpeside](https://www.funderbeam.com/help/?topic=investing-and-trading). Her kan du læse meget mere om, hvordan platformen fungerer, hvilke risici der er - og hvad teknologien bag platformen er.
 
 ## Ulemper ved Funderbeam
 
