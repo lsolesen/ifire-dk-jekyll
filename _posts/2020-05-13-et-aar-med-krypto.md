@@ -91,6 +91,10 @@ Hvis du kan lide hvad du læser, eller bare vil øve dig i at sende bitcoins, s�
 
 {% include feature_row id="feature_row_solutions" %}
 
+<!-- Ezoic - incontent_12 - incontent_12 -->
+<div id="ezoic-pub-ad-placeholder-115">
 [![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+</div>
+<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 {% include disclaimer.md %}

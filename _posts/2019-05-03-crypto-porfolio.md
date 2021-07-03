@@ -84,7 +84,11 @@ Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, 
 
 [Køb en hardware wallet hos Ledger](/go/ledger/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f){: rel='sponsored nofollow noopener' }
+<!-- Ezoic - incontent_12 - incontent_12 -->
+<div id="ezoic-pub-ad-placeholder-111">
+[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+</div>
+<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 ## Hvordan køber jeg min cryptovaluta?
 
@@ -136,7 +140,11 @@ Jeg er gået i gang med at opbygge min portefølje i cryptovaluta. Jeg køber op
 
 Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins](/go/coinbase/){: rel='sponsored nofollow noopener' } eller gå i gang med at [mine lidt coins på Minergate](/go/minergate/){: rel='sponsored nofollow noopener' }. Uanset hvad du gør, så tænk dig om.
 
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f){: rel='sponsored nofollow noopener' }
+<!-- Ezoic - incontent_12 - incontent_12 -->
+<div id="ezoic-pub-ad-placeholder-115">
+[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+</div>
+<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 {% include feature_row id="feature_row_solutions" %}
 
