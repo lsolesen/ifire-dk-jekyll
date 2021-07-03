@@ -54,7 +54,7 @@ Jeg synes dog, at termostaterne har forbedret den samlede varmesituation i huset
 
 ## Er termostaterne pengene værd?
 
-Jeg købte en [Netatmo WiFi Radiator Termostat (Startpakke)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: rel="sponsored nofollow noopener" } og nogle enkelte [](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat-enkel/){: rel="sponsored nofollow noopener" } hos [Wifibutikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788){: rel="sponsored nofollow noopener" } til 5.582 kroner. Det var før jeg for alvor gik op i at blive finansielt uafhængig, men var mere optaget af, at huset skulle være _smart_ :)
+Jeg købte en [Netatmo WiFi Radiator Termostat (Startpakke)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: rel="sponsored nofollow noopener" } og nogle enkelte [enkelttermostater](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat-enkel/){: rel="sponsored nofollow noopener" } hos [Wifibutikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788){: rel="sponsored nofollow noopener" } til 5.582 kroner. Det var før jeg for alvor gik op i at blive finansielt uafhængig, men var mere optaget af, at huset skulle være _smart_ :)
 
 Jeg synes, at termostaterne virker bedre end de gamle termostater - og jeg tror, at vi generelt har det varmere i huset, end vi havde før.
 

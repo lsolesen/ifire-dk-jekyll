@@ -25,9 +25,7 @@ Desuden har jeg tilføjet [EstateGuru](/go/estateguru/){: rel='sponsored nofollo
 
 Aktiemarkedet har været uroligt. Mine bankaktier fra Danske Bank og Nordea som var tiltænkt min udbytteaktieportefølje er styrtdykket. Men aktierne minder mig om, at jeg er meget mere til passiv indeksinvestering, og så snart <del>udbyttet bliver udbetalt næste år og</del> de forhåbentlig er steget til over min GA-pris, så kommer jeg til at reducere disse positioner til fordel for de passive indeksforeninger igen. Jeg vil huske på, at det er [ganske få superaktier, der skaber hele afkastet også på langt sigt](https://finans.dk/privatokonomi/ECE11549009/ganske-faa-superaktier-skaber-hele-afkastet-de-fleste-aktier-er-rent-tilsaet/?ctxref=ext).
 
-![](https://lh3.googleusercontent.com/uchd2vVYME0G8twjZdiXn81X8KjPUxsSryCaBIlTIP_jv3NISjWMsVj1fFAwGwllBXZfjuD4Jkw0KWkHQxV5QhDVIQqa-y5yMoQmvWxC4uU4eDjUtk4xM3Rf8DlJXqESjgeBwfZJ)
-
-Billede fra [Dr. Wealth](https://www.drwealth.com/how-to-avoid-investor-baises-in-stock-picking/)
+{% include figure image_path="https://lh3.googleusercontent.com/uchd2vVYME0G8twjZdiXn81X8KjPUxsSryCaBIlTIP_jv3NISjWMsVj1fFAwGwllBXZfjuD4Jkw0KWkHQxV5QhDVIQqa-y5yMoQmvWxC4uU4eDjUtk4xM3Rf8DlJXqESjgeBwfZJ" caption="Billede fra [Dr. Wealth](https://www.drwealth.com/how-to-avoid-investor-baises-in-stock-picking/)" %}
 
 Mine øvrige porteføljer på Nordnet klarer sig hæderligt, selvom jeg er blevet straffet en del af min position i _emerging markets_. Jeg minder mig selv om, at jeg er langsigtet og at aktiemarkedet nok skal bevæge sig opad.
 

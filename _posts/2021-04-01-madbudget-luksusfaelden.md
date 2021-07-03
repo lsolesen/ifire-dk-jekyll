@@ -170,11 +170,6 @@ Der er også mange muligheder efterhånden for at handle online. Jeg har flere g
 
 Hvis du gerne vil have **de bedste tilbud**, når du handler, så er appen MineTilbud ret anvendeligt. Her kan du sammenligne alle tilbud fra tilbudsaviserne. Derved kan du for alvor sikre dig, at dit madbudget ikke ender i luksusfælden. I appen kan du også få en tilbudsagent, som kan holde øje med e produkter, du plejer at købe mest.
 
-{% comment %}
-
-[![](https://i0.wp.com/www.frinans.dk/wp-content/uploads/2020/07/Motato.jpg?resize=400%2C400&ssl=1)](https://www.frinans.dk/link/motatos)
-{% endcomment%}
-
 Et andet sted du kan finde nogle gode tilbud er på Motatos, som jeg ikke tror er så kendt i Danmark. Det er en onlinebutik, hvor du kan hjælpe med at mindske madspil i verden ved at købe glimrende varer af anden sortering. 
 
 ## Gode apps til madsbudgettet

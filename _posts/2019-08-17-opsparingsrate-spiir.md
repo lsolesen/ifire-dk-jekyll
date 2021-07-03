@@ -14,7 +14,7 @@ Hver måned så registrerer jeg min opsparingsrate. Jeg har registreret alle min
 
 Jeg registrerer min opsparingsrate, fordi den har stor betydning for tidspunktet for finansiel uafhængighed.
 
-![Billede fra Mr. Money Mustache](https://www.mrmoneymustache.com/wp-content/uploads/2012/01/years_to_retirement-900x367.png)
+{% include figure image_path="https://www.mrmoneymustache.com/wp-content/uploads/2012/01/years_to_retirement-900x367.png" caption="Billede fra Mr. Money Mustache" %}
 
 At tjene mere og forbruge mindre er de to første og vigtige punkter i rigdomsformlen. Det skaber bl.a. overskud til at kunne investere (klogere).
 
@@ -24,7 +24,7 @@ Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for hver måne
 
 Først har jeg lavet et regneark, hvor jeg kan taste mine værdier ind. Jeg har lavet regnearket i Google Sheets.
 
-![Fra Spiirs dashboard](/assets/images/spiir-opsparingsrate.png)
+{% include image_path="/assets/images/spiir-opsparingsrate.png" caption="Fra Spiirs dashboard" %}
 
 Indtægterne er ret lette at aflæse i Spiir. Dem indtaster jeg så bare i den rigtige kolonne i mit regneark.
 
