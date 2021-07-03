@@ -18,7 +18,7 @@ Lige nu er min samlede fordeling i investeringer og opsparing følgende:
 | Type                        | Start | Fordeling | XIRR   |
 |-----------------------------|-------|-----------|--------|
 | Investering i værdipapirer  | 2019  | 31,21%    | 1,70%  |
-| Crowd lending               | 2017  | 16,11%    | 7,11%  |
+| crowdlending               | 2017  | 16,11%    | 7,11%  |
 | Ejendomsinvestering         | 2018  | 7,26%     | -5,16% |
 | Investering i træ           | 2019  | 1,38%     | 0%     |
 | Kontant opsparing           | 2018  | 44,03%    | 0,54%  |
@@ -87,7 +87,7 @@ I alt har jeg i april tjent **528 kroner** på crowdlending. Derfra skal jeg tr�
 
 ## Opsparing og kontant
 
-Jeg har stadig en stor kontant andel efter sidste måneds salg af min samlede værdipapir-portefølje. Jeg har sat pengene ind på hhv. [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Men jeg har også besluttet mig for, hvor meget jeg vil gå ind i aktie- og obligationsmarkede med lige nu - og har således nogle uinvesterede kontanter hos [Nordnet](/go/nordnet/). Hovedparten forventer jeg at investere gennem månedsopsparingen.
+Jeg har stadig en stor kontant andel efter sidste måneds salg af min samlede værdipapir-portefølje. Jeg har sat pengene ind på hhv. [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Men jeg har også besluttet mig for, hvor meget jeg vil gå ind i aktie- og obligationsmarkede med lige nu - og har således nogle uinvesterede kontanter hos [Nordnet](/go/nordnet/). Hovedparten forventer jeg at [investere gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 {% include cta-redirect title="Lunar" class="success" %}
 

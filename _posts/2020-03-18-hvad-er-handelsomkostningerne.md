@@ -58,7 +58,7 @@ Her kan du se et eksempel på omkostninger på SparInvests Globale Aktier (SPVIG
 I det følgende forudsætter jeg, at du har oprettet en valutakonto på Nordnet, som du kan bruge til at handle i ETF’en med. En valutakonto giver dig den bedste pris på kursveksling. For at få den bedste pris gør du følgende. ([Husk selv at læse op på valutakonti hos Nordnet](https://www.nordnet.dk/faq/2350-hvad-bor-jeg-vide-om-valutaveksling?guideCategory=1480))
 
 | Dag 1 (Handelsdagen) | Du køber 181 ETF-beviser til fx kurs 44,138 EUR. Umiddelbart efter kan du se købet på din EUR-konto, at du skal betale 7.988,98 EUR |
-| Dag 2                | Under **Transaktioner og notarer** kan du se handelsnotaen. Du skal også betale kurtagen på 12 EUR, så EUR er i manko med 8.000,98 EUR. Du klikker på **Veksle alt**. |
+| Dag 2                | Under **Transaktioner og notaer** kan du se handelsnotaen. Du skal også betale kurtagen på 12 EUR, så EUR er i manko med 8.000,98 EUR. Du klikker på **Veksle alt**. |
 |                      | Næste gang Nordnet veksler valuta, køber de 8.000,98 EUR til dig. Du får dem fx til kurs 7,47 DKK. Vekslingen koster dig altså 59.791,80 DKK, som hæves fra din DKK-konto. På din EUR-konto står der nu 8.000,98 EUR |
 | Dag 3 (valørdagen)   | Nu trækkes betalingen for de indkøbte ETF’er fra din EUR-konto, så den går i 0 |
 
@@ -101,7 +101,7 @@ Når du køber værdipapirer, så bliver de noteret til en GA-kurs. GA-kursen in
 
 Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er. 
 
-Jeg køber hovedparten af mine værdipapirer gennem månedsopsparingen på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
+Jeg køber hovedparten af mine [værdipapirer gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
 
 {% include feature_row type="left" %}
 

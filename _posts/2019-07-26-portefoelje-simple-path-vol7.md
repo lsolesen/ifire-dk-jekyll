@@ -180,7 +180,7 @@ Jeg har siddet og [leget lidt med et regneark ift. omkostninger](https://docs.go
 
 <iframe style="width:60%; height: 450px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4PX-3-nzknSdq3HrJAOtluzQKDCkzjha_pjYYtQgMWDDByOHiIiP_LvHDd1ustXgYyvTKd7ea6YV/pubhtml?widget=true&amp;headers=false"></iframe>
 
-SparIndex’ SPIGLAMRIK og SPIEMIKL har samlet i en allokering på 90%/10% en årlig omkostning på 0,62%, hvilket er væsentligt højere end 0,40% STIIAM fra Storebrand. Fordelen ved SparIndex-fondene er at de kan købes gratis på Nordnets månedsopsparing.
+SparIndex’ SPIGLAMRIK og SPIEMIKL har samlet i en allokering på 90%/10% en årlig omkostning på 0,62%, hvilket er væsentligt højere end 0,40% STIIAM fra Storebrand. Fordelen ved SparIndex-fondene er at de kan [købes uden kurtage på på Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 Hvis vi har en årrække på 10 år, så er **forskellen mellem SparInvest og Storebrand** 3.161 DKK på en investering på 100.000 DKK med en forskel på 0,22% i omkostninger forudsat at afkastet er 4% pr. måned.
 

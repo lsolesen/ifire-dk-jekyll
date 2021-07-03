@@ -189,7 +189,7 @@ Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. 
 
 ## Bæredygtighed i Nordnets månedsopsparing
 
-Den eneste fond, jeg kunne finde i månedsopsparingen hos Nordnet, hvor bæredygtighed og ESG er fremtrædende er [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Det er egentlig lidt skuffende, men forhåbentlig vil de tilføje flere fonde i fremtiden.
+Den eneste fond, jeg kunne finde i [månedsopsparingen hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), hvor bæredygtighed og ESG er fremtrædende er [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Det er egentlig lidt skuffende, men forhåbentlig vil de tilføje flere fonde i fremtiden.
 
 ## Fremtidige investeringer i aktier, obligationer og bæredygtighed
 

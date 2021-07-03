@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/logo/etoro.png
   caption: *title
 category:
-  - Anmeldelser
+  - Investering
 tags:
   - investering
   - anmeldelse

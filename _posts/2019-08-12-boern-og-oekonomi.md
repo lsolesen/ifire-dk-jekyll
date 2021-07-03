@@ -2,7 +2,7 @@
 title: "Hvad skal mine børn lære om penge?"
 permalink: /boern-og-oekonomi/
 category:
-  - Børn
+  - Privatøkonomi
 tags:
   - børn
   - opdragelsee

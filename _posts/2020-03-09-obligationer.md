@@ -8,7 +8,6 @@ category:
   - Investering
 tags:
   - investering
-  - aktier
   - obligationer
 excerpt: "Obligationer kan være en del af en portefølje for at sikre mod deflation og give porteføljen lidt stabilitet - og typisk mindre risiko."
 classes: wide

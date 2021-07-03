@@ -3,7 +3,7 @@ title: "Hvordan betaler man i udlandet med betalingskort?"
 permalink: /betalinger-udlandet/
 last_modified_at: 2020-02-23T14:22:02+02:00
 category:
-  - Betalingskort
+  - Privatøkonomi
 tags:
   - betalingskort
   - udlandet

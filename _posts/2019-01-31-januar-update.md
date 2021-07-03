@@ -25,7 +25,7 @@ Jeg har altså sat mig for helt i tråd med rigdomsformularen at:
 
 **Forbruge mindre.** Jeg har installeret Spiir App’en på min telefon, og den har givet et godt overblik over, hvordan jeg bruger mine penge. Jeg har en fælles budget-konto til alle fælles udgifter med min bedre halvdel, så her får jeg et godt overblik til at starte med.
 
-**Investere (klogere).** Jeg har investeret en del år gennem min bank. For nylig blev jeg interesseret i _crowd lending_, da min arbejdsplads oprettede et lån gennem [Flexfunding](/platform/flexfunding/). Efterhånden læste jeg mere om det, og fandt andre platforme og andre måder at investere på. Jeg skal have efterset hele min måde at investere på.
+**Investere (klogere).** Jeg har investeret en del år gennem min bank. For nylig blev jeg interesseret i _crowdlending_, da min arbejdsplads oprettede et lån gennem [Flexfunding](/platform/flexfunding/). Efterhånden læste jeg mere om det, og fandt andre platforme og andre måder at investere på. Jeg skal have efterset hele min måde at investere på.
 
 ## Nuværende status
 
@@ -54,7 +54,7 @@ Min **aktie- og obligationsinvestering** i banken har ikke givet en tilfredsstil
 
 **Kapitalpensionen** har haft en negativ rente siden etableringen i 2001, og der bliver heller ikke tilført flere midler hertil. Banken skrev dog for nylig, om penge fra udbytter skulle reinvesteres. Jeg skal derfor have fundet ud af, om udbyttebeløbet skal tælles med, for så er den interne rente naturligvis lidt højere. Kapitalpensionen består kun af aktier i mit pengeinstitut, og jeg skal have fundet ud af, hvordan jeg kommer videre med denne investering. Kapitalpensionen var også investeret i bankens puljer.
 
-**Flexfunding** har givet en fornuftig intern rente i perioden, og jeg vil helt sikkert afsøge mulighederne inden for _crowd lending_ yderligere og gøre det til en lidt større del af min portefølje.
+**Flexfunding** har givet en fornuftig intern rente i perioden, og jeg vil helt sikkert afsøge mulighederne inden for _crowdlending_ yderligere og gøre det til en lidt større del af min portefølje.
 
 {% include crowdlending-warning.html %}
 

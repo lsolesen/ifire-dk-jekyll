@@ -41,7 +41,7 @@ Når du er ung, kan du operere med en lang investeringshorisont. Det burde være
 
 Hvis fx du kan investere 500 kroner om måneden i 30 år, så vil du om 30 år have 348.681 kroner, hvoraf de 168.181 kroner vil være tjent udelukkende i renter med 4% i rente. Det er da en passiv investering, der er til at forstå.
 
-Mange banker har mere eller mindre automatiske robotinvesteringsprodukter (fx [Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }), hvor du kan sætte en smule ind hver måned. Du kan også oprette en månedsopsparing på [Nordnet](/go/nordnet/). Vælg et investeringsprodukt, hvor de årlige omkostninger i procent (ÅOP) er minimale. Der er mange gode passive investeringsformer, hvor du kan få ÅOP under 1% (og helt ned til 0,07% for nogle ETF'er).
+Mange banker har mere eller mindre automatiske robotinvesteringsprodukter (fx [Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }), hvor du kan sætte en smule ind hver måned. Du kan også oprette en [månedsopsparing på Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Vælg et investeringsprodukt, hvor de årlige omkostninger i procent (ÅOP) er minimale. Der er mange gode passive investeringsformer, hvor du kan få ÅOP under 1% (og helt ned til 0,07% for nogle ETF'er).
 
 Hvis du kun investerer de penge, du ellers ville have brugt på ligegyldigt forbrug, så kan du lade pengene stå i investeringen for evigt.
 

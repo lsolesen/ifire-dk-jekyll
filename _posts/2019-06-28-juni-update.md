@@ -22,7 +22,7 @@ Det var også i juni, at jeg fik årsregnskabet færdigt for min (snart tidliger
 | Type                        | Start | Fordeling | XIRR    |
 |-----------------------------|-------|-----------|---------|
 | Investering i værdipapirer  | 2019  | 59,62%    | 1,14%   |
-| Crowd lending               | 2017  | 17,97%    | 6,86%   |
+| Crowdlending                | 2017  | 17,97%    | 6,86%   |
 | Ejendomsinvestering         | 2018  | 6,57%     | 0,79%   |
 | Investering i træ           | 2019  | 1,25%     | 0%      |
 | Kryptovaluta                | 2019  | 1,12%     | ?       |
@@ -72,7 +72,7 @@ Samlet giver mine værdipapirinvesteringer lige nu **1,14%** i intern rente, hvi
 
 {% include crowdlending-warning.html %}
 
-Nu kommer jeg heldigvis snart tættere på, at de enkelte platforme viser sit sande potentiale ift. _intern rente_. Det tager nemlig for en del platforme [mindst fire måneder, inden den interne rente for alvor begynder at nå de højder](/investering/hvornaar-crowdlending/), man havde håbet på.
+Nu kommer jeg heldigvis snart tættere på, at de enkelte platforme viser sit sande potentiale ift. _intern rente_. Det tager nemlig for en del platforme [mindst fire måneder, inden den interne rente for alvor begynder at nå de højder](/begynderguide-crowdlending/), man havde håbet på.
 
 Jeg troede egentlig i maj, at jeg havde nået grænsen for, hvor mange platforme, jeg skulle være repræsenteret på, men så endte jeg alligevel med at finde et par nye platforme. Jeg faldt over to platforme, hvor man særligt kunne investere i udviklingslande. Jeg har derfor udvidet porteføljen med <del>[Agrikaab](/platform/agrikaab/) og</del> [Lendahand](/go/lendahand/){: rel='sponsored nofollow noopener' }. Platformene giver et begrænset renteafkast, men supplerer [Trine](/go/trine/){: rel='sponsored nofollow noopener' } i mine bæredygtige og sociale crowdlending investeringer.
 

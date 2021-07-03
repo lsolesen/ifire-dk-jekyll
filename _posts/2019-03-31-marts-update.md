@@ -22,7 +22,7 @@ Lige nu er min samlede fordeling:
 | Type                        | Start | Fordeling | XIRR  |
 |-----------------------------|-------|-----------|-------|
 | Investering i værdipapirer  | 2019  | 8,09%     | 2,80% |
-| Crowd lending               | 2017  | 11,50%    | 5,53% |
+| crowdlending               | 2017  | 11,50%    | 5,53% |
 | Ejendomsinvestering         | 2018  | 1,63%     | 0%    |
 | Investering i træ           | 2019  | 0,11%     | 0%    |
 | Kontant opsparing           | 2018  | 78,66%    | 0,7%  |
@@ -51,7 +51,7 @@ Jeg har købt lidt [Danske Bank](https://www.morningstar.com/stocks/XCSE/DANSKE/
 
 Salget af ovenstående betyder også, at jeg lige nu har en rigtig stor andel af mine midler i kontant opsparing, som du se i tabellen ovenfor. Du kan også se den [opdaterede status på min portefølje](/portfolio/).
 
-Jeg har flyttet lidt penge til [Nord.investments](/go/nord/){: rel='sponsored nofollow noopener'} og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at sammensætte min månedsopsparing hos [Nordnet](/go/nordnet/).
+Jeg har flyttet lidt penge til [Nord.investments](/go/nord/){: rel='sponsored nofollow noopener'} og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at [sammensætte min månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 [Få en gratis investeringsplan fra Nord.investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
@@ -71,7 +71,7 @@ Jeg ville gerne øge min investeringsandel i ejendomme, men jeg har ingen intere
 
 Det har jeg suppleret med [Housers](/go/housers/){: rel='sponsored nofollow noopener' }, [Crowdestate](/go/crowdestate/){: rel='sponsored nofollow noopener' }, [PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' }. Hos PropertyPartner har jeg valgt en _auto invest_-strategi, og det har jeg også oprettet på Crowdestate. Det er ikke muligt på hverken Housers eller Reinvest24, som kræver lidt mere vedligeholdelse. Fælles for alle platformene er, at man skal holde rimeligt øje med dem.
 
-Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investeringer i _crowd lending_-platformene lige nu. I mine overvejelser om, hvordan jeg nøjagtigt skal skrue det hele sammen i fremtiden, så kommer det til at betyde noget, hvilket land platformen er placeret i, hvor mange låneudbydere der er på platformen, og om der er mulighed for at autoinvestere midlerne. Desuden kommer det også til at betyde noget, hvor meget det er muligt at sprede sig ud på forskellige lån på platformen.
+Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investeringer i _crowdlending_-platformene lige nu. I mine overvejelser om, hvordan jeg nøjagtigt skal skrue det hele sammen i fremtiden, så kommer det til at betyde noget, hvilket land platformen er placeret i, hvor mange låneudbydere der er på platformen, og om der er mulighed for at autoinvestere midlerne. Desuden kommer det også til at betyde noget, hvor meget det er muligt at sprede sig ud på forskellige lån på platformen.
 
 | Platform                                       | Låneudbydere | Auto | Mine lån |
 |------------------------------------------------|--------------|------|----------|

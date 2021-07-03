@@ -6,10 +6,12 @@ header:
   overlay_image: /assets/images/bullionvault.jpg
   teaser: /assets/images/logo/bullionvault.png
 category:
-  - Anmeldelser
+  - Investering
 tags:
   - opsparing
   - guld
+  - anmeldelse
+  - metaller
 excerpt: "Hos BullionVault kan du købe guld som de professionelle, men helt ned til 1 gram ad gangen - og få guldet opbevaret til rimelige priser"
 ---
 

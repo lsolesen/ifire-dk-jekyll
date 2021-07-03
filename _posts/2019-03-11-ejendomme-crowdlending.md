@@ -21,7 +21,7 @@ Når man læser om mulighederne for at skabe _passiv indkomst_, så kommer ejend
 
 [Historisk set](https://finans.dk/privatokonomi/ECE10175690/forskere-den-bedste-langsigtede-investering-er-ikke-aktier/) har ejendoms- og boliginvestering vist sig at være en god investering (og justeret for risiko bedre en aktier). Samtidig kan ejendomsinvesteringer være med til at sprede din risiko for de penge, du investerer.
 
-Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det virkelig smart, at man nu kan være med på ejendomsmarkedet på en mere passiv måde gennem crowdfunding. Jeg har allerede investeret en del penge i det gennem følgende _crowd lending_ platforme til boligmarkedet. Alle er rigtig lette at bruge.
+Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det virkelig smart, at man nu kan være med på ejendomsmarkedet på en mere passiv måde gennem crowdfunding. Jeg har allerede investeret en del penge i det gennem følgende _crowdlending_ platforme til boligmarkedet. Alle er rigtig lette at bruge.
 
 ## Fordele ved crowdfunded ejendomsinvestering
 
@@ -76,7 +76,7 @@ Lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfu
 
 ## Skal du også investere i ejendomme?
 
-Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowd lending_.
+Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowdlending_.
 
 Skal du også have fat i ejendomsmarkedet for at sprede dine investeringer - og hvad er din strategi?
 

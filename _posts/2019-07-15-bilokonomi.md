@@ -2,7 +2,7 @@
 title: "Biløkonomi - hvordan finder man ud af, hvornår bilen skal skiftes?"
 permalink: /bilokonomi/
 category:
-  - Biløkonomi
+  - Privatøkonomi
 tags:
   - biløkonomi
 excerpt: "Vores bil har efterhånden gjort det godt, men hvordan finder man ud af, hvornår det er er tid til at skifte?"

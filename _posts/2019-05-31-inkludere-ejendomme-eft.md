@@ -14,7 +14,7 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem Crowdlending](/ejendomme-crowdlending/), fordi jeg ikke ser mig selv som boligejer, der skal til at leje min bolig ud - ud over på [AirBNB](/go/airbnb/){: rel='sponsored nofollow noopener' }. I stedet satser jeg på _crowd lending_ og værdipapirer. Her beskriver jeg kort, hvilke værdipapirer jeg er mest interesseret i i øjeblikket.
+Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem Crowdlending](/ejendomme-crowdlending/), fordi jeg ikke ser mig selv som boligejer, der skal til at leje min bolig ud - ud over på [AirBNB](/go/airbnb/){: rel='sponsored nofollow noopener' }. I stedet satser jeg på _crowdlending_ og værdipapirer. Her beskriver jeg kort, hvilke værdipapirer jeg er mest interesseret i i øjeblikket.
 
 ## REIT-aktier
 
@@ -42,7 +42,7 @@ Af investeringsdforeninger i Danmark er jeg kun stødt ind i en, men jeg synes d
 
 ## EFT'er
 
-Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på månedsopsparingen. Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
+Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
 
 | Tick | Værdipapir                                                                                                                                   | ÅOP   | Morningstar rating                       | Bæredygtighed                            |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|

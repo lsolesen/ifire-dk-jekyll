@@ -8,7 +8,6 @@ header:
   caption: Photo by Paweł Czerwiński on Unsplash
 category:
   - Investering
-  - Opsparing
 tags:
   - investering
   - opsparing

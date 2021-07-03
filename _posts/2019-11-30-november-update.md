@@ -40,7 +40,7 @@ Min samlede _net worth_ er stigende, hvilket er ret motiverende.
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|
 | Investering i værdipapirer  | 2019  | 51%       |
-| Crowd lending               | 2017  | 25%       |
+| crowdlending               | 2017  | 25%       |
 | Ejendomsinvestering         | 2019  | 8%        |
 | Investering i træ           | 2019  | 1%        |
 | Kryptovaluta                | 2019  | 1%        |

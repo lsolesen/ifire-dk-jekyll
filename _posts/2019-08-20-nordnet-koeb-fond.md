@@ -75,6 +75,6 @@ Hvis du vil lave en øjeblikkelig handel, så skal du sætte en pris der matcher
 
 Ordredybden viser også, at sælgere vil sælge til 85,94, mens købere lige nu vil give 85,50. Du kan også lægge dig lidt ned i ordredybden med en lavere pris, men så risikerer du, at du ikke får handlet i dag.
 
-Jeg bruger selv månedsopsparingen på Nordnet. Læs om hvordan du kommer i gang med [Nordnets månedsopsparing og de problemer, den kan give](/nordnet-maanedsopsparing-problemer/).
+Jeg bruger selv månedsopsparingen på Nordnet. Læs om hvordan du kommer i gang med [Nordnets månedsopsparing og de problemer, den kan give]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 {% include disclaimer.md %}

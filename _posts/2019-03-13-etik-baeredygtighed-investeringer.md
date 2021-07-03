@@ -42,7 +42,7 @@ Lige nu investerer jeg kun i en platform, som decideret slår sig op på at vær
 
 På danske [Flexfunding](/platform/flexfunding/) vælger man selv, hvilke projekter man gerne vil yde et lån, og der kan jeg jo opstille kriterier om etik og bæredygtighed. Men det kan også godt tage lang tid at skulle sætte sig ind i alle virksomhederne - og hvis det bliver et højtvægtet kriterium, så kan det være vanskeligt at finde nok lån til at skabe en alsidig låneportefølje på FlexFunding. Nogle af de andre platforme giver også mulighed for at investere i præcise projekter, hvor du kan tage dine egne beslutninger om, hvad du sætte dine penge i.
 
-Den største Europæiske platform, [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, er en rigtig god platform, hvis man gerne vil have et fornuftigt afkast, effektiv _auto invest_, høj diversificering, hvilket betyder meget på en _crowd lending_-platform for mig. Det har de bl.a. fordi de har rigtig mange låneudbydere. Hvordan kan jeg finde de etiske og bæredygtige argumenter for alle låneudbyderne og samtidig ikke bruge al min tid på det.
+Den største Europæiske platform, [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, er en rigtig god platform, hvis man gerne vil have et fornuftigt afkast, effektiv _auto invest_, høj diversificering, hvilket betyder meget på en _crowdlending_-platform for mig. Det har de bl.a. fordi de har rigtig mange låneudbydere. Hvordan kan jeg finde de etiske og bæredygtige argumenter for alle låneudbyderne og samtidig ikke bruge al min tid på det.
 
 Mine **investeringer i ejendomme og ejendomsudvikling** er alle gennem crowdlending, så her kan jeg også selv vælge de bæredygtige alternativer. Indtil nu synes jeg dog ikke at det har stået så tydeligt i de projekter, jeg har investeret i.
 
@@ -50,7 +50,7 @@ Jeg er stadig lidt i tvivl om, hvordan jeg skal gribe opgaven an med mine crowdl
 
 ## Deciderede etisk og bæredygtige investeringer
 
-Dette vil formentlig ofte være i familie med _crowd lending_ på den ene eller anden måde, men jeg leder med lys og lygte efter relevante bæredygtige investeringer. Som skrevet har jeg allerede smidt lidt penge efter træer hos [Better Globe](/go/betterglobe/){: rel='sponsored nofollow noopener' }, men hvor sætter I andre jeres etiske og bæredygtige investeringer, så I stadig har et fint afkast på vej mod **finansiel uafhængighed**, men også gør verden til et bedre sted?
+Dette vil formentlig ofte være i familie med _crowdlending_ på den ene eller anden måde, men jeg leder med lys og lygte efter relevante bæredygtige investeringer. Som skrevet har jeg allerede smidt lidt penge efter træer hos [Better Globe](/go/betterglobe/){: rel='sponsored nofollow noopener' }, men hvor sætter I andre jeres etiske og bæredygtige investeringer, så I stadig har et fint afkast på vej mod **finansiel uafhængighed**, men også gør verden til et bedre sted?
 
 [Bliv inspireret til bæredygtighed med Sustain Daily](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60256){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
 

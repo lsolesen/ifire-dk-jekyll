@@ -3,7 +3,7 @@ layout: single
 title: "Billigt bredbånd og internet i huset"
 permalink: /internet-huset/
 category:
-  - Internet
+  - Spar penge
 tags:
   - bredbånd
   - wifi

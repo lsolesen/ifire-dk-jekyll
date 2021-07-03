@@ -3,13 +3,13 @@ title: "Tjen kryptovaluta samtidig med at du bliver klogere"
 permalink: /coinbase-earn/
 category:
   - Kryptovaluta
-  - Tjen penge
 header:
   overlay_image: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   caption: Photo by Clifford Photography on Unsplash
 tags:
   - kryptovaluta
+  - tjen penge
 excerpt: "Coinbase har lavet en række kurser, hvor du kan tjene kryptovaluta på at gennemføre dem. Det er gode professionelle kurser."
 ---
 

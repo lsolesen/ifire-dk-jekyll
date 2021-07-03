@@ -18,7 +18,7 @@ Lige nu er min samlede fordeling i investeringer og opsparing følgende:
 | Type                        | Start | Fordeling | XIRR    |
 |-----------------------------|-------|-----------|---------|
 | Investering i værdipapirer  | 2019  | 56,83%    | -15,77% |
-| Crowd lending               | 2017  | 19,99%    | 6,98%   |
+| crowdlending               | 2017  | 19,99%    | 6,98%   |
 | Ejendomsinvestering         | 2018  | 7,16%     | 0,58%   |
 | Investering i træ           | 2019  | 1,36%     | 0%      |
 | Kryptovaluta                | 2019  | 0,5%      | ?       |

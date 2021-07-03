@@ -2,7 +2,7 @@
 title: "Hvilken konto skal jeg vælge?"
 permalink: /hvilken-konto/
 category:
-  - Organisering
+  - Privatøkonomi
 tags:
   - rente
   - konto

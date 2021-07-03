@@ -29,7 +29,7 @@ Det første jeg gik i gang med var at regne efter, hvad de årlige omkostninger 
 
 Jeg har sendt udregningerne til banken og overvejer lige nu, hvordan jeg kommer videre med min investering i aktier og obligationer. Den endelige beslutning tager jeg, når de har givet deres besyv med.
 
-Jeg har sendt lidt prøveballoner op ift. Darwin og NORD.investments, som er automatiske investeringsrobotter. Desuden er jeg i øjeblikket meget interesseret i Nordnet - og deres månedsopsparing, som har meget lave omkostninger, men stadig kan fungere som investeringer mere eller mindre på _auto-pilot_.
+Jeg har sendt lidt prøveballoner op ift. Darwin og NORD.investments, som er automatiske investeringsrobotter. Desuden er jeg i øjeblikket meget interesseret i Nordnet - og deres [månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), som har meget lave omkostninger, men stadig kan fungere som investeringer mere eller mindre på _auto-pilot_.
 
 Jeg har således sat et meget lille beløb ind på Darwin App, som samarbejder med min bank, bare for at se, hvordan det fungerer.
 
@@ -37,9 +37,9 @@ Jeg har således sat et meget lille beløb ind på Darwin App, som samarbejder m
 
 {% include crowdlending-warning.html %}
 
-I løbet af februar er jeg gået massivt ind i _crowd lending.
+I løbet af februar er jeg gået massivt ind i _crowdlending_.
 
-Jeg lavede først den fejl, at jeg lavede overførsler fra min bank direkte til _crowd lending_ platformene. Men der skal jeg betale et ret stort beløb hver gang for selve overførslen, og de veksler til Euro med en lidt dårligere kurs end markedsprisen.
+Jeg lavede først den fejl, at jeg lavede overførsler fra min bank direkte til _crowdlending_ platformene. Men der skal jeg betale et ret stort beløb hver gang for selve overførslen, og de veksler til Euro med en lidt dårligere kurs end markedsprisen.
 
 Derfor skulle jeg have en måde, hvor jeg kunne komme uden om dette. Der er to ret udbredte måder at lave internationale overførsler på. Jeg kan godt lide [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }. Her kan du overføre penge i DKK og i App’en på telefonen veksle til Euro til bankernes kurs så længe du gør det i _banking hours_. Du får også et betalingskort, hvor det er gratis at betale udlandet, hvilket jo også er værd at tage med.
 
@@ -54,9 +54,9 @@ Jeg har oprettet mig selv på en række nye forskellige _crowd funding_ platform
 - [Bondora (EUR)](/go/bondora/){: rel='sponsored nofollow noopener' }. Jeg bruger Bondora Grow&Go, som giver omkring 6,5% i rente. Det er en fast rente, og jeg kan komme ud af lånet fra den ene dag til den anden, så egentlig kan det forstås som en _opsparing_.
 - [ReInvest24 (EUR)](/go/reinvest24/){: rel='sponsored nofollow noopener' }. Jeg ville gerne have lidt _ejendomme_ ind i porteføljen, men jeg vil ikke i gang med at udleje boliger. Derfor var det en relativt let måde at komme med på ejendomsbølgen.
 
-Med _crowd lending_ skal du lige være opmærksom på skattereglerne. Da de alle er udenlandske selskaber, så skal du selv manuelt indberette skat. Derfor vil det reelle indtjening også være lavere end de renter, der opgives på de enkelte sider.
+Med _crowdlending_ skal du lige være opmærksom på skattereglerne. Da de alle er udenlandske selskaber, så skal du selv manuelt indberette skat. Derfor vil det reelle indtjening også være lavere end de renter, der opgives på de enkelte sider.
 
-Jeg glæder mig i hvert fald til at se, hvordan min øgede investering i _crowd lending_ kommer til at præstere i løbet af de næste måneder.
+Jeg glæder mig i hvert fald til at se, hvordan min øgede investering i _crowdlending_ kommer til at præstere i løbet af de næste måneder.
 
 \* Ovenstående har referral links, som vi begge typisk får noget ud af, hvis du klikker på dem. Jeg investerer selv et pænt beløb på de platforme, jeg har præsenteret - og hvis jeg har dårlige oplevelser med dem, så skal jeg nok rapportere dem her på siden. Jeg har endnu ikke trukket penge ud af platformene, men vil lave en opdatering, når jeg gør det for at fortælle hvor nemt det er, og hvordan det foregår.
 
@@ -72,7 +72,7 @@ Min nuværende fordeling i _crowd funding_ ser nu sådan her ud:
 | [ReInvest24 (EUR)](/go/reinvest24/){: rel='nofollow noopener' }   | En       | Nej  | 2   | 3%    |
 | [Bondora (EUR)](/go/bondora/){: rel='nofollow noopener' }         | Flere    | Ja   | -   | 1%    |
 
-Mit mål ift. næste måned er at udvide porteføljen af crowd lending, men også at balancere porteføljen lidt mere, så jeg på den enkelte platform kan komme tættere på 100 lån, hvis det kan lade sig gøre ift. Platformens opbygning.
+Mit mål ift. næste måned er at udvide porteføljen af crowdlending, men også at balancere porteføljen lidt mere, så jeg på den enkelte platform kan komme tættere på 100 lån, hvis det kan lade sig gøre ift. Platformens opbygning.
 
 Jeg vil også den næste måned bruge lidt tid på, at analysere om låneudbyderen ejer platformen selv, eller platformen har flere låneudbydere.
 
@@ -81,16 +81,16 @@ Jeg vil også den næste måned bruge lidt tid på, at analysere om låneudbyder
 | Type                | Start | Fordeling | XIRR  |
 |-|-|-|-|
 | Investering i Bank  | 2013  | 89,68%    | 2,80% |
-| Crowd lending       | 2017  | 9,93%     | 2,29% |
+| crowdlending       | 2017  | 9,93%     | 2,29% |
 | Ejendomsinvestering | 2018  | 0,11%     | 6,66% |
 
-Den interne rente på _crowd lending_ er faldet, fordi jeg har tilføjet en masse nye udbydere til mit portfolio - og de færreste af dem har fået tilbagebetaling på lånene endnu. Det bliver sjovt at se, hvordan det går i næste måned.
+Den interne rente på _crowdlending_ er faldet, fordi jeg har tilføjet en masse nye udbydere til mit portfolio - og de færreste af dem har fået tilbagebetaling på lånene endnu. Det bliver sjovt at se, hvordan det går i næste måned.
 
 Ejendomsinvesteringerne er [ReInvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' }, som er mit første forsøg med at lave crowdlending på ejendomsmarkedet.
 
 ## Spørgsmål
 
-- Hvordan skal min nøjagtige portefølje se ud - hvor meget skal være i investeringer, crowd lending, andre typer investeringer og opsparing?
+- Hvordan skal min nøjagtige portefølje se ud - hvor meget skal være i investeringer, crowdlending, andre typer investeringer og opsparing?
 - Hvad skal min samlede strategi være?
 - Skal ejendomme være en del af porteføljen?
 

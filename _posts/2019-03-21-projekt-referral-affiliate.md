@@ -52,7 +52,7 @@ Jeg opretter et nyt website, hvor jeg vil dokumentere min rejse mod at blive **f
 
 At tjene penge på dette er jo et knivsæg, så jeg har opstillet følgende regler for mig selv.
 
-- I _crowd lending_ og andre finansielle platforme vil jeg selv have penge i platformene, hvis jeg anbefaler dem, og jeg skal kunne argumentere i månedlige opdateringer, hvorfor de er en del af porteføljen.
+- I _crowdlending_ og andre finansielle platforme vil jeg selv have penge i platformene, hvis jeg anbefaler dem, og jeg skal kunne argumentere i månedlige opdateringer, hvorfor de er en del af porteføljen.
 - Affiliate links kan lægges ind i artikler for at vise nogle muligheder, men det skal stå klart, at der også er andre muligheder - og hvis de øvrige muligheder er bedst skal de fremhæves.
 - Affiliate links skal være klart markeret på siderne (*), og der skal være en forklaring, at der på siden er affiliate links.
 

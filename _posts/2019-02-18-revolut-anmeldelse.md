@@ -51,7 +51,7 @@ I Revolut veksler du til **interbank rate (CIBOR)**. Det er altså den vekselkur
 
 ## Bankoverførsler i andre valutaer
 
-Hvis man vil ind i _crowd lending_ eller andre investeringer, hvor man skal overføre til udenlandske banker er der altså en del at spare, fordi du slipper for vekselgebyrer og udenlandske overførselsgebyrerer hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }. Det er let at sætte op i appen, hvor du bare tilføjer bankerne som _beneficiary_.
+Hvis man vil ind i _crowdlending_ eller andre investeringer, hvor man skal overføre til udenlandske banker er der altså en del at spare, fordi du slipper for vekselgebyrer og udenlandske overførselsgebyrerer hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }. Det er let at sætte op i appen, hvor du bare tilføjer bankerne som _beneficiary_.
 
 ## Kort og konti
 
@@ -66,13 +66,13 @@ Der er masser af fine sikkerhedsforanstaltninger i appen. Du kan _freeze_ kortet
 
 Kontoen er **debet**, så den kan ikke gå i minus, hvilket jo også er en sikkerhedsmæssig fordel.
 
-## Revolut, crowd lending og investering
+## Revolut, crowdlending og investering
 
-Jeg bruger Revolut til at overføre penge til de udenlandske _crowd lending_-platforme. Det gør du på følgende måde:
+Jeg bruger Revolut til at overføre penge til de udenlandske _crowdlending_-platforme. Det gør du på følgende måde:
 
 - **Overfør DKK til din Revolut-konto.** Tjek op på, hvordan du kan overføre pengene til Revolut. Måske kan din bank lave en gratis overførsel, når det er i kroner (min bank tager penge for det), eller bruge Top-up-funktionen.
 - **Veksl til Euro**. I appen veksler du pengene til Euro (husk at gøre det på hverdage mellem 8-16 - _banking hours_).
-- **Overfør pengene til crowd lending platformen**. 
+- **Overfør pengene til crowdlending platformen**. 
 - **Udbetal til Revolut.** Her finder du IBAN-nummeret i Revolut appen.
 
 Så har du **sparet** alle gebyrerne. Husk dog, at du Revolut Basis kun kan veksle 6000 EUR om måneden. Hvis du vil veksle mere, så skal du altså opgradere til enten _Premium_ eller _Metal_, men så skal du betale månedsgebyr. Så jeg holder mig personligt under den grænse.
@@ -81,7 +81,7 @@ Så har du **sparet** alle gebyrerne. Husk dog, at du Revolut Basis kun kan veks
 
 Hvis du sommetider er i udlandet, så har du allerede sparet ved at få et [Revolut](/go/revolut/){: rel='sponsored nofollow noopener'}-kort, da danske banker ofte tager 30-50 kroner i hævegebyr plus omkring 2% af det hævede beløb plus lidt fortjeneste på valutavekslingen. 
 
-Desuden fungerer det virkelig godt til at lave de udenlandske overførsler til _crowd lending_ platformene.
+Desuden fungerer det virkelig godt til at lave de udenlandske overførsler til _crowdlending_ platformene.
 
 [Få gratis betalingskort og konto hos Revolut](/go/revolut/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 

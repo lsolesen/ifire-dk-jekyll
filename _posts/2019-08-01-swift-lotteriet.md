@@ -2,7 +2,7 @@
 title: "Lotteriet om gebyrer på SWIFT-overførsler"
 permalink: /swift-lotteriet/
 category:
-  - Problemer
+  - Privatøkonomi
 tags:
   - problemer
 excerpt: "Gebyrer for Swift bankoverførsler er et uigennemskueligt system - og man kan ikke finde ud af, hvem der tager det."

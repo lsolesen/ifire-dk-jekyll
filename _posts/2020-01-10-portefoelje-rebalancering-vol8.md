@@ -3,7 +3,7 @@ title: "Rebalancering af værdipapirporteføljen #8"
 last_modified_at: 2020-02-28T09:20:02+02:00
 permalink: /investering-vol8/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier

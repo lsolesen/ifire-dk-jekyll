@@ -32,7 +32,7 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg bruger [Nordnets](/go/nordnet/) månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
+Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
 
 Men Nordnets månedsopsparing er også meget populær, hvilket potentielt giver nogle problemer.
 
@@ -90,7 +90,7 @@ Hvis du gerne vil investere i passive indekser ligesom jeg gør, så kan du se, 
 
 Nordnets månedsopsparing købte Sparinvest til uforholdsmæssige høj kurs ift. dagsprisen. Er månedsopsparingen og Sparinvest blevet for populær?
 
-Måske er [Nordnets](/go/nordnet/) månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del date="2019-05-06T09:16:18+02:00">Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del><ins date="2019-05-06T09:16:18+02:00">Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
+Måske er Nordnets månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del date="2019-05-06T09:16:18+02:00">Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del><ins date="2019-05-06T09:16:18+02:00">Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
 
 **Update 29. april 2019**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
 {: .notice--success}

@@ -10,11 +10,11 @@ header:
   caption: Photo by Benjamin Wong on Unsplash
 category:
   - Investering
-  - Opsparing
 tags:
   - investering
   - opsparing
   - guld
+  - metaller
 excerpt: "Hvad er guld - og hvordan investerer du i det?"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781471148613/0x500

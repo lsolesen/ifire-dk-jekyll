@@ -49,7 +49,7 @@ I løbet af juli er jeg blevet interesseret i følgende:
 | Type                        | Start | Fordeling | XIRR    |
 |-----------------------------|-------|-----------|---------|
 | Investering i værdipapirer  | 2019  | 60%       | 4,19%   |
-| Crowd lending               | 2017  | 20%       | 7,32%   |
+| crowdlending               | 2017  | 20%       | 7,32%   |
 | Ejendomsinvestering         | 2018  | 8%        | 2,08%   |
 | Investering i træ           | 2019  | 1%        | 0%      |
 | Kryptovaluta                | 2019  | 1%        | ?       |
@@ -95,7 +95,7 @@ Ellers er jeg stadig ret aktiv på alle platforme. Jeg har trukket nogle penge u
 
 ### Hvornår begynder man at tjene på crowdlending
 
-For et stykke tid siden stillede jeg spørgsmålet: ["Hvornår begynder man at tjene penge på crowdlending?"](/investering/hvornaar-crowdlending/)
+For et stykke tid siden stillede jeg spørgsmålet: ["Hvornår begynder man at tjene penge på crowdlending?"](/begynderguide-crowdlending/)
 
 Den almindelige crowdlending er platformenes interne rente ved at stabilisere sig for de flestes vedkommende efter fire-fem måneder:
 

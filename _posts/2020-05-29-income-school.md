@@ -2,7 +2,7 @@
 title: "Kan jeg tjene penge på at blogge? Income School skaber retning"
 permalink: /tjene-penge-blogge/
 category:
-  - Opdateringer
+  - Passiv indkomst
 tags:
   - passiv indkomst
   - blogging

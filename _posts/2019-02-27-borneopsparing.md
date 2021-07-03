@@ -147,11 +147,7 @@ Alle pengene på dette depot er gaver, som jeg har flyttet over på depotet fra 
 
 Det er imidlertid kun kapitalindkomst, der kan kan trækkes fra på frikortet. Jeg har altså brug for nogle **fonde, der beskattes som kapitalindkomst** på et almindeligt aktiedepot med frie midler.
 
-Her kan du vælge ETF'er, der ikke er på Skats positivliste. Hvis først ETF'er med aktieindhold kommer på Skats positivliste bliver de nemlig beskattet som aktieindkomst. Det betyder, at barnet bliver beskattet af indkomsten.
-
-Jeg foretrækker også, at fondene er akkumulerende, så jeg ikke skal bruge penge på at geninvestere udbytter. Hvis du bruger Nordnets månedsopsparing, så betyder det ikke så meget. Men jeg har ikke kunnet finde nogle fonde eller ETF'er, der beskattes som kapitalindkomst på månedsopsparingen.
-
-Nordnet har selv nogle internationale indeksfonde, som er akkumulerende og beskattes som kapitalindkomst. En fordel ved fondene er, at der ingen handelsomkostninger i form af kurtage eller vekselomkostninger er ved at købe eller sælge fondene. Fondene kan også købes for helt ned til 100 kroner og de er en del af månedsopsparingen, så du kan udnytte _dollar cost averaging_. Nordnets fonde har rimelige årlige omkostninger (ÅOP) på 0,30%.
+Jeg foretrækker også, at fondene er akkumulerende, så jeg ikke skal bruge penge på at geninvestere udbytter. Hvis du bruger [månedsopsparingen hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), så betyder det ikke så meget. Men jeg har ikke kunnet finde nogle fonde eller ETF'er, der beskattes som kapitalindkomst på månedsopsparingen.
 
 Du kan selv lege med en fordeling mellem fx den globale fond og emerging markets for at ramme verdensindekset så bredt som muligt.
 

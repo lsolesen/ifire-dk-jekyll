@@ -9,7 +9,7 @@ category:
 tags:
   - crowdlending
   - anmeldelse
-excerpt: "Anmeldelse af crowd lending platformen Join Trine, der er særligt målrettet mod bæredygtige projekter."
+excerpt: "Anmeldelse af crowdlending platformen Join Trine, der er særligt målrettet mod bæredygtige projekter."
 ---
 
 {% include disclosure.html %}

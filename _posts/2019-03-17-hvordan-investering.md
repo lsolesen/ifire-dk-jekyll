@@ -105,7 +105,7 @@ Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verd
 
 ### Automatisering af investering
 
- Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets](/go/nordnet/) månedsopsparing. Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
+ Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
 
 ### Aktiesparekonto, månedopsparing og større værdidepot
 

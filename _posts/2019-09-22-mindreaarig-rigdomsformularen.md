@@ -34,7 +34,7 @@ De procentvise omkostninger til kurtage falder naturligvis, hvis han vælger at 
 
 ### Omkostninger på månedsopsparingen
 
-På Nordnet kan han også bruge månedsopsparingen, som naturligvis er kurtagefri, men hvor han skal vælge mellem investeringsfonde med forskellige årlige omkostninger i procent (ÅOP). Jeg har foreslået ham at kigge på følgende _passive_ fonde. Da han har sit eget depot, og det er en gave fra mig, så bliver han beskattet på sit eget frikort. Derfor betyder det ikke så meget, om det er en dansk fond, der beskattes som aktieindkomst, eller en udenlandsk ETF, der beskattes som kapitalindkomst.
+På Nordnet kan han også bruge [deres månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), som naturligvis er kurtagefri, men hvor han skal vælge mellem investeringsfonde med forskellige årlige omkostninger i procent (ÅOP). Jeg har foreslået ham at kigge på følgende _passive_ fonde. Da han har sit eget depot, og det er en gave fra mig, så bliver han beskattet på sit eget frikort. Derfor betyder det ikke så meget, om det er en dansk fond, der beskattes som aktieindkomst, eller en udenlandsk ETF, der beskattes som kapitalindkomst.
 
 | Ticker     | Værdipapir                                                                                                                           | ÅOP   | Morningstar rating                       | Bæredygtighed                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|
