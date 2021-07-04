@@ -113,6 +113,8 @@ Jeg har på [SaxoInvestor](/go/saxoinvestor/) oprettet en **aktiesparekonto**, o
 
 Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
+Jeg har skrevet mere om [aktiesparekonto hos Nordnet og Saxo Bank her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+
 ### Beslutning ift. fremtidige investeringer
 
 Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).

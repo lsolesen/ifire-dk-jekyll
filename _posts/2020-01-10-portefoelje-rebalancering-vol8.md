@@ -136,7 +136,7 @@ Jeg har benyttet aldersopsparingen hos Nordnet til deres Superfonde for Danmark,
 
 ## Aktiesparekonto
 
-På aktiesparekontoen leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
+På [aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}) leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
 
 ## Kapitalpension
 

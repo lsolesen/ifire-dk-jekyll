@@ -85,7 +85,7 @@ Udenlandske ETF’er og akkumulerende investeringsforeninger er lagerbeskattede.
 
 Det betyder altså, hvis du køber en udenlandsk ETF, så er den lagerbeskattet uanset, hvilket depot du køber den på. Du skal være opmærksom på, at kun de ETF’er der er på Skats positivliste bliver beskattet som aktieindkomst, mens de øvrige - uanset om den primære bestanddel er aktier - bliver beskattet som aktieindkomst.
 
-Du kan investere for frie midler på aktiesparekontoen, som også er lagerbeskattet. Det betyder altså at uanset, hvilke papirer du investerer i på aktiesparekontoen, så bliver de lagerbeskattede. 
+Du kan investere for [frie midler på aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}), som også er lagerbeskattet. Det betyder altså at uanset, hvilke papirer du investerer i på aktiesparekontoen, så bliver de lagerbeskattede. 
 
 Både værdipapirerne og depottypen kan altså betyde noget for, om investeringerne er lagerbeskattede.
 

@@ -32,7 +32,7 @@ Tak fordi du kigger forbi for at følge med i min rejse mod økonomisk frihed.
 
 Det har økonomisk set ikke sket så meget i denne måned. Dog har jeg lige lavet et bankskifte for at få en bank med færre gebyrer end min nuværende.
 
-Ellers venter jeg på at kunne få lov til at overføre flere penge til min aktiesparekonto, så pengene kan komme ind og hygge sig i nogle passive investeringsforeninger.
+Ellers venter jeg på at kunne få lov til at overføre flere penge til min [aktiesparekonto hos Saxo Bank]({% link _posts/2021-07-04-aktiesparekonto.md %}), så pengene kan komme ind og hygge sig i nogle passive investeringsforeninger.
 
 **The Many (tidl. Brickshare)** åbnet et nyt projekt. Jeg har investeret i [Copenhagen TRUST hos The Many](/go/themany/){: rel='sponsored nofollow noopener' }, hvor jeg først skal betale, når de finder en god og solid ejendom. Hvis du også vil investere hos <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins>, så kan du bruge mit [link](/go/themany/){: rel='sponsored nofollow noopener' } og så får vi begge 250 DKK at investere for.
 

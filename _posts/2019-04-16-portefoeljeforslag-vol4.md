@@ -3,7 +3,7 @@ title: "Porteføljeforslag med aktier og obligationer #4?"
 last_modified_at: 2019-04-25T20:20:02+02:00
 permalink: /investering-vol4/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
@@ -117,7 +117,7 @@ På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med
 
 Der må indbetales op til 50.000 DKK i 2019 på aktiesparekontoen. Hvert år stiger beløbet gradvist med 50.000 kroner, så der i 2022 må indbetales 200.000 kroner.
 
-Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere om [Aktiesparekontoen](http://aktiesparekonto.dk/).
+Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere i min [guide til aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
 ## Portefølje 5: SparNord: Kapitalpension
 

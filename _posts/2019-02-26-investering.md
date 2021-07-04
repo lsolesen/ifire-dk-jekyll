@@ -69,6 +69,8 @@ Regeringen har lavet en ny ordning i 2019, hvor du kan oprette en aktiesparekont
 
 > Der betales skat på 17 pct. af afkastet efter lagerprincippet, dvs. af udbytter samt realiserede og urealiserede avancer. Værdiforøgelsen af indestående på aktiesparekontoen beskattes, mens værdifald (tab) fremføres og modregnes i fremtidige afkast.
 
+Jeg har skrevet mere om [aktiesparekontoen her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+
 ### Pensionsdepot
 
 Hvis du har et **pensionsdepot**, så er skatten relativt enkel, hvor al afkast beskattes med 15%. Det foregår som lagerbeskatning.

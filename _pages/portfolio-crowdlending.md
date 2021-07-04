@@ -1,14 +1,13 @@
 ---
-created_at: 2019-05-15T10:00:00+08:00
 layout: single
 title: Crowdlending, crowdfunding og P2P-investeringer siden 2017
 permalink: /crowdlending/
 excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
 author_profile: true
 toc: true
-toc_sticky: true
 tags:
   - overblik
+created_at: 2019-05-15T10:00:00+08:00
 last_modified_at: 2020-05-12T10:00:00+08:00
 header:
   teaser: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
