@@ -83,7 +83,7 @@ I flere år tilbød [Nordnet ikke en aktiesparekonto]( https://www.nordnet.dk/bl
 
 Du kan gratis oprette investeringskonti og depoter hos Nordnet. Det gælder også aktiesparekontoen.
 
-Fordelene ved at få en aktiesparekonto hos Nordnet er, at du kan drage [fordel af månedsopsparingen]({% link ifire-dk-jekyll/_posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
+Fordelene ved at få en aktiesparekonto hos Nordnet er, at du kan drage [fordel af månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 ## Saxo Investor aktiesparekonto
 
