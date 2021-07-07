@@ -25,9 +25,9 @@ Den interne rente har imidlertid været relativt begrænset i forhold den risiko
 
 Jeg har et stykke tid villet reducere min samlede crowdlending portefølje, og der synes jeg ikke Housers er så interessant.
 
-For nylig har Housers endda valgt at lave et gebyr, hvis ikke man investerer jævnligt på platformen.
+Her fra juni 2021 har Housers endda valgt at tage et månedligt gebyr på hele 2,5 EUR, hvis ikke man investerer jævnligt på platformen.
 
-{% include figure image_path="/assets/images/crowdlending/housers-platform-fee.png" %}
+{% include figure image_path="/assets/images/crowdlending/housers-platform-fee.png" alt="housers platform gebyr" %}
 
 Derfor har jeg besluttet mig for at trække mig ud. Men sammenlignet med en del af de andre platforme, så er det lidt mere bøvlet.
 

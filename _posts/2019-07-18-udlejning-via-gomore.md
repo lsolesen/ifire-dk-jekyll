@@ -2,7 +2,7 @@
 title: "Hvad skal jeg tage for biludlejning på Gomore?"
 permalink: /gomore/
 category:
-  - Tjen penge
+  - Passiv Indkomst
 tags:
   - biløkonomi
   - udlejning

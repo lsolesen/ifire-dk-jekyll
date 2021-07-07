@@ -2,7 +2,7 @@
 title: "Min nevø, investeringer og rigdomsformlen"
 permalink: /nevo-rigdomsformel/
 category:
-  - Tjen penge
+  - Privatøkonomi
 tags:
   - rigdomsformlen
 excerpt: "Hvad kan man tænke på som ung - hvis man gerne vil have lidt styr på sin økonomi?"

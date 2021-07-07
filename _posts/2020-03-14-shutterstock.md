@@ -7,7 +7,7 @@ header:
   teaser: https://images.ctfassets.net/hrltx12pl8hq/6nxom7WNLaoGKSQCEMSyQc/977424dc8072ad4d1fd472c9a8725519/shutterstock_1120060250.jpg
   caption: "Shutterstock"
 category:
-  - Tjen penge
+  - Passiv Indkomst
 tags:
   - passiv indkomst
 excerpt: "Få passiv indkomst ved at sælge billeder på Shutterstock."

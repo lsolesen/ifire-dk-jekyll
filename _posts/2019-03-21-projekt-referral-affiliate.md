@@ -2,7 +2,7 @@
 title: "Projekt: At skabe passiv indkomst på nettet - uden at bruge al min tid?"
 permalink: /projekt-referral-affiliate/
 category:
-  - Tjen penge
+  - Opdateringer
 tags:
   - referral markedsføring
   - affiliate markedsføring
