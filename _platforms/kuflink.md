@@ -36,7 +36,7 @@ country: England
 - Ingen _buy back_ eller _provision fund_.
 - Renten betales årligt i stedet for månedligt eller dagligt.
 - Knap så mange lån på platformen.
-- Du skal have en UK-bankkonto (hvilket ikke er noget problem, hvis du bruger [Revolut\*](/go/revolut/))
+- Du skal have en UK-bankkonto (hvilket ikke er noget problem, hvis du bruger [Revolut](/go/revolut/){: rel="sponsored nofollow noopener" })
 
 ## Skat ved crowdlending på {{ page.title }}
 
@@ -68,4 +68,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1292782630&amp;format=image"></iframe>
 
-[Kuflink\*](/go/kuflink/){: .btn .btn--large .btn--warning}
+[Kuflink](/go/kuflink/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

@@ -29,7 +29,7 @@ deal:
     btn_class: "btn--info"
 ---
 
-Jeg har investeret på [The Many\*](/go/themany/) (tidl. Brickshare) siden april 2019, og her deler jeg mine erfaringer med crowdfundingplatformen, hvor du kan investere i fast ejendom sammen med andre investorer.
+Jeg har investeret på [The Many](/go/themany/){: rel="sponsored nofollow noopener" } (tidl. Brickshare) siden april 2019, og her deler jeg mine erfaringer med crowdfundingplatformen, hvor du kan investere i fast ejendom sammen med andre investorer.
 
 The Many er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
 
@@ -63,7 +63,7 @@ Jeg er i øjeblikket investeret i tre projekter på The Many.
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
 - De enkelte ejendomme etableres som sit eget selskab.
-- Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
+- Hvis du bruger [mit link får du 250 kroner at starte for](/go/themany/){: rel="sponsored nofollow noopener" }.
 
 De enkelte projekter etableres som deres egne selskaber, som bliver underselskaber til selskabet "The Many Property AIF-SIKAV (CVR-nr. 42272167 og FT-ID 24827). Det betyder, at en konkurs i et selskab ikke går ud over de andre selskaber. Derfor kan det godt betale sig at sprede sin investering på forskellige projekter hos The Many.
 
@@ -122,7 +122,7 @@ Jeg har ikke haft brug for at komme ud af min investering på The Many. Men hvis
 
 Du skal blot gøre dette via dit dashboard. Du skal gøre følgende for at komme ud af din investering:
 
-1. Logge ind via [the-many.dk\*](/go/themany/) og trykke på dit navn i højre hjørne og vælge 'Dashboard'
+1. Logge ind via [the-many.dk](/go/themany/){: rel="sponsored nofollow noopener" } og trykke på dit navn i højre hjørne og vælge 'Dashboard'
 2. Gå ind under 'Min portefølje' i venstre side og vælg den investering du ønsker at indløse
 3. Scroll lidt ned til du ser knappen 'Indløs denne investering' og tryk på 'Indløs'
 4. Derefter følger du bare resten af flowet for at indløse dine andele.
@@ -186,6 +186,6 @@ Jeg har skrevet mig op på venteliste på alle The Manys projekter, men desværr
 - I øjeblikket har jeg en intern rente på The Many (tidl. Brickshare) på 4,29%, når jeg regner udbytter og værdiændringer i ejendommene med samlet set.
 - Udbytterne for Vanløse og Nordvest kommer jævnligt ind på mine konti. Jeg har endnu ikke fået nogen udbytter fra Hovedstaden I-projektet, da projektet ikke helt er sat i gang endnu. Jeg har skrevet til The Many med en status på projektet. Typisk går der omkring et års tid inden første afkast på projekterne er kommet til udbetaling.
 
-[Få 250 kroner til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[Få 250 kroner til The Many](/go/themany/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

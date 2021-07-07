@@ -34,7 +34,7 @@ Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
 
 Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svindleri. Jeg trak et mindre beløb ud på mit Spar Nord visa-kort, for det er ikke muligt at trække dem ud på et Revolut-betalingskort af en eller anden årsag, som jeg ikke helt kender. Dernæst blev muligheden for at lave en SEPA-bankoverførsel åbnet, og der kunne jeg uden problemer overføre pengene til min Revolut-konto, som jeg også havde brugt til at sætte pengeene ind på Bondora-kontoen.
 
-[Mintos\*](/go/mintos/) har lanceret Invest & Access som en konkurrent til Go & Grow. Den største forskel er, at man hos Mintos I&A kun kan hæve de penge, der er investeret i lån, der er _current_, mens man hos Bondoras G&G kan hæve det fulde beløb.
+[Mintos](/go/mintos/){: rel="sponsored nofollow noopener" } har lanceret Invest & Access som en konkurrent til Go & Grow. Den største forskel er, at man hos Mintos I&A kun kan hæve de penge, der er investeret i lån, der er _current_, mens man hos Bondoras G&G kan hæve det fulde beløb.
 
 Se en sammenligning her:
 
@@ -67,20 +67,4 @@ Pga. Mintos nye tiltag med Invest & Access og en mindre planlagt omrokering af m
 
 Jeg fik pengene på min Revolut-konto samme dag, som jeg trak dem ud fra Bandora, hvilket jo er helt fantastisk.
 
-## Investering og værdi af investering
-
-<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=407779820&amp;format=image"></iframe>
-
-## Månedlig indkomst
-
-<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=727172567&amp;format=image"></iframe>
-
-## XIRR
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=2034067598&amp;format=image"></iframe>
-
-## Transaktioner
-
-<iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=2024072994&amp;format=image"></iframe>
-
-[Tilmeld dig Bondora\*](/go/bondora/){: .btn .btn--large .btn--warning}
+[Tilmeld dig Bondora](/go/bondora/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

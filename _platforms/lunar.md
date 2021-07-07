@@ -27,7 +27,7 @@ deal:
 
 **{{ page.excerp }}**
 
-Med [Lunar\*](/go/lunar/) får du et fedt sort Visa-kort, en konto og en lækker intuitiv bankapp. Derudover kan du tjene op til 2% på dine penge! ... Og det vildeste af det hele: det hele er gratis! Hvis du opretter dig inden for 24 timer med mit personlige link, **så får du 50 kr. den første gang du swiper dit kort**!
+Med [Lunar](/go/lunar/){: rel="sponsored nofollow noopener" } får du et fedt sort Visa-kort, en konto og en lækker intuitiv bankapp. Derudover kan du tjene op til 2% på dine penge! ... Og det vildeste af det hele: det hele er gratis! Hvis du opretter dig inden for 24 timer med mit personlige link, **så får du 50 kr. den første gang du swiper dit kort**!
 {: .notice .notice--info }
 
 ## Fordele
@@ -37,8 +37,8 @@ Med [Lunar\*](/go/lunar/) får du et fedt sort Visa-kort, en konto og en lækker
 - Det er let at kategorisere sine indkøb.
 - Du kan lave opsparingsmål.
 - Du får et gratis Visa Debit-kort.
-- Du får [50 DKK ved at skrive dig op med et referral link\*](/go/lunar/). Du er velkommen til at [bruge mit\*](/go/lunar/)
-- Du kan uden problemer bruge dit Lunar Black Card til Topup på [Revolut\*](/go/revolut/)
+- Du får [50 DKK ved at skrive dig op med et referral link](/go/lunar/){: rel="sponsored nofollow noopener" }. Du er velkommen til at [bruge mit\*](/go/lunar/)
+- Du kan uden problemer bruge dit Lunar Black Card til Topup på [Revolut](/go/revolut/){: rel="sponsored nofollow noopener" }
 - Dækket af indksydergarantien på 750.000 DKK.
 
 ## Ulemper
@@ -67,6 +67,6 @@ Med [Lunar\*](/go/lunar/) får du et fedt sort Visa-kort, en konto og en lækker
 
 - LunarWay har ændret deres navn til Lunar i denne måned.
 
-[Opret dig hos Lunar og få 50 DKK\*](/go/lunar/){: .btn .btn--large .btn--warning}
+[Opret dig hos Lunar og få 50 DKK](/go/lunar/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
 
 {% include disclaimer.md %}

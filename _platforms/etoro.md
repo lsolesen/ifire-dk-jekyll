@@ -36,7 +36,7 @@ I alt kostede det mig 37,90 DKK, hvilket jeg skrev til Etoros kundeservice.
 
 Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen) og [læs min anmeldelelse af Etoro](/etoro-anmeldelse/).
 
-[Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
+[Tilmeld dig Etoro](/go/etoro/){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 ## Investering og værdi af investering
 
@@ -54,6 +54,6 @@ Se min [portefølje på Etoro her](https://www.etoro.com/people/lsolesen) og [l�
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1677834447&amp;format=image"></iframe>
 
-[Tilmeld dig Etoro\*](/go/etoro/){: .btn .btn--large .btn--danger}
+[Tilmeld dig Etoro](/go/etoro/){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 <a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="Etoro Platform" width="300" height="600"></a>

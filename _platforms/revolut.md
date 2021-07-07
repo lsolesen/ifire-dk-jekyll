@@ -47,4 +47,4 @@ deal:
 
 <iframe width="609" height="377" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=353041380&amp;format=image"></iframe>
 
-[Tilmeld dig Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
+[Tilmeld dig Revolut](/go/revolut/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }

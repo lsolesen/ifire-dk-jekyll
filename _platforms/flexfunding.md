@@ -79,7 +79,7 @@ Jeg har skrevet en guide til indrapportering af [skat af dansk og udenlandsk cro
 
 ### Februar 2017
 
-Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv ville være med til at byde på. Jeg vidste at lånet var meget sikkert og det gav en fornuftig rente, så jeg skyndte mig at oprette mig på [Flexfunding\*](/go/flexfunding/).
+Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv ville være med til at byde på. Jeg vidste at lånet var meget sikkert og det gav en fornuftig rente, så jeg skyndte mig at oprette mig på [Flexfunding](/go/flexfunding/){: rel="nofollow noopener" }.
 
 ### Juni 2019
 
@@ -87,7 +87,7 @@ Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv v
 
 ### August 2019
 
-- I denne måned har [Flexfunding](/go/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
+- I denne måned har [Flexfunding](/go/flexfunding/){: rel="nofollow noopener" } meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?
 
 ### September 2019
 
@@ -107,7 +107,7 @@ Min nuværende arbejdsplads fik et lån gennem Flexfunding, som jeg gerne selv v
 
 - Jeg kunne virkelig godt bruge en _auto invest_ på Flexfunding, så man ikke behøver at tjekke for _cash drag_ et par gange om måneden. Og måske kan man være heldig, at vi får en _auto invest_ at se inden for de nærmeste måneder? Det vil i hvert fald gøre, at jeg vil blive på platformen længere og støtte danske crowdfundingprojekter.
 - Der er en række COVID-19 lån tilgængelige på Flexfunding, som har delvis statsgaranti. Det er ret tillokkende at investere i de lån, men jeg er lidt forsigtig med alt crowdlending i øjeblikket. Jeg forventer dog at det nuværende beløb på Flexfunding kommer til at blive geninvesteret på platformen (særligt hvis det bliver en realitet med _auto invest_).
-- [Flexfunding\*](/go/flexfunding/) har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
+- [Flexfunding](/go/flexfunding/) har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
 
 ## XIRR
 
@@ -119,6 +119,6 @@ Flexfunding er en solid dansk platform for crowdlending, som har været på bane
 
 I den periode jeg har investeret der har både jeg og min kæreste oplevet lidt rod med opgørelsen af det indestående og samlede kontoværdi på dashboardet, hvilket mest er irriterende, fordi man bliver nødt til at kontakte kundeservice for at få det udbedret.
 
-[Besøg Flexfunding\*](/go/flexfunding/){: .btn .btn--large .btn--info }
+[Besøg Flexfunding](/go/flexfunding/){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

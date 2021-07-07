@@ -30,7 +30,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 ## Fordele
 
 - Dansk crowdlending
-- Let at oprette en profil på [Kameo](/go/kameo/)
+- Let at oprette en profil på [Kameo](/go/kameo/){: rel="nofollow noopener" }
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
@@ -53,7 +53,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 
 Det er ikke så let at få et overblik over sine samlede investeringer på Kameo. Her er et screenshot fra `Min Konto`. Her kan jeg finde kontoens værdi, men der er ikke et samlet overblik over den forventede renteindtægt eller eventuelle gebyrer.
 
-{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
+{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" alt="Kameo Dashboard" %}
 
 Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med.
 
@@ -102,20 +102,12 @@ Jeg kunne virkelig godt bruge en _auto invest_ på Kameo, så jeg ikke behøver 
 
 --- <cite>Svar på e-mail fra Kameo kundeservice</cite>
 
-## XIRR Kameo DKK
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=384705491&amp;format=image"></iframe>
-
-### XIRR Kameo SEK
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=183896305&amp;format=image"></iframe>
-
 ## Samlet vurdering
 
 Kameo er en rigtig god dansk platform, hvis du gerne vil investere i danske eller svenske ejendomsudviklingsprojekter. Der har i mere end et års investering ikke været nogle nødlidende lån.
 
 Jeg kunne godt tænke mig, at de etablerede en auto invest og sænkede investeringsbeløbet. Kameo kunne også godt kæle lidt for backenden, så man kunne få lidt brugbare statistikker om investeringerne.
 
-[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success }
+[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success rel="nofollow noopener" }
 
 Læs mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).

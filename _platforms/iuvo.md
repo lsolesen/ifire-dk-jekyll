@@ -38,9 +38,9 @@ country: Estland
 - Man kan ikke let læse mere information om den enkelte låneudbyder (jeg har i hvert fald ikke fundet det)
 - Ingen renter på lån, hvor _buy back_ bliver aktiveret.
 - Platformen har haft omkring 3.000.000 EUR i underskud både i 2017 og 2018.
-- _Refer a friend_ kræver at man sender e-mails specifikt til en e-mail. Man får ikke bare et generelt link, man kan sende til dem, man har lyst til eller inkludere på sin blog (hvis du vil have **30 EUR for en investering på 1000 EUR**, kan jeg sende dig en invitation, hvis du lige skriver til {{ site.email }}). Hvis man skal have et link, så skal man blive _affiliate_ ([som jeg er blevet\*](/go/iuvo/)) for at få linket. Men jeg ville lige så gerne bare have været referral og lidt lettere kunne have givet de 30 EUR.
+- _Refer a friend_ kræver at man sender e-mails specifikt til en e-mail. Man får ikke bare et generelt link, man kan sende til dem, man har lyst til eller inkludere på sin blog (hvis du vil have **30 EUR for en investering på 1000 EUR**, kan jeg sende dig en invitation, hvis du lige skriver til {{ site.email }}). Hvis man skal have et link, så skal man blive _affiliate_ ([som jeg er blevet](/go/iuvo/){: rel="sponsored nofollow noopener" }) for at få linket. Men jeg ville lige så gerne bare have været referral og lidt lettere kunne have givet de 30 EUR.
 
-[Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}
+[Tilmeld dig Iuvo](/go/iuvo/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
 
 ## Skat ved crowdlending på {{ page.title }}
 
@@ -88,6 +88,6 @@ Jeg har stoppet min _auto invest_ fordi jeg vil trække nogle af mine penge ud a
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1561934544&amp;format=image"></iframe>
 
-[Tilmeld dig Iuvo\*](/go/iuvo/){: .btn .btn--large .btn--success}
+[Tilmeld dig Iuvo](/go/iuvo/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
 
 <!-- From https://www.financeads.net/-Code --><a href="https://www.financeads.net/tc.php?t=32536C226841645B" target="_blank"><img src="https://www.financeads.net/tb.php?t=32536V226841645B&https=1" alt="IUVO P2P Investieren" border="0" width="728" height="90"></a><!-- To https://www.financeads.net/-Code -->

@@ -62,4 +62,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 Se [min anmeldelse af Trine](/trine-anmeldelse/).
 
-[Join Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
+[Join Trine](/go/trine/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

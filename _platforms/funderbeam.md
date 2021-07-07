@@ -36,4 +36,4 @@ country: Estland
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=973342468&amp;format=image"></iframe>
 
-[Tilmeld dig Funderbeam*](/go/funderbeam/){: .btn .btn--large .btn--warning}
+[Tilmeld dig Funderbeam](/go/funderbeam/){: .btn .btn--large .btn--warning rel="nofollow noopener" }
