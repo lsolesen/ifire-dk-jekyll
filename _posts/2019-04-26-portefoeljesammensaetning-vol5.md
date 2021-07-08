@@ -3,11 +3,12 @@ title: "Fordeling af aktiver i investeringen? #5"
 last_modified_at: 2019-04-26T20:12:02+02:00
 permalink: /investering-vol5/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Sammenligning af fordeling af aktiver i en portefølje - og hvordan backtester man den med historiske data?"
 classes: wide
 header:

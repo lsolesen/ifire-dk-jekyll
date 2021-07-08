@@ -10,6 +10,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 header:
   overlay_image: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

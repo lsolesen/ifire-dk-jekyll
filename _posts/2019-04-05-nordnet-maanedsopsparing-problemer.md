@@ -15,6 +15,7 @@ tags:
   - nordnet
   - månedsopsparing
   - howto
+  - værdipapirer
 gallery:
   - url: /assets/images/book/nordnet-maaned-menu.jpg
     image_path: /assets/images/book/nordnet-maaned-menu.jpg

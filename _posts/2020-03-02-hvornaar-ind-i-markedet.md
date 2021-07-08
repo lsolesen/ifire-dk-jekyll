@@ -14,6 +14,7 @@ tags:
   - dollar cost averaging
   - lump sum
   - buy the dip
+  - værdipapirer
 excerpt: "Du kan komme ind i aktiemarkedet på flere måder. Enten ved lump sum, dollar cost averaging eller ved buy the dips. Præmisserne for dine investeringer skal være klare, inden du ved hvordan du skal komme ind i markedet?"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

@@ -10,6 +10,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Hvad er indeksfonde, investeringsforeninger, investeringsafdelinger og ETF'er. Det er gode begreber at kende som (passiv) investor."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

@@ -2,9 +2,10 @@
 title: "Hvordan skal jeg investere i aktier og obligationer? #1"
 permalink: /investering-vol1/
 category:
-  - Opsparing
+  - Opdateringer
 tags:
   - investering
+  - værdipapirer
 excerpt: "Investering i aktier og obligationer skal stadig være en del af min portefølje, men hvordan skal den være?"
 last_modified_at: 2020-03-04T15:20:02+02:00
 header:

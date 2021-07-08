@@ -8,6 +8,8 @@ category:
 tags:
   - investering
   - skat
+  - værdipapirer
+  - aktier
 header:
   overlay_image: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2241&q=80
   teaser: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

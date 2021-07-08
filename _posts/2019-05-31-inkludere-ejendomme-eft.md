@@ -8,6 +8,7 @@ tags:
   - investering
   - ejendomme
   - ETF
+  - ejendomsinvestering
 excerpt: "Hvordan inkluderer jeg ejendomme i porteføljen - både gennem crowdlending, aktier og ETF'er."
 classes: wide
 header:

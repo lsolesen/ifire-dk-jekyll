@@ -8,6 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Nu er det igen tid til at overveje, om jeg holder mig tæt nok til min strategi for investeringer i værdipapirer? Jeg skal igen gøre det enklere og holde følelserne udenfor."
 classes: wide
 feature_row:

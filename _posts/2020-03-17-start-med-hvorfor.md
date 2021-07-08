@@ -7,6 +7,7 @@ category:
 tags:
   - investering
   - psykologi
+  - værdipapirer
 excerpt: "Simon Sinek foreslår at man starter med at spørge Hvorfor? i stedet for at starte med Hvad? og Hvordan?"
 header:
   overlay_image: https://i1.wp.com/www.director.co.uk/wp-content/uploads/SimonSinekMain.jpg?fit=1000%2C500&ssl=1

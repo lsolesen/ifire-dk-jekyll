@@ -11,6 +11,7 @@ category:
 tags:
   - investering
   - passiv investering
+  - værdipapirer
 excerpt: "Jeg er passiv investor, fordi jeg ikke kan finde nogle gode argumenter for ikke at være det. William Sharpe leverer det filosofiske argument, og så er der masser af empiri."
 ---
 

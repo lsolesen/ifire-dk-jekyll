@@ -8,6 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Nu er min samlede værdipapirpulje ved at tage form - og nu venter jeg lige på en korrektion af markedet til at gå kraftigt ind."
 classes: wide
 header:

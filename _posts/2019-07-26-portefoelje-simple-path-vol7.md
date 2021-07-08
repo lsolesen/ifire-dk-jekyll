@@ -8,6 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Hold dig til din strategi, når du har lavet den? Eller hvorfor udbytteaktier ikke er noget for mig, når jeg nu vil gøre det enkelt!"
 classes: wide
 feature_row:

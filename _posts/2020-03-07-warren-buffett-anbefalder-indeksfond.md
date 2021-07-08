@@ -11,6 +11,7 @@ category:
 tags:
   - investering
   - passiv investering
+  - værdipapirer
 excerpt: "Warren Buffet er blevet ufattelig rig på at vælge aktier. Læs hans regler, men husk at han selv nu om dage anbefaler at følge et passivt indeks med lave omkostninger."
 ---
 

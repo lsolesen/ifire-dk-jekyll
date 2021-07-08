@@ -34,9 +34,11 @@ feature_row_solutions:
     title: "Ledger"
     excerpt: "Den sikreste måde at opbevare kryptovaluta er i en offline hardware wallet. [Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er førende på markedet."
     url: /go/ledger/
-    btn_label: "Køb Ledger"
+    btn_label: "Tjek prisen"
     btn_class: "btn--info"
 ---
+
+Hvis du er interesseret i kryptovaluta og Bitcoins, så kan du stille og roligt komme i gang her på siden.
 
 {% include disclosure.html %}
 

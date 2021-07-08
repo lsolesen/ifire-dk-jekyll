@@ -3,10 +3,11 @@ title: "Min rejse som investor - og lidt om psykologi"
 last_modified_at: 2020-03-17T09:20:02+02:00
 permalink: /min-investorrejse/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - psykologi
+  - værdipapirer
 excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet. Måske genkender du noget i min rejse fra dig selv."
 header:
   overlay_image: https://images.unsplash.com/photo-1550983552-c97e42e10cb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
@@ -62,7 +63,7 @@ Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden b�
 > 
 > Køber man selv f.eks. BankInvest- og Valueinvestafdelinger via et åbent depot, køber man deres Dirty Funds-afdelinger, hvor vi (bankerne) modtager provision, så her er afdelingernes ÅOP højere og afkastet lidt lavere. Til gengæld er der så ikke samme omkostninger til banken, da man selv varetager investeringerne.
 > 
-> Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du p��tænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
+> Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du påtænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
 
 --- <cite>Svar fra min rådgiver i min Bank</cite>
 

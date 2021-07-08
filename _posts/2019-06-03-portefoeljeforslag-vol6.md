@@ -8,6 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
 header:

@@ -1,13 +1,13 @@
 ---
 layout: single
 title: Simpel minimalistisk investering
+seo_title: "Investering: Hvordan kommer du i gang enkelt og minimalistisk?"
 permalink: /investering/
 header:
   overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
 #  actions:
 #    - label: "Presale: Kursus i minimalistik investering"
 #      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
-excerpt: "Inspiration til at komme i gang med investeringer selv."
 author_profile: true
 classes: wide
 feature_row_solutions:
@@ -45,6 +45,8 @@ Investeringer kan være en af [mange ideer til at skabe passiv indkomst](/passiv
 
 En investering kan være i mange ting, men her fokuserer jeg på investeringer i aktier og værdipapirer, crowdlending, metaller og kryptovaluta.
 
+{% include disclosure.html %}
+
 ## Hvad er en investering?
 
 Der er mange måder at investere dine penge på. Når man laver en investering, så satser man på, at du bruger pengene på noget, der giver flere penge på den lange bane.
@@ -71,6 +73,8 @@ Aktier og værdipapirer er en meget populær måde at investere på. Hvis du har
 
 Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
+Læs mere om [investering i aktier og værdipapirer](/investering-aktier/).
+
 ### Crowdlending
 
 Crowdlending er en måde at investere i lån - enten til private eller til virksomheder. Du sætter dine penge ind, og så tjener du renter på at have udlånt dine penge. Selvom det virker ret sikkert, så har der været risiko. Der er heldigvis [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}), hvor sikkerheden er lidt højere end de udenlandske platforme. Til gengæld er renterne også lidt lavere.
@@ -83,21 +87,15 @@ Kryptovaluta og Bitcoins er et meget omskifteligt marked. Personligt har jeg sat
 
 Læs mere om [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}).
 
+### Guld og metaller
+
+Guld har fyldt en stor del af økonomien gennem historien. Det har fungeret som betalingsmiddel, og mange valutaer og også tidligere været bundet op på guld. Guld kan være en måde at sikre sin investeringsportefølje mod inflation.. 
+
+Du kan læse mere om [investering i guld her](/guld/).
+
 ### Ejendomsinvestering
 
-Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md%}).
-
-{% include disclosure.html %}
-
-## Inspiration til investeringer
-
-- [Start med hvorfor?](/start-med-hvorfor/)
-- [Råd til at investere](/raad-til-investeringer/)
-- [Adfærdspsykologi på markedet](/adfaerdspsykologi-aktiemarkedet/)
-- [Økonomisk krisehåndtering - min 3 punktsplan](/kriseplan/)
-- [Hvornår kan jeg gå ind i markedet](/hvornaar-ind-i-markedet/)
-- [Passiv investering slår aktiv investering](/passiv-investering-slaar-aktiv/)
-- [Warren Buffett anbefaler indeksfond](/warren-buffett-anbefaler-passive-indekser/)
+Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}) eller hvordan man investerer i [REIT](/reit/).
 
 ## Investeringsløsninger
 

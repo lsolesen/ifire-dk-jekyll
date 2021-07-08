@@ -2,9 +2,10 @@
 title: "Hvordan kommer jeg videre med aktier og obligationer #2?"
 permalink: /investering-vol2/
 category:
-  - Opsparing
+  - Opdateringer
 tags:
   - investering
+  - værdipapirer
 excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen?"
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

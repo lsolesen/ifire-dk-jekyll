@@ -13,6 +13,7 @@ tags:
   - passiv investering
   - lagerbeskatning
   - skat
+  - værdipapirer
 excerpt: "Er realisationsbeskattede danske udbyttebetalende investeringsforeninger bedre for det langsigtede afkast end lagerbeskattede, akkumulerende, udenlandske ETF'er med lavere omkostninger?"
 ---
 
