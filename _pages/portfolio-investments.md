@@ -75,7 +75,7 @@ Jeg har lavet en portefølje med det formål at spare op til mine døtres eventu
 
 Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres ved årets udgang efter lagerbeskatningsprincippet.
 
-I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank.
+I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank. Jeg har skrevet lidt mere om, [hvad en aktiesparekonto er her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
 ### Etoro Kurtagefri handel og Copytrading
 

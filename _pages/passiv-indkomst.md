@@ -47,7 +47,9 @@ Du kan øge din indtjening med disse ideer til passiv indtægt.
 
 ### 1. Aktier
 
-Aktier har historisk set været en god måde at lave passiv indkomst på. Hvis du har penge, som bare står på kontoen, så er aktier helt sikkert en fremragende måde at få indtægt på kontoen. Men det kræver, at du ikke pludselig skal bruge pengene, da aktiemarkedet og verdensmarkedet går op og ned. Og det rigtig gode ved aktiemarkedet er, at du kan investere i passive indeksfonde, som bare følger verdensmarkedet. Det kræver bare, at du opretter en [månedsopsparing hos Nordnet og sætter den på autopilot]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller du kan lade [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" } til at gøre hele arbejdet for dig.
+Aktier har historisk set været en god måde at lave passiv indkomst på. Hvis du har penge, som bare står på kontoen, så er aktier helt sikkert en fremragende måde at få indtægt på kontoen. Men det kræver, at du ikke pludselig skal bruge pengene, da aktiemarkedet og verdensmarkedet går op og ned. Og det rigtig gode ved aktiemarkedet er, at du kan investere i passive indeksfonde, som bare følger verdensmarkedet.
+
+Det kræver bare, at du opretter en [månedsopsparing hos Nordnet og sætter den på autopilot]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller du kan lade [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" } til at gøre hele arbejdet for dig.
 
 Læs mere om [investeringer i aktier og indeksfonde her](/investering/).
 

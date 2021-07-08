@@ -39,6 +39,34 @@ feature_row_own:
     excerpt: Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage.'
 ---
 
+En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg. 
+
+Investeringer kan være en af [mange ideer til at skabe passiv indkomst](/passiv-indkomst/). Du kan både investere tid, men du kan også investere penge. Og selvom du investerer penge, så kræver det også lidt tid.
+
+En investering kan være i mange ting, men her fokuserer jeg på investeringer i aktier og værdipapirer, crowdlending, metaller og kryptovaluta.
+
+{% comment %}
+
+## Hvad er en investering?
+
+Der er mange måder at investere dine penge på. Du kan investere i en ejendom eller i en række af aktier. Det, der ligger i ordet investering, er, at du bruger dine penge eller ressourcer på noget, som du satser på, vil give dig flere penge på den lange bane. Det gælder både, hvad enten du så køber en ejerlejlighed eller investerer penge i aktier i en fremadstormende virksomhed.
+
+Når du investerer penge, vil det altid være med en forventning eller et håb om, at du får flere penge ud af din investering i sidste ende. Men der er aldrig garanti, når det kommer til en investering. Du kan både gøre gode investeringer og dårlige investeringer.
+
+Gode og dårlige investeringer
+En investering kan være mange forskellige ting. De typiske investeringer, som privatpersoner foretager, er i værdipapirer, som aktier og obligationer, eller ved køb af ejendomme eller biler.
+
+Det er meget forskelligt, om en aktie eller en ejendom ender ud med at være en god investering. Det er der ingen, der kan forudsige med hundrede procent sikkerhed. Biler derimod er i langt de fleste tilfælde en dårlig investering, da de meget hurtigt falder i værdi – dog vil eksempelvis antikke biler stige i værdi med tiden.
+
+Bil versus ejendom
+Har du købt en lejlighed, kan du sagtens ende ud med at få flere penge for den, end du selv har givet, da du købte den. Det vil meget sjældent være tilfældet med en bil.
+
+Så snart en bil ikke er ny længere, men har kørt nogle kilometer, falder den betydeligt i værdi. Og det vil fortsætte år for år. En lejlighed vil ikke nødvendigvis tabe værdi, selvom den bliver brugt. Dens pris er afhængig af boligmarkedets udvikling og udviklingen og populariteten af området, som boligen ligger i.
+
+Du kan altså både ende med at tabe eller vinde penge, når du investerer i ejendomme, mens du næsten kan være sikker på at tabe penge, når du køber en bil.
+
+{% endcomment %}
+
 {% include disclosure.html %}
 
 ## Inspiration til investeringer
