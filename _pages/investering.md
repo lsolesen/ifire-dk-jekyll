@@ -45,27 +45,47 @@ Investeringer kan være en af [mange ideer til at skabe passiv indkomst](/passiv
 
 En investering kan være i mange ting, men her fokuserer jeg på investeringer i aktier og værdipapirer, crowdlending, metaller og kryptovaluta.
 
-{% comment %}
-
 ## Hvad er en investering?
 
-Der er mange måder at investere dine penge på. Du kan investere i en ejendom eller i en række af aktier. Det, der ligger i ordet investering, er, at du bruger dine penge eller ressourcer på noget, som du satser på, vil give dig flere penge på den lange bane. Det gælder både, hvad enten du så køber en ejerlejlighed eller investerer penge i aktier i en fremadstormende virksomhed.
+Der er mange måder at investere dine penge på. Når man laver en investering, så satser man på, at du bruger pengene på noget, der giver flere penge på den lange bane.
 
-Når du investerer penge, vil det altid være med en forventning eller et håb om, at du får flere penge ud af din investering i sidste ende. Men der er aldrig garanti, når det kommer til en investering. Du kan både gøre gode investeringer og dårlige investeringer.
+Men det er jo ikke sikkert, at markedet arter sig helt, som du havde håbet. Derfor skal du være opmærksom på, at investeringer kommer med en risiko. Der er nemlig ingen garantier, så du kan lave både gode og dårlige investeringer.
 
-Gode og dårlige investeringer
-En investering kan være mange forskellige ting. De typiske investeringer, som privatpersoner foretager, er i værdipapirer, som aktier og obligationer, eller ved køb af ejendomme eller biler.
+## Investeringer og risiko
 
-Det er meget forskelligt, om en aktie eller en ejendom ender ud med at være en god investering. Det er der ingen, der kan forudsige med hundrede procent sikkerhed. Biler derimod er i langt de fleste tilfælde en dårlig investering, da de meget hurtigt falder i værdi – dog vil eksempelvis antikke biler stige i værdi med tiden.
+Jeg vil gerne bruge mine investeringer til at skabe passiv indkomst. Det er et redskab til, at min økonomi stille og roligt kan vokse. Men i investeringsverden er der ingen, der kan garantere, om markedet går den ene eller anden vej, selvom rigtig mange forsøger at gøre sig kloge på det.
 
-Bil versus ejendom
-Har du købt en lejlighed, kan du sagtens ende ud med at få flere penge for den, end du selv har givet, da du købte den. Det vil meget sjældent være tilfældet med en bil.
+Derfor er der også en betydelig risiko ved at sætte dine penge i investeringer. Du kan altså både tjene penge og tabe penge næsten uanset, hvad du investerer i.
 
-Så snart en bil ikke er ny længere, men har kørt nogle kilometer, falder den betydeligt i værdi. Og det vil fortsætte år for år. En lejlighed vil ikke nødvendigvis tabe værdi, selvom den bliver brugt. Dens pris er afhængig af boligmarkedets udvikling og udviklingen og populariteten af området, som boligen ligger i.
+Derfor kan investeringer også handle om timing. Du skal altså kunne tåle at tabe dine penge, eller også skal du have råd til at være tålmodig.
 
-Du kan altså både ende med at tabe eller vinde penge, når du investerer i ejendomme, mens du næsten kan være sikker på at tabe penge, når du køber en bil.
+## Hvad kan man investere i?
 
-{% endcomment %}
+Du kan som sagt investere i alt, hvor du forventer at kunne tjene penge over tid. Du kan altså investere i alt fra antikke biler og designermøbler eller aktier og obligationer.
+
+Uanset hvad du investerer i, så vil det tage lidt af din tid.
+
+### Aktier og værdipapirer
+
+Aktier og værdipapirer er en meget populær måde at investere på. Hvis du har tilgængelig kapital, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier eller investeringsforeninger og fonde, der dækker bestemte dele af markedet. Jeg sværger selv til at minimere min risiko ved at følge verdensmarkedet gennem passiv indeksfonde og ETF'er.
+
+Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+
+### Crowdlending
+
+Crowdlending er en måde at investere i lån - enten til private eller til virksomheder. Du sætter dine penge ind, og så tjener du renter på at have udlånt dine penge. Selvom det virker ret sikkert, så har der været risiko. Der er heldigvis [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}), hvor sikkerheden er lidt højere end de udenlandske platforme. Til gengæld er renterne også lidt lavere.
+
+Læs mere om [crowdlending og crowdfunding](/crowdlending/).
+
+### Kryptovaluta og Bitcoins
+
+Kryptovaluta og Bitcoins er et meget omskifteligt marked. Personligt har jeg sat en lille smule penge i Bitcoins primært som en opsparing, og jeg køber Bitcoins efter Dollar-Cost-Average-metoden for stille og roligt at samle flere Bitcoins. Nogle anbefaler maksimalt at have omkring 2% af sin portefølje som Bitcoins. 
+
+Læs mere om [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}).
+
+### Ejendomsinvestering
+
+Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md%}).
 
 {% include disclosure.html %}
 
