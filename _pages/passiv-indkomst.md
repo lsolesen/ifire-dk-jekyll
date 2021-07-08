@@ -16,7 +16,7 @@ For at tjene penge mens du sover, så skal du bruge nogle ideer til passiv indko
 
 Du kan naturligvis altid tage et ekstra arbejde for at tjene penge, men hvis du også kan lave en lille sideindtjening, der kan passe sig selv, så behøver du ikke arbejde så meget, hvor du bytter din tid for løn.
 
-Jeg har her samlet flere ideer til at få passiv indkomst.
+Jeg har her samlet flere ideer til at få en passiv indtægt.
 
 ## Hvad er passiv indkomst?
 
@@ -35,9 +35,15 @@ Inden du overhovedet går i gang med at kigge på, om passiv indkomst er noget f
 
 Jeg gør selv begge dele, og det er i høj grad hvad dette site handler om.
 
-## Ideer til passiv indtægt
+## Hvordan laver du passiv indtægt?
 
-Du kan øge din indtjening med disse ideer til passiv indkomst.
+For at lave en passiv indtægt, så skal du altså først have arbejdstøjet på. Du skal finde ud af, hvordan du gerne vil få pengene til at rulle ind, mens du sover.
+
+Her samler jeg ideer til, hvordan du kan komme i gang med at tjene penge.
+
+## Ideer til passiv indkomst
+
+Du kan øge din indtjening med disse ideer til passiv indtægt.
 
 ### 1. Aktier
 
@@ -61,7 +67,7 @@ At skrive en blog og have reklamer på den er en af de måder, der bliver mere o
 
 Jeg har i længere tid forsøgt at lave affiliate marketing ved at linke til produkter, jeg selv godt kan lide. Jeg tjener så en lille kommision, når det lykkes for virksomheden at lave et salg efter, at folk har klikket på mit link. Jeg er mest glad for [Partner Ads](/go/partnerads/), som har rigtig mange forskellige programmer. Hvis det skal lykkes at få lavet nogle salg, så kræver det imidlertid igen et rigtig stort arbejde. Der er jo ingen der klikker på dine links, hvis ikke du har nogen besøgende. Og konkurrencen er hård.
 
-## Andre ideer til passiv indkomst
+## Andre indlæg om passiv indkomst
 
 <div class="feature__wrapper">
 
@@ -75,7 +81,11 @@ Jeg har i længere tid forsøgt at lave affiliate marketing ved at linke til pro
 
 </div>
 
-## Mit projekt med passiv indkomst
+## Kan man leve af passiv indkomst?
+
+Et af grundelementerne i at blive økonomisk uafhængig er at skabe en passiv indkomst, der er høj nok til at dække dine leveomkostninger. For at leve af passiv indkomst, så skal du altså tjene nok til at dække dine udgifter. Det har jeg skrevet lidt mere om under [hvad er økonomisk frihed]({% link _posts/2020-03-08-hvad-er-okonomisk-frihed.md %}).
+
+## Mit projekt med passiv indkomst online
 
 <div class="feature__wrapper">
 
@@ -89,7 +99,7 @@ Jeg har i længere tid forsøgt at lave affiliate marketing ved at linke til pro
 
 </div>
 
-I marts 2019 startede jeg [mit projekt med at skabe lidt passiv indkomst ved hjælp af _affiliate_- og _referral_-marketing](/projekt-referral-affiliate/) uden at bruge al min tid.
+I marts 2019 startede jeg mit projekt med at skabe lidt [passiv indkomst ved hjælp af _affiliate_- og _referral_-marketing](/projekt-referral-affiliate/) uden at bruge al min tid.
 
 Jeg har følgende sites:
 

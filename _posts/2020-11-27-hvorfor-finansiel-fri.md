@@ -48,7 +48,7 @@ Jeg blev meget mere bevidst om det efter at have set udsendelsen Stå af Hamster
 
 **Som vi forstår det, tjener du penge på anderledes måder end mange andre mennesker gør. Hvad er det specifikt du gør for at tjene penge?**
 
-I øjeblikket er min primære indkomst stadig et almindeligt lønarbejde. Jeg investerer en stor del af mine penge, så det er ikke så meget anderledes en mange andre mennesker. Jeg har imidlertid eksperimenteret lidt med at forsøge at skabe en [passiv indkomst fra hjemmesider](/passiv-indkomst/). Det er imidlertid et rigtig stort arbejde, og lige nu er det minimalt, hvad jeg tjener den vej. Jeg håber imidlertid snart, at nogle af anstrengelserne bærer lidt mere frugt.
+I øjeblikket er min primære indkomst stadig et almindeligt lønarbejde. Jeg investerer en stor del af mine penge, så det er ikke så meget anderledes en mange andre mennesker. Jeg har imidlertid eksperimenteret lidt med [forskellige ideer til passiv indkomst, bl.a. fra hjemmesider](/passiv-indkomst/). Det er imidlertid et rigtig stort arbejde, og lige nu er det minimalt, hvad jeg tjener den vej. Jeg håber imidlertid snart, at nogle af anstrengelserne bærer lidt mere frugt.
 
 **Har du andet arbejde, du laver ved siden af?**
 
