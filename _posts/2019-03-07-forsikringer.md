@@ -15,8 +15,6 @@ tags:
   - spareråd
   - forsikring
 last_modified_at: 2019-07-16T20:22:02+02:00
-sidebar:
-  - text: '<a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625042&media_id=81507"/></a>'
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
