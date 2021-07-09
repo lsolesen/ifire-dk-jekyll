@@ -22,7 +22,7 @@ country: Estland
 
 {{ page.excerpt }}
 
-Crowdestate er en fin platform, hvis du gerne vil investere i udviklingsprojekter med ejendomme. Hvis du gerne vil investere i ejendomme for at få lejeindtægter, så skal du vælge fx [Reinvest24\*](/go/reinvest24/), [Housers\*](/go/housers/), Br
+Crowdestate er en fin platform, hvis du gerne vil investere i udviklingsprojekter med ejendomme. Hvis du gerne vil investere i ejendomme for at få lejeindtægter, så skal du vælge fx [Reinvest24](/go/reinvest24/){: rel="sponsored nofollow noopener" } eller [Housers](/go/housers/){: rel="sponsored nofollow noopener" }
 
 ## Ulemper
 

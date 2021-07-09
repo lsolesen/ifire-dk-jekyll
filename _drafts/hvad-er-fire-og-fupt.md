@@ -1,3 +1,15 @@
+---
+title: "Hvad er FIRE og FUPT"
+category:
+  - Investering
+tags:
+  - investering
+  - nordnet
+  - månedsopsparing
+  - åop
+excerpt: "Når man køber investeringsfonde på Nordnets månedsopsparing, så handler man ofte. Hvordan påvirker det de årlige omkostninger?"
+last_modified_at: 2019-05-06T20:22:02+02:00
+---
 Hvad er FIRE og økonomisk uafhængighed?
 
 Når man er økonomisk uafhængig kan man klare sig uden en løbende indkomst fra et arbejde - og derved har man finansiel frihed?

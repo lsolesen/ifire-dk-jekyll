@@ -12,7 +12,6 @@ tags:
   - finansiel uafhængighed
   - økonomisk frihed
 excerpt: "FIRE-bevægelsen taler ofte om 4%-reglen i forhold til at regne ud, hvornår man er økonomisk uafhængig og har opnået finansiel frihed."
-classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
@@ -21,6 +20,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Økonomisk frihed betyder ikke det samme for alle. Økonomisk frihed betyder på en eller anden måde, at man ikke er afhængig af at tjene penge længere. 
@@ -72,7 +72,7 @@ Bengen tog i sin undersøgelse udgangspunkt i en portefølje, hvor halvdelen af 
 
 Et er teori. Noget andet er praksis. Hvordan bruger vi 4%-reglen i forhold til at skabe økonomisk frihed? Det er faktisk ret enkelt. Du skal fastlægge det beløb (før skat), du mener gør dig økonomisk fri.
 
-Hvis du har årlige udgifter for 290.000 DKK / år og du betaler 42% i skat, så har du altså brug for 500.000 årligt i passiv indkomst for at have økonomisk frihed. Da 4% er er 1/25-del af 100%, så skal du _bare_ have 25 gange beløbet investeret i aktier og obligationer for at opnå økonomisk frihed.
+For at kunne [leve af din passive indkomst](/passiv-indkomst/) har du altså brug for 500.000 kroner årligt i passiv indtægt, hvis du har årlige udgifter for 290.000 DKK / år og du betaler 42% i skat. Da 4% er er 1/25-del af 100%, så skal du _bare_ have 25 gange beløbet investeret i aktier og obligationer for at opnå økonomisk frihed.
 
 Men det beløber sig alligevel til 12.500.000 DKK. Når du har investeret det beløb er du altså - alt andet lige - finansielt fri ifølge 4%-reglen. 
 

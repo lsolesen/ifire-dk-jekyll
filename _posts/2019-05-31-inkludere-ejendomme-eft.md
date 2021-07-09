@@ -8,11 +8,14 @@ tags:
   - investering
   - ejendomme
   - ETF
+  - ejendomsinvestering
 excerpt: "Hvordan inkluderer jeg ejendomme i porteføljen - både gennem crowdlending, aktier og ETF'er."
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem Crowdlending](/ejendomme-crowdlending/), fordi jeg ikke ser mig selv som boligejer, der skal til at leje min bolig ud - ud over på [AirBNB\*](/go/airbnb/). I stedet satser jeg på _crowd lending_ og værdipapirer. Her beskriver jeg kort, hvilke værdipapirer jeg er mest interesseret i i øjeblikket.
+Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem Crowdlending](/ejendomme-crowdlending/), fordi jeg ikke ser mig selv som boligejer, der skal til at leje min bolig ud - ud over på [AirBNB](/go/airbnb/){: rel='sponsored nofollow noopener' }. I stedet satser jeg på _crowdlending_ og værdipapirer. Her beskriver jeg kort, hvilke værdipapirer jeg er mest interesseret i i øjeblikket.
 
 ## REIT-aktier
 
@@ -40,7 +43,7 @@ Af investeringsdforeninger i Danmark er jeg kun stødt ind i en, men jeg synes d
 
 ## EFT'er
 
-Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på månedsopsparingen. Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
+Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
 
 | Tick | Værdipapir                                                                                                                                   | ÅOP   | Morningstar rating                       | Bæredygtighed                            |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|
@@ -52,9 +55,9 @@ Desværre kan jeg ikke finde nogle ETF'er der tracker ejendomsmarkedet i Nordnet
 
 ## Crowdlending
 
-Jeg har investeret lidt i ejendomme gennem <del>[Brickshare\*](/go/brickshare/)</del><ins>[The Many\*](/go/themany/)</ins>, som er dansk og hvor man bliver medejer af ejendomme og får huslejeindtægter. Jeg har også investeret gennem en del udenlandske crowdlending platforme, som er specialiseret i ejendomme. Jeg er mest imponeret af [Housers\*](/go/housers/) og [PropertyPartner\*](/go/propertypartner/), men [Crowdestate\*](/go/crowdestate/), [Reinvest24\*](/go/reinvest24/) og [Bulkestate\*](/go/bulkestate/) er også muligheder. Når jeg kigger på crowdlending foretrækker jeg investere mine penge i projekter, hvor jeg månedligt vil få indtægt gennem huslejen.
+Jeg har investeret lidt i ejendomme gennem <del>[Brickshare](/platform/themany/)</del><ins>[The Many](/go/themany/){: rel='sponsored nofollow noopener' }</ins>, som er dansk og hvor man bliver medejer af ejendomme og får huslejeindtægter. Jeg har også investeret gennem en del udenlandske crowdlending platforme, som er specialiseret i ejendomme. Jeg er mest imponeret af [Housers](/go/housers/){: rel='sponsored nofollow noopener' } og [PropertyPartner](/go/propertypartner/){: rel='sponsored nofollow noopener' }, men [Crowdestate](/go/crowdestate/){: rel='sponsored nofollow noopener' }, [Reinvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' } og [Bulkestate](/go/bulkestate/){: rel='sponsored nofollow noopener' } er også muligheder. Når jeg kigger på crowdlending foretrækker jeg investere mine penge i projekter, hvor jeg månedligt vil få indtægt gennem huslejen.
 
-[Housers\*](/go/housers/){: .btn .btn--success } eller [Crowdestate\*](/go/crowdestate/){: .btn .btn--success } eller [Reinvest24\*](/go/reinvest24/){: .btn .btn--success } eller [Bulkestate\*](/go/bulkestate/){: .btn .btn--info } eller [Property Partner\*](/go/propertypartner/){: .btn .btn--info }
+[Housers](/go/housers/){: .btn .btn--success } eller [Crowdestate](/go/crowdestate/){: .btn .btn--success rel='sponsored nofollow noopener' } eller [Reinvest24](/go/reinvest24/){: .btn .btn--success rel='sponsored nofollow noopener' } eller [Bulkestate](/go/bulkestate/){: .btn .btn--info rel='sponsored nofollow noopener' } eller [Property Partner](/go/propertypartner/){: .btn .btn--info rel='sponsored nofollow noopener' }
 
 ***
 
@@ -78,6 +81,6 @@ Jeg følger altså ejendomsmarkedet gennem REITs og crowdlending. Jeg kan stadig
 
 Jeg har skrevet mere om, [hvordan jeg følger ejendomsmarkedet gennem crowdlending og hvilke platforme, jeg bruger](/ejendomme-crowdlending/).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

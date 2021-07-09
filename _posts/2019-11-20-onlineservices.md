@@ -3,11 +3,13 @@ title: "Online services - og hvad har jeg egentlig brug for?"
 permalink: /online-services/
 last_modified_at: 2020-01-23T14:22:02+02:00
 category:
-  - Onlineservices
+  - Opdateringer
 tags:
   - onlineservices
   - streaming
 excerpt: "Det lykkedes at spare 476 DKK om måneden ved at lave en status på de onlineservices, jeg bruger."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 services:
   - title: Lastpass - husk adgangskoder
     excerpt: Jeg har uhuskeligt mange forskellige adgangskoder til alle mine platforme og onlinetilstedeværelse. Derfor bruger jeg [LastPass](/lastpass-anmeldelse/), som er min helt uundværlige kode-husker. Den kan jeg slet ikke undvære.
@@ -23,8 +25,8 @@ services:
     savings: 0 / mdr
     price_after: 79 / mdr
   - title: Dropbox
-    excerpt: Før jeg begyndte at smide det hele på Google Drive, så brugte jeg [Dropbox\*](https://db.tt/142zizQcTk) rigtig meget. Jeg har stadig en del liggende der. Dropbox er billigere end Google Drive, da det kun koster 99 U$D pr. år for 2TB. Jeg har været rigtig glad for Dropbox, men _jeg nedgraderer til den gratis plan. Det kræver en del oprydning, men heldigvis er det meste noget, jeg bare kan flytte til Google Drive eller slette._
-    referral: 
+    excerpt: Før jeg begyndte at smide det hele på Google Drive, så brugte jeg [Dropbox](https://db.tt/142zizQcTk) rigtig meget. Jeg har stadig en del liggende der. Dropbox er billigere end Google Drive, da det kun koster 99 U$D pr. år for 2TB. Jeg har været rigtig glad for Dropbox, men _jeg nedgraderer til den gratis plan. Det kræver en del oprydning, men heldigvis er det meste noget, jeg bare kan flytte til Google Drive eller slette._
+    referral:
       title: Få 5G gratis på Dropbox
       url: https://db.tt/142zizQcTk
     price: 79 / mdr
@@ -74,7 +76,7 @@ services:
     savings: 15 / mdr
     price_after: 60 / mdr
   - title: Digital Ocean - hosting af websites
-    excerpt: Jeg har i mange år brugt [DigitalOcean\*](https://m.do.co/c/36a848839044) til at hoste mine hjemmesider. Der kan man lave sin egen server, som man kan sætte op som man vil. Det kører virkelig godt, og jeg har bl.a. kørt Drupal-sites derfra. Hvis du bruger mit referral link, så får du $50 i kredit den første måned. Min plan er at lukke ned for DigitalOcean i den nærmeste fremtid, da jeg er begyndt at lave statiske websites med Jekyll i stedet, som jeg kan hoste gratis på Github Pages.
+    excerpt: Jeg har i mange år brugt [DigitalOcean](https://m.do.co/c/36a848839044) til at hoste mine hjemmesider. Der kan man lave sin egen server, som man kan sætte op som man vil. Det kører virkelig godt, og jeg har bl.a. kørt Drupal-sites derfra. Hvis du bruger mit referral link, så får du $50 i kredit den første måned. Min plan er at lukke ned for DigitalOcean i den nærmeste fremtid, da jeg er begyndt at lave statiske websites med Jekyll i stedet, som jeg kan hoste gratis på Github Pages.
     referral:
       title: Opret server på Digital Ocean
       url: https://m.do.co/c/36a848839044
@@ -114,7 +116,7 @@ Hvis du er lige så spændt som mig på, hvad besparelsen endte med at blive, s�
 
 {{s.excerpt }}
   {% if s.referral.url.size > 0 %}
-[{{ s.referral.title }}\*]({{ s.referral.url }}){: .btn .btn--large .btn--info }
+[{{ s.referral.title }}]({{ s.referral.url }}){: .btn .btn--large .btn--info }
   {% endif %}
   {% endfor %}
 {% endif %}

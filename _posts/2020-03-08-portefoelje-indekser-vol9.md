@@ -1,5 +1,10 @@
 ---
-title: "Hvordan investerer jeg i et bredt aktieverdensindeks #9"
+title: "Verdensindekset 2021: Passiv investering i aktier [Guide]"
+seo_title: "Verdensindekset 2021: Passiv investering i aktier [Guide] »"
+description: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Jeg viser her hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+excerpt: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Det består af henholdsvis de udviklede lande og fremvoksende markeder. Jeg viser her, hvordan det hænger sammen, og hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
 category:
@@ -8,7 +13,7 @@ tags:
   - investering
   - aktier
   - obligationer
-excerpt: "Hvad er et bredt verdensindeks, når man snakker om investeringer i aktier?"
+  - værdipapirer
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
@@ -18,8 +23,44 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
+{% comment %}
 
+Du har jo nok stødt på Ray Dalio og hans all weather portfolio, som mange sværger til - find evt inpsiration der. Jeg hælder (pension,frie og ASK) til EUNL, EUNM, SXRG og XDEX . De 2 sidste grundet historiske afkast indenfor Small cap og Value - men ingen ved hvad fremtiden bringer.
+
+***
+
+
+http://enkroneadgangen.dk/hvordan-investerer-man-i-aktier-som-nybegynder-simpel-portefoelje-for-den-nye-investor/
+
+
+***
+https://www.ft.com/content/7e16172e-ce51-4c41-a139-3a796790bbbe
+
+
+Sæt 100 % i MSCI ACWI-verdensindekset og intet andet.
+MSCI ACWI er det bredeste verdensindeks, der findes med både aktier fra udviklede og ikke-udviklede lande (emerging markets).
+Det kan man f.eks. gøre ved at investere i Sparindex INDEX Globale Aktier eller iShares MSCI ACWI, som begge følger indekset.
+Sparinvest INDEX Globale Aktier følger MSCI ACWI IMI, der både har globale aktier fra large-cap, mid-cap og small-cap.
+"Jeg vil gerne have større spredning!!"
+Du opnår ikke større spredning end at investere i hele verden gennem MSCI ACWI-indekset. Der er ikke nogen rationel grund til at ønske flere fonde.
+"Jeg vil gerne have tematiske ETF'er!!"
+Fint nok, de underperformer bare som regel i forhold til resten af markedet.
+(Kilde: https://www.ft.com/.../7e16172e-ce51-4c41-a139-3a796790bbbe)
+"USA fylder meget i verdensindekset!!"
+Ja, fordi de største virksomheder er amerikanske målt på aktieværdi. Hvis dette ændrer sig, så ændrer allokeringen sig også i indekset; f.eks. når / hvis emerging markets-virksomhederne kommer til at blive større i fremtiden.
+"Verdensindekset er kedeligt. Jeg vil slå markedet!!"
+Held og lykke. 90 % af de topuddannede, professionelle, amerikanske investorer lykkes ikke med det.
+(Kilde: https://www.businessinsider.com/.../investment-pros-cant...)
+Mere op Sparindex INDEX Globale Aktier / MSCI ACWI-indekset:
+https://youtu.be/ZOPTemYbt7U
+Thematic ETFs can deliver significant losses, academics find
+FT.COM
+Thematic ETFs can deliver significant losses, academics find
+
+***
+{% endcomment%}
 *[FTSE]: Financial Times Stock Exchange Index
 *[S&P]: Standard & Poor
 *[MSCI]: Tidligere Morgan Stanley Capital International, nu MSCI Inc.
@@ -28,9 +69,9 @@ feature_row:
 *[NR]: Net return
 *[DJSI]: Dow Jones Sustainability Index
 
-Når jeg skriver om verdensmarkedet, så handler det om aktier. Der er flere forskellige virksomheder, der arbejder med at sammensætte indekser. Hvis du deltager i diskussioner om verdensindekset, skal du altså vide nøjagtigt hvilket indeks, der refereres til.
+Når jeg skriver om verdensmarkedet og verdensindekset, så handler det om aktier. Der er flere forskellige virksomheder, der arbejder med at sammensætte indekser. Hvis du deltager i diskussioner om verdensindekset, skal du altså vide nøjagtigt hvilket indeks, der refereres til.
 
-## Hvorfor er jeg interesseret i verdensindekset?
+## Hvorfor er jeg interesseret i at investere i verdensindekset?
 
 Jeg investerer på langt sigt. Jeg investerer efter to principper:
 
@@ -63,7 +104,7 @@ MSCI ACWI (All Countries World Index) ([Factsheet](https://www.msci.com/document
 : Indekset dækker mere end 2.400 bestanddele i _large_ og _mid-cap_ selskaber i forskellige sektorer og fordelt på 49 udviklede og udviklingslande.
 
 MSCI ACWI Investable Market Index (IMI) ([Factsheet](https://www.msci.com/documents/10199/b93d88ef-632f-4bdb-9069-d7c5aecd9d6d))
-: Dækker mere end 9.000 bestanddele på tværs af virksomheder i _large, mid and small-cap_ på tværs af sektorer og fordelt på 49 udviklede og udviklingslande. 
+: Dækker mere end 9.000 bestanddele på tværs af virksomheder i _large, mid and small-cap_ på tværs af sektorer og fordelt på 49 udviklede og udviklingslande.
 
 MSCI ACWI All Cap Index ([Factsheet](https://www.msci.com/documents/10199/1fbb5ec6-b5d2-4806-b873-cd9f51551701))
 : Dækker mere end 14.000 bestanddele og inkluderer large, mid, small og micro-cap størrelser af virksomheder for udviklede lande og large, mid, small-cap for emerging markets.
@@ -73,7 +114,7 @@ Ud over MSCI AWCI er det også godt at kende de lidt mere begrænsede indekser. 
 MSCI World
 : MSCI World indeholder 23 udviklede lande med Europa, Nordamerika og Japan og indeholder 1.644 bestanddele.
 
-The MSCI World Minimum Volatility Index 
+The MSCI World Minimum Volatility Index
 : Indekset er udregnet ved at optimere MSCI World Index, der dækker 23 udviklede lande, til at mindske den absolutte risiko (gennem en række begrænsninger). Historisk har indekset haft en lavere _beta_ og volatilitet i forhold til MSCI World.
 
 Hvad betyder lav volatilitet egentlig på aktiemarkedet - og er risikoen i virkeligheden lavere - kan du blive lidt klogere på i denne video:
@@ -103,7 +144,7 @@ Dow Jones Sustainability Index World (DJSI)
 Morningstar Global Markets Sustainability Leaders (MGMSL)
 : Beskrivelse følger. Du kan [læse lidt mere om indekset hos Morningstar](https://www.morningstar.com/insights/2017/10/20/sustainability-index).
 
-## Hvilke indekser trackes så?
+## Hvilke indekser trackes så i verdensindekset?
 
 Jeg har primært koncentreret mig om at finde nogle passive fonde, der kan give mig en eksponering mod et bredt verdensindeks. Jeg har i det følgende angivet hvilket indeks de hver især følger, og hvor mange bestanddele der er i indekset.
 
@@ -165,7 +206,7 @@ Hvis du foretrækker udbytter findes ETF'erne også i udbyttebetalende versioner
 
 Du kan søge på Nordnet efter [MSCI AWCI](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=MSCI%20ACWI) og [FTSE World](https://www.nordnet.dk/markedet/etf-lister?sortField=name&sortOrder=asc&freeTextSearch=FTSE%20All%20World).
 
-## Hvad vælger du?
+## Hvad vælger du, når du investerer i verdensindekset?
 
 Jeg er [ikke så bekymret for lagerbeskatning](/lagerbeskatning-etf-fordel-eller-ulempe/), men derfor kan man godt overveje om, hvilken beskatning man gerne vil have på værdipapirerne.
 
@@ -173,7 +214,7 @@ Jeg er [ikke så bekymret for lagerbeskatning](/lagerbeskatning-etf-fordel-eller
 - **Aktiesparekontoen**. Aktiesparekontoen er lagerbeskattet, så der kan omkostninger sagtens betyde meget for valget.
 - **Pensionsmidler**. Pensionsmidler er ofte lagerbeskattet.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row type="left" %}
 

@@ -2,13 +2,16 @@
 title: "Opdatering på projekt: Passiv indkomst fra affiliate og referral marketing (efter 4 mdr)"
 permalink: /projekt-referral-affiliate-august-2019/
 category:
-  - Indtægter
+  - Opdateringer
 tags:
   - opsparingsrate
   - affiliate
   - referral
+  - passiv indkomst
 excerpt: "Opdatering efter fire måneder på indtægter fra affiliate og referral markedsføring - og indtjening på blogs i det hele taget."
 toc: true
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 I marts startede jeg [mit projekt med at skabe lidt passiv indkomst ved hjælp af _affiliate_- og _referral_-marketing](/projekt-referral-affiliate/) uden at bruge al min tid. Hvis ikke du orker at læse mere, så kan jeg efter fire måneder afsløre, at det absolut ikke har været noget guldgrube for mig!
@@ -17,15 +20,15 @@ Projektet var delt i to.
 
 ## Projekt 1: Skab passiv indkomst fra eksisterende materiale
 
-Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://teambuilder.vih.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads\*](/go/partnerads/) på de forskellige sites.
+Jeg har i mange år delt masser af materiale gratis på [mit eget site](http://www.larsolesen.dk), [Fodboldens Legestue](http://www.legestue.net), [Motionsplan](http://www.motionsplan.dk) og et site med [Teambuildingsøvelser](http://www.teambuilder.dk). Der har ikke været reklamer på de forskellige sites, men i dette projekt har jeg aktiveret Google Adsense og [Partner-Ads](/go/partnerads/){: rel='sponsored nofollow noopener' } på de forskellige sites.
 
-Jeg har brugt omkring en uge på fuld tid med at få flyttet de tre sidstnævnte væk fra en PHP-server og Drupal og hen til en Jekyll-blog, der hostes gratis på Github Pages. Udgifterne er således kun prisen for domænerne. Samtidig har jeg fået ryddet op på de forskellige sites. 
+Jeg har brugt omkring en uge på fuld tid med at få flyttet de tre sidstnævnte væk fra en PHP-server og Drupal og hen til en Jekyll-blog, der hostes gratis på Github Pages. Udgifterne er således kun prisen for domænerne. Samtidig har jeg fået ryddet op på de forskellige sites.
 
 Desuden har jeg startet et nyt site med [Cykelruter](http://www.cykel-ruter.dk), hvor jeg præsenterer en masse cykelruter særligt i Øst-, Vest- og Sydjylland, som mig og min kæreste tidligere har skrevet.
 
 ## Projekt 2: Skab passiv indkomst på baggrund af affiliate og referral
 
-Dette site (www.ifire.dk) har også reklamer fra Google Adsense og [Partner-Ads\*](/go/partnerads/) - og mange af de forskellige investeringsmuligheder, der behandles her på sitet har enten affiliate eller referral-tilbud. Jeg har siden februar skrevet mere end 40 indlæg her på bloggen og brugt en del tid på at følge op på mine investeringer - og skrive månedlige opdateringer.
+Dette site (www.ifire.dk) har også reklamer fra Google Adsense og [Partner-Ads](/go/partnerads/){: rel='sponsored nofollow noopener' } - og mange af de forskellige investeringsmuligheder, der behandles her på sitet har enten affiliate eller referral-tilbud. Jeg har siden februar skrevet mere end 40 indlæg her på bloggen og brugt en del tid på at følge op på mine investeringer - og skrive månedlige opdateringer.
 
 ## Hvad har indtægterne så samlet været?
 

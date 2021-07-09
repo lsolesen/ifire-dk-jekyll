@@ -7,10 +7,11 @@ header:
   teaser: https://images.unsplash.com/photo-1528659882437-b89a74bc157f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   caption: Photo by Ehud Neuhaus on Unsplash
 category:
-  - Psykologi
+  - Investering
 tags:
   - investering
   - krise
+  - psykologi
 excerpt: "Er du klar med en kriseplan, hvis de økonomiske konjunkturer skifter fra højkonjunktur til lavkonjunktur, og du pludselig selv fanges ind i den økonomiske krise?"
 ---
 

@@ -10,6 +10,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 header:
   overlay_image: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1553788085-7a4ef80b42d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -23,6 +24,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 ## Begyndervenlig
@@ -47,9 +49,9 @@ Det er en kæmpe fordel for mig, at man kan automatisere strategien. På den må
 
 Der er forskellige måder at automatisere sin passive investering:
 
-- **[Brug Nordnets månedsopsparing\*](/go/nordnet/).** Månedsopsparingen på Nordnet er en funktion, hvor der automatisk investeres en gang hver måned, hvis du har sat penge på investeringskontoen. Du kan selv vælge mellem en (begrænset) række danske investeringsafdelinger og ETF’er i forhold til, hvad du gerne vil investere i. Mulighederne indeholder både passive og aktive fonde. Den helt store fordel er, at du ikke betaler kurtage for den automatiske handel - og at du ikke sidder og bliver fristet til at _time_ markedet. De årlige omkostninger i procent bliver således kun selve fondenes omkostninger. Du kan investere for helt ned til 500 DKK.
-- **[Nord.Investments\*](/go/nord/).** Nord er en såkaldt investeringsrobot. (Der er også rigtig mange banker, der har lanceret lignende produkter, fx June, Nora, Darwin). Fordelen ved Nord er at de årlige omkostninger er helt nede på 0,75% - og at det er en helt passiv investering for dig. Du vælger selv, hvilken risiko investeringen skal have, og så bliver allokeringen mellem aktier og andre typer værdipapirer justeret automatisk. Du kan med Nord også vælge en portefølje med vægt på bæredygtighed.
-- **[Saxo Bank\*](/go/saxoinvestor/).** Der er flere mulige børsmæglere, men hos Saxo er der ingen minimumskurtage. Du kunne automatisk overføre penge til investeringskontoen den 1. i måneden, og så køber du selv den passive investeringsfond, du er interesseret i. Det er naturligvis ikke fuldt automatiseret.
+- **[Brug Nordnets månedsopsparing](/go/nordnet/).** Månedsopsparingen på Nordnet er en funktion, hvor der automatisk investeres en gang hver måned, hvis du har sat penge på investeringskontoen. Du kan selv vælge mellem en (begrænset) række danske investeringsafdelinger og ETF’er i forhold til, hvad du gerne vil investere i. Mulighederne indeholder både passive og aktive fonde. Den helt store fordel er, at du ikke betaler kurtage for den automatiske handel - og at du ikke sidder og bliver fristet til at _time_ markedet. De årlige omkostninger i procent bliver således kun selve fondenes omkostninger. Du kan investere for helt ned til 500 DKK.
+- **[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }.** Nord er en såkaldt investeringsrobot. (Der er også rigtig mange banker, der har lanceret lignende produkter, fx June, Nora, Darwin). Fordelen ved Nord er at de årlige omkostninger er helt nede på 0,75% - og at det er en helt passiv investering for dig. Du vælger selv, hvilken risiko investeringen skal have, og så bliver allokeringen mellem aktier og andre typer værdipapirer justeret automatisk. Du kan med Nord også vælge en portefølje med vægt på bæredygtighed.
+- **[Saxo Bank](/go/saxoinvestor/).** Der er flere mulige børsmæglere, men hos Saxo er der ingen minimumskurtage. Du kunne automatisk overføre penge til investeringskontoen den 1. i måneden, og så køber du selv den passive investeringsfond, du er interesseret i. Det er naturligvis ikke fuldt automatiseret.
 
 Hvis du opretter et automatiseret system, så skal du tænke meget mindre på dine investeringer.
 

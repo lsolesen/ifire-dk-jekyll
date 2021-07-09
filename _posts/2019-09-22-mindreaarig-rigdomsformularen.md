@@ -2,11 +2,13 @@
 title: "Min nevø, investeringer og rigdomsformlen"
 permalink: /nevo-rigdomsformel/
 category:
-  - Indtægter
+  - Privatøkonomi
 tags:
   - rigdomsformlen
 excerpt: "Hvad kan man tænke på som ung - hvis man gerne vil have lidt styr på sin økonomi?"
 toc: true
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 I min familie har vi haft en aftale om et beløb, vi giver i julegaver og fødselsdagsgaver. Men jeg synes ikke altid - særligt da børnene var små - at der var grund til at købe mere legetøj, hvor børnene alligevel synes at indkpakningspapiret var det sjoveste. Derfor købte jeg ofte mindre (dyre) ting til mine nevøer og satte pengene til side. Så kunne jeg bruge pengene, hvis jeg fik en rigtig god ide til en større gave, når de blev større.
@@ -32,7 +34,7 @@ De procentvise omkostninger til kurtage falder naturligvis, hvis han vælger at 
 
 ### Omkostninger på månedsopsparingen
 
-På Nordnet kan han også bruge månedsopsparingen, som naturligvis er kurtagefri, men hvor han skal vælge mellem investeringsfonde med forskellige årlige omkostninger i procent (ÅOP). Jeg har foreslået ham at kigge på følgende _passive_ fonde. Da han har sit eget depot, og det er en gave fra mig, så bliver han beskattet på sit eget frikort. Derfor betyder det ikke så meget, om det er en dansk fond, der beskattes som aktieindkomst, eller en udenlandsk ETF, der beskattes som kapitalindkomst.
+På Nordnet kan han også bruge [deres månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), som naturligvis er kurtagefri, men hvor han skal vælge mellem investeringsfonde med forskellige årlige omkostninger i procent (ÅOP). Jeg har foreslået ham at kigge på følgende _passive_ fonde. Da han har sit eget depot, og det er en gave fra mig, så bliver han beskattet på sit eget frikort. Derfor betyder det ikke så meget, om det er en dansk fond, der beskattes som aktieindkomst, eller en udenlandsk ETF, der beskattes som kapitalindkomst.
 
 | Ticker     | Værdipapir                                                                                                                           | ÅOP   | Morningstar rating                       | Bæredygtighed                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|

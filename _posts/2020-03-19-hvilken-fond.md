@@ -6,6 +6,9 @@ category:
   - Investering
 tags:
   - investering
+  - fond
+  - ETF
+  - værdipapirer
 excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
 header:
   overlay_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
@@ -19,6 +22,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Aktiemarkedet er et yderst volatilt marked, hvor kurserne på aktierne går op og ned. Du kan opleve store daglige fald og stigninger. Det ændrer sig ikke selvom, du vælger at investere i fonde. Fordelen ved at investere i fonde er, at du automatisk får en høj diversificering i din portefølje, fordi fondene køber sig ind i mange aktiver.
@@ -147,7 +151,7 @@ Hvis du fx gerne vil følge det globale marked, så skal fonden sammenlignes med
 
 Inden du vælger fonde, skal du først have styr på din strategi. Hvorfor investerer du, og hvordan vil du gerne investere? Og hvilket indeks vil du følge?
 
-Hvis du fx vælger at følge verdensindekset, og du gerne vil bruge [Nordnets månedsopsparing\*](/go/nordnet/), så kan du fx vælge Sparinvest INDEX Globale Aktier Min. Risiko, som følger MSCI World Minimum Volatility og supplere den med Sparinvest INDEX Emerging Markets.
+Hvis du fx vælger at følge verdensindekset, og du gerne vil bruge [Nordnets månedsopsparing](/go/nordnet/), så kan du fx vælge Sparinvest INDEX Globale Aktier Min. Risiko, som følger MSCI World Minimum Volatility og supplere den med Sparinvest INDEX Emerging Markets.
 
 Men hvordan bliver din samlede portefølje så egentlig, og hvad skal fordelingen være mellem dem? Og hvad bliver de samlede omkostninger?
 

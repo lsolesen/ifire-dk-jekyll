@@ -3,10 +3,11 @@ title: "Min rejse som investor - og lidt om psykologi"
 last_modified_at: 2020-03-17T09:20:02+02:00
 permalink: /min-investorrejse/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - psykologi
+  - værdipapirer
 excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet. Måske genkender du noget i min rejse fra dig selv."
 header:
   overlay_image: https://images.unsplash.com/photo-1550983552-c97e42e10cb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
@@ -20,6 +21,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/start-med-hvorfor_simon-sinek_haeftet_9788717043664
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
     title: "The Simple Path to Wealth"
@@ -27,6 +29,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 *[FOMO]: Fear Of Missing Out
@@ -50,7 +53,7 @@ I 2019 får jeg så en opvågning, da jeg bliver rigtig interesseret i økonomis
 
 De seneste tre år havde ÅOP ligget på mellem 1,21% og 1,75% af min investering, når man lægger bankens gebyrer, kurtage og værdipapirenes omkostninger sammen. Samtidig havde der kun været en intern rente på 2,8% i årene fra 2013-2018. Det var med andre ord tid til noget andet!
 
-Jeg tænkte, at jeg kunne overføre hele beholdningen til mit eget depot, for så ville jeg spare de årlige omkostninger til, at banken vedligeholdt porteføljen. Jeg havde hørt godt om [Nordnet\*](/go/nordnet/), så det satte jeg i gang. Men det kunne jeg desværre ikke få lov til:
+Jeg tænkte, at jeg kunne overføre hele beholdningen til mit eget depot, for så ville jeg spare de årlige omkostninger til, at banken vedligeholdt porteføljen. Jeg havde hørt godt om [Nordnet](/go/nordnet/), så det satte jeg i gang. Men det kunne jeg desværre ikke få lov til:
 
 > Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagtsplejeprodukter.
  
@@ -60,7 +63,7 @@ Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden b�
 > 
 > Køber man selv f.eks. BankInvest- og Valueinvestafdelinger via et åbent depot, køber man deres Dirty Funds-afdelinger, hvor vi (bankerne) modtager provision, så her er afdelingernes ÅOP højere og afkastet lidt lavere. Til gengæld er der så ikke samme omkostninger til banken, da man selv varetager investeringerne.
 > 
-> Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du p��tænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
+> Det er derfor ikke nødvendigvis billigere at have investeringesbeviser i Nordnet, hvis du påtænker at købe investeringsbeviser, da du her køber Dirty Funds med højere ÅOP.
 
 --- <cite>Svar fra min rådgiver i min Bank</cite>
 
@@ -68,7 +71,7 @@ I mit fuldmagtsinvesteringsprodukt havde banken investeret i nogle aktivt forval
 
 Men jeg måtte altså til at sadle helt om i mine investeringer, fordi jeg ikke bare langsomt kunne omlægge investeringerne.
 
-Jeg fik et [gratis investeringsforslag fra Nord.Investments\*](/go/nord/), som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
+Jeg fik et [gratis investeringsforslag fra Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }, som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
 
 Jeg var naturligvis oprindeligt _primet_ til at tænke at banken var den bedste rådgiver for mine penge. I bagklogskabens lys er det naturligvis ikke tilfældet, når de bliver rådgivere og sælgere af deres egne produkter.
 
@@ -76,7 +79,7 @@ Jeg var naturligvis oprindeligt _primet_ til at tænke at banken var den bedste 
 
 Derefter gik jeg selv i gang med at eksperimentere lidt med at investere, og jeg læste en masse om det. Jeg tænkte, at sådan ville jeg bedst selv hurtigt kunne se mulighederne, og hvordan jeg ville gribe det an. Jeg tilmeldte mig grupper på Facebook om finansiel uafhængighed, hvor folk havde mange forslag til investeringsmuligheder. Jeg begyndte også at lytte til Millionærklubben, hvor man får det indtryk, at enkeltaktier er en god ide for alle at gå i gang med.
 
-Jeg gik i gang med at eksperimentere med udbytteaktier, [robotinvestorer\*](/go/nord/), passive danske indeksforeninger, udenlandske ETF’er, [copy trading](/go/etoro/), crowdlending, [kryptovaluta\*](/go/coinbase/), guld. Eksperimenterne har taget meget tid og tankevirksomhed, men det har været spændende at sætte sig ind i. 
+Jeg gik i gang med at eksperimentere med udbytteaktier, [robotinvestorer](/go/nord/){: rel='sponsored nofollow noopener' }, passive danske indeksforeninger, udenlandske ETF’er, [copy trading](/go/etoro/){: rel='sponsored nofollow noopener' }, crowdlending, [kryptovaluta](/go/coinbase/){: rel='sponsored nofollow noopener' }, guld. Eksperimenterne har taget meget tid og tankevirksomhed, men det har været spændende at sætte sig ind i. 
 
 Det er imidlertid et endnu større arbejde, når kompleksiteten i investeringerne skal reduceres igen.
 
@@ -157,7 +160,7 @@ Og det bedste er, at du ikke behøver at være et aktiegeni eller udvalgt dygtig
 
 **Buy and hold med passive investeringsafdelinger, der dækker verdensmarkedet, indkøbt efter _dollar cost average_ virker bare på langt sigt.**
 
-Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) er de to bøger, jeg burde have læst først på min investeringsrejse.
+Simon Sineks [Start med Hvorfor](/start-med-hvorfor/) og J. L. Collins [Simple Path to Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } er de to bøger, jeg burde have læst først på min investeringsrejse.
 
 ## Genkender du de psykologiske mekanismer?
 

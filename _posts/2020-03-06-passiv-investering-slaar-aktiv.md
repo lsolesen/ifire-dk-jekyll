@@ -11,6 +11,7 @@ category:
 tags:
   - investering
   - passiv investering
+  - værdipapirer
 excerpt: "Jeg er passiv investor, fordi jeg ikke kan finde nogle gode argumenter for ikke at være det. William Sharpe leverer det filosofiske argument, og så er der masser af empiri."
 ---
 
@@ -49,7 +50,7 @@ En **passiv investor** følger et markedsindeks ved at besidde alle aktiver af d
 
 En **aktiv investor** forvalter _IKKE_ sin formue passivt. Den aktive investors portefølje adskiller sig til tider eller hele tiden fra den passive investors portefølje, da førstnævnte _handler_ med aktiverne (fx for at slå markedet).
 
-[Få gratis investeringsforslag med passive ETF’er Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få gratis investeringsforslag med passive ETF’er Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Bevisbyrden for Sharpes antagelser
 

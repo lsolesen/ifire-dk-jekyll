@@ -8,6 +8,8 @@ category:
 tags:
   - investering
   - skat
+  - værdipapirer
+  - aktier
 header:
   overlay_image: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2241&q=80
   teaser: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -20,6 +22,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Man skal betale skat af det, man tjener på aktier..Da jeg for alvor begyndte at investere i aktier kunne skatten godt være lidt forvirrende. Jeg synes aktiebeskatning kan være lidt forvirrende, så jeg besluttede mig for at beskrive forskellen på lagerbeskatning og realisationsbeskatning og senere kommer jeg ind på, hvad aktieindkomst og kapitalindkomst er.
@@ -64,7 +67,7 @@ For at beskatningen bliver korrekt, så skal du sørge for, at Skat ved hvad din
 
 Handler du derimod gennem en udenlandsk børsmægler, så er det dit eget ansvar at indberette skattegrundlaget.
 
-Jeg handler selv ved [Nordnet\*](/go/nordnet) og [Saxo\*](/go/saxo/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro\*](/go/etoro/), som jeg så selv indberetter. 
+Jeg handler selv ved [Nordnet](/go/nordnet) og [Saxo](/go/saxoinvestor/), som automatisk indberetter til Skat. Jeg har også en mindre andel hos [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' }, som jeg så selv indberetter. 
 
 ## Hvad er lagerbeskatning?
 
@@ -84,7 +87,7 @@ Udenlandske ETF’er og akkumulerende investeringsforeninger er lagerbeskattede.
 
 Det betyder altså, hvis du køber en udenlandsk ETF, så er den lagerbeskattet uanset, hvilket depot du køber den på. Du skal være opmærksom på, at kun de ETF’er der er på Skats positivliste bliver beskattet som aktieindkomst, mens de øvrige - uanset om den primære bestanddel er aktier - bliver beskattet som aktieindkomst.
 
-Du kan investere for frie midler på aktiesparekontoen, som også er lagerbeskattet. Det betyder altså at uanset, hvilke papirer du investerer i på aktiesparekontoen, så bliver de lagerbeskattede. 
+Du kan investere for [frie midler på aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}), som også er lagerbeskattet. Det betyder altså at uanset, hvilke papirer du investerer i på aktiesparekontoen, så bliver de lagerbeskattede. 
 
 Både værdipapirerne og depottypen kan altså betyde noget for, om investeringerne er lagerbeskattede.
 
@@ -166,7 +169,7 @@ Det er lidt forvirrende, og det kræver altså, at din investering er relativt s
 
 ## Overblik over beskatning af værdipapirer
 
-Det er altså ikke helt let at have overblik over skatten, for der er så mange forskellige satser og depottyper. Jeg har slet ikke været inde på skatten på pensionsdepoter (som alle er lagerbeskattede) eller børneopsparinger. Der må du selv lige researche lidt.
+Det er altså ikke helt let at have overblik over skatten, for der er så mange forskellige satser og depottyper. Jeg har slet ikke været inde på skatten på pensionsdepoter (som alle er lagerbeskattede) eller [skat på børneopsparinger]({% link _posts/2019-02-27-borneopsparing.md %}). Der må du selv lige researche lidt.
 
 Men selv når vi taler **frie midler**, så er der altså mange forskellige måder at investeringerne bliver beskattet på. Og så er **aktiesparekontoen lagerbeskattet** modsat alle andre depoter til frie midler. 
 

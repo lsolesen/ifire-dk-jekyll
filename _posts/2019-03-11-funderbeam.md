@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/funderbeam.jpg
   teaser: /assets/images/logo/funderbeam.png
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - crowdlending
   - crowdfunding
@@ -42,13 +42,13 @@ At Funderbeam bruger _blockchain_ gør imidlertid ikke investeringerne mere sikr
 
 Det er let og ligetil at oprette en konto hos [Funderbeam](/go/funderbeam). Du indsender dokumentation, og efter et par dage bliver du godkendt til at handler på platformen. Websitet er meget let at bruge. Jeg har skrevet til support, og de svarer rigtig hurtigt.
 
-Selvom Funderbeam udnytter _blockchain_, så investerer man penge i Euro, så valutaen er ret let at forstå. Jeg har fx lige indikeret min interesse i danske [Lendinos syndikat](https://www.funderbeam.com/syndicate/lendino). Du kan overføre penge med bankoverførsel, betalingskort eller [Transferwise](/go/transferwise/).
+Selvom Funderbeam udnytter _blockchain_, så investerer man penge i Euro, så valutaen er ret let at forstå. Jeg har fx lige indikeret min interesse i danske [Lendinos syndikat](https://www.funderbeam.com/syndicate/lendino). Du kan overføre penge med bankoverførsel, betalingskort eller [Transferwise](/go/transferwise/){: rel='sponsored nofollow noopener' }.
 
 Tankerne og begreberne i Funderbeam er lidt anderledes end andre crowdfunding firmaer. Her gennemgår jeg kort begreberne, du skal kende:
 
 - **Syndicate**. Når investorer samler en række investeringer, oprettes et syndikat. Syndikatet har en _lead_-investor, som forhandler med firmaet om vilkårene for syndikatet. Når både investorer og firmaet er tilfredse, vil syndikatet blive åbnet for potentielle investorer. Investorerne indikerer deres interesse, og hvis investorerne bliver godkendt af _lead_-investoren kommer man med i syndikatet - og har altså investeret i firmaet.
 
-Til de enkelte syndikater er der forskellige vilkår. [Funderbeam](/go/funderbeam/) har en god [hjælpeside](https://www.funderbeam.com/help/?topic=investing-and-trading). Her kan du læse meget mere om, hvordan platformen fungerer, hvilke risici der er - og hvad teknologien bag platformen er.
+Til de enkelte syndikater er der forskellige vilkår. [Funderbeam](/platform/funderbeam/) har en god [hjælpeside](https://www.funderbeam.com/help/?topic=investing-and-trading). Her kan du læse meget mere om, hvordan platformen fungerer, hvilke risici der er - og hvad teknologien bag platformen er.
 
 ## Ulemper ved Funderbeam
 

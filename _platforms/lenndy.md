@@ -55,4 +55,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 - Første investering i Lenndy.
 - Auto-invest funktionen investerer kun i nye lån. Det betyder, at når du første gang sætter penge ind, så kan det være en rigtig god ide at investere nogle af de indsatte penge manuelt. Ellers kan det godt tage et stykke tid.
 
-[Tilmeld dig Lenndy\*](/go/lenndy/){: .btn .btn--large .btn--success}
+[Tilmeld dig Lenndy](/go/lenndy/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }

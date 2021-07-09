@@ -16,15 +16,18 @@ feature_row_solutions:
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
-    excerpt: "[Coinbase\\*](/go/coinbase/) har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link\\*](/go/coinbase/)."
+    excerpt: "[Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link](/go/coinbase/){: rel='sponsored nofollow noopener' }."
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/kraken.png
     alt: "Kraken"
     title: "Kraken"
-    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken\\*](/go/kraken/), som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' }, som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
-    excerpt: "[Ledger\\*](/go/ledger/) er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
+    excerpt: "[Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
+    rel: sponsored nofollow noopener
 ---
 
 Det er et år siden jeg kiggede på, hvordan jeg ville sammensætte en [portefølje med kryptovaluta](/crypto-portfolio/). Jeg havde mange tanker om en diversificeret portefølje, som jeg fast ville købe lidt ind i efter _dollar cost average_-princippet. Det har været spændende at sætte sig ind i.
@@ -42,11 +45,11 @@ Min kryptovaluta er købt med **opsparing** for øje, så jeg handler ikke i por
 
 ## Hvordan udvikler min kryptoportefølje sig?
 
-- **Indkøb af kryptovaluta**. Efter at have prøvet en del børser og kigget på gebyrer, så er jeg blevet enig med mig selv om, at jeg køber ind på [Kraken\*](/go/kraken/). Jeg indsætter penge via [N26\*](/go/n26/) efter først at have vekslet pengene på [Revolut\*](/go/revolut/). Jeg havde udfordringer med at overføre direkte fra Revolut til Kraken.
+- **Indkøb af kryptovaluta**. Efter at have prøvet en del børser og kigget på gebyrer, så er jeg blevet enig med mig selv om, at jeg køber ind på [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' }. Jeg indsætter penge via [N26](/go/n26/){: rel='sponsored nofollow noopener' } efter først at have vekslet pengene på [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }. Jeg havde udfordringer med at overføre direkte fra Revolut til Kraken.
 
-[Kraken\*](/go/kraken/){: .btn .btn--large .btn--info } [Coinbase\*](/go/coinbase/){: .btn .btn--large .btn--info } [Binance\*](/go/binance/){: .btn .btn--large .btn--warning }
+[Kraken](/go/kraken/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Binance](/go/binance/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-- **Kryptovaluta for at følge kurser**. Jeg har tjent kryptovaluta på [Coinbase Earn](/coinbase-earn/), hvor jeg har gennemgået kurser i bl.a. [Stellar Lumens\*](https://coinbase.com/earn/xlm/invite/cxq453w7), [EOSIO\*](https://coinbase.com/earn/eos/invite/cjdkm8sp), [Orchid\*](https://coinbase.com/earn/oxt/invite/pc1gh5xs), men også Dai, Tezos, Basic Attention Token, som bl.a. bruges i [Brave browseren](/brave-anmeldelse/). Kurserne tager ikke så lang tid, og du kan tjene mellem 6-10 USD i coins på de fleste kurser.
+- **Kryptovaluta for at følge kurser**. Jeg har tjent kryptovaluta på [Coinbase Earn](/coinbase-earn/), hvor jeg har gennemgået kurser i bl.a. [Stellar Lumens](https://coinbase.com/earn/xlm/invite/cxq453w7){: rel='sponsored nofollow noopener' }, [EOSIO](https://coinbase.com/earn/eos/invite/cjdkm8sp){: rel='sponsored nofollow noopener' }, [Orchid](https://coinbase.com/earn/oxt/invite/pc1gh5xs){: rel='sponsored nofollow noopener' }, men også Dai, Tezos, Basic Attention Token, som bl.a. bruges i [Brave browseren](/brave-anmeldelse/). Kurserne tager ikke så lang tid, og du kan tjene mellem 6-10 USD i coins på de fleste kurser.
 
 - **Udlån af kryptovaluta**. Desuden låner jeg min kryptovaluta ud via Uphold gennem CredEarn <ins>(Cred er gået konkurs, så det var en dårlig ide at låne penge ud på den platform)</ins>. Det er naturligvis relativ høj risiko ikke at holde sine coins selv og endda låne dem ud, men da mine _coins_ er langsigtet opsparing, og jeg ikke skal bruge dem, så er det en god måde at få lidt renter på. Jeg bruger den løbende renteindtægt til at købe op i Bitcoins.
 
@@ -54,7 +57,7 @@ Det har været en dyr fornøjelse at købe Cred, men LBA var nødvendige for at 
 
 Stellar Lumens har også været er også lige så stille dalet i hele perioden, og det er ikke meget _inflation pool_ gør ved det, så lige nu er den interne rente -25% på XLM. 
 
-- **Mining**. Jeg brugte lidt tid på at _mine_ Monero via [MinerGate\*](/go/minergate/), og det er lykkes at mine lidt Monero, men glemmer at få tændt programmet, og det går for langsomt med at generere nok XMR, da jeg ikke længere har en computer, der står tændt i døgndrift.
+- **Mining**. Jeg brugte lidt tid på at _mine_ Monero via [MinerGate](/go/minergate/){: rel='sponsored nofollow noopener' }, og det er lykkes at mine lidt Monero, men glemmer at få tændt programmet, og det går for langsomt med at generere nok XMR, da jeg ikke længere har en computer, der står tændt i døgndrift.
 
 ## Hvordan er det så gået?
 
@@ -62,7 +65,7 @@ Her er en graf fra Portfolio Performance, hvor man kan se, at det er lykkes mig 
 
 {% include figure image_path="/assets/images/posts/crypto-performance.jpg" caption="Performance for kryptoporteføljen med benchmark ud fra Bitcoins og verdensindekset" %}
 
-Min fordeling i _coins_ er lige nu følgende. Jeg har foreløbig beholdt de coins, jeg har tjent i [Coinbase Earn\*](/coinbase/). Man ved jo aldrig hvad fremtiden bringer i kryptoverden.
+Min fordeling i _coins_ er lige nu følgende. Jeg har foreløbig beholdt de coins, jeg har tjent i [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }. Man ved jo aldrig hvad fremtiden bringer i kryptoverden.
 
 {% include figure image_path="/assets/images/posts/crypto-allocation.jpg" caption="Nuværende allokering af kryptovaluta" %}
 
@@ -71,16 +74,16 @@ Min fordeling i _coins_ er lige nu følgende. Jeg har foreløbig beholdt de coin
 For at opbevare sin kryptovaluta, så har du brug for en _wallet_. Jeg bruger følgende:
 
 - Uphold til at sende de fleste af mine _coins_ til CredEarn for at få renter på udlån af mine coins.
-- [Atomic Wallet\*](/go/atomicwallet/) til at opbevare Stellar Lumens, som indgår i en inflation pool_ og NEO, hvor jeg automatisk modtager NeoGas.
-- [Trust Wallet\*](/go/trustwallet/) til at holde Tezos og få adgang til _staking_.
+- [Atomic Wallet](/go/atomicwallet/){: rel='sponsored nofollow noopener' } til at opbevare Stellar Lumens, som indgår i en inflation pool_ og NEO, hvor jeg automatisk modtager NeoGas.
+- [Trust Wallet](/go/trustwallet/){: rel='sponsored nofollow noopener' } til at holde Tezos og få adgang til _staking_.
 
-_Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet\*](/go/ledger/)._
+_Husk at hvis du ikke tænker dig om, hvordan du opbevarer din cryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet](/go/ledger/){: rel='sponsored nofollow noopener' }._
 
-[Køb en hardware wallet hos Ledger\*](/go/ledger/){: .btn .btn--large .btn--warning }
+[Køb en hardware wallet hos Ledger](/go/ledger/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Hvordan tracker jeg min cryptovaluta?
 
-I starten brugte jeg [CoinTracking.info\*](/go/cointracking/), som jeg var rimelig glad for. Nu bruger jeg [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/), fordi jeg tracker resten af min portefølje med det gratis open source program.
+I starten brugte jeg [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' }, som jeg var rimelig glad for. Nu bruger jeg [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/), fordi jeg tracker resten af min portefølje med det gratis open source program.
 
 ## Hvad er dine overvejelser?
 
@@ -88,6 +91,10 @@ Hvis du kan lide hvad du læser, eller bare vil øve dig i at sende bitcoins, s�
 
 {% include feature_row id="feature_row_solutions" %}
 
+<!-- Ezoic - incontent_12 - incontent_12 -->
+<div id="ezoic-pub-ad-placeholder-115">
 [![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
+</div>
+<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 {% include disclaimer.md %}

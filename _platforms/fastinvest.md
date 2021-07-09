@@ -45,7 +45,7 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 ## August
 
-- Trak 48 EUR hjem til [Revolut\*](/go/revolut/) for at runde det investerede ned til 4.000 EUR og for at konstatere at pengene kommer hurtigt tilbage på kontoen, hvis du ønsker det.
+- Trak 48 EUR hjem til [Revolut](/go/revolut/){: rel="sponsored nofollow noopener" } for at runde det investerede ned til 4.000 EUR og for at konstatere at pengene kommer hurtigt tilbage på kontoen, hvis du ønsker det.
 - Den interne rente er faldet fra 11,31% i slutningen af juli til 9,27% i slutningen af august. Jeg forventer dog, at den kommer op igen i næste måned.
 
 ## September
@@ -69,4 +69,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1442216585&amp;format=image"></iframe>
 
-[FastInvest\*](/go/fastinvest/){: .btn .btn--large .btn--warning }
+[FastInvest](/go/fastinvest/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

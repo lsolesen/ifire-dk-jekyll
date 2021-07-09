@@ -2,7 +2,7 @@
 title: "Biløkonomi - hvordan finder man ud af, hvornår bilen skal skiftes?"
 permalink: /bilokonomi/
 category:
-  - Biløkonomi
+  - Privatøkonomi
 tags:
   - biløkonomi
 excerpt: "Vores bil har efterhånden gjort det godt, men hvordan finder man ud af, hvornår det er er tid til at skifte?"
@@ -15,9 +15,12 @@ feature_row_autobutler:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=49818"
     btn_label: "Læs mere"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Kilometertæller ved overtagelse: 80.000  
+Kilometertæller ved overtagelse: 80.000
 Kilometertæller pr. medio juli 2019: 194.000
 
 ## Bilens historik
@@ -72,7 +75,7 @@ Vi har den seneste tid regnet lidt på, hvad benzinøkonomien i bilen er. Og den
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcPiPHuya32XoyHcIXTxbiR_GpnSCwpHAl14gXreS31Zf5IBCxRhhirijORT9RvZRymniTJDJdG8Fo/pubchart?oid=278777110&amp;format=image"></iframe>
 
-Vi har siden vi fik bilen i gennemsnit kørt 1.310 kilometer om måneden eller 15.724 kilometer om året. 
+Vi har siden vi fik bilen i gennemsnit kørt 1.310 kilometer om måneden eller 15.724 kilometer om året.
 
 Hvis vi i stedet havde en bil, der kunne køre 14 km / l om året, så ville vi spare omkring 20% på brændstof om året, hvilket er 3.300 kroner årligt.
 
@@ -80,11 +83,11 @@ Hvis vi i stedet havde en bil, der kunne køre 14 km / l om året, så ville vi 
 
 Vi sidder i øjeblikket og kigger lidt på en ny bil, fordi vi vurderer, at den nok ikke bliver billigere i værkstedsregninger fremover - og benzinøkonomien er jo ikke imponerende.
 
-Jeg overvejer også, at [udlejning via GoMore\*](/go/gomore/) kan være en måde at finansiere en ny bil på - eller måske bruge GoMore til at leje bil på, når det bliver nødvendigt. Jeg er dog ikke sikker på, at vi som famiile vil undvære vores egen bil i hverdagen.
+Jeg overvejer også, at [udlejning via GoMore](/go/gomore/){: rel='sponsored nofollow noopener' } kan være en måde at finansiere en ny bil på - eller måske bruge GoMore til at leje bil på, når det bliver nødvendigt. Jeg er dog ikke sikker på, at vi som famiile vil undvære vores egen bil i hverdagen.
 
 Men hvornår ved man egentlig om man skal skifte bil?
 
-[Opret dig på GoMore\*](/go/gomore/){: .btn .btn--large .btn--info}
+[Opret dig på GoMore](/go/gomore/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row id="feature_row_autobutler" type="left" %}
 

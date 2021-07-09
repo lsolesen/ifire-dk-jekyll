@@ -2,12 +2,14 @@
 title: "Hvad er obligationer?"
 last_modified_at: 2020-03-09T09:20:02+02:00
 permalink: /obligationer/
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Investering
 tags:
   - investering
-  - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Obligationer kan være en del af en portefølje for at sikre mod deflation og give porteføljen lidt stabilitet - og typisk mindre risiko."
 classes: wide
 feature_row:
@@ -18,9 +20,9 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-## TLDR;
 Traditionelt har obligationer været det sikre valg til opsparing. Renteniveauet på det seneste har imidlertid gjort det vanskeligt at få et højt afkast på obligationerne. Derfor betyder omkostningerne ved at handle obligationer gennem obligationsfonde for private investorer meget.
 
 ## Makroøkonomiske risici for penge
@@ -32,25 +34,25 @@ Der er to store makroøkonomiske risici for dine penge, som du i dine investerin
 
 ## Om obligationer
 
-Obligationer i en portefølje for at være et værn mod _deflation_. Obligationer har typisk også mindre udsving end aktier, så investeringsrejsen bliver lidt mindre bumpet. Obligationer giver også et afkast i form af renter. 
+Obligationer i en portefølje for at være et værn mod _deflation_. Obligationer har typisk også mindre udsving end aktier, så investeringsrejsen bliver lidt mindre bumpet. Obligationer giver også et afkast i form af renter.
 
 Men hvad er obligationer, og hvordan er de forskellige fra aktier?
 
-Obligationer er et stort emne, og mange af detaljerne interesserer formentlig ikke nogen, der er interesseret i _simpel_ investering. Men jeg synes man skal vide, hvad man investerer i, så hæng i! 
+Obligationer er et stort emne, og mange af detaljerne interesserer formentlig ikke nogen, der er interesseret i _simpel_ investering. Men jeg synes man skal vide, hvad man investerer i, så hæng i!
 
 Når du køber en aktie, køber du ejerskab i et firma. Når du køber obligationer låner du penge til et firma eller til en regering.
 
-_Deflation_ er når priserne i samfundet falder, så når du får pengene tilbage, du har lånt ud, så har du mere købekraft. Du kan altså købe mere, end da du lånte pengene ud. Denne stigning i værdi vil værne dig mod de tab _deflationen_ har på dine andre værdier. 
+_Deflation_ er når priserne i samfundet falder, så når du får pengene tilbage, du har lånt ud, så har du mere købekraft. Du kan altså købe mere, end da du lånte pengene ud. Denne stigning i værdi vil værne dig mod de tab _deflationen_ har på dine andre værdier.
 
 Når der er _inflation_ så stiger priserne, så de penge du ejer taber i værdi. Når du bliver tilbagebetalt, så kan du købe mindre for pengene. Derfor er det bedre under inflation at eje værdier, der stiger med inflationen.
 
 Typisk er der moderat inflation, og der vil obligationer og REIT stadig være et godt aktiv. Obligationer betaler renter og REIT betaler udbytter.
 
-Der er naturligvis risiko ved at købe obligationer. 
+Der er naturligvis risiko ved at købe obligationer.
 
-Som passiv investor kan du reducere risikoen ved obligationer ved at købe en passiv investeringsfond eller en ETF. Det har en række fordele i stedet for direkte selv at købe obligationer. 
+Som passiv investor kan du reducere risikoen ved obligationer ved at købe en passiv investeringsfond eller en ETF. Det har en række fordele i stedet for direkte selv at købe obligationer.
 
-- Det reducerer _default_-risikoen, fordi fonden indeholder en lang række forskellige obligationer. 
+- Det reducerer _default_-risikoen, fordi fonden indeholder en lang række forskellige obligationer.
 - Det reducerer også _rente_-risikoen, fordi fonden indeholder obligationer med forskellige udløbsdatoer.
 - Endelig reducerer det _inflations_-risikoen, fordi fonden indeholder obligationer købt på forskellige tidspunkter.
 
@@ -91,7 +93,7 @@ Hvis det skal være enkelt, så køb en passiv fond, der følger hele obligation
 
 ## Lidt flere risici for obligationer
 
-- **Kreditvurderingen sænkes**. Måske får firmaet, du har købt en en obligation i, sænket sin kreditvurdering. Det vil også betyde, at værdien af din obligation på det sekundære marked vil gå ned. 
+- **Kreditvurderingen sænkes**. Måske får firmaet, du har købt en en obligation i, sænket sin kreditvurdering. Det vil også betyde, at værdien af din obligation på det sekundære marked vil gå ned.
 - **Obligationen kan betales ud før tid**. Nogle aktier kan udstederen betale ud før udløbsdatoen. De giver dig altså pengene tilbage og stopper med at betale renter. Det vil de typisk kun gøre, hvis renterne falder og de kan låne pengene billigere. Som tidligere skrevet så stiger prisen på obligationen, når renten går ned. Men hvis den så betales ud, så forsvinder dit fremtidige afkast fra den potentielle prisstigning på obligationen.
 - **Likviditetsrisiko**. Nogle firmaer er ikke så populære, og måske kan du ikke sælge obligationen, når du gerne vil af med den. Det vil - alt andet lige - betyde at prisen falder på obligationen, fordi der er færre købere.
 
@@ -102,12 +104,12 @@ Der er mange forskellige obligationstyper; stater, nationale regeringer, lokale 
 > Investing in bonds is a hedge against bad investment decisions. They may not earn a high return going forward and may even lose some in the next bear market, but I believe the psychology of holding bonds will stop some people from doing the wrong thing at the wrong time. A portfolio with a fixed bond allocation helps reduce behavioral risk and leads to a higher probability for long-term success.
 
 --- <cite>[Rick Ferri](https://finance.yahoo.com/blogs/the-exchange/what-would-the-bursting-of-the-bond-bubble-look-like-165833587.html)</cite>
- 
+
 ## Hedging
 
-Den ansvarlige for en fond med obligationer kan vælge at reducere risikoen overfor valutaudsving. 
+Den ansvarlige for en fond med obligationer kan vælge at reducere risikoen overfor valutaudsving.
 
-Nogle fonde samler obligationer fra mange forskellige lande i fonden, og da valutaer kan svinge i forhold til hinanden, så handles der altså med en valutarisiko. Den valutarisiko kan man sikre sig imod. 
+Nogle fonde samler obligationer fra mange forskellige lande i fonden, og da valutaer kan svinge i forhold til hinanden, så handles der altså med en valutarisiko. Den valutarisiko kan man sikre sig imod.
 
 Forskellen på kort sigt kan være relativt høj i afkast, men på længere sigt kan valutaudsving udligne sig selv lidt. Typisk vil en _unhedged_ ETF vise større udsving end en _hedged_, så hvilken du vælger er op til din egen risikoprofil.
 
@@ -128,7 +130,7 @@ Hvis man til gengæld kigger på vækstgrafen som inkluderer udbytter, så ser d
 Ligesom med aktier er det godt at vide, hvad obligationerne egentlig kan tracke.
 
 Bloomberg Barclays Global-Aggregate Index
-: Dette indeks er et _benchmark_ for obligationer fra udviklede og udviklingslande i mange forskellige valutaer og løbetider for obligationerne. Det simulerer med andre ord hele markedet for obligationer.  
+: Dette indeks er et _benchmark_ for obligationer fra udviklede og udviklingslande i mange forskellige valutaer og løbetider for obligationerne. Det simulerer med andre ord hele markedet for obligationer.
 
 Der findes andre indekser, men Bloomberg Barclays er det mest brugte, som du vil se i nedenstående eksempler på indeksafdelinger og ETF'er.
 
@@ -153,7 +155,7 @@ Jeg har taget en enkelt aktiv, dansk investeringsafdeling med på listen. Jeg ka
 | SPFE    | [SPDR Bloomberg Barclays Global Aggregate Bond UCITS ETF (Dist)](https://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P0001CQ9N) | BBgBarc Global Aggregate | ?          | 0,10% | &#x2606;&#x2606;&#x2606;&#x2606;&#x2606; |                 | Hedged   |
 | VAGE    | [Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Distributing](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001HSBL)  | BBgBarc Global Aggregate |            | 0,10% |                                          |                 | Hedged   |
 | EUNU    | [BlackRock iShares Global Aggregate Bond UCITS ETF USD (Dist)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001CECH)      | BBgBarc Global Aggregate |            | 0,10% |                                          |                 | Unhedged |
-| XBAG    | [Xtrackers II Global Aggregate Bond Swap UCITS ETF 1D (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00012M2W)        | BBgBarc Global Aggregate | 24.954     | 0,15% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | *               | Unhedged |  
+| XBAG    | [Xtrackers II Global Aggregate Bond Swap UCITS ETF 1D (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00012M2W)        | BBgBarc Global Aggregate | 24.954     | 0,15% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | *               | Unhedged |
 | EUNH    | [BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI3)           | BBgBarc Euro Agg Govt    |            | 0,09% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | *               | Unhedged |
 | EUN5    | [BlackRock iShares Core € Corp Bond UCITS ETF EUR (Dist) (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000K7I1)     | BBgBarc Euro Agg Corps   |            | 0,20% |                                          | *               | Unhedged |
 

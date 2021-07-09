@@ -8,6 +8,7 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Hold dig til din strategi, når du har lavet den? Eller hvorfor udbytteaktier ikke er noget for mig, når jeg nu vil gøre det enkelt!"
 classes: wide
 feature_row:
@@ -18,9 +19,12 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Jeg havde besluttet mig for en strategi. Jeg ville købe index-fonde - og gøre det enkelt! 
+Jeg havde besluttet mig for en strategi. Jeg ville købe index-fonde - og gøre det enkelt!
 
 Men så læste jeg lidt mere om investering. Det viser sig, at der er mange interesserede i _finansiel uafhængighed_, der laver en portefølje med udbytteaktier. Så jeg blev revet med for at få en mere eller mindre fast indkomst.
 
@@ -47,7 +51,7 @@ Jeg investerer _langsigtet_, og udbytteaktier kan være fornuftige investeringer
 
 ## Tilbage til min (simple) strategi for værdipapirhandel
 
-Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922) - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
+Jeg (gen)så en Google Talk med [J. L. Collins](https://jlcollinsnh.com/) om hans bog [The Simple Path To Wealth](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922){: rel="sponsored nofollow noopener" } - og dernæst (gen)læste jeg hans [Stock series](https://jlcollinsnh.com/stock-series/) fra ende til anden (igen).
 
 {% include video id="T71ibcZAX3I" provider="youtube" %}
 
@@ -75,7 +79,7 @@ J. L. Collins skelner mellem **opbygningsfase** og **vedligeholdelsesfase**. I o
 
 Vanguards VTSAX eller VBTLX kan ikke købes i Europa eller Danmark, så vi må finde alternativer, der er UCITS-godkendte. J. L. Collins har i [Stocks --- Part XXI: Investing with Vanguard for Europeans skrevet af Mrs. EconoWiser](https://jlcollinsnh.com/2014/01/27/stocks-part-xxi-investing-with-vanguard-for-europeans/). Det er ikke helt klart, hvad J. L. Collins selv ville gøre som europæer. Han vil først og fremmest gå efter de fonde, der har de laveste omkostninger. Fx har [BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21) årlige omkostninger på 0,07%, og den dækker en del af VTSAX. (J. L. Collins nævner dog selv et sted, at han foretrækker VTSAX, fordi den indeholder andet end Large Cap).
 
-Du kan selv gå på jagt efter fonde med [Nordnets nye værktøj til at finde fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs). 
+Du kan selv gå på jagt efter fonde med [Nordnets nye værktøj til at finde fonde](https://next.nordnet.dk/market/funds), [investeringsforeninger](https://next.nordnet.dk/market/investment-funds) eller [ETF’er](https://next.nordnet.dk/market/etfs).
 
 Desværre kan man ikke filtrere på fonde, der er en del af Nordnets månedsopsparing. Det er heller ikke muligt at angive om fonden skal være passiv eller aktivt forvaltet, men det kommer forhåbentlig senere.
 {: .notice--info}
@@ -167,17 +171,17 @@ Med Vanguard kan du få lavere omkostninger ved at vælge et par forskellige ETF
 
 Jeg er i **opbygningsfasen**. Derfor vil jeg have min største eksponering i aktier. Jeg forventer ikke, at jeg skal tære på mine investeringer de næste 10 år. (Jeg har ikke gjort mig de helt store overvejelser om, hvilken fond der bedst muligt dækker obligationsmarkedet.)
 
-Det er jo besnærende med de lave omkostninger på de udenlandske ETF’er, selvom det UCITS-godkendte fonde ligger lidt højere end dem J. L. Collins foreslår. 
+Det er jo besnærende med de lave omkostninger på de udenlandske ETF’er, selvom det UCITS-godkendte fonde ligger lidt højere end dem J. L. Collins foreslår.
 
 ## Hvad betyder omkostningerne?
 
-Over lang tid betyder omkostninger meget for, hvad dit samlede afkast bliver. 
+Over lang tid betyder omkostninger meget for, hvad dit samlede afkast bliver.
 
 Jeg har siddet og [leget lidt med et regneark ift. omkostninger](https://docs.google.com/spreadsheets/d/1Yl2ur4-E7h5xknCBnRti4mCtA7Ru2UeUdBNoP7HQ7DI/copy?usp=sharing) i et par enkelte forslag til porteføljer, der kunne tilfredsstille ‘Simple Path to Wealth’ i en dansk kontekst.
 
 <iframe style="width:60%; height: 450px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4PX-3-nzknSdq3HrJAOtluzQKDCkzjha_pjYYtQgMWDDByOHiIiP_LvHDd1ustXgYyvTKd7ea6YV/pubhtml?widget=true&amp;headers=false"></iframe>
 
-SparIndex’ SPIGLAMRIK og SPIEMIKL har samlet i en allokering på 90%/10% en årlig omkostning på 0,62%, hvilket er væsentligt højere end 0,40% STIIAM fra Storebrand. Fordelen ved SparIndex-fondene er at de kan købes gratis på Nordnets månedsopsparing.
+SparIndex’ SPIGLAMRIK og SPIEMIKL har samlet i en allokering på 90%/10% en årlig omkostning på 0,62%, hvilket er væsentligt højere end 0,40% STIIAM fra Storebrand. Fordelen ved SparIndex-fondene er at de kan [købes uden kurtage på på Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
 Hvis vi har en årrække på 10 år, så er **forskellen mellem SparInvest og Storebrand** 3.161 DKK på en investering på 100.000 DKK med en forskel på 0,22% i omkostninger forudsat at afkastet er 4% pr. måned.
 
@@ -185,7 +189,7 @@ Hvis vi i stedet **sammenligner med BlackRock** og tager højde for, at vi skal 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQF4PX-3-nzknSdq3HrJAOtluzQKDCkzjha_pjYYtQgMWDDByOHiIiP_LvHDd1ustXgYyvTKd7ea6YV/pubchart?oid=1246384034&amp;format=image"></iframe>
 
-Men kan det overhovedet betale sig at købe de udenlandske ETF’er i en dansk kontekst? 
+Men kan det overhovedet betale sig at købe de udenlandske ETF’er i en dansk kontekst?
 
 - **Valutaveksling.** Man bliver naturligvis nødt til tage valutaveksling med i udregningerne. Valutaveksling kan betyde en del, hvis man holder sine positioner i kort tid og veksler tilbage, mens de naturligvis ikke har så stor indflydelse, hvis positionerne holdes i lang tid.
 
@@ -204,7 +208,7 @@ Hvad er din strategi, og hvordan sørger du for at holde den?
 
 [^1]: [Four Pillar Freedom](https://fourpillarfreedom.com/most-individual-stocks-underperform-index-funds/).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row type="left" %}
 

@@ -2,9 +2,10 @@
 title: "Mine erfaringer med Stjerneinvest Fri fra SparNord"
 permalink: /stjerneinvest-fri/
 category:
-  - Opsparing
+  - Investering
 tags:
   - investering
+  - anmeldelse
 header:
   overlay_image: https://images.unsplash.com/photo-1549421263-5ec394a5ad4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
   teaser: https://images.unsplash.com/photo-1549421263-5ec394a5ad4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
@@ -56,11 +57,11 @@ Prisen for aktiv forvaltning er ret høj.
 
 ## Clean og dirty funds
 
-Jeg ville egentlig bare have overført værdipapirerne til et depot på [Nordnet\*](/go/nordnet/), da jeg selv i højere grad ville tage styringen på investeringerne. Men det var ikke muligt.
+Jeg ville egentlig bare have overført værdipapirerne til et depot på [Nordnet](/go/nordnet/), da jeg selv i højere grad ville tage styringen på investeringerne. Men det var ikke muligt.
 
 I 2017 blev hele min portefølje skiftet fra fonde med **A** til fonde med **W** til slut i navnet. Det skete med en _corporate action_, som jeg først lige har opdaget, da jeg gennemgik alle handlerne. Samlet set har det været en fordel for min portefølje, da de årlige omkostninger er meget lavere for BankInvests produkter, hvis det er **W**-versionen. Men det betyder også, at jeg fra 2013 til 2017 har haft årlige omkostninger, der var endnu højere, og så bliver man jo helt trist - også set i lyset af [Danske Banks skandale med Flexinvest](https://www.dr.dk/nyheder/penge/bagmandspolitiet-sigter-danske-bank-i-sag-om-investeringsprodukt). Tidligere var der omkring 0,7% i formidlingsprovision i de årlige omkostninger for de enkelte værdipapirer.
 
-Men **W**-versionen af fondene er så ikke til handel på det frie marked, så jeg kunne ikke overflytte puljen direkte til [Nordnet\*](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. 
+Men **W**-versionen af fondene er så ikke til handel på det frie marked, så jeg kunne ikke overflytte puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. 
 
 Jeg fik følgende forklaring af min bank:
 
@@ -80,6 +81,6 @@ Fuldmagtsproduktet Stjerneinvest Fri er alt for dyrt, hvis man bare har en lille
 
 Hvilke fonde du kan vælge, kan du læse om andre steder her på sitet.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success }
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

@@ -3,13 +3,16 @@ title: "Porteføljeforslag med aktier og obligationer #4?"
 last_modified_at: 2019-04-25T20:20:02+02:00
 permalink: /investering-vol4/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Nu er min samlede værdipapirpulje ved at tage form - og nu venter jeg lige på en korrektion af markedet til at gå kraftigt ind."
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol2/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.
@@ -18,20 +21,20 @@ Jeg satser hovedsageligt på **investeringsfonde** og **ETF’er**, som invester
 
 Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummulerende**, da jeg så ikke behøver at tænke på, hvordan jeg skal geninvestere midlerne og ikke skal betale evt. kurtage for geninvesteringen.
 
-Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet](/go/nordnet/) gennem månedsopsparingen. I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
+Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
-Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt. 
+Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt.
 
 **UPDATE**: Desværre er fondene fra _Vanguard_ med virkelig lave omkostninger ikke **UCITS**-godkendte, så det kan ikke købes på hverken Nordnet eller SaxoInvestor.
 {: .notice--info}
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hold øje med kurtagen
 
-Når jeg køber manuelt ind i [Nordnet](/go/nordnet/), skal jeg være opmærksom på minimumskurtagen på 29 DKK for danske aktier og investeringsforeninger. Det betyder, at jeg skal købe relativt store summer (29.000 DKK) for at få den lavest mulige kurtage. Priserne for udenlandske handler er endnu højere, og fx skal jeg for at få mindst mulige kurtage købe for omkring 10.500 USD af fx _Vanguard_ ad gangen.
+Når jeg køber manuelt ind i [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' }, skal jeg være opmærksom på minimumskurtagen på 29 DKK for danske aktier og investeringsforeninger. Det betyder, at jeg skal købe relativt store summer (29.000 DKK) for at få den lavest mulige kurtage. Priserne for udenlandske handler er endnu højere, og fx skal jeg for at få mindst mulige kurtage købe for omkring 10.500 USD af fx _Vanguard_ ad gangen.
 
-Til at købe enkeltaktier og mindre portioner, så bruger jeg i stedet [SaxoInvestor](/go/saxoinvestor/). 
+Til at købe enkeltaktier og mindre portioner, så bruger jeg i stedet [SaxoInvestor](/go/saxoinvestor/).
 
 ## Fordeling mellem porteføljerne
 
@@ -66,7 +69,7 @@ Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgræns
 
 ## Portefølje 2: Nordnet: Growth Portfolio (aktier, obligationer, REIT og guld)
 
-Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg ved endnu ikke om jeg rent faktisk vil købe guld til min portefølje, men det er tydeligt i _back tests_ fra The Obvious Investor, at det stabiliserer porteføljen. Jeg vil primært gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP). Jeg har valgt de tre aktie-ETF'er, som også er en del af den [gratis investeringsplan fra Nord.investments*](/go/nord/), jeg har fået lavet. The Obvious Investor foreslår tre REIT ([Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB)), men jeg vil hellere dække REIT med en ETF. Jeg har markeret i tabellen nedenunder, hvilke af værdipapirerne, der kan købes i månedsopsparingen hos Nordnet. Denne portefølje er primært akkumulerende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb, når det er ved at være tid til at rebalancere porteføljen. Fordelingen i tabellen er på sigt, når porteføljen er klar til at passe sig selv uden for meget indblanden.
+Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg ved endnu ikke om jeg rent faktisk vil købe guld til min portefølje, men det er tydeligt i _back tests_ fra The Obvious Investor, at det stabiliserer porteføljen. Jeg vil primært gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP). Jeg har valgt de tre aktie-ETF'er, som også er en del af den [gratis investeringsplan fra Nord.investments](/go/nord/), jeg har fået lavet. The Obvious Investor foreslår tre REIT ([Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB)), men jeg vil hellere dække REIT med en ETF. Jeg har markeret i tabellen nedenunder, hvilke af værdipapirerne, der kan købes i månedsopsparingen hos Nordnet. Denne portefølje er primært akkumulerende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb, når det er ved at være tid til at rebalancere porteføljen. Fordelingen i tabellen er på sigt, når porteføljen er klar til at passe sig selv uden for meget indblanden.
 
 | Tick | Værdipapir                                                                                                                                    | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
@@ -88,7 +91,7 @@ Gode alternativer kunne være:
 | VMID | [Vanguard FTSE 250 UCITS ETF (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG6)                                    | 0,10% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | -         |       |
 | VUSD | [Vanguard S&P 500 UCITS ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000WA5P)                                           | 0,07% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | -         |       |
 
-Mit [gratis Investeringsforslag fra Nord*](/go/nord/) foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
+Mit [gratis Investeringsforslag fra Nord](/go/nord/){: rel='sponsored nofollow noopener' } foreslår ikke REIT eller guld, men til gengæld foreslår de også eksponering mod [Japan](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MLID) og [Europa](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NN93).
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen individuelle skatteprocent. Det er altså væsentligt at være opmærksom på, at jeg har frie midler nok til at svare skatten af ETF’erne.
 
@@ -96,7 +99,7 @@ ETF’er beskattes efter lagerprincippet, og der skal således betales skat af g
 
 Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigtig interessant med utrolig lave omkostninger. VTI er eksponeret mod hele verden, mens jeg har valgt VYM og VNQ som er eksponeret mod USA. Når jeg køber ind til porteføljen på Nordnet, skal jeg sørge for at købe ind i store nok portioner, så kurtagen bliver mindst mulig. De er alle udbyttebetalende, og udbytterne vil i første omgang bare blive geninvesteret manuelt.
 
-De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt. 
+De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt.
 
 | Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
 |-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
@@ -115,7 +118,7 @@ På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med
 
 Der må indbetales op til 50.000 DKK i 2019 på aktiesparekontoen. Hvert år stiger beløbet gradvist med 50.000 kroner, så der i 2022 må indbetales 200.000 kroner.
 
-Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere om [Aktiesparekontoen](http://aktiesparekonto.dk/).
+Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere i min [guide til aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
 ## Portefølje 5: SparNord: Kapitalpension
 
@@ -146,6 +149,6 @@ Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværr
 
 Nu lader jeg altså bare Nordnets månedsopsparing arbejde for mig - og jeg håber snart at korrektionen på markedet kommer, så jeg kan komme yderligere ind i markedet igen.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

@@ -7,6 +7,7 @@ category:
 tags:
   - investering
   - omkostninger
+  - værdipapirer
 excerpt: "Hvad er handelsomkostningerne, når man handler danske investeringsforeninger og udenlandske ETF'er? Hvad er billigst at handle?"
 header:
   overlay_image: https://images.unsplash.com/photo-1567427018369-9216e43df052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
@@ -20,13 +21,14 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/investering-laer-det-selv_michael-b-karbo_haeftet_9788793724488
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Det koster _noget_ at handle fonde og ETF’er. Men hvor store er omkostningerne, og er det dyrest at handle danske investeringsbeviser eller ETF’er?
 
 ## Kurtage
 
-Enhver handel koster penge. Du betaler kurtage til børsmægleren. Det varierer fra børsmægler til børsmægler, hvad kurtagen er. Hos [Nordnet\*](/go/nordnet/) er der en minimumskurtage på 29 DKK og ellers er den 0,1% af det handlede beløb. Hos [SaxoInvestor\*](/go/saxoinvestor/) er der ingen minimumskurtage. I praksis kan det altså bedst betale sig at handle for mindst 29.000 DKK hos Nordent for ikke at betale for meget  i kurtage. Udgiften til kurtage kan du altså ikke undgå. Men hvis du handler ofte, så forsvinder noget af dit afkast.
+Enhver handel koster penge. Du betaler kurtage til børsmægleren. Det varierer fra børsmægler til børsmægler, hvad kurtagen er. Hos [Nordnet](/go/nordnet/) er der en minimumskurtage på 29 DKK og ellers er den 0,1% af det handlede beløb. Hos [SaxoInvestor](/go/saxoinvestor/) er der ingen minimumskurtage. I praksis kan det altså bedst betale sig at handle for mindst 29.000 DKK hos Nordent for ikke at betale for meget  i kurtage. Udgiften til kurtage kan du altså ikke undgå. Men hvis du handler ofte, så forsvinder noget af dit afkast.
 
 Kurtagen er i øvrigt fradragsberettiget, og når man bruger en dansk børsmæger sker indberetningen helt automatisk.
 
@@ -57,7 +59,7 @@ Her kan du se et eksempel på omkostninger på SparInvests Globale Aktier (SPVIG
 I det følgende forudsætter jeg, at du har oprettet en valutakonto på Nordnet, som du kan bruge til at handle i ETF’en med. En valutakonto giver dig den bedste pris på kursveksling. For at få den bedste pris gør du følgende. ([Husk selv at læse op på valutakonti hos Nordnet](https://www.nordnet.dk/faq/2350-hvad-bor-jeg-vide-om-valutaveksling?guideCategory=1480))
 
 | Dag 1 (Handelsdagen) | Du køber 181 ETF-beviser til fx kurs 44,138 EUR. Umiddelbart efter kan du se købet på din EUR-konto, at du skal betale 7.988,98 EUR |
-| Dag 2                | Under **Transaktioner og notarer** kan du se handelsnotaen. Du skal også betale kurtagen på 12 EUR, så EUR er i manko med 8.000,98 EUR. Du klikker på **Veksle alt**. |
+| Dag 2                | Under **Transaktioner og notaer** kan du se handelsnotaen. Du skal også betale kurtagen på 12 EUR, så EUR er i manko med 8.000,98 EUR. Du klikker på **Veksle alt**. |
 |                      | Næste gang Nordnet veksler valuta, køber de 8.000,98 EUR til dig. Du får dem fx til kurs 7,47 DKK. Vekslingen koster dig altså 59.791,80 DKK, som hæves fra din DKK-konto. På din EUR-konto står der nu 8.000,98 EUR |
 | Dag 3 (valørdagen)   | Nu trækkes betalingen for de indkøbte ETF’er fra din EUR-konto, så den går i 0 |
 
@@ -65,7 +67,7 @@ Valutakontoen har den fordel, at hvis du sælger udenlandske værdipapirer eller
 
 ## Hvad er omkostningerne
 
-Når du køber en ETF på fx [Nordnet\*](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en. 
+Når du køber en ETF på fx [Nordnet](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en. 
 
 ### Udenlandsk global ETF
 
@@ -79,7 +81,7 @@ Som eksempel vil vi købe [BlackRock iShares Core MSCI World UCITS ETF (EUNL)](h
 
 ### Dansk global indeksfond
 
-Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://www.sparinvestindex.dk/afdelinger/alle%20afdelinger/index%20globale%20aktier%20kl.aspx), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet\*](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK. 
+Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://www.sparinvestindex.dk/afdelinger/alle%20afdelinger/index%20globale%20aktier%20kl.aspx), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK. 
 
 | Emissionstillæg              | 0,29% x beløb             | 173,32 DKK |
 | Kurtage                      | 0,10% x beløb, min 29 DKK | 59,71 DKK  |
@@ -100,7 +102,7 @@ Når du køber værdipapirer, så bliver de noteret til en GA-kurs. GA-kursen in
 
 Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er. 
 
-Jeg køber hovedparten af mine værdipapirer gennem månedsopsparingen på [Nordnet\*](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor\*](/go/saxoinvestor/).
+Jeg køber hovedparten af mine [værdipapirer gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
 
 {% include feature_row type="left" %}
 

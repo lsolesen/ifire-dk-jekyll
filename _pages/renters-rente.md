@@ -12,7 +12,7 @@ author_profile: true
 feature_row:
   - title: "Google Sheet"
     excerpt: "Download mit Google Sheets for både at lave enkle renters rente beregninger og mere avancerede renters rente beregninger med løbende indskud."
-    url: https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy
+    url: https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy?usp=sharing
     btn_label: Google Sheets
     btm_class: btn--success
 last_modified_at: 2021-03-20T13:45:01Z

@@ -3,12 +3,14 @@ title: "Spar penge på mobilabonnementet"
 permalink: /mobilabonnement/
 last_modified_at: 2019-04-06T22:39:43+02:00
 category:
-  - Spare penge
+  - Spar penge
 tags:
   - spareråd
   - mobilabonnementet
   - mobil
 excerpt: "Har du tjekket om dit mobilabonnement er det billigste for nylig. Der er mange penge at spare ved at kigge på dine behov og det produkt du vælger."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Rigtig mange får lavet et nyt mobilabonnement, når de køber en ny mobiltelefon. Meget ofte kan man spare samlet på at købe en ny telefon sammen med et abonnement. Men når telefonen så er betalt af, så står man med et mobilabonnement, der ofte er relativt dyrt.
@@ -17,13 +19,13 @@ Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, f
 
 ## Hvordan tjekker jeg mit abonnement let?
 
-Heldigvis er der nogle [ret enkle muligheder\*](/go/pa/mobilsparer/) for at [tjekke om du kan spare penge på dit mobilabonnement\*](/go/pa/mobilpakke/).
+Heldigvis er der nogle [ret enkle muligheder](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } for at [tjekke om du kan spare penge på dit mobilabonnement](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' }.
 
-Både hos [mobilpakke.dk\*](/go/pa/mobilpakke/) og [mobilsparer.dk\*](/go/pa/mobilsparer/) kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
+Både hos [mobilpakke.dk](/go/pa/mobilpakke/){: rel='sponsored nofollow noopener' } og [mobilsparer.dk](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
 Tjek om du kan spare hos
 
-[Mobilpakke.dk\*](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning } eller [Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning }
+[Mobilpakke.dk](/go/pa/mobilpakke/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 
@@ -41,13 +43,13 @@ Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene 
 
 Tjek dit mobilabonnemnt hos
 
-[Mobilsparer.dk\*](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning } eller [Mobilpakke.dk\*](/go/pa/mobilpakke/ ){: .btn .btn--large .btn--warning}
+[Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Mobilpakke.dk](/go/pa/mobilpakke/ ){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 
 ## Hvordan kan jeg ellers spare penge?
 
-Her gennemgår vi lidt mere grundigt forskellige måder at spare på. Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+Her gennemgår vi lidt mere grundigt forskellige måder at [spare penge på](/spar-penge/). Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
 
 {% assign site_posts = site.posts | where: "tags", "spareråd" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 

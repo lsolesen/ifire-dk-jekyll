@@ -2,10 +2,13 @@
 title: "Hvordan kommer jeg videre med aktier og obligationer #2?"
 permalink: /investering-vol2/
 category:
-  - Opsparing
+  - Opdateringer
 tags:
   - investering
+  - værdipapirer
 excerpt: "Hvad skal min fremtidige strategi være, og hvordan kommer jeg derhen?"
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Min nuværende værdipapir-portefølje er sammensat af min bank i et _fuldmagtsplejeprodukt_, og den ser sådan her ud.
@@ -33,7 +36,7 @@ Min første aktion på Nordnet bliver således at sælge ud af mine obligationer
 
 Jeg ville egentlig have overflyttet puljen direkte til [Nordnet](/go/nordnet/), så jeg selv kunne begynde at justere i porteføljen efterhånden. Men depotet kan ikke overføres - og det får jeg en grundig forklaring på af min bank:
 
-> Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter. 
+> Det skyldes, at man for nylig har vedtaget en lovændring, der betyder, at man som bank ikke må modtage provision fra investeringsforeninger, når deres afdeling indgår i fuldmagstplejeprodukter.
 
 Derfor kan jeg ikke overflytte papirerne direkte til Nordnet - eller en anden børsmægler efter mit valg.
 
@@ -80,7 +83,7 @@ Her er de udvalgte ETF'er jeg er interesseret i. De er først og fremmest udvalg
 
 Den største udfordring jeg har ift. ETF'erne er i øjeblikket muligheden for at gøre investeringen automatiseret uden at skulle betale for meget i vekselgebyr - eller manuelt sidde og veksle pengene.
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--warning}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Strategi
 
@@ -103,20 +106,22 @@ Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verd
 
 ### Automatisering af investering
 
- Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets](/go/nordnet/) månedsopsparing. Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
+ Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
 
 ### Aktiesparekonto, månedopsparing og større værdidepot
 
-Jeg har på [SaxoInvestor*](/go/saxoinvestor/) oprettet en **aktiesparekonto**, og jeg har på [Nordnet](/go/nordnet/) en månedsopsparing. Det giver basis for lidt forskellige strategier for de forskellige placeringer.
+Jeg har på [SaxoInvestor](/go/saxoinvestor/) oprettet en **aktiesparekonto**, og jeg har på [Nordnet](/go/nordnet/) en månedsopsparing. Det giver basis for lidt forskellige strategier for de forskellige placeringer.
 
 Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
-### Beslutning ift. fremtidige investeringer 
+Jeg har skrevet mere om [aktiesparekonto hos Nordnet og Saxo Bank her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+
+### Beslutning ift. fremtidige investeringer
 
 Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--success}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

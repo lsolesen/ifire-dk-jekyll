@@ -6,14 +6,12 @@ header:
   teaser: https://images.unsplash.com/photo-1529070538774-1843cb3265df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: Meld dig gratis ud af Folkekirken og spar på kirkeskatten
 category:
-  - Spare penge
+  - Spar penge
 tags:
   - spareråd
   - skat
   - kirkeskat
-excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem
-  af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde
-  dig ud. "
+excerpt: "Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud."
 last_modified_at: 2021-04-02T12:20:28+02:00
 ---
 Kirkeskatten er en frivillig skat i Danmark. Du er automatisk medlem af Folkekirken, hvis du er blevet døbt. Men når du er 18 år, kan du også melde dig ud og derved spare kirkeskat. 
@@ -55,9 +53,9 @@ Når du ved hvor meget du betaler i kirkeskat, så kan du også regne på, hvad 
 
 ## Hvor meget kan jeg spare på at melde mig ud af Folkekirken?
 
-Gennemsnitligt betaler en dansker gennem sit liv 133.000 kroner i kirkeskat ifølge hjemmesiden [Afmeldkirkeskat\*](/go/afmeldkirkeskat/).
+Gennemsnitligt betaler en dansker gennem sit liv 133.000 kroner i kirkeskat ifølge hjemmesiden [Afmeldkirkeskat](/go/afmeldkirkeskat/){: rel='sponsored nofollow noopener' }.
 
-Du kan gå ind på [Afmeldkirkeskat\*](/go/afmeldkirkeskat/) eller [kirkeskatberegner.dk](https://www.kirkeskatberegner.dk/) og se, hvor meget du betaler i Kirkeskat i din kommune, og du kan taste din månedsløn ind og derefter beregne hvad din besparelse bliver i alt over en årrække.
+Du kan gå ind på [Afmeldkirkeskat](/go/afmeldkirkeskat/){: rel='sponsored nofollow noopener' } eller [kirkeskatberegner.dk](https://www.kirkeskatberegner.dk/) og se, hvor meget du betaler i Kirkeskat i din kommune, og du kan taste din månedsløn ind og derefter beregne hvad din besparelse bliver i alt over en årrække.
 
 Jeg har prøvet begge beregnerne. Lad os se om de er nogenlunde enige.
 
@@ -69,13 +67,13 @@ Lad os prøve samme regnestykke i kirkeskatberegner.dk.
 
 Jeg kunne ikke få afmeldkirkskat.dk til at stå på nøjagtigt 41.000 i månedsløn ligesom kirkeskatberegner.dk, men det er lidt mærkeligt, at der er forskel på de to beregninger. Men samlet kan jeg altså spare omkring 4.000 kroner årligt på at melde mig ud af Folkekirken.
 
-[Tjek hvad du kan spare på Afmeldkirkeskat*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--success}
+[Tjek hvad du kan spare på Afmeldkirkeskat](/go/afmeldkirkeskat/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Brug pengene på at gøre noget godt
 
 Du kan i stedet bruge pengene til at omlægge til bæredygtig varme, plante skov, hjælpe hjemløse eller bygge skoler i Afrika.
 
-Jeg låner selv penge ud gennem crowdlending til [Lendahand](/go/lendahand/) og [Trine](/go/trine/). Det er risikabelt udlån, men hvis det lykkes så støtter min sparede kirkeskat altså udviklingen i tredjeverdens lande. Det har jeg det ret godt med!
+Jeg låner selv penge ud gennem crowdlending til [Lendahand](/go/lendahand/){: rel='sponsored nofollow noopener' } og [Trine](/go/trine/){: rel='sponsored nofollow noopener' }. Det er risikabelt udlån, men hvis det lykkes så støtter min sparede kirkeskat altså udviklingen i tredjeverdens lande. Det har jeg det ret godt med!
 
 ## Hvad er konsekvenserne af at forlade Folkekirken?
 
@@ -90,7 +88,7 @@ Derimod kan du stadig bruge kirken.
 * Du **må gerne komme i kirken**.
 * Dine **børn kan godt blive døbt** (og så bliver de altså meldt ind i Folkekirken.
 
-Du kan læse mere om konsekvenserne på [bloggen på Afmeldkirkeskat*](/go/afmeldkirkeskat/).
+Du kan læse mere om konsekvenserne på [bloggen på Afmeldkirkeskat](/go/afmeldkirkeskat/){: rel='sponsored nofollow noopener' }.
 
 ## Hvordan melder jeg mig ud af Folkekirken?
 
@@ -100,7 +98,7 @@ Jeg undersøgte forskellige elektroniske muligheder for at melde mig ud af Folke
 
 * **Skriv en e-mail til kirkekontoret**. Skriv en e-mail til dit lokale Kirkekontor med de nødvendige oplysninger.
 * **[Ateistisk Selskabs udmeldelse af Folkekirken](https://udmeldelsefolkekirken.dk/)**. Her kan du **gratis** melde dig ud af Folkekirken. Du taster dit CPR-nummer ind i deres formular, og der sendes en e-mail til kirkekontoret i dit sogn. Ateistisk Selskab tager forbehold for, at dine private data muligvis ikke afleveres sikkert, da sognene ikke er i stand til at modtage e-mails sikkert.
-* **[Afmeldkirkeskat*](/go/afmeldkirkeskat/)**. Her bruger du dit NemID, så det er i teorien mere sikkert end formularen fra Ateistisk Selskab. Du betaler til gengæld også 189 kroner for servicen. Deres giver dig til gengæld en fin udregning over konsekvenserne.
+* **[Afmeldkirkeskat](/go/afmeldkirkeskat/){: rel='sponsored nofollow noopener' }**. Her bruger du dit NemID, så det er i teorien mere sikkert end formularen fra Ateistisk Selskab. Du betaler til gengæld også 189 kroner for servicen. Deres giver dig til gengæld en fin udregning over konsekvenserne.
 
 Jeg anbefaler klart, at du *vælger en af de første to måder at melde dig ud af Folkekirken på*, da de er gratis.
 
@@ -108,7 +106,7 @@ Jeg skrev selv en **e-mail** med mit fulde navn, min fødeby og min fødselsdato
 
 Jeg bekræftede, og så var jeg udmeldt af Folkekirken. Det kan være, at processen er anderledes i dit sogn.
 
-[Slip for kirkeskatten for 189 kroner*](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning}
+[Slip for kirkeskatten for 189 kroner](/go/afmeldkirkeskat/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 

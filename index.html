@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: splash
 title: Finansiel uafhængighed og bæredygtighed
-description: Økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
+description: &excerpt Økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
+excerpt: *excerpt
 classes: wide
 author_profile: true
 header:
@@ -9,13 +10,95 @@ header:
 #  actions:
 #    - label: "Presale: Kursus i minimalistik investering"
 #      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
-sidebar:
-  - text: >
-      ---
-      [![Crowdlending på Mintos - få 11,6% p.a.](/assets/images/banners/mintos-300x250.png)](/go/mintos/)
-      ---
-      [![Få gratis investeringsplan fra Nord.Investments](/assets/images/banners/nord-gratis.jpg)](/go/nord/)
-      ---
-      [![Få Bitcoins til en værdi af $10](/assets/images/banners/coinbase.png)](/go/coinbase/)
-      ---
+platforms:
+  - excerpt: '[Se alle crowdlending platformene](/crowdlending/){: .btn .btn--large .btn--success }'
+blog:
+  - excerpt: '[Se alle blogindlæg](/blog/){: .btn .btn--large .btn--success }'
+feature_row:
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /investering/
+    title: "Investering"
+    excerpt: "Investering i aktier, ETF'er og indeksforeninger er for mig en stor del af at bliv økonomisk uafhængig. Tjek vores guides ud."
+    btn_class: btn--success
+    btn_label: Læs mere om investering
+  - image_path: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /crowdlending/
+    title: "Crowdlending"
+    excerpt: "Crowdlending er en måde at investere i lån. Du låner penge ud og får renter. Tjek vores guides."
+    btn_class: btn--success
+    btn_label: Læs mere om crowdlending
+  - image_path: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /inspiration/
+    title: "Privatøkonomi"
+    excerpt: "Hvordan kan du skrue din privatøkonomi sammen, hvordan lægger du et budget og hvor får du enderne til at nå sammen."
+    btn_class: btn--success
+    btn_label: Læs mere om privatøkonomi
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /passiv-indkomst/
+    title: "Passiv indkomst"
+    excerpt: "Jeg kan godt lide passiv indkomst. Her er guides til forskellige måder, hvor du kan skabe forskellige indkomstkilder."
+    btn_class: btn--success
+    btn_label: Læs mere om investering
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /spar-penge/
+    title: "Spare penge"
+    excerpt: "Der skal ofte ikke lidt mere end opmærksomhed og få timers gennemgang af din økonomi til at spare mange penge. Tjek vores forslag."
+    btn_class: btn--success
+    btn_label: Spar penge i dag
+  - image_path: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    url: /renters-rente/
+    title: "Renters Rente"
+    excerpt: "Renters rente er en af de mest motiverende årsager til at investere. Jeg har lavet en beregner til renters rente, hvor du kan se effekten over tid."
+    btn_class: btn--success
+    btn_label: "Se Renters Rente Beregner"
 ---
+
+<h2>Tjek de mest populære sider</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "tags", "featured" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+{% include feature_row type="center" id="blog" %}
+
+<h2>Nyeste opdateringer på platforme</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.platforms | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+{% include feature_row type="center" id="platforms" %}
+
+<h2>Tjek de nyeste indlæg på ifire.dk</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+{% include feature_row type="center" id="blog" %}
+
+{% include feature_row %}

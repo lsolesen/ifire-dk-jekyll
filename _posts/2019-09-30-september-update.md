@@ -18,11 +18,12 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending. 
+Tak fordi du kigger forbi. Det har været en fornuftig måned både for aktier og værdipapirer, men også for crowdlending.
 
-Jeg har i denne måned investeret lidt i [EvoEstate\*](/go/evoestate/), og jeg har eksperimenteret lidt med [Revolut Trading\*](/go/revolut/) med kurtagefri aktiehandel.
+Jeg har i denne måned investeret lidt i [EvoEstate](/go/evoestate/){: rel='sponsored nofollow noopener' }, og jeg har eksperimenteret lidt med [Revolut Trading](/go/revolut/){: rel='sponsored nofollow noopener' } med kurtagefri aktiehandel.
 
 Jeg har nu holdt fast i mit købestop i over et halvt år, hvilket er ret tilfredsstillende, men jeg klarer mig nok ikke til jul, hvis jeg vil blive ved med at gå med strømper.
 
@@ -42,7 +43,7 @@ Min samlede _net worth_ er fortsat stigende, hvilket er ret motiverende.
 
 ## Hvornår er har jeg FIRE?
 
-Jeg er jo kommet lidt sent i gang med at søge finansiel uafhængighed, men derfor er det sjovt at se, hvornår man reelt kunne blive helt finansielt uafhængig. 
+Jeg er jo kommet lidt sent i gang med at søge finansiel uafhængighed, men derfor er det sjovt at se, hvornår man reelt kunne blive helt finansielt uafhængig.
 
 Jeg har læst [Your money or your life](http://www.yourmoneyoryourlife.com), som du også kan se præsenteret i denne relativt korte video.
 
@@ -56,12 +57,12 @@ Jeg har fulgt Step 8 i bogen og kigget på mine gennemsnitlige udgifter til regn
 
 ## Investeringer
 
-Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/cryptovaluta/). 
+Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min vægt af crowdlending blevet lige lovlig stor med lidt mere end 30% af min samlede portefølje. Jeg vil i de næste måneder overveje, hvordan jeg kan rebalancere lidt, så det kommer ned på omkring samlet 20%. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/kryptovaluta/).
 
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|
 | Investering i værdipapirer  | 2019  | 56%       |
-| Crowd lending               | 2017  | 24%       |
+| crowdlending               | 2017  | 24%       |
 | Ejendomsinvestering         | 2019  | 8%        |
 | Investering i træ           | 2019  | 1%        |
 | Kryptovaluta                | 2019  | 1%        |
@@ -69,7 +70,7 @@ Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min væ
 
 ### Værdipapirer
 
-Mine porteføljer har stået og passet sig selv et stykke tid. Jeg har tilført penge gennem månedsopsparingen, men har ellers mest overvåget porteføljen for at se om mine Danske Bank og Nordea-bankaktier er ved at være modne til at sælge. Det er de så ikke endnu. Heldigvis forventer jeg, at de på sigt stiger, og at de betaler et fint udbytte. Men samlet klarer alle de porteføljer, hvor jeg selv har udvalgt nogle enkeltaktier klart dårligere end de porteføljer, hvor jeg har købt passive indekser.
+Mine porteføljer har stået og passet sig selv et stykke tid. Jeg har tilført [penge til månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), men har ellers mest overvåget porteføljen for at se om mine Danske Bank og Nordea-bankaktier er ved at være modne til at sælge. Det er de så ikke endnu. Heldigvis forventer jeg, at de på sigt stiger, og at de betaler et fint udbytte. Men samlet klarer alle de porteføljer, hvor jeg selv har udvalgt nogle enkeltaktier klart dårligere end de porteføljer, hvor jeg har købt passive indekser.
 
 Ellers er aktiemarkedet er gået opad i forhold til sidste måned.
 
@@ -79,11 +80,11 @@ Min portefølje bestående hovedsageligt af SparInvests passive indekser har haf
 
 Jeg har også fået lidt spørgsmål om min Growth Porteføjle inspireret af Obvious Investor og valget af REITs i porteføljen. Porteføljen består af ETF’er der tracker hhv. aktiemarkedet, obligationsmarkedet, guldmarkedet. På REIT valgte jeg at købe de tre REITs foreslået af Obvious Investor i stedet for en ETF. Pga. beskatningen af ETF’er som kapitalindkomst fastholder jeg foreløbig denne sammensætning foreløbigt. Især guld har været rigtig godt i porteføljen med en stigning på mere end 20% siden jeg startede porteføljen. Samlet har porteføljen en intern rente på mere end 18%.
 
-Jeg er også gået i gang med at _købe firmaet i stedet for produktet_ ved at købe lidt aktier for småbeløb gennem [Revolut Trading\*](/go/revolut/), fordi handlerne er kurtagefri. Og på Revolut kan man faktisk købe mindre end en hel aktie. Jeg har købt en lille portion aktier i alle de solide amerikanske udbytteaktier, jeg er interesseret i. Desværre er dollarkursen så høj i øjeblikket, at jeg synes, at det er forbundet med en valutarisiko også. Men det rigtig fede ved Revolut er jo, at jeg bare kan lade pengene stå i USD og senere bruge dem i den valuta.
+Jeg er også gået i gang med at _købe firmaet i stedet for produktet_ ved at købe lidt aktier for småbeløb gennem [Revolut Trading](/go/revolut/){: rel='sponsored nofollow noopener' }, fordi handlerne er kurtagefri. Og på Revolut kan man faktisk købe mindre end en hel aktie. Jeg har købt en lille portion aktier i alle de solide amerikanske udbytteaktier, jeg er interesseret i. Desværre er dollarkursen så høj i øjeblikket, at jeg synes, at det er forbundet med en valutarisiko også. Men det rigtig fede ved Revolut er jo, at jeg bare kan lade pengene stå i USD og senere bruge dem i den valuta.
 
-Mine **robotinvestorer** fra Darwin og [Nord\*](/go/nord/) har i denne måned igen præsteret ret fornuftigt. Selvom omkostningerne samlet er lidt højere end de porteføljer, jeg selv vedligeholder, så er det godt nok smart til folk, som ikke selv vil tænke så meget på investeringer i værdipapirmarkedet.
+Mine **robotinvestorer** fra Darwin og [Nord](/go/nord/){: rel='sponsored nofollow noopener' } har i denne måned igen præsteret ret fornuftigt. Selvom omkostningerne samlet er lidt højere end de porteføljer, jeg selv vedligeholder, så er det godt nok smart til folk, som ikke selv vil tænke så meget på investeringer i værdipapirmarkedet.
 
-[Få en gratis investeringsplan fra Nord.investments\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan fra Nord.investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 Min **copytrading på Etoro** klarer sig udemærket. Jeg følger dog to tradere, som tager høj risiko, som har haft en del tab, og derfor er den samlede portefølje i minus i øjeblikket. Jeg fastholder dem i porteføljen og giver dem en mulighed for at tjene det tabte ind igen. Pga. dollarkursen sætter jeg dog ikke mere ind på Etoro lige nu - og jeg lader investeringen passe sig selv.
 
@@ -93,22 +94,22 @@ Du kan se [indtjeningen i min portefølje med værdipapirer](/investeringer/).
 
 {% include crowdlending-warning.html %}
 
-Min ældste crowdlending platform er [Flexfunding](/go/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
+Min ældste crowdlending platform er [Flexfunding](/platform/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
 
-Jeg har min største investering i [Mintos\*](/go/mintos/). Min interne rente er faldet lidt i løbet af september, men det hænger formentlig først og fremmest sammen med at jeg kraftigt har øget min investering i Mintos. Hovedparten af min investering  har jeg lagt over i _Invest & Access_, fordi jeg oplever _cash drag_ på min _auto invest_. Jeg holder fortsat en intern rente over 13% - og nyder også at jeg har hurtig likviditet på denne måde, hvis det bliver nødvendigt.
+Jeg har min største investering i [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }. Min interne rente er faldet lidt i løbet af september, men det hænger formentlig først og fremmest sammen med at jeg kraftigt har øget min investering i Mintos. Hovedparten af min investering  har jeg lagt over i _Invest & Access_, fordi jeg oplever _cash drag_ på min _auto invest_. Jeg holder fortsat en intern rente over 13% - og nyder også at jeg har hurtig likviditet på denne måde, hvis det bliver nødvendigt.
 
-[Få 12%+ på Mintos\*](/go/mintos/){: .btn .btn--large .btn--info}
+[Få 12%+ på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
-Jeg bruger [Bondora\*](/go/bondora/) til flere opsparinger med omkring 6,5% i rente, fordi jeg gerne vil have nogle penge, hvor jeg kan få endnu hurtigere likviditet end Mintos _Invest & Access_ (hvor jeg jo kun kan hæve beløbet fra lån, der ikke er _late_).
+Jeg bruger [Bondora](/go/bondora/){: rel='sponsored nofollow noopener' } til flere opsparinger med omkring 6,5% i rente, fordi jeg gerne vil have nogle penge, hvor jeg kan få endnu hurtigere likviditet end Mintos _Invest & Access_ (hvor jeg jo kun kan hæve beløbet fra lån, der ikke er _late_).
 
-Min bedste platform i form af afkast er [Crowdestor\*](/go/crowdestor/), som i denne måned er kravlet op over 10% i intern rente. Der er masser af lån på platformen, og renterne er altså relativt høje.
+Min bedste platform i form af afkast er [Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' }, som i denne måned er kravlet op over 10% i intern rente. Der er masser af lån på platformen, og renterne er altså relativt høje.
 
-[Crowdestor\*](/go/crowdestor/) er en af mine yndlingsplatforme, men oprindeligt havde jeg skrevet, at jeg var nået op på en intern rente på 14%. Der havde jeg imidlertid brugt en forkert dato, så den interne rente var i stedet på omkring 10%.
+[Crowdestor](/go/crowdestor/){: rel='sponsored nofollow noopener' } er en af mine yndlingsplatforme, men oprindeligt havde jeg skrevet, at jeg var nået op på en intern rente på 14%. Der havde jeg imidlertid brugt en forkert dato, så den interne rente var i stedet på omkring 10%.
 {: .notice .notice--info }
 
-Derudover er [Grupeer\*](/go/grupeer/) stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio\*](/go/envestio/) er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest\*](/go/fastinvest/), [RoboCash\*](/go/robocash/), [Lenndy\*](/go/lenndy/) og [PeerBerry\*](/go/peerberry/) har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende. 
+Derudover er [Grupeer](/go/grupeer/){: rel='sponsored nofollow noopener' } stabil på over 13,5% - og platformen kører bare af sig selv. [Envestio](/platform/envestio/){: rel='sponsored nofollow noopener' } er jeg også endelig nået over 11% i afkast, men der er fortsat ikke så mange projekter, selvom det har været bedre i løbet af september. På [FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' }, [RoboCash](/go/robocash/){: rel='sponsored nofollow noopener' }, [Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' } og [PeerBerry](/go/peerberry/){: rel='sponsored nofollow noopener' } har jeg en intern rente på omkring 11%, hvilket også er tilfredsstillende.
 
-Da jeg skal rebalancere min samlede portefølje lidt, så overvejer jeg lidt om jeg skal sænke min investering i [Iuvo\*](/go/iuvo), hvor jeg har en intern rente på omkring 8% og [FastInvest\*](/go/fastinvest/), fordi de endnu ikke har formået at gøre platformen transperant, selvom de har fået spørgsmålet fra _communitiet_ mange gange. Men begge platforme fungerer sådan set ret upåklagelige ift. hvor lette de er at bruge - og at afkastet er relativt stabilt.
+Da jeg skal rebalancere min samlede portefølje lidt, så overvejer jeg lidt om jeg skal sænke min investering i [Iuvo](/go/iuvo){: rel='sponsored nofollow noopener' }, hvor jeg har en intern rente på omkring 8% og [FastInvest](/go/fastinvest/){: rel='sponsored nofollow noopener' }, fordi de endnu ikke har formået at gøre platformen transperant, selvom de har fået spørgsmålet fra _communitiet_ mange gange. Men begge platforme fungerer sådan set ret upåklagelige ift. hvor lette de er at bruge - og at afkastet er relativt stabilt.
 
 Samlet har jeg i løbet af september **tjent 3.659 DKK på renter i crowdlending**. Den almindelig crowdlending giver i en vægtet gennemsnitlig intern rente på 9,50%.
 
@@ -118,27 +119,27 @@ I næste måned forventer jeg, at jeg når over 4.000 DKK i indtjening fra crowd
 
 Du kan se [indtjeningen i min portefølje med crowdlending](/crowdlending/).
 
-[Få 5 EUR hos Bondora\*](/go/bondora/){: .btn .btn--large .btn--success}
+[Få 5 EUR hos Bondora](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Træer og bæredygtige investeringer
 
-Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine\*](/go/trine/) - og investeringerne har efterhånden rundet de 4% i intern rente, hvilket jeg er rigtig god tilfreds med. Hos [Lendahand\*](/go/lendahand/) er der mulighed for at finde mange spændende udviklingsprojekter - og jeg ser frem til at det første afkast begynder at tikke ind omkring nytår. Jeg afventer også stadig at den kamel, jeg har købt sammen med ungerne i [Agrikaab\*](/go/agrikaab/) begynder at give lidt afkast. Men alt i alt er jeg med i alle disse projekter, fordi jeg håber, at de kan gøre en forskel i verden. Det føles noget bedre end at donere pengene væk. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
+Jeg investerer i solenergi og andre udviklingsprojekter gennem [Trine](/go/trine/){: rel='sponsored nofollow noopener' } - og investeringerne har efterhånden rundet de 4% i intern rente, hvilket jeg er rigtig god tilfreds med. Hos [Lendahand](/go/lendahand/){: rel='sponsored nofollow noopener' } er der mulighed for at finde mange spændende udviklingsprojekter - og jeg ser frem til at det første afkast begynder at tikke ind omkring nytår. Jeg afventer også stadig at den kamel, jeg har købt sammen med ungerne i [Agrikaab](/platform/agrikaab/) begynder at give lidt afkast. Men alt i alt er jeg med i alle disse projekter, fordi jeg håber, at de kan gøre en forskel i verden. Det føles noget bedre end at donere pengene væk. <ins>**Agrikaab lukkede ned marts 2020 og vi har sandsynligvis mistet hele vores investering i projektet.**</ins>
 
-[Invester hos Trine\*](/go/trine/){: .btn .btn--large .btn--warning}
+[Invester hos Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 Jeg har købt nogle træer [i Better Globe](/platform/betterglobe/). Lige nu investerer jeg ikke i flere træer, men kunne godt tænke mig at finde lignende projekter.
 
-[Køb træer hos BetterGlobe og få op til 13% afkast\*](/go/betterglobe/){: .btn .btn--large .btn--success}
+[Køb træer hos BetterGlobe og få op til 13% afkast](/go/betterglobe/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Opsparing
 
 ### Kontant
 
-Min kontante opsparing står hos [Lunar\*](/go/lunar/), som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. 
+Min kontante opsparing står hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, som nu giver **4% cashback** på de første 50.000 kr året ud, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-[Gratis valutaveksling med Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
+[Gratis valutaveksling med Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ### Guld og sølv
 
@@ -148,9 +149,9 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 Igen en rigtig dårlig måned for mine kryptovaluta-investeringer. Cred (LBA) - som jeg købte for at få lidt højere renter på Uphold - er faldet med 77%, siden jeg købte dem. Stellar Lumens (XLM) - jeg købte pga. _inflation pools_ er faldet med 38%. Ripple (XRP) og Tezos (XTZ) er begge faldet omkring 20%. Bitcoins holder skansen med en stigning på 30%, men det er ikke nok til at gøre så meget ved et **_urealiseret samlet tab_ på omkring 1.900 DKK** på kryptovalutainvesteringen. Porteføljen får lov til at stå og passe sig selv. Hvordan fremtiden i denne portefølje skal se ud, ved jeg ikke i øjeblikket.
 
-Jeg har dog sat en _vault_ på [Revolut\*](/go/revolut/) til at spare lidt småpenge op, hver gang jeg bruger mit Revolut-kort. Opsparingen har jeg lavet i Bitcoins, for så får jeg købt lidt Bitcoins hen ad vejen. Lige nu er jeg lidt i tvivl, om jeg bare skulle lave en _vault_ med rede penge, så jeg i stedet kunne bruge Revolut Trading lidt mere.
+Jeg har dog sat en _vault_ på [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } til at spare lidt småpenge op, hver gang jeg bruger mit Revolut-kort. Opsparingen har jeg lavet i Bitcoins, for så får jeg købt lidt Bitcoins hen ad vejen. Lige nu er jeg lidt i tvivl, om jeg bare skulle lave en _vault_ med rede penge, så jeg i stedet kunne bruge Revolut Trading lidt mere.
 
-[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins\*](/go/coinbase/){: .btn .btn--large .btn--info}
+[Køb Bitcoins på Coinbase og få op til 66DKK bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Passiv indtægt
 

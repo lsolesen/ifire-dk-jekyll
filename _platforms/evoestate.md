@@ -50,4 +50,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=390232919&amp;format=image"></iframe>
 
-[EvoEstate\*](/go/evoestate/){: .btn .btn--large .btn--warning}
+[EvoEstate](/go/evoestate/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

@@ -15,11 +15,11 @@ header:
   caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: "Jeg bruger selv [Nordnet*](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen."
+    excerpt: "Jeg bruger selv [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen."
   - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: "Desuden bruger jeg [SaxoInvestor*](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage."
+    excerpt: "Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto og handel uden minimumskurtage."
   - image_path: /assets/images/logo/etoro.png
-    excerpt: "Desuden har jeg testet [Etoro*](/go/etoro/) til kurtagefri handel med bl.a. Vanguards ETF'er og copytrading."
+    excerpt: "Desuden har jeg testet [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } til kurtagefri handel med bl.a. Vanguards ETF'er og copytrading."
 ---
 
 *[PAL]: Pensionsafkast lagerbeskatning
@@ -75,13 +75,13 @@ Jeg har lavet en portefølje med det formål at spare op til mine døtres eventu
 
 Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres ved årets udgang efter lagerbeskatningsprincippet.
 
-I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank.
+I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank. Jeg har skrevet lidt mere om, [hvad en aktiesparekonto er her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
 ### Etoro Kurtagefri handel og Copytrading
 
-Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro\*](/go/etoro/) for at afprøve platformen, hvor man kan handle kurtagefrit.
+Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } for at afprøve platformen, hvor man kan handle kurtagefrit.
 
-[Kurtagefri handel på Etoro\*](/go/etoro/){: .btn .btn--large .btn--success }
+[Kurtagefri handel på Etoro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Nordnet Aldersopsparing - PAL og lagerbeskattet
 
@@ -105,7 +105,7 @@ Lige nu har jeg SparNord-aktier og en akkumulerende dansk investeringsforening d
 
 {% include figure image_path="/assets/images/status/investering-performance.jpg" caption="Performance sammenlignet med verdensindekset. Indtil marts 2019 var det banken, der stod for investeringerne." %}
 
-[Få gratis porteføljeforslag på Nord.Investments\*](/go/nord/){: .btn .btn--large .btn--info }
+[Få gratis porteføljeforslag på Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Deals
 

@@ -1,17 +1,23 @@
 ---
 title: "Mine erfaringer med dansk crowdlending. 3 år senere!"
+seo_title: "Dansk crowdlending 2021 • 4 års erfaringer med platforme »"
 permalink: /dansk-crowdlending/
 category:
-  - Investeringer
   - Crowdlending
 tags:
   - crowdlending
-excerpt: "Jeg har investeret i dansk crowdlending i tre år og her er en lille opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
+  - featured
+excerpt: "Jeg har investeret i dansk crowdlending i fire år. Her er en grundig opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
+description: "Jeg har investeret i dansk crowdlending i fire år. Her har du en grundig opdatering på, hvad jeg synes om de danske crowdfunding-platforme."
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme. Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
+Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme.
 
-**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare<ins>The Many (tidligere Brickshare)</ins>, Lendino og Fundbricks, som er det største spillere i øjeblikket.**
+Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
+
+**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare</del><ins>The Many (tidligere Brickshare)</ins>, Lendino og Fundbricks, som er det største spillere på det danske crowdfunding-marked i øjeblikket.**
 
 Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg startede i januar 2017 med min første investering i Flexfunding og har siden investeret i Kameo og The Many. Du kan læse mange steder på nettet, hvordan du bruger platformene. Her trækker jeg i stedet mine erfaringer frem - og du kan også læse videre under mine detaljerede platform-erfaringer under de enkelte platforme.
 
@@ -19,7 +25,7 @@ Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg started
 
 {% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder." alt="Flexfunding er dansk crowdlending" %}
 
-Flexfunding var min første crowdlending-platform. [Flexfunding](/go/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
+Flexfunding var min første crowdlending-platform. [Flexfunding](/platform/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
 
 Flex Funding er en dansk platform for crowdlending og crowdfunding. Flex Funding blev stiftet i 2013. Overordnet har jeg et godt indtryk af platformen i de tre år, jeg har investeret der, selvom der har været lidt software-udfald og systemet kan være bedre.
 
@@ -72,7 +78,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 ### Fordele ved Kameo
 
 - Dansk crowdlending
-- Let at oprette en profil på [Kameo\*](/go/kameo/)
+- Let at oprette en profil på [Kameo](/platform/kameo/)
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
@@ -97,7 +103,7 @@ Det er ikke så let at få et overblik over sine samlede investeringer på Kameo
 
 {% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
 
-Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med. 
+Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med.
 
 Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
 
@@ -107,7 +113,7 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 
 {% include figure image_path="/assets/images/logo/themany.jpg" caption="Hos The Many laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene." %}
 
-[The Many\*](/go/themany/) er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
+[The Many](/go/themany/){: rel='sponsored nofollow noopener' } er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
 
 {% include video provider="youtube" id="8W3zK4JoV4A" %}
 
@@ -117,7 +123,7 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Velfungerende site og god kommunikation om projekterne.
 - Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
 - Det er let at indløse sine andele direkte fra dashboardet.
-- Hvis du bruger [mit link får du 250 kroner at starte for\*](/go/themany/).
+- Hvis du bruger [mit link får du 250 kroner at starte for](/go/themany/){: rel='sponsored nofollow noopener' }.
 
 ### Ulemper ved The Many
 
@@ -126,16 +132,6 @@ Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo,
 - Ingen buy back garanti
 - Ingen auto invest
 - De årlige omkostninger forbundet med investeringen er ikke helt tydelige
-
-### Hvordan tracker jeg den interne rente på The Many?
-
-Værdien af andelene i The Many er afhængig af markedsforholdene. Fx købte jeg i april 2019 mit første projekt på The Many til en NAV på 1,0. I dag lidt mere end et år efter er den på 0,95. Det betyder i realiteten at værdien af min andel i projektet er faldet med 5%. Men samtidig får jeg også udbytte fra de enkelte projekter, så hvordan finder jeg ud af, hvad den interne rente på The Many i virkeligheden er.
-
-Jeg bruger [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke min portefølje hos The Many. Jeg har oprettet de enkelte projekter som `Securities`, og så har jeg jeg lavet en `Security Account` og en `Deposit Account`. Hvis jeg har købt for 10.000 DKK, så har jeg jeg fået 10.000 fondsandele, hvis NAV er 1. Hvis NAV falder, Så opdaterer jeg manuelt kursen på det enkelte projekt hver måned med den aktuelle NAV-værdien. Jeg taster naturligvis også udbytterne ind i Portfolio Performance, og på den måde kan den regne min reelle interne rente ud.
-
-{% include figure image_path="/assets/images/posts/brickshare-nav.png" caption="Du kan finde NAV-værdien på oversigtssiden under `Min Portefølje`" %}
-
-The Many regulerer NAV-værdien hver 14 dag, så du kan løbende følge med i, hvad dine projekter er værd. Som du kan se i skærmbilledet ovenfor, så er det ene af mine projekter omtrent det samme værd, mens det andet er faldet i værdi i forhold, hvad jeg købte mig ind til.
 
 ### Forventet afkast på The Many
 
@@ -149,11 +145,11 @@ Derfor er det også en stor forbedring, at man nu kan reservere andele i projekt
 
 Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/themany/).
 
-[Start på The Many](/go/themany/){: .btn .btn--large .btn--success }
+[Start på The Many](/go/themany/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ## Lendino - dansk crowdlending
 
-Jeg har også investeret i [Lendino\*](/go/lendino/). Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
+Jeg har også investeret i [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }. Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
 
 {% include video provider="youtube" id="vbA5pW1zTrc" %}
 
@@ -161,7 +157,7 @@ En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindst
 
 Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivelse](/platform/lendino/).
 
-[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success }
+[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 ### Fordele ved Lendino
 
@@ -182,17 +178,17 @@ Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivels
 
 Der er altså flere muligheder for at investere i dansk crowdlending.
 
-Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/brickshare/), hvor man bliver medejer af projeket.
+Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/themany/), hvor man bliver medejer af projeket.
 
 Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
 
-Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast. 
+Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast.
 
 Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
 
-Jeg synes Flexfunding og [Lendino\*](/go/lendino/) ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
+Jeg synes Flexfunding og [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' } ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
 
-[Opret dig på Kameo\*](/go/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many\*](/go/themany/){: .btn .btn--large .btn--info }
+[Opret dig på Kameo](/platform/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many](/go/themany/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 

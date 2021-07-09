@@ -5,7 +5,7 @@ header:
   overlay_image: &image /assets/images/revolut.jpg
   teaser: *image
 category:
-  - Anmeldelse
+  - Anmeldelser
 tags:
   - anmeldelse
   - betalingskort
@@ -13,20 +13,20 @@ excerpt: "Ved at oprette en Revolut-konto kan du spare vekselgebyrer, overførsl
 last_modified_at: 2019-05-30T15:20:02+02:00
 ---
 
-[Revolut*](/go/revolut/) er et FinTech virksomhed fra Storbritannien. Du kan let oprette bankkonti i forskellige valutaer, du veksler penge mellem til bankernes kurs, du kan gratis lave udenlandske bankoverførsler, et _gratis_ virtuelt betalingskort og endelig kan du få et _gratis fysisk betalingskort_ (du skal betale portoen med mindre du bruger [mit link\*](/go/revolut/)) og et virtuelt, som kan bruges til onlinehandel. Det hele styres fra en ret overskuelig app.
+[Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er et FinTech virksomhed fra Storbritannien. Du kan let oprette bankkonti i forskellige valutaer, du veksler penge mellem til bankernes kurs, du kan gratis lave udenlandske bankoverførsler, et _gratis_ virtuelt betalingskort og endelig kan du få et _gratis fysisk betalingskort_ (du skal betale portoen med mindre du bruger [mit link](/go/revolut/){: rel='sponsored nofollow noopener' }) og et virtuelt, som kan bruges til onlinehandel. Det hele styres fra en ret overskuelig app.
 
-Den største fordel med [Revolut*](/go/revolut/) er, at man slipper for gebyrerne i forbindelse med overførsler, hævninger og valutaveksling.
+Den største fordel med [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er, at man slipper for gebyrerne i forbindelse med overførsler, hævninger og valutaveksling.
 
-## Hvordan overfører jeg penge til [Revolut*](/go/revolut/)
+## Hvordan overfører jeg penge til [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }
 
-Du kan overføre penge til [Revolut*](/go/revolut/) på to måder.
+Du kan overføre penge til [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } på to måder.
 
-- **Top-up med betalingskort.** I appen kan du let sætte penge på din konto med dit eget betalingskort fra din egen bank. Det er **typisk gratis**, men tjek for en sikkerheds skyld med din bank. [Revolut](/go/revolut/) tager ikke penge for dette.
-- **Almindelig bankoverførsel.** Typisk vil en bankoverførsel koste et gebyr fra din egen bank, så hvis det overhovedet er muligt for dig, så er det nok bedst enten at overføre et ret stort beløb på en gang - eller at bruge Top-up, som typisk er gratis. [Revolut\*](/go/revolut/) tager ikke penge for dette. SparNord tager 30-50 DKK at lave bankoverførsel til Revolut.
+- **Top-up med betalingskort.** I appen kan du let sætte penge på din konto med dit eget betalingskort fra din egen bank. Det er **typisk gratis**, men tjek for en sikkerheds skyld med din bank. [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } tager ikke penge for dette.
+- **Almindelig bankoverførsel.** Typisk vil en bankoverførsel koste et gebyr fra din egen bank, så hvis det overhovedet er muligt for dig, så er det nok bedst enten at overføre et ret stort beløb på en gang - eller at bruge Top-up, som typisk er gratis. [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } tager ikke penge for dette. SparNord tager 30-50 DKK at lave bankoverførsel til Revolut.
 
-## Overblik over [Revolut\*](/go/revolut/)
+## Overblik over [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }
 
-Der er forskellige produkter hos [Revolut\*](/go/revolut/), men i denne anmeldelse vil jeg kun snakke om deres **gratis** Revolut Basis, som jeg har brugt over længere tid.
+Der er forskellige produkter hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, men i denne anmeldelse vil jeg kun snakke om deres **gratis** Revolut Basis, som jeg har brugt over længere tid.
 
 - Gratis bankkonti med forskellige valutaer
 - Gratis Euro IBAN nummer (som du skal bruge, når du skal modtage penge fra andre banker)
@@ -34,7 +34,7 @@ Der er forskellige produkter hos [Revolut\*](/go/revolut/), men i denne anmeldel
 - Du kan veksle gratis mellem 24 valutaer (op til 6000 EUR per måned)
 - Gratis hævning op til 1500 kroner pr. Måned (derefter 2%)
 
-[Opret gratis Revolut-konto*](/go/revolut/){: .btn .btn--large .btn--warning}
+[Opret gratis Revolut-konto](/go/revolut/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Gratis valutaveksling (FX)
 
@@ -51,14 +51,14 @@ I Revolut veksler du til **interbank rate (CIBOR)**. Det er altså den vekselkur
 
 ## Bankoverførsler i andre valutaer
 
-Hvis man vil ind i _crowd lending_ eller andre investeringer, hvor man skal overføre til udenlandske banker er der altså en del at spare, fordi du slipper for vekselgebyrer og udenlandske overførselsgebyrerer hos [Revolut](/go/revolut/). Det er let at sætte op i appen, hvor du bare tilføjer bankerne som _beneficiary_.
+Hvis man vil ind i _crowdlending_ eller andre investeringer, hvor man skal overføre til udenlandske banker er der altså en del at spare, fordi du slipper for vekselgebyrer og udenlandske overførselsgebyrerer hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }. Det er let at sætte op i appen, hvor du bare tilføjer bankerne som _beneficiary_.
 
 ## Kort og konti
 
-Du kan få to kort til din [Revolut*](/go/revolut/)-konto gratis.
+Du kan få to kort til din [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }-konto gratis.
 
 - **Virtuelt kort**. Du får et virtuelt kort **gratis**. Det kan med fordel bruges til betalinger på nettet, da du ikke kan miste det på samme måde som et fysisk kort. Så det kan fx betale dine abonnementer. Husk at det kun er dit første kort, der er gratis.
-- **Fysisk kort**. Typisk koster det forsendelsen (6 EUR) at få tilsendt kortet, men **hvis du bruger mit referral link [Revolut](/go/revolut/), så får du betalingskortet gratis**. Der går omkring 14 dage, inden kortet kommer med posten. Du vælger selv pinkode, og det er let at sætte grænser på kortet eller midlertidigt lukke det. Du kan også slå kontaktløse betalinger til og fra eller sikre at det ikke kan bruges i en ATM.
+- **Fysisk kort**. Typisk koster det forsendelsen (6 EUR) at få tilsendt kortet, men **hvis du bruger mit referral link [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, så får du betalingskortet gratis**. Der går omkring 14 dage, inden kortet kommer med posten. Du vælger selv pinkode, og det er let at sætte grænser på kortet eller midlertidigt lukke det. Du kan også slå kontaktløse betalinger til og fra eller sikre at det ikke kan bruges i en ATM.
 
 ## Sikkerhed hos Revolut
 
@@ -66,23 +66,23 @@ Der er masser af fine sikkerhedsforanstaltninger i appen. Du kan _freeze_ kortet
 
 Kontoen er **debet**, så den kan ikke gå i minus, hvilket jo også er en sikkerhedsmæssig fordel.
 
-## Revolut, crowd lending og investering
+## Revolut, crowdlending og investering
 
-Jeg bruger Revolut til at overføre penge til de udenlandske _crowd lending_-platforme. Det gør du på følgende måde:
+Jeg bruger Revolut til at overføre penge til de udenlandske _crowdlending_-platforme. Det gør du på følgende måde:
 
 - **Overfør DKK til din Revolut-konto.** Tjek op på, hvordan du kan overføre pengene til Revolut. Måske kan din bank lave en gratis overførsel, når det er i kroner (min bank tager penge for det), eller bruge Top-up-funktionen.
 - **Veksl til Euro**. I appen veksler du pengene til Euro (husk at gøre det på hverdage mellem 8-16 - _banking hours_).
-- **Overfør pengene til crowd lending platformen**. 
+- **Overfør pengene til crowdlending platformen**. 
 - **Udbetal til Revolut.** Her finder du IBAN-nummeret i Revolut appen.
 
 Så har du **sparet** alle gebyrerne. Husk dog, at du Revolut Basis kun kan veksle 6000 EUR om måneden. Hvis du vil veksle mere, så skal du altså opgradere til enten _Premium_ eller _Metal_, men så skal du betale månedsgebyr. Så jeg holder mig personligt under den grænse.
 
 ## Hvem kan have gavn af Revolut?
 
-Hvis du sommetider er i udlandet, så har du allerede sparet ved at få et [Revolut\*](/go/revolut/)-kort, da danske banker ofte tager 30-50 kroner i hævegebyr plus omkring 2% af det hævede beløb plus lidt fortjeneste på valutavekslingen. 
+Hvis du sommetider er i udlandet, så har du allerede sparet ved at få et [Revolut](/go/revolut/){: rel='sponsored nofollow noopener'}-kort, da danske banker ofte tager 30-50 kroner i hævegebyr plus omkring 2% af det hævede beløb plus lidt fortjeneste på valutavekslingen. 
 
-Desuden fungerer det virkelig godt til at lave de udenlandske overførsler til _crowd lending_ platformene.
+Desuden fungerer det virkelig godt til at lave de udenlandske overførsler til _crowdlending_ platformene.
 
-[Få gratis betalingskort og konto hos Revolut\*](/go/revolut/){: .btn .btn--large .btn--warning}
+[Få gratis betalingskort og konto hos Revolut](/go/revolut/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

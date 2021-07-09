@@ -2,13 +2,15 @@
 title: "Hvilken konto skal jeg vælge?"
 permalink: /hvilken-konto/
 category:
-  - Organisering
+  - Privatøkonomi
 tags:
   - rente
   - konto
   - bank
 excerpt: "Vælg den rigtige bankkonto for at få flest mulig renter af dine penge. Som ung har du gode muligheder for at få en gratis bankkonto."
 last_modified_at: 2020-01-01T09:51:02+02:00
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 ## Organisering af dine konti
@@ -22,7 +24,7 @@ Fordelen ved at organisere dine konti sådan er, at du allerede så snart du få
 
 Nogle foretrækker også for at være lidt mere sikker at have en særskilt konto, der er et betalingskort tilknyttet, hvor de overfører et lille lommepengebeløb hver måned ud fra den betragtning, at så vil et misbrug af kortet aldrig kunne blive så stort. Personligt synes jeg måske, at det er lidt _over kill_.
 
-Der er også en del mennesker, der vælger at have en **'investeringskonto'**, hvor du også med fordel hver måned kan sætte et beløb over, så du ikke fristes til at bruge pengene på 'tant og fjas'. Og hvis du allerede tidligt starter med at have en investeringskonto og investerer pengene fornuftigt, så vil pengene virkelig kunne yngle gennem dit voksenliv. Du kan investere i aktiver, obligationer, crowdlending, cryptovaluta, træer, bæredygtighed og meget andet.
+Der er også en del mennesker, der vælger at have en **'investeringskonto'**, hvor du også med fordel hver måned kan sætte et beløb over, så du ikke fristes til at bruge pengene på 'tant og fjas'. Og hvis du allerede tidligt starter med at have en investeringskonto og investerer pengene fornuftigt, så vil pengene virkelig kunne yngle gennem dit voksenliv. Du kan investere i aktiver, obligationer, crowdlending, kryptovaluta, træer, bæredygtighed og meget andet.
 
 ## Kan jeg få en gratis konto med betalingskort, der giver renter?
 
@@ -30,7 +32,7 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 - **[Lån & Spar Bank](https://www.lsb.dk/lsb/content/studiekonto/atikler/faa_studiekonto/sysops_medl)** giver dig en (virkelig høj) rente på 5% på op til 50.000 kroner, og du får et gratis Visa/Dankort og MasterCard med samme pinkode samt gratis valutaveksling. Du kan kombinere den med en StudieOpsparing. Det kræver dog, at du er medlem af en af de organisationer, Lån & Spar Bank samarbejder med - og at du lægger alle dine bankforretninger inklusive dine investeringer og lån over i Lån & Spar Bank.
 
-- **[Lunar\*](/go/lunar/)** <del date="2020-01-01T09:16:18+02:00">giver dig 2% i cashback</del>, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. <del date="2020-01-01T09:16:18+02:00">Kontoen bliver ved med at give 2% i cash back</del> også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale. <ins date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere cash back efter at de har fået banklicens.</ins>.
+- **[Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }** <del date="2020-01-01T09:16:18+02:00">giver dig 2% i cashback</del>, hvis du flytter din NemKonto dertil op til 50.000 kroner på kontoen, og du får mulighed for at holde styr på din konto gennem Appen, der hører til. <del date="2020-01-01T09:16:18+02:00">Kontoen bliver ved med at give 2% i cash back</del> også efter, at du er færdig med studierne. En af fordelene ved LunarWay er at du ikke behøver at skifte bank til de andre ting, hvis du har en god aftale. <ins date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere cash back efter at de har fået banklicens.</ins>.
 
 - **Norwegian Bank** giver dig <del date="2020-01-01T09:16:18+02:00">0,70%</del><ins date="2020-01-01T09:16:18+02:00">0,3%</ins> i rente på deres opsparingskonto (renten er dog variabel). Det koster ikke noget at oprette kontoen. Du kan også hos Norwegian få et ret fordelagtigt kreditkort, hvor du får både cashback og inkluderet rejseforsikring.
 
@@ -40,7 +42,7 @@ Når du er ung, så har du rigtig gode muligheder for at finde en konto, der giv
 
 ## Hvad er forskellen på kredit- og debetkonto
 
-Hos [Norwegian](/go/norwegian/) kan du også få et **kreditkort**, hvor du kan optjene cash back på de køb, du foretager. Dine cashback-point kan så veksles til at betale flyrejser for. Et kreditkort kan du købe for op til en bestemt beløbsgrænse. En gang om måneden skal du afregne beløbet. I tilfældet med Norwegians kreditkort skal du aktivt betale regningen, mens jeg i SparNord har et MasterCard, som er knyttet op på min primære konto, og kreditten således betales automatisk. Med et kreditkort kan du altså risikere at bruge flere penge, end du har, men samtidig giver nogle kreditkort også nogle rigtig gode fordele.
+Hos [Norwegian](/go/norwegian/){: rel='nofollow noopener' } kan du også få et **kreditkort**, hvor du kan optjene cash back på de køb, du foretager. Dine cashback-point kan så veksles til at betale flyrejser for. Et kreditkort kan du købe for op til en bestemt beløbsgrænse. En gang om måneden skal du afregne beløbet. I tilfældet med Norwegians kreditkort skal du aktivt betale regningen, mens jeg i SparNord har et MasterCard, som er knyttet op på min primære konto, og kreditten således betales automatisk. Med et kreditkort kan du altså risikere at bruge flere penge, end du har, men samtidig giver nogle kreditkort også nogle rigtig gode fordele.
 
 Med et **debetkort** trækkes pengene fra kontoen med det samme. Med mindre du har en **kassekredit** kan du ikke hæve over det beløb, der står på kontoen.
 
@@ -52,10 +54,10 @@ Især når du tænker på, hvad pengene kan vokse til relativt hurtigt, hvis du 
 
 ## Hvad har jeg gjort?
 
-Da jeg ikke vil have mine investeringer liggende hos min bank lige nu, så har jeg fravalgt Lån & Spar Bank. Lige nu har jeg oprettet en konto hos [Lunar\*](/go/lunar/) for at få 2% cashback på min likvide opsparing, et [kreditkort hos Norwegian](/go/norwegian/) for at optjene cashback og gratis rejseforsikring og endelig et kort hos [Revolut\*](/go/revolut/) for at have gratis valutaveksling og hæve gratis i udlandet.
+Da jeg ikke vil have mine investeringer liggende hos min bank lige nu, så har jeg fravalgt Lån & Spar Bank. Lige nu har jeg oprettet en konto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' } for at få 2% cashback på min likvide opsparing, et [kreditkort hos Norwegian](/go/norwegian/){: rel='nofollow noopener' } for at optjene cashback og gratis rejseforsikring og endelig et kort hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } for at have gratis valutaveksling og hæve gratis i udlandet.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-[Få gratis debetkort og valutaveksling hos Revolut\*](/go/revolut/){: .btn .btn--large .btn--info}
+[Få gratis debetkort og valutaveksling hos Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

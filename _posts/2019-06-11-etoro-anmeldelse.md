@@ -1,13 +1,17 @@
 ---
-title: "Etoro: Copytrading og kurtagefri aktiehandel og skat"
-redirect_from: /etoro-anmeldelse/
+title: &title "Etoro: Copytrading og kurtagefri aktiehandel og skat"
+description: På Etoro handler du med mange forskellige typer værdipapirer. Jeg har kigget på platformen og dykket ned i, hvordan det hænger sammen med Etoro og skat.
+excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
+redirect_from:
+  - /etoro-anmeldelse/
 permalink: /etoro-copytrading-skat/
 last_modified_at: 2021-03-31T20:20:00+08:00
 header:
   overlay_image: /assets/images/etoro.jpg
   teaser: /assets/images/logo/etoro.png
+  caption: *title
 category:
-  - Anmeldelser
+  - Investering
 tags:
   - investering
   - anmeldelse
@@ -17,8 +21,6 @@ tags:
   - råvarer
   - copy trading
   - værdipapirer
-description: På Etoro handler du med mange forskellige typer værdipapirer. Jeg har kigget på platformen og dykket ned i, hvordan det hænger sammen med Etoro og skat.
-excerpt: "På Etoro kan man handle aktier, CFD'er, ETF'er, indekser, råvarer, valuta og kryptovaluta, men vigtigst for mig, så kan man lave copy trading."
 ---
 
 Jeg er blevet interesseret i Etoro, fordi man kan lave _copy trading_ på platformen. I _copy trading_ kopierer du andre tradere. Jeg har ambitioner om, at mine investeringer følger markedet for størstedelen af min portefølje. Men det er også tillokkende at kunne slå markedet. Jeg har ikke tid eller tålmodighed til at sidde og _trade_ ofte. Derfor er det interessant at kunne følge andre tradere, der hele tiden forsøger at slå markedet og konstant skal gøre sig fortjent til at blive fulgt, fordi de kan levere et godt afkast. 
@@ -42,7 +44,7 @@ Lige nu bruger jeg udelukkende Etoro til _copy trading_, men der er også mange 
 
 ## Hvordan har jeg brugt copytrading på Etoro?
 
-Det er rigtig let at oprette en konto på [Etoro\*](/go/etoro/), så det vil jeg ikke gennemgå her. Jeg tilføjede _gratis_ penge til min [Revolut\*](/go/revolut/) med mit kreditkort. Derefter brugte jeg (på en hverdag) mit Revolut-betalingskort til at tilføje penge til min Etoro, for så fik jeg gratis valutaveksling til US$ til interbank-raten.
+Det er rigtig let at oprette en konto på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' }, så det vil jeg ikke gennemgå her. Jeg tilføjede _gratis_ penge til min [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } med mit kreditkort. Derefter brugte jeg (på en hverdag) mit Revolut-betalingskort til at tilføje penge til min Etoro, for så fik jeg gratis valutaveksling til US$ til interbank-raten.
 
 Så fandt jeg nogle tradere, der dels var populære og tidligere har leveret gode resultater. Først investerede jeg 200 US$ i hver trader, men købene blev ikke foretaget som jeg havde forventet. I stedet satte jeg beløbene op til 500 US$ på hver trader, og så blev købene automatisk foretaget på min konto. Købene foregår stadig på din konto, så det er dig, der får profitten. Du betaler et lille gebyr til den trader, du følger.
 
@@ -57,7 +59,7 @@ Jeg er dog lidt usikker på, hvad jeg skal sætte mit _copy stop loss_ til. Lige
 - Du kan lave _copy trading_, hvor du ikke selv behøver at sidde og handle. Hvis du finder de rette tradere at kopiere, kan du være heldig at tjene penge også når markederne går nedad.
 - Større udenlandske aktier kan handles **kurtagefrit** (_zero commision_). Det er aktier fra New Yourk Stock Exchange, Nasdaq børsen, engelske aktier, tyske aktier, franske aktier, spanske aktier, schweiziske aktier og svenske aktier. Derudover store kinesiske aktier fra Hong Kong-børsen.
 - Platformen er let at bruge (men husk at sætte dig ind i hvad CDF'er er - og hvad det betyder at geare en investering, hvis du kaster dig ud i at handle selv).
-- Det er let og gratis at overføre penge ind på kontoen med [Revolut\*](/go/revolut/).
+- Det er let og gratis at overføre penge ind på kontoen med [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }.
 
 ## Ulemper for Etoros copytrading?
 
@@ -65,7 +67,7 @@ Etoro har ry for at være en af de platforme med høje gebyrer eller _spreads_ p
 
 Jeg er ret opmærksom på, at der er et helt urimelig højt _hævegebyr_ på Etoro, nemlig 25 US$. Men jeg handler som sagt på _lang sigt_ og regner med at indtjeningen på platformen samlet vil være mange gange højere, så for mig er det ikke et problem. Men du bør nok ikke skyde penge ind i Etoro, hvis du snart vil hæve pengene igen.
 
-Jeg overvejede egentlig også at bruge Etoro til kryptovaluta, men de opererer med ret høje _spreads_ (forskellen mellem køb og salg). Et _spread_ er i princippet et usynligt gebyr. Jeg havde ellers overvejet også at bruge Etoro til kryptovaluta, men tror jeg vil fastholde [Coinbase\*](/go/coinbase/), hvor man på deres PRO udgave handler med relativt lave gebyrer. Der er også spørgsmålet om, hvordan man får de købte coins ud i en _wallet_ - og hvad det koster.
+Jeg overvejede egentlig også at bruge Etoro til kryptovaluta, men de opererer med ret høje _spreads_ (forskellen mellem køb og salg). Et _spread_ er i princippet et usynligt gebyr. Jeg havde ellers overvejet også at bruge Etoro til kryptovaluta, men tror jeg vil fastholde [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' }, hvor man på deres PRO udgave handler med relativt lave gebyrer. Der er også spørgsmålet om, hvordan man får de købte coins ud i en _wallet_ - og hvad det koster.
 
 ## Skat på Etoro og copytrading 2021
 
@@ -120,8 +122,6 @@ Jeg vil aktivt det næste års tid bruge Etoro til _copy trading_ for at se, hvi
 
 På et tidspunkt kunne det måske også være lidt interessant selv at prøve at _trade_ lidt mere aktivt - og så er den kurtagefri handel med aktier interessant. Dog skal man lige være klar over, at man for aktier ikke altid køber det underliggende aktiv, men en CDF for aktien (det gælder fx ikke-amerikanske aktier). Hvis jeg vil _trade_ mere aktivt, så bliver det altså bare som et lille hobbyprojekt med min mest risikovillige kapital.
 
-[Opret dig på Etoro\*](/go/etoro/){: .btn .btn--large .btn--success}
-
-<a href="http://partners.etoro.com/B11304_A79325_TClick.aspx" Target="_Top"><img border="0" src="http://partners.etoro.com/B11304_A79325_TGet.aspx" alt="Etoro" width="300" height="600"></a>
+[Opret dig på Etoro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

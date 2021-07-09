@@ -56,7 +56,7 @@ Der er ikke så meget data endnu, og jeg er lige gået ind i investeringen, men 
 - Renterne på lånene er ikke særlig høje (3-5%).
 - Det tager lidt tid, inden der tikker renter ind, fx har jeg investeret i juni 2019, men der kommer ikke afkast i år på investeringerne.
 
-[Tilmeld dig Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning}
+[Tilmeld dig Lendahand](/go/lendahand/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
 
 ## Skat ved crowdlending på {{ page.title }}
 
@@ -82,4 +82,4 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 <iframe width="607" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1985184428&amp;format=image"></iframe>
 
-[Tilmeld dig Lendahand\*](/go/lendahand/){: .btn .btn--large .btn--warning}
+[Tilmeld dig Lendahand](/go/lendahand/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

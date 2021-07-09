@@ -5,7 +5,7 @@ excerpt: "Hvor meget løn får jeg udbetalt efter skat? Beregn din løn efter sk
 last_modified_at: 2021-03-31T09:20:02+02:00
 permalink: /udbetalt-loen-efter-skat/
 category:
-  - Spar penge
+  - Privatøkonomi
 tags:
   - lønberegner
 header:

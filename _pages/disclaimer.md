@@ -4,6 +4,7 @@ permalink: /disclaimer/
 excerpt: "Ting du skal være opmærksom på, når du bruger iFire.dk"
 author_profile: true
 layout: single
+sitemap: false
 ---
 
 ## Disclaimer

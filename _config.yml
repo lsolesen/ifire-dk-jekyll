@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.22.0"
+remote_theme:            "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 ads: true
@@ -18,8 +18,8 @@ locale                   : "da"
 title                    : "iFire"
 title_separator          : "-"
 subtitle                 : "Økonomisk frihed, investering, crowdlending og bæredygtighed"
-name                     : "iFire - Finansiel frihed, investering, crowd lending og bæredygtighed"
-description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowd lending og passiv indkomst med blik for bæredygtighed"
+name                     : "iFire - Finansiel frihed, investering, crowdlending og bæredygtighed"
+description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowdlending og passiv indkomst med blik for bæredygtighed"
 logo                     : "/android-chrome-192x192.png"
 url                      : "https://www.ifire.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 email                    : "info@ifire.dk"
@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   name: "iFire.dk"
-  bio: "Jeg hedder Lars og er på jagt efter økonomisk uafhængighed. Følg mine erfaringer med crowd lending, passiv indkomst og investeringer, og læs om hvad jeg lærer undervejs."
+  bio: "Jeg hedder Lars og er på jagt efter økonomisk uafhængighed. Følg mine erfaringer med crowdlending, passiv indkomst og investeringer, og læs om hvad jeg lærer undervejs."
   avatar: "/assets/images/authors/growth-logo.png"
   links:
     - label: "Email"
@@ -206,8 +206,8 @@ sass:
 
 # Outputting
 permalink: /:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 500 # amount of posts to show
+paginate_path: /page/:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -283,12 +283,18 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: "page"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
+      header:
+        teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
       author_profile: true
       read_time: true
       comments: true

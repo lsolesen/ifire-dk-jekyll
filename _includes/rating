@@ -1,19 +1,13 @@
-{% assign rating = include.rating %}
+{% assign rating = include.rate | default: 0 | times: 1 %}
 {% assign of = include.of | default: 5 %}
-{% if include.icon %}
-  {% assign icon = '&#x26AB;' %}
-  {% assign icon_off = '&#x26AA;' %}
-{% else %}
-  {% assign icon = '&#9733;' %}
-  {% assign icon_off = '&#9734;' %}
-{% endif %}
-
+{% assign icon = include.icon_on | default: '&#9733;' %}
+{% assign icon_off = include.icon_off | default: '&#9734;' %}
+{% assign stars = '' %}
 {% for i in (1..of) %}
-  {% if i <= include.rating %}
+  {% if i <= rating %}
     {% assign stars = stars | append: icon %}
   {% else %}
     {% assign stars = stars | append: icon_off %}
   {% endif %}
 {% endfor %}
-
 {{ stars }}

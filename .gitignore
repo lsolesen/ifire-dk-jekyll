@@ -10,3 +10,7 @@ Gemfile.lock
 npm-debug.log
 .jekyll-cache
 .ztr-directory
+.bundle/
+vendor/
+.vscode/settings.json
+build/

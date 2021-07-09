@@ -12,19 +12,19 @@ tags:
 excerpt: "Brug LastPass som password manager - og få sikrere login på nettet."
 ---
 
-Jeg har et login til virkelig mange sider, og en del af dem er efterhånden til ret følsomme sider, hvor der er penge involveret, fx [crowdlending\*](/go/mintos), [cryptovaluta\*](/go/coinbase/), [guld\*](/go/bullionvault/), [bank\*](/go/lunar/). Adgangskoder bliver jævnligt lækket og hacket, og hvem har efterhånden ikke modtaget en e-mail, hvor en ´Anonymous Hacker` fortæller, at de har har dit password (hvilket de har) - og at de går i gang med at ødelægge dit liv lige om lidt (hvilket de nok ikke gør)?
+Jeg har et login til virkelig mange sider, og en del af dem er efterhånden til ret følsomme sider, hvor der er penge involveret, fx [crowdlending](/crowdlending/), [kryptovaluta](/kryptovaluta/), [guld](/go/bullionvault/){: rel='sponsored nofollow noopener' }, [bank](/go/lunar/){: rel='sponsored nofollow noopener' }. Adgangskoder bliver jævnligt lækket og hacket, og hvem har efterhånden ikke modtaget en e-mail, hvor en ´Anonymous Hacker` fortæller, at de har har dit password (hvilket de har) - og at de går i gang med at ødelægge dit liv lige om lidt (hvilket de nok ikke gør)?
 
 Derfor bruger jeg en _Password Manager_ til at gemme alle mine passwords. Så skal jeg bare huske et _master_ password, og så sørger manageren for at indtaste mine login-oplysninger rundt omkring på nettet og i forskellige apps på telefonen.
 
 ## LastPass er min foretrukne Password Manager
 
-Jeg har valgt at bruge [LastPass*](/go/lastpass/). Jeg startede med den gratis version, men betaler nu for deres premium version, så alle passwords bliver synkroniseret på tværs af alle mine enheder. 
+Jeg har valgt at bruge [LastPass](/go/lastpass/){: rel='sponsored nofollow noopener' }. Jeg startede med den gratis version, men betaler nu for deres premium version, så alle passwords bliver synkroniseret på tværs af alle mine enheder. 
 
 For at bruge LastPass downloader du en extension til din browser eller en app på din telefon, og så er alle dine passwords let tilgængelige, og appen kan selv indtaste adgangskoderne i formularerne på siderne.
 
-På [Trustpilot](https://dk.trustpilot.com/review/www.lastpass.com) får LastPass meget spredte anmeldelser - primært pga. manglende support til den gratis version. Jeg har ikke oplevet problemer med LastPass, men hvis du forventer at få brug for support, så betal for deres Premium version, som koster 36$ om året. Hvis du [bruger mit link, så får du en måneds gratis Premium abonnement*](/go/lastpass/).
+På [Trustpilot](https://dk.trustpilot.com/review/www.lastpass.com) får LastPass meget spredte anmeldelser - primært pga. manglende support til den gratis version. Jeg har ikke oplevet problemer med LastPass, men hvis du forventer at få brug for support, så betal for deres Premium version, som koster 36$ om året. Hvis du [bruger mit link, så får du en måneds gratis Premium abonnement](/go/lastpass/){: rel='sponsored nofollow noopener' }.
 
-[Få LastPass med en måneds gratis Premium\*](/go/lastpass/){: .btn .btn--large .btn--danger}
+[Få LastPass med en måneds gratis Premium](/go/lastpass/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Hvor sikkert er det?
 
@@ -48,6 +48,6 @@ Uanset hvad så er det noget sikrere end at bruge det samme password til alle si
 
 LastPass har virkelig gjort mit liv lettere. Jeg bruger også LastPass en gang om året til at gennemgå alle de sites, jeg har en profil på. Er der sites, jeg skal have slettet min profil fra? Har jeg fået brugt de samme passwords? Jeg har valgt Premium-udgaven primært for at kunne bruge appen på min telefon, men den gratis udgave giver virkelig meget for (ingen) penge(ene).
 
-[Få LastPass som password manager\*](/go/lastpass/){: .btn .btn--large .btn--danger}
+[Få LastPass som password manager](/go/lastpass/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

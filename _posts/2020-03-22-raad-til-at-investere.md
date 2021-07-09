@@ -8,7 +8,6 @@ header:
   caption: Photo by Paweł Czerwiński on Unsplash
 category:
   - Investering
-  - Opsparing
 tags:
   - investering
   - opsparing
@@ -22,6 +21,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
     title: "The Simple Path to Wealth"
@@ -29,6 +29,7 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Du behøver ikke ret mange penge for at komme i gang med at investere, men der er lige et par ting, du bør have styr på først. 
@@ -37,14 +38,14 @@ Du skal først afbetale **dyr gæld**. Hvis du har en dyr gæld med høje renter
 
 Du har brug for en **opsparing**, som er stor nok til, at du ikke tvinges til at sælge dine investeringer med tab, fordi de skal sælges, mens markedet er nede.
 
-En opsparing er ikke gratis, fordi pengene på lønkontoen eller en lavt forrentet langsomt bliver mindre værd pga. inflationen. I øjeblikket er renterne meget lave på opsparingskonti, fx giver [Norwegian\*](/go/norwegian/) kun 0,30% på deres opsparingskonto. Hvis pengene i stedet var investeret, så kan de forrente sig selv bedre over tid. Der er med andre ord en alternativomkostning ved at lave en opsparing. Derfor skal du finde ud af, hvor stor din opsparing behøver at være.
+En opsparing er ikke gratis, fordi pengene på lønkontoen eller en lavt forrentet langsomt bliver mindre værd pga. inflationen. I øjeblikket er renterne meget lave på opsparingskonti, fx giver [Norwegian](/go/norwegian/) kun 0,30% på deres opsparingskonto. Hvis pengene i stedet var investeret, så kan de forrente sig selv bedre over tid. Der er med andre ord en alternativomkostning ved at lave en opsparing. Derfor skal du finde ud af, hvor stor din opsparing behøver at være.
 
 ## Hvor meget opsparing er nødvendig?
 
 Det er kun dig selv, der kan svare på, hvor meget opsparing du behøver. Hvad er dine faste udgifter, jobsikkerhed, a-kasse-forhold, andre løbende indkomster. 
 
-- **Nødopsparing**. Nødopsparingen skal kunne betale, hvis noget uforudset går i stykker. Hvis fx bilen går i stykker og tørretumbleren står af. Hvor meget skal du så bruge for at kunne betale de regninger. Hvad er sandsynligt kan gå i stykker? På [Lunar\*](/go/lunar/) kan du fx lave et _Goal_ som du kalder nødopsparing. Pengene er stadig direkte på kontoen, men er umiddelbart ikke synlig på din balance, og du får en advarsel, hvis du bruger pengene.
-- **Opsparing**. Ud over nødopsparingen kan det være fornuftigt med en yderligere opsparing. Fx har du fremtidige regninger at betale (du kan få overblik ved at lave et budget) eller samfundet står pludselig i en krise, og du mister dit job. Igen er det op til dig selv at definere, hvor meget du har brug for i opsparing. Nogen sætter 1 måneds faste udgifter til side. Andre sætter op til 6 måneders faste udgifter til side. Du kan fx have din opsparing hos [Norwegian\*](/go/norwegian/), hvor du lige nu kan få 0,30% i rente.
+- **Nødopsparing**. Nødopsparingen skal kunne betale, hvis noget uforudset går i stykker. Hvis fx bilen går i stykker og tørretumbleren står af. Hvor meget skal du så bruge for at kunne betale de regninger. Hvad er sandsynligt kan gå i stykker? På [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' } kan du fx lave et _Goal_ som du kalder nødopsparing. Pengene er stadig direkte på kontoen, men er umiddelbart ikke synlig på din balance, og du får en advarsel, hvis du bruger pengene.
+- **Opsparing**. Ud over nødopsparingen kan det være fornuftigt med en yderligere opsparing. Fx har du fremtidige regninger at betale (du kan få overblik ved at lave et budget) eller samfundet står pludselig i en krise, og du mister dit job. Igen er det op til dig selv at definere, hvor meget du har brug for i opsparing. Nogen sætter 1 måneds faste udgifter til side. Andre sætter op til 6 måneders faste udgifter til side. Du kan fx have din opsparing hos [Norwegian](/go/norwegian/), hvor du lige nu kan få 0,30% i rente.
 
 Men husk alternativomkostningen når du finder ud af, hvor meget du gerne vil have på opsparingen. Hvis du fx lader 50.000 DKK (for meget) stå i opsparingen uden renter, så kunne du med 4% i afkast årligt have fået 2.000 DKK. Men husk også at markederne kan gå den anden vej, så afkastet lige netop i år ikke var så højt.
 

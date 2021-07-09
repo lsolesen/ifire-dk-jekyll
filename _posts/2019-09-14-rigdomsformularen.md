@@ -2,11 +2,13 @@
 title: "Ung, finansiel bevidsthed og rigdomsformlen"
 permalink: /ung-rigdomsformel/
 category:
-  - Indtægter
+  - FIRE
 tags:
   - rigdomsformlen
 excerpt: "Hvordan kommer man som ung i gang med at være finansielt bevidst og få styr på sin økonomi?"
 toc: true
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Rigdomsformlen handler om at tjene mere, forbruge mindre og investere (klogere). Men hvordan kommer man så i gang? At blive finansiel uafhængig handler i høj grad om ens evne til at forbruge mindre og have en passiv indkomst, som man kan skabe fra investeringer.
@@ -39,11 +41,11 @@ Når du er ung, kan du operere med en lang investeringshorisont. Det burde være
 
 Hvis fx du kan investere 500 kroner om måneden i 30 år, så vil du om 30 år have 348.681 kroner, hvoraf de 168.181 kroner vil være tjent udelukkende i renter med 4% i rente. Det er da en passiv investering, der er til at forstå.
 
-Mange banker har mere eller mindre automatiske robotinvesteringsprodukter (fx [Nord.Investments\*](/go/nord/)), hvor du kan sætte en smule ind hver måned. Du kan også oprette en månedsopsparing på [Nordnet](/go/nordnet/). Vælg et investeringsprodukt, hvor de årlige omkostninger i procent (ÅOP) er minimale. Der er mange gode passive investeringsformer, hvor du kan få ÅOP under 1% (og helt ned til 0,07% for nogle ETF'er).
+Mange banker har mere eller mindre automatiske robotinvesteringsprodukter (fx [Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }), hvor du kan sætte en smule ind hver måned. Du kan også oprette en [månedsopsparing på Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Vælg et investeringsprodukt, hvor de årlige omkostninger i procent (ÅOP) er minimale. Der er mange gode passive investeringsformer, hvor du kan få ÅOP under 1% (og helt ned til 0,07% for nogle ETF'er).
 
-Hvis du kun investerer de penge, du ellers ville have brugt på ligegyldigt forbrug, så kan du lade pengene stå i investeringen for evigt. 
+Hvis du kun investerer de penge, du ellers ville have brugt på ligegyldigt forbrug, så kan du lade pengene stå i investeringen for evigt.
 
-Start måneden med at investere et beløb. At gøre det først på måneden gør nemlig, at du ikke kan bruge pengene på noget tilfældigt i løbet af måneden. 
+Start måneden med at investere et beløb. At gøre det først på måneden gør nemlig, at du ikke kan bruge pengene på noget tilfældigt i løbet af måneden.
 
 Hvorfor skal du investere? Du vil nok finde motivation i effekten af renters rente i nedenstående beregner.
 
@@ -55,7 +57,7 @@ Hvorfor skal du investere? Du vil nok finde motivation i effekten af renters ren
 
 **Derfor**: Find nogle gode investeringsprodukter med minimale årlige omkostninger i procent (under 1%), som passer med din risikoprofil og tidshorisont. Indbetal lidt til investeringen hver måned og nyd _renters rente_-effekten.
 
-[Få gratis investeringsforslag fra Nord\*](/go/nord/){: .btn .btn--large .btn--info} 
+[Få gratis investeringsforslag fra Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Take away
 

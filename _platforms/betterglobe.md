@@ -55,4 +55,4 @@ Rino Solberg fortæller selv på TedX om Better Globe - og det lyder jo alt samm
 
 {% include video provider="youtube" id="feyQWWjhnKE" %}
 
-[Tilmeld dig Better Globe\*](/go/betterglobe/){: .btn .btn--large .btn--success}
+[Tilmeld dig Better Globe](/go/betterglobe/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }

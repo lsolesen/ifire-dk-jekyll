@@ -8,8 +8,11 @@ tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Fondene fra Storebrand har fra den 1.1.2020 ændret status, så beskatningen fremover sker efter lagerprincippet. Det betyder at du beskattes af forskellen mellem værdien af andelenes værdi fra årets slutning og årets start.
@@ -37,6 +40,6 @@ Til forskel fra de danske, udbyttebetalende aktieinvesteringsforeninger udbetale
 
 Jeg vil formentlig selv købe op af disse, hvis jeg kommer til at købe fonde op uden for månedsopsparingen, da omkostningerne er meget favorable. Bl.a. kunne de sagtens være kandidater til mine [døtres efterskolefond](https://www.shareville.dk/profiles/lsolesen/portfolios/358995).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include disclaimer.md %}

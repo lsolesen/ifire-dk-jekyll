@@ -3,11 +3,12 @@ title: "Rebalancering af værdipapirporteføljen #8"
 last_modified_at: 2020-02-28T09:20:02+02:00
 permalink: /investering-vol8/
 category:
-  - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
   - obligationer
+  - værdipapirer
 excerpt: "Nu er det igen tid til at overveje, om jeg holder mig tæt nok til min strategi for investeringer i værdipapirer? Jeg skal igen gøre det enklere og holde følelserne udenfor."
 classes: wide
 feature_row:
@@ -18,6 +19,9 @@ feature_row:
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer, bl.a. fordi jeg vil sørge for at jeg holder min strategi. Det skrev jeg også lidt om tidligere i ['Simple Path to Wealth'](/investering-vol7/).
@@ -35,7 +39,7 @@ Det væsentligste for mig efter rebalanceringen er:
 
 ## Danske indeksfonde (#1)
 
-Jeg har hovedsageligt brugt SparInvests passive indeksfonde til at lave en portefølje. 
+Jeg har hovedsageligt brugt SparInvests passive indeksfonde til at lave en portefølje.
 
 Aktiemarkedets fald kan være en trædesten til at omlægge porteføljen lidt. Lige nu er jeg eksponeret mod SparInvests INDEX Globale Aktier Min. Risiko (SPIGLAMRIK) og SparInvests INDEX Emerging Markets (SPIEMIKL). Hvis jeg sælger Emerging Markets med et samlet tab, så kan det trækkes fra i udbytteafkastet. Så kan jeg i stedet købe SparInvests INDEX Globale Aktier (SPVIGAKL), som også indeholder _emerging markets_. Globale Aktier er et bredere verdensindeks, så jeg kun behøver en fond. Samtidig har jeg læst lidt mere om, hvad lav volatilitet i et indeks betyder. Du kan fx se følgende video:
 
@@ -100,7 +104,7 @@ Jeg har kigget lidt på min guld ETF. Jeg har valgt VZLD, men hvis jeg skulle k�
 | GZUR | [WisdomTree Physical Swiss Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NA52)                               | 0,19% |  |  | Passiv      |
 | 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0%-0,30%[^note] |  |  | Passiv      |
 
-[^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
+[^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf).
 
 > Når du er kunde i Nordnet er der ingen "custody" omkostninger ved 4GLD der bliver sendt videre til kunden (som det er i dag, vi tager forbehol for at det kan ændre sig med tiden). Derfor er det korrekt at RIY er 0,00% som det også står oplyst i faktaark til 4GLD.
 
@@ -129,11 +133,11 @@ Jeg vil udfase min udbytteaktiestrategi, fordi jeg bruger for meget tid på at t
 
 ## Aldersopsparing hos Nordnet
 
-Jeg har benyttet aldersopsparingen hos Nordnet til deres Superfonde for Danmark, Sverige og Norge. ÅOP er 0% og det koster ikke noget at handle dem. 
+Jeg har benyttet aldersopsparingen hos Nordnet til deres Superfonde for Danmark, Sverige og Norge. ÅOP er 0% og det koster ikke noget at handle dem.
 
 ## Aktiesparekonto
 
-På aktiesparekontoen leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
+På [aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}) leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
 
 ## Kapitalpension
 
@@ -141,9 +145,9 @@ Lige nu har jeg DKIGIADKKH og SparNord-aktier. Næste gang SparNord-aktierne giv
 
 ## Børneopsparing
 
-Foreløbig bruger jeg en SPIGLAMRIK på børneopsparingsdepoterne. Det vil egentlig være smartere, hvis det var en akkumulerende fond med lavere omkostninger, så det vil jeg ændre næste gang jeg har mulighed for at investere penge på børneopsparingen.
+Foreløbig bruger jeg en SPIGLAMRIK på børneopsparingsdepoterne. Det vil egentlig være smartere, hvis det var en akkumulerende fond med lavere omkostninger, så det vil jeg ændre næste gang jeg har mulighed for at [investere penge på børneopsparingen]({% link _posts/2019-02-27-borneopsparing.md %}).
 
-[Få en gratis investeringsplan hos Nord\*](/go/nord/){: .btn .btn--large .btn--info}
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row type="left" %}
 
