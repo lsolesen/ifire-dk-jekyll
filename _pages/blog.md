@@ -1,8 +1,9 @@
 ---
 layout: posts
 permalink: /blog/
-title: Blog for Ifire
-description: Blog for Ifire om økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
+title: Blog
+seo_title: "Blog om FIRE, økonomisk frihed og finansiel uafhængighed"
+description: Blog om økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
 classes: wide
 author_profile: true
 header:
@@ -13,6 +14,8 @@ header:
 platforms:
   - excerpt: '[Se alle crowdlending platformene](/crowdlending/){: .btn .btn--large .btn--success }'
 ---
+
+Blog om FIRE, økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
 
 Hvis du er interesseret i at læse alle mine [opdateringer, så har jeg samlet dem her](/opdateringer/).
 
