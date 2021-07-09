@@ -67,7 +67,9 @@ At skrive en blog og have reklamer på den er en af de måder, der bliver mere o
 
 ### 4. Affiliate marketing og lav salg
 
-Jeg har i længere tid forsøgt at lave affiliate marketing ved at linke til produkter, jeg selv godt kan lide. Jeg tjener så en lille kommision, når det lykkes for virksomheden at lave et salg efter, at folk har klikket på mit link. Jeg er mest glad for [Partner Ads](/go/partnerads/), som har rigtig mange forskellige programmer. Hvis det skal lykkes at få lavet nogle salg, så kræver det imidlertid igen et rigtig stort arbejde. Der er jo ingen der klikker på dine links, hvis ikke du har nogen besøgende. Og konkurrencen er hård.
+Jeg har i længere tid forsøgt at lave affiliate marketing ved at linke til produkter, jeg selv godt kan lide. Jeg tjener så en lille kommision, når det lykkes for virksomheden at lave et salg efter, at folk har klikket på mit link. Jeg er mest glad for [Partner Ads](/go/partnerads/){: rel="sponsored nofollow noopener" } og [Adservice](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1974173&media_id=81507){: rel="sponsored nofollow noopener" }, som har rigtig mange forskellige programmer.
+
+Hvis det skal lykkes at få lavet nogle salg, så kræver det imidlertid igen et rigtig stort arbejde. Der er jo ingen der klikker på dine links, hvis ikke du har nogen besøgende. Og konkurrencen er hård.
 
 ## Andre indlæg om passiv indkomst
 
