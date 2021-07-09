@@ -1,13 +1,16 @@
 ---
-permalink: /nordnet-maanedsopsparing-problemer/
 title: "Nordnets månedsopsparing: Guide til at komme i gang og problemer"
-seo_title: "Nordnets månedsopsparing 2021 • Kom i gang og problemer »"
-description: "Få en guide til at komme i gang med Nordnets månedsopsparing, så du kan automatisere dine investeringer kurtagefrit. Læs også om potentielle problemer."
-excerpt: "Nordnets månedsopsparing er en måde selv at bestemme over sine investeringer, automatisere dem og sørge for lave årlige omkostninger. Her kan du læse om, hvordan du kommer i gang - og om de problemer jeg har haft med månedsopsparingen."
-last_modified_at: 2021-04-03T09:20:02+02:00
+permalink: /nordnet-maanedsopsparing-problemer/
 redirect_from:
   - /investering/nordnet-maanedsopsparing-problemer/
   - /nordnet-maanedsopsparing/
+seo_title: Nordnets månedsopsparing 2021 • Kom i gang og problemer »
+excerpt: Nordnets månedsopsparing er en måde selv at bestemme over sine
+  investeringer, automatisere dem og sørge for lave årlige omkostninger. Her kan
+  du læse om, hvordan du kommer i gang - og om de problemer jeg har haft med
+  månedsopsparingen.
+header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Investering
 tags:
@@ -19,27 +22,29 @@ tags:
 gallery:
   - url: /assets/images/book/nordnet-maaned-menu.jpg
     image_path: /assets/images/book/nordnet-maaned-menu.jpg
-    alt: "menupunkt nordnets månedsopsparing"
-    title: "Menupunkt for Nordnets månedsopsparing"
+    alt: menupunkt nordnets månedsopsparing
+    title: Menupunkt for Nordnets månedsopsparing
   - url: /assets/images/book/nordnet-maaned.jpg
     image_path: /assets/images/book/nordnet-maaned.jpg
-    alt: "månedsopsparing med investeringsforeninger ETF"
-    title: "Til frie midler vælger du månedsopsparing med investeringsforeninger eller ETF'er"
+    alt: månedsopsparing med investeringsforeninger ETF
+    title: Til frie midler vælger du månedsopsparing med investeringsforeninger
+      eller ETF'er
   - url: /assets/images/book/nordnet-maaned-setup.jpg
     image_path: /assets/images/book/nordnet-maaned-setup.jpg
-    alt: "nordnet månedsopsparing guide fonde"
-    title: "Vælg depot, beløb og fonde"
-header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    alt: nordnet månedsopsparing guide fonde
+    title: Vælg depot, beløb og fonde
+last_modified_at: 2021-04-03T09:20:02+02:00
+description: Få en guide til at komme i gang med Nordnets månedsopsparing, så du
+  kan automatisere dine investeringer kurtagefrit. Læs også om potentielle
+  problemer.
 ---
-
-Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
+Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte *dollar cost averaging* på. Samtidig er månedsopsparingen kurtagefri.
 
 Men Nordnets månedsopsparing er også meget populær, hvilket potentielt giver nogle problemer.
 
-Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til kontoen på Nordnet, som automatisk investeres i de investeringsforeninger eller ETF’er, jeg har valgt. Og det bedste er at handlen er _kurtagefri_, hvilket betyder, at du ikke skal betale for dit køb.
+Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til kontoen på Nordnet, som automatisk investeres i de investeringsforeninger eller ETF’er, jeg har valgt. Og det bedste er at handlen er *kurtagefri*, hvilket betyder, at du ikke skal betale for dit køb.
 
-**Hvad er Dollar Cost Averaging?** Ved at investere fast hver måned sørger man for at indkøbene bliver spredt over tid, og man får automatisk købt mere, når det er billigt og mindre når det er dyrt. [Dollar Cost Averaging har vist sig at være mere effektivt end at forsøge at _time_ markedet](/hvornaar-ind-i-markedet/).
+**Hvad er Dollar Cost Averaging?** Ved at investere fast hver måned sørger man for at indkøbene bliver spredt over tid, og man får automatisk købt mere, når det er billigt og mindre når det er dyrt. [Dollar Cost Averaging har vist sig at være mere effektivt end at forsøge at *time* markedet](/hvornaar-ind-i-markedet/).
 {: .notice .notice--info }
 
 ## Kurtagefri handel på månedsopsparingen
@@ -101,7 +106,7 @@ Måske er Nordnets månedsopsparing blevet lidt for populær, og [Sparinvest IND
 
 ## Om månedsopsparingen
 
-På Nordnets månedsopsparing kan du automatisk en gang om måneden købe udvalgte investeringsforeninger og ETF’er uden at skulle betale kurtage (som ellers hos Nordnet minimum er 29 DKK). Det betyder, at du månedligt kan sætte et lille beløb ind, som automatisk bliver investeret i de op til fire værdipapirer, du har valgt. Det er virkelig fint ud fra princippet om _at betale sige selv først_, så man ikke fristes til at bruge pengene.
+På Nordnets månedsopsparing kan du automatisk en gang om måneden købe udvalgte investeringsforeninger og ETF’er uden at skulle betale kurtage (som ellers hos Nordnet minimum er 29 DKK). Det betyder, at du månedligt kan sætte et lille beløb ind, som automatisk bliver investeret i de op til fire værdipapirer, du har valgt. Det er virkelig fint ud fra princippet om *at betale sige selv først*, så man ikke fristes til at bruge pengene.
 
 Pengene investeres altid den 5. i måneden, og det er typisk om eftermiddagen efter at markederne lukker. Det er i teorien fint for at undgå, at handlerne fra Nordnet har for stor effekt på markederne.
 
@@ -110,9 +115,9 @@ Pengene investeres altid den 5. i måneden, og det er typisk om eftermiddagen ef
 I denne måned (april 2019) købte jeg i alt - fordelt på to depoter - syv forskellige værdipapirer. Det glædede jeg mig over, får så sparede jeg jo kurtage på alle købene. Men så så jeg på [Shareville](https://www.shareville.dk/aktier/sparinvest-index-globale-aktier-min-ris/kommentarer/imponerende-ringe-kurs-i-dag-for-manedsopsparingen-1391487k-74002717?fbclid=IwAR07VFlJFdkzOmOl0TwiNNe96FlsPOy9UEXJQM-MHrTMyr-7NzXe1MSQF4A), at kursen på den meget populære [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som jeg har sat til at fylde en del i min portefølje have en “imponerende ringe kurs”.
 
 > Imponerende ringe kurs i dag for månedsopsparingen 139,1487kr. Næsten halvanden procent fra lukkekursen eller 2kr pr aktie dårligere end det nærmest var muligt at købe til på egen hånd.
-> \- [PalleRaa](https://www.shareville.dk/medlemmer/palleraa)
+> - [PalleRaa](https://www.shareville.dk/medlemmer/palleraa)
 
-Han linker også til dette billede af kursen på [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som tydeligt viser, at kursen _spiker_ lige omkring Nordnets eksekvering af månedsopsparingen.
+Han linker også til dette billede af kursen på [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J), som tydeligt viser, at kursen *spiker* lige omkring Nordnets eksekvering af månedsopsparingen.
 
 {% include figure image_path="https://shareville-media.s3.amazonaws.com/cache/d2/d0/d2d014c1b25e0e19b1790af185d7702a.jpg" alt="Sparinvest INDEX Globale Akt Min Risiko KL - kurs 5. april 2019" caption="Sparinvest INDEX Globale Akt Min Risiko KL - kurs 5. april 2019" %}
 
@@ -121,7 +126,7 @@ Jeg købte i alt 75 aktier, så jeg har altså i alt betalt 131,25 kroner i alt 
 Jeg kiggede således hurtigt på min anden store satsning i min portefølje, nemlig den også ret populære [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) - og grafen spikede på samme måde på det værdipapir (hvilket ved nærmere eftersyn var om formiddagen). Så blev jeg lidt bekymret og gennemgik alle min køb i månedsopsparingen.
 
 | Værdipapir                                                                                         | Antal  | Købskurs | Dagskurs | Valuta |
-|----------------------------------------------------------------------------------------------------|--------|----------|----------|--------|
+| -------------------------------------------------------------------------------------------------- | ------ | -------- | -------- | ------ |
 | [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899)        | 54,00  | 128,70   | 128,70   | DKK    |
 | [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858)              | 116,00 | 147,89   | 147,70   | DKK    |
 | [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 75,00  | 139,15   | 137,40   | DKK    |
@@ -136,7 +141,7 @@ Heldigvis er det kun [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.mor
 
 ## Fremtiden for min månedsopsparing
 
-Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. Jeg overvejer kraftigt at fjerne _instrumentet_ [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) fra min månedsopsparing og i stedet selv købe værdipapiret på dagen, men måske skal jeg give [Nordnet](/go/nordnet/) en chance mere, for der er åbenbart andre end mig, der har haft udfordringen? Hvis ikke månedsopsparingen er pålidelig, så kan det måske lige så godt betale sig at samle alle mine investeringer på [SaxoInvestor](/go/saxoinvestor/), hvor jeg har min **aktiesparekonto**.
+Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. Jeg overvejer kraftigt at fjerne *instrumentet* [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) fra min månedsopsparing og i stedet selv købe værdipapiret på dagen, men måske skal jeg give [Nordnet](/go/nordnet/) en chance mere, for der er åbenbart andre end mig, der har haft udfordringen? Hvis ikke månedsopsparingen er pålidelig, så kan det måske lige så godt betale sig at samle alle mine investeringer på [SaxoInvestor](/go/saxoinvestor/), hvor jeg har min **[aktiesparekonto](/aktiesparekonto/)**.
 
 **Update**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris. Det er således tydeligt, at Nordnet lytter til kunderne.
 {: .notice--success}
@@ -156,14 +161,14 @@ Som sædvanligt lægger Nordnet fiktive ordrer ind for at reservere beløbet. De
 
 Jeg har sammenlignet den ordrekurs værdipapirerne er lagt ind med i Nordnet med søndag den 5. maj, med den købskurs de endte med at blive købt til den 6. maj og med lukkekursen fredag den 3. maj. Markederne var generelt faldet lidt den 6. maj, og det er altså også afspejlet i købskursen - og ingen af værdipapirerne er således blevet købt til overkurs i denne måned.
 
-| Værdipapir                                                                                         | Ordrekurs | Købskurs | Lukkekurs | Valuta  |
-|----------------------------------------------------------------------------------------------------|-----------|----------|-----------|---------|
-| [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899)        | 131,30    | 127,05   | 128,75    | DKK     |
-| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858)              | 152,25    | 147,64   | 149,35    | DKK     |
-| [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 141,40    | 136,87   | 138,65    | DKK     |
-| [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245)                      | 26,48     | 25,117   | 25,90     | EUR     |
-| [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | 254,56   | 258,06    | EUR     |
-| [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | 50,68    | 51,45     | EUR     |
+| Værdipapir                                                                                         | Ordrekurs | Købskurs | Lukkekurs | Valuta |
+| -------------------------------------------------------------------------------------------------- | --------- | -------- | --------- | ------ |
+| [SPIEMIKL](https://next.nordnet.dk/instrument/sparindex-index-emerging-markets-kl/16102899)        | 131,30    | 127,05   | 128,75    | DKK    |
+| [SPIDJWKL](https://next.nordnet.dk/instrument/sparindex-index-djsi-world-kl/16099858)              | 152,25    | 147,64   | 149,35    | DKK    |
+| [SPIGLAMRIKL](https://next.nordnet.dk/instrument/sparindex-index-globale-akt-min-risk-kl/16100293) | 141,40    | 136,87   | 138,65    | DKK    |
+| [IS3N](https://next.nordnet.dk/instrument/is-c-msci-emimi-u-etf-dla/16291245)                      | 26,48     | 25,117   | 25,90     | EUR    |
+| [SXR8](https://next.nordnet.dk/instrument/ishsvii-core-s-p-500-dlacc/16128786)                     | 263,22    | 254,56   | 258,06    | EUR    |
+| [EUNL](https://next.nordnet.dk/instrument/ishsiii-core-msci-wld-dla/16309430)                      | 52,53     | 50,68    | 51,45     | EUR    |
 
 Nordnet har været meget opmærksomme og rettet op på marts måneds udfordringer med månedsopsparingen - og jeg fortsætter i hvert fald ufortrødent med månedsopsparingen. Planen med månedsopsparingen er stadig, at sætte investeringerne på autopilot.
 
