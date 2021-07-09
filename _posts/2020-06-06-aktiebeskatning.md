@@ -169,7 +169,7 @@ Det er lidt forvirrende, og det kræver altså, at din investering er relativt s
 
 ## Overblik over beskatning af værdipapirer
 
-Det er altså ikke helt let at have overblik over skatten, for der er så mange forskellige satser og depottyper. Jeg har slet ikke været inde på skatten på pensionsdepoter (som alle er lagerbeskattede) eller børneopsparinger. Der må du selv lige researche lidt.
+Det er altså ikke helt let at have overblik over skatten, for der er så mange forskellige satser og depottyper. Jeg har slet ikke været inde på skatten på pensionsdepoter (som alle er lagerbeskattede) eller [skat på børneopsparinger]({% link _posts/2019-02-27-borneopsparing.md %}). Der må du selv lige researche lidt.
 
 Men selv når vi taler **frie midler**, så er der altså mange forskellige måder at investeringerne bliver beskattet på. Og så er **aktiesparekontoen lagerbeskattet** modsat alle andre depoter til frie midler. 
 

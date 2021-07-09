@@ -9,7 +9,6 @@ header:
 #    - label: "Presale: Kursus i minimalistik investering"
 #      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
 author_profile: true
-classes: wide
 feature_row_solutions:
   - image_path: /assets/images/logo/nord.png
     alt: "Nord.Investments"
@@ -34,9 +33,9 @@ feature_row_solutions:
     btn_class: "btn--info"
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen.'
+    excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/){: rel="nofollow noopener" } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing-problemer/) og aldersopsparingen.'
   - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage.'
+    excerpt: 'Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel="nofollow noopener" } til min [aktiesparekonto](/aktiesparekonto/) og handel uden minimumskurtage.'
 ---
 
 En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg. 
@@ -53,13 +52,15 @@ Der er mange måder at investere dine penge på. Når man laver en investering, 
 
 Men det er jo ikke sikkert, at markedet arter sig helt, som du havde håbet. Derfor skal du være opmærksom på, at investeringer kommer med en risiko. Der er nemlig ingen garantier, så du kan lave både gode og dårlige investeringer.
 
-## Investeringer og risiko
+## Investeringer og risiko - gode og dårlige investeringer
 
 Jeg vil gerne bruge mine investeringer til at skabe passiv indkomst. Det er et redskab til, at min økonomi stille og roligt kan vokse. Men i investeringsverden er der ingen, der kan garantere, om markedet går den ene eller anden vej, selvom rigtig mange forsøger at gøre sig kloge på det.
 
 Derfor er der også en betydelig risiko ved at sætte dine penge i investeringer. Du kan altså både tjene penge og tabe penge næsten uanset, hvad du investerer i.
 
 Derfor kan investeringer også handle om timing. Du skal altså kunne tåle at tabe dine penge, eller også skal du have råd til at være tålmodig.
+
+Gode investeringer er altså investeringer, der balancerer risikoen med det forventede afkast.
 
 ## Hvad kan man investere i?
 

@@ -145,7 +145,7 @@ Lige nu har jeg DKIGIADKKH og SparNord-aktier. Næste gang SparNord-aktierne giv
 
 ## Børneopsparing
 
-Foreløbig bruger jeg en SPIGLAMRIK på børneopsparingsdepoterne. Det vil egentlig være smartere, hvis det var en akkumulerende fond med lavere omkostninger, så det vil jeg ændre næste gang jeg har mulighed for at investere penge på børneopsparingen.
+Foreløbig bruger jeg en SPIGLAMRIK på børneopsparingsdepoterne. Det vil egentlig være smartere, hvis det var en akkumulerende fond med lavere omkostninger, så det vil jeg ændre næste gang jeg har mulighed for at [investere penge på børneopsparingen]({% link _posts/2019-02-27-borneopsparing.md %}).
 
 [Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 

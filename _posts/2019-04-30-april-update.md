@@ -99,13 +99,13 @@ Jeg har endnu ikke købt guld hos [BullionVault](/go/bullionvault/){: rel='spons
 
 ### Bitcoins
 
-Jeg skulle helt sikkert have købt nogle [Bitcoins](/go/coinbase/){: rel='sponsored nofollow noopener' } i februar, da prisen var lav, men der vidste jeg jo ikke, at den ville stige. Det er virkelig et argument for løbende at købe ind til sin portefølje - og måske gemme lidt _cash_ til at købe ekstra ind, når markedet er lavet og derved udnytte **dollar cost averaging**. Jeg vil have samlet lidt ind i cryptovaluta, men føler at jeg skal sætte mig lidt mere ind i markedet.
+Jeg skulle helt sikkert have købt nogle [Bitcoins](/go/coinbase/){: rel='sponsored nofollow noopener' } i februar, da prisen var lav, men der vidste jeg jo ikke, at den ville stige. Det er virkelig et argument for løbende at købe ind til sin portefølje - og måske gemme lidt _cash_ til at købe ekstra ind, når markedet er lavet og derved udnytte **dollar cost averaging**. Jeg vil have samlet lidt ind i kryptovaluta, men føler at jeg skal sætte mig lidt mere ind i markedet.
 
-Jeg eksperimenterer lidt med at [mine cryptovaluta på Minergate](/go/minergate/){: rel='sponsored nofollow noopener' }.
+Jeg eksperimenterer lidt med at [mine kryptovaluta på Minergate](/go/minergate/){: rel='sponsored nofollow noopener' }.
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins](/go/coinbase/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
-[Bliv cryptominer på Minergate](/go/minergate/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
+[Bliv kryptominer på Minergate](/go/minergate/){: .btn .btn--large .btn--danger rel='sponsored nofollow noopener' }
 
 ## Passiv indkomst
 

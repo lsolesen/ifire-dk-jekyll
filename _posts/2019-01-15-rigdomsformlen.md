@@ -24,9 +24,9 @@ Selvom rigdomsformularen er enkel, så rejser det alligevel en række interessan
 - Hvordan skal budgettet skrues sammen?
 - Hvor meget kan jeg sætte til side og investere?
 - Hvordan skal investeringerne - i aktier og obligationer, crowdlending, ejendomme?
-- Hvordan skal børneopsparingen se ud?
+- Hvordan skal [børneopsparingen]({% link _posts/2019-02-27-borneopsparing.md %}) se ud?
 - Hvordan skal min pensionsopsparing se ud?
-- Skal jeg have en opsparing - i kontanter, bitcoins og anden cryptovaluta eller i guld og sølv?
+- Skal jeg have en opsparing - i kontanter, bitcoins og anden kryptovaluta eller i guld og sølv?
 - Hvordan sørger jeg samtidig for, at verden bliver et bedre sted og at mit impact er **bæredygtigt**?
 
 Jeg vil beskrive min rejse med alle de spørgsmål, jeg selv har stået med i processen, og jeg vil hver måned lave opdateringer om mine valg, mine fejl og min fremgang mod at få taget gode økonomiske valg og finansiel frihed.

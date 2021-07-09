@@ -129,7 +129,7 @@ I alt har jeg tjent **2.282 DKK** på crowdlending i maj måned.
 
 Jeg har i løbet af maj fået bragt min kontante andel ned til, hvad jeg gerne vil have som nødopsparing. De står hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, som nu giver **4% cashback** på de første 50.000 kr, når man bruger deres betalingskort og har Nemkonto hos dem. De resterende penge står hos [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%.
 
-Jeg har i løbet af maj haft en negativ **opsparingrate på -7%**. Det skyldes primært, at jeg endelig har fået startet børnenes børneopsparing op - og det tæller jo hurtigt, når man har tre af slagsen.
+Jeg har i løbet af maj haft en negativ **opsparingrate på -7%**. Det skyldes primært, at jeg endelig har fået startet [børnenes børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %}) op - og det tæller jo hurtigt, når man har tre af slagsen.
 
 {% include cta-redirect title="Lunar" class="success" %}
 

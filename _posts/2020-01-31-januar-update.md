@@ -32,7 +32,7 @@ I januar brugte vi nogle dage på skiferie. Her nød jeg igen rigtig godt af mit
 
 Jeg fik endelig bestilt nogle reservedele til min kaffemaskine og kværn, så mit seks måneders købestop måtte afbrydes midlertidigt, men er trådt i kraft igen.
 
-Med ferie og indkøb af reservedelene og indbetaling på børnenes børneopsparing, så **endte opsparingsraten i den første måned af 2020 på beskedne 8,9%**. Det var dog nogle procent bedre end januar 2019, så alt i alt er det udemærket. Jeg forventer dog, at jeg de følgende måneder igen vil kunne komme noget højere op i opsparingsrate, men jeg kommer i 2020 ikke til at tjene så meget som i 2019, så gennemsnittet vil helt sikkert falde noget.
+Med ferie og indkøb af reservedelene og [indbetaling på børnenes børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %}), så **endte opsparingsraten i den første måned af 2020 på beskedne 8,9%**. Det var dog nogle procent bedre end januar 2019, så alt i alt er det udemærket. Jeg forventer dog, at jeg de følgende måneder igen vil kunne komme noget højere op i opsparingsrate, men jeg kommer i 2020 ikke til at tjene så meget som i 2019, så gennemsnittet vil helt sikkert falde noget.
 
 For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnementer](/online-services/), og der lykkedes det mig spare 476 DKK pr. måned allerede ved første gennemsyn.
 

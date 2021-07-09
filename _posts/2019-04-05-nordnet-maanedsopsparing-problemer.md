@@ -37,7 +37,7 @@ Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere min
 
 Men Nordnets månedsopsparing er også meget populær, hvilket potentielt giver nogle problemer.
 
-Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til kontoen på Nordnet, som automatisk investeres i de investeringsforeninger eller ETF’er jeg har valgt. Og det bedste er at handlen er _kurtagefri_, hvilket betyder, at du ikke skal betale for dit køb.
+Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til kontoen på Nordnet, som automatisk investeres i de investeringsforeninger eller ETF’er, jeg har valgt. Og det bedste er at handlen er _kurtagefri_, hvilket betyder, at du ikke skal betale for dit køb.
 
 **Hvad er Dollar Cost Averaging?** Ved at investere fast hver måned sørger man for at indkøbene bliver spredt over tid, og man får automatisk købt mere, når det er billigt og mindre når det er dyrt. [Dollar Cost Averaging har vist sig at være mere effektivt end at forsøge at _time_ markedet](/hvornaar-ind-i-markedet/).
 {: .notice .notice--info }
@@ -60,7 +60,7 @@ Uanset hvordan du investerer, så skal du starte med en strategi og en risikopro
 
 Hvis du er ung og kan tåle udsving i værdien af din portefølje, så kan du måske have 100% aktier. Hvis du er ældre og mindre risikovillig, så kan du balancere risikoen med fx obligationer.
 
-## Sådan sætter Nordnets månedsopsparing op
+## Sådan sættes Nordnets månedsopsparing op
 
 {% include gallery caption="Vælg depot, vælg beløb og vælg fonde" class="full" %}
 
@@ -77,9 +77,9 @@ Du kan vælge op til fire forskellige papirer at investere i. Du kan selv vælge
 
 Du kan tilpasse dit valg løbende, og du kan sagtens nå at rette det, hvis du får tastet noget forkert ind. Men hvis handlen først er gennemført, kan du naturligvis ikke fortryde. Så er det ligesom at have købt et værdipapir på børsen.
 
-Hvilke investeringsbeviser, du skal vælge, afhænger af din risiko og din tidshorisont. Der er desværre ikke nogle passive, danske obligationsafdelinger i månedsopsparingen, så dem må du købe manuelt ved siden af, hvis du bruger obligationer til at styre din risikoprofil. Jeg har skrevet lidt om [obligationer her](/obligationer/).
+Hvilke investeringsbeviser, du skal vælge, afhænger af din risiko og din tidshorisont. Der er desværre ikke nogle passive, danske obligationsafdelinger i månedsopsparingen, så dem må du købe manuelt ved siden af, hvis du bruger obligationer til at styre din risikoprofil. Jeg har skrevet lidt om at [investere i obligationer](/obligationer/) her.
 
-## Hvad investerer jeg i på Nordnets månedsopsparing?
+## Hvad investerer jeg i på månedsopsparingen?
 
 Jeg har oprettet en fast bankoverførsel fra min bank til Nordnet hver eneste måned den første. Den 8. i hver måned investerer Nordnet så automatisk i mine ønskede værdipapirer.
 
@@ -91,7 +91,7 @@ Hvis du gerne vil investere i passive indekser ligesom jeg gør, så kan du se, 
 
 Nordnets månedsopsparing købte Sparinvest til uforholdsmæssige høj kurs ift. dagsprisen. Er månedsopsparingen og Sparinvest blevet for populær?
 
-Måske er Nordnets månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. <del date="2019-05-06T09:16:18+02:00">Læs her hvorfor jeg er lidt skeptisk overfor Nordnets månedsopsparing.</del><ins date="2019-05-06T09:16:18+02:00">Læs her hvordan månedsopsparingen gav lidt udfordringer.</ins>
+Måske er Nordnets månedsopsparing blevet lidt for populær, og [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) er i hvert fald en populær aktie. Læs her hvordan månedsopsparingen gav lidt udfordringer.
 
 **Update 29. april 2019**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris.
 {: .notice--success}
@@ -141,7 +141,7 @@ Jeg er lidt bekymret for, hvad der sker på månedsopsparingen i næste måned. 
 **Update**: Nordnet har 29. april makuleret den oprindelige handel (139,1487 DKK) og oprettet en ny handel (137,62 DKK), og derved blev indeksfonden købt til den korrekte pris. Det er således tydeligt, at Nordnet lytter til kunderne.
 {: .notice--success}
 
-## Hvordan virker månedsopsparingen egentlig?
+## Hvordan virker Nordnets månedsopsparing egentlig?
 
 På handelsdagen for månedsopsparingen sker følgende:
 
@@ -173,12 +173,12 @@ Månedsopsparingen er virkelig et smart koncept, hvis du vil automatisere dine i
 
 Jeg har skrevet lidt mere om [passiv indeks investering](/investering/), hvis du har lidt mere tålmodighed, inden du vil i gang med at trykke på køb-knappen.
 
-Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor](/go/saxoinvestor/) også være en mulighed. Der er nemlig ikke nogen minimumskurtage.
+Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor](/go/saxoinvestor/) også være en mulighed. Der er minimumskurtagen nemlig mindre.
 
 En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter. Jeg synes den mest interessante er [Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }, fordi den er uafhængig af din bank, og de skal præstere for at beholde dig som kunde.
 
 Du kan også tjekke min [guide til at købe en indeksfond eller ETF på Nordnet](/nordnet-koeb-fond/).
 
-[Få gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info }
+[Få gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 {% include disclaimer.md %}

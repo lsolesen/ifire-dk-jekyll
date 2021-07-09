@@ -60,7 +60,7 @@ Lad os først få et hurtigt overblik over alle fondene:
 
 {% include fund-table.html funds=fonde %}
 
-Jeg har inkluderet i oversigten, om du kan købe fonden via Nordnets månedsopsparing. Det er nemlig vigtigt for mig, da jeg månedligt køber op i de passive danske investeringsfonde.
+Jeg har inkluderet i oversigten, om du kan [købe fonden via Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Det er nemlig vigtigt for mig, da jeg månedligt køber op i de passive danske investeringsfonde.
 
 {% assign fonde = site.data.funds | where: "type", "Investeringsforening" | where: "dividend", "Distribuerende" %}
 

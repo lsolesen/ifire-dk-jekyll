@@ -24,7 +24,7 @@ Fordelen ved at organisere dine konti sådan er, at du allerede så snart du få
 
 Nogle foretrækker også for at være lidt mere sikker at have en særskilt konto, der er et betalingskort tilknyttet, hvor de overfører et lille lommepengebeløb hver måned ud fra den betragtning, at så vil et misbrug af kortet aldrig kunne blive så stort. Personligt synes jeg måske, at det er lidt _over kill_.
 
-Der er også en del mennesker, der vælger at have en **'investeringskonto'**, hvor du også med fordel hver måned kan sætte et beløb over, så du ikke fristes til at bruge pengene på 'tant og fjas'. Og hvis du allerede tidligt starter med at have en investeringskonto og investerer pengene fornuftigt, så vil pengene virkelig kunne yngle gennem dit voksenliv. Du kan investere i aktiver, obligationer, crowdlending, cryptovaluta, træer, bæredygtighed og meget andet.
+Der er også en del mennesker, der vælger at have en **'investeringskonto'**, hvor du også med fordel hver måned kan sætte et beløb over, så du ikke fristes til at bruge pengene på 'tant og fjas'. Og hvis du allerede tidligt starter med at have en investeringskonto og investerer pengene fornuftigt, så vil pengene virkelig kunne yngle gennem dit voksenliv. Du kan investere i aktiver, obligationer, crowdlending, kryptovaluta, træer, bæredygtighed og meget andet.
 
 ## Kan jeg få en gratis konto med betalingskort, der giver renter?
 

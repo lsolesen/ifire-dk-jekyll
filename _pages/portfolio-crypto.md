@@ -22,6 +22,7 @@ feature_row_solutions:
     url: /go/kraken/
     btn_label: "Gå til Kraken"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/coinbase.png
     alt: "Coinbase"
     title: "Coinbase"
@@ -29,6 +30,7 @@ feature_row_solutions:
     url: /go/coinbase/
     btn_label: "Få 66 DKK på Coinbase"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/ledger.png
     alt: "Ledger"
     title: "Ledger"
@@ -36,9 +38,31 @@ feature_row_solutions:
     url: /go/ledger/
     btn_label: "Tjek prisen"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
 ---
 
-Hvis du er interesseret i kryptovaluta og Bitcoins, så kan du stille og roligt komme i gang her på siden.
+Jeg har skrevet en guide til at komme i gang med kryptovaluta og Bitcoins, som indeholder alle de spørgsmål, jeg selv havde, da jeg gik i gang med at investere i kryptovaluta.
+
+## Kryptovaluta guide
+
+Da jeg ville i gang med at investere i kryptovaluta, så stod jeg med en lang række spørgsmål:
+
+- hvad er en kryptovaluta?
+- hvilken kryptovaluta kan man investere i?
+- hvor handler man kryptovaluta?
+- hvordan betaler man skat af kryptovaluta?
+
+Før du kan komme i gang med at lave en **investering i kryptovaluta**, skal du altså vide mere om, hvad det er for en **digital valuta**, og hvordan man laver en **kryptovaluta handel**.
+
+## Bitcoins
+
+Bitcoins er den ældste og mest kendte kryptovaluta. Jeg har skrevet en komplet [guide til, hvad Bitcoins er](/bitcoins/) her.
+
+## Hvilken kryptovaluta skal man investere i?
+
+Der er virkelig mange forskellige kryptovalutaer og _coins_. Det mest kendte er Bitcoins og Ethereum, men listen er lang. Det er samtidig et ureguleret marked, hvor du hurtigt kan brænde nallerne.
+
+Jeg har skrevet en guide til, [hvilken kryptovaluta man kan investere i her]({% link _posts/2019-05-03-crypto-porfolio.md %})
 
 {% include disclosure.html %}
 
