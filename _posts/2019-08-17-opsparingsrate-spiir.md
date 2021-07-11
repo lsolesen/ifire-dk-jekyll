@@ -2,9 +2,10 @@
 title: "Hvordan udregnes opsparingsraten med Spiir?"
 permalink: /opsparingsrate-spiir/
 category:
-  - Spar penge
+  - Privatøkonomi
 tags:
   - opsparingsrate
+  - opsparing
 excerpt: "Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for hver måned?"
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

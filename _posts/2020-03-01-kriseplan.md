@@ -8,6 +8,7 @@ header:
   caption: Photo by Ehud Neuhaus on Unsplash
 category:
   - Investering
+  - Privatøkonomi
 tags:
   - investering
   - krise

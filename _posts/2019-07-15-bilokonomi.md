@@ -37,7 +37,7 @@ Vi købte altså bilen til 73.000 kroner, og vi har haft den siden 30/3/2012. Pr
 
 Prisen pr. måned for bilen falder naturligvis for hver måned vi beholder bilen fremover.
 
-For at se, hvad vi bruger på bilen, så gik jeg på jagt i [Spiir](http://www.spirr.dk/), hvor jeg har alle mine udgifter kategoriseret siden 1. januar 2016 (Spiir har gjort det meste for mig).
+For at se, hvad vi bruger på bilen, så gik jeg på jagt i [Spiir](http://www.spiir.dk/), hvor jeg har alle mine udgifter kategoriseret siden 1. januar 2016 (Spiir har gjort det meste for mig).
 
 Her kunne jeg hurtigt finde ud af, at jeg siden januar 2016 har haft følgende udgifter pr. opgørelse i dag medio juli 2019:
 

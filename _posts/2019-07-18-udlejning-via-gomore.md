@@ -2,10 +2,11 @@
 title: "Hvad skal jeg tage for biludlejning på Gomore?"
 permalink: /gomore/
 category:
-  - Passiv Indkomst
+  - Privatøkonomi
 tags:
   - biløkonomi
   - udlejning
+  - tjen penge
 excerpt: "Jeg planlægger at få en lille ekstra indtægt ved at udleje min bil på Gomore - men hvad bør jeg tage i leje?"
 last_modified_at: 2019-07-18T10:22:02+02:00
 header:

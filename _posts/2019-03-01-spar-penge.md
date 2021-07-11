@@ -29,7 +29,7 @@ Personligt har jeg installeret [Spiir](/go/spiir/) på min telefon og kategorise
 
 Men det kan også være en god ide at få styr på dine bankkonti, hvor mange fx laver en konto til faste udgifter, som jo kan fordele sig skævt i løbet af året. Ved at regne de faste udgifter ud for et helt år, så kan du hver måned overføre et fast beløb til kontoen, så du ikke ender i en overraskelse i den måned fx dine forsikringer skal betales.
 
-Du kan på [www.raadtilpenge.dk](https://www.raadtilpenge.dk/penge-beregner/budgetskema) finde et gratis budgetskema for både en person eller for et par. Der er en virkelig god forklaring.
+Jeg har skrevet en [guide med hjælp til budget]({% link _posts/2021-07-10-budget-for-begyndere.md %}) finde et [gratis budgetskema]({% link _posts/2021-07-10-budget-skabeloner.md %}) for både en person eller for et par.
 
 Når du får dine udgifter ind i Spiir, så får du også øjnene op for dit klatforbrug, som virkelig over et år kan slute mange penge. Du kan  også bruge [www.raadtilpenge.dk](https://www.raadtilpenge.dk/penge-beregner/Pengeslugerne) til hurtigt lige at regne ud, hvad To-go kaffe, cigaretter eller forbrugsvaner, du selv definerer, koster dig årligt.
 

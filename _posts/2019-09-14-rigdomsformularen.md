@@ -2,9 +2,10 @@
 title: "Ung, finansiel bevidsthed og rigdomsformlen"
 permalink: /ung-rigdomsformel/
 category:
-  - FIRE
+  - Privatøkonomi
 tags:
   - rigdomsformlen
+  - FIRE
 excerpt: "Hvordan kommer man som ung i gang med at være finansielt bevidst og få styr på sin økonomi?"
 toc: true
 header:

@@ -1,0 +1,39 @@
+<form class="calculator" id="calculator_fire">
+    <fieldset>
+        <legend>Økonomisk uafhængighed beregner</legend>
+        <div class="form-group">
+            <label>Månedligt budget (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 10.000" name="monthly_budget" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Årligt afkast på investeringer (%)
+                <input type="number" min="0" max="100" placeholder="fx 4" value="4" name="passive_income_percent" step="0.1" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Skatteprocent investeringer (%)
+                <input type="number" min="0" max="100" placeholder="fx 42" value="42" name="tax_percent" step="0.1" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Månedlig anden passiv indkomst (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 100" value="0" name="passive_income" step="0.1" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Skatteprocent indkomst (%)
+                <input type="number" min="0" max="100" placeholder="fx 42" value="42" name="tax_percent_income" step="0.1" required>
+            </label>
+        </div>
+        <input type="submit" value="Beregn">
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-group">
+            <label>
+                Nødvendigt investeret beløb (kr)
+                <input name="needed_investment" id="needed_investment" disabled>
+            </label>
+        </div>
+    </fieldset>
+</form>

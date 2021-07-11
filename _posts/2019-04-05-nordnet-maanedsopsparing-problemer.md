@@ -1,8 +1,8 @@
 ---
 permalink: /nordnet-maanedsopsparing-problemer/
 title: "Nordnets månedsopsparing: Guide til at komme i gang og problemer"
-seo_title: "Nordnets månedsopsparing 2021 • Kom i gang og problemer »"
-description: "Få en guide til at komme i gang med Nordnets månedsopsparing, så du kan automatisere dine investeringer kurtagefrit. Læs også om potentielle problemer."
+seo_title: "Nordnet månedsopsparing 2021 • Kom i gang og problemer »"
+description: "Få en guide til at komme i gang med Nordnet månedsopsparing, så du kan automatisere dine investeringer kurtagefrit. Læs også om potentielle problemer."
 excerpt: "Nordnets månedsopsparing er en måde selv at bestemme over sine investeringer, automatisere dem og sørge for lave årlige omkostninger. Her kan du læse om, hvordan du kommer i gang - og om de problemer jeg har haft med månedsopsparingen."
 last_modified_at: 2021-04-03T09:20:02+02:00
 redirect_from:
@@ -35,9 +35,9 @@ header:
 
 Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.
 
-Men Nordnets månedsopsparing er også meget populær, hvilket potentielt giver nogle problemer.
+Men månedsopsparingen fra Nordnet er også meget populær, hvilket potentielt giver nogle problemer.
 
-Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til kontoen på Nordnet, som automatisk investeres i de investeringsforeninger eller ETF’er, jeg har valgt. Og det bedste er at handlen er _kurtagefri_, hvilket betyder, at du ikke skal betale for dit køb.
+Månedsopsparingen fungerer ved, at jeg hver måned overfører et beløb til Nordnet kontoen, som automatisk investeres i de investeringsforeninger eller ETF’er, jeg har valgt. Og det bedste er at handlen er _kurtagefri_, hvilket betyder, at du ikke skal betale for dit køb.
 
 **Hvad er Dollar Cost Averaging?** Ved at investere fast hver måned sørger man for at indkøbene bliver spredt over tid, og man får automatisk købt mere, når det er billigt og mindre når det er dyrt. [Dollar Cost Averaging har vist sig at være mere effektivt end at forsøge at _time_ markedet](/hvornaar-ind-i-markedet/).
 {: .notice .notice--info }

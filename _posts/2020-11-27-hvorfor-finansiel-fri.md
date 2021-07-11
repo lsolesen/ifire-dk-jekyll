@@ -4,12 +4,13 @@ permalink: /okonomisk-uafhaengighed/
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
-  - FIRE
+  - Privatøkonomi
 tags:
   - finansiel frihed
   - økonomisk uafhængighed
   - økonomisk frihed
   - økonomisk fri
+  - FIRE
 ---
 
 Den anden dag fik jeg nogle spørgsmål i forbindelse med et skoleprojekt. Det er lidt længe siden jeg har fået lavet en opdatering her på siden, så jeg tænkte, at jeg ville svare grundigt på spørgsmålene om finansiel uafhængighed og samtidig give eleverne svar på deres spørgsmål.

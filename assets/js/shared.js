@@ -1,3 +1,23 @@
+$(document).ready(function() {
+    $("#calculator_fire").submit(function(e) {
+        console.log('Ready to submit');
+        e.preventDefault();
+
+        let monthly_budget = Number($("[name='monthly_budget']").val());
+        let passive_income_percent = Number($("[name='passive_income_percent']").val());
+        let tax_percent = Number($("[name='tax_percent']").val());
+        let passive_income = Number($("[name='passive_income']").val()) * 12;
+        let tax_percent_income = Number($("[name='tax_percent_income']").val());
+        
+        let yearly_budget = monthly_budget * 12;
+        let yearly_budget_excl_tax = yearly_budget * (tax_percent / 100 + 1);
+        let yearly_budget_minus_income = yearly_budget_excl_tax - passive_income * (tax_percent_income / 100);
+        let necessary = yearly_budget_minus_income * (100 / passive_income_percent);
+
+        $("[name='needed_investment']").val(necessary).toFixed(0);
+    });
+});
+
 var Hashtable = function() {
     function e(a) {
         if ("string" == typeof a) return a;

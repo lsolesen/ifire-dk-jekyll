@@ -2,7 +2,7 @@
 title: "Rigdomsformlen - i gang med finansiel uafhængighed"
 permalink: /rigdomsformlen/
 category:
-  - Website
+  - Privatøkonomi
 tags:
   - rigdomsformularen
 excerpt: "I gang med finansiel uafhængighed. Hvorfor og hvilke spørgsmål er der?"

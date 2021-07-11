@@ -3,9 +3,10 @@ layout: splash
 title: "Hvad koster de forskellige banker?"
 permalink: /bankpriser/
 category:
-  - Opsparing
+  - Privatøkonomi
 tags:
   - bank
+  - opsparing
 excerpt: "Hvad er priserne i de forskellige banker - jeg har tjekket SparNord, Merkur Bank, Lån & Spar Bank, Arbejdernes Landsbank, Lunar og Basisbank?"
 header:
   overlay_image: https://images.unsplash.com/photo-1542222024-c39e2281f121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
