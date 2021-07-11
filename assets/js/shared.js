@@ -14,7 +14,34 @@ $(document).ready(function() {
         let yearly_budget_minus_income = yearly_budget_excl_tax - passive_income * (tax_percent_income / 100);
         let necessary = yearly_budget_minus_income * (100 / passive_income_percent);
 
-        $("[name='needed_investment']").val(necessary).toFixed(0);
+        $("[name='needed_investment']").val(necessary.toFixed(0));
+    });
+    $("#calculator_hourly_wage").submit(function(e) {
+        console.log('Calculate hourly wage');
+        e.preventDefault();
+
+        let monthly_wage = Number($("[name='monthly_wage']").val());
+        let monthly_pension_percent = Number($("[name='monthly_pension_percent']").val());
+        let monthly_hours = Number($("[name='monthly_hours']").val());
+        let expenses_clothes = Number($("[name='expenses_clothes']").val());
+        let expenses_transport = Number($("[name='expenses_transport']").val());
+        let expenses_other = Number($("[name='expenses_other']").val());
+        let time_transport = Number($("[name='time_transport']").val());
+        let time_relax = Number($("[name='time_relax']").val());
+        let time_other = Number($("[name='time_other']").val());
+
+        let actual_monthly_wage = monthly_wage + (monthly_wage * monthly_pension_percent);
+        let hourly_wage_without_pension = monthly_wage / monthly_hours;
+        let hourly_wage = actual_monthly_wage / monthly_hours;
+        let actual_hours = monthly_hours + time_transport + time_relax + time_other;
+        let actual_monthly_wage_expenses = actual_monthly_wage - expenses_clothes + expenses_transport + expenses_other;
+        let hourly_wage_adjusted = actual_monthly_wage_expenses / actual_hours;
+        let adjusted_percent = hourly_wage_adjusted / hourly_wage * 100;
+
+        $("[name='hourly_wage_without_pension']").val(hourly_wage_without_pension.toFixed(0));
+        $("[name='hourly_wage']").val(hourly_wage.toFixed(0));
+        $("[name='hourly_wage_adjusted']").val(hourly_wage_adjusted.toFixed(0));
+        $("[name='adjusted_percent']").val(adjusted_percent.toFixed(0));
     });
 });
 

@@ -1,13 +1,15 @@
 ---
 layout: single
-title: Simpel minimalistisk investering
+title: "Investering: Hvordan kommer du i gang enkelt og minimalistisk?"
 seo_title: "Investering: Hvordan kommer du i gang enkelt og minimalistisk?"
+excerpt: "En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg."
 permalink: /investering/
 header:
   overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
 #  actions:
 #    - label: "Presale: Kursus i minimalistik investering"
 #      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
+toc: true
 author_profile: true
 feature_row_solutions:
   - image_path: /assets/images/logo/nord.png

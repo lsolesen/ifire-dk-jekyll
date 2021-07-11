@@ -4,6 +4,7 @@ permalink: /blog/
 title: Blog
 seo_title: "Blog om FIRE, økonomisk frihed og finansiel uafhængighed"
 description: Blog om økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed.
+excerpt: "Blog om FIRE, økonomisk og finansiel uafhængighed, FIRE og frihed igennem investering med tanker om bæredygtighed."
 classes: wide
 author_profile: true
 header:

@@ -1,5 +1,5 @@
 ---
-title: "8 lette måder at spare (mange) penge på allerede i dag"
+title: &title "8 lette måder at spare (mange) penge på allerede i dag"
 permalink: /spar-penge/
 category:
   - Spar penge
@@ -8,7 +8,9 @@ tags:
 excerpt: "Jeg har samlet en masse gode spareråd, og hvordan du kan spare rigtig mange penge uden at gå ud over din livskvalitet."
 last_modified_at: 2021-05-29T20:22:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1579621970795-87facc2f976d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1579621970795-87facc2f976d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
+  caption: *title
 ---
 
 Jeg er startet min rejse mod finansiel uafhængighed ved at kigge på, hvordan jeg kan spare penge på noget, der ikke giver mig ekstra livskvalitet.
@@ -53,7 +55,7 @@ Her har jeg samlet {{ site_posts.size }} gode spareråd, som gør at du kan spar
 
 ## Hvordan undgår jeg, at det sparede forsvinder i klatforbrug?
 
-Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en eller anden form for investering, så snart du får penge kontoen. Så ved du altid, hvad du har at gøre med.
+Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en eller [anden form for investering](/investering/), så snart du får penge kontoen. Så ved du altid, hvad du har at gøre med.
 
 ***
 

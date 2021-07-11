@@ -1,0 +1,77 @@
+<form class="calculator" id="calculator_hourly_wage">
+    <fieldset>
+        <legend>Beregn din reelle timeløn</legend>
+        <div class="form-group">
+            <label>Løn udbetalt efter skat (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 10000" name="monthly_wage" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Pension (%)
+                <input type="number" min="0" max="100" placeholder="fx 10" name="monthly_pension_percent">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Arbejdstimer (timer)
+                <input type="number" min="0" max="100000" placeholder="fx 160" value="160" name="monthly_hours" required>
+            </label>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Arbejdsrelaterede udgifter</legend>
+        <div class="form-group">
+            <label>Tøj (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 400" name="expenses_clothes">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Transport uden kørselsfradrag (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 400" name="expenses_transport">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Andre arbejdsrelaterede omkostninger (kr)
+                <input type="number" min="0" max="100000" placeholder="fx 400" name="expenses_other">
+            </label>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Arbejdsrelateret tid</legend>
+        <div class="form-group">
+            <label>Transport til og fra arbejde (timer/mdr)
+                <input type="number" min="0" max="100000" placeholder="fx 4" value="4" name="time_transport">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Behov for afslapning efter arbejde (timer/mdr)
+                <input type="number" min="0" max="100000" placeholder="fx 4" value="4" name="time_relax">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Øvrig tid (timer/mdr)
+                <input type="number" min="0" max="100000" placeholder="fx 4" value="4" name="time_other">
+            </label>
+        </div>
+        <input type="submit" value="Beregn">
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-group">
+            <label>
+                Timeløn efter skat uden pension (kr/timen)
+                <input name="hourly_wage_without_pension" disabled>
+            </label>
+            <label>
+                Timeløn efter skat med pension (kr/timen)
+                <input name="hourly_wage" disabled>
+            </label>
+            <label>
+                Reelle timeløn justeret for tid og omkostninger (kr/timen)
+                <input name="hourly_wage_adjusted" disabled>
+            </label>
+            <label>
+                Reelle timeløn udgør procent (%)
+                <input name="adjusted_percent" disabled>
+            </label>
+        </div>
+    </fieldset>
+</form>

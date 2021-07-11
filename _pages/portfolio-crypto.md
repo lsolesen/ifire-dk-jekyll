@@ -7,7 +7,7 @@ redirect_from:
   - /cryptovaluta/
 excerpt: "Her kan du se min samlede kryptovaluta portefølje - med intern rente, totalt investeret og indkomst."
 author_profile: true
-toc: false
+toc: true
 last_modified_at: 2020-05-12T10:00:00+08:00
 tags:
   - overblik
