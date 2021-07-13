@@ -6,6 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 excerpt: "Januar har igen budt på solide afkast fra værdipapirerne, mens crowdlending ser lidt bekymrende ud, så er gået i gang med at sænke min eksponering mod crowdlending."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500

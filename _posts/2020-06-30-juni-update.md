@@ -6,6 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 excerpt: "Investeringerne kører stadig på autopilot, tab på Flexfunding og nye investeringer i The Many."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

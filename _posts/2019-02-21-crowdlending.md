@@ -20,9 +20,11 @@ header:
 
 {% include disclosure.html %}
 
-Det bliver mere og mere populært at investere i udlån af penge til private og virksomheder. Og der er efterhånden rigtig mange gode platform, hvor du kan komme i gang. Afkastet på platformene slår ofte aktier og kan også være tocifret, så det kan være en attraktiv måde at investere sine penge på.
+Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
 
-Jeg overvejer stadig, hvor meget crowdlending skal være af min samlede portefølje, men jeg har efterhånden investeret i mere end 10 forskellige platforme med hver deres fordele og ulemper.
+Afkastet på platformene slår ofte aktier og kan også være tocifret, så det kan være en attraktiv måde at investere sine penge på. Men husk at tjekke [risiko og sikkerhed ved crowdlending]({% link _posts/2020-02-09-crowdlending-rebalancering.md %}).
+
+Jeg har selv crowdlending som en større del af min samlede portefølje, og jeg har efterhånden investeret i mere end 10 forskellige platforme med hver deres fordele og ulemper.
 
 > Crowdlending is the practice of lending money to individuals or businesses through online services that match lenders with borrowers.
 

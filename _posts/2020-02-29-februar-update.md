@@ -8,6 +8,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 excerpt: "Februar har jeg rebalanceret min crowdlending portefølje, set aktiemarkedet falde kraftigt og oprette mig på Kraken for at købe lidt mere kryptovaluta."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500

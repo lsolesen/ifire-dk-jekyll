@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Crowdlending, crowdfunding og P2P-investeringer siden 2017
+title: &title Crowdlending, crowdfunding og P2P-investeringer siden 2017
 permalink: /crowdlending/
 excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
 author_profile: true
@@ -8,17 +8,42 @@ toc: true
 tags:
   - overblik
 created_at: 2019-05-15T10:00:00+08:00
-last_modified_at: 2020-05-12T10:00:00+08:00
+last_modified_at: 2021-07-12T10:00:00+08:00
 header:
   teaser: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: Photo by Christine Roy on Unsplash
+  caption: *title
+  alt: Photo by Christine Roy on Unsplash
 ---
 
+**Juni 2021**: Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det bliver sidste måned, hvor jeg logger ind på alle platformene for at lave et samlet overblik. Jeg vil for eftertiden gå lidt mere i dybden med den enkelte platform.
+
+Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/) som sammen med [Bondoras Go & Grow](/go/bondora){: rel="sponsored nofollow noopener" }, som jeg primært satser på af de udenlandske platforme.
+
+Jeg har endnu engang investeret i [The Many](/go/themany/){: rel="sponsored nofollow noopener" }, hvor man nu kan investere fra 100 kroner. Jeg har investeret Frederiksberg, og så er jeg lige ved at tjekke Brassøvej-projektet ud i Århus. Jeg synes stadig platformen er spændende. Jeg håber også langsomt at den interne rente vil stige fra de omkring 3,7% som den er på lige nu. The Many skiller sig lidt ud fra de andre [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
+
+Desuden så er [Trine](/go/trine){: rel="sponsored nofollow noopener" } også stadig en favorit, fordi den faktisk præsterer rigtig fint med 6%+ i intern rente. Det synes jeg er rigtig fint, når jeg samtidig støtter bæredygtige projekter i Afrika.
+
+Jeg har også sat så mange [investeringer som muligt til salg på Housers](/platform/housers/). Desværre kan man kun sætte de rigtig gode investeringer til salg, så det var ikke så mange.
+
+{% include figure image_path="/assets/images/status/crowdlending-2021-07.jpg" %}
+
+{% include figure image_path="/assets/images/status/crowdlending-2021-07-1.jpg" %}
+
+Du kan se alle mine crowdlending platforme nedenfor, hvis du skal have inspiration.
+
 {% include disclosure.html %}
+
+## Mine erfaringer med crowdlending
 
 I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/). 
 
 Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
+
+## Crowdlending for begyndere
+
+Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
+
+Læs mere om [crowdlending i min begynderguide]({% link _posts/2019-02-21-crowdlending.md %}).
 
 ## Risiko crowdlending
 
@@ -65,7 +90,23 @@ Crowdlending har været udfordret i 2020, og jeg har haft nogle relativt store t
 
 [Få 10 EUR Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-#### Status april 2020
+## Opdateringer om crowdlending
+
+Jeg er ved at omlægge mine opdateringer for crowdlending. Du kan læse alle tidligere opdateringer her:
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "crowdlending" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+### Status april 2020
 
 Herunder er et øjebliksbillede fra april 2020.
 

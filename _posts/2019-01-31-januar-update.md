@@ -6,6 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 excerpt: "I januar 2019 bliver jeg særligt interesseret i finansiel uafhængighed. Status på investeringer, crowdfunding og crowdlending status på rejsen mod FIRE."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80

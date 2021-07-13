@@ -6,6 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 excerpt: "I juli har jeg lejet mit hus ud, fået gang i Gomore, oprettet et nyt affiliate site og så ellers bare investeret videre."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

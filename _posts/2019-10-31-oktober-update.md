@@ -6,6 +6,7 @@ category:
 tags:
   - rigdomsformularen
   - status
+  - crowdlending
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 excerpt: "Oktober har budt på nye investeringer hos Brickshare, og ellers har jeg øget investeringerne langsomt og sikkert med månedsopsparingen hos Nordnet."
