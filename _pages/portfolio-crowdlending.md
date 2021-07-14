@@ -45,6 +45,10 @@ Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange god
 
 Læs mere om [crowdlending i min begynderguide]({% link _posts/2019-02-21-crowdlending.md %}).
 
+## Crowdlending i Danmark
+
+Der findes også nogle [crowdlendingplatforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}). Fordelene ved de danske platforme er, at de er mere regulerede end de udenlandske muligheder for at investere i crowdlending. Jeg har investeret i flere af dem, og du kan læse mere om alle mine erfaringer med platformene.
+
 ## Risiko crowdlending
 
 Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlending. Crowdlending-platforme kan gå konkurs, og dine lån kan blive misligholdt.

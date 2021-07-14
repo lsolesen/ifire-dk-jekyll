@@ -39,7 +39,9 @@ Du skal betale skat af dine renteindtæger fra dine lån i crowdlending, og du k
 
 ## Skat af dansk crowdlending
 
-Du skal indberette dine renteindtægter fra dansk crowdlending i **Rubrik 31: Renteindtægter af indestående i bank m.m., obligationer og pantebreve i depot samt udlodninger fra obligationsbaserede investeringsbeviser med minimumsbeskatning, hvor der ikke er indeholdt udbytteskat**. De danske crowdlending-platforme har oplysningspligt, så derfor skulle renteindtægter og tab gerne være automatisk indberettet på din årsopgørelse.
+Du skal indberette dine renteindtægter fra dansk crowdlending i **Rubrik 31: Renteindtægter af indestående i bank m.m., obligationer og pantebreve i depot samt udlodninger fra obligationsbaserede investeringsbeviser med minimumsbeskatning, hvor der ikke er indeholdt udbytteskat**.
+
+De danske crowdlending-platforme har oplysningspligt, så derfor skulle renteindtægter og tab gerne være automatisk indberettet på din årsopgørelse.
 
 Men det kan som altid betale sig at tjekke om tallene er korrekte. Særligt hvis du har haft tab, at de er blevet registreret korrekt. Det er jo træls at betale skat af noget, du reelt ikke har tjent.
 
@@ -48,6 +50,8 @@ Hvis du skal have mulighed for at fradrage et tab, så skal det være sandsynlig
 Renteindtægten bliver beskattet som kapitalindkomst. Det betyder, at din beskatning afhænger af dine personlige indkomstforhold, men kapitalindkomst kan beskattes op til 42%. Hvis du har andre udgifter til lån, så vil det blive modregnet heri.
 
 Når du er logget ind på skat.dk kan du tjekke dine beløb i "Rubrik 19: Renteindtægter af indestående i bank m.m., obligationer og pantebreve i depot samt udlodninger fra obligationsbaserede investeringsbeviser med minimumsbeskatning, hvor der ikke er indeholdt udbytteskat".
+
+Jeg har skrevet mere om mine [erfaringer med crowdlending i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
 
 ## Indberetning til skat af udenlandsk crowdlending
 

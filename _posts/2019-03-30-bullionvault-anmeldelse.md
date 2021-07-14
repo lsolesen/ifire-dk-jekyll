@@ -12,11 +12,11 @@ tags:
   - guld
   - anmeldelse
   - metaller
+  - platform
 excerpt: "Hos BullionVault kan du købe guld som de professionelle, men helt ned til 1 gram ad gangen - og få guldet opbevaret til rimelige priser"
 ---
 
-Jeg køber ikke længere guld hos BullionVault, da det ikke kan betale sig med det beløb, jeg havde forventet at bruge på det. Jeg er i stedet eksponeret mod guld gennem [ETFS Physical Gold (VZLD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC) på Nordnet. Du kan naturligvis også køb guldminer, som fx [Barrick Gold](https://www.morningstar.com/stocks/xtse/abx/quote). Du kan også købe fysisk guld hos [Tavex](https://tavex.dk/) eller [Vitus](https://vitusguld.dk/shop/), som du kan gemme hjemme eller i en bankboks. BullionVault er formentlig stadig interessant, hvis du vil bruge større beløb hos dem.
-{: .notice--info}
+På BullionVault kan du købe guld til konkurrencedygtige priser. Du skal dog være opmærksomme på gebyrstrukturen, når de opbevarer guldet, så du skal investere for mange penge før det kan betale sig.
 
 Jeg havde egentlig ikke forventet, at jeg skulle have guld i min portefølje. Jeg kan ikke overskue konsekvenserne af at købe rigtig guld for selv at skulle opbevare det, lave sikkerhedsforanstaltninger og tegne forsikringer. Og jeg stoler ikke helt på _futures_, hvor der reelt ikke er dækning for alle papirerne.
 
@@ -57,13 +57,31 @@ Guld er et sjældent ædelmetal, og det vil altid have værdi, fordi det er sjæ
 Så den store fordel ved at have en opsparing i guld er altså, at det holder prisen over tid.
  
 > "Man skal forstå, at guld er meget forskelligt fra traditionelle investeringer i aktier og obligationer. Taler vi om rent guld, altså ikke guld-aktier, er der hverken udbytte eller aktier (her skulle nok stå renter, red.). Til gengæld vil værdien aldrig være nul," forklarer LD Invest-direktøren (Jeppe Christiansen).
-> \- [Børsen](https://penge.borsen.dk/artikel/1/192031/guld_-_en_investering_som_ingen_anden.html)
+
+--- [Børsen](https://penge.borsen.dk/artikel/1/192031/guld_-_en_investering_som_ingen_anden.html)
 
 ## Hvilken valuta skal jeg købe guldet i?
 
 På BullionVault kan du købe i fire forskellige valutaer. Når du først har købt guldet (eller sølvet), så kan du sælge det for den valuta, du gerne vil have. Men i hvilken valuta kan det så bedst betale sig at købe guldet? Det betyder i realiteten ikke så meget, da det varierer med få procent mellem de enkelte valutaer. I virkeligheden betyder det nok mest, hvornår du veksler over i den valuta, du er interesseret i at købe guld i. Jeg bruger selv [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor du kan veksle gratis.
 
 [Få 4 gram sølv på BullionVault](/go/bullionvault/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+
+## Mine erfaringer med Bullionvault
+
+Jeg køber ikke længere guld hos BullionVault, da det ikke kan betale sig med det beløb, jeg havde forventet at bruge på det. Jeg er i stedet eksponeret mod guld gennem [ETFS Physical Gold (VZLD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC) på Nordnet. Du kan naturligvis også køb guldminer, som fx [Barrick Gold](https://www.morningstar.com/stocks/xtse/abx/quote). Du kan også købe fysisk guld hos [Tavex](https://tavex.dk/) eller [Vitus](https://vitusguld.dk/shop/), som du kan gemme hjemme eller i en bankboks. BullionVault er formentlig stadig interessant, hvis du vil bruge større beløb hos dem.
+{: .notice--info}
+
+### April
+
+- Jeg åbner min konto på Bullionvault og skriver en [anmeldelse af BullionVault](/go/bullionvault/){: rel="sponsored nofollow noopener" }.
+
+### Maj
+
+- 2. maj 2019. Min første handel på Bullionvault. Det er virkelig let.
+- 7. maj 2019. Jeg laver et par handler mere på BullionVault, da jeg tror at guld snart vil stige.
+- 10. maj 2019. Jeg får [regnet ordentligt efter på de reelle omkostninger](https://www.bullionvault.com/cost-calculator.do) ved at have mindre beløb af guld på BullionVault (under 2.000 US$), og jeg opdager at det er alt for dyrt at have guld her. Derfor beslutter jeg mig for at holde min investering måneden ud og håbe på, at guldet stiger lidt i perioden, så jeg trods alt får lidt profit.
+
+[Tilmeld dig BullionVault](/go/bullionvault/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
 
 ## Hvad er min plan i fremtiden?
 

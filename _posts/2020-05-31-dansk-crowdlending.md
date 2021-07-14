@@ -77,7 +77,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 
 ### Fordele ved Kameo
 
-- Dansk crowdlending
+- Crowdlending i Danmark (og Sverige og Norge)
 - Let at oprette en profil på [Kameo](/platform/kameo/)
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
@@ -147,7 +147,7 @@ Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [min
 
 [Start på The Many](/go/themany/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
-## Lendino - dansk crowdlending
+## Lendino - crowdlending i Danmark
 
 Jeg har også investeret i [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }. Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
 
