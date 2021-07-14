@@ -1,5 +1,5 @@
 ---
 title: Atlaz
-redirect_to: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=71490
+redirect_to: https://atlaz.dk/
 excerpt: "Track dine investeringer."
 ---

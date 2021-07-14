@@ -18,7 +18,7 @@ feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
     alt: "Investering"
     title: "Investering"
-    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto. Jeg tracker mine porteføljer gratis med [Atlaz](/go/atlaz/){: rel='sponsored nofollow noopener' }."
+    excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto.."
   - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
     alt: "Opsparing"
     title: "Opsparing"

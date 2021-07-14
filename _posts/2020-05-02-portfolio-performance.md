@@ -1,5 +1,5 @@
 ---
-title: "Hvordan tracker jeg min portefølje med Atlaz, Portfolio Performance og Cointracking.info?"
+title: "Hvordan tracker jeg min portefølje med Portfolio Performance og Cointracking.info?"
 permalink: /hvordan-tracker-jeg-min-portefolje/
 category:
   - Investering
@@ -59,9 +59,11 @@ I øverste højre hjørne over `All Securities` kan du klikke på **+**-tegnet. 
 
 ## Investeringer
 
-Jeg har et stykke tid brugt [Atlaz](/go/atlaz/){: rel='sponsored nofollow noopener' } til at få et samlet overblik over alle mine investeringer. Det fungerer virkelig godt med alle de danske investeringer, som den automatisk kan trække ind i systemet. Den gratis service er naturligvis ikke helt gratis, da du betaler med data om dine investeringer, men formålet med Atlaz er at få mange bruger, så de på sigt kan begynde at forhandle med bankerne og børsmæglerne om gebyrerne, fordi de gør det på baggrund af mange mennesker. Desværre kan Atlaz lige nu ikke levere historiske afkast, så man får først et overblik fra den dag, man investerer Atlaz. Atlaz kan imidlertid heller ikke hente data fra de udenlandske børser, fx [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' }.
+Hvis du kun bruger en bank eller børsmægler, så kan du typisk få et godt overblik over dine investeringer på platformen.
 
-Ellers kan man også få et overblik på de enkelte børser - jeg bruger [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til [min aktiesparekonto]({% link _posts/2021-07-04-aktiesparekonto.md %}), men de skilter ikke just med et overblik over renteudgifter, valutaudgifter og kurtage i en let oversigt.
+Jeg bruger imidlertid [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til [min aktiesparekonto]({% link _posts/2021-07-04-aktiesparekonto.md %}), men det kan være lidt vanskeligt at få et komplet overblik.
+
+Derfor har jeg ledt efter et sted, hvor jeg kunne få et samlet overblik over mine investeringer. Det har jeg fundet i Portfolio Performance, selvom det kræver en del manuelt arbejde at opdatere tallene.
 
 ### Opsætning til investeringer
 
