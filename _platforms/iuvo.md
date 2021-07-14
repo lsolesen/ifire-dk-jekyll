@@ -68,6 +68,26 @@ Mit autoinvestor er sat sådan her op lige nu:
 
 {% include figure image_path="/assets/images/autoinvest/iuvo-autoinvest.png" caption="Autoinvestor på Iuvo pr. 6. juni 2019" alt="Autoinvestor på Iuvo pr. 6. juni 2019" %}
 
+## Autoinvest på Iuvo
+
+Det er relativt enkelt at sætte autoinvest op på Iuvo. Først skal du lige klikke på autoinvest i menuen.
+
+{% include figure image_path="/assets/images/crowdlending/iuvo-autoinvest.png" %}
+
+Nu er du klar til at automatisere din investering på Iuvo. Du bliver mødt med en lang række indstillinger for den enkelte autoinvestor.
+
+{% include figure image_path="/assets/images/crowdlending/iuvo-autoinvest-settings.png" %}
+
+Jeg sørger selv for kun at investere et mindre beløb i hvert lån, og jeg investerer kun i lån der er _current_. Du skal gøre op med dig selv, hvad din strategi for på Iovu er.
+
+Jeg bruger et relativt enkelt setup, hvor jeg laver en autoinvestor for **kortsigtede lån** og en anden for **langsigtede lån**. Lige nu er der ingen lån, der møder mine kriterier for kortsigtede lån på platformen, men det har der tidligere været.
+
+Når du har lavet din autoinvestor, så skal du huske at starte den.
+
+{% include figure image_path="/assets/images/crowdlending/iuvo-autoinvest-start.png" %}
+
+Nu er dine investeringer på Iuvo blevet automatiserede.
+
 ## August 2019
 
 Jeg har stoppet min _auto invest_ fordi jeg vil trække nogle af mine penge ud af Iuvo. Jeg er sådan set godt tilfreds med platformen og vil blive ved med at følge den tæt, men kunne godt tænke mig nogle lidt bedre regnskaber fra Iuvo.

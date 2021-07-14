@@ -21,23 +21,9 @@ country: Letland
 
 ## Autoinvest på Lenndy
 
-Det er relativt enkelt at sætte autoinvest op på Lenndy. Først skal du lige klikke på autoinvest i menuen.
-
 {% include figure image_path="/assets/images/crowdlending/lenndy-autoinvest.png" %}
 
-Nu er du klar til at automatisere din investering på Lenndy. Du bliver mødt med en lang række indstillinger for den enkelte autoinvestor.
-
 {% include figure image_path="/assets/images/crowdlending/lenndy-autoinvest-settings.png" %}
-
-Jeg sørger selv for kun at investere et mindre beløb i hvert lån, og jeg investerer kun i lån der er _current_. Du skal gøre op med dig selv, hvad din strategi for på Lenndy er.
-
-Jeg bruger et relativt enkelt setup, hvor jeg laver en autoinvestor for **kortsigtede lån** og en anden for **langsigtede lån**. Lige nu er der ingen lån, der møder mine kriterier for kortsigtede lån på platformen, men det har der tidligere været.
-
-Når du har lavet din autoinvestor, så skal du huske at starte den.
-
-{% include figure image_path="/assets/images/crowdlending/lenndy-autoinvest-start.png" %}
-
-Nu er dine investeringer på Lenndy blevet automatiserede.
 
 ## Skat ved crowdlending på {{ page.title }}
 
