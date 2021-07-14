@@ -31,6 +31,12 @@ country: England
 - Viser ikke præcist hvem deres _loan originators_ er.
 - Der er i øjeblikket ved at blive [lagt sag an mod FastInvest](https://p2p.holdings/p2p-lawsuits)
 
+## Autoinvest på Fast Invest
+
+{% include figure image_path="/assets/images/crowdlending/fastinvest-autoinvest.png" %}
+
+{% include figure image_path="/assets/images/crowdlending/fastinvest-autoinvest-settings.png" %}
+
 ## Skat ved crowdlending på {{ page.title }}
 
 {{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.

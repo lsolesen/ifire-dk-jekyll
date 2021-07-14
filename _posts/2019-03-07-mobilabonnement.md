@@ -19,13 +19,13 @@ Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, f
 
 ## Hvordan tjekker jeg mit abonnement let?
 
-Heldigvis er der nogle [ret enkle muligheder](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } for at [tjekke om du kan spare penge på dit mobilabonnement](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' }.
+Heldigvis er der nogle [ret enkle muligheder](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: rel='sponsored nofollow noopener' } for at [tjekke om du kan spare penge på dit mobilabonnement](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: rel='sponsored nofollow noopener' }.
 
-Hos [mobilsparer.dk](/go/pa/mobilsparer/){: rel='sponsored nofollow noopener' } kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
+Hos [mobilsparer.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: rel='sponsored nofollow noopener' } kan du tjekke dit abonnement. Her taster du nogle enkle oplysninger ind, og så giver de to services dig nogle anbefalinger. Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
 
 Tjek om du kan spare hos
 
-[Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Mobilsparer.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 
@@ -43,7 +43,7 @@ Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene 
 
 Tjek dit mobilabonnemnt hos
 
-[Mobilsparer.dk](/go/pa/mobilsparer/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Mobilsparer.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=56318){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ***
 
