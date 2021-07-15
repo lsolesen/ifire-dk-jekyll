@@ -19,36 +19,26 @@ feature_row_setup:
     alt: "Opsparing"
     title: "Opsparing"
     excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian){: rel='nofollow noopener' } til en opsparingskonto."
-gallery_books:
-  - url: https://amzn.to/2KphbcG
-    image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
-    alt: "Early Retirement Extreme"
-  - url: https://amzn.to/31riw8s
-    image_path: https://images-na.ssl-images-amazon.com/images/I/51ultoit2OL._SX330_BO1,204,203,200_.jpg
-    alt: "The Opposite of Spoiled"
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922
-    image_path: https://imgcdn.saxo.com/_9781533667922/0x500
-    alt: "Simple Path To Wealth"
-    rel: sponsored nofollow noopener
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
     title: "Early Retirement Extreme"
-    excerpt: "Dette er en af de helt grundlæggende FIRE-bøger, som faktisk er skrevet af danske Jacob Lund Fisker, som har bosat sig i USA. Han skriver - A strategic combination of smart financial choices, simple living, and increased self-reliance brought me financial independence at 30 and allowed me to retire from my profession at 33. Early Retirement Extreme shows how I did it and how anyone can formulate their own plan for financial independence."
-    url: "https://amzn.to/2KphbcG"
+    excerpt: "Jacob Lund Fisker har skrevet en af de helt grundlæggende FIRE-bøger. Bogen er ekstrem, men _simple living_ kombineret med økonomiske valg har gjort, at han stort set er selvforsynende og lever finansielt uafhængig allerede som 30 årig. Det handler om sænke forbruget og opdyrke passiv indkomst. Bogen har mange gode vinkler til at forstå penge. Du kan selv sortere lidt i, hvad der bliver for ekstremt for dig, fx laver Jacob sit eget vaskepulver for at undgå at sælge sin tid for at skulle købe det til overpriser."
+    url: "https://www.amazon.com/Early-Retirement-Extreme-Philosophical-Independence/dp/145360121X"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: https://images-na.ssl-images-amazon.com/images/I/51ultoit2OL._SX330_BO1,204,203,200_.jpg
+  - image_path: https://cdn6.tales.dk/00046/46668/cover.1497921215.jpg
     alt: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
-    url: "https://amzn.to/31riw8s"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/opposite-of-spoiled-raising-kids-who-are-grounded-generous-and-smart-about-money_ron-lieber_9780062247025"
+    rel: sponsored nofollow noopener
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "Simple Path To Wealth"
     title: "Simple Path To Wealth"
-    excerpt: "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
+    excerpt: "J. L. Collins skrev bogen på baggrund af en række breve, som han skrev til sin datter. Brevene handlede om mange ting, men primært om penge og investering. Alle ting som hun ikke helt var klar til at lytte til, men så kunne lære mere om. Det er nemlig nødvendigt at forstå penge, og indsigterne gør, at penge og investeringer kan gøres utrolig enkelt."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-simple-path-to-wealth_j-l-collins_paperback_9781533667922"
     btn_label: "Læs mere"
     btn_class: "btn--success"
@@ -65,23 +55,24 @@ feature_row:
     alt: "Lev for det halve"
     title: "Lev for det halve"
     excerpt: "Guiden er skrevet med Nanna Hyldgaard Hansens egen familie som eksempel, da de engang selv tog beslutningen om ikke længere at kæmpe om at få tid til både familieliv og arbejde. Løsningen var, at de skar både forbrug og arbejde ned til det halve, men uden at gå på kompromis med alle de ting, der var vigtige for familien."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/lev-for-det-halve-og-faa-familieliv-forbrug-og-arbejde-i-balance_nanna-hyldgaard-hansen_indbundet_9788770361989?dfw_tracker=13098-65212135&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjDb6kC--xAhQxUiTb6Sc3XqRGxZpEFTcz9XPGGmq8Se5ZvjQ0D91GxoCOnEQAvD_BwE"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/lev-for-det-halve-og-faa-familieliv-forbrug-og-arbejde-i-balance_nanna-hyldgaard-hansen_indbundet_9788770361989"
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-  - image_path: https://images-na.ssl-images-amazon.com/images/I/51zcMqY7GQL.jpg
+  - image_path: https://cdn6.tales.dk/00048/76826/cover.1498040830.jpg
     alt: "Rich Dad Poor Dad"
     title: "Rich Dad Poor Dad"
-    excerpt: "What The Rich Teach Their Kids About Money - That The Poor And Middle Class Do Not!"
-    url: "https://amzn.to/2PBPqm1"
+    excerpt: "Rich Dad, Poor Dad af Robert T. Kiyosaki er en essentiel bog inden for privatøkonomi. Bogen forklarer, hvad de rige lærer deres børn om penge, som middelklassen ikke gør. Selvom den er rimelig amerikansk i sin tankegang, så læs den."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
-    excerpt: "Start the new year with a fully revised edition of one of the most influential books ever written on personal finance with more than a million copies sold"
+    excerpt: "Vicky Robbins har skrevet en rigtig god bog med 9 trin til at ændre dit syn på benge, så du kan opnå finansiel frihed. Denne bog er helt essentiel for at forstå, hvordan du kan blive bedre til at håndtere dine penge. Jeg har selv været rigtig inspireret af den."
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/your-money-or-your-life_vicki-robin_paperback_9780143115762
-    btn_label: "Læs mere"
+    btn_label: "Se prisen"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 feature_row_solutions:
@@ -92,6 +83,7 @@ feature_row_solutions:
     url: /go/nord/
     btn_label: "Få gratis investeringsprofil"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/themany.jpg
     alt: "The Many"
     title: "The Many"
@@ -99,6 +91,7 @@ feature_row_solutions:
     url: /go/themany/
     btn_label: "Få 250 DKK på The Many"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/mintos.png
     alt: "Mintos"
     title: "Mintos"
@@ -106,6 +99,7 @@ feature_row_solutions:
     url: /go/mintos/
     btn_label: "Få Mintos"
     btn_class: "btn--info"
+    rel: sponsored nofollow noopener
 classes: wide
 ---
 
