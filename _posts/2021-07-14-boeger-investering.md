@@ -22,28 +22,38 @@ books_investing:
   - title: Simpel investering af Sune Bjørn Andersen fra Frinans
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/simpel-investering_sune-bjoern-andersen_9788743012399
     alt: Simpel investering Sune Bjørn Andersen
+    rel: sponsored nofollow noopener
   - title: The Millionarie Next Door - The Surprising Secrets of America's Wealthy
     alt: Thomas J. Stanley
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/millionaire-next-door-the-surprising-secrets-of-americas-wealthy_thomas-j_9781589795471
+    rel: sponsored nofollow noopener
   - title: Kriser, Krak og Kaviar - Lars Tvede
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://www.saxo.com/dk/kriser-krak-og-kaviar_lars-tvede_indbundet_9788740022018
+    rel: sponsored nofollow noopener
   - title: Think and Grow Rich - Napoleon Hill
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://www.saxo.com/dk/think-and-grow-rich_paperback_9781585424337
+    rel: sponsored nofollow noopener
 books_investing_stocks:
   - title: Børshandlerens psykologi - Lars Tvede
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/boershandlens-psykologi-hvorfor-markederne-er-hysteriske-og-hvordan-du-kan-tjene-penge-alligevel_lars-tvede_9788740004908
+    rel: sponsored nofollow noopener
   - title: Boost din opsparing med aktier – Karsten Engmann Jensen
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/boost-din-opsparing-med-aktier_karsten-engmann-jensen_haeftet_9788750044093
+    rel: sponsored nofollow noopener
   - title: Den tålmodige investor – Helge Larsen
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/den-taalmodige-investor_helge-larsen_haeftet_9788771809855
+    rel: sponsored nofollow noopener
   - title: The Intelligent Investor – Benjamin Graham
     excerpt: The Intelligent Investor er et must-read for alle investorer. Bogen er et fantastisk redskab, der hjælper læseren med at træffe de bedste beslutninger ved investering. Endvidere belyser den de potentielle faldgrupper, du møder på din vej. Benjamin Graham er også kendt som Warren Buffets mentor i invsteringsverden.
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-intelligent-investor_benjamin-graham_paperback_9780060555665
     image_path: https://imgcdn.saxo.com/_9780060555665/0x500
+    rel: sponsored nofollow noopener
   - title: A Random Walk Down Wall Street - Burton G. Malkiel
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/a-random-walk-down-wall-street_burton-g-malkiel_hardback_9781324002185
+    rel: sponsored nofollow noopener
   - title: Supertrends - Lars Tvede
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/supertrends_lars-tvede_haeftet_9788740046892
+    rel: sponsored nofollow noopener
 books_private_economy:
   - image_path: https://cdn6.tales.dk/00048/76826/cover.1498040830.jpg
     alt: "Rich Dad Poor Dad"
@@ -55,6 +65,7 @@ books_private_economy:
     rel: sponsored nofollow noopener
   - title: The Richest Man in Babylon – George S. Clason
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-richest-man-in-babylon_george-s-clason_hardback_9781942121282
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500
     alt: "Your Money or Your Life"
     title: "Your Money or Your Life"
@@ -65,8 +76,10 @@ books_private_economy:
     rel: sponsored nofollow noopener
   - title: I Will Teach You to be Rich – Ramit Sethi
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/i-will-teach-you-to-be-rich-2nd-edition_ramit-sethi_paperback_9781529306583
+    rel: sponsored nofollow noopener
   - title: The Total Money Makeover – Dave Ramsey
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-total-money-makeover-classic-edition_hardback_9781595555274
+    rel: sponsored nofollow noopener
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"
     title: "Early Retirement Extreme"
@@ -100,6 +113,8 @@ books_private_economy:
     rel: sponsored nofollow noopener
   - title: Ét liv, Én tid, Ét menneske - Morten Albæk
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/et-liv-en-tid-et-menneske_morten-albaek_haeftet_9788702260069
+    rel: sponsored nofollow noopener
+
 ---
 
 Hvis du gerne vil vide mere om investering, aktier og privatøkonomi, så findes der rigtig mange gode bøger om emnet. Jeg har samlet de bedste i en liste her. Så er er altid læsestof.
