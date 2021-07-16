@@ -1,7 +1,11 @@
 ---
-title: "Bøger om investeringer, aktiehandel og privatøkonomi"
+title: &title "Bøger om investeringer, aktiehandel og privatøkonomi"
 seo_title: "20+ bøger om investering, aktier & privatøkonomi"
 permalink: /boger-om-investering-og-privatokonomi/
+header:
+  overlay_image: https://images.unsplash.com/photo-1598024055266-e772a5f8c128?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
+  teaser: https://images.unsplash.com/photo-1598024055266-e772a5f8c128?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  caption: *title
 category:
   - Privatøkonomi
   - Investering
