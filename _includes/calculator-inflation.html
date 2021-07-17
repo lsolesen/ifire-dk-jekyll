@@ -1,0 +1,34 @@
+<form class="calculator" id="inflation_calculator">
+    <fieldset>
+        <legend>Beregn konsekvensen af inflation på din opsparing</legend>
+        <div class="form-group">
+            <label>Nuværende opsparing
+                <input type="number" min="0" max="10000000" placeholder="fx 10000" name="savings" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Inflation (%)
+                <input type="number" min="0" max="100" placeholder="fx 2" value="2" name="inflation">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Tidshorisont (år)
+                <input type="number" min="0" max="100" placeholder="fx 10" value="10" name="years">
+            </label>
+        </div>
+        <input type="submit" value="Beregn">
+    </fieldset>
+    <fieldset class="results">
+        <legend>Opsparing efter inflation</legend>
+        <div class="form-group">
+            <label>Prisstigninger æder (kr)
+                <input type="number" name="price_increases" disabled>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Opsparing ender på (kr)
+                <input type="number" name="savings_after" disabled>
+            </label>
+        </div>
+    </fieldset>
+</form>

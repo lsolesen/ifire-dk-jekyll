@@ -1,0 +1,179 @@
+
+<script>
+    const price = Array();
+    price[1900] = 100;
+    price[1901] = 100;
+    price[1902] = 101;
+    price[1903] = 101;
+    price[1904] = 102;
+    price[1905] = 102;
+    price[1906] = 103;
+    price[1907] = 106;
+    price[1908] = 107;
+    price[1909] = 108;
+    price[1910] = 109;
+    price[1911] = 109;
+    price[1912] = 113;
+    price[1913] = 116;
+    price[1914] = 119;
+    price[1915] = 140;
+    price[1916] = 165;
+    price[1917] = 191;
+    price[1918] = 223;
+    price[1919] = 264;
+    price[1920] = 315;
+    price[1921] = 268;
+    price[1922] = 228;
+    price[1923] = 237;
+    price[1924] = 251;
+    price[1925] = 244;
+    price[1926] = 207;
+    price[1927] = 200;
+    price[1928] = 199;
+    price[1929] = 198;
+    price[1930] = 188;
+    price[1931] = 178;
+    price[1932] = 177;
+    price[1933] = 181;
+    price[1934] = 188;
+    price[1935] = 196;
+    price[1936] = 198;
+    price[1937] = 205;
+    price[1938] = 207;
+    price[1939] = 213;
+    price[1940] = 266;
+    price[1941] = 305;
+    price[1942] = 315;
+    price[1943] = 318;
+    price[1944] = 325;
+    price[1945] = 328;
+    price[1946] = 326;
+    price[1947] = 335;
+    price[1948] = 344;
+    price[1949] = 352;
+    price[1950] = 384;
+    price[1951] = 429;
+    price[1952] = 439;
+    price[1953] = 436;
+    price[1954] = 444;
+    price[1955] = 474;
+    price[1956] = 498;
+    price[1957] = 504;
+    price[1958] = 509;
+    price[1959] = 519;
+    price[1960] = 531;
+    price[1961] = 555;
+    price[1962] = 591;
+    price[1963] = 622;
+    price[1964] = 645;
+    price[1965] = 686;
+    price[1966] = 733;
+    price[1967] = 787;
+    price[1968] = 850;
+    price[1969] = 880;
+    price[1970] = 937;
+    price[1971] = 992;
+    price[1972] = 1058;
+    price[1973] = 1156;
+    price[1974] = 1333;
+    price[1975] = 1461;
+    price[1976] = 1592;
+    price[1977] = 1769;
+    price[1978] = 1946;
+    price[1979] = 2133;
+    price[1980] = 2396;
+    price[1981] = 2677;
+    price[1982] = 2948;
+    price[1983] = 3152;
+    price[1984] = 3350;
+    price[1985] = 3507;
+    price[1986] = 3636;
+    price[1987] = 3782;
+    price[1988] = 3953;
+    price[1989] = 4142;
+    price[1990] = 4251;
+    price[1991] = 4353;
+    price[1992] = 4445;
+    price[1993] = 4500;
+    price[1994] = 4590;
+    price[1995] = 4686;
+    price[1996] = 4785;
+    price[1997] = 4890;
+    price[1998] = 4980;
+    price[1999] = 5104;
+    price[2000] = 5253;
+    price[2001] = 5377;
+    price[2002] = 5507;
+    price[2003] = 5622;
+    price[2004] = 5687;
+    price[2005] = 5790;
+    price[2006] = 5900;
+    price[2007] = 6001;
+    price[2008] = 6205;
+    price[2009] = 6287;
+    price[2010] = 6432;
+    price[2011] = 6609;
+    price[2012] = 6768;
+    price[2013] = 6821;
+    price[2014] = 6860;
+    price[2015] = 6891;
+    price[2016] = 6909;
+    price[2017] = 6988;
+    price[2018] = 7045;
+    price[2019] = 7098;
+    price[2020] = 7128;
+    
+    function calculate() {
+        let kroner = document.getElementById("kroner").value;
+        let toyear = document.getElementById("toyear").value;
+        let fromyear = document.getElementById("fromyear").value;
+        let inflation = price[toyear] / price[fromyear];
+        let result = kroner * inflation;
+        let result_text = result.toFixed(0);
+
+        // Total inflation
+        let from = Math.min(fromyear, toyear);
+        let to = Math.max(fromyear, toyear);
+        if (from < to) {
+            var fromone = price[to]/price[from];
+            var totalinf = (fromone - 1) * 100;
+            var totalinf_text = totalinf.toFixed(1) + "%";
+            var peryear = (Math.pow(fromone, 1/(to-from))-1)*100;
+            var peryear_text = peryear.toFixed(1) + "%";
+        } else {
+            var totalinf_text = "0%";
+            var peryear_text = "N/A%";
+        }
+        let resultspan = document.getElementById("result");
+        resultspan.innerHTML = "<p>" + kroner + " kroner fra " + fromyear + " svarer til <b>" + result_text + " kroner</b> i " + toyear + ".</p><p>Totalt over perioden "+from+" til "+to+" var inflationen "+totalinf_text+", hvilket svarer til en konstant inflation på "+peryear_text+" per år.</p>";
+        return false;
+    }
+</script>
+
+<form class="calculator" id="inflation_forbrugerindeks_calculator">
+    <fieldset>
+        <legend>Beregn konsekvensen af inflation på din opsparing</legend>
+        <div class="form-group">
+            <label>Omregn beløb
+                <input type="number" min="0" max="10000000" placeholder="fx 10000" id="kroner" name="kroner" required>
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Fra år (årstal)
+                <input type="number" min="1900" max="2020" placeholder="fx 1900" value="1900" id="fromyear" name="fromyear">
+            </label>
+        </div>
+        <div class="form-group">
+            <label>Til år (årstal)
+                <input type="number" min="1900" max="2020" placeholder="fx 2020" value="2020" id="toyear" name="toyear">
+            </label>
+        </div>
+        <input type="submit" value="Beregn" onclick="calculate(); return false;">
+    </fieldset>
+    <fieldset class="results">
+        <legend>Resultat af beregninger</legend>
+        <div>
+            <span id="result"></span>
+        </div>
+    </fieldset>
+</form>

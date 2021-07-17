@@ -43,6 +43,25 @@ $(document).ready(function() {
         $("[name='hourly_wage_adjusted']").val(hourly_wage_adjusted.toFixed(0));
         $("[name='adjusted_percent']").val(adjusted_percent.toFixed(0));
     });
+    $("#inflation_calculator").submit(function(e) {
+        console.log('Calculate inflation');
+        e.preventDefault();
+
+        let savings = Number($("[name='savings']").val());
+        let inflation = Number($("[name='inflation']").val());
+        let t = Number($("[name='years']").val());
+        let n = 1;
+        let r = -1 * inflation / 100;
+        let p = savings;
+
+        let amount = p * (Math.pow((1 + (r / n)), (n * t)))
+
+        let price_increases = (savings - amount);
+        let savings_after = amount;
+
+        $("[name='price_increases']").val(price_increases.toFixed(0));
+        $("[name='savings_after']").val(savings_after.toFixed(0));
+    });
 });
 
 var Hashtable = function() {
