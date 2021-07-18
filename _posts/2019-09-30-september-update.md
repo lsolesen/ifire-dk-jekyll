@@ -3,7 +3,7 @@ title: "#9 September - både aktier og crowdlending går op"
 permalink: /opdateringer/september-update/
 header:
   overlay_image: /assets/images/posts/playstation-lunarway.jpg
-  caption: Min datters Playstation (med LunarWay klistermærke)
+  caption: Min datters Playstation (med Lunar klistermærke)
 category:
   - Opdateringer
 tags:

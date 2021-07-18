@@ -15,9 +15,9 @@ header:
   caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: "Jeg bruger selv [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen."
+    excerpt: "Jeg bruger selv [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing-problemer/) og aldersopsparingen."
   - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: "Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto og handel uden minimumskurtage."
+    excerpt: "Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min [aktiesparekonto](/aktiesparekonto/) og handel uden minimumskurtage."
   - image_path: /assets/images/logo/etoro.png
     excerpt: "Desuden har jeg testet [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } til kurtagefri handel med bl.a. Vanguards ETF'er og copytrading."
 ---
@@ -71,11 +71,11 @@ Jeg vil forsøge at rebalancere en gang om året med en handel, der bringer mig 
 
 Jeg har lavet en portefølje med det formål at spare op til mine døtres eventuelle efterskoleophold. Jeg er meget fleksibel med, hvornår pengene skal udbetales, da jeg har tre piger, så deres ophold har en tidshorisont der spænder fra 6-10 år inden pengene skal bruges.
 
-### SaxoBank Aktiesparekonto - Lagerbeskattet
+### Saxo Bank Aktiesparekonto - Lagerbeskattet
 
 Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres ved årets udgang efter lagerbeskatningsprincippet.
 
-I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos SaxoBank. Jeg har skrevet lidt mere om, [hvad en aktiesparekonto er her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos Saxo Bank. Jeg har skrevet lidt mere om, [hvad en aktiesparekonto er her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
 ### Etoro Kurtagefri handel og Copytrading
 

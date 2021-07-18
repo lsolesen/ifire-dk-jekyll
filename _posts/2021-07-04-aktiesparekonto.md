@@ -79,15 +79,15 @@ Du kan få en aktiesparekonto allerede nu hos Saxo Investor, og i løbet af 2021
 
 ## Nordnet aktiesparekonto
 
-I flere år tilbød [Nordnet ikke en aktiesparekonto]( https://www.nordnet.dk/blog/derfor-tilbyder-nordnet-ikke-en-aktiesparekonto-fra-1-januar/), men fra 2021 [ændrer det sig heldigvis](https://www.nordnet.dk/blog/nordnet-lancerer-aktiesparekonto/).
+I flere år tilbød [Nordnet ikke en aktiesparekonto](https://www.nordnet.dk/blog/derfor-tilbyder-nordnet-ikke-en-aktiesparekonto-fra-1-januar/), men fra 2021 [ændrer det sig heldigvis](https://www.nordnet.dk/blog/nordnet-lancerer-aktiesparekonto/).
 
 Du kan gratis oprette investeringskonti og depoter hos Nordnet. Det gælder også aktiesparekontoen.
 
 Fordelene ved at få en aktiesparekonto hos Nordnet er, at du kan drage [fordel af månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
 
-## Saxo Investor aktiesparekonto
+## Saxo Bank aktiesparekonto
 
-Saxo har siden introduktionen af aktiesparekontoen tilbudt investeringskontoen. Hos Saxo kan du også gratis oprette investeringskontoen og det tilhørende værdipapirdepot.
+Saxo Bank har siden introduktionen af aktiesparekontoen tilbudt investeringskontoen. Hos Saxo kan du også gratis oprette investeringskontoen og det tilhørende værdipapirdepot.
 
 Fordelen ved Saxo er, at du handler fast for en relativ besked kurtage, hvilket helt sikkert er en fordel for dig, der gerne vil eksperimentere lidt med at købe aktier.
 

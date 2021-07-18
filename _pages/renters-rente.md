@@ -2,11 +2,12 @@
 layout: single
 title: &title "Renters rente - beregn effekten i vores onlineberegner"
 permalink: /renters-rente/
+description: "Brug vores renters rente beregner til at se effekten af renters rente. Vi bruger renteformlen med konstant rentefod og mulighed for løbende kapitalindskud."
+excerpt: "Beregn renters rente effekt på renteudbetalinger med denne beregner. Se renters rente formel med konstant rentefod og mulighed for løbende kapitalindskud."
 header:
   overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80
   caption: *title
   alt: "Photo by Austin Distel on Unsplash - Renters Renter"
-excerpt: "Beregn renters rente effekt på renteudbetalinger med denne beregner. Se renters rente formel er med konstant rentefod og mulighed for løbende kapitalindskud."
 toc: true
 author_profile: true
 feature_row:
@@ -15,14 +16,16 @@ feature_row:
     url: https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy?usp=sharing
     btn_label: Google Sheets
     btm_class: btn--success
-last_modified_at: 2021-03-20T13:45:01Z
+last_modified_at: 2021-07-18T13:45:01Z
 ---
 
 Renters rente er en af de mest motiverende årsager til at investere. Jeg har lavet en beregner til renters rente, hvor du kan se effekten over tid.
 
 Første år får du renter af din investering. De følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. Desto længere tid, du kan investere pengene, desto større bliver effekten af renters rente.
 
-Min renteberegner kan både tage højde for renters rente formel med og uden løbende indbetalinger.
+Ved første øjekast kan renters rente formel godt være lidt forvirrende, så derfor kan det være dejligt med en onlineberegner.
+
+Min renteberegner bruger renteformlen med og uden løbende indbetalinger.
 
 ## Hvad er renters rente?
 
@@ -65,7 +68,7 @@ Lidt forenklet så har følgende forhold særlig stor effekt på effekten af ren
 
 Derfor er det en god ide at forsøge at optimere ovenstående punkter, hvis du vil have den optimale effekt af renters renter.
 
-## Formel for renters rente med månedligt indskud
+## Renteformlen for renters rente med månedligt indskud
 
 Måske kan du også tilføje et beløb til din investering hver måned. Du kan bruge denne formular til at udregne effekten af en fast månedlig investering.
 
@@ -87,11 +90,13 @@ Renters rente (kaldes også kapitalfremskrivning) er, når renterne på en kapit
 
 ### Hvordan beregner man renters rente?
 
-Du kan bruge beregneren ovenfor, som giver et godt visuelt overblik. Jeg har også lavet et [Google Sheet](https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy), hvor du kan taste værdierne ind. Du kan også bruge formlerne selv.
+Du kan bruge beregneren ovenfor, som giver et godt visuelt overblik. Jeg har også lavet et [Google Sheet](https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy), hvor du kan taste værdierne ind. Du kan også bruge renteformlen selv.
 
 ## Konklusion
 
-Nu har du et godt udgangspunkt for at lave en **renters rente beregning**. Hvis du har forbedringer til indlægget om renters rente så skriv endelig.
+Nu har du et godt udgangspunkt for at lave en **renters rente beregning**, fordi du ved hvordan renteformlen skal bruges.
+
+Hvis du har forbedringer til indlægget om renters rente så skriv endelig.
 
 {% include disclaimer.md %}
 
