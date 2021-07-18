@@ -30,7 +30,7 @@ feature_row_solutions:
     rel: sponsored nofollow noopener
 ---
 
-Det er et år siden jeg kiggede på, hvordan jeg ville sammensætte en [portefølje med kryptovaluta](/crypto-portfolio/). Jeg havde mange tanker om en diversificeret portefølje, som jeg fast ville købe lidt ind i efter _dollar cost average_-princippet. Det har været spændende at sætte sig ind i.
+Det er et år siden jeg kiggede på, hvordan jeg ville sammensætte en [portefølje med kryptovaluta](/krypto-portfolio/). Jeg havde mange tanker om en diversificeret portefølje, som jeg fast ville købe lidt ind i efter _dollar cost average_-princippet. Det har været spændende at sætte sig ind i.
 
 I forbindelse med at, jeg er gået i gang med at bruge [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) til at tracke min portefølje, så var det et godt tidspunkt at lave en lille status på, hvordan det er gået med porteføljen. Først og fremmest var det tid til at gøre det hele lidt mere enkelt. I kryptoverden kan man hurtigt få oprettet lidt forskellige wallets og købe krypto forskellige steder.
 

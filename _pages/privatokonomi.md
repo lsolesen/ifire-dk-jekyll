@@ -55,18 +55,19 @@ Jeg har her samlet nogle af de væsentlige emner inden for din privatøkonomi. D
 
 ## Opsparing
 
-Opsparing er en del af din privatøkonomi. Opsparing kan være med til at gøre din økonomi bundsolid, så du kan modstå fremtidens økonomiske udfordringer. Jeg [investerer en stor del af min opsparing](/investering/), men når først pengene er investeret, så tæller de faktisk ikke helt til opsparingen længere, da du risikerer at tabe de investerede penge.
+Opsparing er en del af din privatøkonomi. Opsparing kan være med til at gøre din økonomi bundsolid, så du kan modstå fremtidens økonomiske udfordringer. Jeg [investerer en stor del af min opsparing](/investering/), men når først pengene er investeret, så tæller de faktisk ikke helt til opsparingen længere, da du risikerer at tabe (nogle af) de investerede penge.
 
 Jeg kan godt lide at dele opsparing op i tre forskellige kategorier:
 
-- Nødopsparing
+- Nødopsparing eller bufferopsparing
 - Opsparing (generelt eller til noget bestemt)
 - Investering
 
 Det kan altså være interessant at kigge på de følgende spørgsmål:
 
+- [hvilke konti har jeg brug for]({% link _posts/2019-02-20-hvilken-konto.md %})
 - [hvor meget skal du spare op?]({% link _posts/2020-03-22-raad-til-at-investere.md %})
-- [opsparingskonto]({% link _posts/2019-02-20-hvilken-konto.md %})
+- [opsparingskonto]({% link _posts/2021-07-17-opsparingskonto.md %})
 - hvilken rente kan du få på din opsparing?
 - [børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %})
 - aldersopsparing
@@ -80,7 +81,7 @@ Du kan tjekke vores [opsparingsberegner](/opsparingsberegner/) for at se, hvad d
 
 Jeg har skrevet lidt mere om [økonomisk frihed]({% link _posts/2020-03-08-hvad-er-okonomisk-frihed.md %}) og hvad der har inspireret mig til at søge [økonomisk uafhængighed]({% link _posts/2020-11-27-hvorfor-finansiel-fri.md %}), og her er **FIRE-bevægelsen** en stor inspiration for mig.
 
-Jeg har lavet en [beregner til økonomisk uafhængighed]({% link _posts/2021-07-10-okonomisk-uafhaengighed-beregner.md %})
+Jeg har lavet en [beregner til økonomisk uafhængighed]({% link _posts/2021-07-10-okonomisk-uafhaengighed-beregner.md %}).
 
 {% comment %}
 

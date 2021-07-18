@@ -20,6 +20,12 @@ Jeg har samlet de bedste højrentekonto, så du kan få den bedste rente. Oversi
 
 Fordelen ved en højrentekonto er, at du risikofrit kan spare penge op i banken. Desværre er renterne historisk lave i øjeblikket, men der er brug for retner på din opsaring. Du kan fx udregne hvor meget [prisstigninger sluger i vores inflationsberegner]({% link _posts/2021-07-17-inflation-beregner.md %}).
 
+## Hvorfor har jeg brug for en opsparingskonto?
+
+Det er en god ide med en opsparingskonto, fordi alle har brug for en mindre opsparing. Hvis du investerer dine penge, så udsætter ud pengene for risiko, og så er det ikke en ren opsparing, da du ikke kan få pengene ud, så snart du har lyst uden at du har risikeret, at de har mistet værdi.
+
+Men der er også alternativomkostninger ved at spare pengene op. Du kan få en fornemmelse for, [hvor meget inflationen spiser værdien af dine penge]({% link _posts/2021-07-17-inflation-beregner.md %}). Derfor skal du gøre op med dig selv, [hvor meget opsparing du skal have]({% link _posts/2020-03-22-raad-til-at-investere.md %}).
+
 ## Hvor kan man få en højrentekonto?
 
 Du kan få en højrentekonto i flere af Danmarks banker og pengeinstitutter. De fleste konti med høje renter har dog krav til indskyderen. Måske skal du være studerende eller være medlem af bestemte foreninger - og nogle opsparingskonti har også en bindingsperiode.
@@ -82,6 +88,21 @@ Hvis du er studerende eller medlem af en fagforening, så kan du få en højrent
 
 - Hvis du har en høj opsparing, så kan det fornemlig bedre betale sig at investere dine penge, da renterne i bankerne på opsparingskonti er for lave uanset hvilken kontotype, du har valgt.
 - I dagens renteniveau så får du selv på flere højrentekonti lavere rente end inflationen.
+- Der kan være bindingsperiode på nogle konti.
+
+## Hvor høj rente kan du få på din opsparingskonto?
+
+Renterne i øjeblikket er utrolig lave. På dine almindelige konto kan du risikere at have negative renter. Nogle opsparingskonti tilbyder dig 0% i rente, men du kan også få op til ~3% i rente, hvis du er studerende eller medlem af en bestemt forening.
+
+## Hvor får jeg den højeste rente på opsparing?
+
+I øjeblikket giver Lån & Spar Bank dig den højeste rente på din opsparing, hvis du er medlem af en af de foreninger, de samarbejder med. De kræver imidlertid også, at du har hele din bankforretning inklusive dine investeringer i banken.
+
+Hvis ikke du er enten studerende eller medlem af en bestemt forening, så kan du få den bedste rente på den helt almindelige konto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }.
+
+## Hvad er den bedste opsparingskonto?
+
+Den bedste opsparingskonto er den konto, hvor du kan få den højeste rente med den laveste bindingstid. For os almindelige mennesker, så synes jeg lige nu, at [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' } er det bedste bud på en god opsparingskonto, da du får 0,5% på 50.000 kroner.
 
 ## Konklusion
 

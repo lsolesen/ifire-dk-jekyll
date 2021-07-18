@@ -181,7 +181,7 @@ Jeg følger guldmarkedet gennem en ETF i en af mine værdipapirporteføljer, men
 
 ### Kryptovaluta - crypto
 
-Kryptovaluta stiger stadig kraftigt. Jeg får næsten lyst til at spekulere lidt ved at sælge ud af det, jeg har. Selvom jeg egentlig tænker kryptovalutaen som opsparing, så har jeg besluttet mig for, at jeg ikke køber mere så længe priserne går mod himlen. Det er ikke så vigtigt for mig at have kryptovaluta, så jeg venter til en korrektion af markedet inden jeg supplerer op. Mine [overvejelser om sammensætningen af min portefølje af kryptovalutaer](/crypto-portfolio/) gælder stadigvæk, men de fem mest populære kryptovalutaer er vikrelig dem, der har rykket, så overvejer stadig kraftigt om jeg skal rebalancere min portefølje til at tracke dem, når markedet falder lidt igen.
+Kryptovaluta stiger stadig kraftigt. Jeg får næsten lyst til at spekulere lidt ved at sælge ud af det, jeg har. Selvom jeg egentlig tænker kryptovalutaen som opsparing, så har jeg besluttet mig for, at jeg ikke køber mere så længe priserne går mod himlen. Det er ikke så vigtigt for mig at have kryptovaluta, så jeg venter til en korrektion af markedet inden jeg supplerer op. Mine [overvejelser om sammensætningen af min portefølje af kryptovalutaer](/krypto-portfolio/) gælder stadigvæk, men de fem mest populære kryptovalutaer er vikrelig dem, der har rykket, så overvejer stadig kraftigt om jeg skal rebalancere min portefølje til at tracke dem, når markedet falder lidt igen.
 
 Jeg bruger stadig [CoinTracking](/go/cointracking/){: rel='sponsored nofollow noopener' } til at holde styr på min krypto-opsparing. Du kan se min portefølje på [Cointracking](https://cointracking.info/portfolio/42c79ce836c8bff70bc4).
 

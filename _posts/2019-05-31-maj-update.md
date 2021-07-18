@@ -142,7 +142,7 @@ I løbet af maj eksperimenterede jeg med at købe guld fra [BullionVault](/go/bu
 
 ### Kryptovaluta - crypto
 
-Jeg har sat mig endnu mere ind i kryptovalutaer, og jeg er begyndt at investere aktivt i dem. I løbet af maj er de steget ganske betragteligt, så lige nu har jeg også et fint procentvis overskud, men det betyder nu ikke så meget, da jeg ser det som en opsparing. Jeg har skrevet lidt om, [hvordan jeg har sammensat min portefølje af kryptovalutaer](/crypto-portfolio/). Jeg overvejer, om jeg skal lave den lidt om til ganske enkelt at tracke de fem mest populære kryptovalutaer i stedet.
+Jeg har sat mig endnu mere ind i kryptovalutaer, og jeg er begyndt at investere aktivt i dem. I løbet af maj er de steget ganske betragteligt, så lige nu har jeg også et fint procentvis overskud, men det betyder nu ikke så meget, da jeg ser det som en opsparing. Jeg har skrevet lidt om, [hvordan jeg har sammensat min portefølje af kryptovalutaer](/krypto-portfolio/). Jeg overvejer, om jeg skal lave den lidt om til ganske enkelt at tracke de fem mest populære kryptovalutaer i stedet.
 
 Jeg bruger [CoinTracking](/go/cointracking/){: rel='sponsored nofollow noopener' } til at holde styr på mine investeringer. Det er et gratis værktøj, så længe du manuelt selv taster dine køb og salg ind. Jeg køber og sælger ikke så ofte, så det er fint for mig. Med PRO-udgaven kan du fx importere køb og salg via [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' }.
 
