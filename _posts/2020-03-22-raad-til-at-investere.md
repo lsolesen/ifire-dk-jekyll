@@ -1,7 +1,7 @@
 ---
 title: &title "Opsparing - Hvor meget skal man spare op om måneden?"
 excerpt: "Alle har brug for opsparing, men hvor meget behøver du egentlig have stående, og hvor meget skal du spare op om måneden? Her får du svaret!"
-last_modified_at: 2020-03-17T09:20:02+02:00
+last_modified_at: 2021-07-18T09:20:02+02:00
 permalink: /hvor-meget-opsparing/
 redirect_from:
   - /raad-til-investeringer/
