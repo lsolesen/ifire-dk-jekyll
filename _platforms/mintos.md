@@ -29,7 +29,19 @@ country: letland
 
 Jeg har investeret i lån hos Mintos siden starten af 2019. Jeg har en intern rente på 10%+. Mintos er en af de platforme jeg har mest tiltro til, men det betyder ikke, at det er uden problemer at investere på platformen.
 
+## Defaults og In Recovery på Mintos
+
 Det er lykkes at få investeret i en del lån, som er _late_ eller _default_. Det betyder, at jeg ikke hurtigt vil kunne trække pengene ud, da jeg ikke kan sælge lånene på det sekundære marked.
+
+Heldigvis giver Mintos et godt overblik over, hvad der sker med de midler der er `In Recovery`. Fra dit Dashboard klikker du bare på linket.
+
+{% include figure image_path="/assets/images/crowdlending/mintos-recovery.png" %}
+
+Så kommer du til en oversigtsside, hvor du kan se, hvilke låneudbydere beløbene er spredt på. Hos mig står Finko i Armenien og Ukraine for en rigtig stor del af beløbet.
+
+{% include figure image_path="/assets/images/crowdlending/mintos-recovery-overview.png" %}
+
+Mintos har en [status](https://www.mintos.com/en/funds-in-recovery-updates/) på alle låneudbydere, som er bag ud med betalingerne, som man hele tiden kan orientere sig i.
 
 ## Auto invest på Mintos
 
