@@ -26,6 +26,10 @@ Jeg har investeret i over 25 projekter på Crowdestor, og mange af projekterne l
 
 Samlet ser det ud til, at Crowdestor stadig udvikler platformen med nye produkter og auto invest er endelig kommet her i 2021.
 
+Men Crowdestor får ikke en god medfart på Trustpilot.
+
+{% include figure image_path="/assets/images/crowdlending/crowdestor-trustpilot.png" caption="Det er ikke decideret betryggende at læse på Trustpilot om Crowdestor. Mange af kommentarerne handler netop om, at projekter ikke tilbagebetales til tiden - selvom man loves strålende afkast." %}
+
 ## Fordele
 
 - Mange interessante lån og fine informationer om lånene
