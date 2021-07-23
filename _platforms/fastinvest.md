@@ -32,14 +32,15 @@ Men der bliver udbetalt fra Fast Invest. Det går bare virkelig langsomt.
 ## Fordele
 
 - Relativt enkel og _hands off_ _auto invest_.
-- Platformen fungerer glimrende.
+- Platformen er let at bruge.
 - Fin statistik side.
 - Alle lån på Fast Invest har Buy back garanti.
 
 ## Ulemper
 
 - Viser ikke præcist hvem deres _loan originators_ er.
-- Der er i øjeblikket ved at blive [lagt sag an mod FastInvest](https://p2p.holdings/p2p-lawsuits)
+- Langsomme udbetalinger.
+- Der er i øjeblikket ved at blive [lagt sag an mod FastInvest](https://p2p.holdings/p2p-lawsuits).
 
 ## Autoinvest på Fast Invest
 
