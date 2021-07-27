@@ -47,7 +47,7 @@ Her har jeg samlet {{ site_posts.size }} gode spareråd, som gør at du kan spar
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single-simple.html %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 
