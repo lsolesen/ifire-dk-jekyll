@@ -61,8 +61,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg har haft _cash drag_ på [PeerBerry](/go/peerberry/){: rel='sponsored nofollow noopener' } og [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }, så jeg har ændret på _auto invest_ for at acceptere lidt lavere renter. Platformene kører imidlertid fortsat uden de helt store udfordringer, og jeg er meget tilfredse med dem.
 
 Det står noget stille på [Bit Of Property](/go/bitofproperty/){: rel='sponsored nofollow noopener' }. Der er et par projekter, som alligevel ikke er blevet til noget i løbet af november, så her endte jeg også med _cash drag_. Da der ikke er nogle aktive projekter, har jeg trukket en del penge hjem - ud over at have forespurgt på et par enkelte projekter på deres lidt mærkværdige ‘over the counter’-køb fra andre. Den feature er lidt forvirrende, men typisk ender man med hurtigt at få en andel i et tidligere projekt. Det er også noget svært at se nøjagtigt, hvor mange penge man har på platformen totalt, fordi backenden er lidt mangelfuld.

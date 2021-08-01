@@ -58,8 +58,6 @@ Jeg har ellers mest ladet papirerne passe sig selv og kun suppleret op med måne
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg er fortsat ved at reducere min eksponering mod crowdlending, men du kan se en oversigt over min månedlige indtjening her.
 
 {% include figure image_path="/assets/images/posts/2020-april-p2p-earnings.jpg" caption="Månedlig indtjening på crowdlending" %}

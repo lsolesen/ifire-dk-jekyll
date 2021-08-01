@@ -93,8 +93,6 @@ Du kan se [indtjeningen i min portefølje med værdipapirer](/investeringer/).
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Min ældste crowdlending platform er [Flexfunding](/platform/flexfunding/), som jeg overordnet set egentlig stadig er tilfreds med. Men i løbet af september er tre lån i restance pga. konkurs i selskaberne, jeg har lånt penge til. Det bliver interessant at se, hvor dygtige Flexfunding er til at få inddrevet det skyldige beløb. Jeg reinvesterer fortsat mine penge på platformen, som fortsat har en (meget begrænset) stigende intern rente, men øger ikke min investering.
 
 Jeg har min største investering i [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }. Min interne rente er faldet lidt i løbet af september, men det hænger formentlig først og fremmest sammen med at jeg kraftigt har øget min investering i Mintos. Hovedparten af min investering  har jeg lagt over i _Invest & Access_, fordi jeg oplever _cash drag_ på min _auto invest_. Jeg holder fortsat en intern rente over 13% - og nyder også at jeg har hurtig likviditet på denne måde, hvis det bliver nødvendigt.

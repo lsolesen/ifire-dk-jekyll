@@ -61,8 +61,6 @@ I alt giver det et _urealiseret_ tab på **-30.425 DKK**. Dette er naturligvis i
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Mit fokus i maj måned har været at få investeret et mere eller mindre lige beløb hos alle låneudbyderne. Mit fokus har også været at holde lidt øje med, hvilke platforme der er lettest at håndtere. Jeg havde egentlig besluttet mig for, at jeg havde nået det antal crowdlending platforme, jeg ville investere på, men jeg har alligevel i maj tilføjet [Iuvo Group](/go/iuvo/){: rel='sponsored nofollow noopener' } og [Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' }. De er med til at divercificere min portefølje lidt og de skulle give et fornuftigt afkast.
 
 I det hele taget har jeg glædet mig til denne maj-opdatering for nu begynder man efterhånden for alvor at kunne få et indblik i, hvad de enkelte platforme reelt giver i afkast. Jeg har lavet en side til [hver platform](/platforme/), hvor jeg laver en mere grundig opdatering af platformene.

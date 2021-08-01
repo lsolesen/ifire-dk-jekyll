@@ -53,8 +53,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg har i et stykke tid villet reducere eksponeringen mod crowdlending, og endnu en gang kom det til at gå af sig selv, fordi Agrikaab stoppede firmaet. Jeg havde sådan set forventet, at det var en højrisiko-investering, som jeg hovedsageligt lavede af velgørende formål for at støtte projekter i Afrika. Det var med andre ord forventet, at jeg ville ende med at tabe penge på investeringen. Nu ejer jeg ikke nogen kameler længere.
 
 Værre er det, at der mange rygter om, at [Grupeer](/platform/grupeer/) er endnu et _crowdlending scam_. Jeg har en del penge på Grupeer, og jeg har taget screenshots af de relevante sider på Grupeer og downloadet alle lånekontrakter. Jeg er meget spændt pål hvordan dette kommer til at gå. Jeg var egentlig begyndt at trække lidt penge ud af platformen, men har endnu ikke modtaget de to seneste _withdrawals_. Jeg har endnu ikke afskrevet platformen, da det ikke er officielt. Der skal jo også være noget at afskrive næste måned.

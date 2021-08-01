@@ -58,8 +58,6 @@ Jeg har flyttet lidt penge til [Nord.investments](/go/nord/){: rel='sponsored no
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 I denne måned har jeg udvidet mit engagement i flere platforme, som også giver mulighed for et godt afkast. Jeg har tilføjet følgende platforme til porteføljen: [FastInvest (EUR)](/go/fastinvest/){: rel='sponsored nofollow noopener'}, [RoboCash (EUR)](/go/robocash/){: rel='sponsored nofollow noopener' } og [PeerBerry (EUR)](/go/peerberry/){: rel='sponsored nofollow noopener' }. Alle platformene er lette og overskuelige, giver et fornuftigt afkast og har en god auto-invest funktion.
 
 I månedens løb har der været _cash drag_ på **[FastInvest (EUR)](/go/fastinvest/){: rel='sponsored nofollow noopener' }**, og jeg skyndte mig at hive nogle penge ud, men et par dage efter var der igen lån på platformen, så jeg endte med at sætte det hele ind igen og være lidt mere tålmodig. Der mangler stadig nogle lån her ved status, men jeg forestiller mig, at de kommer hurtigt i april, og der er _auto invest_, så jeg behøver ikke holde så meget øje med platformen.

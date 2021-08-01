@@ -120,8 +120,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg er ved at reducere min samlede crowdlending-portefølje og i den forbindelse skrev jeg tidligere [et forslag til, hvordan man kan lave en risiko-afkast-analyse af crowdlending-platformene](/crowdlending-rebalancering/). Jeg hæver stille og roligt penge fra nogle platforme og overfører til andre platforme eller til min aktie-portefølje, så de kommer tættere på min ideelle allokation.
 
 Husk at med crowdlending er det forventede afkast. På crowdlending platformene er der opgjort et tal, men man kan jo reelt ikke vide, hvad det endelige afkast er, før man hæver hele beløbet fra kontoen. Jeg har fx skrevet til RoboCash-support, hvordan det kan være, at man interne rente er faldet fra omkring 10%+ til 6% efter, at jeg har fået _payout_ i stedet for at reinvestere pengene.

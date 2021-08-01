@@ -44,8 +44,6 @@ I april har jeg tjent **-38 DKK på investeringer i værdipapirer**, men har få
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg har valgt at lave et Premium-abonnement på [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, da jeg gerne ville skyde lidt flere penge i crowdlending hurtigere. På den gratis version af Revolut, kan man veksle 40.000 DKK om måneden. Det koster omkring 60 DKK om måneden at have Premium, og så kan man veksle ubegrænset. Desværre skal man binde sig for et år, men det giver altså samlet mindre end jeg kan tjene på at have pengene udlånt. Jeg forventer ikke at forlænge om et år, da jeg forventer at mine transaktioner i crowdlending-markedet falder betydeligt - og da har jeg allerede hovedparten af mine penge i markedet i EUR.
 
 [Få et gratis valutaveksling hos Revolut](/go/revolut/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }

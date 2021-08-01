@@ -95,8 +95,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Min ældste crowdlending platform er [Flexfunding](/platform/flexfunding/), som jeg er begyndt at trække lidt penge hjem ud fra. Flexfunding kunne godt være lidt bedre til informere om de aftaler, de laver med firmaer, der har udfordringer med at betale. I løbet af oktober har jeg fået en e-mail om to af mine lån hos "Samfundstanken" og "DSS Sikringsteknik Aps", og der er Flexfunding i gang med inddrivelse i konkursboet i de to firmaer.
 
 Informationerne på selve hjemmesiden er ikke helt tilstrækkelige under de problematiske lån. Fx står der under Samfundstanken bare "Betaling mangler eller forsinket" og ingen oplysninger om, hvad status er for lånet, som ikke er betalt siden 1. maj 2019. Under "DSS Sikringsteknik" står der bare, at lånet er opsagt, men ikke yderligere oplysninger. Det ville klæde selve hjemmesiden, at oplysningerne om lånene var helt up-to-date her.

@@ -88,8 +88,6 @@ Du kan læse lidt mere om nogle af porteføljerne her:
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Jeg har jo tidligere købt en kamel i Agrikaab sammen med mine døtre (som de kalder Elna). Det har bl.a. fået mig til at kigge lidt [lidt kritisk på Agrikaab](/platform/agrikaab/). Det bliver spændende at følge de næste måneder, om mit kamel-projekt og vandopsamlingsreservoir kommer på skinner. <ins>**Agrikaab er lukket ned marts 2020, og jeg har mistet hele min investering.**</ins>
 
 Ellers er jeg stadig ret aktiv på alle platforme. Jeg har trukket nogle penge ud af [Bondora Go & Grow](/go/bondora/){: rel='sponsored nofollow noopener' }, selvom jeg synes produktet er ganske fint. Renten på omkring 6,75% p.a. er bare lidt for lav - og så er platformen og afkastet meget forudsigelig, og derfor er det ikke så meget at undersøge. Så er det lidt sjovere at følge de andre platforme.

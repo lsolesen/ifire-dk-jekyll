@@ -36,8 +36,6 @@ Jeg har således sat et meget lille beløb ind på Darwin App, som samarbejder m
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 I løbet af februar er jeg gået massivt ind i _crowdlending_.
 
 Jeg lavede først den fejl, at jeg lavede overførsler fra min bank direkte til _crowdlending_ platformene. Men der skal jeg betale et ret stort beløb hver gang for selve overførslen, og de veksler til Euro med en lidt dårligere kurs end markedsprisen.

@@ -9,12 +9,12 @@ category:
 tags:
   - crowdlending
   - anmeldelse
-excerpt: "Anmeldelse af crowdlending platformen Join Trine, der er særligt målrettet mod bæredygtige projekter."
+excerpt: "Anmeldelse af crowdlending platformen Trine, der er særligt målrettet mod bæredygtige projekter."
 ---
 
 {% include disclosure.html %}
 
-[Trine](/go/trine/){: rel='sponsored nofollow noopener' } er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_. Join Trine er en svensk platform, der blev stiftet i 2014. Join Trine specialiserer sig i solenergi i en række afrikanske lande. 
+[Trine](/go/trine/){: rel='sponsored nofollow noopener' } er den eneste crowdfunding platform, jeg kunne finde, som har et særligt bæredygtigt sigte med _cleantech / clean energy_.  er en svensk platform, der blev stiftet i 2014. Trine specialiserer sig i solenergi i en række afrikanske lande. 
 
 Det er altid en god ide at sprede risikoen, så jeg har smidt mine investeringer foreløbigt i et par forskellige solpanel-projekter i to forskellige lande.
 
@@ -32,7 +32,7 @@ På platformen er der ikke så mange projekter at støtte i den måned (februar 
 
 ## Hvordan er det at bruge platformen?
 
-Det var let at [oprette sig på Join Trine](/go/trine/){: rel='sponsored nofollow noopener' } og lave den første investering. Platformen har **ingen auto-invest**-funktion, så det er en platform, du skal holde lidt øje med. 
+Det var let at [oprette sig på Trine](/go/trine/){: rel='sponsored nofollow noopener' } og lave den første investering. Platformen har **ingen auto-invest**-funktion, så det er en platform, du skal holde lidt øje med. 
 
 Platformen har også mulighed for at lave månedlige investeringer, hvis du gerne vil automatisere dine investeringer lidt.
 
@@ -40,17 +40,17 @@ Platformen udbyder gavekort, så du kan give folk en gave, der bliver mere værd
 
 Jeg har skrevet til support på platformen for at tjekke responstiden, og de svarede inden for en time af min henvendelse.
 
-[Join Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+[Opret dit på Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 ## Sætte penge ind og hive dem ud igen
 
-Jeg brugte [Revolut](/revolut-anmeldelse/) til at overføre penge til [Join Trine](/go/trine/){: rel='sponsored nofollow noopener' }, så jeg kunne gøre det uden gebyrer.
+Jeg brugte [Revolut](/revolut-anmeldelse/) til at overføre penge til [Trine](/go/trine/){: rel='sponsored nofollow noopener' }, så jeg kunne gøre det uden gebyrer.
 
 Jeg har endnu ikke prøvet at hive penge ud af platformen, men vender naturligvis tilbage med en opdatering, når jeg har gjort det! Planen er også at hive pengene ud til min [Revolut](/revolut-anmeldelse/)-konto.
 
 ## Vær opmærksom på
 
-[Join Trine](/go/trine/){: rel='sponsored nofollow noopener' } er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika, og der er ikke _buy back_ på lånene. Investeringer i Trine er med relativ høj risiko.
+[Trine](/go/trine/){: rel='sponsored nofollow noopener' } er ejet af **en** låneudbyder, der finansierer bæredygtige projekter i lande i Afrika, og der er ikke _buy back_ på lånene. Investeringer i Trine er med relativ høj risiko.
 
 Jeg opdaterer naturligvis anmeldelsen senere med, hvordan mine investeringer på Trine går. Foreløbig har jeg kun et godt indtryk af virksomheden.
 

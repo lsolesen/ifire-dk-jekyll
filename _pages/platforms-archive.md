@@ -19,8 +19,6 @@ feature_row:
 
 {% include disclosure.html %}
 
-{% include crowdlending-warning.html %}
-
 ## Danske crowdlending og crowdfunding sites
 
 {% assign site_posts = site.platforms | where: "tags", "Danmark" | where: "tags", "crowdlending" | sort: "title" %}

@@ -24,8 +24,6 @@ For investorerne hjælper Funderbeam med at få adgang til ambitiøse virksomhed
 
 Jeg blev interesseret i virksomheden, fordi jeg godt kan lide at støtte folk, der har en god ide - men også fordi det danske crowdfunding-virksomhed, Lendino, i øjeblikket er en af de virksomheder, man kan byde sig ind i. Lendino vil nemlig gerne udvide deres platform, så andre selskaber kan få adgang til at lave crowdfunding på en lettere måde. Fx har de samarbejdet med Coop, men de vil gerne gøre softwaren endnu bedre. Det synes jeg kunne være interessant at støtte.
 
-{% include crowdlending-warning.html %}
-
 ## Lidt om Funderbeam
 
 Funderbeam er etableret i Estland, men har flyttet investorerne til Funderbeam Markets Ltd i England i stedet for at [skabe bedre muligheder for at tilbyde produkter](https://www.funderbeam.com/help/changing-your-service-provider-to-our-authorised-uk-company/).

@@ -40,8 +40,6 @@ Du kan se [indtjeningen i min portefølje i aktier og obligationer](/investering
 
 ## Crowdlending
 
-{% include crowdlending-warning.html %}
-
 I alt har jeg i august måned tjent **2.588 DKK** på crowdlending, og jeg venter stadig meget tålmodigt på at ejendomsplatformene begynder at give afkast.
 
 I denne måned har [Flexfunding](/platform/flexfunding/) meddelt at to af mine lån er i restance, og de således er gået i gang med gældsindrivelse. Flexfunding kunne godt forbedre deres kommunikation omkring manglende betalinger, og det er spændende om det kommer til at betyde mit første tab på platformen?

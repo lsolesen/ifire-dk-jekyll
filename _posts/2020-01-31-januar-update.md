@@ -63,8 +63,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 Faktisk går mine crowdlending-investeringer udemærket som helhed. Men markedet er bekymret i øjeblikket og jeg blev mindet om, at investeringerne er høj risiko.
 
 Envestios mystiske forsvindingsnummer spiser en del af mit fine overskud fra crowdlending. Det er også bekymrende, fordi Envestio har adgang til mine personlige oplysninger mv. i forbindelse med oprettelsen. Læs mere på [Gatevnotes](https://www.gatevnotes.com/envestio-technical-evidence/), [P2P Banking](https://www.p2p-banking.com/countries/baltic-millions-at-stake-in-envestio-case-investors-calling-for-answers/) og [Explore P2P](https://explorep2p.com/envestio/).

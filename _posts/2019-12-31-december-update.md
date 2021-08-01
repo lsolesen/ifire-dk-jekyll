@@ -51,8 +51,6 @@ Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen
 
 ### Crowdlending
 
-{% include crowdlending-warning.html %}
-
 I løbet af december er der begyndt at florere flere og flere historier om crowdlending-udfordringer. [Kuetzal har haft store problemer](https://financiallyfree.eu/concerns-about-kuetzal-is-kuetzal-a-scam/), men jeg har heldigvis ikke investeret i dem.
 
 - [Envestio](/platform/envestio/) har skiftet ejerkreds, og det har skabt lidt [bekymringer for Envestios fremtid, som de dog svarer nogenlunde tilfredsstillende på](https://colminey.com/envestio-calming-news). Envestio har imidlertid fortsat for mig _kun_ en intern rente på 12,15%, hvilket får mig til at overveje om det er risikoen værd. Jeg sætter ikke flere penge ind på kontoen og vil ved tilbagebetalinger trække penge ud. Det skal dog bemærkes at alle tilbagebetalinger ser ud til at falde til tiden. <ins>**Envestio var et scam og lukkede ned i januar 2020**</ins>.

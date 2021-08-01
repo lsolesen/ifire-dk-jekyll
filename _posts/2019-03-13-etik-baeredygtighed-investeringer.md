@@ -36,8 +36,6 @@ Det bliver _næste trin for mig_. Min nuværende [portefølje](/portfolio/), som
 
 ## Hvordan investerer jeg etisk og bæredygtigt i crowdlending med højt afkast?
 
-{% include crowdlending-warning.html %}
-
 Crowdlending-platformene giver et ret højt afkast stort set over hele linjen. Men der er mange forskellige lånetyper i platformene, og helt grundlæggende har jeg det lidt svært med forbrugslån til private, som har en ret høj rente - og måske bliver forbrugslånet brugt til overdimensionerede biler eller andet. Samtidig vil jeg jo gerne have et ret godt afkast.
 
 Lige nu investerer jeg kun i en platform, som decideret slår sig op på at være bæredygtig og investerer i Afrika med _clean tech_ og _clean energy_, og det er [Trine](/go/trine/){: rel='sponsored nofollow noopener' }. Men hvad skal jeg egentlig kigge efter på de andre platforme for at gøre mine investeringer fx mest mulig bæredygtige?
