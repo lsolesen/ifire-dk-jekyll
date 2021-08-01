@@ -6,7 +6,6 @@ header:
   teaser: *image
 category:
   - Opdateringer
-  - Investering
 tags:
   - crowdlending
   - investering
