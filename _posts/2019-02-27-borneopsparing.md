@@ -2,7 +2,7 @@
 title: "Børneopsparing 2021: Regler og investeringer til børn?"
 description: "Hvordan kan man sammensætte en børneopsparing? Hvad er reglerne for børneopsparingen, og kan du investere pengene? Hvad gør du, når beløbsgrænserne er for små?"
 permalink: /borneopsparing/
-last_modified_at: 2021-03-19T09:51:02+02:00
+last_modified_at: 2021-07-19T09:51:02+02:00
 category:
   - Privatøkonomi
   - Investering
@@ -128,10 +128,21 @@ Hvis pengene er gaver fra dig til barnet, så bliver du beskattet af gevinsterne
 
 Ud over den klassiske børneopsparing kan du også spare op til dine børn på følgende måder:
 
-- **Stattefri pengegaver til børn**. I 2019 er beløbsgrænsen 65.700 kroner. Du kan ikke selv give dine børn skattefri pengegaver, men det kan bedsteforældrene eller venner. Her kan du således udnytte barnets frikort.
-- **Aldersopsparing til børn**. Du kan også oprette en aldersopsparing, som kan vokse til ret mange penge, inden dine børn når pensionsalderen.
+### Stattefri pengegaver til børn
 
-Disse løsninger er ikke relevante for mig, men [du kan læse mere om skattefri pengegaver til børn og aldersopsparing til børn hos formuepleje.dk](https://formuepleje.dk/videnscenter/pension/boerneopsparing).
+I 2019 er beløbsgrænsen 65.700 kroner. Du kan ikke selv give dine børn skattefri pengegaver, men det kan bedsteforældrene eller venner. Her kan du således udnytte barnets frikort.
+
+### Aldersopsparing til børn
+
+Du kan også oprette en aldersopsparing, som kan vokse til ret mange penge, inden dine børn når pensionsalderen.
+
+Som forælder eller bedsteforælder kan du oprette en aldersopsparing i banken eller hos Nordnet til dit barn eller barnebarn, når barnet har fået et CPR-nummer. Der er ikke fradrag på indbetalinger til aldersopsparingen, men der skal heller ikke betales skat, når pengene skal udbetales.
+
+Fordelen ved en aldersopsparing er, at afkastet beskattes lavt, med 15,3% PAL-skat. Som forælder eller bedsteforælder kan du indbetale 5.300 kr om året (2020), og du kan investere pengene hvis du opretter et depot i forbindelse med aldersopsaringen.
+
+Ulempen ved en aldersopsparing er dog, at pengene først kan udbetales 3 år inden og senest 27 år efter folkepensionsalderen. Aldersopsparingen kan hæves i utide mod en afgift på 20 % af den samlede værdi. For mig bliver det lige lovlig langsigtet, og jeg er ikke sikker på, at det er i barnets bedste interesse at give så langsigtede gaver.
+
+Disse løsninger er ikke relevante for mig, men du kan læse mere om skattefri pengegaver til børn og aldersopsparing til børn hos [formuepleje.dk](https://formuepleje.dk/videnscenter/pension/boerneopsparing).
 
 ## Sådan har jeg sammensat mine børns opsparing
 

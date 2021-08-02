@@ -65,7 +65,7 @@ Jeg kan godt lide at dele opsparing op i tre forskellige kategorier:
 
 Det kan altså være interessant at kigge på de følgende spørgsmål:
 
-- [hvilke konti har jeg brug for]({% link _posts/2019-02-20-hvilken-konto.md %})
+- [hvilke konti har jeg brug for?]({% link _posts/2019-02-20-hvilken-konto.md %})
 - [hvor meget skal du spare op?]({% link _posts/2020-03-22-raad-til-at-investere.md %})
 - [opsparingskonto]({% link _posts/2021-07-17-opsparingskonto.md %})
 - hvilken rente kan du få på din opsparing?
@@ -90,6 +90,7 @@ Jeg har lavet en [beregner til økonomisk uafhængighed]({% link _posts/2021-07-
 - afvikling af gæld
 - kan det betale sig at indfri huslån
 - kan det betale sig at være gældfri
+
 {% endcomment %}
 
 ## Indlæg om privatøkonomi
