@@ -21,6 +21,28 @@ faq:
     answer: "Nej. Nordnet har ikke en traditionel børneopsparingskonto. Til gengæld kan du hos Nordnet oprette en konto til mindreårige, hvor du kan investere som et supplement til børneopsparingen."
   - question: "Har Saxo Investor en børneopsparing?"
     answer: "Nej. Saxo Investor har ikke en børneopsparing. Du kan heller ikke oprette et aktiedepot til børn hos Saxo Investor. Du kan enten oprette et depot til mindreårige hos Nordnet eller Nord.Investments - eller oprette en traditionel børneopsparing i din bank."
+  - question: "Hvad er den bedste børneopsparing?"
+    answer: "Den bedste børneopsparing er den traditionelle børneopsparing, fordi skatteforholdene er utrolig lukrative. Til gengæld er loftet for indbetalinger lidt for lave for nogen. Derfor kan du lave en supplerende børneopsparing ved at oprette en konto for mindreårige. Det kan du gøre i din egen bank, hos Nordnet eller hos Nord.Investments. For nylig er [Tobi](https://www.tobi.dk/), som er et komplet automatiseret setup, hvor alle regler bliver overholdt. Ulempen er de årlige omkostninger på 1,15%."
+feature_row:
+  - image_path: /assets/images/logo/nordnet.png
+    title: Nordnet
+    btn_label: Åbn gratis konto
+    btn_class: btn--info
+    url: /go/nordnet/
+    excerpt: "Du kan oprette en konto for mindreårige og selv investere pengene.\n\n- Kurtagefri månedsopsparing\n\n- Lave omkostninger"
+  - image_path: /assets/images/logo/nord.png
+    title: Nord.Investments
+    excerpt: "Du kan oprette en konto for mindreårige og få fuldautomatisk investering.\n\n- Fuldautomatisk\n\n- ÅOP på 0,75%"
+    btn_label: Åbn gratis konto
+    btn_class: btn--info
+    url: /go/nordnet/
+    rel: sponsored nofollow noopener
+  - image_path: /assets/images/logo/tobi.png
+    title: Tobi
+    excerpt: "Tobi er en fuldautomatisk håndtering af hele børneopsparingen.\n\n- Helt fuldautomatisk\n\n- ÅOP på 1,15%"
+    btn_label: Åbn gratis konto
+    btn_class: btn--info
+    url: /go/tobi/
 ---
 
 En børneopsparing er en særlig opsparingskonto forældre kan lave til deres barn. Der er nogle skattemæssige fordele ved en børneopsparing, og der er grænser for, hvor mange penge, du kan have på børneopsparingen.
@@ -123,13 +145,23 @@ At skulle flytte hele sit bankengagement vil ofte være forbundet med høje omko
 
 [Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
+##  Børneopsparing i Tobi
+
+Tobi er en ny måde at lave en børneopsparing på. Tobi sørger automatisk for at det rigtige beløb investeres på den traditionelle børneopsparing og resten af det indbetalte investeres på en konto for mindreårige.
+
+Du vælger ligesom med [Nord.Investments](/go/nord/){: rel="sponsored nofollow noopener" } bare en risikoprofil, indbetaler penge og så klarer Tobi resten. Ulempen ved Tobi er de relativt høje årlige omkostninger, men fordelen er at du ikke behøver sætte dig ind i nogen regler.
+
+## Muligheder for supplerende børneopsparing
+
+{% include feature_row %}
+
 ## Skat på en investeringskonto for mindreårige
 
 Når du opretter en opsparing til mindreårige, hvor du investerer pengene, så skal du være opmærksom på skattereglerne.
 
 Hvis pengene er gaver fra dig til barnet, så bliver du beskattet af gevinsterne på barnets investeringer. Hvis det er gaver fra andre, fx bedsteforældrene, så er det barnet der bliver beskattet.
 
-## Andre måder at spare op på
+## Andre måder at spare op til børnene
 
 Ud over den klassiske børneopsparing kan du også spare op til dine børn på følgende måder:
 
