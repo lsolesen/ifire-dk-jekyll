@@ -16,6 +16,11 @@ tags:
 excerpt: "Der er flere måder at gribe en børneopsparing an på: Bankrenter, obligationer, investeringer i aktier. Hvad bør man gøre?"
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+faq:
+  - question: "Har Nordnet en børneopsparing?"
+    answer: "Nej. Nordnet har ikke en traditionel børneopsparingskonto. Til gengæld kan du hos Nordnet oprette en konto til mindreårige, hvor du kan investere som et supplement til børneopsparingen."
+  - question: "Har Saxo Investor en børneopsparing?"
+    answer: "Nej. Saxo Investor har ikke en børneopsparing. Du kan heller ikke oprette et aktiedepot til børn hos Saxo Investor. Du kan enten oprette et depot til mindreårige hos Nordnet eller Nord.Investments - eller oprette en traditionel børneopsparing i din bank."
 ---
 
 En børneopsparing er en særlig opsparingskonto forældre kan lave til deres barn. Der er nogle skattemæssige fordele ved en børneopsparing, og der er grænser for, hvor mange penge, du kan have på børneopsparingen.
@@ -143,6 +148,10 @@ Fordelen ved en aldersopsparing er, at afkastet beskattes lavt, med 15,3% PAL-sk
 Ulempen ved en aldersopsparing er dog, at pengene først kan udbetales 3 år inden og senest 27 år efter folkepensionsalderen. Aldersopsparingen kan hæves i utide mod en afgift på 20 % af den samlede værdi. For mig bliver det lige lovlig langsigtet, og jeg er ikke sikker på, at det er i barnets bedste interesse at give så langsigtede gaver.
 
 Disse løsninger er ikke relevante for mig, men du kan læse mere om skattefri pengegaver til børn og aldersopsparing til børn hos [formuepleje.dk](https://formuepleje.dk/videnscenter/pension/boerneopsparing).
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
 
 ## Sådan har jeg sammensat mine børns opsparing
 
