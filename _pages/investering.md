@@ -100,6 +100,12 @@ Du kan læse mere om [investering i guld her](/guld/).
 
 Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}) eller hvordan man investerer i [REIT](/reit/).
 
+## Bæredygtige investeringer
+
+Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og impact-investeringer. En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig.
+
+Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/).
+
 ## Investeringsløsninger
 
 {% include feature_row id="feature_row_solutions" %}
