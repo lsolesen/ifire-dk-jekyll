@@ -8,7 +8,7 @@ tags:
   - bagning
   - featured
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/flagged/photo-1561668038-2742fcef75d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
 feature_row:
   - image_path: https://cdn.shopify.com/s/files/1/1286/4247/files/bagepakken_bf.jpg?v=1604160168
     alt: "BAGESTÅLET + KOMBISPADEN + DEJSKÆREREN"

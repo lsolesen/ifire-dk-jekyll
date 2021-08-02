@@ -15,7 +15,23 @@ header:
   alt: Photo by Christine Roy on Unsplash
 ---
 
-**Juni 2021**: Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det bliver sidste måned, hvor jeg logger ind på alle platformene for at lave et samlet overblik. Jeg vil for eftertiden gå lidt mere i dybden med den enkelte platform.
+{{ page.excerpt }}
+
+## Mine erfaringer med Crowdlending
+
+### Juli
+
+Jeg har kigget lidt på [Crowdestor](/platform/crowdestor/), som jeg gerne vil reducere min eksponering lidt i. Men samtidig har de faktisk introduceret nogle nye meget spændende produkter, som minder om [Mintos](/platform/mintos/) og [Bondoras Go & Grow](/go/bondora){: rel="sponsored nofollow noopener" }.
+
+[Peerberry](/platform/peerberry/) har også introduceret investeringsplaner, som jeg har kigget lidt nærmere på. Jeg foretrækker selv at sætte min auto-invest op, men jeg har ladet mig inspirere af investeringsplanerne, så jeg kunne få en fornuftig spredning.
+
+Jeg har opdateret min [anmeldelse af Trine](/trine-anmeldelse/). Det var en tiltrængt opdatering, så jeg håber, at du nyder den. Der har på det seneste været lidt uro med omstruktureringer af nogle af lånene. Covid-19 har ramt Afrika temmelig hårdt, men Trine er gode til at [orientere om udfordringerne](/platform/trine/).
+
+[Fast Invest](/platform/fastinvest/) har faktisk tilbagebetalt et af beløbene, som jeg har anmodet om i februar. Men det er nok ikke der jeg ville sætte mine penge.
+
+### Juni 2021
+
+Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det bliver sidste måned, hvor jeg logger ind på alle platformene for at lave et samlet overblik. Jeg vil for eftertiden gå lidt mere i dybden med den enkelte platform.
 
 Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/), som sammen med [Bondoras Go & Grow](/go/bondora){: rel="sponsored nofollow noopener" }, er de udenlandske platforme jeg primært satser på i øjeblikket.
 
@@ -35,7 +51,7 @@ Du kan se alle mine crowdlending platforme nedenfor, hvis du skal have inspirati
 
 ## Mine erfaringer med crowdlending
 
-I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/). 
+I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/).
 
 Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
 

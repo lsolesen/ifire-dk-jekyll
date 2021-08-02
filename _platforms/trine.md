@@ -26,6 +26,8 @@ country: Sverige
 
 Jeg investerede første gang i crowdlending-platformen Trine i februar 2019. Jeg blev interesseret i Trine, fordi jeg gerne ville lave en [bæredygtig investering]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}). Trine laver crowdlending i Afrika til bæredygtige projekter primært med udgangspunkt i solcelle projekter.
 
+Sørg for at [læse hele min anmeldelse af Trine](/trine-anmeldelse/).
+
 ## Juli 2021
 
 Investering i lån i Afrika til solenergiprojekter er ikke helt uden risiko. Trine er gode til at orientere om løsningerne. Jeg har lige modtaget denne e-mail, der fortæller hvordan et lån foreslås at blive omstruktureret.
@@ -52,17 +54,8 @@ En af mine inesteringer har lidt udfordringer i øjeblikket. Min oplevelse er, a
 
 <cite>-- e-mail fra trine den 19. december 2019</cite>
 
-## Skat ved crowdlending på {{ page.title }}
+## Konklusion
 
-{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
-
-{% include figure image_path="/assets/images/skat/trine-tax1.png" caption="Sådan finder du årsopgørelsen på Trine" alt="årsopgørelse skat Trine" %}
-
-{% include figure image_path="/assets/images/skat/trine-tax2.png" caption="Sådan finder du årsopgørelsen på Trine" alt="årsopgørelse skat Trine" %}
-
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
-
-
-Se [min anmeldelse af Trine](/trine-anmeldelse/).
+Det var nogle af mine erfaringer med Trine. Se [min anmeldelse af Trine](/trine-anmeldelse/).
 
 [Tilmeld dig Trine](/go/trine/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

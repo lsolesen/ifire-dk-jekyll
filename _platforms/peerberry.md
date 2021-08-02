@@ -9,7 +9,7 @@ tags:
   - Østeuropa
   - udenlandsk crowdlending
 excerpt: "PeerBerry tilbyder kortsigtede lånetyper med omkring 12% i årligt afkast og buy back garanti. Alternativ til Mintos."
-last_modified_at: 2021-07-12T23:30:00+08:00
+last_modified_at: 2021-07-27T23:30:00+08:00
 first_investment_at: 2019-02-27T10:00:00+08:00
 cta_url: /go/peerberry/
 country: Letland

@@ -7,7 +7,7 @@ redirect_from:
   - /raad-til-investeringer/
 header:
   overlay_image: https://images.unsplash.com/photo-1580508174046-170816f65662?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-  teaser: https://images.unsplash.com/photo-1580508174046-170816f65662?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1616514197671-15d99ce7a6f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
   alt: Photo by Paweł Czerwiński on Unsplash
 category:
@@ -65,7 +65,7 @@ Hvis pengene i stedet var investeret, så kan de forrente sig selv bedre over ti
 
 Du skal primært så styr på din opsparing, så du har en god sikkerhed. Men derefter så du kan komme i gang med at investere dine penge.
 
-Du behøver faktisk ikke at have ret mange penge for at komme i gang med at investere. Men der er lige et par ting, du bør have styr på først. 
+Du behøver faktisk ikke at have ret mange penge for at komme i gang med at investere. Men der er lige et par ting, du bør have styr på først.
 
 Du skal først afbetale **dyr gæld**. Hvis du har en dyr gæld med høje renter, så er det en meget bedre “investering” i din privatøkonomi at få gælden afbetalt først.
 
@@ -73,7 +73,7 @@ Du har brug for en **opsparing**, som er stor nok til, at du ikke tvinges til at
 
 ## Hvor meget opsparing er nødvendig?
 
-Det er kun dig selv, der kan svare på, hvor meget opsparing du behøver. Hvad er dine faste udgifter, jobsikkerhed, a-kasse-forhold, andre løbende indkomster. 
+Det er kun dig selv, der kan svare på, hvor meget opsparing du behøver. Hvad er dine faste udgifter, jobsikkerhed, a-kasse-forhold, andre løbende indkomster.
 
 - **Nødopsparing**. Nødopsparingen skal kunne betale, hvis noget uforudset går i stykker. Hvis fx bilen går i stykker og tørretumbleren står af. Hvor meget skal du så bruge for at kunne betale de regninger. Hvad er sandsynligt kan gå i stykker?
 - **Opsparing**. Ud over nødopsparingen kan det være fornuftigt med en yderligere opsparing. Fx har du fremtidige regninger at betale (du kan få overblik ved at [lave et budget]({% link _posts/2021-07-10-budget-for-begyndere.md %})) eller samfundet står pludselig i en krise, og du mister dit job. Igen er det op til dig selv at definere, hvor meget du har brug for i opsparing. Nogen sætter 1 måneds faste udgifter til side. Andre sætter op til 6 måneders faste udgifter til side.

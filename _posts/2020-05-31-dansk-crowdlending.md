@@ -8,14 +8,14 @@ tags:
   - crowdlending
   - featured
 excerpt: "Jeg har investeret i dansk crowdlending i fire år. Her er en grundig opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
-description: "Jeg har investeret i dansk crowdlending i fire år. Her har du en grundig opdatering på, hvad jeg synes om de danske crowdfunding-platforme."
+description: "Jeg har investeret i dansk crowdlending i fire år. Men hvad er status egentlig på crowdlending og crowdfunding i Danmark?"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80
 ---
 
 Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme.
 
-Men hvordan klarer de danske crowdlending platforme sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
+Men hvordan klarer de crowdlending platforme i Danmark sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
 
 **Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare</del><ins>The Many (tidligere Brickshare)</ins>, Lendino og Fundbricks, som er det største spillere på det danske crowdfunding-marked i øjeblikket.**
 
@@ -192,7 +192,7 @@ Jeg synes Flexfunding og [Lendino](/go/lendino/){: rel='sponsored nofollow noope
 
 Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
 
-## Dansk crowdlending
+## Crowlending i Danmark
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 
