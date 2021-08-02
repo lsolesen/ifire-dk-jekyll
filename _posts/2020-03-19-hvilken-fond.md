@@ -9,6 +9,7 @@ tags:
   - fond
   - ETF
   - værdipapirer
+  - indeksfonde
 excerpt: "Find de bedste investeringsafdelinger og ETF'er ved at kigge på nøgletal og beslutte dig for din strategi!"
 header:
   overlay_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80

@@ -50,11 +50,37 @@ Læs mere om [investering i obligationer]({% link _posts/2020-03-09-obligationer
 
 Hvis du ikke vil i gang med selv at udvælge gode stabile aktier, så kan du købe investeringsforeninger eller fonde, som vælger aktierne for dig.
 
-## Passivt forvaltede fonde
+## Passiv eller aktiv investering
 
-Du kan vælge både aktivt forvaltede og passivt forvaltede fonde. Formålet med en passivt forvaltet fond er at følge det indeks, som fonden skal afspejle. Jeg kan godt lide at købe fonde, som følger verdensmarkedet.
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "passiv investering" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
+## Passivt forvaltede indeksfonde
+
+Du kan vælge både aktivt forvaltede og passivt forvaltede indeksfonde. Formålet med en passivt forvaltet fond er at følge det indeks, som fonden skal afspejle. Jeg kan godt lide at købe fonde, som følger verdensmarkedet.
 
 Du kan lade dig inspirere på vores [liste over danske investeringsforeninger og passive indeksfonde](/danske-investeringsforeninger-med-passive-indeksfonde/).
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "indeksfonde" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
 
 ## Aktier og skat
 
@@ -66,14 +92,6 @@ Læs mere om [skat, realisationsbeskatning og lagerbeskatning af aktier her]({% 
 
 I Danmark har man lanceret en aktiesparekonto, som gør beskatningen lidt lettere. Jeg har lavet en [komplet guide til aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}).
 
-## Konklusion
-
-Hvis du gerne vil i gang med at investere i aktier og obligationer, så er det altså relativt enkelt at komme i gang.
-
-Hvis du vil bruge et minimum af tid på at sætte dig ind i alle aspekter af aktieinvestering, så kan en ide være at gøre det hele enkelt og starte med at købe fonde, der er passivt forvaltede og som følger verdensmarkedet.
-
-Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}).
-
 ## Hvor kan du investere i aktier og værdipapirer?
 
 Du kan investere i aktier, obligationer og værdipapirer i din bank eller gennem en børsmægler. Omkostningerne ved at investere betyder rigtig meget for dit langsigtede afkast. Derfor kan det betale sig at kigge lidt efter, hvad priserne er. Jeg har skrevet lidt mere om [kurtage og handelsomkostninger ved investeringer her]({% link _posts/2020-03-18-hvad-er-handelsomkostningerne.md %}).
@@ -83,6 +101,14 @@ Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopspari
 ## Her handler jeg selv aktier og investeringsforeninger
 
 {% include feature_row id="feature_row_own" %}
+
+## Konklusion
+
+Hvis du gerne vil i gang med at investere i aktier og obligationer, så er det altså relativt enkelt at komme i gang.
+
+Hvis du vil bruge et minimum af tid på at sætte dig ind i alle aspekter af aktieinvestering, så kan en ide være at gøre det hele enkelt og starte med at købe fonde, der er passivt forvaltede og som følger verdensmarkedet.
+
+Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}).
 
 ## Indlæg om aktier, obligationer og værdipapirer
 

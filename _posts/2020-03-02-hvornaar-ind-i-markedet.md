@@ -1,5 +1,5 @@
 ---
-title: "Hvordan kommer jeg ind i markedet? "
+title: "Hvordan kommer jeg ind i markedet?"
 permalink: /hvornaar-ind-i-markedet/
 header:
   overlay_image: https://images.unsplash.com/photo-1549421263-6064833b071b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80

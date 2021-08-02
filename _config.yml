@@ -97,9 +97,6 @@ footer:
     - label: "Køb mig en kop kaffe"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsolesen/ifire-dk-jekyll"
 
 
 # Site search

@@ -13,6 +13,7 @@ tags:
   - investering
   - howto
   - værdipapirer
+  - indeksfonde
 gallery:
   - url: /assets/images/book/nordnet-investeringsforeninger-menu.jpg
     image_path: /assets/images/book/nordnet-investeringsforeninger-menu.jpg
