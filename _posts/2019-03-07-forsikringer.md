@@ -15,8 +15,6 @@ tags:
   - spareråd
   - forsikring
 last_modified_at: 2019-07-16T20:22:02+02:00
-header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
 Jeg tjekker jævnligt mine forsikringer igennem for at se om de stadig passer til mig og min familie. Er det stadig det samme forsikringer vi har brug for? Er jeg dobbeltforsikret fx ift. rejseforsikring, autohjælp, pension og så videre.
