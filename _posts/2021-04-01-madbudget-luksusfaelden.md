@@ -1,7 +1,7 @@
 ---
-title: &title "Madbudget: Undgå Luksusfælden med en madplan [2021]"
-seo_title: "Madbudget • Undgå Luksusfælden med madplaner og tilbud »"
-description: "Der er mange penge at spare på madbudgettet, hvis du tænker dig om. Jeg viser dig her hvordan du kan spare penge med en madplan og ved at lede efter gode tilbud."
+title: &title "Madbudget: Undgå Luksusfælden med en madplan"
+seo_title: "Madbudget • Undgå Luksusfælden med madplaner os spar penge »"
+description: "Der er mange penge at spare på madbudgettet, hvis du tænker dig om. Jeg viser dig her hvordan du kan spare penge på mad med en madplan og ved at lede efter gode tilbud."
 excerpt: "Dit madbudget er en af de helt store poster på dit månedlige budget. Hvad er et fornuftigt madbudget for at undgå luksusfælden? Og hvordan kan du lave madplaner?"
 last_modified_at: 2021-03-14T09:20:02+02:00
 permalink: /madbudget-undgaa-luksusfaelden-med-madplan/
@@ -78,7 +78,7 @@ Disse beløb er noget lavere end det beløb, der ofte foreslås som madbudget i 
 
 Budgethusets madbudget er helt realistisk. Det er nogenlunde det vores familie bruger på mad.
 
-## Hvordan sparer jeg penge på madbudgettet?
+## Hvordan sparer jeg penge på mad?
 
 Du kan gøre forskellige ting for at spare penge på madbudgettet:
 
@@ -182,10 +182,10 @@ Jeg er en rigtig glad bruger af den gratis app Spiir. Du betaler naturligvis med
 
 Formålet med Spenderlog er at give dig et indblik i dit eget forbrug. Den henter automatisk alle dine kvitteringer, som den bruger til at dele dine indkøb op i forskellige kategorier. I Spiir får du som udgangspunkt de overordnede kategorier, men i Spenderlog kan du få et automatisk overblik over, hvor mange penge du bruger på fx frugt og grønt eller slik og kager.
 
-## Konklusion
+## Konklusion: Spar penge på mad
 
 Hvordan håndterer du dit madbudget, så du undgår luksusfælden? Hvad bruger du særligt penge på i dit madbudget - og bruger du madplaner selv?
 
-Jeg har også skrevet en del andre indlæg om at [spare penge](/spar-penge/).
+Jeg har også skrevet en del andre indlæg om at [spare penge i hverdagen](/spar-penge/).
 
 {% include disclaimer.md %}

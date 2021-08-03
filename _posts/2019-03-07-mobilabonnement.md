@@ -49,7 +49,7 @@ Tjek dit mobilabonnemnt hos
 
 ## Hvordan kan jeg ellers spare penge?
 
-Her gennemgår vi lidt mere grundigt forskellige måder at [spare penge på](/spar-penge/). Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+Her gennemgår vi lidt mere grundigt forskellige [måder at spare penge på](/spar-penge/). Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
 
 {% assign site_posts = site.posts | where: "tags", "spareråd" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 

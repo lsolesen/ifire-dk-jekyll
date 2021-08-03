@@ -120,4 +120,4 @@ Du fik svar på:
 
 Skal du i gang med at klippe dit eget hår eller familiens hår selv? Har du også kastet dig ud i at klippe hår selv?
 
-Jeg har også skrevet en del andre indlæg om at [spare penge](/spar-penge/).
+Jeg har også skrevet en del andre indlæg om, [hvordan man kan spare penge i hverdagen](/spar-penge/).
