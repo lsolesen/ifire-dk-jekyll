@@ -29,7 +29,7 @@ For mig betyder det at være økonomisk fri, at jeg ikke er afhængig af at skul
 
 For mig hænger økonomisk frihed sammen med [rigdomsformlen](/rigdomsformlen/).
 
-**Tjene mere**. Jeg har et arbejde jeg er godt tilfreds med, men jeg har eksperimenteret lidt med at skabe passiv indkomst, dels fra et par hjemmesider, men også fra mine investeringer.
+**Tjene mere**. Jeg har et arbejde jeg er godt tilfreds med, men jeg har eksperimenteret lidt med at [skabe passiv indkomst](/passiv-indkomst/), dels fra et par hjemmesider, men også fra mine investeringer.
 
 **Forbruge mindre**. Efter jeg fik interessen for, hvad det vil sige at være økonomisk uafhængig har jeg kraftigt reduceret, hvad jeg bruger penge på. Tidligere tænkte jeg ikke så meget over det, men jeg gennemgik alle mine abonnementer, forsikringer og kiggede på om jeg skulle smøre en madpakke i stedet for at købe en sandwich i byen. Det er lykkes at [spare mange penge](/spar-penge/) ved bare at være mere opmærksom på, hvor pengene fosser hen. Jeg brugte især [Spiir](/opsparingsrate-spiir/) til at få styr på min opsparingsrate.
 
@@ -49,7 +49,7 @@ Jeg blev meget mere bevidst om det efter at have set udsendelsen Stå af Hamster
 
 **Som vi forstår det, tjener du penge på anderledes måder end mange andre mennesker gør. Hvad er det specifikt du gør for at tjene penge?**
 
-I øjeblikket er min primære indkomst stadig et almindeligt lønarbejde. Jeg investerer en stor del af mine penge, så det er ikke så meget anderledes en mange andre mennesker. Jeg har imidlertid eksperimenteret lidt med [forskellige ideer til passiv indkomst, bl.a. fra hjemmesider](/passiv-indkomst/). Det er imidlertid et rigtig stort arbejde, og lige nu er det minimalt, hvad jeg tjener den vej. Jeg håber imidlertid snart, at nogle af anstrengelserne bærer lidt mere frugt.
+I øjeblikket er min primære indkomst stadig et almindeligt lønarbejde. Jeg investerer en stor del af mine penge, så det er ikke så meget anderledes en mange andre mennesker. Jeg har imidlertid eksperimenteret lidt med [forskellige ideer til passiv indkomst, bl.a. fra hjemmesider](/passiv-indkomst/). Det er imidlertid et rigtig stort arbejde, og lige nu er det minimalt, hvad jeg tjener den vej. Jeg håber snart, at nogle af anstrengelserne bærer lidt mere frugt.
 
 **Har du andet arbejde, du laver ved siden af?**
 
