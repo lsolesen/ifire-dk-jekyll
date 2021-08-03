@@ -22,12 +22,12 @@ feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
     alt: "Opsparing"
     title: "Opsparing"
-    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian){: rel='nofollow noopener' } til en opsparingskonto."
+    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian/){: rel='nofollow noopener' } til en opsparingskonto."
 feature_row_solutions:
   - image_path: /assets/images/logo/nord.png
     alt: "Nord.Investments"
     title: "Nord.Investments"
-    excerpt: "[Nord.Investments](/go/nord/) er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
+    excerpt: "[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
     url: /go/nord/
     btn_label: "Få gratis investeringsprofil"
     btn_class: "btn--info"

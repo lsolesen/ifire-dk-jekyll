@@ -21,7 +21,7 @@ header:
 
 ### Juli
 
-Jeg har kigget lidt på [Crowdestor](/platform/crowdestor/), som jeg gerne vil reducere min eksponering lidt i. Men samtidig har de faktisk introduceret nogle nye meget spændende produkter, som minder om [Mintos](/platform/mintos/) og [Bondoras Go & Grow](/go/bondora){: rel="sponsored nofollow noopener" }.
+Jeg har kigget lidt på [Crowdestor](/platform/crowdestor/), som jeg gerne vil reducere min eksponering lidt i. Men samtidig har de faktisk introduceret nogle nye meget spændende produkter, som minder om [Mintos](/platform/mintos/) og [Bondoras Go & Grow](/go/bondora/){: rel="sponsored nofollow noopener" }.
 
 [Peerberry](/platform/peerberry/) har også introduceret investeringsplaner, som jeg har kigget lidt nærmere på. Jeg foretrækker selv at sætte min auto-invest op, men jeg har ladet mig inspirere af investeringsplanerne, så jeg kunne få en fornuftig spredning.
 
@@ -33,11 +33,11 @@ Jeg har opdateret min [anmeldelse af Trine](/trine-anmeldelse/). Det var en tilt
 
 Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det bliver sidste måned, hvor jeg logger ind på alle platformene for at lave et samlet overblik. Jeg vil for eftertiden gå lidt mere i dybden med den enkelte platform.
 
-Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/), som sammen med [Bondoras Go & Grow](/go/bondora){: rel="sponsored nofollow noopener" }, er de udenlandske platforme jeg primært satser på i øjeblikket.
+Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/), som sammen med [Bondoras Go & Grow](/go/bondora/){: rel="sponsored nofollow noopener" }, er de udenlandske platforme jeg primært satser på i øjeblikket.
 
 Jeg har endnu engang investeret i [The Many](/go/themany/){: rel="sponsored nofollow noopener" }, hvor man nu kan investere fra 100 kroner. Jeg har investeret Frederiksberg, og så er jeg lige ved at tjekke Brassøvej-projektet ud i Århus. Jeg synes stadig platformen er spændende. Jeg håber også langsomt at den interne rente vil stige fra de omkring 3,7% som den er på lige nu. [The Many er teknisk set ikke crowdlending](/platform/themany/) og skiller sig altså lidt ud fra de andre [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
 
-Desuden så er [Trine](/go/trine){: rel="sponsored nofollow noopener" } også stadig en favorit, fordi den faktisk præsterer rigtig fint med 6%+ i intern rente. Det synes jeg er rigtig fint, når jeg samtidig støtter bæredygtige projekter i Afrika.
+Desuden så er [Trine](/go/trine/){: rel="sponsored nofollow noopener" } også stadig en favorit, fordi den faktisk præsterer rigtig fint med 6%+ i intern rente. Det synes jeg er rigtig fint, når jeg samtidig støtter bæredygtige projekter i Afrika.
 
 Jeg har også sat så mange [investeringer som muligt til salg på Housers](/platform/housers/). Desværre kan man kun sætte de rigtig gode investeringer til salg, så det var ikke så mange.
 

@@ -39,7 +39,7 @@ Særligt investeringerne i aktier er meget lettere at holde styr på, hvordan de
 
 For crowdlending skrev jeg tidligere kontoværdien ind i et regneark, som automatisk regnede månedens forventede renter ud. Nu regner jeg det hurtigt ud på en lommeregner. Det er helt klart crowdlendingen, der tager længst tid at tracke. Jeg er på mange platforme, og jeg brugte vel 20 minutter på at logge ind og ud af platformene, taste tallene ind på lommeregneren og registrere det i Portfolio Performance.
 
-Jeg sparede i denne måned også 138,75 DKK på strøm om måneden. Jeg har skrevet lidt om, [hvordan jeg sparede så mange penge](/elpris/).
+Jeg sparede i denne måned også 138,75 DKK på strøm om måneden. Jeg har skrevet lidt om, [hvordan jeg sparede så mange penge](/billigt-elselskab-spar-penge-el/).
 
 ## Investeringer
 
@@ -90,7 +90,7 @@ Jeg testede i sidste måned, hvad min reelle interne rente ville blive på **[Ro
 
 Jeg er på vej ud af **[Housers](/go/housers/){: rel='sponsored nofollow noopener' }**, som ellers oprindeligt var en af de platforme, jeg havde store forhåbninger. Det er imidlertid på et år ikke lykkes mig at få investeret i ejendomme, som giver lejeindtægter. I stedet er det hele ejendomsudvikling, og der er mange af de andre platforme bedre. Jeg har på Housers fx kun en intern rente på 3,48%, hvilket ikke er risikoen værd for mig.
 
-Jeg trækker mig også ud af **[Reinvest24](/go/reinvest24){: rel='sponsored nofollow noopener' }**. Det er ellers en rigtig fin platform, men der er ikke helt nok projekter, og [Evoestate](/go/evoestate/){: rel='sponsored nofollow noopener' } udbyder fx også nogle af ReInvest24’s projekter. Evoestate er godt tænkt, fordi de udbyder projekter fra forskellige platforme, så man kan få en bredere portefølje, men kun skulle følge med i en platform. [Evoestate](/go/evoestate/) er lovende, men har ikke så mange år på bagen endnu.
+Jeg trækker mig også ud af **[Reinvest24](/go/reinvest24/){: rel='sponsored nofollow noopener' }**. Det er ellers en rigtig fin platform, men der er ikke helt nok projekter, og [Evoestate](/go/evoestate/){: rel='sponsored nofollow noopener' } udbyder fx også nogle af ReInvest24’s projekter. Evoestate er godt tænkt, fordi de udbyder projekter fra forskellige platforme, så man kan få en bredere portefølje, men kun skulle følge med i en platform. [Evoestate](/go/evoestate/) er lovende, men har ikke så mange år på bagen endnu.
 
 **[Kuflink](/go/kuflink/){: rel='sponsored nofollow noopener' }** giver en relativ høj signup bonus, hvis du bliver på platformen i et år. Jeg har skrevet til dem, at det er lidt irriterende at det ikke er let at finde kontoens samlede værdi, når man logger ind. Men du har mulighed for at blive eksponeret mod det britiske ejendomsmarked på platformen både gennem direkte investering og autoinvest. Kuflink giver ikke huslejeindtægter, så jeg overvejer at trække mig ud af platformen.
 
@@ -98,7 +98,7 @@ Jeg er også på **[PropertyPartner](/go/propertypartner/){: rel='sponsored nofo
 
 Værdien på mine **[Funderbeam](/platform/funderbeam/){: rel='sponsored nofollow noopener' }** investeringer er gået op. Der har jeg bl.a. Investeret i danske [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }, hvor de har rejst penge til at forbedre deres software, så den kan sælges videre. Priserne på mine andele i de firmaer, jeg har investeret i på Funderbeam, er gået meget op og ned - og der er ikke så stor aktivitet på det sekundære marked. Men nu har jeg forsøgt at sætte mine andele til salg, så må jeg se, hvor likvidt det i virkeligheden er. Lige nu ser det ud til, at der er et ret højt spread mellem købs- og salgspris. Funderbeam er en platform, hvor du køber andele i startups, og der er relativt mange projekter og et sekundært marked.
 
-[Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' } og [Iuvo](/go/iuvo){: rel='sponsored nofollow noopener' } fungerer rigtig fint og minder lidt om [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }. Men da afkastet er mindre for mig har jeg stoppet autoinvest, fordi det tilbageværende beløb på de to platforme ikke er så højt. Jeg vil flytte pengene over på Mintos i stedet.
+[Lenndy](/go/lenndy/){: rel='sponsored nofollow noopener' } og [Iuvo](/go/iuvo/){: rel='sponsored nofollow noopener' } fungerer rigtig fint og minder lidt om [Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }. Men da afkastet er mindre for mig har jeg stoppet autoinvest, fordi det tilbageværende beløb på de to platforme ikke er så højt. Jeg vil flytte pengene over på Mintos i stedet.
 
 **[Flexfunding](/platform/flexfunding/)** har både jeg og min kæreste haft lidt spørgsmål til den aktuelle kontoværdi på platformen. Ingen af os har helt kunnet få den til at passe, så vi har været i kontakt med supporten. De fik fikset udfordringerne for min kæreste, men da jeg havde smidt alle transaktionerne på kontoen ind i Portfolio Performance passede tallene ikke helt med den aktuelle status på Flexfunding. Måske er der noget jeg har misforstået, men det er 10 dage siden, jeg spurgte supporten for at få opklaret forskellen. De har lovet at kigge på det, men er endnu ikke vendt tilbage. Jeg synes stadig heller ikke, at informationen om de nødlidende lån på selve platformen er god nok.
 

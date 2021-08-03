@@ -36,4 +36,4 @@ Jeg har skrevet en guide til indrapportering af [skat af dansk og udenlandsk cro
 
 Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
 
-[Invester i lån hos Lendino](/go/lendino){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
+[Invester i lån hos Lendino](/go/lendino/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }

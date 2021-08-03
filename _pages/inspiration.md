@@ -18,7 +18,7 @@ feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1543699565-003b8adda5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60
     alt: "Opsparing"
     title: "Opsparing"
-    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian){: rel='nofollow noopener' } til en opsparingskonto."
+    excerpt: "Til opsparing bruger jeg [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' } til at købe Bitcoins. Desuden bruger jeg [Norwegian](/go/norwegian/){: rel='nofollow noopener' } til en opsparingskonto."
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/416JeQSqokL._SX331_BO1,204,203,200_.jpg
     alt: "Early Retirement Extreme"

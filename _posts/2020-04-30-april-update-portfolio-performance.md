@@ -114,7 +114,7 @@ Jeg handler fortsat gennem [Kraken](/go/kraken/){: rel='sponsored nofollow noope
 
 Jeg har et **urealiseret tab på mine investeringer i kryptovaluta på -151.59 EUR**.
 
-[Få 10EUR til Bitcoins på Coinbase](/go/coinbase){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Få 10EUR til Bitcoins på Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Passiv indtægt
 

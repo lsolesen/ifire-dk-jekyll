@@ -123,7 +123,7 @@ Men jeg skal bruge flere konti, og jeg vil ikke betale for Premium-Lunar. Jeg ha
 
 {% include cta-redirect title="Lunar" class="success" %}
 
-Jeg havde i denne måned lidt udfordringer med mit [Curve](/go/curve){: rel='sponsored nofollow noopener' } kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
+Jeg havde i denne måned lidt udfordringer med mit [Curve](/go/curve/){: rel='sponsored nofollow noopener' } kort, som jeg ellers er ret glad for. Det havde problemer med deres infrastruktur, men da kortet jo bare er en overbygning på mine andre kort - og jeg ikke var i udlandet og havde brug for valutaveksling - så brugte jeg bare de underliggende betalingskort. Det var gode til at informere om problemerne, og på en dag havde de fikset ellers relativt betydelige udfordringer med deres infrastruktur.
 
 Du får fem EUR ved at bruge [mit link til at registrere dig hos Curve](/go/curve/){: rel='sponsored nofollow noopener' }.
 

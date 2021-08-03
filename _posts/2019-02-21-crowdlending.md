@@ -66,7 +66,7 @@ Jeg kan godt lide at have en strategi. Det gør det også lettere at tage beslut
 
 Følgende platforme er svære at komme uden om, når man kigger på ovenstående strategi.
 
-- **[Mintos](/go/mintos){: rel='sponsored nofollow noopener' }** Det er den største i Europa. Der er mulighed for stor divercificering, hvis du investerer i Euro, og deres sekundære marked fungerer rigtig godt, hvor du bl.a. Også kan bruge _auto invest_.
+- **[Mintos](/go/mintos/){: rel='sponsored nofollow noopener' }** Det er den største i Europa. Der er mulighed for stor divercificering, hvis du investerer i Euro, og deres sekundære marked fungerer rigtig godt, hvor du bl.a. Også kan bruge _auto invest_.
 - **[Bondora Go&Grow](/go/bondora/){: rel='sponsored nofollow noopener' }**. Med deres Go&Grow-koncept har du til en pæn rente på 6,75% høj likviditet, hvor du ret hurtigt kan få pengene ud igen.
 
 Jeg har oprettet profiler på en del platforme efterhånden, og [jeg deler mine erfaringer med de forskellige platforme løbende](/platforme/).
