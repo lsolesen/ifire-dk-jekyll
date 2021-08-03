@@ -1,5 +1,5 @@
 ---
-title: "Revolut - anmeldelse"
+title: &title "Revolut - anmeldelse"
 permalink: /revolut-anmeldelse/
 redirect_from:
   - /platform/revolut/
