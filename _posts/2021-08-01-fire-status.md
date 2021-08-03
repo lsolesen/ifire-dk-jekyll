@@ -12,8 +12,7 @@ category:
 tags:
   - FIRE
 excerpt: "Jeg laver her status på, hvordan det går med at blive FIRE. Lige nu koncentrerer jeg mig først og fremmest om at blive Coast FIRE."
-toc: true
-last_modified_at: 2021-08-02T10:22:02+02:00Z
+last_modified_at: 2021-08-02T10:22:02+02:00
 faq:
   - question: "Hvad er FIRE bevægelsen?"
     answer: "FIRE-bevægelsen er en forkortelse af _Financial Independence, Retire Early_. Det er et spørgsmål om at økonomisk uafhængig, så man kan gå på tidlig pension. Det er en livsstilsbevægelse, hvor de fleste går efter økonomisk frihed, så de ikke skal arbejde for penge, men fylde deres liv med alt hvad der giver dem mening."
