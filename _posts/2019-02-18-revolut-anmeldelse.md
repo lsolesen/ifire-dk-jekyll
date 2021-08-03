@@ -20,8 +20,9 @@ deal:
     title: *title
     excerpt: "Få et gratis betalingskort og gebyrfri valutaveksling med Revolut."
     url: /go/revolut/
-    btn_label: "Få Revolut*"
+    btn_label: "Få Revolut"
     btn_class: "btn--info"
+    rel: sponsored nofollow rel
 ---
 
 [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er et FinTech virksomhed fra Storbritannien. Du kan let oprette bankkonti i forskellige valutaer, du veksler penge mellem til bankernes kurs, du kan gratis lave udenlandske bankoverførsler, et _gratis_ virtuelt betalingskort og endelig kan du få et _gratis fysisk betalingskort_ (du skal betale portoen med mindre du bruger [mit link](/go/revolut/){: rel='sponsored nofollow noopener' }) og et virtuelt, som kan bruges til onlinehandel. Det hele styres fra en ret overskuelig app.
