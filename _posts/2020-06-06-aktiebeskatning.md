@@ -2,6 +2,7 @@
 title: "Skat af aktier - lagerbeskatning eller realisationsbeskatning?"
 seo_title: Aktiebeskatning - lagerbeskatning eller realisationsbeskatning?
 last_modified_at: 2020-03-17T09:20:02+02:00
+excerpt: "Man skal betale skat af det, man tjener på aktier. Jeg synes aktiebeskatning kan være lidt forvirrende, så jeg besluttede mig for at beskrive skat af aktier. Hvad er forskellen på lagerbeskatning og realisationsbeskatning og hvad aktieindkomst og kapitalindkomst er?"
 permalink: /skat-af-aktier/
 category:
   - Investering
@@ -25,7 +26,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Man skal betale skat af det, man tjener på aktier..Da jeg for alvor begyndte at investere i aktier kunne skatten godt være lidt forvirrende. Jeg synes aktiebeskatning kan være lidt forvirrende, så jeg besluttede mig for at beskrive forskellen på lagerbeskatning og realisationsbeskatning og senere kommer jeg ind på, hvad aktieindkomst og kapitalindkomst er.
+Man skal betale skat af det, man tjener på aktier. Jeg synes aktiebeskatning kan være lidt forvirrende, så jeg besluttede mig for at beskrive skat af aktier. Hvad er forskellen på lagerbeskatning og realisationsbeskatning og hvad aktieindkomst og kapitalindkomst er?
 
 **Skat af aktier kan opdeles i enten lagerbeskatning eller realisationsbeskatning alt efter i hvilken depottype, du investerer, og hvilke aktie-papirer, du har købt. Lagerbeskattede aktiefonde kan desuden beskattes som enten aktie- eller kapitalindkomst alt efter fondens opbygning.**
 
