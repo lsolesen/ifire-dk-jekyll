@@ -15,7 +15,7 @@ tags:
 excerpt: "Ved at oprette en Revolut-konto kan du spare vekselgebyrer, overførsler tild udlandet, og hævninger. Og det er helt gratis at oprette en konto."
 last_modified_at: 2019-05-30T15:20:02+02:00
 deal:
-  - image_path: *logo
+  - image_path: /assets/images/logo/revolut.png
     alt: *title
     title: *title
     excerpt: "Få et gratis betalingskort og gebyrfri valutaveksling med Revolut."
@@ -29,7 +29,7 @@ deal:
 
 Den største fordel med [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er, at man slipper for gebyrerne i forbindelse med overførsler, hævninger og valutaveksling.
 
-## Hvordan overfører jeg penge til [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }
+## Hvordan overfører jeg penge til [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }?
 
 Du kan overføre penge til [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } på to måder.
 
