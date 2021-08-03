@@ -6,7 +6,7 @@ header:
 tags:
   - investering
   - robot
-excerpt: "Nord.Investments er en investeringsrobot"
+excerpt: &excerpt "Nord.Investments er en investeringsrobot"
 last_modified_at: 2019-06-05T00:00:00+08:00
 deal:
   - image_path: *logo
