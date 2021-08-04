@@ -34,7 +34,7 @@ Totale værdi falder kraftigt i marts 2019, da jeg sælger min SparNord StjerneI
 
 {% include figure image_path="/assets/images/status/investeringer-allokering.jpg" caption="Allokering på de enkelte investeringsporteføljer" %}
 
-### Nordnet Danske Passive Investeringsforeninger - realisationsbeskattet 
+### Nordnet Danske Passive Investeringsforeninger - realisationsbeskattet
 
 Jeg har lavet en portefølje baseret på danske udbyttebetalende investeringsforeninger - og lige nu har jeg primært valgt SparInvest. Hvert år betales der skat af udbytterne i foreningerne, som beskattes som aktieindkomst. Aktieindkomst under 55.300 DKK (2020) beskattes med 27%, mens alt derover beskattes med 42%.
 
@@ -99,7 +99,7 @@ Jeg har valgt at bruge Nordnets indeksfonde, som har 0% i kurtage og 0% i årlig
 
 Man kan ikke længere indebetale penge på en kapitalpension. Der betales pensionafkastskat (PAL) på 15,3%, som trækkes efter lagerprincippet. Når pengene udbetales betales 40% af pensionsværdien. Pensionsudbetalingsalderen er 5 år før folkepensionsalderen for kapitalpensionen.
 
-Lige nu har jeg SparNord-aktier og en akkumulerende dansk investeringsforening der dækker MSCI World (udviklede lande). Jeg overvejer at omlægge til en akkumulerende, prisbillig ETF.
+Jeg har en akkumulerende dansk investeringsforening der dækker MSCI World (udviklede lande).
 
 ## Porteføljens performance
 

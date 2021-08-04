@@ -36,7 +36,7 @@ feature_row_opsparing:
 
 {% include disclosure.html %}
 
-Jeg har samlet min samlede portefølje på denne side. Den ændrer sig langsomt hele tiden, og du kan følge med i mine [mine månedsopdateringer](/opdateringer/), for alle mine tanker bag ved porteføljen.
+Jeg har samlet min samlede portefølje på denne side. Den ændrer sig langsomt hele tiden, og du kan følge med i mine [mine månedsopdateringer](/opdateringer/) for alle mine tanker bag ved porteføljen.
 
 Den samlede formue består af:
 
@@ -97,7 +97,7 @@ Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading 
 
 #### Nordnet: Aldersopsparing
 
-I aldersopsparingen har jeg satset på Nordnets nordiske fonde, da man kan handle dem gratis.
+I aldersopsparingen har jeg satset på Nordnets egne indeksfonde, da man kan handle dem gratis.
 
 <iframe src="https://www.shareville.se/widget/portfolio/404863/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
@@ -107,7 +107,7 @@ I aldersopsparingen har jeg satset på Nordnets nordiske fonde, da man kan handl
 
 #### Kapitalpension
 
-Min kapitalpension investeret i nogle [SparNord](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000CAOA&LanguageId=da-DK&SecurityToken=0P0000CAOA]3]0]E0WWE$$ALL)-aktier og [Danske Invest Global Indeks akkumulerende](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX) fond. Jeg overvejer at skifte til en ETF med lavere omkostninger.
+Min kapitalpension er investeret i [Danske Invest Global Indeks akkumulerende](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX) indeksfond, som har beskedne årlige omkostninger på 0,44%. Beløbet på min kapitalpension er ikke så stort, og der kan ikke tilføjes flere midler, så jeg har prioriteret at gøre det enkelt og have det hele stående i fonden fra Danske Invest. Jeg kunne også have valgt den akkumulerende fond fra Storebrand STIIAM.
 
 ### Investeringer i crowdlending
 
@@ -115,7 +115,7 @@ Jeg investerer i crowdlending, og jeg har lavet en opdeling af platformene alt e
 
 Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/crowdlending/).
 
-#### Samlet værdi
+#### Samlet værdi i corwdlending
 
 {% include figure image_path="/assets/images/status/p2p-value.jpg" caption="Samlede værdi af crowdlending"  %}
 
@@ -137,17 +137,17 @@ Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](
 
 ## Opsparing
 
-For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskellige banker. 
+For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskellige banker.
 
 ### Indlånskonto
 
-Jeg har en indlånskonto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }<del date="2020-01-01T09:16:18+02:00">, hvor jeg får 2% _cash back_ på de første 50.000, jeg har stående på kontoen.</del><ins  date="2020-01-01T09:16:18+02:00">Lunar giver ikke længere _cash back_, så jeg leder efter en ny konto, hvor der er renter på det første indskud.</ins>
+Jeg har en indlånskonto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 0,5% i rente på første 50.000, jeg har stående på kontoen.
 
 {% include cta-redirect title="Lunar" class="success" %}
 
 ### Opsparingskonto
 
-Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/){: rel='sponsored nofollow noopener' }, hvor jeg får 0,3% i rente.
+Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/){: rel='sponsored nofollow noopener' }, hvor jeg får 0,0% i rente. Lige nu har jeg ingen penge placeret her.
 
 ### Valutakonto
 
@@ -157,7 +157,7 @@ Jeg har en konto hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener'
 
 ### Guld og sølv
 
-Mange sparer op i fysisk guld og sølv. Det har jeg valgt ikke at gøre, men har inkluderet guld i min portefølje #2 med en ETF, der tracker guld og har sikkerhed i fysisk guld. 
+Mange sparer op i fysisk guld og sølv. Det har jeg valgt ikke at gøre, men har inkluderet guld i min portefølje #2 med en ETF, der tracker guld og har sikkerhed i fysisk guld.
 
 ### Cryptovaluta
 
@@ -165,9 +165,11 @@ Jeg har opbygget en portefølje med kryptovaluta. Du kan læse om mine planerne 
 
 {% include figure image_path="/assets/images/status/crypto-allocation.jpg" caption="Sammensætning af kryptovaluta-porteføljen" %}
 
-[Coinbase og få 66 DKK Bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Opret dig på Coinbase og få 66 DKK Bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 {% include feature_row id="feature_row_crypto" %}
+
+## Overblik over de enkelte investeringer
 
 <div class="feature__wrapper">
 
