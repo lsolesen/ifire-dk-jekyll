@@ -10,6 +10,16 @@ author_profile: true
 
 Passiv indkomst er at tjene penge mens du sover. Det er faktisk muligt, men det er ikke nødvendigvis let at få en indtægt.
 
+{% comment %}
+## Search intent
+Passiv indkomst: 25 ideer til passive indtægtskilder i 2021
+Passiv indkomst – Hvad er Passiv indkomst? – Læs mere her
+Passiv indkomst ⇒19 måder at blive rig med passiv indkomst ...
+Bliv rig med passiv indkomst ⇒ 17 effektive måder at opnå ..
+Passiv indkomst: 10 gode ideer til at booste din indkomst
+Passiv indkomst - 11 metoder til at opnå passiv indtægt [2021]
+{% endcomment %}
+
 Jeg har selv eksperimenteret en del med at skabe en passiv indtægt. Jeg har derfor også læst og undersøgt utrolig mange ting. Og det er desværre let at blive snydt, hvis du ikke passer lidt på. Tilbud om at tjene hurtige lette penge findes overalt på online.
 
 For at tjene penge mens du sover, så skal du bruge nogle ideer til passiv indkomst. Fælles for alle ideer for passiv indkomst er typisk at du enten skal **investere din tid eller dine penge**.

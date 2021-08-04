@@ -17,6 +17,27 @@ header:
 
 {{ page.excerpt }}
 
+{% comment %}
+## Search intent ...
+
+Crowdlending for begyndere ⇒ Find den bedste platform her 
+Hvad er crowdlending og peer to peer lån? - Lendino
+Crowdlending i Danmark - Find 5 platforme her | LendMe
+Crowdlending - hvad er det og hvem er det for? | Beierholm
+Lånebaseret crowdfunding – Crowdlending – Kameo
+Intro til crowdlending - Opheliainvest.dk
+Crowdlending (2021) - Det nye alternativ til obligationer - Min ...
+Crowdlending for begyndere - Kopier vores strategi [2021]
+Hvad er crowdlending? - Billy
+
+
+Er crowdlending sikkert?
+
+Hvad betyder crowdlending?
+
+Hvor skal jeg investere mine penge?
+{% endcomment %}
+
 ## Mine erfaringer med Crowdlending
 
 ### Juli
@@ -84,6 +105,8 @@ Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlendin
 {% endif %}
 
 </div>
+
+## Mine erfaringer med crowdlending
 
 ## Udvikling i værdi af crowdlending
 

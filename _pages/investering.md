@@ -42,6 +42,19 @@ feature_row_own:
 
 En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg. 
 
+{% comment %}
+
+## Search intent
+Investering: Sådan investerer du din opsparing ...
+Om at investere - Finans Danmark
+Investering af penge » Sådan kommer du i gang | Nordea
+Investering for begyndere [2021] - Lær at investere
+Investering: 100 kr. om måneden kan blive til en mindre formue
+Investering - optimer dit afkast hos Vestjysk Bank
+Investering – hvad er en investering? | e-conomic
+
+{% endcomment %}
+
 Investeringer kan være en af [mange ideer til at skabe passiv indkomst](/passiv-indkomst/). Du kan både investere tid, men du kan også investere penge. Og selvom du investerer penge, så kræver det også lidt tid.
 
 En investering kan være i mange ting, men her fokuserer jeg på investeringer i aktier og værdipapirer, crowdlending, metaller og kryptovaluta.

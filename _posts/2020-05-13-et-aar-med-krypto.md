@@ -3,6 +3,7 @@ title: "Status efter et år med opsparing i kryptovaluta"
 permalink: /crypto-1-aar/
 category:
   - Opsparing
+  - Opdateringer
 tags:
   - bitcoin
   - block chain
@@ -87,14 +88,12 @@ I starten brugte jeg [CoinTracking.info](/go/cointracking/){: rel='sponsored nof
 
 ## Hvad er dine overvejelser?
 
-Hvis du kan lide hvad du læser, eller bare vil øve dig i at sende bitcoins, så er du velkommen til at sende nogen til `{{ site.bitcoin_address }}` eller bruge et af mine links i artiklen. 
+Hvis du kan lide hvad du læser, eller bare vil øve dig i at sende bitcoins, så er du velkommen til at sende nogen til `{{ site.bitcoin_address }}` eller bruge et af mine links i artiklen.
+
+Husk også at læse vores [guide til kryptovaluta](/kryptovaluta/), [Bitcoins](/bitcoins/) og [Ethereum](/ethereum/).
+
+## Investeringsløsninger
 
 {% include feature_row id="feature_row_solutions" %}
-
-<!-- Ezoic - incontent_12 - incontent_12 -->
-<div id="ezoic-pub-ad-placeholder-115">
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
-</div>
-<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 {% include disclaimer.md %}

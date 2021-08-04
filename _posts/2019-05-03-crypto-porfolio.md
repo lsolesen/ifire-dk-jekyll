@@ -5,6 +5,7 @@ redirect_from:
   - /crypto-portfolio/
 category:
   - Opsparing
+  - Opdateringer
 tags:
   - bitcoin
   - block chain
@@ -29,7 +30,9 @@ feature_row_solutions:
     excerpt: "[Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 ---
 
-Kryptovaluta et meget volatilt marked. Med min risikoprofil kommer kryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også [tidligere har skrevet](/bitcoins/).
+Kryptovaluta et meget volatilt marked. Med min risikoprofil kommer kryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også tidligere har skrevet om i mit indlæg om [Bitcoins](/bitcoins/).
+
+Hvis du er nybegynder i denne verden, så anbefaler jeg, at du først læser vores [begynderguide til kryptovaluta](/kryptovaluta/).
 
 ## Hvordan sammensætter man en portefølje?
 
@@ -69,7 +72,7 @@ Jeg var først interesseret i _Tether (USDT)_, som er den største, men de har h
 Så blev jeg interesseret i **MakerDAOs DAI (DAI)**, som er en ERC20 _stable coin_, hvor man kan veksle den til hvad der svarer til 1$ Ethereum. MakerDAO har endda dansk islæt. Mønten er desværre ikke så gammel endnu, og den har som de førnævnte ikke opbakning fra FIAT-penge på en bankbog. Til gengæld er det hele transperant i _block chainen_, hvilket ikke kan siges om især Tether. Men MakerDAOs DAI kan jeg heller ikke finde på hverken CoinBase, Kraken eller Binance.
 {: .notice--info}
 
-Uphold har også lavet en _stable coin_, som knytter sig til EUR (UPEUR). Den kan også være interessant, hvis jeg vil holde noget kryptovaluta på den platform for at få renter ved at låne dem ud gennem **Cred**. Desværre er der på Uphold et ret anseeligt hævegebyr, hvis jeg gerne vil have pengene ud fra platformen igen uanset om det er som krypto eller som FIAT. Dog er Ripple (XRP) gratis at overflytte. Internt på Uphold er der desværre et [anseeligt vekselgebyr mellem de forskellige valutaer](https://uphold.com/en/pricing). Jeg glæder mig til for alvor at se, hvordan platformen virker for mig.
+Uphold har også lavet en _stable coin_, som knytter sig til EUR (UPEUR). <del>Den kan også være interessant, hvis jeg vil holde noget kryptovaluta på den platform for at få renter ved at låne dem ud gennem **Cred**</del><ins>Cred er gået konkurs. Du skal virkelig passe på *scams* i krypto-verden</ins>. Desværre er der på Uphold et ret anseeligt hævegebyr, hvis jeg gerne vil have pengene ud fra platformen igen uanset om det er som krypto eller som FIAT. Dog er Ripple (XRP) gratis at overflytte. Internt på Uphold er der desværre et [anseeligt vekselgebyr mellem de forskellige valutaer](https://uphold.com/en/pricing). Jeg glæder mig til for alvor at se, hvordan platformen virker for mig.
 
 ## Andre mønter
 
@@ -88,12 +91,6 @@ Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, 
 
 [Køb en hardware wallet hos Ledger](/go/ledger/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
-<!-- Ezoic - incontent_12 - incontent_12 -->
-<div id="ezoic-pub-ad-placeholder-111">
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
-</div>
-<!-- End Ezoic - incontent_12 - incontent_12 -->
-
 ## Hvordan køber jeg min kryptovaluta?
 
 Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Binance](/go/binance/){: rel='sponsored nofollow noopener' } ligger transaktionsgebyret på omkring 3,75%. 
@@ -108,7 +105,7 @@ På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe B
 
 For at holde lidt styr på, hvilke priser jeg køber kryptovaluta til, så bruger jeg [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' }. På den måde kan jeg holde øje med, hvad jeg gennemsnitligt køber valutaen til - og på den måde kan jeg sørge for, at jeg ikke sælger dem igen med tab. Som sagt så køber jeg ind som opsparing, så mine planer er ikke umiddelbart at sælge min kryptovaluta igen. Ved at holde lidt styr på indkøbene har jeg imidlertid et mere informeret udgangspunkt.
 
-Hvus du skriver dig op til PRO-udgaven af [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' } (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
+Hvis du skriver dig op til PRO-udgaven af [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' } (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
 
 [Se mit krypto-portefølje på CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
@@ -143,12 +140,6 @@ Jeg er gået i gang med at opbygge min portefølje i kryptovaluta. Jeg køber op
 | Cred (LBA)            | Uphold  | Uphold                 | For at få maksimale renter |
 
 Hvis du vil støtte sitet kan du sende lidt bitcoins til `{{ site.bitcoin_address }}` eller du kan oprette en konto på [Coinbase og få for 10$ Bitcoins](/go/coinbase/){: rel='sponsored nofollow noopener' } eller gå i gang med at [mine lidt coins på Minergate](/go/minergate/){: rel='sponsored nofollow noopener' }. Uanset hvad du gør, så tænk dig om.
-
-<!-- Ezoic - incontent_12 - incontent_12 -->
-<div id="ezoic-pub-ad-placeholder-115">
-[![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
-</div>
-<!-- End Ezoic - incontent_12 - incontent_12 -->
 
 {% include feature_row id="feature_row_solutions" %}
 

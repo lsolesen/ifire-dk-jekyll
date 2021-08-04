@@ -22,6 +22,17 @@ feature_row_own:
 
 Aktier og værdipapirer er en meget populær måde at investere på. Hvis du penge til overs, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier, investeringsforeninger, ETF'er og fonde. 
 
+{% comment %}
+Køb aktier for begyndere [2021] - Lær at handle med aktier
+Få ekspertens 9 bedste råd til at investere i aktier - ALT.dk
+Investering i aktier [2021] - stor guide til aktiehandel! - Invested 
+Investering: 100 kr. om måneden kan blive til en mindre formue
+Investering i aktier | Sådan kommer du i gang med ... - Mybanker
+Investering i aktier og obligationer - Finans Danmark
+
+***
+{% endcomment %}
+
 At investere i aktier, obligationer og værdipapirer er altså bare en måde, du kan [lave investeringer](/investering/) på. Jeg forsøger selv at minimere min risiko ved at følge verdensmarkedet gennem passiv indeksfonde og ETF'er.
 
 ## Investering i aktier for begyndere
