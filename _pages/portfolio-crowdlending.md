@@ -17,6 +17,7 @@ header:
 
 {{ page.excerpt }}
 
+{% comment %}
 ## Search intent ...
 
 Crowdlending for begyndere ⇒ Find den bedste platform her 
@@ -35,7 +36,7 @@ Er crowdlending sikkert?
 Hvad betyder crowdlending?
 
 Hvor skal jeg investere mine penge?
-
+{% endcomment %}
 
 ## Mine erfaringer med Crowdlending
 
