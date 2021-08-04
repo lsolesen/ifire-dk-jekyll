@@ -89,7 +89,7 @@ Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, 
 [Køb en hardware wallet hos Ledger](/go/ledger/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
 
 <!-- Ezoic - incontent_12 - incontent_12 -->
-<div id="ezoic-pub-ad-placeholder-111">
+<div id="ezoic-pub-ad-placeholder-111" markdown="1">
 [![Ledger Nano S - The secure hardware wallet](https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg)](https://www.ledger.com?r=de519d442b1f)
 </div>
 <!-- End Ezoic - incontent_12 - incontent_12 -->
@@ -108,7 +108,7 @@ På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe B
 
 For at holde lidt styr på, hvilke priser jeg køber kryptovaluta til, så bruger jeg [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' }. På den måde kan jeg holde øje med, hvad jeg gennemsnitligt køber valutaen til - og på den måde kan jeg sørge for, at jeg ikke sælger dem igen med tab. Som sagt så køber jeg ind som opsparing, så mine planer er ikke umiddelbart at sælge min kryptovaluta igen. Ved at holde lidt styr på indkøbene har jeg imidlertid et mere informeret udgangspunkt.
 
-Hvus du skriver dig op til PRO-udgaven af [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' } (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
+Hvis du skriver dig op til PRO-udgaven af [CoinTracking.info](/go/cointracking/){: rel='sponsored nofollow noopener' } (få 10% rabat med dette link), kan du få automatisk import. Jeg køber og sælger ikke så meget, så jeg har bare valgt at bruge den gratis udgave og manuelt indskrive mine handler.
 
 [Se mit krypto-portefølje på CoinTracking.info](https://cointracking.info/portfolio/42c79ce836c8bff70bc4){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
