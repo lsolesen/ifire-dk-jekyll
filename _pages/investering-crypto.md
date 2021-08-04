@@ -98,6 +98,10 @@ Før du kan komme i gang med at lave en **investering i kryptovaluta**, skal du 
 
 {% include disclosure.html %}
 
+## Hvad er kryptovaluta?
+
+Kryptovaluta er en digital valuta, som du kan bruge som middel til udveksling af tjenester eller ydelser på baggrund af kryptografi.
+
 ## Risiko ved investering i kryptovaluta
 
 I artiklen [4 Types of Coins to Diversify Your Crypto Portfolio & Manage Risks](https://masterthecrypto.com/4-types-of-coins-to-diversify-your-crypto-portfolio-manage-risks/) kan du læse mere om risiko ved investering i kryptovaluta.
