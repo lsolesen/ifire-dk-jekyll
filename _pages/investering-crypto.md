@@ -134,6 +134,8 @@ Bitcoins er den ældste og mest kendte kryptovaluta. Jeg har skrevet en komplet 
 
 **Bitcoin (BTC)** var den første kryptovaluta. Der er 21 millioner Bitcoins, og der vil aldrig blive flere Bitcoins end det. Bitcoins er meget udbredte, let solgt, købt og handlet for alternative valutaer. Bitcoins er rigtig god til at opbevare værdi ligesom guld. Dog er kursen meget mere volatil, og mange investerer også i Bitcoins for at øge værdien af deres portefølje. Vær opmærksom på, at værdien også meget hurtigt kan dale, men det er udgangspunktet for alle kryptovalutaer.
 
+{% include figure image_path="https://images.unsplash.com/photo-1619942243797-0fd4e05f1702?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=856&q=80" alt="Bitcoin mønt" %}
+
 ## The most popular: Ethereum (ETH)
 
 Den mest populære _coin_ er **Ethereum (ETH)**. Jeg har skrevet mere om [Ethererum sammenlignet med Bitcoins her](/ethereum/). Det er den mest aktivt udviklede _blockchain_. Ethereum bliver ligesom Bitcoin brugt som en _basisvaluta_, da den er noget hurtigere end Bitcoin. Og desto flere projekter, der bygger på Ethereums blockchain, desto større vil efterspørgslen efter Ethereum være - og så vil prisen alt andet lige stige.
