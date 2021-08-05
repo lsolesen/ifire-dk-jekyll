@@ -80,20 +80,44 @@ Men crowdlending er ikke for for alle. Så for at få den bedste crowdlending, s
 
 Det er ikke længere kun bankerne, der låner penge ud. Det er der også mange andre platforme, der gør, og du kan være med til at låne dine penge ud.
 
-## Crowdlending for begyndere
+Grundlæggende er crowdlending udlån af penge, hvor flere investorer går sammen om at finansiere et lån. De kan foregå på digitale online platform, som administrer indbetalinger, udbetalinger og rentetilskrivninger. Mange investerer i crowdlending for at få renteindtægter, men du kan også have et velgørende formål med din investering.
+
+## Crowdlending platforme for begyndere
 
 Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
 
+Derfor skal du lave noget research for at finde de bedste. Når du laver research skal du vide, at de fleste platforme laver deres markedsføring via _affiliate_- eller _referral_-marketing. Jeg har også aftaler med platformene.
+
+I praksis betyder det, at hvis du klikker på et link i langt de fleste anmeldelser, så tjener skribenten en lille kommision samtidig med, at du typisk også får nogle fordele. Men når markedsføring foregår på denne måde, så har anmelderen et økonomisk incitament til at anbefale platformen. Vær derfor skeptisk, når du læser anmeldelser og **den bedste crowdlending** platform.
+
+Platformene er enten selv _loan originators_ eller også er de en markedsplads for låneudbydere. Fx er danske [Lendino](/platform/lendino/) både låneudbyder og platform, mens [Mintos](/platform/mintos/) er Europas største markedsplads for lån med rigtig mange låneudbydere tilknyttet.
 
 ## Hvad er fordelene ved crowdlending?
+
+Der er flere gode grunde til, hvorfor man skal investere i crowdlending. Det er ret let at forstå, at når man låner sine penge ud, så får man renter. Og renterne udbetales løbende, så du har en [passiv indkomst](/passiv-indkomst/).
+
+- **Du bliver selv bank**. Du kan køre din egen bankforretning og udlåne penge til virksomheder og mennesker, der ikke kan få ordentlige lån i banken. Fx kan du støtte bestemte projekter.
+- **Højt afkast**. Du kan få et relativt højt afkast gennem crowdlending. Husk dog at være skeptisk over for nogle af de udsædvanligt høje afkast, der loves særligt på østeuropæiske platforme.
+- **Stabilt afkast**. Renter tilskrives på de fleste platforme månedligt efter faste rentesatser. Derved er afkastet meget mere stabilt end på aktiemarkedet (i hvert fald når lånene betales tilbage).
+- **Passiv indkomst**. Du udlåner dine penge, men til gengæld får du en passiv indkomst. Det er herligt, når man ser ens opsparing vokse måned efter måned.
 
 ## Hvad er risikoen og sikkerheden i crowdlending?
 
 Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlending. Crowdlending-platforme kan gå konkurs, og dine lån kan blive misligholdt.
 
+- **Manglende afdrag**. Lån kan komme i restance, hvis låntagerne ikke kan betale tilbage. Låntagerne kan gå konkurs, så de ikke kan betale tilbage, eller også vil de bare ikke betale tilbage. Uanset hvad så forsøger platformen naturligvis at få pengene tilbage, men det er ikke altid muligt.
+- **Platformens konkurs**. En platform kan også gå konkurs. Hvis platformen også er låneudbyderen, så er dine penge tabt. Det er sket flere gange.
+- **Svindel**. En platform kan også vise sig at være svindel. Crowdlending blev meget hurtigt meget populært. Markedsføringsmetoderne for alle platforme har ofte været at udlove bonus, hvis du kan skaffe nye kunder. Det betyder, at der kommer en del likviditet ind i virksomhederne hurtigt, og de første investorer tjener godt. Men pludselig lukker det hele ned, ejerne løber og ingen af investorerne får deres penge. Det er fx sket med Envestio.
+- **Recession**. Hvis der er lavkonkunktur, så vil andelen af lån, der ikke bliver betalt tilbage (til tiden) også stige. Det skete fx her under Corona-epidemien, hvor folk samtidig begyndte at trække deres penge ud. Platformene havde så pludselig ikke nok likviditet til at udbetale pengene øjeblikkeligt.
+- **Skat**. Du skal være opmærksom på, at hvis du investerer i udenlandske crowdlendingplatforme, så skal du selv sørge for at indberette skat. Det kommer jeg tilbage til senere.
+
 [Læs mere om crowdlending risiko]({% link _posts/2020-02-09-crowdlending-rebalancering.md %})
 
 ## Er crowdlending sikkert?
+
+Investering i crowdlending er ikke sikkert! Det er investeringer med relativt høj risiko. Hvis du kan vælge de rigtige platforme, så får du en løbende renteindtægt, som kan komme næsten op på samme afkast som aktier historisk har givet.
+
+Det betyder altså, at du også bliver betalt for din risiko.
 
 ## Hvilke lånetyper findes der?
 
@@ -106,18 +130,45 @@ Lad os kigge på de lånetyper i crowdlending, du kan vælge imellem.
 - **Forbrugslån**
 - **Billån**
 - **Virksomhedslån**
+- **Sikkerhed i fast ejendom**
+- **Fakturabelåning**
+
+Når du vælger at investere i crowdlending-lån, så skal du altså lave en risikovurdering. Alle lån kan risikere ikke at blive betalt tilbage. Typisk kreditvurderer platformen de enkelte lån eller låneudbyderen. Men det er ikke nogen komplet sikkerhed - og husk at det er dine billeder.
+
+Kig også på hvilke afdragsmetoder lånene skal betales tilbage efter.
+
+- **Annuitetslån**
+- **Stående lån**
+
+Selv sørger jeg for at investere bredt både i lånetyper, men også i forskellige afdragsmetoder.
 
 ## Vælg din investeringsstrategi!
 
+Det er en god ide at få skrevet din strategi ned for, hvordan du vil investere i crowdlending. Så bliver du ikke for fristet af de rigtige gode tilbud, der findes i denne verden.
+
+- **Hvorfor investere i crowdlending**. Hvad er dit mål med at investere i crowdlending? Det er vigtigt at vide.
+- **Kortsigtet eller langsigtet**. Hvor lange løbetider skal lånene have, som du investerer i? Hvordan passer den med din tidshorisont?
+- **Hvor meget vil du investere?** Hvor stor en del af din samlede investeringsportefølje skal crowdlending fylde? For at minimere risikoen er det fornuftigt at sprede sine investeringer på flere forskellige aktiv-klasser.
+- **Passiv eller aktiv tilgang**. Du kan bruge _auto invest_ til at investere nogenlunde passivt i lån, fx på Mintos, men du kan også manuelt sidde og købe og sælge lån og læse detaljer på de forskellige platforme. Vælg hvor meget tid, du vil bruge på at investere?
+- **Hvilken risikoprofil har du?** Høje afkast er typisk den risikopræmie, låntagerne må betale, hvis lånene er lidt risikable. Går du efter de høje afkast og den høje risiko, eller vil du gerne have lavere risiko ved at satse lidt mere på lån med lavere renter.
+
+Skriv din strategi ned. Den behøver ikke fylde meget mere end en Post-It.
+
+{% include figure image_path="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80" %}
+
+{% comment %}
+
 ## Hvordan kan du minimere risikoen ved crowdlending?
+
+
 
 ## Hvordan beregner jeg afkastet?
 
-
+{% endcomment %}
 
 ## Udvikling i værdi af crowdlending
 
-Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg ogås har været ramt af. Crowdlending er en højrisiko investeringsform.
+Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg også har været ramt af. Crowdlending er en højrisiko investeringsform.
 
 ## Hvordan får jeg pengene ud igen?
 
@@ -127,17 +178,17 @@ Du bliver beskattet af renterne, du tjener på crowdlending. Du skal være opmæ
 
 Du kan også fratrække tab, men vær opmærksom på, at der er en bagatelgrænse og krav til dokumentation, når du skal fratrække tab på crowdlending.
 
+Du skal også være opmærksom på, at nogle lande opkræver kildeskat af renterne. Det gælder i Europa Spanien og Litauen, hvilket kan gøre skatteopgørelsen lidt mere indviklet.
+
 Jeg har skrevet en [guide til hvordan du indberetter indtægter fra crowdlending til Skat](/skat-af-dansk-udenlandsk-crowdlending/).
 
-
-
 ## Hvad er den bedste crowdlending?
+
+Det er umuligt at sige, hvad den bedste crowdlending er for dig. Du kan vælge danske platforme eller nogle af de udenlandske platforme. Du kan lade dig inspirere lidt af mine erfaringer med crowdlending.
 
 ## Crowdlending i Danmark
 
 Der findes også nogle [crowdlendingplatforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}). Fordelene ved de danske platforme er, at de er mere regulerede end de udenlandske muligheder for at investere i crowdlending. Jeg har investeret i flere af dem, og du kan læse mere om alle mine erfaringer med platformene.
-
-
 
 ## Mine erfaringer med crowdlending
 
