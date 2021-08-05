@@ -136,7 +136,7 @@ Lad os dykke ned i en ultrakort beskrivelse af nogle af de populære kryptovalut
 
 Bitcoins er den ældste og mest kendte kryptovaluta. Jeg har skrevet en komplet [guide til, hvad Bitcoins er](/bitcoins/) her.
 
-**Bitcoin (BTC)** var den første kryptovaluta. Der er 21 millioner Bitcoins, og der vil aldrig blive flere Bitcoins end det. Bitcoins er meget udbredte, let solgt, købt og handlet for alternative valutaer. Bitcoins er rigtig god til at opbevare værdi ligesom guld. Dog er kursen meget mere volatil, og mange investerer også i Bitcoins for at øge værdien af deres portefølje. Vær opmærksom på, at værdien også meget hurtigt kan dale, men det er udgangspunktet for alle kryptovalutaer.
+**Bitcoin (BTC)** var den første kryptovaluta, som blev opfundet af [Satoshi Nakamoto](/satoshi-nakamoto/). Der er 21 millioner Bitcoins, og der vil aldrig blive flere Bitcoins end det. Bitcoins er meget udbredte, let solgt, købt og handlet for alternative valutaer. Bitcoins er rigtig god til at opbevare værdi ligesom guld. Dog er kursen meget mere volatil, og mange investerer også i Bitcoins for at øge værdien af deres portefølje. Vær opmærksom på, at værdien også meget hurtigt kan dale, men det er udgangspunktet for alle kryptovalutaer.
 
 {% include figure image_path="https://images.unsplash.com/photo-1619942243797-0fd4e05f1702?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=856&q=80" alt="Bitcoin mønt" %}
 
