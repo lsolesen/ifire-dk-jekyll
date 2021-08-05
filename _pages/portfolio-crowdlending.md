@@ -59,7 +59,7 @@ Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaring
 
 Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
 
-Læs mere om [crowdlending i min begynderguide]({% link _pages/investering.crowdlending.md %}).
+Læs mere om [crowdlending i min begynderguide]({% link _pages/investering-crowdlending.md %}).
 
 ## Crowdlending i Danmark
 

@@ -70,7 +70,7 @@ Jeg har selv crowdlending som en større del af min samlede portefølje, og jeg 
 
 Men crowdlending er ikke for for alle. Så for at få den bedste crowdlending, skal du vide mere om, hvordan du vurderer risiko og sikkerhed på det enkelte crowdlending-platforme. Denne begynderguide til crowdlending skulle gerne hjælpe dig i den rigtige retning.
 
-{% include figure image_path="https://s3-eu-west-1.amazonaws.com/dk.lendino.public/images/moneyflow.png" caption="Lendino forklarer i denne figure meget godt, havd crowdlending er. Kilde: [Lendino](/go/lendino/){: rel="sponsored nofollow noopener" }" %}
+{% include figure image_path="https://s3-eu-west-1.amazonaws.com/dk.lendino.public/images/moneyflow.png" caption="Lendino forklarer i denne figure meget godt, havd crowdlending er. Kilde: [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }" %}
 
 ## Hvad er crowdlending?
 
@@ -156,21 +156,33 @@ Skriv din strategi ned. Den behøver ikke fylde meget mere end en Post-It.
 
 {% include figure image_path="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80" %}
 
-{% comment %}
-
 ## Hvordan kan du minimere risikoen ved crowdlending?
 
+Du kan minimere risikoen ved crowdlending med sund fornuft. Ved alle investeringer gælder det, at du aldrig må investere penge, som du ikke kan tåle at tabe. Men derfor investerer de fleste af os jo med det håb, at vores penge bliver mere værd og ikke mindre værd.
 
+Lad os kigge på, hvordan du kan kan mindske risikoen.
+
+- **Diversificering**. Hvis du har en bred portefølje, så er din risiko mindre, hvis der skulle ske noget. Det giver mening at være på flere platforme, bruge flere låneudbydere, investere i lån i flere lande, bruge forskellige lånetyper og måske endda i forskellige valutaer. På den måde er du beskyttet lidt med hændelser, der kun rammer dele af det samlede lånemarked.
+- **Vær skeptisk**. Du skal som tidligere skrevet både være skeptisk over for _høje renter_. Hvis renterne er urealistisk høje, så er det sikkert for at lokke til investeringer i noget meget risikofyldt. Du skal også være skeptisk overfor _anmeldelser_, som jeg tidligere har skrevet.
+- **Brug lån med sikkerhed**. Hvis lånene fx har sikkerhed i ejendom, eller låntagerne stiller sikkerhed på andre måder, hvis deres betalingsevne skulle falde. Det kan forbedre mulighederne for at lånet i sidste ende kan betales tilbage.
+- **Følg din strategi**. Nogle platforme tilbyder _cash back_ for at få dig til at låne flere penge ud. Fx er der typisk forskellige satser, hvor du kan få en højere rente, hvis du investerer mere end det. Men husk at din **strategi er vigtigere end cash back**.
+- **Overmodighed og grådighed**. Som investor er det utrolig let at blive overmodig, fordi det lige er spændende at prøve noget nyt af, eller man virkelig gerne lige vil investere i det her.
+
+## Typiske fejl i crowdlending
+
+Jeg har beskrevet nogle af de typiske fejl, jeg har begået i crowdlending. Måske kan du undgå nogle af mine [fejl i crowdlending]({% link _posts/2019-02-21-crowdlending.md %}).
+
+{% comment %}
 
 ## Hvordan beregner jeg afkastet?
+
+## Hvordan får jeg pengene ud igen?
 
 {% endcomment %}
 
 ## Udvikling i værdi af crowdlending
 
 Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg også har været ramt af. Crowdlending er en højrisiko investeringsform.
-
-## Hvordan får jeg pengene ud igen?
 
 ## Crowdlending og skat
 
