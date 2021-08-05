@@ -32,7 +32,7 @@ Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange god
 {% comment %}
 ## Search intent ...
 
-Crowdlending for begyndere ⇒ Find den bedste platform her 
+Crowdlending for begyndere ⇒ Find den bedste platform her
 Hvad er crowdlending og peer to peer lån? - Lendino
 Crowdlending i Danmark - Find 5 platforme her | LendMe
 Crowdlending - hvad er det og hvem er det for? | Beierholm
@@ -96,6 +96,16 @@ Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlendin
 ## Er crowdlending sikkert?
 
 ## Hvilke lånetyper findes der?
+
+Investering i crowdlending kan ske i mange forskellige lånetyper. De valgte lånetyper har stor betydning for din risiko og afkast.
+
+Hvilke lånetyper du vælger afhænger af din risikoprofil. Fx kan du investere i højt forrentede forbrugslån, eller du kan vælge længerevarende lån med lavere grænser.
+
+Lad os kigge på de lånetyper i crowdlending, du kan vælge imellem.
+
+- **Forbrugslån**
+- **Billån**
+- **Virksomhedslån**
 
 ## Vælg din investeringsstrategi!
 
