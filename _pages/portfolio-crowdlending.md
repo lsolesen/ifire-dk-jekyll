@@ -1,7 +1,7 @@
 ---
 layout: single
-title: &title Crowdlending, crowdfunding og P2P-investeringer siden 2017
-permalink: /crowdlending/
+title: &title Mine erfaringer med crowdlending siden 2017
+permalink: /mine-investeringer/kryptovaluta/
 excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
 author_profile: true
 toc: true
@@ -16,27 +16,6 @@ header:
 ---
 
 {{ page.excerpt }}
-
-{% comment %}
-## Search intent ...
-
-Crowdlending for begyndere ⇒ Find den bedste platform her 
-Hvad er crowdlending og peer to peer lån? - Lendino
-Crowdlending i Danmark - Find 5 platforme her | LendMe
-Crowdlending - hvad er det og hvem er det for? | Beierholm
-Lånebaseret crowdfunding – Crowdlending – Kameo
-Intro til crowdlending - Opheliainvest.dk
-Crowdlending (2021) - Det nye alternativ til obligationer - Min ...
-Crowdlending for begyndere - Kopier vores strategi [2021]
-Hvad er crowdlending? - Billy
-
-
-Er crowdlending sikkert?
-
-Hvad betyder crowdlending?
-
-Hvor skal jeg investere mine penge?
-{% endcomment %}
 
 ## Mine erfaringer med Crowdlending
 
@@ -80,7 +59,7 @@ Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaring
 
 Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
 
-Læs mere om [crowdlending i min begynderguide]({% link _posts/2019-02-21-crowdlending.md %}).
+Læs mere om [crowdlending i min begynderguide]({% link _pages/investering-crowdlending.md %}).
 
 ## Crowdlending i Danmark
 
@@ -107,8 +86,6 @@ Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlendin
 </div>
 
 ## Mine erfaringer med crowdlending
-
-## Udvikling i værdi af crowdlending
 
 Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg ogås har været ramt af. Crowdlending er en højrisiko investeringsform.
 {: .notice .notice--info }
