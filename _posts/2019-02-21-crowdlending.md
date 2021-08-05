@@ -10,6 +10,7 @@ redirect_from:
 permalink: /begynderguide-crowdlending/
 category:
   - Investering
+  - Opdateringer
 tags:
   - investering
   - crowdlending
