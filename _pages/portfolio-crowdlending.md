@@ -1,7 +1,7 @@
 ---
 layout: single
-title: &title Crowdlending, crowdfunding og P2P-investeringer siden 2017
-permalink: /crowdlending/
+title: &title Mine erfaringer med crowdlending siden 2017
+permalink: /mine-investeringer/kryptovaluta/
 excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
 author_profile: true
 toc: true

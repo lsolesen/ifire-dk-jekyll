@@ -94,7 +94,7 @@ Ellers er jeg stadig ret aktiv på alle platforme. Jeg har trukket nogle penge u
 
 ### Hvornår begynder man at tjene på crowdlending
 
-For et stykke tid siden stillede jeg spørgsmålet: ["Hvornår begynder man at tjene penge på crowdlending?"](/begynderguide-crowdlending/)
+For et stykke tid siden stillede jeg spørgsmålet: ["Hvornår begynder man at tjene penge på crowdlending?"]({% link _posts/2019-02-21-crowdlending.md %})
 
 Den almindelige crowdlending er platformenes interne rente ved at stabilisere sig for de flestes vedkommende efter fire-fem måneder:
 
