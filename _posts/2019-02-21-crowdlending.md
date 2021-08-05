@@ -1,13 +1,7 @@
 ---
-title: "Crowdlending: Kom i gang med passiv indkomst [Guide]"
-seo_title: "Crowdlending for begyndere 2021 • Læs før du investerer »"
-description: "Crowdlending lokker med gode renter, men der er mange faldgruber du skal være opmærksom på inden du investerer. Læs først denne begynderguide!"
-excerpt: "Crowdlending lokker med gode renter, men hvornår begynder du faktisk at få god tilbagebetaling? Kan crowdlending overhovedet anbefales til investeringer. Læs dette før du investerer."
-redirect_from:
-  - /investering/hvornaar-crowdlending/
-  - /kom-i-gang-med-crowdlending/
-  - /investering/hvor-meget-crowdlending-pr-platform/
-permalink: /begynderguide-crowdlending/
+title: "Crowdlending opdateringer: Spar dig for mine fejl"
+excerpt: "Crowdlending lokker med gode renter, men hvornår begynder du faktisk at få god tilbagebetaling? Læs og lær af mine fejl før du investerer."
+permalink: /crowdlending-opdatering/
 category:
   - Investering
   - Opdateringer
