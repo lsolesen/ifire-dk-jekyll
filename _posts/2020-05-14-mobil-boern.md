@@ -23,11 +23,15 @@ gallery:
   - alt: CBB Mobl
     title: CBB Mobil
     url: https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625829&media_id=81507
-    image_path: https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625829&media_id=81507
+    image_path: https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=2045343&media_id=81507
   - alt: Oister
     title: Oister
     url: https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625831&media_id=81507
-    image_path: https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625831&media_id=81507
+    image_path: https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=2045342&media_id=90735
+  - alt: Lebara
+    title: Lebara
+    url: https://online.adservicemedia.dk/cgi-bin/click.pl?bid=2045344&media_id=81507
+    image_path: https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=2045344&media_id=81507
 ---
 
 {% include disclosure.html %}
@@ -40,62 +44,23 @@ Jeg er ret ambivalent ved det. Egentlig ville jeg hellere have, at hun undværed
 
 Det var en god anledning til at tjekke priser på mobilabonnementer. Selvfølgelig til børnene, men også lige kigge mit eget abonnement efter i sømmene. Først kiggede jeg på mit samlede forbrug på mit nuværende abonnement. Det har det seneste år ikke været over 6 GB på noget tidspunkt - og typisk er det under 2 GB med enkelte afstikkere. Det er jo et godt udgangspunkt at kende.
 
-Først klikkede jeg dog lige ind på [mobilsparer.dk](https://www.mobilsparer.dk/){: rel='sponsored nofollow noopener' } for at tjekke prisen på mit nuværende abonnement - og jeg fik det glædelige svar.
+Først klikkede jeg dog lige ind på [mobilsparer.dk](https://www.mobilsparer.dk/){: rel='nofollow noopener' } for at tjekke prisen på mit nuværende abonnement - og jeg fik det glædelige svar.
 
-{% include figure image_path="/assets/images/posts/mobilsparer.png" caption="[Mobilsparer](https://www.mobilsparer.dk/){: rel='sponsored nofollow noopener' } godkender prisen på mit nuværende abonnement fra Callme" %}
+{% include figure image_path="/assets/images/posts/mobilsparer.png" caption="[Mobilsparer](https://www.mobilsparer.dk/){: rel='nofollow noopener' } godkender prisen på mit nuværende abonnement fra Callme" %}
 
 Men jeg skulle også kigge efter priser for mobilabonnementer til børn. Jeg blev noget overrasket over, at det på ingen måde kan betale sig at købe et familieabonnement. Det bliver hurtigt for dyrt. Så jeg gik på jagt efter abonnementer, der passer til mit nuværende forbrug og et andet som kunne bruges til min datter.
 
-Derfor klikkede jeg ind på [mobilsparer.dk](https://www.mobilsparer.dk/){: rel='sponsored nofollow noopener' } for at lave en sammenligning. Jeg fandt hurtigt ud af, at jeg **ikke** skulle lede efter børneabonnementer, for så forsvandt alle de billige abonnementer.
+Derfor klikkede jeg ind på [mobilsparer.dk](https://www.mobilsparer.dk/){: rel='nofollow noopener' } for at lave en sammenligning. Jeg fandt hurtigt ud af, at jeg **ikke** skulle lede efter børneabonnementer, for så forsvandt alle de billige abonnementer.
 
 ## De billigeste mobilabonnementer
 
-{% include gallery %}
-
 Tilsyneladende er [Greenspeak](http://www.greenspeak.dk), [Greentel](/go/greentel/){: rel='sponsored nofollow noopener' }, [Oister](/go/oister/){: rel='sponsored nofollow noopener' }, [OK Mobil](/go/ok-mobil/){: rel='sponsored nofollow noopener' } og [CBB Mobil](/go/cbb/){: rel='sponsored nofollow noopener' } de billigste steder, så der gik jeg i gang med at kigge priserne lidt mere i sømmene.
 
-<table class="table" class="wide">
-  {% for row in site.data.mobilpriser %}
-    {% if forloop.first %}
-    <thead>
-    <tr align="center">
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    </thead>
-    {% endif %}
-    {% if forloop.last %}
-    <tr align="center">
-      {% for pair in row %}
-      <td>
-        {% unless pair[1] == 'CTA' %}
-          <a href="{{ pair[1] | relative_url }}" class="btn btn--large btn--success">Se*</a>
-        {% endunless %}
-      </td>
-      {% endfor %}
-    </tr>
-    {% else %}
-    <tr align="center">
-      {% for pair in row %}
-        {% if heading == '' %}
-          {% assign heading = pair[1] %}
-        {% endif %}
-        {% if heading == 'Heading' %}
-          <th>
-            {% unless pair[1] == heading %}
-            {{ pair[1] }}
-            {% endunless %}
-          </th>
-        {% else %}
-          <td>{{ pair[1] }}</td>
-        {% endif%}
-      {% endfor %}
-    </tr>
-    {% endif %}
-    {% assign heading = '' %}
-  {% endfor %}
-</table>
+I denne oversigt kan du se nogle muligheder for under 80 kroner / mdr og med mindst 2 GB data og 2 timers taletid.
+
+<script type="text/javascript" src="https://static.ascontentcloud.com/comparisonfeed/resources/js/iframeResizer.min.js"></script><iframe id="as-comparison-iframe-312329602" style="border: none; width: 1px; min-width: 100%; overflow: hidden; " scrolling="no" src="https://feed.aservice.tools/v2/public/publisher/comparisonfeed/iframe/mobilabonnement-boern" onload="iFrameResize({heightCalculationMethod: 'taggedElement', checkOrigin: false}, this);"></iframe>
+
+## Andre muligheder
 
 Jeg har også kigget lidt på [Telmore med Telmore Play](/go/telmore/){: rel='sponsored nofollow noopener' }, som jeg synes at kunne huske var meget konkurrencedygtige, da jeg var yngre, og [3 Mobil](/go/3mobil/){: rel='sponsored nofollow noopener' }. Nu om dage har Telmore satset mere på abonnementer med streaming, og hvis du vil have en stor streamingpakke, kan det måske være interessant. Jeg ikke har brug for alle de forskellige streamingtjenster lige nu, så Telmore bliver for dyrt for mig.
 
@@ -107,7 +72,7 @@ Men det mest attraktive abonnement til min datter, har jeg vurderet er [Greentel
 
 Jeg har foreløbig valgt at holde fast i mit ret fine abonnement hos Callme. Jeg overvejer dog meget kraftigt [Greentels 3 EU](/go/greentel/){: rel='sponsored nofollow noopener' }, da det faktisk dækker mit aktuelle behov for data - og det er 30 DKK billigere end mit nuværende abonnement, som dog er meget større.
 
-Efterfølgende er jeg også stødt ind i [Glad Mobil](/go/gladmobil/){: rel='sponsored nofollow noopener' }, som godt kan matche priserne fra de andre selskaber. Tjek det selv ud. Jeg har også fundet [Lebara](https://mobile.lebara.com/dk/da/), som har 5GB data og 5 timers tale til 49,- og de har også et abonnement, som er forbrugsafregnet, hvor man kun betaler for det man bruger. Jeg tjekker også [Lycamobile](https://www.lycamobile.dk/da/), hvor man kan få et abonnement med en GB data til 25 kroner / mdr.
+Efterfølgende er jeg også stødt ind i [Glad Mobil](/go/gladmobil/){: rel='sponsored nofollow noopener' }, som godt kan matche priserne fra de andre selskaber. Tjek det selv ud. Jeg har også fundet [Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }, som har 5GB data og 5 timers tale til 49,- og de har også et abonnement, som er forbrugsafregnet, hvor man kun betaler for det man bruger. Jeg tjekker også [Lycamobile](https://www.lycamobile.dk/da/), hvor man kan få et abonnement med en GB data til 25 kroner / mdr.
 
 ## Kan du spare på mobilabonnementet?
 
@@ -115,7 +80,7 @@ Så skal jeg bare have fundet en mobiltelefon til datteren. Havde håbet, at hun
 
 Har du tjekket for nylig om, du kan spare noget på mobilabonnementet? Og hvilket abonnement har du valgt til dine børn, og hvem betaler for abonnementet?
 
-[Mobilsparer.dk](https://www.mobilsparer.dk/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+[Mobilsparer.dk](https://www.mobilsparer.dk/){: .btn .btn--large .btn--info rel='nofollow noopener' }
 
 {% include disclaimer.md %}
 

@@ -15,7 +15,7 @@ header:
 
 Rigtig mange får lavet et nyt mobilabonnement, når de køber en ny mobiltelefon. Meget ofte kan man spare samlet på at købe en ny telefon sammen med et abonnement. Men når telefonen så er betalt af, så står man med et mobilabonnement, der ofte er relativt dyrt.
 
-Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, fordi de kan indeholde mange forskellige ting. Fx kan nogle abonnementer have adgang til streamingtjenester, mere eller mindre data, udenlandstelefoni og meget andet.
+Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, fordi de kan indeholde mange forskellige ting. Fx kan nogle abonnementer have adgang til streamingtjenester, mere eller mindre data, udenlandstelefoni og meget andet. Jeg har også undersøgt, hvor du kan få et prisbilligt [mobilabonnement til børn]({% link _posts/2020-05-14-mobil-boern.md %}).
 
 Nederst her på siden kan du lave en prissammenligning, men husk også at tjekke sektionen med de mobilfirmaer, der ofte leverer billige priser.
 
@@ -49,17 +49,17 @@ Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonneme
 
 Når du kigger tilbuddene fra de forskellige leverandører igennem, så tjek grundigt om de ud over abonnementet har et betalingsgebyr eller et administrationsgebyr.
 
-- [Oister](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1624547&media_id=81507){: rel="sponsored nofollow noopener" } har ofte rigtig gode tilbud på deres mobilabonnementer.
-- [Lebara](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1968752&media_id=81507){: rel="sponsored nofollow noopener" }
-- [Greentel](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1624554&media_id=81507){: rel="sponsored nofollow noopener" }
+- [Oister](/go/oister/){: rel="sponsored nofollow noopener" } har ofte rigtig gode tilbud på deres mobilabonnementer.
+- [Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }
+- [Greentel](/go/greentel/){: rel="sponsored nofollow noopener" }
 
-Hvis du skal have et _all inclusive_ abonnement med streamingtjenester, så kan du kigge på [Telmore](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70555){: rel="sponsored nofollow noopener" }.
+Hvis du skal have et _all inclusive_ abonnement med streamingtjenester, så kan du kigge på [Telmore](/go/telmore/){: rel="sponsored nofollow noopener" }.
 
 ## Hvad skal være med i dit abonnement?
 
 Du skal være opmærksom på, at hvis du fx bruger streaming-tjenester, som fx Netflix eller Spotify, så kan du ofte finde mobilabonnementer, hvor de onlinetjenester er med i. Når man regner det hele sammen, så kan det sommetider betale sig at tage et tilsyneladende dyrere abonnement.
 
-[Telmore](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=70555){: rel="sponsored nofollow noopener" } er et af de selskaber, som med Telmore Play har en meget omfattende pakke inkluderet i abonnementet.
+[Telmore](/go/telmore/){: rel="sponsored nofollow noopener" } er et af de selskaber, som med Telmore Play har en meget omfattende pakke inkluderet i abonnementet.
 
 ## Hvad hvis jeg skal have ny mobil?
 
