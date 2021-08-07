@@ -117,7 +117,7 @@ Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link
 
 Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og impact-investeringer. En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig.
 
-Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/).
+Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [grønne aktier]({% link _posts/2021-08-05-groenne-aktier.md %}).
 
 ## Investeringsløsninger
 

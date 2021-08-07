@@ -109,6 +109,10 @@ Du kan investere i aktier, obligationer og værdipapirer i din bank eller gennem
 
 Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
+## Bæredygtige investeringer i aktier
+
+Jeg har lavet en liste med forslag til [grønne og bæredygtige aktier]({% link _posts/2021-08-05-groenne-aktier.md %}), men ellers kan du også finde [bæredygtige fonde, investeringsforeninger og ETF'er]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}).
+
 ## Her handler jeg selv aktier og investeringsforeninger
 
 {% include feature_row id="feature_row_own" %}
