@@ -1,9 +1,9 @@
-ticker,name,morningstar_url,type,content,aaop,index,dividend,tax,tax_principle,strategy,morningstar_rating,sustainability_rating,nordnet
-EUNH,BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4,ETF,,"0,20%",,Distribuerende,Aktie,,Passiv,4,,*
-IS3N,BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM,ETF,2760,"0,18%",MSCI Emerging IMI,Akkumulerende,Aktie,,Passiv,3,2,*
+ticker,name,morningstar_url,type,content,aaop,index,dividend,tax,tax_principle,strategy,morningstar_rating,sustainability_rating,nordnet_maanedsopsparing
+EUNH,BlackRock iShares Core € Govt Bond UCITS ETF EUR (Dist),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEI4,ETF,,"0,20%",,Distribuerende,Aktie,,Passiv,4,,Ja
+IS3N,BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00013BGM,ETF,2760,"0,18%",MSCI Emerging IMI,Akkumulerende,Aktie,,Passiv,3,2,Ja
 IBC3,BlackRock iShares Core MSCI EM IMI UCITS ETF USD (Dist) (EUR),https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001D2CG,ETF,2760,"0,18%",MSCI Emerging IMI,,,,,0,2,
-EUNL,BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ,ETF,1710,"0,20%",MSCI World,Akkumulerende,Aktie,Lager,Passiv,5,3,*
-SXR8,BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21,ETF,511,"0,07%",S&P500,Akkumulerende,Aktie,Lager,Passiv,5,3,*
+EUNL,BlackRock iShares Core MSCI World UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ,ETF,1710,"0,20%",MSCI World,Akkumulerende,Aktie,Lager,Passiv,5,3,Ja
+SXR8,BlackRock iShares Core S&P 500 UCITS ETF USD (Acc) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000OO21,ETF,511,"0,07%",S&P500,Akkumulerende,Aktie,Lager,Passiv,5,3,Ja
 IUSA,BlackRock iShares Core S&P 500 UCITS ETF USD (Dist),https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000IWFP,ETF,511,"0,07%",S&P500,,,,,5,3,
 IQQH,BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL,ETF,,"0,65%",,,,Lager,Passiv,4,3,
 IUSQ,BlackRock iShares MSCI ACWI UCITS ETF USD (Acc) (EUR),https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000X4V9,ETF,1553,"0,60%",MSCI ACWI,Akkumulerende,Aktie,Lager,Passiv,4,2,
@@ -21,6 +21,7 @@ SPIDJWKL,Sparinvest INDEX DJSI World KL,http://www.morningstar.dk/dk/funds/snaps
 SPIEMIKL,Sparinvest INDEX Emerging Markets KL,http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0,Investeringsforening,378,"0,65%",MSCI Emerging,Distribuerende,,Realisation,Passiv,4,3,Ja
 SPIGLAMRIK,Sparinvest INDEX Globale Akt Min Risiko KL,http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J,Investeringsforening,314,"0,59%",MSCI World Minimum Volatility,Distribuerende,,Realisation,Passiv,5,4,Ja
 SPVIGAETIK,Sparinvest INDEX Globale Aktier – Etik KL,http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7,Investeringsforening,,"0,59%",,Distribuerende,Aktieindkomst,Realisation,Passiv,,3,
+SPVIBGKL,Sparindex INDEX Bæredygtige Global KL,https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7,Investeringsforening,,"0,55%",MSCI ACWI ESG Leaders Select Sustainability,Distribuerende,Aktieindkomst,Realisation,Passiv,3,,
 SPVIGAKL,Sparinvest INDEX Globale Aktier KL,https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK4,Investeringsforening,463,"0,58%",MSCI ACWI IMI,Distribuerende,,Realisation,Passiv,,2,Ja
 DK0060950541,Sparinvest INDEX Stabile Obligationer KL W,http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ,Investeringsforening,,"0,30%",,Distribuerende,,,Passiv,,,
 STIGEP,Storebrand Global ESG Plus A5,http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG,Investeringsforening,>490,"0,47%",MSCI ACWI - ESG screenet,Akkumulerende,,Lager,Passiv,4,4,
@@ -32,16 +33,18 @@ SYIMSTAR,Sydinvest Morningstar Global Markets Sustainability Leaders KL,http://w
 LU0278272413,Triodos SICAV I - Triodos Global Equities Impact Fund EUR R Distributio,https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000ITED,Investeringsforening,,"1,55%",,,,,Aktiv,3,5,
 LU0504302356,Triodos SICAV I - Triodos Impact Mixed Fund-Neutral EUR R Capitalisation,https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000JXOZ,Investeringsforening,,"1,35%",,,,,Aktiv,5,,
 LU0278272843,Triodos SICAV I - Triodos Pioneer Impact Fund EUR R Capitalisation,https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000006RV,Investeringsforening,,"1,98%",,,,,Aktiv,2,2,
-VGWD,Vanguard FTSE All-World High Dividend Yield UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG7,ETF,,"0,29%",,Distribuerende,,Kapita,Passiv,3,3,
-VGWL,Vanguard FTSE All-World UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG9,ETF,,"0,25%",,Distribuerende,,Kapita,Passiv,4,2,
+VGWD,Vanguard FTSE All-World High Dividend Yield UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG7,ETF,,"0,29%",,Distribuerende,,Kapital,Passiv,3,3,
+VGWL,Vanguard FTSE All-World UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG9,ETF,,"0,25%",,Distribuerende,,Kapital,Passiv,4,2,
 VWCE,Vanguard FTSE All-World UCITS ETF (USD) Accumulating,https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001I3S0,ETF,3367,"0,22%",FTSE All-World,,,,Passiv,0,2,
 VGWL,Vanguard FTSE All-World UCITS ETF (USD) Dist,https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVG9,ETF,3367,"0,22%",FTSE All-World,,,,Passiv,4,2,
-VEUR,Vanguard FTSE Developed Europe UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YVD4,ETF,,"0,12%",,Distribuerende,,Kapita,Passiv,4,2,
-VFEM,Vanguard FTSE Emerging Markets UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YXJQ,ETF,,"0,25%",,Distribuerende,,Kapita,Passiv,4,3,
-VNRT,Vanguard FTSE North America UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVGN,ETF,,"0,10%",,Distribuerende,,Kapita,Passiv,4,3,
-VUSA,Vanguard S&P 500 UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YXKB,ETF,,"0,07%",,Distribuerende,,Kapita,Passiv,5,3,
-VUCP,Vanguard USD Corporate Bond UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017M0P,ETF,,"0,12%",,Distribuerende,,Kapita,Passiv,4,4,
-VDTY,Vanguard USD Treasury Bond UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017JX0,ETF,,"0,12%",,Distribuerende,,Kapita,Passiv,3,,
-D5BG,Xtrackers II EUR Corporate Bond UCITS ETF 1C,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ,ETF,,"0,16%",,Distribuerende,,Kapita,Passiv,3,3,*
-DBXN,Xtrackers II Eurozone Government Bond UCITS ETF 1C,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC,ETF,,"0,15%",,Distribuerende,,Kapita,Passiv,4,,*
-XDWL,Xtrackers MSCI World UCITS ETF 1D,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00015VBW,ETF,,"0,19%",,Distribuerende,,Kapita,Passiv,4,3,*
+VEUR,Vanguard FTSE Developed Europe UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YVD4,ETF,,"0,12%",,Distribuerende,,Kapital,Passiv,4,2,
+VFEM,Vanguard FTSE Emerging Markets UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YXJQ,ETF,,"0,25%",,Distribuerende,,Kapital,Passiv,4,3,
+VNRT,Vanguard FTSE North America UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001BVGN,ETF,,"0,10%",,Distribuerende,,Kapital,Passiv,4,3,
+VUSA,Vanguard S&P 500 UCITS ETF (EUR),http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000YXKB,ETF,,"0,07%",,Distribuerende,,Kapital,Passiv,5,3,
+VUCP,Vanguard USD Corporate Bond UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017M0P,ETF,,"0,12%",,Distribuerende,,Kapital,Passiv,4,4,
+VDTY,Vanguard USD Treasury Bond UCITS ETF,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017JX0,ETF,,"0,12%",,Distribuerende,,Kapital,Passiv,3,,
+D5BG,Xtrackers II EUR Corporate Bond UCITS ETF 1C,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NBHQ,ETF,,"0,16%",,Distribuerende,,Kapital,Passiv,3,3,Ja
+DBXN,Xtrackers II Eurozone Government Bond UCITS ETF 1C,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P000094CC,ETF,,"0,15%",,Distribuerende,,Kapital,Passiv,4,,Ja
+XDWL,Xtrackers MSCI World UCITS ETF 1D,http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00015VBW,ETF,,"0,19%",,Distribuerende,,Kapital,Passiv,4,3,Ja
+IUSQ,iShares MSCI ACWI UCITS ETF,https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000X4V9&InvestmentType=FE,ETF,1601,"0,20%",,Akkumulerende,,Kapital,Passiv,,,
+LCUW,Lyxor Core MSCI World (DR) UCITS ETF (EUR),https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001CXZK,ETF,1558,"0,12%",MSCI World Net Total Return USD Index,Akkumulerende,,,Passiv,,,

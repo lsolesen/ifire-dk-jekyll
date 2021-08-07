@@ -1,5 +1,6 @@
 {% assign find = include.funds | split: "," %}
 {% assign funds = "" | split: "," %}
+{% assign show_ratings = include.show_ratings | default: 'true' %}
 
 {% for f in find %}
   {% assign found = site.data.funds | where: "ticker", f %}
@@ -13,9 +14,13 @@
             <th>Ticker</th>
             <th>Værdipapir</th>
             <th>ÅOP</th>
+            {% if show_ratings == 'true' %}
             <th>Morningstar Rating</th>
             <th>Bæredygtighed</th>
+            {% endif %}
+            {% if show_nordnet == 'true' %}
             <th>Nordnets månedsopsparing</th>
+            {% endif %}
         </tr>
     </thead>
     <tbody>
@@ -24,9 +29,13 @@
              <td>{{ fund.ticker }}</td>
              <td><a href="{{ fund.morningstar_url | relative_url }}">{{ fund.name }}</a></td>
              <td>{{ fund.aaop }}</td>
+             {% if show_ratings == 'true' %}
              <td>{% include rating rate=fund.morningstar_rating %}</td>
              <td>{% include rating rate=fund.sustainability_rating icon_on="&#x26AB;" icon_off="&#x26AA;" %}</td>
+             {% endif %}
+             {% if show_nordnet == 'true' %}
              <td>{{ fund.nordnet_maanedsopsparing }}</td>
+             {% endif %}
          </tr>
          {% endfor %}
     </tbody>

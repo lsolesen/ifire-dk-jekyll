@@ -49,27 +49,13 @@ For mig betyder bæredygtighed også noget. Jeg satser jeg primært på månedso
 
 ### Udbyttebetalende danske fonde
 
-| Tick       | Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Månedsops. |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|------------|
-| SPIGLAMRIK | [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J)                     | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | *          |
-| SPVIGAKL   | [Sparinvest INDEX Globale Aktier KL KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK4)                         | 0,58% |                                          | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; |            |
-| SPIDJWKL   | [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)                                 | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | *          |
-| SPVIGAETIK | [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)                      | 0,59% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
-| SPIEMIKL   | [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)                           | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | *          |
-| SYIMSTAR   | [Sydinvest Morningstar Global Markets Sustainability Leaders KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000011JG6) | 0,61% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; |            |
-| DKIGI      | [Danske Invest Global Indeks KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04L68)                                | 0,44% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |            |
+{% include fonde.html funds="SPVIGAKL,SPIGLAMRIK,SPVIBGKL,SPIDJWKL,SPIEMIKL,SYIMSTAR,DKIGI" show_ratings="false" %}
 
 ### Akkumulerende danske fonde
 
-Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er fondene fra Storebrand lagerbeskattet (de var tidligere realisationsbeskattet, selvom de var akkumulerende). STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger je en af de akkumulerende fonde på min kapitalpension.
+Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er fondene fra Storebrand lagerbeskattet (de var tidligere realisationsbeskattet, selvom de var akkumulerende). STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx brugerg je en af de akkumulerende fonde på min kapitalpension.
 
-| Ticker     | Værdipapir                                                                                                      | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
-|------------|-----------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------|
-| STIIAM     | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
-| STIGEP     | [Storebrand Global ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)        | 0,47% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| STIGM      | [Storebrand Global Multifactor A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKH)     | 0,83% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| STIGS      | [Storebrand Global Solutions A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKJ)       | 0,86% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
+{% include fonde.html funds="STIIAM,STIGEP,STIGM,STIGS,DKIGIADKKH" show_ratings="false" %}
 
 ## Growth Portfolio (#2)
 
