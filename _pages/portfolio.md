@@ -3,7 +3,7 @@ layout: single
 last_modified_at: 2020-05-15T10:00:00+08:00
 title: Portefølje - aktier, obligationer, crowdlending, guld og cryptovaluta
 permalink: /portfolio/
-excerpt: "Her kan du se min samlede portefølje med aktier, obligationer, crowdlending, guld, sølv og cryptovaluta."
+excerpt: "Her kan du se min samlede portefølje med aktier, obligationer, crowdlending, guld, sølv og kryptovaluta."
 author_profile: true
 toc: true
 feature_row_crypto:
@@ -55,17 +55,19 @@ Den samlede formue består af:
 
 ### Investeringer i værdipapirer - aktier og obligationer
 
-Min strategi for værdipapir-investering har været [under](/investering-vol2/) [stadige](/investering-vol3/) og [løbende](/investering-vol4/) [overvejelser](/investering-vol5/), og jeg har [lært](/investering-vol6/) en [del](/investering-vol7/) [undervejs](/investering-vol8/) - og jeg er ikke færdig med at [lære](/investering-vol9/). Primært investerer jeg i passive indekser.
+Min strategi for investering i [aktier og obligationer](/investering-aktier/) har været [under](/investering-vol2/) [stadige](/investering-vol3/) og [løbende](/investering-vol4/) [overvejelser](/investering-vol5/), og jeg har [lært](/investering-vol6/) en [del](/investering-vol7/) [undervejs](/investering-vol8/) - og jeg er ikke færdig med at [lære](/investering-vol9/).
+
+Jeg investerer primært i [passive indeksfonde]({% link _posts/2021-07-31-indeksfonde.md %}).
 
 {% include figure image_path="/assets/images/status/investeringer.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
 
 #### Nordnet og månedsopsparing
 
-Jeg har to værdipapirdepoter hos [Nordnet](/go/nordnet/){: rel='nofollow noopener' }, som begge er sat i månedsopsparingen, hvor man handler kurtagefrit.
+Jeg har to værdipapirdepoter hos [Nordnet](/go/nordnet/){: rel='nofollow noopener' }, som begge er sat i [månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), hvor man handler kurtagefrit.
 
 #### Nordnet #1: Primært investering i danske passive fonde
 
-Denne portefølje er dedikeret til danske, passive fonde.
+Denne portefølje er dedikeret til [danske, passive fonde]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}).
 
 <iframe src="https://www.shareville.se/widget/portfolio/343009/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 

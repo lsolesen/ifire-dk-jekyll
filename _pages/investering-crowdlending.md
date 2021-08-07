@@ -194,7 +194,7 @@ Du skal også være opmærksom på, at nogle lande opkræver kildeskat af renter
 
 Jeg har skrevet en [guide til hvordan du indberetter indtægter fra crowdlending til Skat](/skat-af-dansk-udenlandsk-crowdlending/).
 
-## Hvad er den bedste crowdlending?
+## Hvad er den bedste crowdlending platform?
 
 Det er umuligt at sige, hvad den bedste crowdlending er for dig. Du kan vælge danske platforme eller nogle af de udenlandske platforme. Du kan lade dig inspirere lidt af mine erfaringer med crowdlending.
 

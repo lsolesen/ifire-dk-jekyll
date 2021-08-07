@@ -63,6 +63,52 @@ En af de store udfordringer med gerne at ville lave en bæredygtig investering e
 
 Men det handler også om, hvad din fortolkning af bæredygtighed er. Handler det om miljøet og klimaet? Handler det om sociale investeringer og mennesker?
 
+## EU Disclosure Forordning og bæredygtig investering
+
+I marts 2021 trådte EU's "Disclosure Forordning" i kraft. Du kan læse Finanstilsynets pressemeddelelse kan læses [her](https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2021/Disclosureforordningen_030321). Investorer er blevet mere og mere interesserede i grønne investeringer og aktier, og nu bliver markedet altså lettere at navigere i. Forordningen handler om bæredygtig investering, og forordningen gælder naturligvis for hele EU. Der er et par interessante tiltag i forordningen. Disclosure-ordningen er et trin på vej mod "Bæredygtig Finansiel Vækst". 
+
+### Investeringsforeninger får standardiserede grønne krav
+
+Investeringsforeninger skal i fremtiden leve op til standardiserede krav for bæredygtighed i investeringerne, og de må heller ikke kalde fondene noget, der lyder mere bæredygtigt end fonden reelt kan leve op til.
+
+Man skulle jo egentlig tro, at det allerede var tilfældet, men åbenbart ikke.
+
+Nu kan man altså kun kalde sig en grøn og bæredygtig fond, hvis man faktisk investerer på en grøn og bæredygtig måde. Nu kan udbyderne ikke længere finde på deres egne mærkningsordninger.
+
+### Bankerne skal spørge om vores grønne indstilling
+
+Når du investerer, så er bankerne forpligtede til at stille dig en række spørgsmål før du kan komme i gang. Nu skal bankerne ud over risikovillighed og tidshorisont også spørge ind til, hvordan man forholder sig til grønne aktier og det element i vores investering.
+
+## Mærkningsordning for fonde
+
+Der indføres også en mærkningsordning for fonde. En fond kan enten få mærket mørkegrønt, lysegrønt eller intet mærke. Det gør det let for private investorer at finde ud af hvor socialt og miljømæssigt ansvarligt fonden egentlig er.
+
+## Liste over mørkegrønne aktier (fonde)
+
+Men hvor finder du så danske fonde, der har taget den nye klassificering i brug? Her er i hvert fald nogle forslag til mørkegrønne danske fonde, der investerer i bæredygtige aktier. Fondene investerer altså med baggrund i FN's Verdensmål.
+
+### Passive indeksfonde
+
+- Sparinvest INDEX Bæredygtige Europa KL, ÅOP: 0,49%
+- Sparinvest INDEX Bæredygtige Global KL, ÅOP: 0,55%
+- Sparinvest INDEX Bæredygtige USA KL, ÅOP: 0,53%
+
+## Aktivt forvaltede fonde
+
+- Sparinvest Bæredygtige Aktier KL W, ÅOP: 1,35%
+- Nykredit Invest Bæredygtige Aktier, ÅOP: 1,51%
+- Nordea Invest Klima og Miljø KL, ÅOP: 1,55%
+- Formuepleje Better World Environmental Leaders, ÅOP: 1,75%
+- Sparinvest Bæredygtige Aktier KL A, ÅOP: 1,8%
+
+{% comment %}
+
+------- https://opheliainvest.dk/artikler/begynder/laer-om-baeredygtig-investering/
+
+------- https://sustainify.dk/
+
+{% endcomment %}
+
 ## Morningstars bæredygtighedsrating
 
 Jeg har slået alle værdipapirerne i denne artikel op på [Morningstar](http://www.morningstar.dk/dk/). Morningstar er et uafhængigt analysebureau, der er kendt for at rangordne investeringsafdelinger overalt i verden. De har to forskellige kategorier.
