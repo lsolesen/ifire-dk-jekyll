@@ -1,5 +1,6 @@
 ---
 title: "Envestio"
+seo_title: "Envestio | Scam | Crowdlending platform"
 permalink: /platform/envestio/
 header:
   teaser: /assets/images/logo/envestio.png

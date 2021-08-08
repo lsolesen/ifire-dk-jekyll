@@ -1,5 +1,6 @@
 ---
 title: "PeerBerry"
+seo_title: "PeerBerry | Crowdlending platform"
 permalink: /platform/peerberry/
 header:
   teaser: /assets/images/logo/peerberry.png

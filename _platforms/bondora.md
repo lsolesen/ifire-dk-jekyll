@@ -1,5 +1,6 @@
 ---
 title: "Bondora"
+seo_title: "Bondora | Crowdlending platform"
 permalink: /platform/bondora/
 header:
   teaser: /assets/images/logo/bondora.png

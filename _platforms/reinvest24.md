@@ -1,5 +1,6 @@
 ---
 title: "ReInvest24"
+seo_title: "ReInvest24 | Crowdlending platform"
 permalink: /platform/reinvest24/
 header:
   teaser: /assets/images/logo/reinvest24.png

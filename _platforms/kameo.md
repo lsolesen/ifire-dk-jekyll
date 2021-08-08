@@ -1,5 +1,6 @@
 ---
 title: "Kameo"
+seo_title: "Kameo | Crowdlending platform | Danmark"
 permalink: /platform/kameo/
 header:
   overlay_filter: 0.8

@@ -1,5 +1,6 @@
 ---
 title: "Etoro"
+seo_title: "Etoro | Copytrading | Investering"
 permalink: /platform/etoro/
 header:
   teaser: /assets/images/logo/etoro.png

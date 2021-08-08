@@ -1,5 +1,6 @@
 ---
 title: &title "Lendahand"
+seo_title: "Lendahand | Crowdlending platform"
 permalink: /platform/lendahand/
 header:
    teaser: &logo /assets/images/logo/lendahand.png

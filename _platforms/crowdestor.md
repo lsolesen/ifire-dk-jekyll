@@ -1,5 +1,6 @@
 ---
 title: "Crowdestor"
+seo_title: "Crowdestor | Crowdlending platform"
 permalink: /platform/crowdestor/
 header:
   teaser: /assets/images/logo/crowdestor.png

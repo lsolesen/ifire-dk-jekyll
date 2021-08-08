@@ -1,5 +1,6 @@
 ---
 title: "FlexFunding"
+seo_title: "FlexFunding | Crowdlending platform | Danmark"
 permalink: /platform/flexfunding/
 header:
   overlay_image: https://flexfunding.com/wp-content/uploads/2018/11/hero-front-var-2-e1579718817777.jpg

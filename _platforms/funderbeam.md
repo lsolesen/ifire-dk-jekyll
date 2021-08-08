@@ -1,5 +1,6 @@
 ---
 title: "Funderbeam"
+seo_title: "Funderbeam | Crowdlending platform"
 permalink: /platform/funderbeam/
 header:
   image_overlay: /assets/images/funderbeam.jpg

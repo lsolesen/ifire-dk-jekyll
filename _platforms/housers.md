@@ -1,5 +1,6 @@
 ---
 title: "Housers"
+seo_title: "Housers | Crowdlending platform"
 permalink: /platform/housers/
 header:
   teaser: /assets/images/logo/housers.png

@@ -1,5 +1,6 @@
 ---
 title: "Lendino"
+seo_title: "Lendino | Crowdlending platform"
 permalink: /platform/lendino/
 header:
   overlay_image: https://i.ytimg.com/vi/xbaWM_P0Jl4/maxresdefault.jpg

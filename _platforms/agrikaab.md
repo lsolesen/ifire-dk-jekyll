@@ -1,5 +1,6 @@
 ---
 title: "Agrikaab"
+seo_title: "Agrikaab | Crowdlending platform"
 permalink: /platform/agrikaab/
 header:
   teaser: /assets/images/logo/agrikaab.png

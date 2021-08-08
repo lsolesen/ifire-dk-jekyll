@@ -1,5 +1,6 @@
 ---
 title: "Fast Invest"
+seo_title: "Fast Invest | Crowdlending platform"
 permalink: /platform/fastinvest/
 header:
   teaser: /assets/images/logo/fastinvest.png

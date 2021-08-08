@@ -1,5 +1,6 @@
 ---
 title: &title "Trine"
+seo_title: "Trine | Crowdlending platform"
 permalink: /platform/trine/
 header:
   teaser: &logo /assets/images/logo/trine.png

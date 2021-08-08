@@ -52,13 +52,7 @@ Jeg kunne vælge at gå over i nogle danske indeksfonde i stedet. Indekserne inv
 
 Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind i min fremtidige portefølje. De er alle udbyttebetalende, hvilket kan være en fordel, når jeg gerne vil have noget passiv indkomst uden at skulle sælge ud af værdipapirerne undervejs (også selvom det samlet over tid vil betyde, at porteføljen yngler mindre, hvis jeg vælger at reinvestere udbyttet, når jeg ikke har brug for det).
 
-| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Sustain. score |
-|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|----------------|
-| [Sparinvest INDEX Globale Akt Min Risiko KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000073J) | 0,59% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,28          |
-| [Sparinvest INDEX Globale Aktier – Etik KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000XLK7)  | 0,58% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 49,74          |
-| [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG)             | 0,60% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | 55,42          |
-| [Sparinvest INDEX Emerging Markets KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F00000MES0)       | 0,85% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 45,26          |
-| [Sparinvest INDEX Stabile Obligationer KL W](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0000101MQ) | 0,30% |                                          |                                          |                |
+{% include fonde.html funds="SPIGLAMRIK,SPVIBGKL,SPIDJWKL,SPIEMIKL,DK0060950541" show_ratings="false" %}
 
 Jeg vil gerne bredt eksponeres mod verden, så [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) er ret interessant med relativt lave omkostninger og den bedste bæredygtighedsscore af de valgte fonde.
 
