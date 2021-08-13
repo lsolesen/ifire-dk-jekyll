@@ -20,7 +20,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Jeg har lavet en test af effekten bagestål og bagesten til bagning af surdejsbrød. Jeg har samlet det til en lille anmeldelse af bagestålet og bagestenen.
+Jeg har lavet en test af effekten af bagestål og bagesten til bagning af surdejsbrød. Jeg har samlet det til en lille anmeldelse af bagestålet og bagestenen.
 
 Bagestålet og en bagesten er en en variant af en pizzasten, som er lavet i en 6 mm stålplade. Jeg har haft lidt udforringer med at få mit ellers utrolig vellavede brød til helt at få den rigtige hævning. Derfor har jeg investeret i et bagestål, da jeg håber at det kan give det sidste til mit brød.
 
