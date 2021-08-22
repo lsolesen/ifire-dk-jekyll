@@ -4,6 +4,8 @@ seo_title: "Kuflink | Crowdlending platform"
 permalink: /platform/kuflink/
 header:
   teaser: /assets/images/logo/kuflink.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomme

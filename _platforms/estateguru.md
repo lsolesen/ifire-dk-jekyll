@@ -4,6 +4,8 @@ seo_title: "Estate Guru | Crowdlending platform"
 permalink: /platform/estateguru/
 header:
   teaser: /assets/images/logo/estateguru.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering

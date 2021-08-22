@@ -4,6 +4,8 @@ seo_title: "Etoro | Copytrading | Investering"
 permalink: /platform/etoro/
 header:
   teaser: /assets/images/logo/etoro.png
+category:
+  - Investering
 tags:
   - investering
   - copy trading

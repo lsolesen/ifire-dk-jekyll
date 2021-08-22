@@ -4,6 +4,8 @@ seo_title: "Crowdestate | Crowdlending platform"
 permalink: /platform/crowdestate/
 header:
   teaser: /assets/images/logo/crowdestate.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering

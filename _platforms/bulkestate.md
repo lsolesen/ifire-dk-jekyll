@@ -4,6 +4,8 @@ seo_title: "Bulkestate | Crowdlending platform"
 permalink: /platform/bulkestate/
 header:
   teaser: /assets/images/logo/bulkestate.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering

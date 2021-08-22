@@ -4,6 +4,8 @@ seo_title: "Robocash | Crowdlending platform"
 permalink: /platform/robocash/
 header:
   teaser: /assets/images/logo/robocash.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Kroatien

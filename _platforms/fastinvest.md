@@ -4,6 +4,8 @@ seo_title: "Fast Invest | Crowdlending platform"
 permalink: /platform/fastinvest/
 header:
   teaser: /assets/images/logo/fastinvest.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - England

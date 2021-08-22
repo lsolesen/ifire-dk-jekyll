@@ -3,6 +3,9 @@ title: &title "Nord.Investments"
 permalink: /platform/nord/
 header:
   teaser: &logo /assets/images/logo/nord.png
+category:
+  - Investering
+  - Aktier
 tags:
   - investering
   - robot

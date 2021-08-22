@@ -9,6 +9,8 @@ header:
   actions:
     - label: "Invester hos Flexfunding*"
       url: "/go/flexfunding/"
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Danmark

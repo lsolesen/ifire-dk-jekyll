@@ -4,6 +4,8 @@ seo_title: The Many • Alt om crowdlending-platformen (tidl. Brickshare) »
 permalink: /platform/themany/
 redirect_from:
   - /platform/brickshare/
+category:
+  - Crowdlending
 header:
   overlay_image: https://static1.squarespace.com/static/5da45a0f031e3f42fb490ae1/5da45d33bc05e525b7c2ac89/5e998f061f79016c419f2c03/1587134005508/cover.png?format=2500w
   overlay_filter: 0.5

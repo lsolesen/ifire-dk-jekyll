@@ -9,6 +9,8 @@ header:
   actions:
     - label: "Invester hos Lendino*"
       url: "/go/lendino/"
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Danmark

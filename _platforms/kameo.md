@@ -8,6 +8,8 @@ header:
   actions:
     - label: "Invester hos Kameo*"
       url: "/go/kameo/"
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Danmark

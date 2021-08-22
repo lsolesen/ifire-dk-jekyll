@@ -4,6 +4,8 @@ seo_title: "Iuvo Group | Crowdlending platform"
 permalink: /platform/iuvo/
 header:
   teaser: /assets/images/logo/iuvo.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Estland

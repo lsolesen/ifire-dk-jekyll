@@ -4,6 +4,8 @@ seo_title: "BitOfProperty | Crowdlending platform"
 permalink: /platform/bitofproperty/
 header:
   teaser: /assets/images/logo/bitofproperty.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering

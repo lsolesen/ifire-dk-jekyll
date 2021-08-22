@@ -5,6 +5,8 @@ permalink: /platform/funderbeam/
 header:
   image_overlay: /assets/images/funderbeam.jpg
   teaser: /assets/images/logo/funderbeam.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - blockchain

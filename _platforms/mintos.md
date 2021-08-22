@@ -4,6 +4,8 @@ seo_title: "Mintos: Anmeldelse, erfaringer og auto invest [2021]"
 permalink: /platform/mintos/
 header:
   teaser: &logo /assets/images/logo/mintos.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Letland

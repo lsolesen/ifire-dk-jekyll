@@ -4,6 +4,8 @@ seo_title: "Agrikaab | Crowdlending platform"
 permalink: /platform/agrikaab/
 header:
   teaser: /assets/images/logo/agrikaab.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
 excerpt: "På Agrikaab kunne man investere i afrikanske udviklingsprojekter. Platformen er gået ned."

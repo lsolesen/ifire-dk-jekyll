@@ -4,6 +4,8 @@ seo_title: "EvoEstate | Crowdlending platform"
 permalink: /platform/evoestate/
 header:
   teaser: /assets/images/logo/evoestate.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering

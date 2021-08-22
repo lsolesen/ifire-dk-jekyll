@@ -4,6 +4,8 @@ seo_title: "Better Globe | Træer i Afrika | Crowdlending"
 permalink: /platform/betterglobe/
 header:
   teaser: /assets/images/logo/betterglobe.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Sverige

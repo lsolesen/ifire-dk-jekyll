@@ -4,6 +4,8 @@ seo_title: "Grupeer | Crowdlending platform"
 permalink: /platform/grupeer/
 header:
   teaser: /assets/images/logo/grupeer.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Irland

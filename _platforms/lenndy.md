@@ -4,6 +4,8 @@ seo_title: "Lenndy | Crowdlending platform"
 permalink: /platform/lenndy/
 header:
   teaser: /assets/images/logo/lenndy.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - Estland

@@ -4,6 +4,8 @@ seo_title: "Property Partner | Crowdlending platform"
 permalink: /platform/propertypartner/
 header:
   teaser: /assets/images/logo/propertypartner.png
+category:
+  - Crowdlending
 tags:
   - crowdlending
   - ejendomsinvestering
