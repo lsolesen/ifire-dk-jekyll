@@ -82,7 +82,7 @@ Uphold har også lavet en _stable coin_, som knytter sig til EUR (UPEUR). <del>D
 
 ## Opbevaring af kryptovaluta og Bitcoins
 
-Du skal have en **Wallet**, hvor du kan opbevare din kryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere kryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet](/go/atomicwallet/){: rel='sponsored nofollow noopener' }, som jeg kan bruge på min smartphone. 
+Du skal have en **Wallet**, hvor du kan opbevare din kryptovaluta. Jeg har valgt at lave en diversificere portefølje, så jeg foretrækker en wallet, der kan håndtere flere kryptovalutaer samtidigt. Tidligere brugte jeg [Breadwallet](https://brd.com/), men har fået øjnene op for [Atomic Wallet](/go/atomicwallet/){: rel='sponsored nofollow noopener' }, som jeg kan bruge på min smartphone.
 
 _Husk at hvis du ikke tænker dig om, hvordan du opbevarer din kryptovaluta, så kan du risikere at miste det hele, og det er allerbedst at have en [hardware wallet](/go/ledger/){: rel='sponsored nofollow noopener' }._
 
@@ -93,7 +93,7 @@ Check AtomicWallet.io - the first Wallet with Atomic Swap DEX. Install the app, 
 
 ## Hvordan køber jeg min kryptovaluta?
 
-Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Binance](/go/binance/){: rel='sponsored nofollow noopener' } ligger transaktionsgebyret på omkring 3,75%. 
+Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinify.dk](http://coinify.dk), hvor transaktionsgebyret ved bankoverførsler kommer helt ned på 0,75%, mens det ved overførsel via betalingskort ligger på 3,75%. [Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } og [Binance](/go/binance/){: rel='sponsored nofollow noopener' } ligger transaktionsgebyret på omkring 3,75%.
 
 På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe Bitcoins (BTC), Ethereum (ETH) og Stellar Lumens (XLM) som alle er en del af min valgte krypto-portefølje. Desuden kan jeg købe Bitcoin SV (BSV) og Bitcoin Cash (BCH). Derfor køber jeg en af de kryptovalutaer på Coinify.dk, og så køber bruger jeg dem på [Binance](/go/binance/){: rel='sponsored nofollow noopener' }, som har et meget større udbud af kryptovalutaer og i øjeblikket er verdens største kryptobørs. Derved er transaktionsgebyret slet ikke så stort.
 
