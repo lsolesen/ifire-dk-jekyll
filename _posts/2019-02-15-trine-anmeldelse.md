@@ -7,6 +7,7 @@ header:
   teaser: *image
   caption: *title
 category:
+  - Crowdlending
   - Anmeldelser
 tags:
   - crowdlending

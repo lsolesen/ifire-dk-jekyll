@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/funderbeam.jpg
   teaser: /assets/images/logo/funderbeam.png
 category:
+  - Crowdlending
   - Anmeldelser
 tags:
   - crowdlending
@@ -28,14 +29,14 @@ Jeg blev interesseret i virksomheden, fordi jeg godt kan lide at støtte folk, d
 
 Funderbeam er etableret i Estland, men har flyttet investorerne til Funderbeam Markets Ltd i England i stedet for at [skabe bedre muligheder for at tilbyde produkter](https://www.funderbeam.com/help/changing-your-service-provider-to-our-authorised-uk-company/).
 
-Jeg synes, at det er særlig interessant, at Funderbeam udnytter _blockchain_-teknologien for at registrere køb og salg. _Blockchain_ er det samme som Bitcoins udnytter for at gøre handler transparente og sikre uden at bruge mellemmænd. Hvordan Funderbeam nøjagtigt gør ift. Hvilken bagvedliggende valuta, der bruges er ikke helt klart ud fra deres beskrivelser på hjemmesiden. 
+Jeg synes, at det er særlig interessant, at Funderbeam udnytter _blockchain_-teknologien for at registrere køb og salg. _Blockchain_ er det samme som Bitcoins udnytter for at gøre handler transparente og sikre uden at bruge mellemmænd. Hvordan Funderbeam nøjagtigt gør ift. Hvilken bagvedliggende valuta, der bruges er ikke helt klart ud fra deres beskrivelser på hjemmesiden.
 
 Hvis du ikke er helt skarp på, hvad _blockchain_ er, så se lige videoen herunder.
 
 {% include video provider="youtube" id="9lbhUimi26k" %}
- 
+
 At Funderbeam bruger _blockchain_ gør imidlertid ikke investeringerne mere sikre, da jo foregår i firmaerne. Der er det dit eget ansvar at vurdere, hvad du gerne vil investere i. Der er grundige beskrivelser af de enkelte firmaer.
- 
+
 ## Hvordan fungerer Funderbeam
 
 Det er let og ligetil at oprette en konto hos [Funderbeam](/go/funderbeam). Du indsender dokumentation, og efter et par dage bliver du godkendt til at handler på platformen. Websitet er meget let at bruge. Jeg har skrevet til support, og de svarer rigtig hurtigt.
@@ -56,7 +57,7 @@ Desuden er det en platform med rigtig høj risiko, ingen _buy back_, ingen faste
 
 ## Hvordan vil jeg bruge Funderbeam
 
-Funderbeam er ikke et _set-it-and-forget-it_-site, men svarer lidt til, hvis du vil handle enkeltaktier, så skal du sætte dig ind i, hvad du laver. Samtidig er der stor risiko på platformen, fordi du investerer i _startups_. Du giver dem ikke bare et lån, men køber dig lidt ind i virksomheden. Du får muligheden for at være lidt med i _Løvens Hule_, og når du indikerer interesse i et syndikat, skal du også skrive, hvordan du tænker, at du kan hjælpe virksomheden. 
+Funderbeam er ikke et _set-it-and-forget-it_-site, men svarer lidt til, hvis du vil handle enkeltaktier, så skal du sætte dig ind i, hvad du laver. Samtidig er der stor risiko på platformen, fordi du investerer i _startups_. Du giver dem ikke bare et lån, men køber dig lidt ind i virksomheden. Du får muligheden for at være lidt med i _Løvens Hule_, og når du indikerer interesse i et syndikat, skal du også skrive, hvordan du tænker, at du kan hjælpe virksomheden.
 
 Jeg forestiller mig ikke at Funderbeam skal være en særlig stor del af min portefølje, men hvis der er interessante virksomheder med vækstpotentiale, så vil jeg med min meget lille sum risikovillige kapital prøve at købe mig ind i syndikatet. Jeg har allerede prøvet at blive en del af Lendino. Nu må vi se, hvordan det går.
 
