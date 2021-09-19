@@ -100,7 +100,7 @@ Der er et utal af beregnere rundt omkring på nettet. Jeg kan godt lide beregner
 
 ## Opsamling
 
-Betydningen af økonomisk frihed er at være fri for at arbejde for sine penge. Hvornår dette er opnået skal du selv finde ud af ud fra dine livsønsker. For de fleste af os kræver det hårdt arbejde på et tidspunkt i livet og sparsommelighed. Desto tidligere du kommer i gang med overvejelserne, desto mere kan du blive hjulpet på rejsen af effekten af _renters rente_. 4%-reglen er en mulighed for at anslå, hvad du konkret skal have investeret for at være økonomisk fri.
+Betydningen af økonomisk frihed er at være fri for at arbejde for sine penge. Hvornår dette er opnået skal du selv finde ud af ud fra dine livsønsker. For de fleste af os kræver det hårdt arbejde på et tidspunkt i livet og sparsommelighed. Desto tidligere du kommer i gang med overvejelserne, desto mere kan du blive hjulpet på rejsen af [effekten af rentes rente](/renters-rente/). 4%-reglen er en mulighed for at anslå, hvad du konkret skal have investeret for at være økonomisk fri.
 
 {% include feature_row type="left" %}
 

@@ -1,11 +1,11 @@
 ---
-title: "Biløkonomi - hvordan finder man ud af, hvornår bilen skal skiftes?"
+title: "Biløkonomi: Hvornår skal bilen skiftes?"
 permalink: /bilokonomi/
 category:
   - Privatøkonomi
 tags:
   - biløkonomi
-excerpt: "Vores bil har efterhånden gjort det godt, men hvordan finder man ud af, hvornår det er er tid til at skifte?"
+excerpt: "Vores bil har efterhånden gjort det godt, men hvordan finder man ud af, hvornår det er er tid til at skifte skifte bil? Indblik i biløkonomi!"
 last_modified_at: 2019-07-15T20:22:02+02:00
 feature_row_autobutler:
   - image_path: "https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=49818"
@@ -20,8 +20,10 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 ---
 
-Kilometertæller ved overtagelse: 80.000
-Kilometertæller pr. medio juli 2019: 194.000
+{{ page.excerpt }}
+
+- Kilometertæller ved overtagelse: 80.000
+- Kilometertæller pr. medio juli 2019: 194.000
 
 ## Bilens historik
 

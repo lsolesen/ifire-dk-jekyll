@@ -82,7 +82,7 @@ Det er vigtigt, at du er langsigtet, når du investerer i indeksfonde. Aktiemark
 
 Har du en langsigtet tidshorisont, så peger al historik på, at aktiemarkedet altid vil gå op. Der vil dog være udfald på vejen, men det kan du gardere dig imod ved at være langsigtet.
 
-Derudover så er det vigtigt, at du finder en passiv indeksfond. Den har klart de laveste omkostninger, og det har stor betydning for renters rente. Lad mig komme et eksempel. Lad os sige, at der er to investeringsforeninger. Den ene (fond 1) har en ÅOP på 0,5 %, og den anden (fond 2) har en ÅOP på 2,0 %. Ofte vil passive fonde være i den lave ende, mens aktive fonde vil være i den høje ende. Det interessante er her, at fond 2 hvert år skal opnå et afkast, der er 1,5 % højere end fond 1 for at præstere det samme.
+Derudover så er det vigtigt, at du finder en passiv indeksfond. Den har klart de laveste omkostninger, og det har stor betydning for [rentes rente](/renters-rente/). Lad mig komme et eksempel. Lad os sige, at der er to investeringsforeninger. Den ene (fond 1) har en ÅOP på 0,5 %, og den anden (fond 2) har en ÅOP på 2,0 %. Ofte vil passive fonde være i den lave ende, mens aktive fonde vil være i den høje ende. Det interessante er her, at fond 2 hvert år skal opnå et afkast, der er 1,5 % højere end fond 1 for at præstere det samme.
 
 
 

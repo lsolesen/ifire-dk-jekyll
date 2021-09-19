@@ -49,7 +49,7 @@ Hvorfor skal min nevø lægge lidt til side?
 
 {% include video id="CJP8eCAihDY" provider="youtube" %}
 
-Jeg håber, at min nevø bliver inspireret af _renters rente_-effekten, som han selv kan lege med i følgende beregner. Renters rente skulle gerne være med til at fastholde motivationen for at investere.
+Jeg håber, at min nevø bliver inspireret af _renters rente_-effekten, som han selv kan lege med i følgende beregner. [Rentes rente](/renters-rente/) skulle gerne være med til at fastholde motivationen for at investere.
 
 {% include compound-interest-calculator.html %}
 

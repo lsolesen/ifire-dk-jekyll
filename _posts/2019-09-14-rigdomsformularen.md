@@ -48,7 +48,7 @@ Hvis du kun investerer de penge, du ellers ville have brugt på ligegyldigt forb
 
 Start måneden med at investere et beløb. At gøre det først på måneden gør nemlig, at du ikke kan bruge pengene på noget tilfældigt i løbet af måneden.
 
-Hvorfor skal du investere? Du vil nok finde motivation i effekten af renters rente i nedenstående beregner.
+Hvorfor skal du investere? Du vil nok finde motivation i effekten af [renters rente](/renters-rente/) i nedenstående beregner.
 
 ***
 

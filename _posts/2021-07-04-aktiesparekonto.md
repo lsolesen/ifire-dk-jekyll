@@ -73,7 +73,7 @@ Det er heldigvis også muligt at få en gratis aktiesparekonto. Både Nordnet og
 
 ## Hvordan får jeg en aktiesparekonto?
 
-De fleste banker tilbyder, at du kan få en aktiesparekonto. Jeg kan selv godt lide at klare mine investeringer selv. Det kan du også gøre i mange banker, men du kan også bruge en decideret børsmægler.
+De fleste banker tilbyder, at du kan få en aktiesparekonto. Jeg kan godt lide at klare mine investeringer selv. Det kan du også gøre i mange banker, men du kan også bruge en decideret børsmægler.
 
 Du kan få en aktiesparekonto allerede nu hos Saxo Investor, og i løbet af 2021 så lancerer Nordnet også en aktiesparekonto.
 
@@ -103,8 +103,11 @@ Fordelen ved Saxo er, at du handler fast for en relativ besked kurtage, hvilket 
 ## Hvad er beskatningen på aktiesparekontoen?
 
 Du beskattes med 17 % af afkastet på aktiesparekontoen. Afkastet opgøres efter lagerprincippet ved årets udgang.
+
 Pengeinstituttet indberetter automatisk alle oplysningerne til Skattestyrelsen, og skatten beregnes og betales af pengeinstituttet via din aktiesparekonto.
+
 Skatten er altså mere eller mindre på autopilot.
+
 ## Hvilke værdipapirer kan du købe på aktiesparekontoen?
 
 Du kan investere i aktier og investeringsbeviser, hvor mindst 50% af aktiverne i foreningen består af aktier. Du kan også investere i ETF’er, som er registreret hos den danske skattestyrelse. Den liste ændrer sig jævnligt, så du kan tjekke mere ved [Skat](https://skat.dk/skat.aspx?oid=17119).
@@ -114,3 +117,5 @@ Din bank eller børsmægler bør sikre sig, at du ikke kan komme til at købe fo
 ## Konklusion
 
 En aktiesparekonto er altså for alle. Indskuddet på kontoen er fortsat ikke så stort, men årligt vil kontoen forhåbentlig få mere og mere politisk medvind, så vi kan få en lav og gennemskuelig beskatning på vores investeringer i Danmark.
+
+Vil du også bruge aktiesparekontoen til at udnytte [rentes rente effekten](/renters-rente/).
