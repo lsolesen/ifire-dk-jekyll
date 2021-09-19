@@ -1,6 +1,7 @@
 ---
 layout: single
 title: &title Privatøkonomi
+seo_title: "Privatøkonomi: Få styr på budget, forbrug og investeringer"
 permalink: /privatokonomi/
 header:
   overlay_image: https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80

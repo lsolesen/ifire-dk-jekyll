@@ -1,5 +1,5 @@
 ---
-title: "Hvilken konto skal jeg vælge?"
+title: "Bankkonto: Hvilken konto skal jeg vælge?"
 permalink: /hvilken-konto/
 category:
   - Privatøkonomi

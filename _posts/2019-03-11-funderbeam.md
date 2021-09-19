@@ -1,5 +1,5 @@
 ---
-title: "Funderbeam - anmeldelse"
+title: "Funderbeam anmeldelse: Køb andele i startups"
 permalink: /funderbeam-anmeldelse/
 header:
   overlay_image: /assets/images/funderbeam.jpg
@@ -12,7 +12,7 @@ tags:
   - crowdfunding
   - investering
   - blockchain
-excerpt: "Funderbeam er en spændende crowd investing platform baseret på blockchain-teknologierne - men måske for risikofyldt?"
+excerpt: "Funderbeam er en spændende crowdlending og crowd investing platform baseret på blockchain-teknologierne - men måske for risikofyldt?"
 ---
 
 {% include disclosure.html %}

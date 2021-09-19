@@ -1,5 +1,6 @@
 ---
 title: &title "Nord.Investments"
+seo_title: "Nord.Investments investeringsrobot til hands-off investering"
 permalink: /platform/nord/
 header:
   teaser: &logo /assets/images/logo/nord.png

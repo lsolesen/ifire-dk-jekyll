@@ -1,5 +1,5 @@
 ---
-title: "Hvad er obligationer?"
+title: "Hvad er obligationer og hvordan investerer jeg i dem?"
 last_modified_at: 2020-03-09T09:20:02+02:00
 permalink: /obligationer/
 header:
@@ -10,7 +10,7 @@ tags:
   - investering
   - obligationer
   - værdipapirer
-excerpt: "Obligationer kan være en del af en portefølje for at sikre mod deflation og give porteføljen lidt stabilitet - og typisk mindre risiko."
+excerpt: "Obligationer kan være en del af en portefølje for at sikre mod deflation og give porteføljen lidt stabilitet. Investering i obligationer er typisk forbundet med mindre risiko."
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
