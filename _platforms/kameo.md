@@ -33,7 +33,7 @@ Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet a
 ## Fordele
 
 - Dansk crowdlending
-- Let at oprette en profil på [Kameo](/go/kameo/){: rel="nofollow noopener" }
+- Let at oprette en profil på [Kameo](/go/kameo/){: rel="sponsored nofollow noopener" }
 - Investeringer i nordiske lande til gode projekter.
 - Gratis valutaveksling mellem DKK, NOK og SEK.
 - Platformen er relativt overskuelig.
@@ -101,7 +101,7 @@ Jeg har trukket mig fra den norske del af Kameo, fordi der ganske enkelt ikke ko
 
 Jeg kunne virkelig godt bruge en _auto invest_ på Kameo, så jeg ikke behøver at tjekke om jeg har _cash drag_ et par gange om måneden. Men det ser ikke ud til, at den lige er på trapperne.
 
-> Vi har ikke en auto-invest funktion på tegnebrættet i den nærmeste fremtid da det er noget der kræver både tekniske og forretningsmæssige overvejelser.
+> Vi har ikke en auto-invest funktion på tegnebrættet i den nærmeste fremtid, da det er noget der kræver både tekniske og forretningsmæssige overvejelser.
 
 --- <cite>Svar på e-mail fra Kameo kundeservice</cite>
 
@@ -111,6 +111,6 @@ Kameo er en rigtig god dansk platform, hvis du gerne vil investere i danske elle
 
 Jeg kunne godt tænke mig, at de etablerede en auto invest og sænkede investeringsbeløbet. Kameo kunne også godt kæle lidt for backenden, så man kunne få lidt brugbare statistikker om investeringerne.
 
-[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success rel="nofollow noopener" }
+[Opret dig på Kameo](/go/kameo/){: .btn .btn--large .btn--success rel="sponsored nofollow noopener" }
 
 Læs mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
