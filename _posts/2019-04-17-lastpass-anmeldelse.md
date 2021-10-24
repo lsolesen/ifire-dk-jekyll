@@ -44,6 +44,10 @@ Uanset hvad så er det noget sikrere end at bruge det samme password til alle si
 - Du kan dele passwords
 - Du kan have flere profiler
 
+## Husk 'recovery phone'
+
+{% include figure image_path="/assets/images/posts/lastpass-setup-recovery-phone.png" %}
+
 ## Konklusion
 
 LastPass har virkelig gjort mit liv lettere. Jeg bruger også LastPass en gang om året til at gennemgå alle de sites, jeg har en profil på. Er der sites, jeg skal have slettet min profil fra? Har jeg fået brugt de samme passwords? Jeg har valgt Premium-udgaven primært for at kunne bruge appen på min telefon, men den gratis udgave giver virkelig meget for (ingen) penge(ene).
