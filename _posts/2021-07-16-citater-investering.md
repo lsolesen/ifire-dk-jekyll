@@ -73,3 +73,5 @@ Der findes rigtig mange citater om investering, penge og privatøkonomi. Jeg kan
 ## Konklusion
 
 Hvis du har andret gode citater om investeringer, penge og privatøkonomi, så send dem meget gerne til {{ site.email }}, så jeg kan udvide listen.
+
+Du kan også lade dig inspirere af [flere citater på motionsplan.dk](https://www.motionsplan.dk/citater-om-at-kaempe/).

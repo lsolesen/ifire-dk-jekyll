@@ -80,3 +80,6 @@ Det er værd at bemærke, at fordelagtigheden ved den lave afkastbeskatning gør
 
 Pas på modregning
 Det er imidlertid ikke ligegyldigt, hvilken pensionsform der vælges. Specielt modregningen i pensionstillæg, som er tilfældet ved ratepensioner og livrenter, betyder, at mange pensionsopsparere med fordel kan vælge aldersopsparingen. Indskydes der på ratepensioner og livrenter for opsparere, som ikke betaler topskat, kan modregningen i pensionstillægget ved udbetaling faktisk medføre, at man risikerer at spare op med tab. Denne problemstilling er relevant for mange lønmodtagere med arbejdsmarkedspensioner og indkomst under topskattegrænsen, som på grund af det manglende fradrag på aldersopsparing har fået omlagt deres pensionsindskud fra kapitalpension til ratepensioner eller livrenter.
+
+
+https://www.frinans.dk/min-aldersopsparing-og-hvorfor-jeg-har-en/
