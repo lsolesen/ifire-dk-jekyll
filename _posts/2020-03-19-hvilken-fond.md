@@ -36,7 +36,7 @@ Jeg bruger selv hovedsageligt [Morningstar](http://www.morningstar.dk/) og fonde
 
 Du skal vælge om du vil følge en aktiv eller en passiv strategi i forhold til de fonde, du vælger.
 
-Jeg sværger til passive investeringsfonde, der følger et verdensindeks, fordi der er stor sandsynlighed for, at de [passivt forvaltede fonde klarer sig bedre end de aktive](/passiv-investering-slaar-aktiv/). I bund og grund handler forskellen om, hvordan aktierne udvælges. I en passivt forvaltet fond køber manageren underliggende aktier, der afspejler det underliggende indeks (fx [verdensmarkedet](/investering-vol9/)), mens en aktiv forvalter forsøger at finde aktier, der klarer sig bedre end de øvrige aktier. 
+Jeg sværger til passive investeringsfonde, der følger et verdensindeks, fordi der er stor sandsynlighed for, at de [passivt forvaltede fonde klarer sig bedre end de aktive](/passiv-investering-slaar-aktiv/). I bund og grund handler forskellen om, hvordan aktierne udvælges. I en passivt forvaltet fond køber manageren underliggende aktier, der afspejler det underliggende indeks (fx [verdensmarkedet](/investering-vol9/)), mens en aktiv forvalter forsøger at finde aktier, der klarer sig bedre end de øvrige aktier.
 
 De aktivt forvaltede fonde lyder tillokkende, men det indebærer højere omkostninger uden at sikre et højere afkast. Man kan sige at du påtager dig en højere risiko uden nødvendigvis at få et højere afkast.
 
@@ -52,7 +52,7 @@ Når man kigger på Morningstar, så sammenlignes alle fonde med både en katego
 
 ## Morningstar rating
 
-Morningstar er en anerkendt, international virksomhed, der rater alle fonde - både de danske investeringsafdelinger og ETF’er. Ratingen sammenligner fondene indenfor samme kategori. Ratingen sammenligner de enkelte afdelingers reelle afkast (efter omkostninger) historisk. Den bedste rating er 5 stjerner. 
+Morningstar er en anerkendt, international virksomhed, der rater alle fonde - både de danske investeringsafdelinger og ETF’er. Ratingen sammenligner fondene indenfor samme kategori. Ratingen sammenligner de enkelte afdelingers reelle afkast (efter omkostninger) historisk. Den bedste rating er 5 stjerner.
 
 Fondene skal have været i gang et stykke tid, inden de får en rating fra morningstar.
 
@@ -70,14 +70,14 @@ Standardafvigelsen sammenligner udsvinget i fondens afkast ift. markedets udsvin
 
 Sharpe ratio indikerer, hvor god en fond er til at få afkast i forhold til risikoen. Moderne porteføljeteori forudsætter, at en (rationel) investor ønsker altid så højt afkast som muligt i forhold til riskoen ved investeringen. Ved større risiko bør afkastet være højere.
 
-Jo højere Sharpe ratio, jo bedre er porteføljens risikojusterede udvikling. 
+Jo højere Sharpe ratio, jo bedre er porteføljens risikojusterede udvikling.
 
 Sharpes ratio udregnes ved at dividere det forventede afkast minus en risikofri investering (fx i obligationer) med standardafvigelsen. En høj Sharpe ratio er et af de vigtigste nøgletal til at vurdere, hvor god en investeringsforening er.
 
 {% include math formula="SharpeRatio = \frac{R_p - −R_f}{\sigma_p}" %}
 
-R<sub>p</sub> = forventet afkast fra porteføljen  
-R<sub>f</sub> = forventede risiko-frie afkast (fx en obligation)  
+R<sub>p</sub> = forventet afkast fra porteføljen
+R<sub>f</sub> = forventede risiko-frie afkast (fx en obligation)
 σ<sub>p</sub> = standardafvigelsen (risikoen) for porteføljen
 
 | Sharpe ratio | Vurdering    |
@@ -95,9 +95,9 @@ Der er to begreber, det kan være godt at kende i denne forbindelse. Ofte nævne
 
 ### Tracking error
 
-En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nogenlunde. Der er ikke nogen fonde, der nøjagtigt kan følge indekset, men de skal gerne komme tæt på. Fx følger Sparinvest INDEX Globale Aktier (SPVIGAKL) indekset MSCI ACWI IMI, der har omkring 9.000 aktier fra både udviklede og udviklingslande. Selve investeringsafdelingen består kun af 463 aktier, men fondens samlede afkast skal stadig følge indekset. 
+En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nogenlunde. Der er ikke nogen fonde, der nøjagtigt kan følge indekset, men de skal gerne komme tæt på. Fx følger Sparinvest INDEX Globale Aktier (SPVIGAKL) indekset MSCI ACWI IMI, der har omkring 9.000 aktier fra både udviklede og udviklingslande. Selve investeringsafdelingen består kun af 463 aktier, men fondens samlede afkast skal stadig følge indekset.
 
-{% include figure image_path="/assets/images/book/spvigakl-afkast.png" caption="[Afkast sammenlignet med Benchmark for SPVIGAKL](https://www.sparinvest.dk/afdelinger/indeks/index%20globale%20aktier%20kl.aspx)" %}
+{% include figure image_path="/assets/images/book/spvigakl-afkast.png" caption="[Afkast sammenlignet med Benchmark for SPVIGAKL](https://sparindex.dk/produkter/)" %}
 
 ### Benchmarkafkast-afvigelsen (BA)
 
@@ -131,7 +131,7 @@ Det er altså vigtigt, at du er opmærksom på, hvad du sammenligner.
 
 ## Find den bedste fond?
 
-Når du sammenligner fondene med hinanden, skal du naturligvis være opmærksom på, at den historiske præstation ikke er garanti for fremtidig præstation. 
+Når du sammenligner fondene med hinanden, skal du naturligvis være opmærksom på, at den historiske præstation ikke er garanti for fremtidig præstation.
 
 For at vælge den bedste fond til dit formål, kan du altså kigge på:
 

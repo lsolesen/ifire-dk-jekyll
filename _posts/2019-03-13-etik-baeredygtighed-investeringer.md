@@ -19,7 +19,7 @@ Jeg er ved at få helt styr på, hvordan min samlede økonomi skal være skruet 
 
 - Jeg har fået sat gang i en **flytning af mine værdipapirer til [Nordnet](/go/nordnet/)**. Værdipapirerne står fortsat, som min tidligere bank har investeret dem.
 - Jeg har **eksperimenteret med forskellige crowdlending-platforme**, som både yder lån til private og forbrugslån, lån til ejendomsudvikling, andele i ejendomme og bæredygtige udviklingsprojekter på [Trine](/go/trine/){: rel='sponsored nofollow noopener' }.
-- Jeg har **købt lidt træer hos [Better Globe](/platform/better/globe/)**, som lover ret fint udbytte på 13%+ over 20 år, men det er en ret lille del af min portefølje.
+- Jeg har **købt lidt træer hos [Better Globe](/platform/betterglobe/)**, som lover ret fint udbytte på 13%+ over 20 år, men det er en ret lille del af min portefølje.
 
 ## Hvordan investerer jeg etisk og bæredygtigt i værdipapirer
 

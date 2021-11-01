@@ -44,11 +44,11 @@ De danske indeksforeninger er _market makers_. Som market maker er investeringsf
 - **Emmisionstillæg**. Hvis investeringsforeningen vokser og sælger nye beviser på børsen, så sker det til en overkurs i forhold til afdelingens indre værdi. Man siger at foreningen foretager emmisioner, og det opkræver foreningen et emmisionstillæg for.
 - **Indløsningsfradraget**. Når investorer forlader afdelingen og indløser deres investeringsbeviser, så opkræver foreningen et indløsningsfradrag og køber altså til en underkurs.
 
-Spreadet er en indirekte handelsomkostning, som faktisk godt kan blive ret betydelig. 
+Spreadet er en indirekte handelsomkostning, som faktisk godt kan blive ret betydelig.
 
 ## Hvor finder jeg omkostningerne?
 
-Du kan finde omkostningerne på [Morningstar](http://www.morningstar.dk/) ved at søge fondene frem. 
+Du kan finde omkostningerne på [Morningstar](http://www.morningstar.dk/) ved at søge fondene frem.
 
 Her kan du se et eksempel på omkostninger på SparInvests Globale Aktier (SPVIGAKL).
 
@@ -67,21 +67,21 @@ Valutakontoen har den fordel, at hvis du sælger udenlandske værdipapirer eller
 
 ## Hvad er omkostningerne
 
-Når du køber en ETF på fx [Nordnet](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en. 
+Når du køber en ETF på fx [Nordnet](/go/nordnet/) er minimumskurtagen 12 EUR. I det følgende eksempel forudsætter vi, at du ikke har penge på din EUR-valutakonto, så du bliver nødt til at veksle for at købe ETF’en.
 
 ### Udenlandsk global ETF
 
 Som eksempel vil vi købe [BlackRock iShares Core MSCI World UCITS ETF (EUNL)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000MEHZ). Du kan fx slå spreadet for de enkelte fonde op på [Nordnets ETF-værktøj](https://www.nordnet.dk/markedet/etf-lister?sortField=spread_pct&sortOrder=desc&freeTextSearch=EUNL&fundRegionCategories=GLOBAL&fundType=EQUITY&fundBrandingCompany=iShares). Vi bruger eksemplet fra før, hvor vi købte EUNL for 7.988,98 EUR. Lige nu er spreadet for EUNL 0,27%.
 
 | Spread ved køb af ETF        | 0,27% x beløb      | 161,19 DKK |
-| Kurtage                      | 12 EUR eller 0,15% | 89,67 DKK  | 
+| Kurtage                      | 12 EUR eller 0,15% | 89,67 DKK  |
 | Skæring på valuta            | 0,15% x beløb      | 89,67 DKK  |
 | Samlede omkostninger         |                    | 340,53 DKK |
 | Omkostningsprocent af handel |                    | 0,57%      |
 
 ### Dansk global indeksfond
 
-Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://www.sparinvestindex.dk/afdelinger/alle%20afdelinger/index%20globale%20aktier%20kl.aspx), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK. 
+Hvis vi tager udgangspunkt i [SparInvest INDEX Global Aktier (SPVIGAKL)](https://sparindex.dk/produkter/), som har et maksimalt emmisionstillæg på 0,29%, og at vi køber den på [Nordnet](/go/nordnet/). Vi vil købe for et tilsvarende beløb for at sammenligne. Jeg køber 642 til kurs 93, hvilket giver 59.706 DKK.
 
 | Emissionstillæg              | 0,29% x beløb             | 173,32 DKK |
 | Kurtage                      | 0,10% x beløb, min 29 DKK | 59,71 DKK  |
@@ -100,7 +100,7 @@ Når du køber værdipapirer, så bliver de noteret til en GA-kurs. GA-kursen in
 
 ## Afslutning
 
-Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er. 
+Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er.
 
 Jeg køber hovedparten af mine [værdipapirer gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
 

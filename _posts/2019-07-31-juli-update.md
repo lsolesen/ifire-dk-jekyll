@@ -98,7 +98,7 @@ For et stykke tid siden stillede jeg spørgsmålet: ["Hvornår begynder man at t
 
 Den almindelige crowdlending er platformenes interne rente ved at stabilisere sig for de flestes vedkommende efter fire-fem måneder:
 
-{% include figure image_path="/assets/images/posts/crowdlending-xirr-july-2019.png" caption="Crowdlending XIRR - Interne rente - Juli 2019" alt="XIRR - Interne rente - Juli 2019" %}
+{% include figure image_path="/assets/images/status/crowdlending-xirr-july-2019.png" caption="Crowdlending XIRR - Interne rente - Juli 2019" alt="XIRR - Interne rente - Juli 2019" %}
 
 En af undtagelserne er [Kameo](/platform/kameo/), som har været lidt længe undervejs, men for de svenske lån har den dog sneget sig over XIRR på 5% nu - og jeg forventer ikke en XIRR på Kameo, der bliver så meget højere.
 

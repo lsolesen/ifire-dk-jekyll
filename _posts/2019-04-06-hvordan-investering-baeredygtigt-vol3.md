@@ -46,17 +46,17 @@ Jeg synes CO<sub>2</sub> generelt fylder for meget i debatten om bæredygtighed 
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/da/chris_mcknett_the_investment_logic_for_sustainability" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-## Hvilke typer investeringer findes der? 
+## Hvilke typer investeringer findes der?
 
-1. **Traditionelle investeringer.**  
+1. **Traditionelle investeringer.**
 Investeringerne har fokus på finansielt afkast og foregår typisk i traditionelle aktier, obligationer, investeringsfonde og ETF’er.
-2. **Ansvarlige investeringer.**  
-Investeringerne foregår på baggrund af negativ screening. Typisk indeholder _ansvarlige investeringer_ ikke våben, kul eller tobak. Forretningsområderne kan også vælges ud fra en positiv screening, hvor investeringerne foregår i de bedste udgaver i forretningssektoren. 
-3. **Bæredygtige investeringer.**  
+2. **Ansvarlige investeringer.**
+Investeringerne foregår på baggrund af negativ screening. Typisk indeholder _ansvarlige investeringer_ ikke våben, kul eller tobak. Forretningsområderne kan også vælges ud fra en positiv screening, hvor investeringerne foregår i de bedste udgaver i forretningssektoren.
+3. **Bæredygtige investeringer.**
 Investeringerne udvælges særligt fordi virksomhederne tænker bæredygtigt. Et par eksempler er Triodos, Parvest og SDG Invest.
-4. **Impact investering.**  
+4. **Impact investering.**
 Investeringerne er målrettede for at løse samfundsmæssige udfordringer, fx sociale eller miljømæssige forhold. Formålet er at pårvirke en sektor, men stadig få finansielt afkast.
-5. **Filantropi.**  
+5. **Filantropi.**
 Her handler det om at donere til projekter med konkrete formål, du kan støtte op om. Du giver pengene væk, og du får ingen afkast.
 
 I denne forbindelse vil jeg lige nævne forkortelsen **ESG**. Det står for _environmental_, _social_ og _governance_. I bund og grund handler det om, at firmaerne tager ansvar for miljømæssige, sociale og etiske problemstillinger. Du kan få forklaret begrebet i denne korte video fra Nordea Invest.
@@ -75,7 +75,7 @@ Men det handler også om, hvad din fortolkning af bæredygtighed er. Handler det
 
 ## EU Disclosure Forordning og bæredygtig investering
 
-I marts 2021 trådte EU's "Disclosure Forordning" i kraft. Du kan læse Finanstilsynets pressemeddelelse kan læses [her](https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2021/Disclosureforordningen_030321). Investorer er blevet mere og mere interesserede i grønne investeringer og aktier, og nu bliver markedet altså lettere at navigere i. Forordningen handler om bæredygtig investering, og forordningen gælder naturligvis for hele EU. Der er et par interessante tiltag i forordningen. Disclosure-ordningen er et trin på vej mod "Bæredygtig Finansiel Vækst". 
+I marts 2021 trådte EU's "Disclosure Forordning" i kraft. Du kan læse Finanstilsynets pressemeddelelse kan læses [her](https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2021/Disclosureforordningen_030321). Investorer er blevet mere og mere interesserede i grønne investeringer og aktier, og nu bliver markedet altså lettere at navigere i. Forordningen handler om bæredygtig investering, og forordningen gælder naturligvis for hele EU. Der er et par interessante tiltag i forordningen. Disclosure-ordningen er et trin på vej mod "Bæredygtig Finansiel Vækst".
 
 ### Investeringsforeninger får standardiserede grønne krav
 
@@ -123,9 +123,9 @@ Men hvor finder du så danske fonde, der har taget den nye klassificering i brug
 
 Jeg har slået alle værdipapirerne i denne artikel op på [Morningstar](http://www.morningstar.dk/dk/). Morningstar er et uafhængigt analysebureau, der er kendt for at rangordne investeringsafdelinger overalt i verden. De har to forskellige kategorier.
 
-Morningstar giver fra en til fem **stjerner** alt efter hvor godt investeringsafdelingerne klarer sig målt på afkast, risiko og omkostninger. De giver også fra en til fem **globusser** alt efter, hvor bæredygtige de enkelte investeringsafdelinger er. 
+Morningstar giver fra en til fem **stjerner** alt efter hvor godt investeringsafdelingerne klarer sig målt på afkast, risiko og omkostninger. De giver også fra en til fem **globusser** alt efter, hvor bæredygtige de enkelte investeringsafdelinger er.
 
-Dog skal man være opmærksom på, at Morningstars bæredygtighedsrating ikke er absolut, men relativ. Det betyder, at bæredygtighedsratingen kigger på, hvor bæredygtige de udvalgte produkter er i forhold til sektoren, de er udvalgt fra. Det betyder fx, at fonde med fossile brændstoffer og kul i porteføljen godt kan få en god rating, hvis bare de udvalgte aktier og obligationer er bedre end gennemsnittet i branchen. 
+Dog skal man være opmærksom på, at Morningstars bæredygtighedsrating ikke er absolut, men relativ. Det betyder, at bæredygtighedsratingen kigger på, hvor bæredygtige de udvalgte produkter er i forhold til sektoren, de er udvalgt fra. Det betyder fx, at fonde med fossile brændstoffer og kul i porteføljen godt kan få en god rating, hvis bare de udvalgte aktier og obligationer er bedre end gennemsnittet i branchen.
 
 På den anden side kan det også betyde, at [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) kun får tre ud af fem globusser i bæredygtighedsratingen, selvom hele fokus er at investere i _clean energy_.
 
@@ -139,7 +139,7 @@ Morningstars bæredygtighedsrating er derfor ikke uden forståelsesmæssige udfo
 Man kan også lade sig inspirere af de svanemærkede investeringsfonde.
 
 > Svanemærkede investeringsfonde skal opfylde 25 obligatoriske krav, der regulerer de forskellige måder, som en fond kan påvirke virksomheder på. Det vil blandt andet sige gennem fravalg og tilvalg af virksomheder samt åbenhed om fondens investeringer. Kravene betyder bl.a., at mindst halvdelen af fondens portefølje skal være investeringer i virksomheder, der har fået en god bedømmelse i en bæredygtighedsanalyse.
-> 
+>
 > Samtidig må fonden ikke investere i visse brancher og virksomheder, der er særlig problematiske. Fx skal fonden udelukke virksomheder, der ikke følger internationale normer og konventioner, bl.a. ift. menneskerettigheder, grov korruption og grove miljøovertrædelser. Forvalteren af en svanemærket fond skal hvert kvartal publicere en rapport over, hvilke aktier og obligationer fonden investerer i – og mindst en gang årligt publicere en oversigt over fondens bæredygtighedsaktiviteter. Vær opmærksom på, at Svanemærkning af en fond ikke er nogen garanti for fondens afkast eller for, hvor risikofyldt placeringen er.
 
 --- <cite>[Svanemærkede Investeringsfonde](https://www.ecolabel.dk/da/produkter/investeringsfonde/investeringsfonde)
@@ -170,7 +170,7 @@ Storebrand har en række prisbillige indeksfonde, som følger verdensindekset MS
 
 ### Triodos Banks fonde, fx gennem Merkur Andelskasse
 
-Merkur Andelskasse er et rigtigt godt bud på en bank, hvis du går op i bæredygtighed. De har mange gode tilbud, fx [Merkur andele](https://www.merkur.dk/investeringer/vaerdipapirer/merkur-andele/) (som gør, at Merkur kan låne penge ud til andre bæredygtige projekter). Merkur har en række [forslag til bæredygtige, sociale og etiske investeringer](https://www.merkur.dk/investeringer/vaerdipapirer/). 
+Merkur Andelskasse er et rigtigt godt bud på en bank, hvis du går op i bæredygtighed. De har mange gode tilbud, fx [Merkur andele](https://www.merkur.dk/investeringer/vaerdipapirer/merkur-andele/) (som gør, at Merkur kan låne penge ud til andre bæredygtige projekter). Merkur har en række [forslag til bæredygtige, sociale og etiske investeringer](https://www.merkur.dk/investeringer/).
 
 Her ser fx de [svanemærkede fonde](https://www.merkur.dk/investeringer/svanemaerkede-investeringer/) fra  [Triodos Bank](https://www.triodos.com/vision-on-impact) spændende ud. Triodos Bank deler værdier med Merkur og tænker først og fremmest på impact investeringer. Det er **aktive fonde**. Du kan investere i [Triodos Renewables Europe Fund](https://merkur.dk/privat/artikler-investering-og-pension/merkur-har-faet-svanemaerkede-produkter-pa-hylden/) (sol-, vind og batteriprodukter), [Triodos Sustainable Bond Mixed Fund](https://merkur.dk/privat/artikler-investering-og-pension/merkur-har-faet-svanemaerkede-produkter-pa-hylden/) (de bedste aktier og obligationer i firmaer for bæredygtighed), [Triodos Sustainable Pioneer Fund](https://merkur.dk/privat/artikler-investering-og-pension/merkur-har-faet-svanemaerkede-produkter-pa-hylden/) (bæredygtig innovation) og [Triodos Sustainable Equity Fund](https://merkur.dk/privat/artikler-investering-og-pension/merkur-har-faet-svanemaerkede-produkter-pa-hylden/) (fx bæredygtig transport).
 
@@ -198,7 +198,7 @@ De aktive investeringsforeninger kommer altså med noget højere årlige omkostn
 
 ## Bæredygtige robotinvesteringer i Nord.Investments
 
-[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en automatiseret robotinvestering. Du vælger din risikoprofil, og så sørger algoritmerne selv for investeringerne i prisbillige ETF'er. De samlede omkostninger (ÅOP) er 0,75% inkl. de årlige udgifter til fondene, kurtage og så videre. 
+[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en automatiseret robotinvestering. Du vælger din risikoprofil, og så sørger algoritmerne selv for investeringerne i prisbillige ETF'er. De samlede omkostninger (ÅOP) er 0,75% inkl. de årlige udgifter til fondene, kurtage og så videre.
 
 Og det bedste er at du kan vælge en såkaldt "ansvarlig portefølje". Hvis du ikke vil sætte dig ind i at sidde og investere selv, så er det en rigtig fin mulighed. Du kan endda få en [gratis investeringsplan fra Nord](/go/nord/){: rel='sponsored nofollow noopener' }, som du kan bruge som inspiration, hvis du vælger selv at stå for investeringerne.
 
@@ -210,9 +210,9 @@ Og det bedste er at du kan vælge en såkaldt "ansvarlig portefølje". Hvis du i
 
 Hos udenlandske ETF’er kan man opnå meget lave årlige omkostninger på selve værdipapiret. Man skal dog være [opmærksom på de omkostninger, der er forbundet ved at købe papirer i en udenlandsk valuta](https://the-international-investor.com/hidden-cost-fx-charges) og at beskatningen er anderledes en aktier (beskatningsreglerne ændres fra 2020).
 
-BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ishares.com/us/strategies/sustainable-investing). BlackRock har værdipapirer, hvor 
+BlackRock har [forskellige måder at investere bæredygtigt på](https://www.ishares.com/us/strategies/sustainable-investing). BlackRock har værdipapirer, hvor
 
-- **ESG** sættes højt (begrebet blev forklaret i begyndelsen af denne artikel). 
+- **ESG** sættes højt (begrebet blev forklaret i begyndelsen af denne artikel).
 - **Tematiske** emner berøres, fx , som fx iShares MSCI ACWI Low Carbon Target ETF og iShares Global Clean Energy ETF
 - **Impact**-ETF’er som fx iShares MSCI Global Impact ETF og iShares Global Green Bond ETF.
 
@@ -246,7 +246,7 @@ Hvis du gerne vil _trade_ i grønne enkeltaktier og selv lave en alsidig, etisk 
 
 Du kan selvfølgelig vælge at investere [Chr. Hansen Holding](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000TB4A&LanguageId=da-DK&SecurityToken=0P0000TB4A]3]0]E0WWE$$ALL) som lige er blevet kåret til **verdens mest bæredygtige virksomhed**, [skriver de selv](https://www.chr-hansen.com/en/media/2019/1/chr-hansen-kret-som-verdens-mest-bredygtige-virksomhed).
 
-Selvom du fx investerer i Vestas, kommer der naturligvis ikke flere vindmøller, men derfor kan man jo godt have principper om, at man ikke vil være medejer i virksomheder, som ikke har et bæredygtigt fokus. 
+Selvom du fx investerer i Vestas, kommer der naturligvis ikke flere vindmøller, men derfor kan man jo godt have principper om, at man ikke vil være medejer i virksomheder, som ikke har et bæredygtigt fokus.
 
 Hvis du gerne vil sætte et bæredygtigt aftryk, kan du lade dig inspirere af [AltEnergy Stocks](http://www.altenergystocks.com/archives/category/stock-list/), eller du kan dykke ned i, hvad de ovenstående investeringsforeninger, -fonde og ETF'er har købt i deres porteføljer. Der er i hvert fald masser af mulighed for investere bæredygtigt og have _impact_.
 
