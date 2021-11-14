@@ -36,9 +36,11 @@ gallery:
 
 {% include disclosure.html %}
 
-Jeg har tidligere skrevet om at [Spare penge på mobilabonnementet](/mobilabonnement/), men nu er det ved at være tid til, at min ældste datter også skal have en telefon, og derfor også et mobilabonnement.
+Jeg har tidligere skrevet om at [spare penge på mobilabonnementet](/mobilabonnement/), men nu er det ved at være tid til, at min ældste datter også skal have en telefon, og derfor også et mobilabonnement.
 
-Jeg er ret ambivalent ved det. Egentlig ville jeg hellere have, at hun undværede en mobil indtil hun flyttede hjemmefra - og jeg gider ikke betale endnu et fast abonnement, så jeg må forhandle lidt med hende om, hvordan vi fordeler abonnementet mellem os.
+Jeg er ret ambivalent ved det. Egentlig ville jeg hellere have, at hun kunne undvære en mobil indtil hun flyttede hjemmefra. Og jeg gider ikke betale endnu et fast abonnement, så jeg må forhandle lidt med hende om, hvordan vi fordeler abonnementet mellem os.
+
+**Opdatering**: Jeg har faktisk fundet et rigtig billigt abonnement, som jeg gerne vil betale. Hos [Lebara](https://aslinkhub.com/?bid=1968752&media_id=81507){: rel="sponsored nofollow noopener" } kan man få et abonnement med 5 GB data og 5 timers taletid til 19,- om måneden. Det er 30 kroner billigere end det tidligere abonnement, jeg fandt fra [Greentels 2 EU](/go/greentel/){: rel='sponsored nofollow noopener' }. Der er lidt mindre EU data og taletid, men det lever vi fint med.
 
 ## Priser for mobilabonnementer til børn
 
@@ -54,7 +56,7 @@ Derfor klikkede jeg ind på [mobilsparer.dk](https://www.mobilsparer.dk/){: rel=
 
 ## De billigeste mobilabonnementer
 
-Tilsyneladende er [Greenspeak](http://www.greenspeak.dk), [Greentel](/go/greentel/){: rel='sponsored nofollow noopener' }, [Oister](/go/oister/){: rel='sponsored nofollow noopener' }, [OK Mobil](/go/ok-mobil/){: rel='sponsored nofollow noopener' } og [CBB Mobil](/go/cbb/){: rel='sponsored nofollow noopener' } de billigste steder, så der gik jeg i gang med at kigge priserne lidt mere i sømmene.
+Tilsyneladende er [Lebara](https://aslinkhub.com/?bid=1968752&media_id=81507){: rel="sponsored nofollow noopener" }, [Greenspeak](http://www.greenspeak.dk), [Greentel](/go/greentel/){: rel='sponsored nofollow noopener' }, [Oister](/go/oister/){: rel='sponsored nofollow noopener' }, [OK Mobil](/go/ok-mobil/){: rel='sponsored nofollow noopener' } og [CBB Mobil](/go/cbb/){: rel='sponsored nofollow noopener' } de billigste steder, så der gik jeg i gang med at kigge priserne lidt mere i sømmene.
 
 I denne oversigt kan du se nogle muligheder for under 80 kroner / mdr og med mindst 2 GB data og 2 timers taletid.
 
@@ -68,13 +70,11 @@ Jeg har også kigget lidt på [Telmore med Telmore Play](/go/telmore/){: rel='sp
 
 Og vinderen er...
 
-Men det mest attraktive abonnement til min datter, har jeg vurderet er [Greentels 2 EU](/go/greentel/){: rel='sponsored nofollow noopener' }. Det er dobbelts så stort som de andre billige abonnementer fra de andre selskaber, og de 2 GB data kan endda bruges i udlandet.
+Men det mest attraktive abonnement til min datter, har jeg vurderet er [Lebaras 5GB abonnement](https://aslinkhub.com/?bid=1968752&media_id=81507){: rel="sponsored nofollow noopener" }, som kun koster 19,- om måneden.
 
-Jeg har foreløbig valgt at holde fast i mit ret fine abonnement hos Callme. Jeg overvejer dog meget kraftigt [Greentels 3 EU](/go/greentel/){: rel='sponsored nofollow noopener' }, da det faktisk dækker mit aktuelle behov for data - og det er 30 DKK billigere end mit nuværende abonnement, som dog er meget større.
+Efterfølgende er jeg også stødt ind i [Glad Mobil](/go/gladmobil/){: rel='sponsored nofollow noopener' }, som godt kan matche priserne fra de andre selskaber. Tjek det selv ud. Jeg har også fundet  og de har også et abonnement, som er forbrugsafregnet, hvor man kun betaler for det man bruger. Jeg tjekker også [Lycamobile](https://www.lycamobile.dk/da/), hvor man kan få et abonnement med en GB data til 25 kroner / mdr.
 
-Efterfølgende er jeg også stødt ind i [Glad Mobil](/go/gladmobil/){: rel='sponsored nofollow noopener' }, som godt kan matche priserne fra de andre selskaber. Tjek det selv ud. Jeg har også fundet [Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }, som har 5GB data og 5 timers tale til 49,- og de har også et abonnement, som er forbrugsafregnet, hvor man kun betaler for det man bruger. Jeg tjekker også [Lycamobile](https://www.lycamobile.dk/da/), hvor man kan få et abonnement med en GB data til 25 kroner / mdr.
-
-## Kan du spare på mobilabonnementet?
+## Kan du spare på mobiltelefonen?
 
 Så skal jeg bare have fundet en mobiltelefon til datteren. Havde håbet, at hun kunne starte med en brugt, men har ikke lige kunnet finde nogen, der kan køre Android, hvor jeg kan få Family Link, selvom jeg tjekkede hos [Refurb](https://track.adtraction.com/t/t?a=1412065217&as=1484466027&t=2&tk=1){: rel='sponsored nofollow noopener' }, [PhoneTrade](https://online.adservicemedia.dk/cgi-bin/click.pl?pid=31656&cid=7686&productGroup=Phonetrade&media_id=81507){: rel='sponsored nofollow noopener' } og på Den Blå Avis. Hvis du kender et godt sted at få fat i en mobiltelefon, så skriv endelig i kommentarerne.
 
