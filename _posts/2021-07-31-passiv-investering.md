@@ -36,7 +36,7 @@ feature_row:
     excerpt: "Hos SaxoInvestor skal du selv manuelt stå for investeringerne.\n\n- Pris: 0,20% pr. år*\n\n- Gratis aktiesparekonto\n\n- Lav kurtage"
     btn_label: "Opret gratis konto"
     btn_class: "btn--info"
-    url: /go/saxo/
+    url: /go/saxoinvestor/
 ---
 I passiv investering følger investoren aktiemarkedet i stedet for at forsøge at slå det. Den passive investeringsstrategi virker bedre for de fleste investorer.
 
@@ -58,7 +58,7 @@ Det diskuteres ofte om passiv eller aktiv investering er mest effektivt for at f
 
 **Aktiv investering** er når en investor føler en eller flere investeringsstrategier i håbet om at få et merafkast i forhold til markedet.
 
-**Passiv investering** er når investoren følger aktiemarkedet i stedet for at prøve at slå det. En af de mest kendte investorer i verden, Warren Buffet, er foreslår også, at du skal [følge markedet gennem passive indekser](/warren-buffett-anbefaler-passive-indekser/). 
+**Passiv investering** er når investoren følger aktiemarkedet i stedet for at prøve at slå det. En af de mest kendte investorer i verden, Warren Buffet, er foreslår også, at du skal [følge markedet gennem passive indekser](/warren-buffett-anbefaler-passive-indekser/).
 
 > “When trillions of dollars are managed by Wall Streeters charging high fees, it will usually be the managers who reap outsized profits, not the clients. Both large and small investors should stick with low-cost index funds.”
 
@@ -78,7 +78,7 @@ Det er heldigvis blevet ret enkelt at følge markedet.
 
 ## Hvordan kommer du i gang med passiv investering 📈
 
-Der er flere forskellige muligheder for at komme i gang som passiv investor. Grundlæggende er der følgende muligheder for dig der vil i gang. 
+Der er flere forskellige muligheder for at komme i gang som passiv investor. Grundlæggende er der følgende muligheder for dig der vil i gang.
 
 - Vælg en af de **automatiske robotinvesteringsløsninger**, hvor du bare skal vælge dit risikoniveau. De fleste banker har løsninger, som de kan guide dig til. Du skal være meget opmærksom på omkostningerne. Her er den uafhængige [Nord.Investments](/go/nord/){: rel="sponsored nofollow noopener" }. Der er årlige omkostninger relativt lave, og den er let at bruge. Du skal bare sørge for at oprette kontoen og sætte penge ind. Du kan også sagtens bruge Nord.Investments som en månedsopsparing, så du konstant får investeret.
 - Vælg **Nordnets månedsopsparing** hvor du kan investere i passive indeksfonde og ETF'er automatisk hver måned. Du vælger selv hvilke fonde, du gerne vil investere i. Hver måned sætter du penge ind på kontoen, og du køber kurtagefrit ind til din passive investeringsportefølje. Denne type kræver, at du selv lige sætter dig ind i de bedste passive fonde. Jeg har skrevet en [guide til Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
