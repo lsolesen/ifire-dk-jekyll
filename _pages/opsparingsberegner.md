@@ -65,3 +65,7 @@ Du kan sikkert selv finde på flere ting at regne på?
 ## Regneark med beregner til opsparing
 
 {% include feature_row type="left" %}
+
+## Konklusion
+
+Hvis du er interesseret i vores opsparingsberegner, så kan du måske også være interesseret i vores beregner til, [hvad får jeg udbetalt efter Skat](/udbetalt-loen-efter-skat/).

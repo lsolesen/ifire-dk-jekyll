@@ -96,6 +96,8 @@ Du kan bruge beregneren ovenfor, som giver et godt visuelt overblik. Jeg har ogs
 
 Nu har du et godt udgangspunkt for at lave en **renters rente beregning**, fordi du ved hvordan renteformlen skal bruges.
 
+Hvis du er interesseret i denne beregner, så kan du måske også være interesseret i vores beregner til, [hvad får jeg udbetalt efter Skat](/udbetalt-loen-efter-skat/) eller vores [opsparingsberegner](/opsparingsberegner/).
+
 Hvis du har forbedringer til indlægget om renters rente så skriv endelig.
 
 {% include disclaimer.md %}

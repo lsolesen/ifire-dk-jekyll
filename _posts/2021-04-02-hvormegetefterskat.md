@@ -8,6 +8,7 @@ category:
   - Privatøkonomi
 tags:
   - lønberegner
+  - featured
 header:
   overlay_image: https://images.unsplash.com/photo-1511376868136-742c0de8c9a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
   teaser: https://images.unsplash.com/photo-1511376868136-742c0de8c9a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
@@ -50,7 +51,7 @@ Nederst på siden står følgende korte beskrivelse af de forbehold, du skal tag
 
 Lad os prøve at taste nogle tal ind i beregneren. Vi tager min løn som eksempel. Jeg har indtastet min løn uden pension.
 
-{% include figure image_path="/assets/images/posts/hvad-faar-jeg-udbetalt.png" caption="Her kan du se, hvad jeg får udbetalt om måneden efter skat?'" alt="udbetalt efter skat" %}
+{% include figure image_path="/assets/images/posts/hvad-faar-jeg-udbetalt.png" caption="Her kan du se, hvad jeg får udbetalt om måneden efter skat?'" alt="hvad får jeg udbetalt efter skat" %}
 
 Min månedsløn er på omkring 41.000 kroner. Når jeg taster min månedsløn ind i beregneren, så får jeg følgende resultater:
 
@@ -127,7 +128,7 @@ Pengepugeren når frem til, at hvis du kan leve for 14.000 kroner om måneden, s
 > 
 > **Ved at kombinere de to investeringsmetoder kan man således slippe med ca. 13 % i effektiv skat, men alligevel have en indkomst, som reelt er til at leve for.** Omend noget mere skrabet end de fleste er vant til.
 
-— <cite>[Pengepugeren](https://pengepugeren.dk/2018/02/oekonomisk-uafhaengig-lev-14-000-kr-maaneden-slip-skat/)</cite>
+--- <cite>[Pengepugeren](https://pengepugeren.dk/2018/02/oekonomisk-uafhaengig-lev-14-000-kr-maaneden-slip-skat/)</cite>
 
 Her er vi dog ude i, at vi har brug for en betydelig investering, som vi skatteoptimerer.
 
@@ -153,7 +154,7 @@ Lad os se på, hvad du reelt får udbetalt, hvis du tjener omkring 4.500 kroner 
 
 Så kigger vi lige på Skats værtøj:
 
-{% include figure image_path="/assets/images/posts/udbetalt-coastfire-skat.png" caption="Udbetalt efter skat på en relativt lille løn i følge Skats værktøj" alt="udbetalt efter skat coast fire" %}
+{% include figure image_path="/assets/images/posts/udbetalt-coastfire-skat.png" caption="Udbetalt efter skat på en relativt lille løn i følge Skats værktøj" alt="hvad får jeg udbetalt efter skat coast fire" %}
 
 Skats værktøj giver 4.108 kroner, mens hvormegetefterskat.dk giver 4.053 kroner. Uanset hvad så får du altså mere end 4.000 udbetalt, når du tjener 4.500 kroner. (Dette er forudsat at du ikke har fyldt hele dit personfradrag med kapitalindkomst fra din investeringsportefølje).
 
@@ -161,7 +162,7 @@ Det er altså ikke ret meget vi skal betale i skat, hvis vi har en lav indtægt.
 
 Vi skal altså betale mindre end 10% i skat uanset hvilken beregner, vi bruger.
 
-[Frinans](https://www.frinans.dk/hvor-meget-efter-skat/)  runder beløbet ned til 4.000 kroner i indtægt, som kan være med til at supplere vores investeringsportefølje. Det betyder i praksis, at vi i stedet for at have et behov på indtjening fra investeringsporteføljen på 168.000 kroner om måneden, så har vi en lille indtjening. I alt er vores årlige indtjening på 48.000 kroner.
+[Frinans](https://www.frinans.dk/hvor-meget-efter-skat/) runder beløbet ned til 4.000 kroner i indtægt, som kan være med til at supplere vores investeringsportefølje. Det betyder i praksis, at vi i stedet for at have et behov på indtjening fra investeringsporteføljen på 168.000 kroner om måneden, så har vi en lille indtjening. I alt er vores årlige indtjening på 48.000 kroner.
 
 Nu kan vi altså nøjes med 120.000 kroner i indtjening på investeringsporteføljen, hvilket giver os et behov for at have 3 millioner kroner investeret ifølge 4%-reglen. Vi skar altså i alt 1,2 millioner af den nødvendige investering for FIRE ved en relativt lille månedlig indtægt.
 

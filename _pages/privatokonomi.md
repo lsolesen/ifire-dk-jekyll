@@ -82,6 +82,8 @@ Du kan tjekke vores [opsparingsberegner](/opsparingsberegner/) for at se, hvad d
 
 Jeg har skrevet lidt mere om [økonomisk frihed]({% link _posts/2020-03-08-hvad-er-okonomisk-frihed.md %}) og hvad der har inspireret mig til at søge [økonomisk uafhængighed]({% link _posts/2020-11-27-hvorfor-finansiel-fri.md %}), og her er **FIRE-bevægelsen** en stor inspiration for mig.
 
+For at blive økonomisk uafhængig, så husk at følge [rigdomsformlen](), hvor det naturligvis også er vigtigt, [hvad jeg får udbetalt efter skat](/udbetalt-loen-efter-skat/)?
+
 Jeg har lavet en [beregner til økonomisk uafhængighed]({% link _posts/2021-07-10-okonomisk-uafhaengighed-beregner.md %}).
 
 {% comment %}
