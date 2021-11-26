@@ -3,7 +3,7 @@ title: "Verdensindekset 2021: Passiv investering i aktier [Guide]"
 seo_title: "Verdensindekset 2021: Passiv investering i aktier [Guide] »"
 description: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Jeg viser her hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 excerpt: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Det består af henholdsvis de udviklede lande og fremvoksende markeder. Jeg viser her, hvordan det hænger sammen, og hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/

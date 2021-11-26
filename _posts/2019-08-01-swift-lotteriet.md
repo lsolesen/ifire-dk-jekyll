@@ -7,7 +7,7 @@ tags:
   - problemer
 excerpt: "Gebyrer for Swift bankoverførsler er et uigennemskueligt system - og man kan ikke finde ud af, hvem der tager det."
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Jeg er virkelig godt tilfreds med [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg får gratis valutaveksling og gratis udenlandske bankoverførsler. Jeg synes [Agrikaab](/platform/agrikaab/) er en spændende [crowdlending platform](/crowdlending/), hvis man gerne vil have et positivt impact på Afrikas økonomi. Agrikaab modtager gratis bankoverførsler. Altså hvis du vinder i lotteriet. <ins>Agrikaab er lukket ned marts 2020, og jeg har sandsynligvis tabt alle mine penge på platformen.</ins>.

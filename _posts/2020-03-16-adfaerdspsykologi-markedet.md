@@ -10,8 +10,8 @@ tags:
   - værdipapirer
 excerpt: "Adfærdspsykologien betyder meget på aktiemarkedet - Hvad er priming, Illusion of Stock-Picking Skill, anchoring og loss aversion?"
 header:
-  overlay_image: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-  teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
+  teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: Photo by Josh Appel on Unsplash
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788711533284/0x500

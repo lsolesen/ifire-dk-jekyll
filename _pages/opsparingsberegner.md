@@ -3,7 +3,7 @@ layout: single
 title: &title "Opsparingsberegner: Hvor meget kan din opsparing vokse?"
 permalink: /opsparingsberegner/
 header:
-  overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80
+  overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=5
   caption: *title
   alt: "Photo by Austin Distel on Unsplash - Renters Renter"
 excerpt: "Med vores opsparingsberegner kan du få svar på, hvor stor din opsparing bliver efter en årrække med forskellige renter og månedlige opsparingsbeløb."

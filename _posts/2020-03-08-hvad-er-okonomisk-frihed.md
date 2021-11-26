@@ -3,8 +3,8 @@ title: "Hvad er økonomisk frihed?"
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /hvad-er-okonomisk-frihed/
 header:
-  overlay_image: https://images.unsplash.com/flagged/photo-1558338044-14b972111f16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-  teaser: https://images.unsplash.com/flagged/photo-1558338044-14b972111f16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/flagged/photo-1558338044-14b972111f16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
+  teaser: https://images.unsplash.com/flagged/photo-1558338044-14b972111f16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: Photo by Dragos Gontariu on Unsplash
 category:
   - FIRE

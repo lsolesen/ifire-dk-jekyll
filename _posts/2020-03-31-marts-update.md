@@ -8,7 +8,7 @@ tags:
   - status
   - crowdlending
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 excerpt: "I marts blev strategien for opbygge en formue virkelig testet med nedgang på de globale aktiemarkeder - og igen tabte jeg penge på crowdlending."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500

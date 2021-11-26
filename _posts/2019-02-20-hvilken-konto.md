@@ -10,7 +10,7 @@ tags:
 excerpt: "Vælg den rigtige bankkonto for at få flest mulig renter af dine penge. Som ung har du gode muligheder for at få en gratis bankkonto."
 last_modified_at: 2020-01-01T09:51:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 {{ page.excerpt }}

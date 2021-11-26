@@ -6,7 +6,7 @@ excerpt: "Hvordan køber du en dansk investeringsforening eller en udenlandsk ET
 last_modified_at: 2021-04-03T09:20:02+02:00
 permalink: /nordnet-koeb-fond/
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 category:
   - Investering
 tags:

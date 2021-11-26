@@ -8,7 +8,7 @@ tags:
 excerpt: "Hvad kan man tænke på som ung - hvis man gerne vil have lidt styr på sin økonomi?"
 toc: true
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 I min familie har vi haft en aftale om et beløb, vi giver i julegaver og fødselsdagsgaver. Men jeg synes ikke altid - særligt da børnene var små - at der var grund til at købe mere legetøj, hvor børnene alligevel synes at indkpakningspapiret var det sjoveste. Derfor købte jeg ofte mindre (dyre) ting til mine nevøer og satte pengene til side. Så kunne jeg bruge pengene, hvis jeg fik en rigtig god ide til en større gave, når de blev større.

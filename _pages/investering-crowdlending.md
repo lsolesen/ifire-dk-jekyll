@@ -20,7 +20,7 @@ tags:
 created_at: 2019-05-15T10:00:00+08:00
 last_modified_at: 2021-07-12T10:00:00+08:00
 header:
-  teaser: https://images.unsplash.com/uploads/1411160110892ab555b6f/80b0d25e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/uploads/1411160110892ab555b6f/80b0d25e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
   alt: Photo by Christine Roy on Unsplash
 ---
@@ -154,7 +154,7 @@ Det er en god ide at få skrevet din strategi ned for, hvordan du vil investere 
 
 Skriv din strategi ned. Den behøver ikke fylde meget mere end en Post-It.
 
-{% include figure image_path="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80" %}
+{% include figure image_path="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=5" %}
 
 ## Hvordan kan du minimere risikoen ved crowdlending?
 

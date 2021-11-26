@@ -12,7 +12,7 @@ tags:
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Fondene fra Storebrand har fra den 1.1.2020 ændret status, så beskatningen fremover sker efter lagerprincippet. Det betyder at du beskattes af forskellen mellem værdien af andelenes værdi fra årets slutning og årets start.

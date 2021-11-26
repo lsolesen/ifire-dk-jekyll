@@ -8,7 +8,7 @@ tags:
   - opsparing
 excerpt: "Men hvordan kan jeg bruge Spiir til at udregne min opsparingsrate for hver måned?"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Hver måned så registrerer jeg min opsparingsrate. Jeg har registreret alle mine indtægter og udgifter i [Spiir](http://www.spiir.dk), som er gratis og integrerer med de fleste danske banker. Registreringen er næsten fuldautomatisk - og Spiir er ret god til at gætte hvilke kategorier de enkelte posteringer skal være i. Jeg synes Spiir er genial til at få et overblik over ens budget.

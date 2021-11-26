@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Jeg startede januar med at taste mine tal ind i [early.dk](http://www.early.dk) for at se, hvor mange år, der er til, jeg er økonomisk uafhængig.

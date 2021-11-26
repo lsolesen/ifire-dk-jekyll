@@ -2,7 +2,7 @@
 title: "#19 november - På vej ud af crowdlending og svindel hos CredEarn"
 permalink: /opdateringer/november-2020-update/
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 category:
   - Opdateringer
 tags:

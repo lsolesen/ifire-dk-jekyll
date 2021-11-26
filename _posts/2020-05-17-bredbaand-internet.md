@@ -10,8 +10,8 @@ tags:
   - internet
 excerpt: "Hvordan får man det billigste bredbånd og internet i huset og ordentlig WIFI?"
 header:
-  overlay_image: https://images.unsplash.com/photo-1588128648581-c989ba849d24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  teaser: https://images.unsplash.com/photo-1588128648581-c989ba849d24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1588128648581-c989ba849d24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=5
+  teaser: https://images.unsplash.com/photo-1588128648581-c989ba849d24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: Photo by Meghan Schiereck on Unsplash
 classes: wide
 toc: false

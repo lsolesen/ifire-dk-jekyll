@@ -12,8 +12,8 @@ tags:
   - kryptovaluta
 excerpt: "Jeg er så småt gået i gang med at lave en lille portefølje i kryptovaluta."
 header:
-  overlay_image: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-  teaser: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
+  teaser: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: Photo by Viktor Forgacs on Unsplash
 feature_row_solutions:
   - image_path: /assets/images/logo/coinbase.png

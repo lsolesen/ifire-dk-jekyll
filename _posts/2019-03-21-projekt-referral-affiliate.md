@@ -9,7 +9,7 @@ tags:
   - passiv indkomst
 excerpt: "Hvordan kan jeg skabe en passiv indkomst på nettet gennem referral og affiliate markedsføring."
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Jeg har sat mig godt ind i, hvordan jeg kan lave passiv indkomst - ud over mine investeringer i værdipapirer og crowdlending. Spørgsmålene er:

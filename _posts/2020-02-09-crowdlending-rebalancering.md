@@ -9,7 +9,7 @@ tags:
 excerpt: "Crowdlending er en højrisikoinvestering, men platformene er meget forskellige. Med Risk-Reward kan vi give et bud på, hvilke platforme der er risikoen værd?"
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Crowdlending er forbundet med relativ høj risiko. Markedet har været lukrativt, og derfor er der også kommet spillere på markedet som ikke er helt fine i kanten. Her kigger vi på, hvordan du kan balancere risikoen og belønningen, hvis du samlet vil kigge på din crowdlending portefølje.

@@ -10,7 +10,7 @@ tags:
   - ejendom
 excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investere i ejendomsmarkedet gennem crowdlending?"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 {% include disclosure.html %}

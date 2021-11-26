@@ -15,7 +15,7 @@ tags:
   - værdipapirer
 excerpt: "Der er flere måder at gribe en børneopsparing an på: Bankrenter, obligationer, investeringer i aktier. Hvad bør man gøre?"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 faq:
   - question: "Har Nordnet en børneopsparing?"
     answer: "Nej. Nordnet har ikke en traditionel børneopsparingskonto. Til gengæld kan du hos Nordnet oprette en konto til mindreårige, hvor du kan investere som et supplement til børneopsparingen."

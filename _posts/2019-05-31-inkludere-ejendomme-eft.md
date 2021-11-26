@@ -12,7 +12,7 @@ tags:
 excerpt: "Hvordan inkluderer jeg ejendomme i porteføljen - både gennem crowdlending, aktier og ETF'er."
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem Crowdlending](/ejendomme-crowdlending/), fordi jeg ikke ser mig selv som boligejer, der skal til at leje min bolig ud - ud over på [AirBNB](/go/airbnb/){: rel='sponsored nofollow noopener' }. I stedet satser jeg på _crowdlending_ og værdipapirer. Her beskriver jeg kort, hvilke værdipapirer jeg er mest interesseret i i øjeblikket.

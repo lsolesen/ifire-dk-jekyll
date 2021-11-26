@@ -8,7 +8,7 @@ tags:
 excerpt: "I gang med finansiel uafhængighed. Hvorfor og hvilke spørgsmål er der?"
 toc: false
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Måske er det fordi jeg er blevet over 40, og så skal der bare ske noget. Måske er jeg blevet mere ansvarlig? I hvert fald er jeg på det seneste blevet ret interesseret i ideen om at blive **finansiel uafhængig**. Samtidig er jeg stødt ind i **rigdomsformularen**, som faktisk er meget enkel.

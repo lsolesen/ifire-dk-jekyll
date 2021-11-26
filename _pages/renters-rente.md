@@ -5,7 +5,7 @@ permalink: /renters-rente/
 description: "Brug vores renters rente beregner til at se effekten af renters rente. Vi bruger renteformlen med konstant rentefod og mulighed for løbende kapitalindskud."
 excerpt: "Beregn renters rente effekt på renteudbetalinger med denne beregner. Se renters rente formel med konstant rentefod og mulighed for løbende kapitalindskud."
 header:
-  overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80
+  overlay_image: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=5
   caption: *title
   alt: "Photo by Austin Distel on Unsplash - Renters Renter"
 toc: true

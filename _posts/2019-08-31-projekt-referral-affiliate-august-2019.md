@@ -11,7 +11,7 @@ tags:
 excerpt: "Opdatering efter fire måneder på indtægter fra affiliate og referral markedsføring - og indtjening på blogs i det hele taget."
 toc: true
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 I marts startede jeg [mit projekt med at skabe lidt passiv indkomst ved hjælp af _affiliate_- og _referral_-marketing](/projekt-referral-affiliate/) uden at bruge al min tid. Hvis ikke du orker at læse mere, så kan jeg efter fire måneder afsløre, at det absolut ikke har været noget guldgrube for mig!

@@ -8,7 +8,7 @@ tags:
 excerpt: "Kan det betale sig at installere Netatmos (eller andre smarte radiator termostater) i huset?"
 last_modified_at: 2019-07-15T20:22:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
 Installeret: 15. februar 2018
