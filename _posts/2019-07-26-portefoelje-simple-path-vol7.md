@@ -96,14 +96,14 @@ Hvordan kan jeg følge ´Simple Path to Wealth` gennem danske fonde, der følger
 
 #### Storebrand
 
-For nylig [skrev jeg lidt om Storebrands fonde](/investering-vol6/), som er akkumulerende fonde<del>, men stadig beskattes efter realiseringsprincippet</del><ins> og beskattes efter lagerprincippet.
+For nylig [skrev jeg lidt om Storebrands fonde](/investering-vol6/), som er akkumulerende fonde, men stadig beskattes efter realiseringsprincippet.
 
 | Ticker | Værdipapir                                                                                                      | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning | Måned | Udbytte | Skat  |
 |--------|-----------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|-------|---------|-------|
-| STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      |       | Akk     | Lager |
-| STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |       | Akk     | Lager |
+| STIIAM | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | Passiv      |       | Akk     | Realisation |
+| STIINM | [Storebrand Indeks Nye Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKL)    | 0,51% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | Passiv      |       | Akk     | Realisation |
 
-Hvis man bare vælger den [globale fond fra Storebrand (STIIAM)](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK), så har man <del>nogenlunde samme verdensdækning som man får i J. L. Collins forslag fra Vanguard, VTSAX</del> en fond, der følger verdensindekset, MSCI ACWI.
+Hvis man bare vælger den [globale fond fra Storebrand (STIIAM)](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK), så har man en fond, der følger verdensindekset, MSCI ACWI.
 
 #### SparInvest
 

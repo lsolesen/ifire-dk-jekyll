@@ -156,7 +156,7 @@ De følgende fonde hører til i min portefølje. De er alle udbyttebetalende fon
 
 {% include fonde.html funds="SPVIBGKL,SPIDJWKL,SYIMSTAR" show_ratings="false" %}
 
-### Akkumulerende, lagerbeskattede indeksfonde
+### Akkumulerende, realisationsbeskattede indeksfonde
 
 Storebrand har en række prisbillige indeksfonde, som følger verdensindekset MSCI ACWI, men hvor [nogle firmaer fravælges på baggrund af ekstra kriterier](https://www.storebrandfondene.dk/baeredygtighed/frav%C3%A6lgelse/ekstra-kriterier-ud-over-storebrand-standarden).
 

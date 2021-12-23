@@ -1,6 +1,6 @@
 ---
 title: &title "Budget skema: Få en gratis budgetskabelon [Excel]"
-seo_title: "Budgetskabelon 2021 • Få et gratis gratis budgetskema [Excel] »"
+seo_title: "Budgetskabelon 2022 • Få et gratis gratis budgetskema [Excel] »"
 permalink: /gratis-budgetskema/
 description: "Få et GRATIS budgetskema som passer til dine forskellige omvæltninger i livet. Tjek vores forskellig budgetskabeloner til..."
 category:

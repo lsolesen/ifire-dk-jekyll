@@ -15,10 +15,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
 ---
 
-Fondene fra Storebrand har fra den 1.1.2020 ændret status, så beskatningen fremover sker efter lagerprincippet. Det betyder at du beskattes af forskellen mellem værdien af andelenes værdi fra årets slutning og årets start.
-{: .notice .notice--info }
+Jeg bruger stadig det porteføljer, jeg [tidligere har været inspireret af](/investering-vol5/), men for nylig er der kommet nogle nye fonde til Danmark med lave omkostninger, som beskattes efter realisationsprincippet som aktieindkomst. Fondene er akkumulerende og betaler ikke udbytte, men alligevel er beskatningen fordelagtig for danske investorer, da den ligner beskatningen for almindelige aktier og de andre danske distribuerende (udbyttebetalende) investeringsforeninger.
 
-Jeg bruger stadig det porteføljer, jeg [tidligere har været inspireret af](/investering-vol5/), men for nylig er der kommet nogle nye fonde til Danmark med lave omkostninger, som beskattes efter <del cite="https://www.storebrandfondene.dk/nyhedsside?article=andring-i-skattestatus" date="2020-01-03T20:20:02+02:00">realisationsprincippet</del> <ins cite="https://www.storebrandfondene.dk/nyhedsside?article=andring-i-skattestatus" date="2020-01-03T20:20:02+02:00">lagerprincippet som aktieindkomst</ins>. Fondene er akkumulerende og betaler ikke udbytte, men alligevel er beskatningen fordelagtig for danske investorer, da den ligner beskatningen for almindelige aktier og de andre danske distribuerende (udbyttebetalende) investeringsforeninger. Fondene er fra Storebrand. Desværre kan de ikke købes i månedsopsparingen hos Nordnet (og deres support siger, at der heller ikke er planer om det), men jeg overvejer kraftigt at købe lidt ind af dem i nogle af mine porteføljer alligevel. Fx er jeg ved at oprette en opsparing, som gerne skal være med til at finansiere mine døtres efterskoleophold.
+Fondene er fra Storebrand. Desværre kan de ikke købes i månedsopsparingen hos Nordnet (og deres support siger, at der heller ikke er planer om det), men jeg overvejer kraftigt at købe lidt ind af dem i nogle af mine porteføljer alligevel. Fx er jeg ved at oprette en opsparing, som gerne skal være med til at finansiere mine døtres efterskoleophold.
 
 Ingen af fondene har endnu fået en Morningstar-vurdering, da de er relativt nye. Til gengæld scorer de fornuftigt på bæredygtighed.
 
@@ -32,7 +31,7 @@ Ingen af fondene har endnu fået en Morningstar-vurdering, da de er relativt nye
 
 ## Hvordan var det med skatten?
 
-<del>Fondene beskattes ligesom alle andre danske, udbyttebetalende aktieinvesteringsforeninger efter den såkaldte minimumsbeskatningsordning.</del> Fondene beskattes som aktiebaserede investeringsselskaber efter <del>realisationsprincippet</del> <ins>lagerprincippet</ins>. Fondene skal hvert år udbetale udbytte svarende til udbyttet fra alle de indeholdte aktier og gevinsten fra de aktier, de har frasolgt i årets løb. Dette udbytte beskattes så med det samme.
+Fondene beskattes ligesom alle andre danske, udbyttebetalende aktieinvesteringsforeninger efter den såkaldte minimumsbeskatningsordning. Fondene beskattes som aktiebaserede investeringsselskaber efter realisationsprincippet. Fondene skal hvert år udbetale udbytte svarende til udbyttet fra alle de indeholdte aktier og gevinsten fra de aktier, de har frasolgt i årets løb. Dette udbytte beskattes så med det samme.
 
 Til forskel fra de danske, udbyttebetalende aktieinvesteringsforeninger udbetaler Storebrand-fondene ikke udbyttet. De beregner det blot med henblik på beskatning, og så beholder de pengene i fonden. Det svarer nogenlunde til automatisk geninvestering. Skatten betaler du så selv gennem det almindelige skatteregnskab som aktieindkomst.
 

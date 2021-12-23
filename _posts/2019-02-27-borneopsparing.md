@@ -1,5 +1,5 @@
 ---
-title: "Børneopsparing 2021: Regler og investeringer til børn?"
+title: "Børneopsparing 2022: Regler og investeringer til børn?"
 description: "Hvordan kan man sammensætte en børneopsparing? Hvad er reglerne for børneopsparingen, og kan du investere pengene? Hvad gør du, når beløbsgrænserne er for små?"
 permalink: /borneopsparing/
 last_modified_at: 2021-07-19T09:51:02+02:00
@@ -63,7 +63,7 @@ En **børneopsparing** er en opsparingskonto, du som forældre kan lave til dine
 
 Det er dig, der bestemmer, hvornår pengene bliver tilgængelige for dit barn, men det er dit barns penge.
 
-## Hvilke regler er der for børneopsparing i 2021?
+## Hvilke regler er der for børneopsparing i 2022?
 
 Der kom nye regler for børneopsparing i 2018. Disse regler betyder, at du som forældre eller bedsteforældre kan sætte flere penge ind på børneopsparingskontoen end du kunne tidligere. Beløbsgrænserne er steget samtidgi med at den samlede beløbsgrænse blev fordoblet.
 
@@ -85,7 +85,7 @@ Det er også muligt at oprette en konto for mindreårige, som ikke giver skattef
 
 ## Hvordan vokser pengene på børneopsparingen?
 
-Værdien af børneopsparingen kan stige på to måder. Enten kan du få afkast i form af bankrenter, hvor man ofte kan få lidt højere rente end på de almindelige bankkonti. Desværre er renten her i 2021 generelt meget lav.
+Værdien af børneopsparingen kan stige på to måder. Enten kan du få afkast i form af bankrenter, hvor man ofte kan få lidt højere rente end på de almindelige bankkonti. Desværre er renten her i 2022 generelt meget lav.
 
 Du kan også få afkast på din børneopsparing ved at investere pengene i værdipapirer. Det kræver, at du finder en bank, hvor du kan tilknytte et værdidepot til din børneopsparing.
 
@@ -191,9 +191,9 @@ Jeg vil gerne ramme det globale aktiemarked på den mest omkostnings- og skattee
 
 Min førsteprioritet er at have en traditionel **børneopsparing**, hvor jeg hvert år sætter et beløb ind. Jeg har tilknyttet et depot til børneopsparingen.
 
-Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at en fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%.
+Jeg har her købt "Storebrand Indeks - Alle Markeder A5". Fonden er på den danske børs relativt billig i kurtage. Fonden bliver handlet i danske kroner, og den er akkumulerende. Det betyder at du ikke skal geninvestere småbeløb og betale kurtage, spread og indtrædelsesomkostninger. Ulempen er, at et fondsbevis er relativt dyrt, så det kan være vanskeligt at få det til at passe med hele beløbet på kontoen. ÅOP for Storebrand Indeks - Alle Markeder A5 er på 0,39%.
 
-Fonden er beskattet efter lagerprincippet som aktieindkomst, men da børneopsparingen er skattefri betyder det ikke så meget.
+Fonden er beskattet efter realisationsprincippet som aktieindkomst, men da børneopsparingen er skattefri betyder det ikke så meget.
 
 Jeg har som min anden prioritet også oprettet et **depot for mindreårige hos Nordnet*. Mest for at inspirere børnene til selv at tage ansvar for deres investeringer. Nordnet foreslår selv at [kickstarte dit barns investeringer](https://www.nordnet.dk/blog/kickstart-dit-barns-investering-og-giv-det-en-god-start-paa-opsparingen/).
 

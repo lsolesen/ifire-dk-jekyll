@@ -1,6 +1,6 @@
 ---
 title: &title "Aktiesparekonto: Komplet guide"
-seo_title: "Aktiesparekonto 2021 • Hvordan får jeg en gratis konto »"
+seo_title: "Aktiesparekonto 2022 • Hvordan får jeg en gratis konto »"
 permalink: /aktiesparekonto/
 description: "En aktiesparekonto er en let måde at investere på. Komplet guide til beskatning og hvor du kan få en GRATIS aktiesparekonto."
 excerpt: "En aktiesparekonto er en investeringskonto, der gør det lettere for dig at komme i gang med at investere i aktier. Her er alt du skal vide om at investere på en aktiesparekonto."

@@ -38,7 +38,7 @@ Der er altså på Nordnet i alt 11 forskellige passive fonde, der følger et glo
 
 Nu skal du så tage en beslutning om du er interesseret i en udbyttebetalende eller en akkumulerende indeksfond.
 
-Hvis du vælger en udbyttebetalende fond, så er den realisationsbeskattet, som aktieindkomst. Hvis du vælger en akkumulerende indeksfond, så er den lagerbeskattet. Hvis den er dansk, så er den også beskattet som kapitalindkomst, mens det for fx norske Storebrand er lagerbeskattet som aktieindkomst.
+Hvis du vælger en udbyttebetalende fond, så er den realisationsbeskattet, som aktieindkomst. Hvis du vælger en akkumulerende indeksfond, så er den lagerbeskattet. Hvis den er dansk, så er den også beskattet som kapitalindkomst, mens det for fx norske Storebrand er realisationsbeskattet som aktieindkomst.
 
 Hvilken type skat du ønsker på dine passive indeksfonde kommer helt an på din egen strategi og øvrige økonomiske forhold.
 
@@ -100,7 +100,7 @@ Her kan du se listen over {{ akkumulerende.size }} akkumulerende passive indeksf
 - [{{ f.name }}]({{ f.morningstar_url }}) ({{ f.ticker }})
 {%- endfor %}
 
-Storebrand er norsk. Den beskattes som aktieindkomst efter lagerprincippet. Du skal være opmærksom på, at de akkumulerende fonde beskattes anderledes end de udbyttebetalende danske fonde. De akkumulerende danske fonde beskattes som kapitalindkomst med mindre de er på Skats positivliste over fonde.
+Storebrand er norsk. Den beskattes som aktieindkomst efter realisationsprincippet. Du skal være opmærksom på, at de akkumulerende fonde beskattes anderledes end de udbyttebetalende danske fonde. De akkumulerende danske fonde beskattes som kapitalindkomst med mindre de er på Skats positivliste over fonde.
 
 ## Hvad skal jeg være opmærksom på med passive indeksfonde?
 

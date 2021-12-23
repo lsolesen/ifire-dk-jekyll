@@ -167,17 +167,24 @@ I det følgende har jeg listet forskellige danske investeringsafdelinger og uden
 
 SparInvests SPVIGAKL følger altså det bredeste verdensindeks MSCI ACWI IMI. Til gengæld er Danske Invests Global Indeks (DKIGI), der kun inkluderer udviklede lande, noget billigere i ÅOP, og kan suppleres med fx Sparinvests Emerging Markets (SPIEMIKL) eller med Danske Invest Fjernøsten Indeks.
 
-### Akkumulerende danske fonde - lagerbeskattede
+### Akkumulerende danske fonde - realisationsbeskattede
 
-Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst efter lagerprincippet. Storebrands Alle Markeder A5 (STIIAM) har attraktive årlige omkostninger (ÅOP). Fordi den er akkumulerende kan den være god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger jeg en af de akkumulerende fonde på min kapitalpension, men den kan også med fordel bruges i depoter som i forvejen er lagerbeskattede (som aktiesparekontoen og pensionsdepoter).
+Jeg har følgende akkumulerende danske fonde under radaren. Storebrands Alle Markeder A5 (STIIAM) har attraktive årlige omkostninger (ÅOP). Fordi den er akkumulerende kan den være god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital.
 
 | Ticker     | Værdipapir                                                                                                      | Indeks                   | Beholdning | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
 |------------|-----------------------------------------------------------------------------------------------------------------|--------------------------|------------|-------|------------------------------------------|------------------------------------------|-------|
 | STIIAM     | [Storebrand Indeks - Alle Markeder A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKK) | MSCI ACWI - ESG screenet | >490       | 0,39% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; |       |
 | STIGEP     | [Storebrand Global - ESG Plus A5](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F000013CKG)      | MSCI ACWI - ESG screenet | >490       | 0,47% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
-| DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | MSCI World               | >1.570     | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 
 Fordelen ved Storebrands fonde er, at de følger det brede verdensindeks MSCI ACWI, så du kan nøjes med en fond. Samtidig er omkostningerne ret lave.
+
+### Akkumulerende danske fonde - lagerbeskattede
+
+Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst efter lagerprincippet. Fordi de er akkumulerende kan den være god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger jeg en af de akkumulerende fonde på min kapitalpension, men den kan også med fordel bruges i depoter som i forvejen er lagerbeskattede (som aktiesparekontoen og pensionsdepoter).
+
+| Ticker     | Værdipapir                                                                                                      | Indeks                   | Beholdning | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Måned |
+|------------|-----------------------------------------------------------------------------------------------------------------|--------------------------|------------|-------|------------------------------------------|------------------------------------------|-------|
+| DKIGIADKKH | [Danske Invest Global Indeks Akk KL](https://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX)  | MSCI World               | >1.570     | 0,44% |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; |       |
 
 ### Udenlandske ETF'er - lagerbeskattede
 

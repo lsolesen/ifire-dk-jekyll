@@ -38,7 +38,7 @@ Som privatinvestor kan du investere på mindst to måder:
 
 I de almindelige danske udbyttebetalende investeringsfonde fra fx SparInvest betaler du først skat, når du _realiserer_ din gevinst enten i form af udbytter eller ved at sælge investeringsbeviserne. De er realisationsbeskattet. En fordel ved realiseringsbeskatning er, at du bedre kan styre, hvornår du betaler Skat, og fordi du får udbytter vil du hvert år få frigivet kapital til at betale skatten.
 
-I de akkumulerende danske investeringsfonde, fx fra Storebrand, beskattes efter lagerprincippet. Der betaler du altså skat hver år i forhold det urealiserede afkast. Det sker uanset om du har solgt ud af dine værdipapirer eller ej. En ulempe ofte anført er, at du ikke kan forrente den udskudte skat, og at du hvert år skal betale skat, uanset om du har likvide midler eller ej.
+I de akkumulerende danske investeringsfonde, som beskattes efter lagerprincippet. Der betaler du altså skat hver år i forhold det urealiserede afkast. Det sker uanset om du har solgt ud af dine værdipapirer eller ej. En ulempe ofte anført er, at du ikke kan forrente den udskudte skat, og at du hvert år skal betale skat, uanset om du har likvide midler eller ej.
 
 Da begge typer værdipapirer i dette indlæg forudsættes at blive beskattet som aktieindkomst, så kan man lettere med realisationsbeskatning styre, at man indtil en aktieindkomst på omkring 55.000 skal betale 27% i Skat, mens man for et højere aktieindkomst skal betale 42% i skat.
 
@@ -136,6 +136,9 @@ For den realisationsbeskattede forening med ÅOP på 0,58% og et årligt udbytte
 | 40 år      | kr. 10,376,904.61        | kr. 10,390,685.63  | kr. 10,654,532.94         | kr. 10,116,819.88 |
 
 Igen er der altså ikke tænkt decideret skatteoptimering af de realisationsbeskattede værdipapirer ind, men samlet set så har jeg fordel af den lagerbeskattede ETF - ganske enkelt fordi de årlige omkostninger i procent er lavere. Det ses tydeligt, når man tilføjer Storebrand A5 til tabellen. På kort sigt (10 år) kan lagerbeskatningen for den fond være en fordel, men på lang sigt (30 år) kommer den til at præstere under de andre muligheder.
+
+Storebrand er gået tilbage til at være realisationsbeskattet fra 2022.
+{: .notice .notice--info }
 
 Udregningerne tager ikke højde for min civilstand, hvor jeg kan have en højere knækgrænse. Regnearket tager heller ikke højde for, at man via månedsopsparingen kan købe uden kurtage i de udbyttebetalende investeringsforeninger, hvis man fx vælger SparIndex Globale Aktier Min. Risiko i stedet for Globale Aktier.
 

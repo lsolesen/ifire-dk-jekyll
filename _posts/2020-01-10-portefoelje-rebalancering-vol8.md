@@ -53,7 +53,7 @@ For mig betyder bæredygtighed også noget. Jeg satser jeg primært på månedso
 
 ### Akkumulerende danske fonde
 
-Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er fondene fra Storebrand lagerbeskattet (de var tidligere realisationsbeskattet, selvom de var akkumulerende). STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx brugerg je en af de akkumulerende fonde på min kapitalpension.
+Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskattet som aktieindkomst og fra 2020 er de akkumulerende fonde fra Storebrand realisationsbeskattet, selvom de er akkumulerende. STIIAM har fortsat attraktive årlige omkostninger, og den er god at bruge på værdipapirbeholdninger, hvor man ikke jævnligt kan tilføre ny kapital. Fx bruger jeg en af de akkumulerende fonde på min kapitalpension.
 
 {% include fonde.html funds="STIIAM,STIGEP,STIGM,STIGS,DKIGIADKKH" show_ratings="false" %}
 
