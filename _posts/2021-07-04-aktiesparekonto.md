@@ -79,7 +79,7 @@ Du kan få en aktiesparekonto allerede nu hos Saxo Investor, og i løbet af 2021
 
 ## Nordnet aktiesparekonto
 
-I flere år tilbød [Nordnet ikke en aktiesparekonto](https://www.nordnet.dk/blog/derfor-tilbyder-nordnet-ikke-en-aktiesparekonto-fra-1-januar/), men fra 2021 [ændrer det sig heldigvis](https://www.nordnet.dk/blog/nordnet-lancerer-aktiesparekonto/).
+I flere år tilbød [Nordnet ikke en aktiesparekonto](https://www.nordnet.dk/blog/derfor-tilbyder-nordnet-ikke-en-aktiesparekonto-fra-1-januar/), men fra 2021 [ændrede det sig heldigvis](https://www.nordnet.dk/blog/nordnet-lancerer-aktiesparekonto/).
 
 Du kan gratis oprette investeringskonti og depoter hos Nordnet. Det gælder også aktiesparekontoen.
 
@@ -97,7 +97,6 @@ Fordelen ved Saxo er, at du handler fast for en relativ besked kurtage, hvilket 
 - I 2021 kan du indskyde op til i alt 102.300 kr på kontoen. Hvis du allerede har en aktiesparekonto, så danner saldoen på kontoen i 2020 grundlag for, hvor meget ekstra du må indskyde på kontoen.
 - Du beskattes efter lagerbeskatningsprincippet med 17% i skat. Dit udbytte og dine kursgevinster opgøres årligt, og du betaler altså Skat uanset om du har solgt værdipapirer eller ej.
 - Hvis du har tab på værdipapirer, så modregnes de i årets gevinster eller i senere års gevinster. 
-
 - Da kontoen er lagerbeskattet, så kan du frit indsætte og hæve fra kontoen uden at tænke på beskatning i det daglige.
 
 ## Hvad er beskatningen på aktiesparekontoen?
@@ -113,6 +112,10 @@ Skatten er altså mere eller mindre på autopilot.
 Du kan investere i aktier og investeringsbeviser, hvor mindst 50% af aktiverne i foreningen består af aktier. Du kan også investere i ETF’er, som er registreret hos den danske skattestyrelse. Den liste ændrer sig jævnligt, så du kan tjekke mere ved [Skat](https://skat.dk/skat.aspx?oid=17119).
 
 Din bank eller børsmægler bør sikre sig, at du ikke kan komme til at købe forkerte papirer på kontoen, men hvis det sker, så anses papirerne ifølge [Skat](https://skat.dk/skat.aspx?oid=17119) for erhvervet uden om aktiesparekontoen.
+
+## Hvor meget må jeg indskyde på aktiesparekontoen i 2022?
+
+- I 2021 kan du indskyde op til i alt 102.300 kr på kontoen. Hvis du allerede har en aktiesparekonto, så danner saldoen på kontoen i 2020 grundlag for, hvor meget ekstra du må indskyde på kontoen.
 
 ## Konklusion
 

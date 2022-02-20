@@ -62,6 +62,6 @@ Jeg nyder, at jeg fra appen kan skrue op og ned for termostaterne i hele huset, 
 
 Tilbagebetalingstiden for termostaterne er dog nogen flere år, end jeg oprindeligt havde forestillet mig i form af sparet varme.
 
-[Køb Netatmo Radiator Termostater hos Wifi-butikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=48788&htmlurl=https://wifi-butikken.dk/shop/netatmo-wifi-radiator-termostat/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
+[Køb Netatmo Radiator Termostater hos Wifi-butikken](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55904&htmlurl=https://vvs.dk/ukategoriserede-varer/lagervarer-dag-til-dag/netatmo-pro-smart-radiatortermostater-startpakke-6-stk-vvs-nr-8785000110){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 {% include disclaimer.md %}

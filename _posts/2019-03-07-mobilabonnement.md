@@ -25,13 +25,17 @@ Nederst her på siden kan du lave en prissammenligning, men husk også at tjekke
 
 ## Hvordan finder jeg et billigt mobilabonnement let?
 
+{% comment %}
+
 Hvis du ikke selv vil lave sammenligningerne - fx i bunden af denne side - så kan du også gøre følgende.
 
 Heldigvis kan du fx på [Tjenestetorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=78926){: rel='sponsored nofollow noopener' } tjekke om du kan spare penge på dit mobilabonnement. 
 
 {% include figure image_path="/assets/images/posts/mobilabonnement-tjenestetorvet.png" caption="Få et tilbud på et nyt mobilabonnement hos [Tjenestetorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=78926){: rel='sponsored nofollow noopener' }, hvis du gerne vil ringes op af sælgere." %}
 
-Jeg synes dog ikke Tjenestetorvet er helt så smart som [mobilsparer.dk](https://www.mobilsparer.dk/){: nofollow noopener' } er meget smart. Her kan du tjekke dit abonnement. Du taster du nogle enkle oplysninger ind, og så får du nogle anbefalinger.
+{% endcomment %}
+
+Jeg synes [mobilsparer.dk](https://www.mobilsparer.dk/){: nofollow noopener' } er meget smart. Her kan du tjekke dit abonnement. Du taster du nogle enkle oplysninger ind, og så får du nogle anbefalinger.
 
 Jeg tastede mit nuværende abonnement ind på servicen.
 
