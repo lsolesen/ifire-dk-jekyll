@@ -26,7 +26,7 @@ Bagestålet og en bagesten er en en variant af en pizzasten, som er lavet i en 6
 
 ## Bagestål vs bagesten
 
-Du kan købe bagestål og bagesten hos [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418){: rel='sponsored nofollow noopener' } og [bagesten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=36542){: rel='sponsored nofollow noopener' }. Produktet på de to sites ligner hinanden meget, men jeg har valgt at købe mit fra [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418&htmlurl=https://bagestaalet.dk/pages/butik){: rel='sponsored nofollow noopener' }, da deres kombispade så lidt bedre ud - og der kan pladerne fås i forskellige størrelser.
+Du kan købe bagestål og bagesten hos [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418){: rel='sponsored nofollow noopener' } og [bagetid.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=22011){: rel='sponsored nofollow noopener' }. Produktet på de to sites ligner hinanden meget, men jeg har valgt at købe mit fra [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418&htmlurl=https://bagestaalet.dk/pages/butik){: rel='sponsored nofollow noopener' }, da deres kombispade så lidt bedre ud - og der kan pladerne fås i forskellige størrelser.
 
 ## Kvalitet af bagestålet
 
@@ -48,12 +48,10 @@ Jeg har købt den pakke, de sælger her i november nedsat med 41% til 499,-, hvo
 
 ## Køb dit eget bagestål
 
-Hvis du også er blevet interesseret i et bagestål, så tjek det ud på [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418){: rel='sponsored nofollow noopener' } eller [bagesten.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=36542){: rel='sponsored nofollow noopener' }. Her kan du selv finde ud af, hvilket produkt du synes bedst om. Hvis du bruger mine links, så støtter du dette site, så vi får en lille kommision.
+Hvis du også er blevet interesseret i et bagestål, så tjek det ud på [bagestålet.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=41418){: rel='sponsored nofollow noopener' } eller [bagetid.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=22011){: rel='sponsored nofollow noopener' }. Her kan du selv finde ud af, hvilket produkt du synes bedst om. Hvis du bruger mine links, så støtter du dette site, så vi får en lille kommision.
 
 Tak fordi du læste med.
 
 {% include feature_row type="left" %}
 
 {% include disclaimer.md %}
-
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=64051" target="_blank" rel="sponsored nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=64051" border="0" alt=""></a>
