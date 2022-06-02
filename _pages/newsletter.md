@@ -8,4 +8,4 @@ toc: false
 sitemap: false
 ---
 
-{% include mailchimp-embed.html %}
+{% include lead-magnet.html %}
