@@ -8,4 +8,4 @@ toc: false
 sitemap: false
 ---
 
-{% include lead-magnet.html %}
+{% include lead-magnet.html id="l3xgr5tqdpgyzbkm8ix" %}

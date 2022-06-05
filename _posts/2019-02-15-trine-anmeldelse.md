@@ -28,7 +28,7 @@ Sådan ser forsiden på Trine ud. De signalerer klart, at du først og fremmest 
 
 Samlet set lover de fleste projekter omkring 6%-8% i afkast, og det har i løbet af den tid jeg har investeret på platformen passet meget godt.
 
-{% include figure image_path="/assets/images/crowdlending/trine-frontpage.png" %}
+{% include figure image_path="/assets/images/crowdlending/trine-frontpage.jpg" %}
 
 ## Afkast og renter og en bedre verden
 
