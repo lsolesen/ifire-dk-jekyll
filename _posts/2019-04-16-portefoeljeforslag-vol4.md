@@ -12,7 +12,7 @@ tags:
 excerpt: "Nu er min samlede værdipapirpulje ved at tage form - og nu venter jeg lige på en korrektion af markedet til at gå kraftigt ind."
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol2/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.

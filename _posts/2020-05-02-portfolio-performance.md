@@ -7,7 +7,7 @@ tags:
   - tracking
   - status
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 excerpt: "Jeg bruger i øjeblikket Atlaz, Portfolio Performance og Cointracking.info til at få overblik over min samlede portefølje."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702260069/0x500

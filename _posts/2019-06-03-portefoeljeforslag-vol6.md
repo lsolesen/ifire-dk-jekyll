@@ -12,7 +12,7 @@ tags:
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Jeg bruger stadig det porteføljer, jeg [tidligere har været inspireret af](/investering-vol5/), men for nylig er der kommet nogle nye fonde til Danmark med lave omkostninger, som beskattes efter realisationsprincippet som aktieindkomst. Fondene er akkumulerende og betaler ikke udbytte, men alligevel er beskatningen fordelagtig for danske investorer, da den ligner beskatningen for almindelige aktier og de andre danske distribuerende (udbyttebetalende) investeringsforeninger.

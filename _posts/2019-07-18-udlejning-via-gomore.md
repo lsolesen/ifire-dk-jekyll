@@ -10,7 +10,7 @@ tags:
 excerpt: "Jeg planlægger at få en lille ekstra indtægt ved at udleje min bil på Gomore - men hvad bør jeg tage i leje?"
 last_modified_at: 2019-07-18T10:22:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Vi bruger ikke vores bil så ofte længere, men vi har stadig brug for den. Når den står stille, så øjner jeg en lille mulighed for at [udleje den gennem GoMore](/go/gomore/){: rel='sponsored nofollow noopener' }. Jeg arbejder 100 meter fra, hvor den holder til daglig, så det vil være ret enkelt.

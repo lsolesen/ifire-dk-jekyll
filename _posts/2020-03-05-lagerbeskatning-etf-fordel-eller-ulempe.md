@@ -3,8 +3,8 @@ title: "Lagerbeskatning af investeringsforening og ETF: Fordel eller ulempe?"
 permalink: /lagerbeskatning-etf-fordel-eller-ulempe/
 last_modified_at: 2020-03-05T14:22:02+02:00
 header:
-  overlay_image: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2241&q=5
-  teaser: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1563198804-b144dfc1661c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by The New York Public Library on Unsplash
 category:
   - Investering

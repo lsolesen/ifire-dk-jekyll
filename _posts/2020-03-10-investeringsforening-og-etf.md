@@ -3,7 +3,7 @@ title: "Hvad er investeringsforeninger og ETF’er?"
 last_modified_at: 2020-03-09T09:20:02+02:00
 permalink: /hvad-er-investeringsforeninger-og-etfer/
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Investering
 tags:

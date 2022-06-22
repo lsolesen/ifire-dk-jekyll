@@ -9,7 +9,7 @@ tags:
 excerpt: "Hvordan kommer man som ung i gang med at være finansielt bevidst og få styr på sin økonomi?"
 toc: true
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Rigdomsformlen handler om at tjene mere, forbruge mindre og investere (klogere). Men hvordan kommer man så i gang? At blive finansiel uafhængig handler i høj grad om ens evne til at forbruge mindre og have en passiv indkomst, som man kan skabe fra investeringer.

@@ -9,8 +9,8 @@ tags:
   - opsparing
 excerpt: "Hvad er priserne i de forskellige banker - jeg har tjekket SparNord, Merkur Bank, Lån & Spar Bank, Arbejdernes Landsbank, Lunar og Basisbank?"
 header:
-  overlay_image: https://images.unsplash.com/photo-1542222024-c39e2281f121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
-  teaser: https://images.unsplash.com/photo-1542222024-c39e2281f121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1542222024-c39e2281f121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1542222024-c39e2281f121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Viktor Forgacs on Unsplash
 classes: wide
 toc: false

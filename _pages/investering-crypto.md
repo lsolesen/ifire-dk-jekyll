@@ -13,7 +13,7 @@ last_modified_at: 2021-08-02T10:00:00+08:00
 tags:
   - overblik
 header:
-  teaser: https://images.unsplash.com/photo-1550565360-6986a92b7169?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1550565360-6986a92b7169?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: Photo by Dmitry Demidko on Unsplash
 feature_row_solutions:
