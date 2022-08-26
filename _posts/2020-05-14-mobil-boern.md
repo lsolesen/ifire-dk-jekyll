@@ -9,8 +9,8 @@ tags:
   - telefon
 excerpt: "Hvad er det billigste mobilabonnement til børn - og kan jeg spare lidt på mit eget abonnement i forhold mit reelle forbrug?"
 header:
-  overlay_image: https://images.unsplash.com/photo-1554257281-3dba342159d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1554257281-3dba342159d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1554257281-3dba342159d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1554257281-3dba342159d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Meghan Schiereck on Unsplash
 classes: wide
 toc: false

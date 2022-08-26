@@ -5,18 +5,18 @@ seo_title: "Privatøkonomi: Få styr på budget, forbrug og investeringer"
 permalink: /privatokonomi/
 header:
   overlay_image: https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 redirect_from:
   - /deals/
 excerpt: "Privatøkonomi handler om at få styr på, hvordan du håndterer dine penge. Det handler altså om opsparing, budgetter, forbrug og investeringer."
 author_profile: true
 feature_row_setup:
-  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
     alt: "Bank"
     title: "Bank"
     excerpt: "Som bank bruger jeg [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
-  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
     alt: "Investering"
     title: "Investering"
     excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto.."

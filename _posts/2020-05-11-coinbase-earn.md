@@ -4,8 +4,8 @@ permalink: /coinbase-earn/
 category:
   - Kryptovaluta
 header:
-  overlay_image: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
-  teaser: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Clifford Photography on Unsplash
 tags:
   - kryptovaluta

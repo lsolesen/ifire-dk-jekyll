@@ -30,7 +30,7 @@ gallery:
     alt: "nordnet månedsopsparing guide fonde"
     title: "Vælg depot, beløb og fonde"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Jeg bruger Nordnets månedsopsparing, fordi den gør det let at automatisere mine investeringer og udnytte _dollar cost averaging_ på. Samtidig er månedsopsparingen kurtagefri.

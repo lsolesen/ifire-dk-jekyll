@@ -10,7 +10,7 @@ tags:
 excerpt: "Jeg har investeret i dansk crowdlending i fire år. Her er en grundig opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
 description: "Jeg har investeret i dansk crowdlending i fire år. Men hvad er status egentlig på crowdlending og crowdfunding i Danmark?"
 header:
-  teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme.

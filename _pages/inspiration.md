@@ -7,11 +7,11 @@ redirect_from:
 excerpt: "Inspiration til at gøre dig endnu klogere på FIRE - finansiel frihed og tidlig pensionering."
 author_profile: true
 feature_row_setup:
-  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
     alt: "Bank"
     title: "Bank"
     excerpt: "Som bank bruger jeg [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, og dem kan jeg sagtens anbefale. Desuden bruger jeg [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } til gratis valutaveksling. Begge kan man oprette gratis og der er få gebyrer."
-  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  - image_path: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
     alt: "Investering"
     title: "Investering"
     excerpt: "Til at opbygge min værdipapirportefølje bruger jeg [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til min månedsopsparing og aldersopsparing, og så bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min aktiesparekonto."

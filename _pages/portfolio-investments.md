@@ -11,7 +11,7 @@ toc_sticky: true
 tags:
   - overblik
 header:
-  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png

@@ -9,7 +9,7 @@ tags:
   - streaming
 excerpt: "Det lykkedes at spare 476 DKK om måneden ved at lave en status på de onlineservices, jeg bruger."
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 services:
   - title: Lastpass - husk adgangskoder
     excerpt: Jeg har uhuskeligt mange forskellige adgangskoder til alle mine platforme og onlinetilstedeværelse. Derfor bruger jeg [LastPass](/lastpass-anmeldelse/), som er min helt uundværlige kode-husker. Den kan jeg slet ikke undvære.

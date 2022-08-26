@@ -9,7 +9,7 @@ tags:
 excerpt: "Investering i aktier og obligationer skal stadig være en del af min portefølje, men hvordan skal den være?"
 last_modified_at: 2020-03-04T15:20:02+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Hvordan skal jeg investere i aktier?

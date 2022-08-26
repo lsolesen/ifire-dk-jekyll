@@ -6,8 +6,8 @@ excerpt: Hvordan kan du lave bæredygtige investeringer i
   aktier, investeringsforeninger, fonde og ETF'er - og hvor finder du de grønne aktier og indeksfonde?
 header:
   caption: "Bæredygtige investeringer i aktier, investeringsforeninger og ETF'er"
-  overlay_image: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Investering
 tags:

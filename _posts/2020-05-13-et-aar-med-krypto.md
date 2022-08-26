@@ -10,8 +10,8 @@ tags:
   - kryptovaluta
 excerpt: "Nu er der gået et år med min portefølje i kryptovaluta. Hvordan har min kryptoportefølje udviklet sig?"
 header:
-  overlay_image: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
-  teaser: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1541410702738-f87a5449e456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Viktor Forgacs on Unsplash
 feature_row_solutions:
   - image_path: /assets/images/logo/coinbase.png

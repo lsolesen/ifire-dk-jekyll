@@ -21,7 +21,7 @@ feature_row:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer, bl.a. fordi jeg vil sørge for at jeg holder min strategi. Det skrev jeg også lidt om tidligere i ['Simple Path to Wealth'](/investering-vol7/).

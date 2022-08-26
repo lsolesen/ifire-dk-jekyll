@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Jeg har tre fantastiske piger, som er født ind i en verden, hvor det virker som om bevidstløs forbrug er det mest normale. Det er også tre piger, som har en fin indtægt fra fødselsdage og andre møder med generøse familiemedlemmer. Det er tre piger, som bliver meget inspireret til at skaffe sig ting.

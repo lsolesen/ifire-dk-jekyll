@@ -12,7 +12,7 @@ tags:
 excerpt: "Sammenligning af fordeling af aktiver i en portefølje - og hvordan backtester man den med historiske data?"
 classes: wide
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 Man bliver [lige](/investering/) [lidt](/investering-vol2/) [klogere](/investering-vol3/) [hele](/investering-vol4/) tiden.
