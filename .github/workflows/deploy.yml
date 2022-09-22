@@ -8,6 +8,10 @@ on:
     branches:
       - master
 
+env:
+  RUBY_VERSION: "3.1.2"
+  BUNDLER_VERSION: "2.3.21"
+
 # Here is where we define our jobs.
 # Which means the tasks we want Github to execute
 jobs:
@@ -29,21 +33,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev
-          sudo gem install bundler:2.2.7
+          sudo gem install bundler:${{ env.BUNDLER_VERSION }}
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6 # Not needed with a .ruby-version file
+          ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: ⚡️ Get cached gems
-        uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - name: ⚡️ Setting up dependencies
-        run: |
-          bundle install
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
@@ -69,12 +63,12 @@ jobs:
         with:
           directory: "./_site"
           # The directory to scan
-          arguments:
-            --only-4xx
-            --assume-extension
+          arguments: |
+            --only-4xx true
+            --assume-extension ".html"
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href
-            --ignore-empty-alt
+            --allow-hash-href true
+            --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
