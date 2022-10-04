@@ -24,22 +24,22 @@ books_investing:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
   - title: Simpel investering af Sune Bjørn Andersen fra Frinans
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/simpel-investering_sune-bjoern-andersen_9788743012399
+    url: https://tales.dk/simpel-investering_sune-bjoern-andersen_9788743012399
     alt: Simpel investering Sune Bjørn Andersen
     rel: sponsored nofollow noopener
   - title: The Millionarie Next Door - The Surprising Secrets of America's Wealthy
     alt: Thomas J. Stanley
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/millionaire-next-door-the-surprising-secrets-of-americas-wealthy_thomas-j_9781589795471
+    url: https://tales.dk/millionaire-next-door-the-surprising-secrets-of-americas-wealthy_thomas-j_9781589795471
     rel: sponsored nofollow noopener
   - title: Kriser, Krak og Kaviar - Lars Tvede
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://www.saxo.com/dk/kriser-krak-og-kaviar_lars-tvede_indbundet_9788740022018
+    url: https://www.saxo.com/dk/kriser-krak-og-kaviar_lars-tvede_indbundet_9788740022018
     rel: sponsored nofollow noopener
   - title: Think and Grow Rich - Napoleon Hill
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://www.saxo.com/dk/think-and-grow-rich_paperback_9781585424337
+    url: https://www.saxo.com/dk/think-and-grow-rich_paperback_9781585424337
     rel: sponsored nofollow noopener
 books_investing_stocks:
   - title: Børshandlerens psykologi - Lars Tvede
-    url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/boershandlens-psykologi-hvorfor-markederne-er-hysteriske-og-hvordan-du-kan-tjene-penge-alligevel_lars-tvede_9788740004908
+    url: https://tales.dk/boershandlens-psykologi-hvorfor-markederne-er-hysteriske-og-hvordan-du-kan-tjene-penge-alligevel_lars-tvede_9788740004908
     rel: sponsored nofollow noopener
   - title: Boost din opsparing med aktier – Karsten Engmann Jensen
     url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/boost-din-opsparing-med-aktier_karsten-engmann-jensen_haeftet_9788750044093
@@ -63,7 +63,7 @@ books_private_economy:
     alt: "Rich Dad Poor Dad"
     title: "Rich Dad Poor Dad"
     excerpt: "Rich Dad, Poor Dad af Robert T. Kiyosaki er en essentiel bog inden for privatøkonomi. Bogen forklarer, hvad de rige lærer deres børn om penge, som middelklassen ikke gør. Selvom den er rimelig amerikansk i sin tankegang, så læs den."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194"
+    url: "https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194"
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
@@ -95,7 +95,7 @@ books_private_economy:
     alt: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/opposite-of-spoiled-raising-kids-who-are-grounded-generous-and-smart-about-money_ron-lieber_9780062247025"
+    url: "https://tales.dk/opposite-of-spoiled-raising-kids-who-are-grounded-generous-and-smart-about-money_ron-lieber_9780062247025"
     rel: sponsored nofollow noopener
     btn_label: "Læs mere"
     btn_class: "btn--success"
@@ -177,7 +177,7 @@ Uanset hvad så synes jeg, at du skal starte med at læse '[A Simple Path to Wea
 
 ## Bøger om privatøkonomi
 
-To helt centrale bøger inden for privatøkonomi, når man taler om at blive finansiel uafhængig er [Rich Dad, Poor Dad](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194){: rel="sponsored nofollow noopener" } af Robert T. Kiyosaki og [The Richest Man in Babylon](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-richest-man-in-babylon_george-s-clason_hardback_9781942121282){: rel="sponsored nofollow noopener" } af George S. Clason.
+To helt centrale bøger inden for privatøkonomi, når man taler om at blive finansiel uafhængig er [Rich Dad, Poor Dad](https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194){: rel="sponsored nofollow noopener" } af Robert T. Kiyosaki og [The Richest Man in Babylon](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-richest-man-in-babylon_george-s-clason_hardback_9781942121282){: rel="sponsored nofollow noopener" } af George S. Clason.
 
 {% assign books = page.books_private_economy | where_exp: "item", "item.excerpt != nil" %}
 
