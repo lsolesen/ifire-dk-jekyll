@@ -1,5 +1,5 @@
 ---
 title: Nordnet
 permalink: /go/nordnet/
-redirect_to: https://www.nordnet.dk/?utm_source=ifire.dk&utm_medium=affiliate&utm_campaign=marts2019
+redirect_to: https://aslinkhub.com/?cid=9047&pid=31656&productGroup=Logo&media_id=90737
 ---
