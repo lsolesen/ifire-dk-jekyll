@@ -201,7 +201,7 @@ Jeg har min lille langtidsinvestering i [BetterGlobe](/go/betterglobe/){: rel='s
 
 I juli skal jeg for første gang udleje mit hus via [AirBnb](/go/airbnb/){: rel='sponsored nofollow noopener' } og tjene en skilling på det, mens jeg selv er på ferie, hvor jeg i øvrigt også har lejet et feriehus gennem [AirBnb](/go/airbnb/){: rel='sponsored nofollow noopener' }. På den måde sparer jeg lidt på min egen ferie. Jeg håber, at det kommer til at gå nogenlunde smertefrit. Nu fik jeg i hvert fald gjort grundigt rent. Du kan lige nå at [leje det nogle dage](https://www.airbnb.dk/rooms/34748390), hvis du vil.
 
-Jeg fik styr på serveren igen, så mine sites kører igen. Jeg har Google Adsense på [Motionsplan](http://www.motionsplan.dk/), [larsolesen.dk](http://larsolesen.dk), [iFire](http://www.ifire.dk/) og [Fodboldens Legestue](http://legestue.net). Google Adsense har i maj givet **26,61 kroner**.
+Jeg fik styr på serveren igen, så mine sites kører igen. Jeg har Google Adsense på [Motionsplan](https://www.motionsplan.dk/), [larsolesen.dk](https://www.larsolesen.dk), [iFire](https://www.ifire.dk/) og [Fodboldens Legestue](https://legestue.net). Google Adsense har i maj givet **26,61 kroner**.
 
 Jeg har også oprettet mig hos [Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" }, men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **0 kroner**.
 

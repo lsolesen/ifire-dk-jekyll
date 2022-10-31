@@ -95,7 +95,7 @@ Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i E
 
 ## Investering i guld gennem aktier
 
-Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet](/go/nordnet/) eller [SaxoInvestor](/go/saxoinvestor) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
+Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet](/go/nordnet/) eller [SaxoInvestor](/go/saxoinvestor/) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
 
 ## Køb og sælg guld i certifikater
 

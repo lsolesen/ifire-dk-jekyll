@@ -81,6 +81,6 @@ Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending
 
 ## Konklusion
 
-I øjeblikket er der mange andre bedre muligheder end Fast Invest. Jeg ville helt klart anbefale fx [Peerberry](/platform/peerberry/), [Mintos](/platform/mintos) eller [Crowdestor](/platform/crowdestor/) i stedet for Fast Invest.
+I øjeblikket er der mange andre bedre muligheder end Fast Invest. Jeg ville helt klart anbefale fx [Peerberry](/platform/peerberry/), [Mintos](/platform/mintos/) eller [Crowdestor](/platform/crowdestor/) i stedet for Fast Invest.
 
 [Opret dig på Fast Invest](/go/fastinvest/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
