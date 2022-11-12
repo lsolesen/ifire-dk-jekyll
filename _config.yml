@@ -31,10 +31,11 @@ words_per_minute         : 200
 comments:
   provider               : "custom" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   google_forms           :
-    app_script           : https://script.google.com/macros/s/AKfycbxSvhJ_ojfwuKSDfItuYECRqOaoGMjsIJWN9ID3mNR-CawuMU1QdksnqI9m3fsyZnLf/exec
+    app_script           : https://script.google.com/macros/s/AKfycbzRevVoiMW67A11Bn6sRmm7la5Rhty5ROAJ_8510g-8QDc3YoSmxANrZy_Bmus3Nr8_/exec
     lazy_load            : true
     replies_enabled      : true
     chunked_loading      : true
+    recaptcha_site_key   : 6LeRKAAjAAAAAD85dQDWplJEiT8JB2lzHkKfnUzA
   disqus:
     shortname            : "ifire"
 atom_feed:
