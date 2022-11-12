@@ -29,13 +29,22 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "custom" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  google_forms           :
+    app_script           : https://script.google.com/macros/s/AKfycbxSvhJ_ojfwuKSDfItuYECRqOaoGMjsIJWN9ID3mNR-CawuMU1QdksnqI9m3fsyZnLf/exec
+    lazy_load            : true
+    replies_enabled      : true
+    chunked_loading      : true
   disqus:
     shortname            : "ifire"
-staticman:
-  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+#google_forms_comments:
+#  google_app_script: https://script.google.com/macros/s/AKfycbxSvhJ_ojfwuKSDfItuYECRqOaoGMjsIJWN9ID3mNR-CawuMU1QdksnqI9m3fsyZnLf/exec
+#  lazy_load_comments: true
+#  comment_replies_enabled: true
+#  chunked_comment_loading: true
 
 after_footer_scripts:
   - https://www.google.com/jsapi

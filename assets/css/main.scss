@@ -12,6 +12,10 @@
   max-height: $nav-height;
 }
 
+.comment__author {
+  @extend h3;
+}
+
 [rel~=sponsored]:after {
     content: "*";
 }
