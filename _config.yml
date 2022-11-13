@@ -17,7 +17,7 @@ future: true
 locale                   : "da"
 title                    : "iFire"
 title_separator          : false # "-"
-subtitle                 : "Økonomisk frihed, investering, crowdlending og bæredygtighed"
+subtitle                 : "Økonomisk frihed, investering og bæredygtighed"
 name                     : "iFire - Finansiel frihed, investering, crowdlending og bæredygtighed"
 description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowdlending og passiv indkomst med blik for bæredygtighed"
 logo                     : "/assets/images/logo-40x40.png"
