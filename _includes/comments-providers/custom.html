@@ -130,25 +130,18 @@
 		document.head.appendChild(loadMD5);
 
 		{%- if recaptcha_enabled -%}
-		{%- comment -%}
 		/* Load Recaptcha */
-    	{%- endcomment -%}
-
 		var loadRecaptcha = document.createElement("script");
 		loadRecaptcha.src = "https://www.google.com/recaptcha/enterprise.js?render={{ site.comments.google_forms.recaptcha_site_key }}";
 		document.head.appendChild(loadRecaptcha);
 		{%- endif -%} 
 
-		{%- comment -%}
 		/* Load Validator (to ensure we don't run code from comments for example) */
-    	{%- endcomment -%}
 		var loadValidator = document.createElement("script");
 		loadValidator.src = "https://cdnjs.cloudflare.com/ajax/libs/validator/13.7.0/validator.min.js";
 		document.head.appendChild(loadValidator);
 
-		{%- comment -%}
 		/* Await Scripts Loaded */
-    	{%- endcomment -%}
 		{%- if recaptcha_enabled -%}
 		await loadRecaptcha.onload;
 		{%- endif -%} 
@@ -174,9 +167,7 @@
 	var commentIds = new Set();
 	{%- endif -%}
 
-	{%- comment -%}
 	/* Format the comment's date to our desired format */
-	{%- endcomment -%}
 	function formatDate(stringDate) {
 		var date = new Date(stringDate);
 		var dateOptions = { year: 'numeric', month: 'long', day: 'numeric'};
@@ -231,9 +222,7 @@
 		loadMoreComments(false || !hasVisibleComments);
 	};
 
-	{%- comment -%}
 	/* Loads more comments if there are any left to display from those already loaded from the server */
-	{%- endcomment -%}
 	function loadMoreComments(isLoadMoreAction) {
 		console.log('loadMoreComments()');
 		{%- if chunked_loading_enabled  -%}
@@ -243,23 +232,18 @@
 		{%- endif -%}
 
 		if (isLoadMoreAction) {
-			{%- comment -%}
 			/* iterate over each comment that came from Google Sheets */
-			{%- endcomment -%}
 			newCommentsToDisplay.reverse().forEach(element => displaySingleComment(element, true));
 			hiddenComments = hiddenComments.filter(item => !newCommentsToDisplay.includes(item) && !visibleComments.includes(item));
 		} else {
-			{%- comment -%}
 			/* add the new comments if there are any */
-			{%- endcomment -%}
 			netNewComments.forEach(element => displaySingleComment(element, false));
 			netNewComments = []
 		}
-
-		setText("num-comments-displayed", `Showing ${visibleComments.length} of ${visibleComments.length + hiddenComments.length} comments`);
-
 		if (hiddenComments.length == 0) {
+			setText("num-comments-displayed", `Showing ${visibleComments.length} of ${visibleComments.length + hiddenComments.length} comments`);
 			hide("load-more-comments");
+			hide("num-comments-displayed");
 		} else {
 			show("load-more-comments");
 		}
@@ -329,25 +313,20 @@
 
 	function displaySingleComment(element, isPrepend) {
 		console.log('displaySingleComment()');
-		{%- comment -%}
 		/* don't re-add existing comments */
-		{%- endcomment -%}
 		if (visibleComments.includes(element)) {
 			return;
 		}
 
 		var jsonElement = JSON.parse(element);
 		var comment = getCommentInfo(jsonElement.comment?.toString());
-		{%- comment -%}
+
 		/* If the author was the one who commented back, add this 'verified' logic */
-		{%- endcomment -%}
 		var verifiedAuthorTag = "";
 		if (jsonElement.isAuthor == true || jsonElement.isAuthor === "TRUE") {
 			verifiedAuthorTag = "&nbsp;<strong>({{ site.data.ui-text[site.locale].comment_author | default: 'Author' }})</strong>";
 		}
-		{%- comment -%}
 		/* Create the new item using HTML and append it to the user-visible comment section */
-		{%- endcomment -%}
 		var newItem = document.createElement("div");
 		newItem.classList.add("comment-item");
 		{%- if comment_replies_enabled -%}
@@ -387,6 +366,7 @@
 		} else {
 			nameExtended = `<span itemprop="name">${validator.escape(jsonElement.name.toString())}${verifiedAuthorTag}</span>`;
 		}
+		var date = new Date(jsonElement.timestamp);
 		newItem.innerHTML = `
 			<article id="comment${commentReplyId}" class="js-comment comment" itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 				<div class="comment__avatar-wrapper">
@@ -398,7 +378,7 @@
 					</p>
 					<p class="comment__date">
 						<a href="#comment${commentReplyId}" itemprop="url">
-							<time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">${formatDate(jsonElement.timestamp)}</time>
+							<time datetime="${date.toJSON()}" itemprop="datePublished">${formatDate(jsonElement.timestamp)}</time>
 						</a>
 					</p>
 					${replyToHtml ?? ""}
@@ -417,9 +397,7 @@
 		fadeIn(newItem);
 		visibleComments.push(element);
 
-		{%- comment -%}
 		/* Hide the 'no comments available' section since we have added a comment */
-		{%- endcomment -%}
 		hide("no-comments");
 		show("num-comments-displayed");
 	};
@@ -443,9 +421,7 @@
 		});
 	};
 
-	{%- comment -%}
 	/* encodes the form data for http transport */
-	{%- endcomment -%}
 	const encodeFormData = (data) => {
 	    return Object.keys(data)
 	        .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
@@ -487,9 +463,7 @@
 		return comment;
 	};
 
-	{%- comment -%}
 	/* Posts a comment */
-	{%- endcomment -%}
 	function postComment(recaptchaToken) {
 		disablePostCommentButton();
 		var username = getValue("comment-form-name");
@@ -553,23 +527,21 @@
 {%- endcomment -%}
 <div class="page__comments">
 	<h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-	<!-- CUSTOM -->
 	<div id="load-comments" class="comments">
-		<button id="load-comment-button" class="btn btn--large btn--success" onclick="initialCommentLoad()">{{ site.data.ui-text[site.locale].comments_load | default: "Load Comments" }} <i class="far fa-comment-alt"></i></button>
+		<button id="load-comment-button" class="btn btn--large btn--success" onclick="initialCommentLoad()">{{ site.data.ui-text[site.locale].comment_load | default: "Load Comments" }} <i class="far fa-comment-alt"></i></button>
 	</div>
-	<!-- CUSTOM -->
 	<section id="comments-and-input">
 		<div id="comment-section" class="comments">
 		<p id="num-comments-displayed"></p>
-		<button id="load-more-comments" class="btn btn--large btn--success" onclick="loadMoreComments(true)" type="button">{{ site.data.ui-text[site.locale].comments_load | default: "Load Older Comments" }} <i class="far fa-comment-alt"></i></button>
+		<button id="load-more-comments" class="btn btn--large btn--success" onclick="loadMoreComments(true)" type="button">{{ site.data.ui-text[site.locale].comment_load_older_comments | default: "Load Older Comments" }} <i class="far fa-comment-alt"></i></button>
 		<div id="no-comments" class="comment-info-text">
-			<p>{{ site.data.ui-text[site.locale].comments_no_comments | default: "There are currently no comments on this article, be the first to add one below" }}</p>
+			<p>{{ site.data.ui-text[site.locale].comment_no_comments | default: "You can be the first to add a comment below." }}</p>
 		</div>
 		<div id="comment-container"></div>
 
 		<div class="page__comments-form">
-			<h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
-			<p class="small">{{ site.data.ui-text[site.locale].comment_form_required | default: "Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically." }} {{ site.data.ui-text[site.locale].comment_form_required | default: "Required fields are marked" }} <span class="required">*</span>.</p>
+			<h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comment_label | default: "Leave a Comment" }}</h4>
+			<p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically." }} {{ site.data.ui-text[site.locale].comment_form_required | default: "Required fields are marked" }} <span class="required">*</span>.</p>
 			<p id="comment-submit-error"></p>
 			{%- if recaptcha_enabled -%}
 			<form id="comment-form" class="page__comments-form js-form form" onsubmit="return checkRecaptcha()" autocomplete="off">
@@ -610,9 +582,11 @@
 				<button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
 			</div>
 			{%- if recaptcha_enabled -%}
-			<p id="comment-recaptcha-disclaimer">This site is protected by reCAPTCHA and the Google
+			<p id="comment-recaptcha-disclaimer">
+				{{ site.data.ui-text[site.locale].comment_form_recaptcha_disclaimer | default: 'This site is protected by reCAPTCHA and the Google
 				<a href="https://policies.google.com/privacy">Privacy Policy</a> and
-				<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+				<a href="https://policies.google.com/terms">Terms of Service</a> apply.' }}
+			</p>
 			 {%- endif -%}
 			</form>
 		</div>

@@ -1,37 +1,39 @@
-{% assign signup_url = 'https://motionsplan.us2.list-manage.com/subscribe/post?u=c17bb696b7624b69cbd0acaff&amp;id=90126d39b0&amp;f_id=004c40e0f0' %}
-{% assign mailchimp_recaptcha = 'b_c17bb696b7624b69cbd0acaff_90126d39b0' %}
-{% assign title = include.title | default: "Få opdateringer" %}
-{% assign excerpt = include.excerpt | default: "Vær den første der får besked, når der er nyt." %}
-{% assign submit = include.submit | default: "Tilmeld" %}
-{% assign button = "danger" %}
+{% assign signup_url = include.signup_url | default: site.signup.url %}
+{% assign mailchimp_recaptcha = include.recaptcha | default: site.signup.recaptcha %}
+{% assign title = include.title | default: site.signup.title | default: "Få opdateringer" %}
+{% assign excerpt = include.excerpt | default: site.signup.excerpt | default: "Vær den første der får besked, når der er nyt." %}
+{% assign submit = include.submit | default: site.signup.cta_label | default: "Tilmeld" %}
+{% assign button = site.signup.cta_class | default: "danger" %}
+
+{% if signup_url %}
 
 <!-- Begin Mailchimp Signup Form -->
 <aside id="mc_embed_signup">
     <form
-        action="{{ signup_url }}"
+        action="{{ signup_url | absolute_url }}"
         method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
         <fieldset>
             <p class="brandingLogo" style="float: left; margin-right: 1em;">
                 <a href="http://eepurl.com/h2NjYX" title="Mailchimp - email marketing made easy and fun" rel="external nofollow noopener">
-                    <img width="100px" src="/assets/images/mc-logo.jpg">
+                    <img width="100px" src="/assets/images/mc-logo.png" alt="Mailchimp logo">
                 </a>
             </p>
-        <div>
-        <p class="newsletter__title">{{ title }}</p>
-        <p>{{ excerpt }}</p>
-        <div class="form-inline">
-            <label for="mce-EMAIL" style="position: absolute; left: -5000px;" aria-hidden="true">Email Address <span class="asterisk">*</span></label>
-            <input type="email" placeholder="Indtast din e-mail" name="EMAIL" class="input-medium email" id="mce-EMAIL" required>
-            <input type="submit" value="{{ submit }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn--{{ button }} btn--medium">
-        </div>
-        </div>
-        {% comment %}
-        <div class="form-group">
-            <label for="mce-FNAME">Fornavn</label>
-            <input type="text" placeholder="Fornavn" name="FNAME" id="mce-FNAME">
-            <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
-        </div>
-        {% endcomment %}
+            <div>
+                <p class="newsletter__title">{{ title }}</p>
+                <p>{{ excerpt }}</p>
+                <div class="form-inline">
+                    <label for="mce-EMAIL" style="position: absolute; left: -5000px;" aria-hidden="true">Email Address <span class="asterisk">*</span></label>
+                    <input type="email" placeholder="Indtast din e-mail" name="EMAIL" class="input-medium email" id="mce-EMAIL" required>
+                    <input type="submit" value="{{ submit }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn--{{ button }} btn--medium">
+                </div>
+            </div>
+            {% comment %}
+            <div class="form-group">
+                <label for="mce-FNAME">Fornavn</label>
+                <input type="text" placeholder="Fornavn" name="FNAME" id="mce-FNAME">
+                <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+            </div>
+            {% endcomment %}
             {% comment %}
             <div class="mc-field-group input-group">
                 <strong>Interesser</strong>
@@ -64,10 +66,11 @@
                 <span id="mce-group[83726]-HELPERTEXT" class="helper_text"></span>
             </div>
             {% endcomment %}
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true">
-            <input type="text" name="{{ mailchimp_recaptcha }}" tabindex="-1" value="">
-        </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="{{ mailchimp_recaptcha }}" tabindex="-1" value="">
+            </div>
         </fieldset>
     </form>
 </aside>
+{% endif %}

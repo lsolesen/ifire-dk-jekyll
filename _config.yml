@@ -41,6 +41,12 @@ comments:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://legestue.us1.list-manage.com/subscribe/post?u=0e768d72de9dc35f20ab9159e&amp;id=7d610e42d5&amp;f_id=00c678e2f0
+  recaptcha: b_0e768d72de9dc35f20ab9159e_7d610e42d5
+
 #google_forms_comments:
 #  google_app_script: https://script.google.com/macros/s/AKfycbxSvhJ_ojfwuKSDfItuYECRqOaoGMjsIJWN9ID3mNR-CawuMU1QdksnqI9m3fsyZnLf/exec
 #  lazy_load_comments: true
