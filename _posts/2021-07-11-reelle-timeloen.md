@@ -15,7 +15,7 @@ Hvordan regner man sin timeløn ud? Her kan du læse mere om at beregne din time
 
 Du bytter din tid for penge, når du arbejder. Derfor kan det være interessant at regne timelønnen ud for den tid arbejdet reelt tager.
 
-Inspirationen til at kigge på sin reelle timeløn kommer fra ”[Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/your-money-or-your-life-9-steps-to-transforming-your-relationship-with-money-and-achieving-financial-independence-revised-and-updated-for-the-21st_vicki-robin_9780143115762)”, som er skrevet af Vicky Robin og Joe Dominguez. Det er virkelig en anbefalelsesværdig bog.
+Inspirationen til at kigge på sin reelle timeløn kommer fra ”[Your money or your life](https://tales.dk/your-money-or-your-life-9-steps-to-transforming-your-relationship-with-money-and-achieving-financial-independence-revised-and-updated-for-the-21st_vicki-robin_9780143115762)”, som er skrevet af Vicky Robin og Joe Dominguez. Det er virkelig en anbefalelsesværdig bog.
 
 Det er særlig interessant at regne på din **reelle timeløn**, hvis du overvejer at skifte job eller flytte. Det er nemlig her særligt den tid du skal bruge på arbejdet eller de omkostninger, du har kan ændre sig.
 
@@ -48,7 +48,7 @@ Arbejdsrelaterede udgifter i forbindelse med jobbet:
 - Kaffe du køber på vej til arbejde
 - Andre relaterede udgifter
 
-Vicky Robin og Joe Dominguez tager i bogen ”[Your money or your life](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/your-money-or-your-life-9-steps-to-transforming-your-relationship-with-money-and-achieving-financial-independence-revised-and-updated-for-the-21st_vicki-robin_9780143115762)” også **escape underholdning** - altså ferier og shopping man synes man gør sig fortjent til, fordi man arbejder.
+Vicky Robin og Joe Dominguez tager i bogen ”[Your money or your life](https://tales.dk/your-money-or-your-life-9-steps-to-transforming-your-relationship-with-money-and-achieving-financial-independence-revised-and-updated-for-the-21st_vicki-robin_9780143115762)” også **escape underholdning** - altså ferier og shopping man synes man gør sig fortjent til, fordi man arbejder.
 
 Jeg nyder personligt mig arbejde, fordi jeg interesserer mig for det, jeg underviser i. Det betyder, at arbejdet og fritidsinteressen ofte flyder lidt sammen. Derfor medregner jeg ikke selv denne type i mine omkostninger for at arbejde.
 

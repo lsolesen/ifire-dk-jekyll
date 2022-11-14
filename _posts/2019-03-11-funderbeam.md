@@ -39,7 +39,7 @@ At Funderbeam bruger _blockchain_ gør imidlertid ikke investeringerne mere sikr
 
 ## Hvordan fungerer Funderbeam
 
-Det er let og ligetil at oprette en konto hos [Funderbeam](/go/funderbeam). Du indsender dokumentation, og efter et par dage bliver du godkendt til at handler på platformen. Websitet er meget let at bruge. Jeg har skrevet til support, og de svarer rigtig hurtigt.
+Det er let og ligetil at oprette en konto hos [Funderbeam](/go/funderbeam/). Du indsender dokumentation, og efter et par dage bliver du godkendt til at handler på platformen. Websitet er meget let at bruge. Jeg har skrevet til support, og de svarer rigtig hurtigt.
 
 Selvom Funderbeam udnytter _blockchain_, så investerer man penge i Euro, så valutaen er ret let at forstå. Jeg har fx lige indikeret min interesse i danske [Lendinos syndikat](https://www.funderbeam.com/syndicate/lendino). Du kan overføre penge med bankoverførsel, betalingskort eller [Transferwise](/go/transferwise/){: rel='sponsored nofollow noopener' }.
 

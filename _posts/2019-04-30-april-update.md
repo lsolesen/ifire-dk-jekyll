@@ -108,7 +108,7 @@ Jeg eksperimenterer lidt med at [mine kryptovaluta på Minergate](/go/minergate/
 
 ## Passiv indkomst
 
-Jeg har som planlagt implementeret Google Adsense på [Motionsplan](http://www.motionsplan.dk/), [larsolesen.dk](http://larsolesen.dk), [iFire](http://www.ifire.dk/) og [Fodboldens Legestue](http://legestue.net). Google Adsense har i april givet - og hold nu fast - **41,14 kroner**.
+Jeg har som planlagt implementeret Google Adsense på [Motionsplan](https://www.motionsplan.dk/), [larsolesen.dk](http://larsolesen.dk), [iFire](https://www.ifire.dk/) og [Fodboldens Legestue](https://legestue.net). Google Adsense har i april givet - og hold nu fast - **41,14 kroner**.
 
 Jeg har også oprettet mig hos [Partner-Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel="sponsored nofollow noopener" }, men har ikke haft nok tid til at skrive indhold, der har genereret ret meget afkast her. Det er blevet til **15 kroner**.
 

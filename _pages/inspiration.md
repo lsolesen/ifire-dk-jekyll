@@ -31,7 +31,7 @@ feature_row:
     alt: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     title: "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
     excerpt: "Ron Lieber skriver selv om bogen: In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/opposite-of-spoiled-raising-kids-who-are-grounded-generous-and-smart-about-money_ron-lieber_9780062247025"
+    url: "https://tales.dk/opposite-of-spoiled-raising-kids-who-are-grounded-generous-and-smart-about-money_ron-lieber_9780062247025"
     rel: sponsored nofollow noopener
     btn_label: "Læs mere"
     btn_class: "btn--success"
@@ -63,7 +63,7 @@ feature_row:
     alt: "Rich Dad Poor Dad"
     title: "Rich Dad Poor Dad"
     excerpt: "Rich Dad, Poor Dad af Robert T. Kiyosaki er en essentiel bog inden for privatøkonomi. Bogen forklarer, hvad de rige lærer deres børn om penge, som middelklassen ikke gør. Selvom den er rimelig amerikansk i sin tankegang, så læs den."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194"
+    url: "https://tales.dk/rich-dad-poor-dad_robert-t-kiyosaki_9781612680194"
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
