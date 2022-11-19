@@ -7,7 +7,81 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.layout--single-new {
+  .container {
+    display: grid;
+
+    grid-template-areas:
+      "hero hero"
+      "breadcrumbs breadcrumbs"
+      "content sidebar-right"
+      "related-content related-content";
+    grid-template-columns: auto 300px;
+    
+    grid-template-rows: auto 1fr auto;
+    grid-gap: 1em;
+    row-gap: 0;
+
+    min-height: 100vh;
+  }
+  
+  .page__hero--overlay {
+    grid-area: hero;
+    margin-bottom: 0;
+  }
+
+  #main {
+    grid-area: content;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto !important;
+  }
+
+  .sidebar__right__new {
+    grid-area: sidebar-right;
+    padding-right: 1em;
+  }
+
+  .page__related {
+    grid-area: related-content;
+    width: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .breadcrumbs {
+    grid-area: breadcrumbs;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    float: none;
+
+    ol {
+      margin-left: 1.3em;
+      padding: 0;
+      float: left;
+    }
+  
+    @include breakpoint($large) {
+      float: none;
+      width: 100%;
+    }
+  
+    @include breakpoint($x-large) {
+      float: none;
+      width: 100%;
+    }
+  }
+}
+
 #mc_embed_signup {
+
+  .branding__logo {
+    float: left;
+    margin-right: 1em;
+  }
 
   form#mc-embedded-subscribe-form {
     background: white;
