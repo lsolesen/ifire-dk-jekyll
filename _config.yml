@@ -17,7 +17,7 @@ future: true
 locale                   : "da"
 title                    : "iFire"
 title_separator          : false # "-"
-subtitle                 : "Økonomisk frihed, investering, crowdlending og bæredygtighed"
+subtitle                 : "Økonomisk frihed, investering og bæredygtighed"
 name                     : "iFire - Finansiel frihed, investering, crowdlending og bæredygtighed"
 description              : "Blog om at opnå økonomisk uafhængighed og finansiel frihed gennem investering, crowdlending og passiv indkomst med blik for bæredygtighed"
 logo                     : "/assets/images/logo-40x40.png"
@@ -29,13 +29,29 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "custom" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  google_forms           :
+    app_script           : https://script.google.com/macros/s/AKfycbzRevVoiMW67A11Bn6sRmm7la5Rhty5ROAJ_8510g-8QDc3YoSmxANrZy_Bmus3Nr8_/exec
+    lazy_load            : true
+    replies_enabled      : true
+    chunked_loading      : true
+    recaptcha_site_key   : 6LeRKAAjAAAAAD85dQDWplJEiT8JB2lzHkKfnUzA
   disqus:
     shortname            : "ifire"
-staticman:
-  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://legestue.us1.list-manage.com/subscribe/post?u=0e768d72de9dc35f20ab9159e&amp;id=7d610e42d5&amp;f_id=00c678e2f0
+  recaptcha: b_0e768d72de9dc35f20ab9159e_7d610e42d5
+
+#google_forms_comments:
+#  google_app_script: https://script.google.com/macros/s/AKfycbxSvhJ_ojfwuKSDfItuYECRqOaoGMjsIJWN9ID3mNR-CawuMU1QdksnqI9m3fsyZnLf/exec
+#  lazy_load_comments: true
+#  comment_replies_enabled: true
+#  chunked_comment_loading: true
 
 after_footer_scripts:
   - https://www.google.com/jsapi

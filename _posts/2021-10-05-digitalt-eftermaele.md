@@ -1,4 +1,5 @@
 ---
+layout: single-new
 title: &title "Digitalt eftermæle"
 permalink: /digitalt-eftermaele/
 header:
@@ -41,7 +42,7 @@ Tricket med at dele et centralt sted med alle dine adgangskoder gør mange ting 
 
 Foreløbig bruger jeg bare gratis-versionen, men overvejer kraftigt at opgradere til Premium. Tjek [LastPass](/go/lastpass/){: rel="sponsored nofollow noopener" }.
 
-[Prøv LastPass gratis](/go/lastpass/){: .btn--lead rel="sponsored nofollow noopener" }
+[Prøv LastPass gratis](/go/lastpass/){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 ## Tofaktorgodkendelse?
 
