@@ -167,8 +167,6 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
-  - .git
-  - .svn
   - /assets/images
   - /assets/pdf
 encoding: "utf-8"
