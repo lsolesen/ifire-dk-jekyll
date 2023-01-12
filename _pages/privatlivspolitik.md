@@ -2,9 +2,10 @@
 layout: single
 title: "Cookie og Privatlivspolitik for ifire.dk"
 permalink: /privatlivspolitik/
+excerpt: Cookie og privatlivspolitik på ifire.dk. Når du besøger vores website indsamles der oplysninger om dig, som bruges til at tilpasse og forbedre vores indhold og til at øge værdien af de annoncer, der vises på siden.
 author_profile: true
 toc: true
-sitemap: true
+sitemap: false
 ---
 
 Når du besøger vores website indsamles der oplysninger om dig, som bruges til at tilpasse og forbedre vores indhold og til at øge værdien af de annoncer, der vises på siden. Hvis du ikke ønsker, at der indsamles oplysninger, bør du slette dine cookies og undlade videre brug af websitet. Nedenfor har vi uddybet, hvilke informationer der indsamles, deres formål og hvilke tredjeparter, der har adgang til dem.

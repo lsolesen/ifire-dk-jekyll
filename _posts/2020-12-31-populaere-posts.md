@@ -1,5 +1,5 @@
 ---
-title: &title "Populære blog posts på Ifire i 2021 🥇"
+title: &title "Populære blog posts på Ifire i 2022 🥇"
 permalink: /populaere-posts/
 language: da
 header:
@@ -10,7 +10,18 @@ tags:
   - blog
 category:
   - Opdateringer
-last_modified_at: 2021-12-31T18:21:26Z
+last_modified_at: 2022-12-31T18:21:26Z
+popular_posts_2022:
+  - /beregn-timeloen/
+  - /renters-rente/
+  - /hjemmeklipning-laer-klippe-haar/
+  - /madbudget-undgaa-luksusfaelden-med-madplan/
+  - /investering/
+  - /gratis-tv-online-nettet/
+  - /fire-status/
+  - /skat-af-aktier/
+  - /udbetalt-loen-efter-skat/
+  - /lagerbeskatning-etf-fordel-eller-ulempe/
 popular_posts_2021:
   - /lagerbeskatning-etf-fordel-eller-ulempe/
   - /skat-af-aktier/
@@ -37,7 +48,25 @@ popular_posts_2020:
 
 Det har været et godt år på Ifire. Vi har skrevet en del artikler, og vores besøgstal er virkelig gået i vejret.
 
-Her har vi samlet de mest populære blog posts. Der er nogle ældre blog posts, men en del af de nye artikler har også fundet vej til top {{ page.popular_posts_2021.size }} listen.
+Her har vi samlet de mest populære blog posts. Der er nogle ældre blog posts, men en del af de nye artikler har også fundet vej til top {{ page.popular_posts_2022.size }} listen.
+
+## De {{ page.popular_posts_2022.size }} mest populære blog posts i løbet af 2022
+
+Du kan se de mest populære blog posts her:
+
+{% for permalink in page.popular_posts_2022 %}
+
+{% assign site_posts = site.posts | where: "permalink", permalink %}
+{% assign site_pages = site.pages | where: "permalink", permalink %}
+{% assign site_posts = site_posts | concat: site_pages %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+{% endfor %}
 
 ## De {{ page.popular_posts_2021.size }} mest populære blog posts i løbet af 2021
 
@@ -68,23 +97,3 @@ I alt havde vi 36.346 brugere, der læste på 64.373 sider på ifire.dk i løbet
 {% endif %}
 
 {% endfor %}
-
-## Blog posts skrevet i 2020-2021
-
-{% assign date_from = '2020-01-01' | date: '%s' %}
-{% assign date_to = '2021-12-31' | date: '%s' %}
-
-{% assign site_posts = site.posts | where_exp: "post", "post.url != page.url" | sort: "last_modified_at" %}
-
-<div class="feature__wrapper">
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% if current_year == '2020' %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-</div>

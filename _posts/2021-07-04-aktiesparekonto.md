@@ -1,6 +1,6 @@
 ---
 title: &title "Aktiesparekonto: Komplet guide"
-seo_title: "Aktiesparekonto 2022 • Hvordan får jeg en gratis konto »"
+seo_title: "Aktiesparekonto 2023 • Hvordan får jeg en gratis konto »"
 permalink: /aktiesparekonto/
 description: "En aktiesparekonto er en let måde at investere på. Komplet guide til beskatning og hvor du kan få en GRATIS aktiesparekonto."
 excerpt: "En aktiesparekonto er en investeringskonto, der gør det lettere for dig at komme i gang med at investere i aktier. Her er alt du skal vide om at investere på en aktiesparekonto."
@@ -113,7 +113,7 @@ Du kan investere i aktier og investeringsbeviser, hvor mindst 50% af aktiverne i
 
 Din bank eller børsmægler bør sikre sig, at du ikke kan komme til at købe forkerte papirer på kontoen, men hvis det sker, så anses papirerne ifølge [Skat](https://skat.dk/skat.aspx?oid=17119) for erhvervet uden om aktiesparekontoen.
 
-## Hvor meget må jeg indskyde på aktiesparekontoen i 2022?
+## Hvor meget må jeg indskyde på aktiesparekontoen i 2023?
 
 - I 2021 kan du indskyde op til i alt 102.300 kr på kontoen. Hvis du allerede har en aktiesparekonto, så danner saldoen på kontoen i 2020 grundlag for, hvor meget ekstra du må indskyde på kontoen.
 

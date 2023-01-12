@@ -1,6 +1,6 @@
 ---
 title: &title "Indeksfonde - Komplet guide til index investering"
-seo_title: "Indexfonde 2022 - Komplet guide til index investering"
+seo_title: "Indexfonde 2023 - Komplet guide til index investering"
 # Guide til indeks investering + De 5 bedste indeksfonde i 2021
 # Forstå indeksfonde på 1 minut og få et bedre afkast (2021 guide)
 # Indeksfonde ⇒ Kom i gang med indeksinvestering (2021)
