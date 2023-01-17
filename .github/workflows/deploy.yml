@@ -26,7 +26,7 @@ jobs:
       # all the necessary files from our repo, including our custom actions
       # This action here is actually from a remote repo available from Githup itself
       - name: 🛎 Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
@@ -45,7 +45,7 @@ jobs:
           JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
           build_dir: _site
