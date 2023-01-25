@@ -13,3 +13,4 @@ npm-debug.log
 vendor/
 .vscode/settings.json
 build/
+tmp/
