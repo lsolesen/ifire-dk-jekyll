@@ -58,7 +58,7 @@ Hvis du falder over ældre artikler her på siden eller på andre finansblogs, v
 * **Crowdestate** traf i 2025 beslutningen om at lukke forretningen ned og gå i kontrolleret likvidation.
 * **ReInvest24** ekspanderede risikabelt mod vækstmarkeder i Ukraine og Moldova lige inden krigsudbruddet, røg ud i massive defaults og er i dag lukket for nye investeringer og under afvikling.
 
-Hvis du vil læse den hudløst ærlige og ucensurede historie om, hvordan disse platforme knækkede nakken (og hvorfor jeg trak mine penge ud), kan du besøge min store [crowdlending-kirkegård her]({% link _pages/crowdlending-svindel-erfaringer.md %}).
+Hvis du vil læse den hudløst ærlige og ucensurede historie om, hvordan disse platforme knækkede nakken (og hvorfor jeg trak mine penge ud), kan du besøge min store [crowdlending-kirkegård her](/crowdlending-svindel-erfaringer/).
 
 ## Min nuværende status og strategi
 

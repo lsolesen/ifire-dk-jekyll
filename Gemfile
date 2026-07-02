@@ -13,6 +13,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-include-cache"
   gem "jemoji"
+  gem 'jekyll-gzip'
+  gem 'jekyll-brotli'
 end
 
 group :math do

@@ -60,7 +60,7 @@ Kigger man på markedet med de kritiske briller, er der reelt kun meget få af d
 ### Min personlige crowdlending-kirkegård
 En meget stor del af de platforme, jeg tidligere havde listet som "lovende", er i dag lukket, gået konkurs eller afsløret som regulær svindel. Det gælder blandt andet **Envestio, Grupeer, Fast Invest, Lenndy, ReInvest24, Housers** og den danske ejendomsplatform **The Many (Brickshare)**. 
 
-Hvis du vil have den hudløst ærlige historie om mine tab, sagsanlæg og de politianmeldelser, jeg måtte igennem, kan du læse hele min [crowdlending-kirkegård og svindelerfaringer her]({% link _pages/crowdlending-svindel-erfaringer.md %}).
+Hvis du vil have den hudløst ærlige historie om mine tab, sagsanlæg og de politianmeldelser, jeg måtte igennem, kan du læse hele min [crowdlending-kirkegård og svindelerfaringer her](/crowdlending-svindel-erfaringer/).
 
 ## Virkeligheden om det reelle afkast (XIRR)
 

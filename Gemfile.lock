@@ -33,6 +33,7 @@ GEM
     base64 (0.3.0)
     benchmark (0.5.0)
     bigdecimal (3.3.1)
+    brotli (0.2.3)
     classifier-reborn (2.3.0)
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
@@ -105,10 +106,15 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-brotli (2.4.0)
+      brotli (~> 0.2.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-gzip (2.5.1)
+      jekyll (>= 3.0, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
@@ -214,8 +220,10 @@ DEPENDENCIES
   gsl!
   html-proofer
   jekyll (~> 4.4)
+  jekyll-brotli
   jekyll-feed
   jekyll-gist
+  jekyll-gzip
   jekyll-include-cache
   jekyll-paginate
   jekyll-redirect-from

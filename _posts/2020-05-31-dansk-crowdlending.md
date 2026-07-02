@@ -96,7 +96,7 @@ Korthuset kollapsede endegyldigt, da selskabet indgav en **officiel konkursbegæ
 
 Et af deres største projekter ("Hovedstaden I" i Rødovre) var i årevis lammet af selskabsbøvl, massive fugtskader og forsinkelser, hvilket fastlåste millioner af investorkroner uden afkast. Selvom selve ejendommene lå i juridisk adskilte underselskaber (AIF-SIKAV-struktur), har konkursen i moderselskabet og de efterfølgende drakoniske administrationsomkostninger under kurator og rekonstruktion ført til massive værditab og fastlåste midler for investorerne. 
 
-Du kan læse hele den ucensurerede historie om det store danske krak i min [case-beskrivelse på crowdlending-kirkegården her]({% link _pages/crowdlending-svindel-erfaringer.md %}).
+Du kan læse hele den ucensurerede historie om det store danske krak i min [case-beskrivelse på crowdlending-kirkegården her](/crowdlending-svindel-erfaringer/).
 
 ---
 

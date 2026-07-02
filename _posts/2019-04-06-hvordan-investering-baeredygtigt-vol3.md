@@ -233,7 +233,7 @@ Den eneste fond, jeg kunne finde i [månedsopsparingen hos Nordnet]({% link _pos
 Hvis du skal finde bæredygtige investeringsforeninger, fonde eller ETF'er og investerer på Nordnet, så har de tre forskellige redskaber, der kan hjælpe dig med det.
 
 {% for tool in page.feature_row -%}
-- [{{ tool.title }}]({{ tool. url | relative_url }}){: rel="nofollow noopener" }
+- [{{ tool.title }}]({{ tool.url }}){: rel="nofollow noopener" }
 {% endfor %}
 
 De forskellige redskaber virker på nogenlunde samme måde, så her er bare et eksempel fra investeringsforeningerne.
