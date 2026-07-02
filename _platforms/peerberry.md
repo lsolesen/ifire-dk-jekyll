@@ -1,6 +1,6 @@
 ---
 title: "PeerBerry"
-seo_title: "PeerBerry | Crowdlending platform"
+seo_title: "PeerBerry erfaringer | Den stærkeste overlevende P2P-platform? »"
 permalink: /platform/peerberry/
 header:
   teaser: /assets/images/logo/peerberry.png
@@ -9,97 +9,79 @@ category:
 tags:
   - crowdlending
   - Letland
-  - Østeuropa
+  - Kroatien
   - udenlandsk crowdlending
-excerpt: "PeerBerry tilbyder kortsigtede lånetyper med omkring 12% i årligt afkast og buy back garanti. Alternativ til Mintos."
-last_modified_at: 2021-07-27T23:30:00+08:00
+  - aktiv
+excerpt: "PeerBerry tilbyder kortsigtede forbrugs- og erhvervslån med omkring 9-11% i afkast og en gennemtestet koncurngaranti. Det stærkeste alternativ til Mintos."
+last_modified_at: 2026-07-02T23:30:00+02:00
 first_investment_at: 2019-02-27T10:00:00+08:00
 cta_url: /go/peerberry/
-country: Letland
+country: Kroatien
 ---
 
 {{ page.excerpt }}
 
-Jeg har investeret på Peerberry siden starten af 2019, og jeg har haft en intern rente på over 11%. Her kan du læse mine erfaringer med platformen og se, hvordan jeg opstiller min auto invest.
+Jeg har investeret på PeerBerry siden starten af 2019, og jeg har historisk haft et stabilt internt afkast (XIRR) på over 11%. Her kan du læse mine opdaterede erfaringer med platformen og se, hvordan du bedst strukturerer din automatiske investering.
 
-Når man sætter penge ind eller trækker penge ud af Peerberry, så sker det næsten øjeblikkeligt. Og da lånetyperne er relativt kortsigtede, så går det ret hurtigt med at få pengene ud.
+Hvor mange af de gamle baltiske platforme kollapsede under svindelanklager eller dårlig ledelse, har PeerBerry formået at opbygge et af branchens absolut stærkeste rygte. Da krigen i Ukraine brød ud i 2022, stod platformen over for sin ultimative lakmustest, da en enorm del af låneporteføljen lå i Ukraine og Rusland. Men i stedet for at fryse investorernes midler (som mange konkurrenter gjorde), trådte PeerBerrys bagvedliggende moderselskab, *Aventus Group*, til. Via deres *Group Guarantee* har de over en årrække **tilbagebetalt 100% af alle krigsramte lån** til investorerne til punkt og prikke. 
 
-Jeg har også skrevet lidt om skat på Peerberry.
+Selve platformen har i dag flyttet sit juridiske hovedsæde til {{ page.country }} for at optimere under de nyeste EU-reguleringer, og midler kan fortsat indsættes og trækkes ud utrolig hurtigt.
 
 ## Fordele
 
-- Buy back på lånene.
-- Auto invest som fungerer fint.
-- Lån i flere lande.
+- **Gennemtestet koncurngaranti (*Group Guarantee*):** Hvis en lokal låneudbyder kommer i problemer, dækker de øvrige selskaber i den store Aventus-koncern tabet.
+* **Kortsigtede lån giver høj likviditet:** Da mange lån har en løbetid på under 30 dage, kan du lynhurtigt trække din kapital ud, blot ved at slukke for din autoinvestor.
+- **Velfungerende Auto Invest:** Nemt og overskueligt setup.
 
 ## Ulemper
 
-- Kunne godt have bedre statisik om diversificering.
-- Ikke muligt at prioritere sin auto invest.
-- Ingen sekundær markedsplads.
+- **Ingen sekundær markedsplads:** Hvis du har investeret i de mere langsigtede erhvervs- eller ejendomslån, er du bundet indtil udløb.
+- **Intet prioriteringssystem:** Hvis du har flere manuelle Auto Invest-strategier kørende, kan du ikke prioritere, hvilken robot der skal have førstefødselsret til de tilgængelige midler.
 
-## Opsætning af auto-invest på Peerberry
+## Opsætning af auto-invest på PeerBerry
 
-Lad os kigge lidt på, hvordan du kan **opsætte en autoinvestor på Peerberry**.
+Når du vil sætte dine investeringer på autopilot, har du to valgmuligheder: Du kan enten benytte PeerBerrys færdiglavede investeringsplaner eller bygge din egen strategi manuelt.
 
-Du kan enten vælge at bruge en af Peerberrys investeringsplaner eller du kan opsætte din egen.
-
-Først skal du lige finde autoinvestoren. Den finder du her:
+Du finder værktøjet under menuen her:
 
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor.png" %}
 
-### Brug Peerberrys investeringsplaner
-
-Peerberry har automatiske investeringsplaner, som er lidt gemt væk. Men du kan finde dem her:
+### Mulighed 1: Brug PeerBerrys færdige investeringsplaner
+Hvis du ønsker en fuldstændig *hands-off* løsning, tilbyder platformen tre automatiske standardplaner (*Conservative*, *Balanced* og *High Yield*):
 
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-auto.png" %}
-
-Her kan du vælge med følgende planer:
-
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-plan.png" %}
 
-Så skal du egentlig bare vælge, hvor mange penge den enkelte investeringsplan skal stå for.
+Når du har valgt en plan, skal du blot definere din maksimale porteføljestørrelse for strategien:
 
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-plan-size.png" %}
 
-Så let kan det faktisk være at sætte autoinvestor op på Peerberry. Ulempen er her, at du ikke selv har kontrol over, hvilke låneudbydere der bruges i den enkelte portefølje af lån.
+Ulempen ved de færdige planer er, at du mister den direkte kontrol over, hvilke specifikke låneudbydere (*loan originators*) dine penge placeres hos. Erfaringerne fra andre platforme har vist, at det altid er sundest selv at have hånden på kogepladen, når det gælder valg af låneudbydere.
 
-Belært af mine [erfaringer med Mintos Invest & Access](/platform/mintos/), så kan jeg klart bedst lide at bestemme, hvilke låneudbydere jeg investerer i lån fra.
+### Mulighed 2: Opsæt din egen manuelle autoinvestor (Anbefales)
+Fordelen ved det manuelle setup er, at du præcis kan fravælge udbydere med svagere regnskaber og udelukkende fokusere på de mest solide selskaber i Aventus Group.
 
-### Opsæt din egen autoinvestor manuelt
+Da jeg startede i 2019, kørte jeg med en meget kompliceret opsætning. Det viste sig dog at kræve for meget løbende vedligeholdelse, efterhånden som platformen voksede. I dag har jeg forenklet min strategi til to simple Auto Invest-profiler: Én til **kortsigtede lån** og én til **langsigtede lån**. Hvis jeg skal binde mine penge i længere tid, kræver jeg en højere rente, mens jeg ved kortsigtede lån (under 30 dage) accepterer en lavere rente mod at have maksimal likviditet. 
 
-Fordelen ved selv at opsætte din autoinvestor er, at du kan prioritere, hvilke låneudbydere du gerne vil have i din portefølje.
+*Trin for trin opsætning:*
 
-Da jeg startede med at investere på Peerberry, så lavede jeg et relativt kompliceret setup, så jeg kunne sikre mig de høje renter. Men det koster lidt for meget tid at skulle vedligeholde autoinvestoren i takt med, at der kommer nye låneudbydere og ændrede forudsætninger for renterne.
-
-På Peerberry er de enkelte autoinvestorer ikke prioriteret. Hvis du gerne vil have Peerberrys autoinvestor til at investere ud fra forskellige kriterier, så skal du altså kigge lidt på, hvor stort et beløb den enkelte autoinvestor benytter.
-
-Derfor har jeg inspireret af de automatiske autoinvestorer forenklet det til, at autoinvestoren har en indstilling for **kortsigtede lån** og **langsigtede lån**. Hvis jeg skal låne mine penge ud i længere tid, så vil jeg gerne have en lidt højere rente, mens jeg ved kortvarigt udlån kan acceptere en lavere rente.
-
-På Peerberry har jeg ikke oplevet at risikoen på de kortsigtede lån er lavere end de langsigtede lån, men jeg synes også, at det er en **alarmklokke at ingen lån er late hos Peerberry**.
-
-Men lad os kigge på en **manuel opsætning af auto-invest på Peerberry**.
-
-Først vælger du de låneudbydere.
-
+1. **Vælg låneudbydere:** Markér de specifikke selskaber, du har tillid til.
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-manuel-originators.png" %}
 
-Dernæst vælger du renten og løbetiden på lånet.
-
+2. **Definer rente og løbetid:** Sæt dine minimumskrav til afkastet og lånets varighed.
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-manuel-interest.png" %}
 
-Endelig vælger du flere indstillinger på lånet. Hvis du vil sikre dig at en autoinvestor ikke bruger hele beløbet, men beløbet bliver fordelt lidt, så kan du bruge `Portfolio size`.
-
+3. **Porteføljeindstillinger:** Sørg for at definere et lavt *Maximum investment per loan* (f.eks. 10-20 EUR), så din risiko spredes ud over hundreder af individuelle lån. Brug *Portfolio size* til at styre, hvor stor en del af din samlede kapital, denne specifikke robot må bruge.
 {% include figure image_path="/assets/images/crowdlending/peerberry-autoinvestor-manuel-settings.png" %}
 
-Nu er du klar til at modtage passiv indtægt via crowdlending gennem Peerberry.
+Når du gemmer og aktiverer robotten, kører din passive indkomst i store træk sig selv.
 
 ## Skat ved crowdlending på {{ page.title }}
 
-{{ page.title }} er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra {{ page.title }}. Du kan relativt let på platformen finde din årsopgørelse.
+Da PeerBerry er en udenlandsk crowdlending-platform hjemmehørende i {{ page.country }}, skal du som dansk investor selv manuelt indberette dine årlige renteindtægter til SKAT som kapitalindkomst. Heldigvis leverer platformen en af branchens mest overskuelige og reelle årsopgørelser, som du hurtigt kan generere under din profilmenu:
 
-{% include figure image_path="/assets/images/skat/peerberry-tax.png" caption="Sådan finder du årsopgørelsen på peerberry" alt="årsopgørelse skat peerberry" %}
+{% include figure image_path="/assets/images/skat/peerberry-tax.png" caption="Sådan finder du årsopgørelsen på PeerBerry" alt="årsopgørelse skat peerberry" %}
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en detaljeret guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
-[PeerBerry](/go/peerberry/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
+[Tilmeld dig PeerBerry her](/go/peerberry/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

@@ -1,198 +1,123 @@
 ---
-title: "Mine erfaringer med dansk crowdlending. 3 år senere!"
-seo_title: "Dansk crowdlending 2021 • 4 års erfaringer med platforme »"
+title: "Mine erfaringer med dansk crowdlending: Status efter den store oprydning"
+seo_title: "Dansk crowdlending status • 2026-opdatering på de danske platforme »"
 permalink: /dansk-crowdlending/
 category:
   - Crowdlending
 tags:
   - crowdlending
   - featured
-excerpt: "Jeg har investeret i dansk crowdlending i fire år. Her er en grundig opdatering på, hvordan det går med mine investeringer på crowdfunding-platformene."
-description: "Jeg har investeret i dansk crowdlending i fire år. Men hvad er status egentlig på crowdlending og crowdfunding i Danmark?"
+  - Danmark
+excerpt: "Jeg har investeret i dansk crowdlending i en lang årrække. Her er en grundig og ærlig status på mine investeringer efter den store udskilning på markedet."
+description: "Jeg har investeret i dansk crowdlending i en årrække. Men hvad er status egentlig på crowdlending og crowdfunding i Danmark efter de seneste års store oprydning?"
 header:
   teaser: https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
-Der sker virkelig meget i crowdlending i øjeblikket. Jeg er fristet til i højere grad at skifte fokus hen mod de danske crowdlending-platforme.
+Det danske crowdlending-marked har gennemgået en brutal og dramatisk transformation over de seneste år. Hvor der tidligere herskede en ukritisk optimisme omkring at flytte kapitalen hjem til danske platforme under Finanstilsynets vinger, må vi i dag sande, at markedet har været igennem en voldsom udskilning. 
 
-Men hvordan klarer de crowdlending platforme i Danmark sig egentlig, når man sammenligner dem med de udenlandske platforme? Hvor sikre er lånene? Hvor højt er afkastet?
+De store, historiske spillere på det danske marked tæller **Flexfunding, Kameo, The Many (tidligere Brickshare), Lendino og Fundbricks**. Kigger vi på status i dag, står vi tilbage med et marked, hvor svagt funderede forretningsmodeller er fejet af banen, mens kun de mest robuste og seje overlevende formår at holde skruen i vandet.
 
-**Hvis du leder efter dansk crowdlending, så kan du kigge på Flexfunding, Kameo, <del>Brickshare</del><ins>The Many (tidligere Brickshare)</ins>, Lendino og Fundbricks, som er det største spillere på det danske crowdfunding-marked i øjeblikket.**
+Her er min ærlige status og mine personlige erfaringer med de danske platforme – og mine råd til, hvordan du navigerer på det danske crowdfunding-marked.
 
-Jeg har lavet en status på mine investeringer i dansk crowdlending. Jeg startede i januar 2017 med min første investering i Flexfunding og har siden investeret i Kameo og The Many. Du kan læse mange steder på nettet, hvordan du bruger platformene. Her trækker jeg i stedet mine erfaringer frem - og du kan også læse videre under mine detaljerede platform-erfaringer under de enkelte platforme.
+---
 
-## Flexfunding
+## Kameo (Listen absolutte duks)
 
-{% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder." alt="Flexfunding er dansk crowdlending" %}
+{% include figure image_path="/assets/images/logo/kameo.png" caption="Kameo er en nordisk crowdfunding-platform, hvor du kan investere i ejendomsudvikling og erhvervslån i Danmark, Sverige og Norge." alt="Kameo er en dansk crowdlending platform" %}
 
-Flexfunding var min første crowdlending-platform. [Flexfunding](/platform/flexfunding/) tilbyder lån til forskellige virksomheder uden _buy back_ garanti. Man investerer manuelt i lånene - og der er en sekundær markedsplads.
+Hvis vi skal starte med den absolut største succeshistorie på det danske marked, så er det **Kameo**. Platformen blev grundlagt i 2014 og opererer i dag som en stærk skandinavisk sværvægter i både Danmark, Norge og Sverige. Hos Kameo investerer du i lån til professionelle ejendomsudviklere, og lånene ydes stort set altid med pant i ejendommen eller selskabsgarantier.
 
-Flex Funding er en dansk platform for crowdlending og crowdfunding. Flex Funding blev stiftet i 2013. Overordnet har jeg et godt indtryk af platformen i de tre år, jeg har investeret der, selvom der har været lidt software-udfald og systemet kan være bedre.
-
-### Fordele ved Flexfunding
-
-- Danske lån
-- Fornuftige renter efter danske crowdlending forhold
-- Sekundært marked så du kan komme ud af platformen igen
-- Fine informationer om lånene og mulighed for at spørge yderligere ind til lånene
-- Autoinvest
-
-### Ulemper ved Flexfunding
-
-- Efterhånden er der flere tab på Flexfunding, som ellers havde klaret sig uden tab i en årrække. Jeg har selv haft flere konkurser, hvor pengene ikke kommer igen.
-- Firmaet bag platformen har endnu ikke leveret overskud
-- Lidt uoverskuelige gebyrer
-- Det er ikke så let at se, hvor mange aktive lån, man har på platformen. Den viser det historiske antal lån, man har investeret i.
-- Der er sommetider lidt rod med softwaren
-- Anmeldelserne på [Trustpilot](https://dk.trustpilot.com/review/flexfunding.dk) er blandede.
-- Ingen buy back garanti
-
-### Ikke nok informationer om nødlidende lån
-
-Hvis man har et nødlidende lån på Flexfunding, som jeg har nogle stykker af - hvoraf et par stykker er konkurser, så sender Flexfunding dig en e-mail. Jeg kunne dog godt tænke mig, at de samme informationer var lette at finde på deres hjemmeside.
-
-Jeg tjekker jævnligt hjemmesiden for at se, om der er kommet nye lån - og hvordan det går med de eksisterende, men informationerne om de nødlidende lån er ret begrænsede.
-
-{% include figure image_path="/assets/images/posts/flexfunding-opsagt.png" caption="På den konkursramte Samfundstanken står der bare _Opsagt_ og _Betaling mangler eller forsinket_. Det kunne være hjælpsomt med en liste over de aktuelle tiltag Flexfunding tager." alt="Flexfunding er dansk crowdlending" %}
-
-### Forventet afkast på Flexfunding
-
-Hvilket afkast du får på Flexfunding afhænger naturligvis af, hvilken risiko lånene har. Jeg har en blanding af lån, og det var fx tydeligt, at Samfundstanken var et for risikabelt lån. Risikopræmien er ikke i så imponerende på Flexfunding.
-
-I øjeblikket har jeg 51 lån på Flexfunding. Flexfunding skriver at _Gennemsnitligt samlet afkast_ bliver på 8,42%.
-
-{% include figure image_path="/assets/images/posts/flexfunding-rente-udregning.png" caption="Flexfunding udregner Vægtet rentegennemsnit til 8,42%" %}
-
-Min samlede interne rente siden jeg startede mine investeringer på Flexfunding er imidlertid kun 4,39% (her pr. maj 2020), og det er ikke fordi jeg kun har valgt lån med lave renter. Samlet set har jeg betalt 1.581 DKK i gebyrer på platformen, og så har jeg også nogle nødlidende lån. Det er helt sikkert ikke regnet med i Flexfundings vægtede rentegennemsnit.
-
-Jeg har lavet en detaljeret oversigt over [mine erfaringer med Flexfunding, som jeg opdaterer de fleste måneder](/platform/flexfunding/).
-
-## Kameo
-
-{% include figure image_path="/assets/images/logo/kameo.png" caption="Kameo er en nordisk crowdfunding platform, hvor du kan investere i udviklingsprojekter for virksomheder i Danmark, Norge og Sverige - typisk med sikkerhed i ejendomme." alt="Kameo er en dansk crowdlending platform" %}
-
-Kameo er grundlagt i 2014. De er repræsenteret i Norge, Sverige og Danmark og derfor kan du også investere i lån fra alle tre lande. Hos Kameo investerer du lån, som typisk skal finansiere ejendomsprojekter og andre virksomhedslån. Lånene giver typisk et relativt højt afkast i forhold til dansk crowdlending generelt.
-
-Kameo bruger kreditvurderinger fra deres partnere, hvilket indgår i en samlet analyse- og risikovurdering i en sag. Det giver en ekstra sikkerhed for dig som investor, men husk at det i sidste ende er virksomheden bag lånene, som er ansvarlig for at levere de korrekte informationer.
+Kameo har overlevet markedets storme, fordi deres kreditvurderinger og institutionelle setup (understøttet af store finansielle aktører som ABG Sundal Collier) er bundsolidt. 
 
 ### Fordele ved Kameo
-
-- Crowdlending i Danmark (og Sverige og Norge)
-- Let at oprette en profil på [Kameo](/platform/kameo/)
-- Investeringer i nordiske lande til gode projekter.
-- Gratis valutaveksling mellem DKK, NOK og SEK.
-- Platformen er relativt overskuelig.
-- Nu muligt at lave en [affiliate aftale](https://www.kameo.dk/blog/Kameo-lancerer-nyt-Affiliate-program).
-- Mulighed for at reservere investeringer, inden du har indbetalt penge.
-- Fint afkast med en intern rente på 7-8% (de enkelte projekter giver typisk 9-11%, men lidt cash drag kan forventes)
-- Venlig dansk kundeservice
-- Statistik om performance for platformen let tilgængelig
+* **Høj sikkerhed og gennemsigtighed:** Fuldt reguleret og professionel risikostyring.
+* **Gratis valutaveksling:** Du kan frit og uden gebyrer investere i både DKK, SEK og NOK på tværs af de skandinaviske landegrænser.
+* **Flot historisk afkast:** Min personlige interne rente (XIRR) har ligget stabilt på 7-9%. Selvom de enkelte projekter lover 9-11%, skal man dog indregne en smule *cash drag* i opstartsfasen.
+* **Mulighed for reservation:** Du kan reservere en låneandel med det samme, før du overfører penge til den specifikke valutakonto.
 
 ### Ulemper ved Kameo
+* **Ingen Auto Invest:** Du skal stadig logge ind manuelt for at fange lånene, og de mest populære projekter bliver ofte fuldtegnet på få minutter.
+* **500-kroners-reglen:** Du kan kun investere i beløb, der er delelige med 500 DKK/SEK/NOK. Det betyder, at mindre renteindtægter ofte ligger som passive kontanter på din konto, indtil du runder grænsen eller vælger at "toppe op" manuelt.
 
-- Der er ingen autoinvest, hvilket gør, at man jævnligt skal ind på platformen - og lige nu er der heller ikke planlagt nogen autoinvest.
-- Kun muligt at investere beløb deleligt med 500 DKK / SEK / NOK, hvilket gør, at man ofte vil have mindre beløb stående fra renteindtægter, der ikke kan geninvesteres. Du kan naturligvis altid "toppe op" med det nødvendige beløb næste gang, du gerne vil investere.
-- Der er ikke så mange lån på platformen, så det kan være lidt svært at få spredning (og der er ikke så mange norske lån).
-- Projekterne er kun oversat mellem de forskellige sprog på oversigtssiden - ikke de uddybende informationer om projektet.
-- Overførslerne mellem de forskellige valutakonti tager en dag, så man kan ikke investere med det samme, hvis der er et spændende lån (dog kan man med en ny funktion reservere investeringer, selvom man ikke har penge på kontoen).
-- Det tager lidt tid inden den interne rente vokser til det forventede, men så er afkastet også fint.
+Kameo står i dag tilbage som den absolut mest strømlinede og professionelle ejendomsplatform i Skandinavien. Du kan læse [mine fulde og løbende opdaterede erfaringer med Kameo her](/platform/kameo/).
 
-### Forventet afkast på Kameo
+---
 
-Det er ikke så let at få et overblik over sine samlede investeringer på Kameo. Her er et screenshot fra `Min Konto`. Her kan jeg finde kontoens værdi, men der er ikke et samlet overblik over den forventede renteindtægt eller eventuelle gebyrer.
+## Lendino (En af de seje pionerer)
 
-{% include figure image_path="/assets/images/posts/kameo-dashboard.png" caption="Dashboardet eller `Min Konto` er meget enkelt :)" %}
+{% include figure image_path="/assets/images/logo/lendino.png" caption="Lendino formidler lån direkte til mindre virksomheder og private, ofte i tæt samarbejde med statslige fonde." alt="Lendino er dansk crowdlending" %}
 
-Samlet set har jeg en intern rente på 7,98% på mine danske projekter og 9,77% på mine svenske projekter i de 15 måneder, jeg har været på platformen, så det er jeg rigtig godt tilfreds med.
-
-Jeg ærger mig dog lidt, hver gang jeg logger ind og ser fx 2-400 kroner stående på kontoen, som bliver nødt til at stå og vente indtil jeg kommer over 500 DKK (med mindre jeg er interesseret i at sætte flere penge ind på Kameo). Det skaber _cash drag_, og jeg ville hellere have at pengene konstant var ude at arbejde, hvilket også ville have hævet min interne rente lidt.
-
-Jeg har lavet en endnu mere detaljeret oversigt over [hvordan jeg oplever Kameo, som jeg opdaterer de fleste måneder](/platform/kameo/).
-
-## The Many (tidligere Brickshare)
-
-{% include figure image_path="/assets/images/logo/themany.jpg" caption="Hos The Many laver man ejendomsinvestering i Danmark ved at købe andele af ejendomme, hvor man så får udlejningsindtægter og værdistigninger af ejendommene." %}
-
-[The Many](/go/themany/){: rel='sponsored nofollow noopener' } er en online investeringsplatform, hvor du kan investere i fast ejendom sammen med andre investorer. I realiteten køber du en andel i en ejendom, og du modtager lejeindtægt for andelen. Du bliver medejer af projektet, og du får naturligvis også del i værdistigningen.
-
-{% include video provider="youtube" id="8W3zK4JoV4A" %}
-
-### Fordele ved The Many
-
-- Dansk crowdlending hvor du bliver husejer og får huslejeindtægt.
-- Velfungerende site og god kommunikation om projekterne.
-- Mulighed for at reservere i projektet og først betale, når det er tæt på at være finansieret.
-- Det er let at indløse sine andele direkte fra dashboardet.
-- Hvis du bruger [mit link får du 250 kroner at starte for](/go/themany/){: rel='sponsored nofollow noopener' }.
-
-### Ulemper ved The Many
-
-- Afkast kommer først, når projektet er finansieret og der er kommet lejere i bygningen.
-- Der er ikke så mange nye projekter, og selvom jeg er skrevet op på ventelisten til alle projekter, så er jeg endnu ikke blevet tilbudt en plads.
-- Ingen buy back garanti
-- Ingen auto invest
-- De årlige omkostninger forbundet med investeringen er ikke helt tydelige
-
-### Forventet afkast på The Many
-
-På The Many køber man sig ind i en ejerforening af de enkelte projekter, som juridisk er adskilt fra hinanden. Det er en rigtig god sikkerhed. Det betyder også, at det forventede afkast på de enkelte projekter ikke påvirker hiananden.
-
-{% include figure image_path="/assets/images/posts/brickshare-expected-dividend.png" caption="Oversigt over hvilket forventet afkast The Many forventer for projekterne" %}
-
-Jeg glæder mig til, at projekterne har kørt i flere år. Jeg investerede for nøjagtigt et år siden i _Nordvest, Nørrebros hippe nabo_-projektet med 50.000 DKK og har fået 441,64 DKK udbetalt i første udbytte. Det svarer til 0,8% i afkast på et projekt, der lover 3-4% i udbytte om året. Årsagen til det lave udbytte er naturligvis, at jeg skulle indbetale pengene inden projektet reelt gik i gang, og derfor dækker udbyttet en noget kortere del af året.
-
-Derfor er det også en stor forbedring, at man nu kan reservere andele i projekterne uden at skulle betale pengene med det samme. Det har jeg udnyttet med deres nyeste projekt.
-
-Jeg følger mine investeringer på The Many tæt, og jeg opdaterer løbende [mine erfaringer med The Many under min platformbeskrivelse](/platform/themany/).
-
-[Start på The Many](/go/themany/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
-
-## Lendino - crowdlending i Danmark
-
-Jeg har også investeret i [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' }. Lendino blev startet i 2014. Lendino er en markedsplads for lån direkte til virksomheder og private. Lendino har både lokale lån og lån til virksomheder sammen med vækstfonden.
+[Lendino](/go/lendino/) blev etableret helt tilbage i 2014 og er en af de absolutte pionerer inden for dansk crowdlending. Platformen fungerer som en markedsplads for erhvervslån direkte til danske virksomheder. Lendino skiller sig positivt ud ved ofte at samarbejde med statslige instanser (såsom det tidligere Vækstfonden, i dag Danmarks Eksport- og Investeringsfond - EIFO) omkring finansieringen af de mindre erhvervslån.
 
 {% include video provider="youtube" id="vbA5pW1zTrc" %}
 
-En af fordelene med Lendino er, at de har en auto invest. Til gengæld er mindsteinvesteringen 1000 DKK, hvilket hurtigt kan gøre, at man får _cash drag_, så længe jeg ikke vil investere mere end 10.000 til 30.000.
-
-Jeg opdaterer løbende [mine erfaringer med Lendino under min platformbeskrivelse](/platform/lendino/).
-
-[Start på Lendino](/go/lendino/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+Hvor mange andre danske platforme har måttet dreje nøglen om over årene, har Lendino vist stor udholdenhed og formået at drive forretningen sikkert videre med et generelt rigtig fornuftigt ry på Trustpilot.
 
 ### Fordele ved Lendino
-
-- Danske lån
-- Fornuftige renter efter danske crowdlending forhold
-- Sekundært marked så du kan komme ud af platformen igen
-- Fine informationer om lånene og mulighed for at spørge yderligere ind til lånene
-- Autoinvest
-- Anmeldelserne på [Trustpilot](https://dk.trustpilot.com/review/www.lendino.dk) er overvejende positive.
+* **Ægte danske erhvervslån:** God gennemsigtighed og direkte indsigt i det danske erhvervsliv.
+* **Velfungerende Auto Invest:** Platformen har en fin indbygget robot, der automatisk kan sprede dine midler ud over nye lån baseret på din risikoprofil.
+* **Overvejende positive anmeldelser:** Brugerne melder generelt om en stabil og professionelt drevet platform.
 
 ### Ulemper ved Lendino
+* **Høj minimumsinvestering:** Det kræver mindst 1.000 DKK pr. lån. Hvis du kun har en mindre portefølje stående (f.eks. 10.000 - 20.000 kr.), betyder det, at dine løbende renteudbetalinger hurtigt rammer massivt *cash drag*, fordi der går lang tid, før du har opsparet nok renter til en ny automatisk geninvestering.
+* **Ingen buy back-garanti:** Hvis en virksomhed går konkurs, fanger bordet for investorerne (omend samarbejdet med statslige fonde på udvalgte lån afbøder en del af risikoen).
+* **Periodisk lav lånevolumen:** Der kan til tider være langt mellem de nye projekter på markedspladsen, hvilket lader din kapital ligge passiv i perioder.
 
-- Flere har tidligere oplevet ustabile låntagere.
-- Ingen buy back garanti
-- Der har været lidt langt mellem lånene, så min autoinvest har ikke investeret i noget i mere end en måned primo 2021.
+Du kan læse [mine løbende erfaringer med Lendino under min platformbeskrivelse her](/platform/lendino/).
 
-## Andre muligheder for dansk crowdlending
+---
 
-Der er altså flere muligheder for at investere i dansk crowdlending.
+## Flexfunding (Masser af historie, men for høje tab)
 
-Fundbricks er et andet dansk crowdlending-firma, som fokuserer på udviklingslån til ejendomsudvikling. Jeg er dog allerede på [Kameo](/platform/kameo/), som har nogenlunde samme forretningsområde. Jeg kan bedre lide modellen bag [The Many](/platform/themany/), hvor man bliver medejer af projeket.
+{% include figure image_path="/assets/images/logo/flexfunding.png" caption="Flexfunding formidler lån direkte til mindre danske erhvervsvirksomheder uden buy back-garanti." alt="Flexfunding er dansk crowdlending" %}
 
-Hvis jeg skulle starte en investering i dag i en af de danske crowdlending-platforme, så afhænger det lidt af, hvor mange penge jeg gerne vil investere - og hvad typen af mine investeringer skulle være.
+Flexfunding var min allerførste crowdlending-platform, hvor jeg trådte ind i januar 2017. Forretningsmodellen minder om Lendinos: Klassiske erhvervslån til mindre danske virksomheder uden nogen form for *buy back*-garanti. 
 
-Hvis jeg skulle starte med at investere i dag for et **mindre beløb**, så ville jeg nok vælge Kameo, som historisk for mig har givet et fint afkast.
+Hvor Flexfunding i de første par år leverede pæne, stabile resultater, ramte virkeligheden hårdt, da de makroøkonomiske vinde vendte. Andelen af konkurser og nødlidende lån (*defaults*) eksploderede i min portefølje. Projekter som f.eks. "Samfundstanken" gik konkurs, og pengene var endegyldigt tabt.
 
-Hvis du har **lidt flere penge**, så synes jeg forretningsmodellen for The Many er rigtig god, og jeg glæder mig til at følge mine investeringer her fremover. Fundbricks er helt sikkert også en mulighed, hvis du foretrækker udviklingsprojekter. Jeg synes dog deres markedsføring i fx Facebookgrupperne er lidt aggressiv.
+Selve platformen har desværre haft et mangelfuldt dashboard, når lånene først blev nødlidende. Informationerne blev ofte gemt væk i spredte e-mails frem for at være transparent tilgængelige på platformen, hvor der blot stod "Opsagt" eller "Betaling mangler".
 
-Jeg synes Flexfunding og [Lendino](/go/lendino/){: rel='sponsored nofollow noopener' } ligger relativt lige. Jeg ville vælge Flexfunding fordi mindstebeløbet er 200 DKK pr. investering, men Lendino har sin auto invest.
+{% include figure image_path="/assets/images/posts/flexfunding-opsagt.png" caption="På mit dashboard står der blot 'Opsagt' for det konkursramte projekt Samfundstanken, uden yderligere detaljer om inddrivelsen." %}
 
-[Opret dig på Kameo](/platform/kameo/){: .btn .btn--large .btn--success } eller [Få 250 DKK til The Many](/go/themany/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+### Min XIRR-konklusion på Flexfunding
+Mens Flexfunding stolt markedsførte et "Vægtet rentegennemsnit" på over 8%, var min reelle realiserede interne rente (XIRR) **helt nede på 4,39%**. Årsagen er simpel: Platformens officielle statistik modregner ikke de løbende selskabskonkurser og de tunge gebyrer (jeg betalte over 1.500 kr. i platformgebyrer), som platformen opkræver. Risikopræmien står i min optik simpelthen ikke mål med faren for at tabe hele hovedstolen på ubeskyttede erhvervslån.
 
-Hvis du er interesseret i crowdlending mere generelt - og gerne vil se alle de platforme, jeg har investeret på, så tjek min [crowdlending oversigt med mere end 27 platforme](/crowdlending/).
+---
 
-## Crowlending i Danmark
+## The Many / Brickshare (Det store danske ejendomskrak)
+
+{% include figure image_path="/assets/images/logo/themany.jpg" caption="The Many lokkede med fraktioneret ejendomsinvestering i Danmark, men selskabet endte i en total konkurs." %}
+
+The Many var i en lang periode det store trækplaster inden for dansk ejendomscrowdfunding. Konceptet var anderledes end traditionel crowdlending; man ydede ikke lån, men købte i stedet reelle aktieandele i selskaber, der ejede udlejningsboliger i bl.a. Vanløse og Nordvest, for at modtage løbende udbytte fra huslejeindtægterne og fremtidige værdistigninger.
+
+**Status: Konkurs og permanent lukket.**
+Korthuset kollapsede endegyldigt, da selskabet indgav en **officiel konkursbegæring** efter massive likviditetsproblemer og hårde påbud fra Finanstilsynet vedrørende deres mangelfulle stresstest af investorernes indløsninger. 
+
+Et af deres største projekter ("Hovedstaden I" i Rødovre) var i årevis lammet af selskabsbøvl, massive fugtskader og forsinkelser, hvilket fastlåste millioner af investorkroner uden afkast. Selvom selve ejendommene lå i juridisk adskilte underselskaber (AIF-SIKAV-struktur), har konkursen i moderselskabet og de efterfølgende drakoniske administrationsomkostninger under kurator og rekonstruktion ført til massive værditab og fastlåste midler for investorerne. 
+
+Du kan læse hele den ucensurerede historie om det store danske krak i min [case-beskrivelse på crowdlending-kirkegården her]({% link _pages/crowdlending-svindel-erfaringer.md %}).
+
+---
+
+## Fundbricks og markedet i dag
+
+Fundbricks eksisterer fortsat som en nicheaktør med fokus på udviklingslån til ejendomsprojekter, meget lig Kameos forretningsområde. Deres markedsføring har i perioder været ekstremt aggressiv i diverse investorgrupper på sociale medier, og i lyset af de generelle udfordringer på det danske ejendomsmarked, har jeg personligt valgt at holde mig langt væk og fokusere min kapital på platforme med en stærkere institutionel rygrad.
+
+## Samlet konklusion: Min anbefaling til dansk crowdlending
+
+Min flerårige rejse med crowdlending i Danmark har givet mig nogle dyre, men utrolig vigtige lektioner: **Det danske stempel og Finanstilsynets opsyn er overhovedet ingen garanti mod tab, konkurser eller fejlslagne forretningsmodeller.**
+
+Hvis du ønsker at krydre din FIRE-rejse med danske erhvervs- eller ejendomslån via crowdfunding i dag, skal du bygge din strategi på to skarpe principper:
+
+1. **Til ejendomme og store projekter:** Brug **Kameo**. De er de absolut eneste, der har bevist, at de har det finansielle fundament, de pantesikrede rammer og de kreditmæssige evner til at beskytte investorernes kapital over tid.
+2. **Til klassiske erhvervslån:** Hvis du vil støtte danske virksomheder, er **Lendino** det mest solide og seje bud på grund af deres Auto Invest og historiske overlevelsesevne – men du skal være forberedt på et mærkbart *cash drag* på grund af minimumsgrænsen på 1.000 kr. pr. lån.
+
+Hvis du er interesseret i crowdlending mere generelt – og gerne vil se alle de 27 udenlandske og danske platforme, jeg historisk har bevæget mig på, så tjek min [store crowdlending-hovedoversigt her](/crowdlending/).
+
+---
+
+## Aktive og historiske platforme i Danmark
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 

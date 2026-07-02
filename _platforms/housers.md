@@ -1,6 +1,6 @@
 ---
 title: "Housers"
-seo_title: "Housers | Crowdlending platform"
+seo_title: "Housers erfaringer | Spansk ejendomscollapse og dyre lærepenge »"
 permalink: /platform/housers/
 header:
   teaser: /assets/images/logo/housers.png
@@ -11,71 +11,67 @@ tags:
   - ejendomsinvestering
   - Spanien
   - udenlandsk crowdlending
-excerpt: "Housers giver dig primært mulighed for at investere i ejendomsudviklingsprojekter. Housers opererer i Spanien, Italien og Portugal."
-last_modified_at: 2021-03-24T00:00:00+08:00
+  - lukket
+excerpt: "Housers gav oprindeligt mulighed for at investere i ejendomsprojekter i Spanien, Italien og Portugal. Platformen er i dag lukket permanent efter massive problemer."
+last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-03-05T10:00:00+08:00
-cta_url: /go/housers/
 country: Spanien
 ---
 
-Housers er en crowdlending platform hjemmehørende i {{ page.country }}, som jeg har investeret i siden marts 2019.
+**Opdateret**: {{ page.last_modified_at | date: "%b %-d, %Y"}}
 
-Housers var egentlig en af mine favoritplatforme, fordi det var muligt alsidigt at investere i ejendomme. Du kunne både investere i udlejningsejedomme eller udviklingsprojekter.
+**Første investeringsdato**: 5. marts 2019  
 
-Den interne rente har imidlertid været relativt begrænset i forhold den risiko, der er på platformen. En del af de projekter, jeg har investeret i er nemlig i øjeblikket under rekonstruktion.
+**Status: Platformen er permanent lukket.**
 
-{% include figure image_path="/assets/images/crowdlending/housers-status-juni-2021.png" caption="Jeg er lige nu investeret i 11 projekter på Housers, men 7 af dem er under rekonstruktion." alt="status housers crowdlending" %}
+{{ page.excerpt }}
 
-Jeg har et stykke tid villet reducere min samlede crowdlending portefølje, og der synes jeg ikke Housers er så interessant.
+Housers var i min spæde start en af mine absolutte favoritplatforme, fordi den gjorde det muligt at opbygge en alsidig, sydeuropæisk ejendomsportefølje. Man kunne både investere i regulære udlejningsejendomme (for at hente løbende husleje) og i deciderede bygge- og udviklingsprojekter.
 
-Her fra juni 2021 har Housers endda valgt at tage et månedligt gebyr på hele 2,5 EUR, hvis ikke man investerer jævnligt på platformen.
+Virkeligheden bag de solrige sydeuropæiske projekter viste sig dog hurtigt at være rådden. Det interne afkast (XIRR) stod på ingen måde mål med den reelle risiko, og i midten af 2021 kollapsede korthuset for alvor for mit vedkommende, da over halvdelen af mine projekter røg under rekonstruktion eller i hård misligholdelse.
+
+{% include figure image_path="/assets/images/crowdlending/housers-status-juni-2021.png" caption="Statusbilledet fra juni 2021, hvor hele 7 ud af 11 af mine projekter på Housers var gået i hård restance eller under rekonstruktion." alt="status housers crowdlending" %}
+
+For at gøre ondt værre introducerede Housers i juni 2021 et drakonisk og dybt urimeligt "platform-gebyr" på **2,5 EUR om måneden**, hvis man som investor ikke spyttede nye penge i projekterne med jævne mellemrum. Det blev det endelige nådestød, der fik mig til at iværksætte et totalt exit.
 
 {% include figure image_path="/assets/images/crowdlending/housers-platform-fee.png" alt="housers platform gebyr" %}
 
-Derfor har jeg besluttet mig for at trække mig ud. Men sammenlignet med en del af de andre platforme, så er det lidt mere bøvlet.
+## Historisk tilbageblik: Det bureaukratiske mareridt om at komme ud
 
-## Hvordan kommer jeg ud af Housers?
+Hvor det på normale platforme tager to klik at sætte et lån til salg, havde Housers opbygget et af de mest unødvendigt komplicerede sekundære markeder i branchen. For historiens skyld har jeg gemt min oprindelige guide til processen herunder.
 
-Det sekundære marked hos Housers er en smule besværligt at bruge. Jeg har lige forsøgt at finde ud af det hele på platformen, så her er en guide til at sætte dine investeringer til salg.
+For at sætte en investering til salg, skulle man igennem et absurd setup, hvor man fysisk skulle anmode om adgang til en ekstern "kommunikationsgruppe" for det enkelte projekt:
 
-Du skal tilmelde dig en gruppe for at sætte dine investeringer til salg.
+{% include figure image_path="/assets/images/crowdlending/housers-investment-page.png" caption="Trin 1: Find listen over dine ejendomsinvesteringer." alt="oversigt over investeringer på Housers" %}
 
-{% include figure image_path="/assets/images/crowdlending/housers-investment-page.png" caption="Først skal du finde dine investeringer" alt="oversigt over investeringer på Housers" %}
+Herefter klikkede man ind på den specifikke ejendom:
 
-Så skal du klikke ind på din ejendom.
+{% include figure image_path="/assets/images/crowdlending/housers-buy-sell.png" caption="Trin 2: Log ind i den separate køb- og salg-sektion." alt="køb og sælg Housers" %}
 
-{% include figure image_path="/assets/images/crowdlending/housers-buy-sell.png" caption="Så skal du logge ind for at købe og sælge." alt="køb og sælg Housers" %}
+Hvis ikke man havde godkendt det før, skulle man oprette en særskilt handels- og kommunikationsprofil. Herfra skulle man manuelt søge selve projektet frem på ny i en søgebar:
 
-Hvis ikke du har lavet en profil før, så skal du oprette en profil. Ellers er du logget ind i køb-og-salg-gruppen for Housers.
+{% include figure image_path="/assets/images/crowdlending/housers-dcc.png" caption="Trin 3: Søg dit projekt frem og klik på 'Request Access' for at få lov til at tale med markedet." alt="housers sekundære marked" %}
 
-Du skal selv søge projektet frem.
+Når adgangen (forhåbentlig) blev godkendt af platformen, skulle man navigere ind under menuen `Investors Communication` og vælge `Sales offer` i en drop-down-menu:
 
-{% include figure image_path="/assets/images/crowdlending/housers-dcc.png" caption="Søg dit projekt frem og klik på `Request Access`" alt="housers sekundære marked" %}
+{% include figure image_path="/assets/images/crowdlending/housers-sales-offer.png" caption="Trin 4: Endelig fremme ved salgsmenuen." alt="Housers sales offer" %}
 
-Nu skal du vælge `Investors Communication` og vælge `Sales offer` i Drop-down-menuen.
+Til sidst skulle man sætte sin udbudspris. For at kende sin nøjagtige andel, måtte man have en ekstra fane åben med den oprindelige oversigtsside for at tjekke sin præcise position i projektet:
 
-{% include figure image_path="/assets/images/crowdlending/housers-sales-offer.png" caption="Nu kan du sælge din investering fra Housers" alt="Housers sales offer" %}
+{% include figure image_path="/assets/images/crowdlending/housers-modular-home.png" caption="Trin 5: Kontrol af den nøjagtige økonomiske position, før rabatten kunne udregnes." alt="position i investering på Housers" %}
 
-Så skal du jo bare have sat prisen. Hvis du vil vide, hvad din nuværende position er, så skal du lige tilbage til oversigtssiden over dit projekt på Housers.
-
-{% include figure image_path="/assets/images/crowdlending/housers-modular-home.png" caption="Oversigtssiden over din ejendom på Housers og din nuværende position i investeringen." alt="position i investering på Housers" %}
-
-Desværre kan man kun sætte projekter til salg, hvor der ikke er nogen problemer. Det betyder, at det kun er lykkes mig at sætte 3 ejendomsinvesteringer til salg lige nu. Men det har jeg så gjort med en lille rabat. Nu må vi se, hvor længe det varer, inden de alle er solgt.
-
-Hvis du er interesseret i at komme ind i Housers, så har de lige nu [50 EUR i velkomstbonus](/go/housers/){: rel="sponsored nofollow noopener" }.
+**Fælden klappede:** Man kunne udelukkende sætte projekter til salg, som kørte fuldstændig planmæssigt og uden betalingsproblemer. Da 7 ud af mine 11 projekter var låst i rekonstruktion, var det i 2021 kun muligt for mig at sætte 3 lån til salg (hvilket jeg gjorde med en pæn rabat). Resten af midlerne var reelt stavnsbundet i platformens efterfølgende totale kollaps og lukning.
 
 ## Skat og Housers
 
-Housers er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra platformen hos Skat.
+Da Housers var en spansk platform hjemmehørende i {{ page.country }}, var man som dansk investor selv ansvarlig for at indberette renteindtægter og realiserede tab til SKAT. Som et ekstra irritationsmoment var Housers altid ekstremt langsomme i optrækket; deres årsrapporter og skattebilag blev sjældent frigivet før slutningen af april, hvilket ofte betød, at man måtte genåbne sin danske årsopgørelse manuelt efter den normale frist.
 
-Housers gør desværre først deres årsrapport klar i april, så man må have lidt tålmodighed.
+{% include figure image_path="/assets/images/skat/housers-tax.png" caption="Sådan fandt man historisk årsopgørelsen på Housers" alt="årsopgørelse skat housers" %}
 
-{% include figure image_path="/assets/images/skat/housers-tax.png" caption="Sådan finder du årsopgørelsen på Housers" alt="årsopgørelse skat housers" %}
-
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
-
-[Housers](/go/housers/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
+Jeg har skrevet en generel guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
 ## Konklusion
 
-Housers er ikke længere min favoritplatform til crowdlending. Jeg har skrevet mere om mine [tanker om crowdlending her](/crowdlending/), hvor du også kan finde ud af, hvad jeg selv investerer i lige nu.
+Housers står tilbage på min crowdlending-kirkegård som et monument over, hvordan dårlig risikostyring, tunge platformgebyrer og mangel på gennemskuelighed i Sydeuropa kan spise en investors midler. Det var et vigtigt og dyrt skridt på min FIRE-rejse at trække stikket her.
+
+Hvis du vil se, hvad der rent faktisk fungerer i min portefølje i dag, og hvordan jeg griber investering an nu, kan du læse min opdaterede [hovedguide om crowdlending her](/crowdlending/).

@@ -1,6 +1,6 @@
 ---
 title: "Crowdestor"
-seo_title: "Crowdestor | Crowdlending platform"
+seo_title: "Crowdestor erfaringer | Investerings-mareridt eller højt afkast? »"
 permalink: /platform/crowdestor/
 header:
   teaser: /assets/images/logo/crowdestor.png
@@ -10,9 +10,10 @@ tags:
   - crowdlending
   - Estland
   - Østeuropa
-  - udenlandsk crowdlending
-excerpt: "Crowdestor er en _peer-to-peer_ crowdlending-platform baseret i Estland med mange forskellige interessante projekter."
-last_modified_at: 2021-07-23T00:08:12+02:00
+  - udestående
+  - kritik
+excerpt: "Crowdestor var en estisk peer-to-peer platform med løfter om tårnhøje renter. I dag er platformen lukket for nye lån og kæmper med massive misligholdelser."
+last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-03-06T10:00:00+02:00
 toc: true
 cta_url: /go/crowdestor/
@@ -21,84 +22,51 @@ country: Estland
 
 {{ page.excerpt }} 
 
-Jeg har investeret på Crowdestor siden marts 2019. Jeg har hele tiden opfattet som Crowdestor som en velfungerende platform.
+Jeg har investeret på Crowdestor siden marts 2019. I den spæde start opfatede jeg Crowdestor som en spændende og velfungerende platform, der tilbød adgang til meget nicheprægede erhvervsprojekter (alt fra restauranter til filmproduktioner) med ekstremt høje renteløfter på 15–20%. 
 
-Jeg har investeret i over 25 projekter på Crowdestor, og mange af projekterne lover ret høje renter. Desværre er der også rigtig mange af projekterne, der endnu ikke har betalt de aftalte afdrag.
+Jeg nåede at investere i over 25 forskellige projekter på platformen. Men det, der startede som et gyldent afkast-eventyr, har over årene udviklet sig til et decideret mareridt for mange investorer. De mange forsinkede betalinger, som startede under Corona-pandemien, var desværre ikke blot midlertidige bump på vejen. De var starten på et generelt strukturelt kollaps i platformens risikovurdering.
 
-{% include figure image_path="/assets/images/crowdlending/crowdestor-late.png" caption="Faktisk er der her i juli 2021 hele 17 ud af 21, hvor der er for sene betalinger, men mange af lånene har også kæmpet under Corona pandemien." %}
+**Status: Platformen udbyder i dag ingen nye forretningslån, og størstedelen af den udestående portefølje er misligholdt eller under inddrivelse. Jeg vil på det kraftigste advare mod at placere kapital her.**
 
-Samlet ser det ud til, at Crowdestor stadig udvikler platformen med nye produkter og auto invest er endelig kommet her i 2021.
+## Portefølje i knæ og hård kritik
 
-Men Crowdestor får ikke en god medfart på Trustpilot.
+Allerede i sommeren 2021 var min personlige statistik dyster, da 17 ud af 21 af mine aktive projekter var ramt af for sene betalinger. 
 
-{% include figure image_path="/assets/images/crowdlending/crowdestor-trustpilot.png" caption="Det er ikke decideret betryggende at læse på Trustpilot om Crowdestor. Mange af kommentarerne handler netop om, at projekter ikke tilbagebetales til tiden - selvom man loves strålende afkast." %}
+{% include figure image_path="/assets/images/crowdlending/crowdestor-late.png" caption="Statusbilledet fra juli 2021, hvor forsinkelserne for alvor begyndte at rulle ind over platformen." %}
 
-## Fordele
+Kigger man på de overordnede markedstal i dag, er tæppet fuldstændig trukket væk under platformen. Analyser af den tilbageværende låneportefølje viser, at **under 30 % af de udestående lån bliver betalt til tiden**. De resterende 70–75 % er enten i alvorlig restance (typisk 90+ dage) eller i gang med langstrakte og uigennemskuelige inkassoprocesser (*recovery*). 
 
-- Mange interessante lån og fine informationer om lånene
-- Relativt højt afkast opnået hurtigt
-- Fond for at undgå tab, men fonden er formentlig lidt for skrøbelig
-- Rimelig let at blive diversificeret på platformen, fordi der jævnligt kommer lån
-- Renter starter fra den dag, man investerer i et projekt.
-- _Auto invest_
+Dette afspejles også i platformens Trustpilot-score, som i årevis har været i frit fald. Investorer verden over melder om tabt hovedstol, manglende transparens og projekter, hvor låntagerne reelt er forsvundet med pengene. Platformens såkaldte "Buyback-fond" (*Recovery Fund*), som oprindeligt blev markedsført som et sikkerhedsnet, viste sig i praksis at være alt for skrøbelig og reelt værdiløs over for systemiske slet-betalere.
 
-## Ulemper
+{% include figure image_path="/assets/images/crowdlending/crowdestor-trustpilot.png" caption="Crowdestors Trustpilot har længe været præget af vrede investorer, der ikke kan få deres penge ud." %}
 
-- Flere projekter er ikke blevet planmæssigt tilbagebetalt
-- Kun en låneudbyder
+## Historisk teknisk gennemgang
 
-## Auto invest på Crowdestor
+Da platformen var fuldt aktiv, introducerede de flere funktioner for at holde på investorerne. Herunder er min oprindelige gennemgang af funktionerne:
 
-Der er nu endelig kommet en auto invest-funktion på Crowdestor. Autoinvestoren er let at opsætte og ligner mange af de andre autoinvestorer på de andre platforme.
+### Auto invest på Crowdestor
+I 2021 udrullede Crowdestor endelig en *Auto Invest*-funktion. Tidligere ønskede de manuel investering, så folk granskede projekterne, men funktionens introduktion hjalp med at sprede mindre beløb automatisk for at minimere enkeltrisici. 
 
-Først skal du lige finde frem til funktionen. Du klikker på dine kontooplysninger i øverste højre hjørne.
-
+*Sådan så opsætningen historisk ud:*
 {% include figure image_path="/assets/images/crowdlending/crowdestor-autoinvest.png" %}
-
-Derefter laver du en opsætning, der matcher dine præferencer. Der er relativt mange forskellige indstillinger.
-
-Jeg sørger selv for at sprede mine investereringer på mange forskellige lån med et mindre beløb, så risikoen minimeres, hvis lån ikke betales tilbage.
-
 {% include figure image_path="/assets/images/crowdlending/crowdestor-autoinvest-settings.png" %}
 
-## Crowdestor Flex opsparing
-
-Crowdestor har lavet en ny funktion, som ligner Bondora Go & Grow og Mintos Invest & Access.
-
-Crowdestor Flex lover, at du kan investere og få et relativt højt afkast på hele 12%, men at du direkte har adgang til dine penge og kan få dem udbetalt øjeblikkeligt til din _Crowdestor Wallet_, når du har brug for dem. Det koster bare 1 EUR.
+### Crowdestor Flex opsparing
+For at matche produkter som Bondora *Go & Grow*, lancerede de desuden *Crowdestor Flex*. Her lovede de et afkast på op til 12% med "øjeblikkelig adgang" til udbetaling mod et gebyr på 1 EUR. 
 
 {% include figure image_path="/assets/images/crowdlending/crowdestor-flex-1.png" %}
 
-Det er rigtig let at sætte op. Mindstebeløbet er 50 EUR, så de fleste kan være med.
-
-Crowdestor garanterer med en lille fond på 10-20% af det investerede beløb, at du kan få øjeblikkelig adgang til dine midler.
-
-Det er nogenlunde samme løfte Bondora Go & Grow har. Men da crowdlending-markedet var under pres og rigtig mange gerne ville have deres penge ud nogenlunde samtidig, så kunne Bondora ikke leve op til løftet. I stedet introducerede de et mellemled, hvor pengene først skulle frigives til deres interne wallet.
-
-Så selvom de garanterer, at der er øjeblikkelig adgang til de investerede midler på Crowdestor, så kommer platformens økonomiske sundhed naturligvis først. Derfor kan gå lidt tid, inden du reelt kan få midlerne udbetalt.
-
-Lige nu går det formentlig hurtigt, da der tilsyneladende ikke er så højt pres på Crowdestor-platformen, som i øvrigt udbetaler utrolig hurtigt, når du har frie midler på kontoen.
-
-Hvis du selv vil lave **dine egne Flex goals**, så kan du nøjagtigt lige som Bondoras Go & Grow lave dine egne små månedsopsparinger og give dem forskellige mål og små ikoner.
-
-Først vælger du, hvad du vil kalde dit mål og din lille ikon.
-
-{% include figure image_path="/assets/images/crowdlending/crowdestor-flex-custom-1.png" %}
-
-Derefter vælger du dit startbeløb og hvor meget du forventer at indbetale om måneden.
-
-{% include figure image_path="/assets/images/crowdlending/crowdestor-flex-custom-2.png" %}
-
-Hvis du overvejer at opstille flere mål, så skal du bare lige huske på, at det koster 1 EUR hver gang du hæver. Derfor kan det måske bedre betale sig at nøjes med opsparing.
+Præcis som forudset kollapsede dette løfte dog, da markedet kom under pres. Da for mange investorer forsøgte at trække sig ud via Flex-modellen samtidig, kunne den bagvedliggende likviditet slet ikke bære det. Likviditetsgarantierne faldt til jorden, og udbetalinger blev låst i uge- eller månedsvis.
 
 ## Skat ved crowdlending på Crowdestor
 
-Crowdestor er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Crowdestor. Du kan relativt let på platformen finde din årsopgørelse.
+Da Crowdestor er en crowdlending-platform med oprindeligt hjemmesæde i {{ page.country }}, skal du som dansk investor selv sørge for manuelt at indberette alle dine renteindtægter (og eventuelt realiserede tab) til SKAT. Selve årsopgørelsen kan findes i din profil-backend.
 
-**Vær opmærksom på, at værdien af dine investeringer på {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+**Vær opmærksom på formueværdien under afvikling:** Værdien af dine udestående investeringer ved årets udgang fremgår normalt ikke af årsopgørelsen. Efterhånden som du forhåbentlig får inddrevet eller afskrevet udestående projekter, skal du selv manuelt aflæse din kontoværdi ved årsskiftet til brug for den danske selvangivelse.
 
 {% include figure image_path="/assets/images/skat/crowdestor-tax.png" caption="Sådan finder du årsopgørelsen på Crowdestor" alt="årsopgørelse skat crowdestor" %}
 
 Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
-[Tilmeld dig Crowdestor](/go/crowdestor/){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
+---
+*Konklusion: På grund af de ekstreme misligholdelsesrater, manglende EU-regulering og platformens generelle run-off status er alle anbefalinger og tilmeldingslinks til Crowdestor permanent fjernet fra denne side.*

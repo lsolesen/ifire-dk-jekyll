@@ -1,10 +1,6 @@
 ---
 title: &title "Indeksfonde - Komplet guide til index investering"
 seo_title: "Indexfonde 2023 - Komplet guide til index investering"
-# Guide til indeks investering + De 5 bedste indeksfonde i 2021
-# Forstå indeksfonde på 1 minut og få et bedre afkast (2021 guide)
-# Indeksfonde ⇒ Kom i gang med indeksinvestering (2021)
-# Indeksfonde er den ultimative måde at investere i aktier - Blog
 permalink: /indeksfonde/
 header:
   overlay_image: https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10

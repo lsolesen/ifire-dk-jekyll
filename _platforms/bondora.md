@@ -1,6 +1,6 @@
 ---
 title: "Bondora"
-seo_title: "Bondora | Crowdlending platform"
+seo_title: "Bondora erfaringer | Er Go & Grow stadig en sikker opsparing? »"
 permalink: /platform/bondora/
 header:
   teaser: /assets/images/logo/bondora.png
@@ -11,8 +11,9 @@ tags:
   - Estland
   - Østeuropa
   - udenlandsk crowdlending
-excerpt: "På Bondora kan du enten investere i lån med forskellig risiko, løbetid og rente, eller du kan investere til en fast rente på omkring 6,75% i en pulje af lån, hvor du kan trække pengene ud med det samme"
-last_modified_at: 2019-06-14T00:00:00+08:00
+  - exited
+excerpt: "På Bondora kan du investere til en fast rente på op til 6,75% i den ultra-automatiserede Go & Grow-pulje, hvor du har mulighed for at trække dine penge ud med kort varsel."
+last_modified_at: 2026-07-02T23:56:00+02:00
 first_investment_at: 2019-02-20T10:00:00+08:00
 cta_url: /go/bondora/
 country: Estland
@@ -23,51 +24,44 @@ toc: true
 
 **Første investeringsdato**: 20. februar 2019  
 
-Den mere [traditionelle _crowd lending_ hos Bondora får kritik i øjeblikket](https://financiallyfree.eu/portfolio-update-january-2019/), så jeg har valgt kun at investere i Go & Grow. Jeg opfatter det egentlig som en ret sikker opsparing, da jeg hurtigt kan få pengene ud igen, hvis jeg har brug for dem. Det kan man også på andre crowdlending platforme med likvide sekundære markeder, som fx [Mintos](/platform/mintos/).
+**Status: Aktiv platform på markedet, men jeg har foretaget et fuldstændigt exit.**
 
-## Bondora Go & Grow - til opsparing
+Da jeg i starten af 2019 gik ind på den estiske crowdlending-platform Bondora, var det midt i en periode, hvor deres traditionelle P2P-låneporteføljer (hvor man selv købte lån med forskellig risiko og løbetid) mødte massiv kritik for faldende afkast og manglende gennemsigtighed. Jeg valgte derfor udelukkende at kaste mig over deres flagskibsprodukt: **Bondora Go & Grow**.
 
-I Grow & Go kan du sætte sparemål op. Her investerer du i en pulje lån med en fast rente på (maksimalt) 6,75% p.a. - og renterne tilskrives dagligt. Det er let at oprette sig og meget overskueligt og virkelig automatisk.
+Jeg opfattede i realiteten Go & Grow som et alternativ til en traditionel bankopsparing eller en højrentekonto, da det store salgsargument var øjeblikkelig likviditet, daglig rentetilskrivning og et fast forventet afkast på op til 6,75% p.a.
 
-Det er tillokkende at bruge Bondora som en _højrentekonto_, men du [afgiver også en masse kontrol med din investering](https://p2pinvestor.dk/go-grow-af-bondora-ligner-den-ultimative-opsparingsmulighed-her-er-hvad-du-skal-vaere-opmaerksom-paa/).
+## Bondora Go & Grow som en "højrentekonto"
 
-### Muligheden for at få sine penge ud hurtigt
+Konceptet i Go & Grow er utrolig strømlinet: Du indbetaler penge til en stor, fælles pulje af hundredtusindvis af forbrugslån. Bondora styrer hele risikospredningen i kulissen og udbetaler en fast rente på 6,75% p.a., som tilskrives din konto hver eneste dag. Det er fuldstændig automatisk og det mest brugervenlige produkt på hele crowdlending-markedet.
 
-Du kan mod et beskedent gebyr på 1 EUR kan du tage pengene ud når som helst.
+Selvom det lyder som den ultimative opsparingsmulighed, skal man som investor være bevidst om, at man [afgiver en stor del af kontrollen med sin investering](https://p2pinvestor.dk/go-grow-af-bondora-ligner-den-ultimative-opsparingsmulighed-her-er-hvad-du-skal-vaere-opmaerksom-paa/). Du ejer ikke de specifikke lån, og i tilfælde af en ekstrem markedskrise har Bondora indbygget en nødbremse ("partial payouts"), hvor de kan begrænse, hvor hurtigt investorerne samlet set kan trække penge ud.
 
-Først skal du trække penge ud på et Visa-kort, så de garderer sig imod svindleri. Jeg trak et mindre beløb ud på mit Spar Nord visa-kort, for det er ikke muligt at trække dem ud på et Revolut-betalingskort af en eller anden årsag, som jeg ikke helt kender. Dernæst blev muligheden for at lave en SEPA-bankoverførsel åbnet, og der kunne jeg uden problemer overføre pengene til min Revolut-konto, som jeg også havde brugt til at sætte pengeene ind på Bondora-kontoen.
+### Test af likviditeten (Hurtig udbetaling til Revolut)
 
-[Mintos](/go/mintos/){: rel="sponsored nofollow noopener" } har lanceret Invest & Access som en konkurrent til Go & Grow. Den største forskel er, at man hos Mintos I&A kun kan hæve de penge, der er investeret i lån, der er _current_, mens man hos Bondoras G&G kan hæve det fulde beløb.
+Udbetalingsprocessen på Bondora koster et lille, beskedent fast gebyr på 1 EUR, uanset beløbets størrelse. For at modvirke hvidvask og svindel skal dine udbetalinger i første omgang godkendes mod det kort eller den konto, pengene kom fra.
 
-Se en sammenligning her:
-
-{% include video provider="youtube" id="cd9juR3gc7Y" %}
+Jeg testede systemet af ved at foretage ind- og udbygninger via min Revolut-konto (efter at mit almindelige Visa-kort fra Spar Nord havde sat de første rammer). Da jeg lavede en SEPA-bankoverførsel for at trække midler ud, landede pengene på min Revolut-konto samme dag, som jeg anmodede om udbetalingen. Likviditeten og hastigheden var altså i absolut topklasse.
 
 ## Skat ved crowdlending på Bondora
 
-Bondora er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Bondora. Du kan relativt let på platformen finde din årsopgørelse.
+Bondora er en crowdlending-platform hjemmehørende i {{ page.country }}, hvilket betyder, at du som dansk investor selv har pligt til at indberette dine renteindtægter manuelt til SKAT som kapitalindkomst. Platformen har et dedikeret skattemodul, hvor du meget nemt kan generere en årsopgørelse.
 
-{% include figure image_path="/assets/images/skat/bondora-tax.png" caption="Sådan finder du årsopgørelsen på Bondora" alt="årsopgørelse skat bondora" %}
+**Særligt for Go & Grow-skat:** Det unikke ved Go & Grow er, at du i SKAT's øjne først realiserer din skattepligtige indkomst i det øjeblik, du reelt *trækker* gevinsterne ud af platformen (så længe pengene står inde i puljen og akkumulerer, betragtes det af mange som udskudt skat, indtil du hæver mere end dit oprindelige indskud – undersøg dog altid gældende praksis hos SKAT).
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+{% include figure image_path="/assets/images/skat/bondora-tax.png" caption="Sådan finder du årsopgørelsen inde på Bondora" alt="årsopgørelse skat bondora" %}
 
-## Februar 2019
+Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
-- Jeg overfører først penge med mit almindelige Visa-kort fra Spar Nord.
-- Senere laver jeg en gratis kontooverførsel fra min Revolut-konto.
+## Min historiske tidslinje på platformen (2019)
 
-## April 2019
+- **Februar 2019:** Opretter kontoen og tester overførsler med Spar Nord Visa og efterfølgende gratis SEPA-overførsler fra Revolut.
+- **April 2019:** Jeg vælger at placere en relativt stor pose penge i Go & Grow som en midlertidig parkeringsplads for min likviditet. Planen var, at de daglige 6,75%-renter direkte skulle finansiere og betale for opgraderingen af mit Revolut-abonnement, så jeg kunne veksle større beløb gebyrfrit.
+- **Juni 2019 (Mit exit):** På grund af nye markedsbevægelser (blandt andet konkurrenten Mintos' lancering af *Invest & Access*) og en planlagt omrokering af min samlede crowdlending-portefølje, valgte jeg at tømme min konto og trække 4.000 EUR ud igen. Systemet kørte upåklageligt, men jeg vurderede, at jeg kunne opnå et højere risikojusteret afkast andre steder i min FIRE-strategi.
 
-- Jeg har valgt at sætte en relativt stor pose penge ind med min Revolut-konto til Bandora Grow & Go, så pengene kunne generere lidt renter, mens jeg venter på at jeg gerne vil bruge dem. Planen er at disse renter skal betale for udgifterne til at opgradere min Revolut-konto, så jeg kan veksle lidt mere om måneden i det næste års tid.
+## Konklusion
 
-## Maj 2019
+Bondora Go & Grow har historisk vist sig at være et af de mest stabile og overlevelsesdygtige produkter i hele branchen. Hvis man leder efter en fuldstændig passiv og ekstremt brugervenlig parkeringsplads til sine euro, er det stadig et solidt bud. For mit eget vedkommende er platformen dog et afsluttet kapitel, da jeg i dag foretrækker færre, mere centraliserede og regulerede aktivklasser.
 
-- Ingen ændringer
-
-## Juni 2019
-
-Pga. Mintos nye tiltag med Invest & Access og en mindre planlagt omrokering af min crowdlending portefølje har jeg trukket 4.000 EUR ud af Bondoras Grow & Go igen. Det virker ellers til at køre godt og stabilt, men jeg kan få højere afkast andre steder. Hvis jeg får nogle EUR, jeg ikke lige ved, hvor jeg skal placere, så ender de formentlig på Bondora Go & Grow igen.
-
-Jeg fik pengene på min Revolut-konto samme dag, som jeg trak dem ud fra Bandora, hvilket jo er helt fantastisk.
+---
 
 [Tilmeld dig Bondora](/go/bondora/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

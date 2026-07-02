@@ -8,55 +8,69 @@ tags:
   - crowdfunding
   - ejendomsinvestering
   - ejendom
-excerpt: "Hvis man ikke selv vil købe fast ejendom, hvordan kan man så investere i ejendomsmarkedet gennem crowdlending?"
+excerpt: "Hvis man ikke selv vil købe fast ejendom og bøvle med lejeloven, hvordan investerer man så i ejendomsmarkedet via crowdlending? Her er min ærlige status."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
 {% include disclosure.html %}
 
-Crowdfunding bliver bare større og større, og der kommer flere og flere muligheder for også at kunne sprede sine investeringer til ejendomsmarkedet.
+Når man læser om at skabe *passiv indkomst* og opbygge en solid portefølje mod økonomisk uafhængighed (FIRE), dukker ejendomsinvestering stort set altid op som et centralt punkt. Historisk set har mursten nemlig vist sig at være en fremragende og stabil aktivklasse, der fungerer som en god risikospredning mod det volatile aktiemarked.
 
-Når man læser om mulighederne for at skabe _passiv indkomst_, så kommer ejendomsinvesteringer ofte frem på listen over ting, folk kaster sig over. Men jeg har besluttet, at jeg ikke skal eje ejendom på den måde, hvor jeg bliver ansvarlig for lejemål (og skulle stå for udlejning, reparation og i sidste ende et salg).
+Men for mit eget vedkommende traf jeg hurtigt en klar beslutning: Jeg skal *ikke* eje fysiske udlejningsejendomme på den traditionelle måde. Jeg ønsker ganske enkelt ikke det operationelle ansvar, der følger med; at agere vicevært, bøvle med lejeloven, stå for løbende vedligeholdelse, udbedre akutte vandskader og i sidste ende håndtere et komplekst salg.
 
-[Historisk set](https://finans.dk/privatokonomi/ECE10175690/forskere-den-bedste-langsigtede-investering-er-ikke-aktier/) har ejendoms- og boliginvestering vist sig at være en god investering (og justeret for risiko bedre en aktier). Samtidig kan ejendomsinvesteringer være med til at sprede din risiko for de penge, du investerer.
+Det var her, ejendomscrowdfunding kom ind i billedet som det perfekte, passive alternativ. Konceptet lovede, at man for små beløb kunne blive "medejer" af store ejendomsprojekter på tværs af Europa med få klik på et dashboard. 
 
-Når jeg nu ikke selv vil have ansvaret for en udlejningsejendom, så er det virkelig smart, at man nu kan være med på ejendomsmarkedet på en mere passiv måde gennem crowdfunding. Jeg har allerede investeret en del penge i det gennem følgende _crowdlending_ platforme til boligmarkedet. Alle er rigtig lette at bruge.
+Men markedet har ændret sig dramatisk over de seneste år, og virkeligheden har givet mig nogle dyre, men vigtige lærepenge.
 
 ## Fordele ved crowdfunded ejendomsinvestering
 
-Jeg har mulighed for at starte for et relativt lavt beløb, og det er lettere at sprede min investering over flere ejendomme. Dermed er min risiko betydeligt reduceret. Jeg har ikke forstand på ejendomme eller administration, så det er rigtig godt, at folk med både tid og evner vurderer købet.
+Tanken bag konceptet er stadig genial i sin grundform. De primære fordele tæller:
+* **Lav adgangsbarriere:** Du kan starte for relativt små beløb (ofte fra 500-1.000 kr.) frem for at skulle lægge en gigantisk udbetaling til en hel ejendom.
+* **Nem diversificering:** Det er legende let at sprede sin risiko ud over mange forskellige ejendomme, byer og projekttyper frem for at satse hele butikken på én enkelt matrikel.
+* **Professionel håndtering:** Du slipper for administrationen; professionelle ejendomsudviklere og platforme står for alt det praktiske og vurderer projekternes levedygtighed.
 
-Samtidig er jeg naturligvis opmærksom på, at jeg med den mindre risiko naturligvis heller ikke får det samme afkast, som hvis jeg ejede min egen ejendom. Udbuddet på crowdfunding platformene er også med til at begrænse mit valg, men ulemperne opvejes helt klart af fordelene for mig.
+Bagdelene har dog vist sig at være betydeligt større, end branchen lovede i starten. Det uregulerede crowdlending-marked mødte muren, og en stor del af de platforme, jeg oprindeligt testede, er i dag enten gået konkurs eller lukket ned under tågede omstændigheder.
 
-## Crowdfunded investering i ejendomme
+## De to fundamentale investeringsmodeller
 
-Grundlæggende kan du være med i ejendomsmarkedet på to måder.
+Overordnet set kan man gribe passiv ejendomsinvestering an på to forskellige måder via nettet:
 
-- Udlåne til ejendomsudviklere på almindelige _crowdlending_ betingelser.
-- Investere i ejendommene og derved tjene penge på at udleje ejendommene og til sidst få del i den evt. værdistigning i ejendommen.
+### 1. Byggelån til ejendomsudviklere (Klassisk crowdlending)
+Her fungerer du og de andre investorer i realiteten som banken. I låner penge ud til en ejendomsudvikler, der skal opføre et boligkompleks eller renovere en erhvervsejendom. Lånet har en fast løbetid, og du modtager løbende (eller ved udløb) en fastsat rente. 
 
-## Lån penge til ejendomsudviklere med crowdlending
+Dette er den model, der har klaret sig absolut bedst igennem markedets storme – så længe man holder sig til fuldt regulerede platforme:
 
-Gennem crowdlending kan du sammen med andre investorer bruge det til ejendomsinvestering, hvis du investerer i ejendomsudvikling. Her er et par af de platforme, hvor du kan gøre dette.
+* **[Kameo](/platform/kameo/)**: Skandinaviske Kameo er i dag det stærkeste kort på hånden, hvis du vil låne penge ud til svenske, norske og danske ejendomsprojekter. De er fuldt regulerede, gennemskuelige og lånene ydes typisk med pant i ejendommen. Du kan se min ærlige mening og mine personlige resultater i min anmeldelse af [Kameo](/platform/kameo/).
 
-- **[Kameo](/platform/kameo/)**. På Kameo er mange af investeringsmulighederne udlån til ejendomsprojekter. Du kan se min ærlige mening på min beskrivelse af [Kameo](/platform/kameo/).
+### 2. Fraktioneret ejerskab (Udlejningsindkomst og værdistigning)
+Dette koncept lød oprindeligt som det mest interessante: Investorerne går sammen om at *købe* en eksisterende ejendom. Herefter modtager man en månedlig andel af de reelle huslejeindtægter som udbytte, og man får del i kagen, når ejendommen en dag sælges med en potentiel værdistigning.
 
-## Investering i ejendomme
+Selvom modellen er smuk på papiret, har den vist sig at være forbundet med en ekstrem operationel risiko, tunge gebyrstrukturer og ringe likviditet.
 
-I forhold til at sprede mine investeringer, så synes jeg dette er det mest interessante koncept. Fordelen ved at have en investering i ejendommen er, at der hver måned kommer leje ind, og investeringen således har et løbende udbytte samtidig med, at man på sigt kan drømme om en værdistigning af ejendommen.
+* **The Many (tidl. Brickshare)**: Var den danske pioner inden for denne model. Man købte andele i selskaber, der ejede udlejningsboliger i bl.a. Vanløse og Nordvest. Desværre ramte virkeligheden platformen med forsinkelser, fugtskader og likviditetsproblemer, hvilket kulminerede i en **officiel konkursbegæring i starten af 2023**. Investorernes midler blev fastlåst i langstrakte og dyre rekonstruktioner under kurator.
 
-- **[The Many (tidl. Brickshare)](/platform/themany/)** er dansk investeringsportal, hvor du bliver medejer af ejendomme, hvor du så får lejeindtægter. Se min grundige vurdering af [The Many](/platform/themany/).
+## Hvad med de gamle udenlandske platforme?
 
-Min strategi er at prøve at sprede mine ejendomsinvesteringer på forskellige platforme, men også at forsøge at sprede dem på de enkelte platforme.
+Hvis du falder over ældre artikler her på siden eller på andre finansblogs, vil du se, at jeg tidligere har nævnt udenlandske platforme som spansk/italienske **Housers**, estiske **Crowdestate** og udlejningsplatformen **ReInvest24**. 
 
-Du kan selv investere i ejendomme og ejendomsudvikling via crowdlending:
+**Her er min klare advarsel i dag: Hold dig væk.** * **Housers** indførte drakoniske platformgebyrer og kollapsede efter massive misligholdelser og påbud fra det spanske finanstilsyn.
+* **Crowdestate** traf i 2025 beslutningen om at lukke forretningen ned og gå i kontrolleret likvidation.
+* **ReInvest24** ekspanderede risikabelt mod vækstmarkeder i Ukraine og Moldova lige inden krigsudbruddet, røg ud i massive defaults og er i dag lukket for nye investeringer og under afvikling.
 
-[Housers](/go/housers/){: .btn .btn--success } eller [Crowdestate](/go/crowdestate/){: .btn .btn--success rel='sponsored nofollow noopener' } eller [Reinvest24](/go/reinvest24/){: .btn .btn--success rel='sponsored nofollow noopener' }
+Hvis du vil læse den hudløst ærlige og ucensurede historie om, hvordan disse platforme knækkede nakken (og hvorfor jeg trak mine penge ud), kan du besøge min store [crowdlending-kirkegård her]({% link _pages/crowdlending-svindel-erfaringer.md %}).
 
-## Min crowdlending i ejendomme
+## Min nuværende status og strategi
 
-Lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfunding her:
+Min oprindelige strategi om at sprede mine ejendomsinvesteringer tyndt ud over 5-6 forskellige udenlandske dashboards har jeg fuldstændig droppet. Fragmenteringen skabte alt for meget administrativt bøvl med manuelle skatteindberetninger, og de uregulerede platforme bar på en alt for høj systemisk risiko.
+
+I dag er min tilgang til ejendomme via crowdfunding skåret helt ind til benet:
+1. **Fokus på skandinavisk regulering:** Jeg holder mig primært til platforme som [Kameo](/platform/kameo/), hvor projekterne er transparente, og hvor infrastrukturen er underlagt strengt nordisk tilsyn.
+2. **Aktiemarkedet som alternativ:** Hvis jeg vil have eksponering mod det brede ejendomsmarked og modtage stabile lejeindtægter, gør jeg det i dag i højere grad via børsnoterede ejendomsaktier eller fonde (REITs). Det giver langt højere likviditet, lavere gebyrer og fuldautomatisk skatterapportering.
+
+## Min ejendomsportefølje
+
+Herunder kan du se oversigten over de platforme, der historisk og aktuelt har formet min ejendomsrejse via crowdfunding:
 
 ***
 
@@ -74,10 +88,10 @@ Lige nu kan du se min samlede portefølje til ejendomsinvestering gennem crowdfu
 
 ***
 
-## Skal du også investere i ejendomme?
+## Skal du investere i mursten via nettet?
 
-Jeg nøjes i øjeblikket med at investere i ejendomme gennem _crowdlending_.
+Ejendomscrowdfunding er bestemt ikke en risikofri genvej til nemme penge, og markedet har over de seneste år gennemgået en brutal og tiltrængt oprydning. Det kan stadig bruges som et fornuftigt værktøj til risikospredning, men kun hvis du fravælger de uregulerede platforme og holder dig til de få, bundsolide aktører.
 
-Skal du også have fat i ejendomsmarkedet for at sprede dine investeringer - og hvad er din strategi?
+Hvad er din egen strategi, når det kommer til ejendomsmarkedet – foretrækker du fysiske mursten, regulerede REITs eller platforme som Kameo? Lad os tage debatten i kommentarfeltet!
 
 {% include disclaimer.md %}

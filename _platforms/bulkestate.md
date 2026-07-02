@@ -1,6 +1,6 @@
 ---
 title: "Bulkestate"
-seo_title: "Bulkestate | Crowdlending platform"
+seo_title: "Bulkestate erfaringer | Hvad er status på ejendomsplatformen? »"
 permalink: /platform/bulkestate/
 header:
   teaser: /assets/images/logo/bulkestate.png
@@ -11,9 +11,9 @@ tags:
   - ejendomsinvestering
   - Estland
   - Østeuropa
-  - udenlandsk crowdlending
-excerpt: "Hos Bulkestate investeres i udviklingslån til boligprojekter i Estland."
-last_modified_at: 2020-01-21T11:40:00+08:00
+  - udestående
+excerpt: "Hos Bulkestate investeres der i udviklingslån til boligprojekter i Estland og Letland. Platformen er i dag i gang med at afvikle eksisterende projekter."
+last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-02-20T10:00:00+08:00
 cta_url: /go/bulkestate/
 country: Estland
@@ -23,32 +23,27 @@ country: Estland
 
 **Første investeringsdato**: 20. februar 2019  
 
+**Status: Platformen er lukket for nye investeringer og behandler kun eksisterende projekter.**
+
 {{ page.excerpt }}
+
+Selskabet har officielt indstillet indsamlingen af kapital til nye ejendomslån og fokuserer udelukkende på administration og tilbagebetaling af de udestående porteføljer.
+
+## Min personlige historik og den store advarselslampe (Januar 2020)
+
+Mit eventyr med Bulkestate forløb i lang tid planmæssigt, men i januar 2020 mødte jeg for første gang alvorlige problemer på platformen. Det kom frem, at Bulkestate havde formidlet et stort ejendomslån til et projekt på *Martas Street*, hvor låntagerne bag kulisserne viste sig at være regulære svindlere. 
+
+Platformen håndterede selve krisen glimrende med hurtig og transparent information, og de formåede faktisk at sikre tilbagebetalingen af investorernes penge. Men hændelsen efterlod mig med en dyb bekymring: Det var stærkt foruroligende, at et fiktivt eller svindelramt projekt overhovedet kunne slippe igennem deres forhåndsgodkendelse og *due diligence* – især fordi det skete præcis samtidig med, at naboplatformene Kuetzal og Envestio kollapsede som deciderede Ponzi-ordninger. Det blev startskuddet til, at jeg begyndte at trække følerne til mig.
 
 ## Skat ved crowdlending på Bulkestate
 
-Bulkestate er en crowdlending platform hjemmehørende i {{ page.country }}, og derfor skal du selv opgive indtægter fra Bulkestate. Du kan relativt let på platformen finde din årsopgørelse.
+Da Bulkestate er en crowdlending-platform med oprindeligt juridisk hjemmesæde i {{ page.country }}, skal du som dansk investor selv manuelt opgive alle dine renteindtægter til SKAT. Du kan relativt let trække en årsopgørelse inde på deres dashboard.
 
-**Vær opmærksom på, at værdien af dine investeringer på  {{ page.title }} ved årets udgang ikke fremgår af årsopgørelsen. Den totale værdi som du skal bruge til selvangivelsen, kan med fordel selv aflæses ved årsskiftet.**
+**Vær dog opmærksom på en vigtig teknisk detalje:** Værdien af dine udestående investeringer ved årets udgang fremgår typisk ikke direkte af selve den genererede årsopgørelse. Den totale værdi (som du skal bruge til din danske formue-selvangivelse) bør du derfor selv logge ind og aflæse manuelt omkring årsskiftet, mens dine projekter afvikles.
 
 {% include figure image_path="/assets/images/skat/bulkestate-tax.png" caption="Sådan finder du årsopgørelsen på Bulkestate" alt="årsopgørelse skat bulkestate" %}
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en uddybende guide til, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
 
-## Januar 2020
-
-- For første gang oplever jeg problemer på Bulkestate. Platformen håndterede det glimrende med information og tilbagebetaling af pengene. Tilsyneladende var lånet til Martas Street givet til personer, der havde svindlet. Det er bekymrende, at det kunne lade sig gøre i første omgang - særligt når man kigger på Kuetzal og Envestio-udfordringerne.
-
-## Investeret og værdi
-
-<iframe width="601" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1752574290&amp;format=image"></iframe>
-
-## Månedlig indkomst
-
-<iframe width="605" height="373" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1981622738&amp;format=image"></iframe>
-
-## XIRR
-
-<iframe width="609" height="376" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=123565987&amp;format=image"></iframe>
-
-[Bulkestate](/go/bulkestate/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }
+---
+*Da platformen har indstillet alle nye udlån og udelukkende kører i "run-off"-mode for at lukke eksisterende projekter, har jeg fjernet det oprindelige tilmeldingslink.*
