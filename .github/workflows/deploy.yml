@@ -24,9 +24,8 @@ jobs:
     steps:
       # This is the first action. It will make sure that we have
       # all the necessary files from our repo, including our custom actions
-      # This action here is actually from a remote repo available from Githup itself
       - name: 🛎 Checkout master
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
@@ -45,7 +44,7 @@ jobs:
           JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
           build_dir: _site
@@ -53,7 +52,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: tmp/.htmlproofer
           key: ${{ runner.os }}-htmlproofer
@@ -70,6 +69,5 @@ jobs:
             --allow-hash-href
             --ignore-empty-alt
             --cache '{ "timeframe": { "external": "7d" } }'
-          # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
         run: bundle exec jekyll clean
