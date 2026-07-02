@@ -57,7 +57,7 @@ jobs:
           key: ${{ runner.os }}-htmlproofer
       # Replaced with the official, actively maintained and Node 24 compatible action
       - name: 📉 Check HTML
-        uses: gjtorikian/html-proofer@v1
+        uses: gjtorikian/html-proofer
         continue-on-error: true
         with:
           directory: "./_site"
