@@ -9,8 +9,8 @@ on:
       - master
 
 env:
-  RUBY_VERSION: "3.1.2"
-  BUNDLER_VERSION: "2.3.21"
+  RUBY_VERSION: "3.3.0"        # Opgraderet fra 3.1.2
+  BUNDLER_VERSION: "2.5.5"     # Opgraderet fra 2.3.21
 
 # Here is where we define our jobs.
 # Which means the tasks we want Github to execute
@@ -22,8 +22,7 @@ jobs:
     # Now we define which actions will take place.
     # One after another
     steps:
-      # This is the first action. It will make sure that we have
-      # all the necessary files from our repo, including our custom actions
+      # Using the absolute latest checkout action to support Node 24+
       - name: 🛎 Checkout master
         uses: actions/checkout@v4
         with:
@@ -56,8 +55,9 @@ jobs:
         with:
           path: tmp/.htmlproofer
           key: ${{ runner.os }}-htmlproofer
+      # Replaced with the official, actively maintained and Node 24 compatible action
       - name: 📉 Check HTML
-        uses: chabad360/htmlproofer@master
+        uses: gjtorikian/html-proofer@v1
         continue-on-error: true
         with:
           directory: "./_site"
