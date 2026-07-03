@@ -35,7 +35,7 @@ Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det b
 
 Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/), som sammen med [Bondoras Go & Grow](/go/bondora/){: rel="sponsored nofollow noopener" }, er de udenlandske platforme jeg primært satser på i øjeblikket.
 
-Jeg har endnu engang investeret i [The Many](/go/themany/){: rel="sponsored nofollow noopener" }, hvor man nu kan investere fra 100 kroner. Jeg har investeret Frederiksberg, og så er jeg lige ved at tjekke Brassøvej-projektet ud i Århus. Jeg synes stadig platformen er spændende. Jeg håber også langsomt at den interne rente vil stige fra de omkring 3,7% som den er på lige nu. [The Many er teknisk set ikke crowdlending](/platform/themany/) og skiller sig altså lidt ud fra de andre [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
+Jeg har endnu engang investeret i [The Many](/go/themany/){: rel="sponsored nofollow noopener" }, hvor man nu kan investere fra 100 kroner. Jeg har investeret Frederiksberg, og så er jeg lige ved at tjekke Brassøvej-projektet ud i Århus. Jeg synes stadig platformen er spændende. Jeg håber også langsomt at den interne rente vil stige fra de omkring 3,7% som den er på lige nu. [The Many er teknisk set ikke crowdlending](/platform/themany/) og skiller sig altså lidt ud fra de andre [crowdlending-platforme i Danmark](/dansk-crowdlending/).
 
 Desuden så er [Trine](/go/trine/){: rel="sponsored nofollow noopener" } også stadig en favorit, fordi den faktisk præsterer rigtig fint med 6%+ i intern rente. Det synes jeg er rigtig fint, når jeg samtidig støtter bæredygtige projekter i Afrika.
 
@@ -63,7 +63,7 @@ Læs mere om [crowdlending i min begynderguide]({% link _pages/investering-crowd
 
 ## Crowdlending i Danmark
 
-Der findes også nogle [crowdlendingplatforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}). Fordelene ved de danske platforme er, at de er mere regulerede end de udenlandske muligheder for at investere i crowdlending. Jeg har investeret i flere af dem, og du kan læse mere om alle mine erfaringer med platformene.
+Der findes også nogle [crowdlendingplatforme i Danmark](/dansk-crowdlending/). Fordelene ved de danske platforme er, at de er mere regulerede end de udenlandske muligheder for at investere i crowdlending. Jeg har investeret i flere af dem, og du kan læse mere om alle mine erfaringer med platformene.
 
 ## Risiko crowdlending
 

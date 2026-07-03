@@ -65,7 +65,7 @@ Læs mere om [investeringer i aktier og indeksfonde her](/investering/).
 
 ### 2. Crowdlending
 
-Crowdlending har vundet mere og mere frem. Det var i 2019 rigtig populært at anbefale crowdlending som passiv indkomst, men i løbet af 2020 og 2021, så har der været flere problemer i crowdlending-verden. Der er heldigvis [nogle danske crowdlending-platforme]({% link _posts/2020-05-31-dansk-crowdlending.md %}), hvor du kan investere i lån. Men hvis du vil have højere renter, så skal du ud på det udenlandske marked.
+Crowdlending har vundet mere og mere frem. Det var i 2019 rigtig populært at anbefale crowdlending som passiv indkomst, men i løbet af 2020 og 2021, så har der været flere problemer i crowdlending-verden. Der er heldigvis [nogle danske crowdlending-platforme](/dansk-crowdlending/), hvor du kan investere i lån. Men hvis du vil have højere renter, så skal du ud på det udenlandske marked.
 
 Læs mere om [passiv indkomst på crowdlending og crowdfunding her](/crowdlending/).
 

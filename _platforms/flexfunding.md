@@ -124,4 +124,4 @@ I den periode jeg har investeret der har både jeg og min kæreste oplevet lidt 
 
 [Besøg Flexfunding](/go/flexfunding/){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
-Se mere om [dansk crowdlending]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
+Se mere om [dansk crowdlending](/dansk-crowdlending/).

@@ -15,10 +15,6 @@ feature_row_own:
     excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/) til at opbygge min portefølje via deres kurtagefri månedsopsparing og aldersopsparingen.'
   - image_path: /assets/images/logo/saxoinvestor.png
     excerpt: Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/) til min aktiesparekonto og handel uden minimumskurtage.'
-  - image_path: /assets/images/logo/nord.png
-    alt: "Nord.Investments"
-    title: "Nord.Investments"
-    excerpt: "[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb. De tilbyder et [gratis investeringsforslag](/go/nord/){: rel='sponsored nofollow noopener' }."
 ---
 
 Aktier og værdipapirer er en meget populær måde at investere på. Hvis du penge til overs, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier, investeringsforeninger, ETF'er og fonde. 
@@ -116,7 +112,7 @@ Jeg har lavet en liste med forslag til [grønne og bæredygtige aktier]({% link 
 
 ## Her handler jeg selv aktier og investeringsforeninger
 
-{% include feature_row id="feature_row_own" %}
+{% include feature_row id="feature_row_own" type="left" %}
 
 ## Konklusion
 

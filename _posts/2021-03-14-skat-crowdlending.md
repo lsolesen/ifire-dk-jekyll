@@ -1,5 +1,5 @@
 ---
-title: &title "Skat af indkomst fra dansk og udenlandsk crowdlending 2020?"
+title: &title "Skat af indkomst fra dansk og udenlandsk crowdlending?"
 seo_title: "Skat af dansk og udenlandsk crowdlending • Komplet guide »"
 description: "Guide til indberetning af renteindtægter fra dansk og udenlandsk crowdlending som kapitalindkomst på selvangivelsen. Komplet med screenshots og rubrikker."
 last_modified_at: 2021-03-14T09:20:02+02:00
@@ -26,7 +26,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Jeg har skrevet en guide til, hvordan du indberetter renteindtægter fra dansk og udenlandsk crowdlending. Guiden omfatter både indkomst fra dansk crowdlending, men også hvordan du indbetter udenlansk kapitalindkomst fra udenlandsk crowdlending.
+Jeg har skrevet en guide til, hvordan du indberetter renteindtægter fra dansk og udenlandsk [crowdlending](/crowdlending/). Guiden omfatter både indkomst fra dansk crowdlending, men også hvordan du indbetter udenlansk kapitalindkomst fra udenlandsk crowdlending.
 
 **Bemærk:** Dette er udelukkende de notater, jeg har gjort mig, mens jeg skulle indberette mine indtægter fra crowdlending. Du er selv ansvarlig for, at du giver rigtige oplysninger til Skat. Skriv endelig med det samme, hvis du mener, at jeg har misforstået reglerne for indberetning af skat af crowdlending.
 {: .notice-info .notice }
@@ -51,7 +51,7 @@ Renteindtægten bliver beskattet som kapitalindkomst. Det betyder, at din beskat
 
 Når du er logget ind på skat.dk kan du tjekke dine beløb i "Rubrik 19: Renteindtægter af indestående i bank m.m., obligationer og pantebreve i depot samt udlodninger fra obligationsbaserede investeringsbeviser med minimumsbeskatning, hvor der ikke er indeholdt udbytteskat".
 
-Jeg har skrevet mere om mine [erfaringer med crowdlending i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}).
+Jeg har skrevet mere om mine [erfaringer med crowdlending i Danmark](/dansk-crowdlending/).
 
 ## Indberetning til skat af udenlandsk crowdlending
 

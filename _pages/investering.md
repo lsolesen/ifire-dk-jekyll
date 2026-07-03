@@ -12,20 +12,6 @@ header:
 toc: true
 author_profile: true
 feature_row_solutions:
-  - image_path: /assets/images/logo/nord.png
-    alt: "Nord.Investments"
-    title: "Nord.Investments"
-    excerpt: "[Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' } er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
-    url: /go/nord/
-    btn_label: "Få gratis investeringsprofil"
-    btn_class: "btn--info"
-  - image_path: /assets/images/logo/themany.jpg
-    alt: "The Many"
-    title: "The Many"
-    excerpt: "[The Many](/go/themany/){: rel='sponsored nofollow noopener' } gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
-    url: /go/themany/
-    btn_label: "Få 250 DKK på The Many"
-    btn_class: "btn--info"
   - image_path: /assets/images/logo/mintos.png
     alt: "Mintos"
     title: "Mintos"
@@ -93,7 +79,7 @@ Læs mere om [investering i aktier og værdipapirer](/investering-aktier/).
 
 ### Crowdlending
 
-Crowdlending er en måde at investere i lån - enten til private eller til virksomheder. Du sætter dine penge ind, og så tjener du renter på at have udlånt dine penge. Selvom det virker ret sikkert, så har der været risiko. Der er heldigvis [crowdlending-platforme i Danmark]({% link _posts/2020-05-31-dansk-crowdlending.md %}), hvor sikkerheden er lidt højere end de udenlandske platforme. Til gengæld er renterne også lidt lavere.
+Crowdlending er en måde at investere i lån - enten til private eller til virksomheder. Du sætter dine penge ind, og så tjener du renter på at have udlånt dine penge. Selvom det virker ret sikkert, så har der været risiko. Der er heldigvis [crowdlending-platforme i Danmark](/dansk-crowdlending/), hvor sikkerheden er lidt højere end de udenlandske platforme. Til gengæld er renterne også lidt lavere.
 
 Læs mere om [crowdlending og crowdfunding](/crowdlending/).
 
@@ -121,7 +107,7 @@ Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [gr�
 
 ## Investeringsløsninger
 
-{% include feature_row id="feature_row_solutions" %}
+{% include feature_row id="feature_row_solutions" type="left" %}
 
 ## Indlæg om investeringer
 
