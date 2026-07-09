@@ -11,7 +11,7 @@ tags:
   - Estland
   - Østeuropa
   - udestående
-  - kritik
+  - inaktiv
 excerpt: "Crowdestor var en estisk peer-to-peer platform med løfter om tårnhøje renter. I dag er platformen lukket for nye lån og kæmper med massive misligholdelser."
 last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-03-06T10:00:00+02:00

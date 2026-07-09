@@ -26,7 +26,7 @@ header:
 
 {{ page.excerpt }}
 
-Hvis du bevæger dig rundt på finansblogs eller i investeringsgrupper på sociale medier, kan du næsten ikke undgå at støde på begrebet **crowdlending** (også kendt som P2P-lån eller crowdfunding). Konceptet lyder fantastisk i teorien: Du agerer banken, låner dine penge ud til privatpersoner eller virksomheder, og modtager til gengæld månedlige renteindtægter på alt fra 8 % til over 15 % i passiv indkomst.
+Hvis du bevæger dig rundt på finansblogs eller i investeringsgrupper på sociale medier, kan du næsten ikke undgå at støde på begrebet **crowdlending** (også kendt som P2P-lån eller crowdfunding). Konceptet lyder fantastisk i teorien: Du agerer banken, låner dine penge ud til privatpersoner eller virksomheder, og modtager til gengæld månedlige renteindtægter på alt fra 8% til over 15% i passiv indkomst.
 
 Men efter at have testet over 20 forskellige platforme siden 2017 og mærket markedets brutale skyggesider på egen krop, er min holdning i dag en helt anden end i mine optimistiske startdage. 
 
@@ -97,13 +97,19 @@ Nok så vigtigt: Når du modtager dine månedlige renteudbetalinger, vil der gå
 
 ---
 
-## De platforme, jeg selv har tilbage i porteføljen
+### Platforme som stadig er i min portefølje
 
-Efter min store økonomiske hovedrengøring har jeg likvideret over 80-90 % af mine crowdlending-midler for at forenkle mit liv. De tre platforme, som har overlevet min udskilning, og som jeg fortsat betragter som branchens regulerede dukse, er:
+* **[Mintos](/platform/mintos/):** Som fuldt reguleret investeringsselskab med MiFID-licens under lettisk tilsyn tilbyder de markedets bedste spredning og en velfungerende sekundær markedsplads.
+* **[Flexfunding](/platform/flexfunding/):** En af de etablerede danske platforme for erhvervslån. Giver god mulighed for at investere direkte i dansk erhvervsliv med månedlige tilbagebetalinger, omend det sekundære marked kan være præget af lav likviditet.
+* **[Lendino](/platform/lendino/):** Pioneren inden for dansk crowdfunding af erhvervslån. De tilbyder en gennemskuelig platform med fokus på kreditvurderede danske virksomheder og automatisk geninvestering.
+* **[Trine](/platform/trine/):** En unik svensk platform med stort fokus på bæredygtighed (impact investing). Her investerer man i solenergiprojekter i udviklingslande, hvilket giver en stærk grøn profil, men også en anderledes risikoprofil.
 
-* **[Mintos](/platform/mintos/):** Den absolut største europæiske markedsplads. De er i dag et fuldt reguleret investeringsselskab under lettisk tilsyn (MiFID-licens), hvilket sikrer en helt anden investorbeskyttelse, gennemskuelighed og et stærkt sekundært marked.
-* **[PeerBerry](/platform/peerberry/):** Har udvist ekstrem operationel robusthed. Da Ukraine-krigen brød ud i 2022, trådte deres bagvedliggende moderselskab til og dækkede samtlige krigsramte lån af egen lomme for at beskytte investorernes kapital.
-* **[Kameo](/platform/kameo/):** Hvis du vil investere i skandinaviske ejendomsprojekter, er Kameo det absolut stærkeste valg. Her investerer du med pantesikkerhed i fast ejendom, og platformen opererer professionelt under det danske Finanstilsyns opsyn.
+### Platforme som jeg kunne overveje
+
+* **[PeerBerry](/platform/peerberry/):** Har opbygget branchens stærkeste rygte, blandt andet fordi deres moderselskab dækkede 100% af alle krigsramte lån tilbage til investorerne af egen lomme efter Ukraine-krigen i 2022.
+* **[Bondora](/platform/bondora/):** En af de ældste og mest strømlinede estiske platforme. Særligt kendt for deres "Go & Grow"-produkt, som tilbyder høj grad af automatisering og hurtig likviditet, mod et fastsat (men lavere) afkast.
+* **[Kameo](/platform/kameo/):** Den absolutte duks inden for skandinavisk ejendomscrowdfunding. Pantesikkerhed, professionel risikostyring og et stærkt institutionelt bagland gør, at man kan sove roligt om natten.
+* **[Lendahand](/platform/lendahand/):** En hollandsk impact-platform med fokus på sociale og bæredygtige projekter i udviklingslande. De er fuldt regulerede under europæisk lovgivning og er ideelle, hvis man ønsker, at ens penge gør en mærkbar forskel i verden.
 
 ---
 
@@ -119,10 +125,23 @@ Jeg har skrevet en fuldstændig trin-for-trin guide til, hvordan du trækker din
 
 ## Aktive crowdlending-platforme
 
-Herunder kan du læse mine dybdegående og ærlige anmeldelser af de platforme, der fortsat er aktive på markedet:
+Herunder kan du læse mine dybdegående og ærlige anmeldelser af de platforme, jeg stadig har nogle investeringer i.
 
 <div class="feature__wrapper">
-{% assign all_platforms = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
+{% assign all_platforms = site.platforms | where: "tags", "crowdlending" | where: "tags", "aktiv" | sort: "title" %}
+{% for post in all_platforms %}
+  {% unless post.title contains "Envestio" or post.title contains "Grupeer" or post.title contains "Fast Invest" or post.title contains "Agrikaab" or post.title contains "The Many" %}
+    {% include archive-teaser-images.html type="grid" %}
+  {% endunless %}
+{% endfor %}
+</div>
+
+## Crowdlending-platforme med tidligere investeringer
+
+Herunder kan du læse mine dybdegående og ærlige anmeldelser af de platforme, der fortsat er aktive på markedet - men som jeg ikke længere er involveret i.
+
+<div class="feature__wrapper">
+{% assign all_platforms = site.platforms | where: "tags", "crowdlending" | where: "tags", "inaktiv" | sort: "title" %}
 {% for post in all_platforms %}
   {% unless post.title contains "Envestio" or post.title contains "Grupeer" or post.title contains "Fast Invest" or post.title contains "Agrikaab" or post.title contains "The Many" %}
     {% include archive-teaser-images.html type="grid" %}

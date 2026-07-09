@@ -1,7 +1,7 @@
 ---
 title: "Fra komplekst til knivskarpt: Mit komplette, omkostningsoptimerede investeringssetup som 50-årig"
 date: 2026-07-04 12:00:00 +0200
-category: [Investering, Personlig Økonomi]
+category: [Opdateringer, Investering, Personlig Økonomi]
 tags: [indeksinvestering, skatteoptimering, sparinvest, velliv, aktiesparekonto, frie-midler]
 description: "En komplet gennemgang af min formuestruktur på 7,4 millioner kroner fordelt på frie midler, pensioner, aktiesparekonto og børneopsparinger, med fokus på ultralave omkostninger."
 permalink: /egen-investering/

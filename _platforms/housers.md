@@ -12,6 +12,7 @@ tags:
   - Spanien
   - udenlandsk crowdlending
   - lukket
+  - inaktiv
 excerpt: "Housers gav oprindeligt mulighed for at investere i ejendomsprojekter i Spanien, Italien og Portugal. Platformen er i dag lukket permanent efter massive problemer."
 last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-03-05T10:00:00+08:00

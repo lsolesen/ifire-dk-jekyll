@@ -12,6 +12,7 @@ tags:
   - blockchain
   - Estland
   - exited
+  - inaktiv
 excerpt: "Funderbeam tilbød investering i tidlige startup-virksomheder via blockchain-baserede 'shares' og 'loan notes'. Platformen er i dag et lukket kapitel i min portefølje."
 last_modified_at: 2026-07-02T23:55:00+02:00
 first_investment_at: 2019-07-04T10:00:00+08:00

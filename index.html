@@ -69,22 +69,6 @@ feature_row:
 
 {% include feature_row type="center" id="blog" %}
 
-<h2>Nyeste opdateringer på platforme</h2>
-
-<div class="feature__wrapper">
-
-{% assign site_posts = site.platforms | sort: "last_modified_at" | reverse %}
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts limit:4 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-{% endif %}
-
-</div>
-
-{% include feature_row type="center" id="platforms" %}
-
 <h2>Tjek de nyeste indlæg på ifire.dk</h2>
 
 <div class="feature__wrapper">

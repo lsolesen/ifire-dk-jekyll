@@ -54,9 +54,19 @@ Du kan læse hele den hudløst ærlige og ucensurerede historie om mine tab, sag
 
 Hvis du på trods af risiciene ønsker at krydre din portefølje med et månedligt cash flow fra crowdlending, vil mit absolut bedste råd være: **Hold dig udelukkende to store, gennemskuelige og fuldt nationalt regulerede aktører.** Kigger jeg på markedet i dag, er der reelt kun tre platforme fra min rejse, der står tilbage med æren og robustheden i behold:
 
+### Platforme som stadig er i min portefølje
+
 * **[Mintos](/platform/mintos/):** Som fuldt reguleret investeringsselskab med MiFID-licens under lettisk tilsyn tilbyder de markedets bedste spredning og en velfungerende sekundær markedsplads.
+* **[Flexfunding](/platform/flexfunding/):** En af de etablerede danske platforme for erhvervslån. Giver god mulighed for at investere direkte i dansk erhvervsliv med månedlige tilbagebetalinger, omend det sekundære marked kan være præget af lav likviditet.
+* **[Lendino](/platform/lendino/):** Pioneren inden for dansk crowdfunding af erhvervslån. De tilbyder en gennemskuelig platform med fokus på kreditvurderede danske virksomheder og automatisk geninvestering.
+* **[Trine](/platform/trine/):** En unik svensk platform med stort fokus på bæredygtighed (impact investing). Her investerer man i solenergiprojekter i udviklingslande, hvilket giver en stærk grøn profil, men også en anderledes risikoprofil.
+
+### Platforme som jeg kunne overveje
+
 * **[PeerBerry](/platform/peerberry/):** Har opbygget branchens stærkeste rygte, blandt andet fordi deres moderselskab dækkede 100% af alle krigsramte lån tilbage til investorerne af egen lomme efter Ukraine-krigen i 2022.
+* **[Bondora](/platform/bondora/):** En af de ældste og mest strømlinede estiske platforme. Særligt kendt for deres "Go & Grow"-produkt, som tilbyder høj grad af automatisering og hurtig likviditet, mod et fastsat (men lavere) afkast.
 * **[Kameo](/platform/kameo/):** Den absolutte duks inden for skandinavisk ejendomscrowdfunding. Pantesikkerhed, professionel risikostyring og et stærkt institutionelt bagland gør, at man kan sove roligt om natten.
+* **[Lendahand](/platform/lendahand/):** En hollandsk impact-platform med fokus på sociale og bæredygtige projekter i udviklingslande. De er fuldt regulerede under europæisk lovgivning og er ideelle, hvis man ønsker, at ens penge gør en mærkbar forskel i verden.
 
 ---
 

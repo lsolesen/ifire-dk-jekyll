@@ -12,6 +12,7 @@ tags:
   - Estland
   - Østeuropa
   - udestående
+  - inaktiv
 excerpt: "Hos Bulkestate investeres der i udviklingslån til boligprojekter i Estland og Letland. Platformen er i dag i gang med at afvikle eksisterende projekter."
 last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-02-20T10:00:00+08:00

@@ -14,6 +14,7 @@ category:
 tags:
   - crowdlending
   - Danmark
+  - aktiv
 excerpt: "Flexfunding er en af de ældste danske crowdlending platforme, hvor du kan investere i lån direkte til virksomheder."
 date: 2019-02-27T20:47:31+08:00
 last_modified_at: 2021-05-04T07:00:00+08:00

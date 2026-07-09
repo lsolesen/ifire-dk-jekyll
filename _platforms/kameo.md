@@ -13,6 +13,7 @@ category:
 tags:
   - crowdlending
   - Danmark
+  - inaktiv
 excerpt: "Kameo er en nordisk crowdfunding platform, hvor du kan investere i lån til udviklingsprojekter for virksomheder i Danmark, Norge og Sverige. Lånene har typisk med sikkerhed i ejendomme."
 last_modified_at: 2020-05-30T12:45:00+08:00
 first_investment_at: 2019-02-04T10:00:00+08:00

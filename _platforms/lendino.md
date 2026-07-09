@@ -14,6 +14,7 @@ category:
 tags:
   - crowdlending
   - Danmark
+  - aktiv
 excerpt: "Lendino blev stiftet i 2014 for at gøre det lettere og hurtige at låne penge. Lendino er en markedsplads for lån, hvor investorerer kan låne direkte til mindre danske virksomheder eller låne penge ud til netværkslån uden kreditvurdering."
 date: 2020-12-01T20:47:31+08:00
 last_modified_at: 2020-12-01T07:00:00+08:00

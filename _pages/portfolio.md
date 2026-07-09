@@ -37,7 +37,7 @@ Den absolut største del af min formue er placeret i brede, markedsvægtede og b
 
 ### 2. Crowdlending (Satellitten)
 
-Efter at have testet over 20 platforme og mistet penge på uregulerede svindelnumre undervejs, har jeg likvideret 80-90 % af mine crowdlending-midler. Jeg betragter i dag udelukkende crowdlending som et mindre satellit-aktiv. De eneste platforme, der har overlevet min udskilning, er de fuldt regulerede aktører *Mintos*, *PeerBerry* og skandinaviske *Kameo*.
+Efter at have testet over 20 platforme og mistet penge på uregulerede svindelnumre undervejs, har jeg likvideret 80-90% af mine crowdlending-midler. Jeg betragter i dag udelukkende crowdlending som et mindre satellit-aktiv, hvor jeg venter på at se om nogle lån i sidste ender med at blive betalt tilbage. De eneste platforme, der har overlevet min udskilning, er *Mintos*, *Trine*, *Flexfunding* og *Lendino*. Jeg forventer snart at forlade alle platforme.
 
 * **[Læs min begynderguide og erfaringer med crowdlending](/crowdlending/)**
 

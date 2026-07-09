@@ -12,6 +12,7 @@ tags:
   - Østeuropa
   - udenlandsk crowdlending
   - exited
+  - inaktiv
 excerpt: "På Bondora kan du investere til en fast rente på op til 6,75% i den ultra-automatiserede Go & Grow-pulje, hvor du har mulighed for at trække dine penge ud med kort varsel."
 last_modified_at: 2026-07-02T23:56:00+02:00
 first_investment_at: 2019-02-20T10:00:00+08:00

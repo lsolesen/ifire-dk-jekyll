@@ -12,6 +12,7 @@ tags:
   - England
   - udenlandsk crowdlending
   - exited
+  - inaktiv
 excerpt: "Hos Kuflink investerer du i ejendomme og ejendomsudvikling i Storbritannien. Platformen er fuldt FCA-reguleret."
 last_modified_at: 2026-07-02T22:00:00+02:00
 platform:

@@ -11,7 +11,7 @@ tags:
   - Letland
   - Kroatien
   - udenlandsk crowdlending
-  - aktiv
+  - inaktiv
 excerpt: "PeerBerry tilbyder kortsigtede forbrugs- og erhvervslån med omkring 9-11% i afkast og en gennemtestet koncurngaranti. Det stærkeste alternativ til Mintos."
 last_modified_at: 2026-07-02T23:30:00+02:00
 first_investment_at: 2019-02-27T10:00:00+08:00

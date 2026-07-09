@@ -9,6 +9,7 @@ author_profile: true
 toc: true
 category:
   - Investering
+  - Opdateringer
 tags:
   - erfaringer
   - crowdlending

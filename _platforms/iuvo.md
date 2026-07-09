@@ -12,6 +12,7 @@ tags:
   - Østeuropa
   - udenlandsk crowdlending
   - lukket
+  - inaktiv
 excerpt: "Iuvo Group opererede fra Estland med fokus på private forbrugslån. Platformen er i dag lukket for nye lån og under afvikling."
 last_modified_at: 2026-07-02T22:00:00+02:00
 first_investment_at: 2019-05-21T10:00:00+08:00

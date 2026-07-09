@@ -23,11 +23,6 @@ Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
 
 [Se min samlede portefølje](/portfolio/){: .btn .btn--large .btn--success }
 
-## Tal
-
-- Blogindlæg: {{ site.posts.size }}
-- Platforme: {{ site.platforms.size }}
-
 ## Følg min status
 
 {% assign site_posts = site.posts | where: "category", "Opdateringer" | sort: "date" %}

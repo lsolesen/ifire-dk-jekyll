@@ -11,6 +11,7 @@ tags:
   - Kroatien
   - Østeuropa
   - udenlandsk crowdlending
+  - inaktiv
 excerpt: "RoboCash tilbyder kortsigtede lånetyper særligt i Euroasien og Asien - og de giver omkring 12% i årligt afkast og har buy back garanti. Funderet i Kroatien."
 last_modified_at: 2020-03-02T15:15:00+08:00
 first_investment_at: 2019-03-18T10:00:00+08:00
