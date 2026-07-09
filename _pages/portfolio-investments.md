@@ -25,7 +25,9 @@ feature_row_own:
 
 Efter mange år på aktiemarkedet har jeg for nylig trukket en streg i sandet og gennemført den helt store hovedrengøring i min økonomi. Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
 
-Nu er alt skåret ind til benet. Min filosofi er simpel: **Minimer omkostningerne (ÅOP), maksimer renters rente, og lad skattesystemet arbejde for mig i stedet for imod mig.** Jeg ejer ingen mursten og har hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed – og total nattero.
+Kernen i [min investeringsstrategi](/min-strategi/) kan opsummeres i tre principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er maksimalt **skatteoptimeret** i forhold til danske regler, så jeg **maksimerer effekten af renters rente**.
+
+Jeg ejer ingen mursten og har hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed – og total nattero.
 
 Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/)**.
 
