@@ -108,4 +108,4 @@ Den bedste opsparingskonto er den konto, hvor du kan få den højeste rente med 
 
 Jeg havde tidligere en opsparingskonto hos Norwegian, men de har på det seneste nedsat renten til 0%. Jeg har også haft en konto hos Lunar, hvor jeg fik _cashback_ på 2%. Jeg bruger stadig [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, som lige nu giver 0,5% på de første 50.000. Det beløb svarer også meget godt til det, jeg gerne vil have i umiddelbar tilgængelig kapital. 
 
-Hvis du vil modvirke inflationen for alvor, så bliver du nødt til at bruge en af [mulighederne for at investere dine penge](/investering/). Jeg [investerer fx i aktier]({% link _pages/investering-aktier.md %}) og [lån via crowdlending](/crowdlending/).
+Hvis du vil modvirke inflationen for alvor, så bliver du nødt til at bruge en af [mulighederne for at investere dine penge](/investering/). Jeg [investerer fx i aktier](/investering-aktier/) og [lån via crowdlending](/crowdlending/).

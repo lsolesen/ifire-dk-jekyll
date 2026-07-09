@@ -96,11 +96,11 @@ Jeg vil som hovedregel investere i noget, der er lagerbeskattet efter aktieindko
 
 Jeg har min nuværende portefølje, jeg skal have lavet om, så den får lavere omkostninger og kommer tættere på min strategi for investering i værdipapirer - og så skal jeg tage højde for mine fremtidige, automatiserede investeringer i værdipapirer.
 
-Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere. Du kan se min [nuværende portefølje med aktier og obligationer på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
+Husk at jeg ikke er investeringsrådgiver og selv på en rejse ud i den her verden for at lære mere.
 
 ### Automatisering af investering
 
- Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
+ Men jeg har vil også gerne have en månedlig, automatiseret investering. Dertil bruger jeg [Nordnets månedsopsparing](/nordnet-maanedsopsparing-problemer/). Det vil være ligetil, hvis jeg vælger Sparinvests indeksfonde. Men hvis jeg hellere vil vælge de billigere ETF'er, så skal jeg i hvert fald først have fundet ud af, hvordan jeg kan automatisere brugen af valutakonti hos Nordnet for at slippe for det højere automatiske valutavekselgebyr.
 
 ### Aktiesparekonto, månedopsparing og større værdidepot
 
@@ -108,11 +108,11 @@ Jeg har på [SaxoInvestor](/go/saxoinvestor/) oprettet en **aktiesparekonto**, o
 
 Jeg har ikke endeligt besluttet mig for, hvor mit værdidepot skal være placeret - eller hvad det skal indeholde.
 
-Jeg har skrevet mere om [aktiesparekonto hos Nordnet og Saxo Bank her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+Jeg har skrevet mere om [aktiesparekonto hos Nordnet og Saxo Bank her](/aktiesparekonto/).
 
 ### Beslutning ift. fremtidige investeringer
 
-Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret, når det er sket eller [følg med i min nuværende portefølje på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009).
+Jeg har endnu ikke taget en beslutning ift. mine fremtidige investeringer, men det skulle meget gerne snart ske. Kom tilbage til denne side og få svaret.
 
 _Jeg anbefaler på ingen måde at lave de samme investeringer som mig. Jeg har kun lavet denne liste for anskueliggøre for mig selv, hvor meget jeg sparer i årlige omkostninger i procent._
 

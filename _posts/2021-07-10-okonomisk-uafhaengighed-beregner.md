@@ -39,7 +39,7 @@ Du kan blive økonomisk uafhængig med, når du laver en [passiv indkomst](/pass
 
 {% include calculator-okonomisk-uafhaengighed.html %}
 
-Beregneren tager **ikke** højde for, at der fx ved [aktieindkomst er en progressionsgrænse, hvor skatten er forskellig]({% link _posts/2020-06-06-aktiebeskatning.md %}) alt efter, hvor meget du tjener.
+Beregneren tager **ikke** højde for, at der fx ved [aktieindkomst er en progressionsgrænse, hvor skatten er forskellig](/skat-af-aktier/) alt efter, hvor meget du tjener.
 
 ## Hvornår er man økonomisk uafhængig?
 

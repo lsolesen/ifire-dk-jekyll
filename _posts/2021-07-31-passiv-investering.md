@@ -81,7 +81,7 @@ Det er heldigvis blevet ret enkelt at følge markedet.
 Der er flere forskellige muligheder for at komme i gang som passiv investor. Grundlæggende er der følgende muligheder for dig der vil i gang.
 
 - Vælg en af de **automatiske robotinvesteringsløsninger**, hvor du bare skal vælge dit risikoniveau. De fleste banker har løsninger, som de kan guide dig til. Du skal være meget opmærksom på omkostningerne. Her er den uafhængige [Nord.Investments](/go/nord/){: rel="sponsored nofollow noopener" }. Der er årlige omkostninger relativt lave, og den er let at bruge. Du skal bare sørge for at oprette kontoen og sætte penge ind. Du kan også sagtens bruge Nord.Investments som en månedsopsparing, så du konstant får investeret.
-- Vælg **Nordnets månedsopsparing** hvor du kan investere i passive indeksfonde og ETF'er automatisk hver måned. Du vælger selv hvilke fonde, du gerne vil investere i. Hver måned sætter du penge ind på kontoen, og du køber kurtagefrit ind til din passive investeringsportefølje. Denne type kræver, at du selv lige sætter dig ind i de bedste passive fonde. Jeg har skrevet en [guide til Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
+- Vælg **Nordnets månedsopsparing** hvor du kan investere i passive indeksfonde og ETF'er automatisk hver måned. Du vælger selv hvilke fonde, du gerne vil investere i. Hver måned sætter du penge ind på kontoen, og du køber kurtagefrit ind til din passive investeringsportefølje. Denne type kræver, at du selv lige sætter dig ind i de bedste passive fonde. Jeg har skrevet en [guide til Nordnets månedsopsparing](/nordnet-maanedsopsparing-problemer/).
 - **Køb selv ind på et aktiedepot**. Det er let selv at købe ind på et aktiedepot også. Du kan have et depot hos din egen bank, men Saxo Investor er også en meget populær løsning, hvor kurtagen er lav. Igen skal du selv lige lave lidt research for at vide, hvad du gerne vil investere i.
 
 Uanset hvilken løsning du vælger, så kan du let følge markedet og få et godt solidt afkast over mange år. Du skal bare huske på, at **der er en risiko forbundet med at investere**. Du skal have råd til fastholde investeringerne, når markedet går ned, ellers risikerer du at miste penge.
@@ -115,7 +115,7 @@ Der er altså rigtig stor forskel alt efter, hvad omkostningerne er på den inve
 
 Selv giver jeg gerne lidt i årlige omkostninger for at fjerne risikoen og arbejdet ved selv at skulle vælge.
 
-Du skal naturligvis tage højde for de lidt [forskellige skatteforhold for aktier]({% link _posts/2020-06-06-aktiebeskatning.md %}). Nedenfor giver jeg et forslag til, hvordan du kan vælge indeksfonde til de forskellige typer investeringsdepoter.
+Du skal naturligvis tage højde for de lidt [forskellige skatteforhold for aktier](/skat-af-aktier/). Nedenfor giver jeg et forslag til, hvordan du kan vælge indeksfonde til de forskellige typer investeringsdepoter.
 
 ## Investering er vigtigt
 
@@ -148,7 +148,7 @@ Fordelen ved først at fylde aktiesparekontoen er, at du dit afkast bliver beska
 
 Der er flere måder at regne om den lavere beskatning er en fordel, når gevinsten er lagerbeskattet. Men alt andet lige kan du formentlig forvente en lille skattemæssig fordel. Og vi kan godt lide noget, der er enkelt.
 
-Du kan læse meget mere om [aktiesparekontoen og forslag til investeringer]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+Du kan læse meget mere om [aktiesparekontoen og forslag til investeringer](/aktiesparekonto/).
 
 Hos Saxo Investor kan du oprette en aktiesparekonto gratis, men du kan også oprette en konto i de fleste banker. Du skal imidlertid være opmærksom på, at de fleste banker tager et årligt depotgebyr. Saxo Investor er også den handelsplatform i Danmark, der har de laveste handelsomkostninger i øjeblikket.
 

@@ -102,7 +102,7 @@ Når du køber værdipapirer, så bliver de noteret til en GA-kurs. GA-kursen in
 
 Der er altså relativt betydelige omkostninger ved at handle værdipapirerne, men der er ikke noget entydigt billede af, om det bedst kan betale sig at købe danske investeringsforeninger eller udenlandske ETF'er.
 
-Jeg køber hovedparten af mine [værdipapirer gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
+Jeg køber hovedparten af mine [værdipapirer gennem månedsopsparingen](/nordnet-maanedsopsparing-problemer/) på [Nordnet](/go/nordnet/). Hvis du køber mindre portioner end minimumskurtagen hos Nordnet, kan det betale sig at kigge på fx [SaxoInvestor](/go/saxoinvestor/).
 
 {% include feature_row type="left" %}
 

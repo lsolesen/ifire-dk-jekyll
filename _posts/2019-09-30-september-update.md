@@ -71,7 +71,7 @@ Jeg har kigget lidt på fordelingen af mine investeringer, og lige nu er min væ
 
 ### Værdipapirer
 
-Mine porteføljer har stået og passet sig selv et stykke tid. Jeg har tilført [penge til månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), men har ellers mest overvåget porteføljen for at se om mine Danske Bank og Nordea-bankaktier er ved at være modne til at sælge. Det er de så ikke endnu. Heldigvis forventer jeg, at de på sigt stiger, og at de betaler et fint udbytte. Men samlet klarer alle de porteføljer, hvor jeg selv har udvalgt nogle enkeltaktier klart dårligere end de porteføljer, hvor jeg har købt passive indekser.
+Mine porteføljer har stået og passet sig selv et stykke tid. Jeg har tilført [penge til månedsopsparingen](/nordnet-maanedsopsparing-problemer/), men har ellers mest overvåget porteføljen for at se om mine Danske Bank og Nordea-bankaktier er ved at være modne til at sælge. Det er de så ikke endnu. Heldigvis forventer jeg, at de på sigt stiger, og at de betaler et fint udbytte. Men samlet klarer alle de porteføljer, hvor jeg selv har udvalgt nogle enkeltaktier klart dårligere end de porteføljer, hvor jeg har købt passive indekser.
 
 Ellers er aktiemarkedet er gået opad i forhold til sidste måned.
 

@@ -1,192 +1,77 @@
 ---
 layout: single
-last_modified_at: 2020-05-15T10:00:00+08:00
-title: Portefølje - aktier, obligationer, crowdlending, guld og cryptovaluta
+title: &title "Min investeringsportefølje: Status og aktivallokering"
 permalink: /portfolio/
-excerpt: "Her kan du se min samlede portefølje med aktier, obligationer, crowdlending, guld, sølv og kryptovaluta."
+excerpt: "Her kan du se opbygningen af min samlede investeringsportefølje. Efter mange år med komplekse eksperimenter er alt i dag skåret helt ind til benet med fokus på indeksfonde."
 author_profile: true
 toc: true
-feature_row_crypto:
-  - image_path: /assets/images/logo/coinbase.png
-    alt: "Coinbase"
-    title: "Coinbase"
-    excerpt: "[Coinbase](/go/coinbase/){: rel='sponsored nofollow noopener' } har et rigtig godt _Earn_-program, hvor jeg flere gange har lært meget om forskellige krypotvalutaer. Du får op til 66 DKK Bitcoins ved at købe på Coinbase med [mit link](/go/coinbase/){: rel='sponsored nofollow noopener' }."
-  - image_path: /assets/images/logo/kraken.png
-    alt: "Kraken"
-    title: "Kraken"
-    excerpt: "Jeg køber kryptovaluta og bitcoins på [Kraken](/go/kraken/){: rel='sponsored nofollow noopener' }, som er den billigeste kryptobørs, jeg har kunnet finde. Den er ret let at bruge."
-  - image_path: /assets/images/logo/ledger.png
-    alt: "Ledger"
-    title: "Ledger"
-    excerpt: "[Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
-feature_row_opsparing:
-  - image_path: /assets/images/logo/lunar.png
-    alt: "Lunar"
-    title: "Lunar"
-    excerpt: "[Lunar](/go/lunar/){: rel='sponsored nofollow noopener' } er en ret genial dansk bankapp. Du behøver ikke skifte bank, og du får 50 DKK første gang du bruger deres gratis betalingskort."
-  - image_path: /assets/images/logo/revolut.png
-    alt: "Revolut"
-    title: "Revolut"
-    excerpt: "[Revolut](/go/revolut/){: rel='sponsored nofollow noopener' } er en genial bankapp hvor du gratis får et betalingskort og veksler til interbankkursen. I appen kan du have forskellige valutakonti, og det er et perfekt kort at have med i udlandet."
-  - image_path: /assets/images/logo/curve.png
-    alt: "Curve"
-    title: "Curve"
-    excerpt: "[Curve](/go/curve/){: rel='sponsored nofollow noopener' } er et genialt betalingskort, hvor du kan knytte alle dine andre kort til. Så kan du vælge hvilket kort, du reelt vil betalt med i appen. Og du kan gå _back in time_, hvis du har brugt det forkerte kort."
+last_modified_at: 2026-07-06T12:00:00+02:00
+tags:
+  - overblik
+header:
+  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&h=300&w=400&q=10
+  caption: *title
 ---
 
-{% include disclosure.html %}
+{{ page.excerpt }}
 
-Jeg har samlet min samlede portefølje på denne side. Den ændrer sig langsomt hele tiden, og du kan følge med i mine [mine månedsopdateringer](/opdateringer/) for alle mine tanker bag ved porteføljen.
+Jeg har investeret på de finansielle markeder i mange år. Gennem tiden har jeg bevæget mig vidt omkring og eksperimenteret med alt fra enkeltaktier, komplekse ejendoms-ETF'er, crowdlending, guld og kryptovaluta for at jage det optimale afkast.
 
-Den samlede formue består af:
+Men erfaring avler modenhed. I dag har jeg gennemført en omfattende hovedrengøring og strømlinet hele min formuestruktur. 
 
-- **Investeringer.** Værdipapirer og crowdlending.
-- **Opsparing.** Kontanter og kryptovaluta.
+Min investeringsfilosofi som 50-årig kan koges ned til tre simple principper: **Minimer omkostningerne (ÅOP), maksimer renters rente gennem brede indeks, og hold administrationen på et absolut minimum.** Jeg ejer ingen mursten, så hele mit økonomiske fundament arbejder passivt i markedet.
 
-## Samlede formue
+Du kan læse den fulde historie om min omlægning her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/)**.
 
-{% include figure image_path="/assets/images/status/value.jpg" caption="Samlede investeringer" %}
+---
 
-## Investeringer
+## Min overordnede aktivallokering (Asset Allocation)
 
-### Distribution af investeringer
+Hvor jeg tidligere havde spredt mine midler ud over mange spekulative aktivklasser, er min portefølje i dag centreret omkring én stor kerne:
 
-{% include figure image_path="/assets/images/status/allocation.jpg" caption="Allokering af investeringer" %}
+### 1. Aktier og Indeksfonde (Kernen)
 
-### Investeringer i værdipapirer - aktier og obligationer
+Den absolut største del af min formue er placeret i brede, markedsvægtede og billige aktieindeks. I mine frie midler bruger jeg den realisationsbeskattede *Sparinvest Index Globale Aktier KL* for at udskyde skatten mest muligt, mens mine pensionsmidler (Velliv) og min Aktiesparekonto er sat på fuldstændig passiv autopilot via globale ETF'er.
 
-Min strategi for investering i [aktier og obligationer](/investering-aktier/) har været [under](/investering-vol2/) [stadige](/investering-vol3/) og [løbende](/investering-vol4/) [overvejelser](/investering-vol5/), og jeg har [lært](/investering-vol6/) en [del](/investering-vol7/) [undervejs](/investering-vol8/) - og jeg er ikke færdig med at [lære](/investering-vol9/).
+* **[Dyk ned i min aktieportefølje og depotstruktur](/investeringer/)**
 
-Jeg investerer primært i [passive indeksfonde]({% link _posts/2021-07-31-indeksfonde.md %}).
+### 2. Crowdlending (Satellitten)
 
-{% include figure image_path="/assets/images/status/investeringer.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
+Efter at have testet over 20 platforme og mistet penge på uregulerede svindelnumre undervejs, har jeg likvideret 80-90 % af mine crowdlending-midler. Jeg betragter i dag udelukkende crowdlending som et mindre satellit-aktiv. De eneste platforme, der har overlevet min udskilning, er de fuldt regulerede aktører *Mintos*, *PeerBerry* og skandinaviske *Kameo*.
 
-#### Nordnet og månedsopsparing
+* **[Læs min begynderguide og erfaringer med crowdlending](/crowdlending/)**
 
-Jeg har to værdipapirdepoter hos [Nordnet](/go/nordnet/){: rel='nofollow noopener' }, som begge er sat i [månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), hvor man handler kurtagefrit.
+### 3. Alternativ allokering (Guld og Krypto)
 
-#### Nordnet #1: Primært investering i danske passive fonde
+Tidligere fyldte kryptovaluta (især Bitcoin og Ethereum) samt eksperimenter med råvarer en del i mine overvejelser. I dag er spekulativ krypto skåret helt væk, fordi det er for besværligt. Jeg har bevaret en meget lille, symbolsk flig af råvarer (f.eks. fysisk sikret guld via *Xetra-Gold*) placeret udelukkende inde i mit pensionsmiljø (Aldersopsparingen), hvor  lagerbeskatningen og beskatning som kapitalindkomst er til at leve med.
 
-Denne portefølje er dedikeret til [danske, passive fonde]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}).
+---
 
-<iframe src="https://www.shareville.se/widget/portfolio/343009/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+## Strategi: Hvorfor enkelhed slår alt
 
-<iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+Mange investorer bruger timevis hver uge på at overvåge grafer, læse årsregnskaber eller jagte den næste populære aktivklasse. Min erfaring viser dog, at det sjældent betaler sig, når man modregner tidsforbrug, handelsomkostninger og skattebøvl.
 
-[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success }
+Ved at vælge en minimalistisk tilgang opnår jeg:
 
-#### Nordnet #2: Investering i udenlandske, passive ETF'er
+* **Maksimeret renters rente:** Ingen unødvendig minimumskurtage eller hyppige ombytninger, der udløser unødig beskatning.
+* **Intet administrativt cash drag:** Midlerne geninvesteres automatisk med det samme i stedet for at stå som døde kontanter.
+* **Fuld automatisering:** Min Månedsopsparing og mine pensionsindbetalinger passer sig selv. Jeg skal ikke logge ind på 20 forskellige dashboards for at bevare overblikket.
 
-Denne porteføljer er inspireret af [obviousinvestor.com](http://obviousinvestor.com) og forsøger at have en ligelige fordeling mellem aktier, obligationer, guld og REIT. Her investerer jeg i EUR i lagerbeskattede ETF'er.
+---
 
-<iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+## Detaljeret overblik over mine investeringer
 
-<iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-
-[Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success }
-
-#### SaxoInvestor - og aktiesparekonto
-
-Jeg har en **aktiesparekonto** hos [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' }, som er investeret i en uskøn blanding af aktier og fonde. Det er hovedsageligt en _legeportefølje_.
-
-[Få en gratis investeringsplan fra NORD](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
-#### Etoro Kurtagefri handel og Copytrading
-
-Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } for at afprøve platformen, hvor man kan handle kurtagefrit.
-
-[Kurtagefri handel på Etoro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
-
-#### Nordnet: Aldersopsparing
-
-I aldersopsparingen har jeg satset på Nordnets egne indeksfonde, da man kan handle dem gratis.
-
-<iframe src="https://www.shareville.se/widget/portfolio/404863/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-
-<iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-
-[Se porteføljen på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
-
-#### Kapitalpension
-
-Min kapitalpension er investeret i [Danske Invest Global Indeks akkumulerende](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04EPX) indeksfond, som har beskedne årlige omkostninger på 0,44%. Beløbet på min kapitalpension er ikke så stort, og der kan ikke tilføjes flere midler, så jeg har prioriteret at gøre det enkelt og have det hele stående i fonden fra Danske Invest. Jeg kunne også have valgt den akkumulerende fond fra Storebrand STIIAM.
-
-### Investeringer i crowdlending
-
-Jeg investerer i crowdlending, og jeg har lavet en opdeling af platformene alt efter om det er forbrugslån, investeringer i projekter (bl.a. ejendomsprojekter) eller investeringer i ejendomme, der giver huslejeindtægter.
-
-Du kan se [præcise opdateringer om, hvordan det går med den enkelte platform](/crowdlending/).
-
-#### Samlet værdi i corwdlending
-
-{% include figure image_path="/assets/images/status/p2p-value.jpg" caption="Samlede værdi af crowdlending"  %}
-
-#### Samlet fordeling af crowdlending
-
-{% include figure image_path="/assets/images/status/p2p-allocation-groups.jpg" caption="Crowdlending fordelt på typer" %}
-
-[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
-{% assign deals = site.platforms | where: "tags", "crowdlending" | where_exp: "item", "item.deal != ''" %}
-{% for d in deals %}
-  {% if everything.size > 0 %}
-    {% assign everything = d.deal | concat: everything %}
-  {% else %}
-    {% assign everything = d.deal %}
-  {% endif %}
-{% endfor %}
-{% include feature_row array=everything %}
-
-## Opsparing
-
-For mig er opsparing lige nu meget enkelt. Jeg har kontanter stående i forskellige banker.
-
-### Indlånskonto
-
-Jeg har en indlånskonto hos [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 0,5% i rente på første 50.000, jeg har stående på kontoen.
-
-{% include cta-redirect title="Lunar" class="success" %}
-
-### Opsparingskonto
-
-Jeg har en opsparingskonto hos [Norwegian Bank](/go/norwegian/){: rel='sponsored nofollow noopener' }, hvor jeg får 0,0% i rente. Lige nu har jeg ingen penge placeret her.
-
-### Valutakonto
-
-Jeg har en konto hos [Revolut](/go/revolut/){: rel='sponsored nofollow noopener' }, hvor jeg kan veksle gratis på tværs af valutaer til interbank vekslingsrater.
-
-{% include feature_row id="feature_row_opsparing" %}
-
-### Guld og sølv
-
-Mange sparer op i fysisk guld og sølv. Det har jeg valgt ikke at gøre, men har inkluderet guld i min portefølje #2 med en ETF, der tracker guld og har sikkerhed i fysisk guld.
-
-### Cryptovaluta
-
-Jeg har opbygget en portefølje med kryptovaluta. Du kan læse om mine planerne for porteføljen i [Portefølje med cryptovaluta som opsparing](/crypto-portfolio/) og den [kryptoporteføljen efter et år](/crypto-1-aar/).
-
-{% include figure image_path="/assets/images/status/crypto-allocation.jpg" caption="Sammensætning af kryptovaluta-porteføljen" %}
-
-[Opret dig på Coinbase og få 66 DKK Bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
-{% include feature_row id="feature_row_crypto" %}
-
-## Overblik over de enkelte investeringer
+Herunder kan du klikke dig videre ind på mine specifikke statussider for de enkelte aktivklasser, hvor jeg løbende opdaterer mine guides, platformanmeldelser og strategiske overvejelser.
 
 <div class="feature__wrapper">
-
 {% assign site_posts = site.pages | where: "tags", "overblik" | sort: "created_at" %}
-
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% unless post.url == page.url %}
+      {% include archive-single.html type="grid" %}
+    {% endunless %}
   {% endfor %}
 {% endif %}
-
 </div>
-
-## Opsparingsrate
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKZZbdj1cM5A4yCXjtjhxowXHoMhioXI-OR-mEPmmGgqQhcSr250VUM8SGVvRkWZziWUYleizmqAC2/pubchart?oid=1351454595&amp;format=image"></iframe>
 
 {% include disclaimer.md %}

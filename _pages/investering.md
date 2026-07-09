@@ -73,7 +73,7 @@ Uanset hvad du investerer i, så vil det tage lidt af din tid.
 
 Aktier og værdipapirer er en meget populær måde at investere på. Hvis du har tilgængelig kapital, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier eller investeringsforeninger og fonde, der dækker bestemte dele af markedet. Jeg sværger selv til at minimere min risiko ved at følge verdensmarkedet gennem passiv indeksfonde og ETF'er.
 
-Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
 Læs mere om [investering i aktier og værdipapirer](/investering-aktier/).
 
@@ -87,7 +87,7 @@ Læs mere om [crowdlending og crowdfunding](/crowdlending/).
 
 Kryptovaluta og Bitcoins er et meget omskifteligt marked. Personligt har jeg sat en lille smule penge i Bitcoins primært som en opsparing, og jeg køber Bitcoins efter Dollar-Cost-Average-metoden for stille og roligt at samle flere Bitcoins. Nogle anbefaler maksimalt at have omkring 2% af sin portefølje som Bitcoins. 
 
-Læs mere om [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}).
+Læs mere om [kryptovaluta og Bitcoins](/bitcoins/).
 
 ### Guld og metaller
 
@@ -97,13 +97,13 @@ Du kan læse mere om [investering i guld her](/guld/).
 
 ### Ejendomsinvestering
 
-Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}) eller hvordan man investerer i [REIT](/reit/).
+Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending](/ejendomme-crowdlending/) eller hvordan man investerer i [REIT](/reit/).
 
 ## Bæredygtige investeringer
 
 Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og impact-investeringer. En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig.
 
-Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [grønne aktier]({% link _posts/2021-08-05-groenne-aktier.md %}).
+Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [grønne aktier](/groenne-aktier/).
 
 ## Investeringsløsninger
 

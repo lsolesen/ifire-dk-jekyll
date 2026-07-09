@@ -52,7 +52,7 @@ Når du køber aktier, så køber du en lille del af en virksomhed. Du kan så t
 
 Obligationer har traditionelt været det sikre valg til opsparing og til at balancere risikoen i din samlede investering i værdipapirer. Renteniveauet i øjeblikket gør det vanskeligere at få et højt afkast på obligationerne.
 
-Læs mere om [investering i obligationer]({% link _posts/2020-03-09-obligationer.md %}).
+Læs mere om [investering i obligationer](/obligationer/).
 
 ## Investeringsforeninger, fonde og ETF'er
 
@@ -94,21 +94,21 @@ Du kan lade dig inspirere på vores [liste over danske investeringsforeninger og
 
 Der er ret specifikke regler om, hvordan afkastet og udbytterne ved aktieinvestering og obligationsinvestering er beskattet.
 
-Læs mere om [skat, realisationsbeskatning og lagerbeskatning af aktier her]({% link _posts/2020-06-06-aktiebeskatning.md %}).
+Læs mere om [skat, realisationsbeskatning og lagerbeskatning af aktier her](/skat-af-aktier/).
 
 ## Aktieinvestering på aktiesparekonto
 
-I Danmark har man lanceret en aktiesparekonto, som gør beskatningen lidt lettere. Jeg har lavet en [komplet guide til aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+I Danmark har man lanceret en aktiesparekonto, som gør beskatningen lidt lettere. Jeg har lavet en [komplet guide til aktiesparekontoen](/aktiesparekonto/).
 
 ## Hvor kan du investere i aktier og værdipapirer?
 
-Du kan investere i aktier, obligationer og værdipapirer i din bank eller gennem en børsmægler. Omkostningerne ved at investere betyder rigtig meget for dit langsigtede afkast. Derfor kan det betale sig at kigge lidt efter, hvad priserne er. Jeg har skrevet lidt mere om [kurtage og handelsomkostninger ved investeringer her]({% link _posts/2020-03-18-hvad-er-handelsomkostningerne.md %}).
+Du kan investere i aktier, obligationer og værdipapirer i din bank eller gennem en børsmægler. Omkostningerne ved at investere betyder rigtig meget for dit langsigtede afkast. Derfor kan det betale sig at kigge lidt efter, hvad priserne er. Jeg har skrevet lidt mere om [kurtage og handelsomkostninger ved investeringer her](/handelsomkostninger/).
 
-Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
 ## Bæredygtige investeringer i aktier
 
-Jeg har lavet en liste med forslag til [grønne og bæredygtige aktier]({% link _posts/2021-08-05-groenne-aktier.md %}), men ellers kan du også finde [bæredygtige fonde, investeringsforeninger og ETF'er]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}).
+Jeg har lavet en liste med forslag til [grønne og bæredygtige aktier](/groenne-aktier/), men ellers kan du også finde [bæredygtige fonde, investeringsforeninger og ETF'er](/investering-vol3/).
 
 ## Her handler jeg selv aktier og investeringsforeninger
 
@@ -120,7 +120,7 @@ Hvis du gerne vil i gang med at investere i aktier og obligationer, så er det a
 
 Hvis du vil bruge et minimum af tid på at sætte dig ind i alle aspekter af aktieinvestering, så kan en ide være at gøre det hele enkelt og starte med at købe fonde, der er passivt forvaltede og som følger verdensmarkedet.
 
-Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins]({% link _posts/2019-03-28-bitcoins.md %}). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending]({% link _posts/2019-03-11-ejendomme-crowdlending.md %}).
+Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins](/bitcoins/). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending](/ejendomme-crowdlending/).
 
 ## Indlæg om aktier, obligationer og værdipapirer
 

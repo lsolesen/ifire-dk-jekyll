@@ -1,176 +1,86 @@
 ---
 layout: single
-title: &title Mine erfaringer med crowdlending siden 2017
+title: &title "Min crowdlending-portefølje: Status efter den store udskilning"
 permalink: /mine-investeringer/crowdlending/
-excerpt: "Her kan du se min samlede portefølje for crowdlending, crowdfunding og P2P-investeringer - med intern rente, totalt investeret og indkomst."
+excerpt: "Fra 20 platforme og ureguleret guldfeber to total forenkling. Læs min ærlige status på crowdlending, og hvorfor aktivklassen fylder minimalt i dag."
 author_profile: true
 toc: true
 tags:
   - overblik
+  - crowdlending
 created_at: 2019-05-15T10:00:00+08:00
-last_modified_at: 2021-07-12T10:00:00+08:00
+last_modified_at: 2026-07-06T12:00:00+02:00
 header:
-  teaser: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1502920514313-52581002a659?auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: Photo by Christine Roy on Unsplash
 ---
 
 {{ page.excerpt }}
 
-## Mine erfaringer med Crowdlending
+Efter mange år på investeringsmarkedet har jeg for nylig foretaget en massiv hovedrengøring i min økonomi. Min overordnede filosofi er i dag skåret helt ind til benet: Minimer omkostningerne, maksimer renters rente, og hold det så simpelt, at det giver total nattero.
 
-### Juli
+Hvis du har fulgt min blog i længere tid, ved du, at crowdlending, crowdfunding og P2P-investeringer tidligere udgjorde en betydelig brik i min formuestruktur. I mine tidlige "guldfeber-dage" kastegoede jeg mig ud i markedet med stor optimisme og endte med at have kapital spredt ud over 20 forskellige platforme.
 
-Jeg har kigget lidt på [Crowdestor](/platform/crowdestor/), som jeg gerne vil reducere min eksponering lidt i. Men samtidig har de faktisk introduceret nogle nye meget spændende produkter, som minder om [Mintos](/platform/mintos/) og [Bondoras Go & Grow](/go/bondora/){: rel="sponsored nofollow noopener" }.
+I dag er billedet et helt andet. Tiden med uregulerede dashboards og tocifrede "garanterede" afkast er endegyldigt forbi for mit vedkommende. 
 
-[Peerberry](/platform/peerberry/) har også introduceret investeringsplaner, som jeg har kigget lidt nærmere på. Jeg foretrækker selv at sætte min auto-invest op, men jeg har ladet mig inspirere af investeringsplanerne, så jeg kunne få en fornuftig spredning.
+---
 
-Jeg har opdateret min [anmeldelse af Trine](/trine-anmeldelse/). Det var en tiltrængt opdatering, så jeg håber, at du nyder den. Der har på det seneste været lidt uro med omstruktureringer af nogle af lånene. Covid-19 har ramt Afrika temmelig hårdt, men Trine er gode til at [orientere om udfordringerne](/platform/trine/).
+## Min nuværende crowdlending-status
 
-[Fast Invest](/platform/fastinvest/) har faktisk tilbagebetalt et af beløbene, som jeg har anmodet om i februar. Men det er nok ikke der jeg ville sætte mine penge.
+Jeg har iværksat et totalt og disciplineret exit fra stort set alle europæiske og danske platforme. Administrationen, den manglende likviditet, skattebøvlet og den iboende operationelle risiko stod simpelthen ikke længere mål med det nemme, passive afkast fra brede indeksfonde.
 
-### Juni 2021
+Status lige nu kan opsummeres kort:
+* **Hovedstolen er trukket hjem:** Over 80-90% af mine crowdlending-midler er afviklet og genplaceret i min langsigtede frihedsmotor på aktiemarkedet.
+* **Mikroskopisk rest tilbage:** Jeg har i dag kun en ganske lille portion kapital tilbage, fordelt på **4 udvalgte platforme**. Disse midler tikker enten passivt ind via kortsigtede autoinvest-funktioner eller er bundet i historiske lån, der løbende afvikles.
+* **Slut med XIRR-dashboards:** Jeg har endegyldigt droppet at logge ind på tyve forskellige dashboards hver måned for at måle manuelle performance-grafer og beregne præcis intern rente (XIRR). Kapitalen skal arbejde for mig – ikke omvendt.
 
-Jeg har endnu engang lavet en opdatering til min crowdlending-portefølje. Det bliver sidste måned, hvor jeg logger ind på alle platformene for at lave et samlet overblik. Jeg vil for eftertiden gå lidt mere i dybden med den enkelte platform.
+---
 
-Jeg har særligt koncentreret mig om at få opdateret [autoinvest for Mintos](/platform/mintos/) og [Peerberry](/platform/peerberry/), som sammen med [Bondoras Go & Grow](/go/bondora/){: rel="sponsored nofollow noopener" }, er de udenlandske platforme jeg primært satser på i øjeblikket.
+## Hvorfor trak jeg mig ud? (Mine dyre lærepenge)
 
-Jeg har endnu engang investeret i [The Many](/go/themany/){: rel="sponsored nofollow noopener" }, hvor man nu kan investere fra 100 kroner. Jeg har investeret Frederiksberg, og så er jeg lige ved at tjekke Brassøvej-projektet ud i Århus. Jeg synes stadig platformen er spændende. Jeg håber også langsomt at den interne rente vil stige fra de omkring 3,7% som den er på lige nu. [The Many er teknisk set ikke crowdlending](/platform/themany/) og skiller sig altså lidt ud fra de andre [crowdlending-platforme i Danmark](/dansk-crowdlending/).
+Det es let at tale om de høje renter på 12-15%, når alt går fremad. Men i crowdlending fanger bordet brutalt, når krisen kradser, eller platformene viser sig at være uærlige. Jeg har personligt måttet sande, at det uregulerede P2P-marked bærer en enorm systemisk risiko.
 
-Desuden så er [Trine](/go/trine/){: rel="sponsored nofollow noopener" } også stadig en favorit, fordi den faktisk præsterer rigtig fint med 6%+ i intern rente. Det synes jeg er rigtig fint, når jeg samtidig støtter bæredygtige projekter i Afrika.
+Jeg er blevet ramt på tre fronter under min rejse:
+1. **Decideret svindel og Ponzi-ordninger:** Platforme som *Envestio*, *Grupeer* og *Fast Invest* lokkede med fabelagtige tal, men kollapsede under svindelanklager og efterlod mig med tabte indskud, identitetsbeskyttelse og internationale retssager.
+2. **Idealistiske landbrugsprojekter:** Mit mest eksotiske eventyr hos *Agrikaab* i Somalia lærte mig, at smukke fortællinger om kamelmælk og drivhuse hurtigt knækker nakken, når uregulerede selskaber møder makroøkonomiske kriser.
+3. **Det store danske ejendomskrak:** Selv det danske marked under Finanstilsynets vinger har budt på store skuffelser. Flagskibet *The Many (Brickshare)* endte i en total konkurs, hvilket udvandede investorernes værdier under kuratorbehandling og fastlåste kapitalen i årevis.
 
-Jeg har også sat så mange [investeringer som muligt til salg på Housers](/platform/housers/). Desværre kan man kun sætte de rigtig gode investeringer til salg, så det var ikke så mange.
+Du kan læse hele den hudløst ærlige og ucensurerede historie om mine tab, sagsanlæg og politianmeldelser på min dedikerede side: **[Kirkegården: De crowdlending-platforme, jeg har forladt eller tabt penge på](/crowdlending-svindel-erfaringer/)**.
 
-{% include figure image_path="/assets/images/status/crowdlending-2021-07.jpg" %}
+---
 
-{% include figure image_path="/assets/images/status/crowdlending-2021-07-1.jpg" %}
+## De platforme, jeg stadig har tillid til
 
-Du kan se alle mine crowdlending platforme nedenfor, hvis du skal have inspiration.
+Hvis du på trods af risiciene ønsker at krydre din portefølje med et månedligt cash flow fra crowdlending, vil mit absolut bedste råd være: **Hold dig udelukkende to store, gennemskuelige og fuldt nationalt regulerede aktører.** Kigger jeg på markedet i dag, er der reelt kun tre platforme fra min rejse, der står tilbage med æren og robustheden i behold:
 
-{% include disclosure.html %}
+* **[Mintos](/platform/mintos/):** Som fuldt reguleret investeringsselskab med MiFID-licens under lettisk tilsyn tilbyder de markedets bedste spredning og en velfungerende sekundær markedsplads.
+* **[PeerBerry](/platform/peerberry/):** Har opbygget branchens stærkeste rygte, blandt andet fordi deres moderselskab dækkede 100% af alle krigsramte lån tilbage til investorerne af egen lomme efter Ukraine-krigen i 2022.
+* **[Kameo](/platform/kameo/):** Den absolutte duks inden for skandinavisk ejendomscrowdfunding. Pantesikkerhed, professionel risikostyring og et stærkt institutionelt bagland gør, at man kan sove roligt om natten.
 
-## Mine erfaringer med crowdlending
+---
 
-I februar 2017 investerede jeg første gang i udlån gennem crowdlending. Jeg sammenfatter mine erfaringer med [præcise opdateringer om, hvordan det går med den enkelte platform](/platforme/), og der er et fast afsnit om crowdlending, crowdfunding og P2P-investeringer under mine [månedsopdateringer](/opdateringer/).
+## Læs mine dybdegående guides og anmeldelser
 
-Jeg har investeret en del penge i crowdlending. Følg udviklingen, mine erfaringer og afkastet herunder.
+Hvis du vil lære mere om mekanismerne bag crowdlending, eller søger inspiration til at spotte de røde flag i tide, kan du dykke ned i mine guides herunder:
 
-## Crowdlending for begyndere
+* **[Crowdlending for begyndere: Læs dette før du investerer](/crowdlending/)**
+* **[Mine erfaringer med dansk crowdlending: Status efter oprydningen](/dansk-crowdlending/)**
+* **[Sådan indberetter du korrekt skat af crowdlending til SKAT](/skat-af-dansk-udenlandsk-crowdlending/)**
 
-Crowdlending bliver mere og mere populært. Der er efterhånden rigtig mange gode platforme, hvor du kan komme i gang med investere i udlån af penge til private og virksomheder, men ikke alle er lige gode.
+---
 
-Læs mere om [crowdlending i min begynderguide]({% link _pages/investering-crowdlending.md %}).
+## Indlæg og historiske opdateringer om crowdlending
 
-## Crowdlending i Danmark
-
-Der findes også nogle [crowdlendingplatforme i Danmark](/dansk-crowdlending/). Fordelene ved de danske platforme er, at de er mere regulerede end de udenlandske muligheder for at investere i crowdlending. Jeg har investeret i flere af dem, og du kan læse mere om alle mine erfaringer med platformene.
-
-## Risiko crowdlending
-
-Du skal være rigtig opmærksom på den risiko, der er forbundet med crowdlending. Crowdlending-platforme kan gå konkurs, og dine lån kan blive misligholdt.
-
-[Læs mere om crowdlending risiko]({% link _posts/2020-02-09-crowdlending-rebalancering.md %})
-
-## Indlæg om crowdlending
+Herunder finder du mit fulde historiske arkiv over platform-anmeldelser, markedsovervejelser og rebalanceringer gennem årene.
 
 <div class="feature__wrapper">
-
 {% assign site_posts = site.posts | where: "tags", "crowdlending" | sort: "last_modified_at" | reverse %}
-
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 {% endif %}
-
 </div>
-
-## Mine erfaringer med crowdlending
-
-Selvom der tilskrives renter løbende på de enkelte platforme, skal du være opmærksom på, at tallene er urealiseret indkomst indtil pengene er hævet fra platformen. I crowdlending har historien vist, at en platform kan gå ned eller være svindel, hvilket jeg ogås har været ramt af. Crowdlending er en højrisiko investeringsform.
-{: .notice .notice--info }
-
-{% include figure image_path="/assets/images/status/p2p-value.jpg" caption="Samlede værdi af crowdlending"  %}
-
-## Fordeling på crowdlending platforme
-
-{% include figure image_path="/assets/images/status/p2p-allocation.jpg" caption="Allokering mellem forskellige crowdlending platforme" %}
-
-### Total indkomst fra crowdlending
-
-{% include figure image_path="/assets/images/status/p2p-year-income-april-2020.jpg" caption="Indkomst fra crowdlending - status april 2020" %}
-
-{% include figure image_path="/assets/images/status/p2p-income-april-2020.jpg" caption="Indkomst fra crowdlending - status april 2020" %}
-
-### XIRR for crowdlending
-
-Crowdlending har været udfordret i 2020, og jeg har haft nogle relativt store tab på Envestio og Agrikaab. Det fremgår tydeligt at nedenstående performancegraf, at der er udfordringer.
-
-{% include figure image_path="/assets/images/status/p2p-performance.jpg" caption="Crowdlending ser voldsomt ud, når man mister hele indskuddet." %}
-
-[Få 10 EUR Trine](/go/trine/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
-
-## Opdateringer om crowdlending
-
-Jeg er ved at omlægge mine opdateringer for crowdlending. Du kan læse alle tidligere opdateringer her:
-
-<div class="feature__wrapper">
-
-{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "crowdlending" | sort: "last_modified_at" | reverse %}
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-{% endif %}
-
-</div>
-
-### Status april 2020
-
-Herunder er et øjebliksbillede fra april 2020.
-
-{% include figure image_path="/assets/images/status/p2p-xirr-april-2020.jpg" caption="Øjebliksbillede fra april 2020 på mine crowdlendingplatforme" %}
-
-[Kom i gang med crowdlending på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
-## Forskellige typer crowdlending og crowdfunding
-
-Jeg har forsøgt at dele mine crowdlending investeringer op i almindelige forbrugslån, lån til projekter og endelig lån til ejendomsinvesteringer, som giver huslejeudbytte.
-
-{% include figure image_path="/assets/images/status/p2p-allocation-groups.jpg" caption="Crowdlending fordelt på typer" %}
-
-[Opret dig på Mintos](/go/mintos/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } eller [Bondora](/go/bondora/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
-
-## Deals
-
-{% assign deals = site.platforms | where: "tags", "crowdlending" | where_exp: "item", "item.deal != ''" %}
-{% for d in deals %}
-  {% if everything.size > 0 %}
-    {% assign everything = d.deal | concat: everything %}
-  {% else %}
-    {% assign everything = d.deal %}
-  {% endif %}
-{% endfor %}
-{% include feature_row array=everything %}
-
-## Crowdlending platforme
-
-<div class="feature__wrapper">
-
-{% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "title" %}
-
-{% for post in site_posts %}
-  {% include archive-teaser-images.html type="grid" %}
-{% endfor %}
-
-</div>
-
-## Historik for signups
-
-{% assign site_posts = site.platforms | where: "tags", "crowdlending" | sort: "first_investment_at" %}
-
-{% for post in site_posts %}- {{ post.first_investment_at | date: "%b %-d, %Y"}} - Oprettede konto hos [{{ post.title }}]({{ post.cta_url }}) {% if post.exit_message %}({{ post.exit_message }}){% endif %}
-{% endfor %}
 
 {% include disclaimer.md %}

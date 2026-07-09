@@ -61,7 +61,7 @@ Jeg har følgende akkumulerende danske fonde under radaren. Alle bliver beskatte
 
 Den optimale allokering i denne portefølje er 25% hhv. aktier, obligationer, guld og REIT. Da jeg startede porteføljen fik jeg lavet den lidt skævt, fordi jeg ville prioritere guld og REIT højere end aktier og obligationer, fordi jeg er eksponeret til dem andre steder. Samtidig valgte jeg nogle enkeltstående REIT, som var backtestet og foreslået af [Obivious Investor](http://www.obviousinvestor.com). Det gjorde jeg selvom det var lidt imod min strategi om at prioritere passive investeringsforeninger.
 
-[Porteføljen](https://shareville.dk/profiles/lsolesen/portfolios/349933) har foreløbigt ligget ret stabilt, men pga. den lidt lave aktieeksponering så er den endt med at ligge omkring eller lidt under de indekser, man kan sammenligne med.
+Porteføljen har foreløbigt ligget ret stabilt, men pga. den lidt lave aktieeksponering så er den endt med at ligge omkring eller lidt under de indekser, man kan sammenligne med.
 
 Tidligere har ETF'er været beskattet som kapitalindkomst efter lagerprincippet, men nu bliver de godkendte ETF'er beskattet som aktieindkomst efter lagerprincippet. Derfor er det for mig lidt mere attraktivt at få ETF'er igen.
 
@@ -123,7 +123,7 @@ Jeg har benyttet aldersopsparingen hos Nordnet til deres Superfonde for Danmark,
 
 ## Aktiesparekonto
 
-På [aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}) leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
+På [aktiesparekontoen](/aktiesparekonto/) leger jeg hovedsageligt lidt med forskellige investeringer i mindre værdipapirer, da der ikke er nogen minimumskurtage og det samlede beløb er relativt lille på kontoen.
 
 ## Kapitalpension
 

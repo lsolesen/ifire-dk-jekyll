@@ -226,7 +226,7 @@ Husk selv at læse grundigt om ETF’erne inden, du vælger at investere i dem. 
 
 ## Bæredygtighed i Nordnets månedsopsparing
 
-Den eneste fond, jeg kunne finde i [månedsopsparingen hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), hvor bæredygtighed og ESG er fremtrædende er [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Det er egentlig lidt skuffende, men forhåbentlig vil de tilføje flere fonde i fremtiden.
+Den eneste fond, jeg kunne finde i [månedsopsparingen hos Nordnet](/nordnet-maanedsopsparing-problemer/), hvor bæredygtighed og ESG er fremtrædende er [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG). Det er egentlig lidt skuffende, men forhåbentlig vil de tilføje flere fonde i fremtiden.
 
 ## Hvordan finder man bæredygtige fonde på Nordnet?
 
@@ -242,7 +242,7 @@ De forskellige redskaber virker på nogenlunde samme måde, så her er bare et e
 
 ## Bæredygtige og grønne aktier
 
-Hvis du gerne vil _trade_ i grønne enkeltaktier og selv lave en alsidig, etisk og bæredygtig portefølje, så kan du selv gå i gang med at vælge grønne aktier. Jeg har lavet en inspirationsliste til [grønne aktier]({% link _posts/2021-08-05-groenne-aktier.md %}).
+Hvis du gerne vil _trade_ i grønne enkeltaktier og selv lave en alsidig, etisk og bæredygtig portefølje, så kan du selv gå i gang med at vælge grønne aktier. Jeg har lavet en inspirationsliste til [grønne aktier](/groenne-aktier/).
 
 Du kan selvfølgelig vælge at investere [Chr. Hansen Holding](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P0000TB4A&LanguageId=da-DK&SecurityToken=0P0000TB4A]3]0]E0WWE$$ALL) som lige er blevet kåret til **verdens mest bæredygtige virksomhed**, [skriver de selv](https://www.chr-hansen.com/en/media/2019/1/chr-hansen-kret-som-verdens-mest-bredygtige-virksomhed).
 

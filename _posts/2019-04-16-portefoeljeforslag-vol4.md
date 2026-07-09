@@ -21,7 +21,7 @@ Jeg satser hovedsageligt på **investeringsfonde** og **ETF’er**, som invester
 
 Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummulerende**, da jeg så ikke behøver at tænke på, hvordan jeg skal geninvestere midlerne og ikke skal betale evt. kurtage for geninvesteringen.
 
-Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet gennem månedsopsparingen]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
+Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet gennem månedsopsparingen](/nordnet-maanedsopsparing-problemer/). I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
 Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt.
 
@@ -118,7 +118,7 @@ På min **aktiesparekonto** vil jeg primært købe enkeltaktier og lege lidt med
 
 Der må indbetales op til 50.000 DKK i 2019 på aktiesparekontoen. Hvert år stiger beløbet gradvist med 50.000 kroner, så der i 2022 må indbetales 200.000 kroner.
 
-Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere i min [guide til aktiesparekontoen]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+Aktiesparekontoen lagerbeskattes med 17% både for gevinst og tab. Læs mere i min [guide til aktiesparekontoen](/aktiesparekonto/).
 
 ## Portefølje 5: SparNord: Kapitalpension
 

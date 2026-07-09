@@ -19,7 +19,7 @@ Jeg har tidligere skrevet lidt om, [hvordan man kan inkludere ejendomme gennem C
 
 ## REIT-aktier
 
-Mine investeringer i en af mine porteføljer ([Nordnet #2](https://shareville.dk/profiles/lsolesen/portfolios/349933)) har været ret inspireret af [The Obvious Investor](https://obviousinvestor.com/), og han har 25% af sine investeringer i ejendomme gennem REITs. Han har med vilje fordelt investeringen på tre forskellige REIT i stedet for at have en ETF, der tracker markedet. Hvis du vil have yderligere inspiration til at finde værdipapirer, der giver et udbytte, så har jeg læst rigtig meget på [Divgro](https://divgro.blogspot.com/) og på [Seeking Alpha](https://seekingalpha.com).
+Mine investeringer i en af mine porteføljer har været ret inspireret af [The Obvious Investor](https://obviousinvestor.com/), og han har 25% af sine investeringer i ejendomme gennem REITs. Han har med vilje fordelt investeringen på tre forskellige REIT i stedet for at have en ETF, der tracker markedet. Hvis du vil have yderligere inspiration til at finde værdipapirer, der giver et udbytte, så har jeg læst rigtig meget på [Divgro](https://divgro.blogspot.com/) og på [Seeking Alpha](https://seekingalpha.com).
 
 Følgende REITs er dem jeg lige nu har valgt specifikt at købe.
 
@@ -29,7 +29,7 @@ Følgende REITs er dem jeg lige nu har valgt specifikt at købe.
 | UHT | [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB&LanguageId=da-DK&SecurityToken=0P000005OB]3]0]E0WWE$$ALL) | 3,22%     |
 | NNN | [National Retail Properties Inc](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX&LanguageId=da-DK&SecurityToken=0P000001DX]3]0]E0WWE$$ALL)       | 3,72%     |
 
-De er alle tre en del af min Growth Portfolio, som du kan se på [Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933). Der er imidlertid også mange andre REIT, som er fornuftige investeringer, og hvis du vælger at gå ind i de enkelte selskaber, så lav et grundigt bagrundstjek. Du kan også lade dig inspirere af [10 REITs with fastests growing payouts](https://seekingalpha.com/amp/article/4264399-10-reits-fastest-growing-payouts)
+De er alle tre en del af min Growth Portfolio. Der er imidlertid også mange andre REIT, som er fornuftige investeringer, og hvis du vælger at gå ind i de enkelte selskaber, så lav et grundigt bagrundstjek. Du kan også lade dig inspirere af [10 REITs with fastests growing payouts](https://seekingalpha.com/amp/article/4264399-10-reits-fastest-growing-payouts)
 
 Jeg har handlet REITs manuelt på [Nordnet](/go/nordnet/). De er alle i US$, så jeg har aktiveret en valutakonto, og forsøger at huske at veksle samme dag, så jeg får den lavest mulige vekselgebyr. Jeg køber i relativt store portioner for at få de lavest mulige omkostninger. På kort sigt er ulempen, hvis jeg får købt en af værdipapirerne lige før de falder lidt så får jeg røde tal uden at have ekstra midler til at købe lidt ekstra og udnytte **dollar costt averaging**-princippet.
 
@@ -43,7 +43,7 @@ Af investeringsdforeninger i Danmark er jeg kun stødt ind i en, men jeg synes d
 
 ## EFT'er
 
-Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på [månedsopsparing hos Nordnet]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}). Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
+Du kan finde en række ETF'er som følger ejendomsmarkedet. Alle fondene kommer i flere forskellige varianter. Jeg har udvalgt de varianter, jeg ville købe. Desværre er der ikke nogen af dem, der kan købes på [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/). Selvom jeg har valgt direkte at købe mig direkte ind i en REIT, så kunne jeg sagtens se mig selv begynde at købe lidt mere op i ETF'er i stedet. Jeg kom fx lidt skævt ind i den ene REIT, og sslevom jeg investerer langsigtet, så er det alligevel træls at se den gå i minus ret hurtigt, fordi man lige fik købt på en top.
 
 | Tick | Værdipapir                                                                                                                                   | ÅOP   | Morningstar rating                       | Bæredygtighed                            |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|

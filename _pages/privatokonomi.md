@@ -72,7 +72,7 @@ Det kan altså være interessant at kigge på de følgende spørgsmål:
 - hvilken rente kan du få på din opsparing?
 - [børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %})
 - aldersopsparing
-- [månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %})
+- [månedsopsparing](/nordnet-maanedsopsparing-problemer/)
 
 Du kan tjekke vores [opsparingsberegner](/opsparingsberegner/) for at se, hvad du kan spare op over tid.
 

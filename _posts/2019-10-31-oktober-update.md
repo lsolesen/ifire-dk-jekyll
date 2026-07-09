@@ -43,7 +43,7 @@ I sidste måned legede jeg lidt med min [Rentes Rente-beregner](/renters-rente/)
 
 {% include figure image_path="/assets/images/status/crowdlending-october-2019.png" caption="Crowdlending uden ejedomsinvesteringer" %}
 
-I forhold til **investeringer i værdipapirer**, så er det ret interessant, at Vanguards europæiske ETF'er har sænket sine omkostninger. Derfor har jeg opdateret artiklen om [Simple Path to Wealth](/investering-vol7/). Jeg har ikke lavet noget om i mine egne investeringer, fordi jeg først og fremmest bruger [Nordnets månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
+I forhold til **investeringer i værdipapirer**, så er det ret interessant, at Vanguards europæiske ETF'er har sænket sine omkostninger. Derfor har jeg opdateret artiklen om [Simple Path to Wealth](/investering-vol7/). Jeg har ikke lavet noget om i mine egne investeringer, fordi jeg først og fremmest bruger [Nordnets månedsopsparing](/nordnet-maanedsopsparing-problemer/).
 
 Endelig har jeg ryddet lidt op i mine kryptovaluta-investeringer. Jeg brugte tidligere en del tid på at [undersøge](/bitcoins/), hvordan jeg skulle lave en [portefølje med kryptovaluta](/krypto-portfolio/). Nu er det ved at være tid til at gøre det hele lidt enklere igen.
 

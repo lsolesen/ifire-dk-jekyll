@@ -29,7 +29,7 @@ country: Sverige
 
 {{ page.excerpt }}
 
-Jeg investerede første gang i den svenske crowdlending-platform Trine i februar 2019. Jeg blev oprindeligt interesseret i platformen, fordi jeg gerne ville eksperimentere med [bæredygtig og grøn investering]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}). Trine formidler crowdlending-lån til konkrete solcelle- og cleantech-projekter i udviklingslande, primært i Afrika.
+Jeg investerede første gang i den svenske crowdlending-platform Trine i februar 2019. Jeg blev oprindeligt interesseret i platformen, fordi jeg gerne ville eksperimentere med [bæredygtig og grøn investering](/investering-vol3/). Trine formidler crowdlending-lån til konkrete solcelle- og cleantech-projekter i udviklingslande, primært i Afrika.
 
 Sørg for også at [læse hele min store, dybdegående anmeldelse af Trine her](/trine-anmeldelse/).
 

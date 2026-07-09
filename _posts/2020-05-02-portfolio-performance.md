@@ -61,7 +61,7 @@ I øverste højre hjørne over `All Securities` kan du klikke på **+**-tegnet. 
 
 Hvis du kun bruger en bank eller børsmægler, så kan du typisk få et godt overblik over dine investeringer på platformen.
 
-Jeg bruger imidlertid [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til [min aktiesparekonto]({% link _posts/2021-07-04-aktiesparekonto.md %}), men det kan være lidt vanskeligt at få et komplet overblik.
+Jeg bruger imidlertid [Nordnet](/go/nordnet/) til mine frie midler og [SaxoInvestor](/go/saxoinvestor/) til [min aktiesparekonto](/aktiesparekonto/), men det kan være lidt vanskeligt at få et komplet overblik.
 
 Derfor har jeg ledt efter et sted, hvor jeg kunne få et samlet overblik over mine investeringer. Det har jeg fundet i Portfolio Performance, selvom det kræver en del manuelt arbejde at opdatere tallene.
 

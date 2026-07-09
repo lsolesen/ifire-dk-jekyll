@@ -203,7 +203,7 @@ Jeg har fundet det billigste transaktionsgebyr ved at handle direkte på [Coinif
 
 På Coinify er der ikke mange valutaer at vælge mellem, men der kan jeg købe Bitcoins (BTC), Ethereum (ETH) og Stellar Lumens (XLM) som alle er en del af min valgte krypto-portefølje. Desuden kan jeg købe Bitcoin SV (BSV) og Bitcoin Cash (BCH). Derfor køber jeg en af de kryptovalutaer på Coinify.dk, og så køber bruger jeg dem på [Binance](/go/binance/){: rel='sponsored nofollow noopener' }, som har et meget større udbud af kryptovalutaer og i øjeblikket er verdens største kryptobørs. Derved er transaktionsgebyret slet ikke så stort.
 
-Jeg er endt med primært at bruge Coinbase og Kraken til at købe mønter på. Coinbase har lidt høje gebyrer. Til gengæld kan du sætte en månedsopsparing op i kryptovaluta, som næsten minder om [Nordnets månedsopsparing i aktiefonde]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}).
+Jeg er endt med primært at bruge Coinbase og Kraken til at købe mønter på. Coinbase har lidt høje gebyrer. Til gengæld kan du sætte en månedsopsparing op i kryptovaluta, som næsten minder om [Nordnets månedsopsparing i aktiefonde](/nordnet-maanedsopsparing-problemer/).
 
 [Køb Bitcoins på Coinbase og få op til 66DKK bitcoins](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 

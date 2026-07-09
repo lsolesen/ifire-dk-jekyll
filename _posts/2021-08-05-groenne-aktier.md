@@ -18,7 +18,7 @@ last_modified_at: 2021-08-02T10:22:02+02:00
 
 Der er stort fokus på bæredygtighed og mange er interesserede i bæredygtige aktier. Jeg har derfor samlet en liste over grønne aktier, som du kan overveje til din portefølje, hvis du gerne vil købe enkeltaktier.
 
-Hvis du ikke selv vil undersøge alle selskaberne, så kan du også købe en [bæredygtig investeringsforening, fond eller ETF]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}). Husk at du ved enkeltaktier altid skal undersøge det enkelte selskab grundigt, inden du trykker på køb-knappen.
+Hvis du ikke selv vil undersøge alle selskaberne, så kan du også købe en [bæredygtig investeringsforening, fond eller ETF](/investering-vol3/). Husk at du ved enkeltaktier altid skal undersøge det enkelte selskab grundigt, inden du trykker på køb-knappen.
 
 Når man snakker om grønne, bæredygtige aktier, så er der en lang række områder, som har betydning. Virksomhederne kan have fokus på vindenergi, solenergi, vandkraft, affaldshåndtering, transport, økologi, kernekraft og rigtig megt andet.
 

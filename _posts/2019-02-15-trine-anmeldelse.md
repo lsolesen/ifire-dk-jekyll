@@ -114,7 +114,7 @@ Medarbejderne i Trine svarer hurtigt på spørgsmål på e-mails, men der er en 
 
 ## En mere bæredygtig portefølje?
 
-Trine er altså en måde, hvor du gennem crowdlending også kan gøre dine [samlede investeringer mere bæredygtige]({% link _posts/2019-04-06-hvordan-investering-baeredygtigt-vol3.md %}). Jeg fortsætter helt sikker med stadig at være på Trine. Det kunne dog være rigtig godt med en _auto invest_, så jeg ikke løbende skal ind og holde øje med platformen.
+Trine er altså en måde, hvor du gennem crowdlending også kan gøre dine [samlede investeringer mere bæredygtige](/investering-vol3/). Jeg fortsætter helt sikker med stadig at være på Trine. Det kunne dog være rigtig godt med en _auto invest_, så jeg ikke løbende skal ind og holde øje med platformen.
 
 ## Tænk dig om
 

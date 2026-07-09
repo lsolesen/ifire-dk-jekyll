@@ -30,7 +30,7 @@ Det første jeg gik i gang med var at regne efter, hvad de årlige omkostninger 
 
 Jeg har sendt udregningerne til banken og overvejer lige nu, hvordan jeg kommer videre med min investering i aktier og obligationer. Den endelige beslutning tager jeg, når de har givet deres besyv med.
 
-Jeg har sendt lidt prøveballoner op ift. Darwin og NORD.investments, som er automatiske investeringsrobotter. Desuden er jeg i øjeblikket meget interesseret i Nordnet - og deres [månedsopsparing]({% link _posts/2019-04-05-nordnet-maanedsopsparing-problemer.md %}), som har meget lave omkostninger, men stadig kan fungere som investeringer mere eller mindre på _auto-pilot_.
+Jeg har sendt lidt prøveballoner op ift. Darwin og NORD.investments, som er automatiske investeringsrobotter. Desuden er jeg i øjeblikket meget interesseret i Nordnet - og deres [månedsopsparing](/nordnet-maanedsopsparing-problemer/), som har meget lave omkostninger, men stadig kan fungere som investeringer mere eller mindre på _auto-pilot_.
 
 Jeg har således sat et meget lille beløb ind på Darwin App, som samarbejder med min bank, bare for at se, hvordan det fungerer.
 

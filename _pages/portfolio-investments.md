@@ -1,127 +1,151 @@
 ---
 layout: single
-created_at: '2019-05-14T10:00:00+08:00'
-last_modified_at: '2020-05-15T10:00:00+08:00'
-title: Investeringsportefølje
+title: &title "Min investeringsportefølje: Mit komplette aktiesetup og strategien bag"
+seo_title: "Min investeringsportefølje • Gennemgang af mit setup »"
+excerpt: "En fuldstændig, hudløst ærlig gennemgang af min formuestruktur. Se hvilke indeksfonde og ETF'er jeg ejer, og hør de skattemæssige årsager til mine valg."
 permalink: /investeringer/
-excerpt: "Her kan du se min samlede portefølje i aktier og obligationer"
 author_profile: true
 toc: true
 toc_sticky: true
 tags:
   - overblik
 header:
-  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Stephen Dawson on Unsplash
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: "Jeg bruger selv [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing-problemer/) og aldersopsparingen."
+    excerpt: "Jeg bruger primært [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til mine frie midler via Månedsopsparingen, min Aktiesparekonto og min Aldersopsparing."
   - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: "Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til min [aktiesparekonto](/aktiesparekonto/) og handel uden minimumskurtage."
-  - image_path: /assets/images/logo/etoro.png
-    excerpt: "Desuden har jeg testet [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } til kurtagefri handel med bl.a. Vanguards ETF'er og copytrading."
+    excerpt: "Jeg supplerer med [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til de depoter, hvor kurtagestrukturen uden minimumskurtage giver mig den bedste fleksibilitet."
 ---
 
-*[PAL]: Pensionsafkast lagerbeskatning
+{{ page.excerpt }}
 
-## Penge investeret i aktier og obligationer
+**Vær opmærksom på, at jeg ikke opfordrer dig til at investere på samme måde som mij. Jeg viser dig bare, hvordan jeg gør. Hvad du gør med den viden, må du selv om. Dine penge er dit ansvar.**
 
-Totale værdi falder kraftigt i marts 2019, da jeg sælger min SparNord StjerneInvest Fri for i stedet at gå kontant, inden jeg opbygger mine nye porteføljer.
+Efter mange år på aktiemarkedet har jeg for nylig trukket en streg i sandet og gennemført den helt store hovedrengøring i min økonomi. Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
 
-{% include figure image_path="/assets/images/status/investeringer.jpg" caption="Investeret i værdipapirer - aktier og obligationer" %}
+Nu er alt skåret ind til benet. Min filosofi er simpel: **Minimer omkostningerne (ÅOP), maksimer renters rente, og lad skattesystemet arbejde for mig i stedet for imod mig.** Jeg ejer ingen mursten og har hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed – og total nattero.
 
-## Fordeling på porteføljer
+Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/)**.
 
-{% include figure image_path="/assets/images/status/investeringer-allokering.jpg" caption="Allokering på de enkelte investeringsporteføljer" %}
+På denne side kigger vi udelukkende på det konkrete, nuværende setup og de strategiske overvejelser bag hvert enkelt valg.
 
-### Nordnet Danske Passive Investeringsforeninger - realisationsbeskattet
+---
 
-Jeg har lavet en portefølje baseret på danske udbyttebetalende investeringsforeninger - og lige nu har jeg primært valgt SparInvest. Hvert år betales der skat af udbytterne i foreningerne, som beskattes som aktieindkomst. Aktieindkomst under 55.300 DKK (2020) beskattes med 27%, mens alt derover beskattes med 42%.
+## Min risikoprofil: 100 % aktier til den lange bane
 
-Som ægtefælle kan man bruge hinandens bundgrænse, og så bliver grænsen større. Hvis jeg forudsætter at SparInvest udbetaler mindst 2-3% i udbytte årligt, så skal jeg altså på denne konto have mere end 2+ millioner investeret for at komme over bundgrænsen for aktieindkomstbeskatning.
+Min risikoprofil er i den høje ende. Da jeg er langsigtet investor med en tidshorisont på minimum 15-20 år før udbetalingerne for alvor starter, har jeg truffet et bevidst valg om at gå **100 % i aktier** på mine store depoter. 
 
-<iframe src="https://www.shareville.se/widget/portfolio/343009/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+Jeg har valgt at droppe traditionelle obligationer som risikodæmper i mine investeringsdepoter. De obligationer, der er tilgængelige i diverse blandede fonde, er i min optik for dyre i gebyrer og æder for meget af det langsigtede afkastpotentiale. Den nødvendige risikostyring og stabilitet henter jeg ikke i depotet, men derimod i min kontante nødopsparing, som jeg forklarer i bunden af siden.
 
-<iframe src="https://www.shareville.se/widget/portfolio/343009/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+Hvor det overhovedet er muligt, bygger min strategi udelukkende på **passive indeksfonde og ETF'er**. Det er ekstremt usandsynligt, at jeg skulle være i stand til at håndplukke de rigtige enkeltaktier over en 20-årig periode, så den øvelse holder jeg mig langt fra. Jeg vil have markedsafkastet, og det skal være så billigt som muligt.
 
-[Se portefølje #1 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/343009){: .btn .btn--large .btn--success }
+---
 
-### Nordnet Passive Index Growth Portfolio - lagerbeskattet
+## 1. Frie midler: Rygraden i min frihed (Nordnet)
 
-Jeg har lavet en portefølje, hvor jeg køber udenlandske ETF'er. Udenlandske ETF'er beskattes efter lagerbeskatningsprincippet. Det er lidt forskelligt om ETF'erne beskattes som aktieindkomst eller kapitalindkomst.
+Da jeg bor i lejebolig, udgør mine frie midler størstedelen af min formue. Dette er min absolutte frihedsmotor. Hvis jeg beslutter mig for at gå på pension før tid, er det disse penge, jeg skal leve af i årene, indtil mine officielle pensionsmidler må udbetales.
 
-Min overordnede strategi for denne portefølje er at have ligelig fordeling af de følgende aktivklasser:
+* **Mit fondsvalg:** Sparinvest INDEX Globale Aktier KL
+* **Beskatning:** Realisationsprincippet (27 % / 42 % aktieskat)
 
-- 25% Aktier
-- 25% Obligationer og kontanter
-- 25% REIT
-- 25% Guld
+### Hvorfor denne fond?
+Når man investerer i frie midler i Danmark, er skattestrukturen altavgørende. Jeg er **overhovedet ikke interesseret i lagerbeskatning i mine frie midler**, hvis jeg kan slippe. Dels forringer lagerbeskatningen renters rente-effekten over tid, og dels hænger den utrolig dårligt sammen med min drøm om tidlig pension. Hvis jeg i perioder ikke har en stor arbejdsindtægt, men ejer en lagerbeskattet portefølje, risikerer jeg at skulle tvangssælge ud af mine aktier blot for at få råd til at betale skatteregningen af urealiserede gevinster. Det er noget rod.
 
-Jeg køber aktier og obligationer via månedsopsparingen efter _dollar cost averaging_-princippet, men hvis _fear & greed_-indekset er lavt, laver jeg måske en _lump sum_-investering. Jeg er ved at forsøge at finde ud af, hvornår det reelt kan betale sig ift. lagerbekatningsprincippet, da jeg forventer at denne portefølje skal holdes på lang sigt.
+Sparinvest-fonden er udbyttebetalende og sikrer, at jeg kun beskastes af selve kursgevinsterne den dag, jeg reelt sælger. Den dækker hele verden (både udviklede markeder, emerging markets og small cap) i ét enkelt værdipapir, hvilket gør administrationen minimal.
+* **Dyk dybere ned i strategien:** [Investering i aktier og værdipapirer: Den komplette begynderguide](/investering-aktier/)
 
-Jeg vil forsøge at rebalancere en gang om året med en handel, der bringer mig tættere på fordelingen mellem aktivklasserne. Det er relativt bekosteligt på Nordnet at handle udenlandske aktier (mindst 12 EUR i kurtage), men månedsopsparingen er smart.
+### Alternativerne jeg valgte fra:
+* **Storebrand Indeks - Alle Markeder:** En fantastisk og billig fond (ÅOP 0,30 %), som faktisk er realisationsbeskattet på trods af, at den er akkumulerende. Men den har den store hage, at beskatningen er teknisk besynderlig; du skal betale skatten af de akkumulerede gevinster over årsopgørelsen, uden at fonden udbetaler pengene til dig. Det kræver, at du skal finde likviditeten andetsteds fra hvert år. Det passer dårligt til mit temperament, og derfor har jeg valgt den fra i min store portefølje. *(Jeg bruger dog en lille satellit i Storebrand til børnenes efterskoleopsparing, hvor pengene alligevel skal låses og hæves løbende ad rater).*
+* **Danske Invest Global Indeks:** En fremragende og billig fond, men den dækker udelukkende udviklede markeder (Developed Markets). Det trade-off er jeg ikke interesseret i; jeg vil have emerging markets med i min kerneformue for at fange hele verdensmarkedet.
 
-<iframe src="https://www.shareville.se/widget/portfolio/349933/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+---
 
-<iframe src="https://www.shareville.se/widget/portfolio/349933/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+## 2. Aktiesparekontoen: Min skatteoptimerede aktiemotor
 
-[Se portefølje #2 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/349933){: .btn .btn--large .btn--success}
+Inden jeg skyder alle mine frie midler ind på det realisationsbeskattede depot, udnytter jeg naturligvis **Aktiesparekontoen (ASK)**. Investeringsloftet udnyttes fuldt ud for at få mest muligt ud af særreglerne.
 
-### Nordnet Efterskolefond
+* **Mit fondsvalg:** iShares Core MSCI World UCITS ETF
+* **Beskatning:** Lagerbeskatning (17 % flad skat)
 
-Jeg har lavet en portefølje med det formål at spare op til mine døtres eventuelle efterskoleophold. Jeg er meget fleksibel med, hvornår pengene skal udbetales, da jeg har tre piger, så deres ophold har en tidshorisont der spænder fra 6-10 år inden pengene skal bruges.
+### Hvorfor denne struktur?
+Den flade lagerskat på 17 % er markant lavere end de normale 27 % til 42 %, du betaler i almindelig aktieskat. Da en Aktiesparekonto under alle omstændigheder er tvunget i lagerbeskatning af staten, giver det perfekt mening at droppe de dyrere danske investeringsforeninger herinde. I stedet fylder jeg kontoen til loftet med en superbillig, udenlandsk, akkumulerende ETF med en ultralav ÅOP på kun 0,20 %. Den passer fuldstændig sig selv.
+* **Dyk dybere ned i strategien:** [Komplet guide til aktiesparekontoen](/aktiesparekonto/)
+* **Banken eller Nordnet?** Læs mine specifikke overvejelser om, hvor det bedst kan betale sig at have kontoen stående: [Aktiesparekonto i banken eller hos Nordnet? Det kolde regnestykke](/aktiesparekonto-bank-vs-nordnet/).
 
-### Saxo Bank Aktiesparekonto - Lagerbeskattet
+---
 
-Man kan indsætte op til 51.100 DKK på kontoen. Skatten er på 17% og opgøres ved årets udgang efter lagerbeskatningsprincippet.
+## 3. Firmapension: Den rå indeksløsning (Velliv)
 
-I øjeblikket benytter jeg aktiesparekontoen til at eksperimentere lidt med forskellige aktier, jeg finder interessante, fordi der ikke er minimumskurtage hos Saxo Bank. Jeg har skrevet lidt mere om, [hvad en aktiesparekonto er her]({% link _posts/2021-07-04-aktiesparekonto.md %}).
+Min store erhvervspension ligger hos Velliv under et *LinkPension (Selvvalg)*-produkt. Tidligere foreslog pensionsselskabet deres standardiserede "Høj Risiko"-pakker, som ofte indeholder unødvendige obligationer og aktive fonde med en højere ÅOP.
 
-### Etoro Kurtagefri handel og Copytrading
+Da jeg selv vil have kontrollen og barbere omkostningerne i bund, har jeg valgt to fonde til at dække verdensmarkedet:
 
-Jeg har købt nogle af de store passive ETF'er fra Vanguard og lidt copytrading på [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } for at afprøve platformen, hvor man kan handle kurtagefrit.
+| Fond | Indeks / Dækning | Andel | ÅOP |
+| :--- | :--- | :--- | :--- |
+| **Velliv Globale Aktier Index** (State Street) | MSCI World (Udviklede lande, Large + Mid Cap) | **88 %** | 0,27 % |
+| **Velliv Emerging Markets Index Aktier** | MSCI Emerging Markets (Udviklingslande) | **12 %** | 0,43 % |
 
-[Kurtagefri handel på Etoro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
+### Hvorfor denne opdeling?
+* **Hvorfor 88/12?** Den globale fond fra State Street dækker kun den vestlige, udviklede verden. Ved at tilføje præcis 12 % emerging markets rammer jeg den reelle, globale markedsværdi (et fuldt ACWI-indeks) baseret på selskabernes faktiske størrelse. Jeg vægter efter objektive markedsdata frem for at gætte på et rundt tal.
+* **Hvorfor mangler der Small Cap?** Velliv tilbyder desværre ikke en selvstændig small cap-indeksfond i deres LinkPension-selvvalg. Den findes kun pakket ind i deres færdige livscyklusprodukter, hvor jeg mister kontrollen og tvinges over i en højere ÅOP. Jeg fravælger derfor bevidst small cap herinde for at bevare de ultralave omkostninger, og accepterer, at jeg dermed dækker ca. 96-97 % af verdensmarkedet.
+* **Skat:** Alle pensioner i Danmark afregnes efter det faste **pensionsprincip (PAL-skat) på 15,3 %**.
 
-### Nordnet Aldersopsparing - PAL og lagerbeskattet
+---
 
-I 2020 må man indbetale 5.300 DKK på aldersopsparingen. Af det beløb betaler man PAL-skat, som lige nu er 15,3% efter lagerprincippet. Der skal ikke betales afgift, når aldersopsparingen udbetales ved pensionsalderen. Pensionsudbetalingsalderen er 3 år før folkepensionsalderen.
+## 4. Aldersopsparing & Kapitalpension: Min guld-satellit (Nordnet)
 
-Jeg har valgt at bruge Nordnets indeksfonde, som har 0% i kurtage og 0% i årlige omkostninger. Ulempen ved Nordnets fonde er at de kun rammer Danmark, Sverige, Finland og Norge. Jeg overvejer om jeg skal købe en prisbillig akkumulerende ETF, der dækker et verdensindeks i stedet.
+Jeg har en mindre kapitalpension (en ældre ordning, der er lukket for nyindskud) samt min årlige aldersopsparing liggende hos Nordnet.
 
-<iframe src="https://www.shareville.se/widget/portfolio/404863/yield?period=365" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+* **Primære aktiver:** Globale indeks-ETF'er + en lille satellit i **Xetra-Gold**
+* **Beskatning:** PAL-skat på 15,3 % (lagerprincip)
 
-<iframe src="https://www.shareville.se/widget/portfolio/404863/positions" height="400" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+### Hvorfor guld netop her?
+Jeg har valgt at bevare en meget lille flig af min tidligere guld-strategi, men jeg har flyttet den **eksklusivt ind i mit pensionsmiljø**. Hvis du køber fysisk bakkede guld-fonde (ETC'er) i frie midler, bliver du straffet benhårdt; de lagerbeskattes som kapitalindkomst, hvilket ødelægger din skatteprocent. Men da pensionsdepotet kører i sit eget lukkede skattemiljø under den milde PAL-skat på 15,3 %, er det det eneste sted, hvor lagerbeskatning på råvarer er til at holde ud. Her fungerer det som en fin, isoleret forsikring.
+* **Dyk dybere ned i strategien:** [Min begynderguide og erfaringer med alternativ allokering og guld](/guld/)
 
-[Se portefølje #3 på Shareville](https://shareville.dk/profiles/lsolesen/portfolios/404863){: .btn .btn--large .btn--success }
+---
 
-### SparNord Kapitalpension - PAL og lagerbeskattet
+## Min Kontante Buffer (Nødopsparing)
 
-Man kan ikke længere indebetale penge på en kapitalpension. Der betales pensionafkastskat (PAL) på 15,3%, som trækkes efter lagerprincippet. Når pengene udbetales betales 40% af pensionsværdien. Pensionsudbetalingsalderen er 5 år før folkepensionsalderen for kapitalpensionen.
+Når man har en formue i frie midler, kan det være fristende at have store beløb stående på en kontant opsparingskonto. Tidligere havde jeg 200.000 kr. stående som kontanter hos Nordnet, hvilket i bakspejlet var alt for meget inaktiv kapital. 
 
-Jeg har en akkumulerende dansk investeringsforening der dækker MSCI World (udviklede lande).
+Da jeg bor i lejebolig og har en minimal akut boligrisiko, har jeg reduceret min kontante nødopsparing til **ca. 2-3 måneders faste udgifter (ca. 50.000 kr.)**. De står på min almindelige bankkonto, så de er øjeblikkeligt tilgængelige via mit Dankort.
 
-## Porteføljens performance
+* **Intet strategisk cash drag:** Statistisk set taber man for meget afkast ved at lade store kontantbeløb stå og vente på et markedsfald. Min automatiske Månedsopsparing og de løbende indbetalinger til Velliv fanger markedsfaldene helt automatisk over tid via *Dollar-Cost Averaging*. Du kan læse mere om den videnskabelige empiri bag denne tilgang i min guide: **[Hvordan kommer jeg ind i aktiemarkedet og hvorfor market timing fejler?](/hvornaar-ind-i-markedet/)**.
 
-{% include figure image_path="/assets/images/status/investering-performance.jpg" caption="Performance sammenlignet med verdensindekset. Indtil marts 2019 var det banken, der stod for investeringerne." %}
+---
 
-[Få gratis porteføljeforslag på Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+## De platforme og værktøjer, jeg bruger
 
-## Deals
+For at holde omkostningerne nede og automatiseringen i top, benytter jeg primært to danske platforme til mine frie midler og private pensioner:
 
-{% assign everything = "" %}
-{% assign investments = site.platforms | where: "tags", "investering" | where_exp: "item", "item.deal != ''" %}
-{% for d in investments %}
-  {% if everything.size > 0 %}
-    {% assign everything = d.deal | concat: everything %}
-  {% else %}
-    {% assign everything = d.deal %}
-  {% endif %}
-{% endfor %}
-{% include feature_row array=everything type="left" %}
+{% include feature_row id="feature_row_own" type="left" %}
 
-## Mine platforme
+---
 
-{% include feature_row id="feature_row_own" type="center" %}
+## Læs mine dybdegående guides om aktieinvestering
+
+Hvis du selv vil i gang med at opbygge en simpel og solid aktieportefølje, kan du dykke ned i mine mest populære guides her:
+
+* **[Investering i aktier og værdipapirer: Den komplette begynderguide](/investering-aktier/)**
+* **[Investering til børn: Den ultimative forældreguide til frikort, ASK og Nordnet](/investering-til-boern-guide/)**
+* **[Nordnets Månedsopsparing: Sådan automatiserer du din formue](/nordnet-maanedsopsparing-problemer/)**
+
+---
+
+## Indlæg om aktier, obligationer og værdipapirer
+
+Herunder finder du mit fulde historiske arkiv over markedsbetragtninger, portefølje-updates og strategiske overvejelser om aktiemarkedet gennem årene.
+
+<div class="feature__wrapper">
+{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "værdipapirer" | sort: "last_modified_at" | reverse %}
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+</div>
 
 {% include disclaimer.md %}

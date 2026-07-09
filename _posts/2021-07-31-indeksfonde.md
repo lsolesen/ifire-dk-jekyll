@@ -1,174 +1,132 @@
 ---
-title: &title "Indeksfonde - Komplet guide til index investering"
-seo_title: "Indexfonde 2023 - Komplet guide til index investering"
+title: "Indeksfonde: Komplet guide til index investering (2026)"
+seo_title: "Indexfonde 2026 - Komplet guide til index investering"
 permalink: /indeksfonde/
 header:
   overlay_image: https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
-  caption: *title
+  caption: "Indeksfonde - Komplet guide til index investering"
 category:
   - Investering
 tags:
   - værdipapirer
   - indeksfonde
   - passiv investering
-excerpt: "Index investering er en god måde at gøre investering nemt. Hvis du vælger at investere i indexfonde, så kan du investere med et fornuftigt afkast samtidig med at du reducerer risikoen."
+excerpt: "Index investering er en god måde at gøre investering nemt. Hvis du vælger at investere i indexfonde, kan du opnå et fornuftigt markedsafkast med lav risiko og minimale omkostninger."
 toc: true
-last_modified_at: 2021-07-24T10:22:02+02:00Z
+last_modified_at: 2026-07-04T12:15:00+02:00
 ---
 
 Index investering er en god måde at gøre investering nemt. Hvis du vælger at investere i indexfonde, så kan du investere med et fornuftigt afkast samtidig med at du reducerer risikoen.
 
-En indeksfond er en type af investeringsforeninger, der følger et aktieindeks. Der findes mange forskellige indekser. Jeg er selv mest interesseret i [verdensindekset](/investering-vol9/), men du kan også investere i det danske C25-indeks eller det amerikanske aktieindeks, S&P500. Indeksfondens målsætning er at afspejle udviklingen i de pågældende indeks.
+En indeksfond er en type af investeringsforeninger, der følger et specifikt aktieindeks. Der findes many forskellige indekser. Jeg er selv mest interesseret i det brede verdensindeks, men du kan også investere i det danske C25-indeks eller det toneangivende amerikanske aktieindeks, S&P 500. Indeksfondens målsætning er slet og ret at afspejle udviklingen i det pågældende indeks.
 
 I denne guide får du svar på følgende spørgsmål:
 
 - Hvad er en indexfond?
-- Hvorfor er de passive?
-- Hvordan investerer du i passive indeksfonde?
+- Hvorfor slår passiv investering næsten altid aktiv forvaltning?
+- Hvilke skatteregler skal du kende i 2026?
+- Hvordan kommer du nemt og billigt i gang?
+
+---
 
 ## Hvad er en indeksfond?
 
-En indeksfond er en investeringsforening, der forsøger at afspejle udviklingen i et aktieindeks. Investeringsforeningen skal altså _bare_ handle, så afkastet i foreningen afspejler indekset.
+En indeksfond er en investeringsforening (eller en ETF), der forsøger at afspejle udviklingen i et eksisterende aktieindeks. Investeringsforeningen skal altså _bare_ handle mekanisk, så afkastet i foreningen følger indekset så præcist som muligt.
 
-Der findes mange forskellige indekser, så du skal huske at sætte dig ind i, hvilket indeks du gerne vil følge.
+Der findes mange forskellige indekser på markedet, så du skal huske at sætte dig ind i, hvilket indeks du gerne vil følge, inden du køber.
 
 ## Aktiv eller passiv investering
 
-Indeksfonde bliver ofte brugt, når man gerne vil investere ved bare at følge markedet. Det kalder man også passiv investering.
+Indeksfonde bliver ofte brugt, når man gerne vil investere ved bare at følge markedet. Det kalder man også passiv investering. I bankerne vil du dog ofte blive tilbudt at investere i investeringsforeninger, der forvalter deres portefølje *aktivt*. Det gør de, fordi de håber på, at de professionelle porteføljemanagere kan håndplukke de bedste aktier og derved skabe et bedre afkast end markedet.
 
-Jeg har skrevet mere om [passiv investering]({% link _posts/2021-07-31-passiv-investering.md %}) eller [den evige diskussion om aktiv vs. passiv investering](/passiv-investering-slaar-aktiv/).
+Udfordringen er, at der i de aktive foreninger sidder dyre eksperter, som konstant køber og sælger. Det betyder, at omkostningerne (ÅOP) i de aktive foreninger er tårnhøje – det er ikke usædvanligt at finde årlige omkostninger på helt op til 1,5 % til 2,5 %.
 
-I bankerne vil du også blive tilbudt at investere i en investeringsforening. Mange af bankernes investeringsforeninger forvalter deres portefølje aktivt. Det gør de, fordi de håber på, at foreningen kan skabe et bedre afkast end markedet og det givne indeks.
+I de passive indeksfonde kan du derimod finde markant lavere årlige omkostninger, ofte helt ned til mellem 0,07 % og 0,50 %.
 
-I de aktive foreninger sidder der professionelle investorer og køber og handler. Det betyder, at omkostningerne i de aktive foreninger kan være ret høje. Du kan sagtens finde årlige omkostninger på helt op til 2-3% i de aktive foreninger.
+Historikken og adskillige undersøgelser viser, at passiv investering i langt de fleste tilfælde slår den aktive investering på den lange bane. En af hovedårsagerne er netop omkostningerne. Hvis en aktiv fond koster 2 % i ÅOP, skal den præstere hele 1,5 % *bedre* end markedsgennemsnittet hvert eneste år, bare for at give dig det samme afkast som en passiv fond til 0,5 % i ÅOP. Det er der de færreste managere, der formår over en 10-20 årig periode.
 
-Men faktisk kan [passiv investering]({% link _posts/2021-07-31-passiv-investering.md %}) i langt de fleste tilfælde over tid slå den aktive investering. En af grundene er at omkostninger over tid hurtigt kommer til at spise en del af afkastet. Og hvis de årlige omkostninger er så høje, så skal de jo præstere væsentligt over markedsgennemsnittet.
+Du skal også være opmærksom på, at traditionelle banker ofte tjener formidlingsprovision på de aktive investeringer, de anbefaler dig. Det er med til at holde omkostningerne oppe, og det betyder desværre, at bankerne ikke altid er helt objektive i deres rådgivning.
 
-De passive indeksfonde kan du finde meget meget lavere årlige omkostninger.
+### Hvad er tracking error?
+Indeksinvestering fungerer ved, at foreningen køber bredt op i indekset, så fonden har nægtes samme vægtning som det overordnede indeks. Teoretisk set betyder det, at hvis indekset falder 3 %, falder din fond også omkring 3 %, og det samme gør sig gældende ved stigninger.
 
-Du skal også være opmærksom på, at bankerne ofte tjener penge på de investeringer, de anbefaler. Det er med til at holde omkostningerne oppe, men gør også at bankerne ikke er helt objektive i deres anbefalinger.
+Det er dog ikke altid muligt at følge indekset 100 % præcist på decimalen på grund af handelsomkostninger og løbende rebalancering. Derfor vurderer man, hvor god en indeksfond er, ud fra dens såkaldte *tracking error* (hvor meget den afviger fra indeksets reelle kurs).
 
-Indeksinvestering fungerer på den måde, at foreningen køber bredt op i indekset. De køber lidt af mange af selskaberne, så de har nogenlunde samme vægtning, som de har i det overordnede indeks. Teoretisk set så bør det betyde, at når indekset falder 3%, så vil værdien af foreningen også falde med omkring 3% og det samme når indekset stiger.
+{% include figure image_path="/assets/images/posts/indeksfond-udvikling.png" caption="Den populære 'Sparindex INDEX Globale Aktier KL' dækker verdensindekset. Kursen på indexfonden bevæger sig synkront med verdensmarkedet." alt="indeksfonde udvikling" %}
 
-Det er naturligvis ikke altid muligt at følge indekset helt præcist med mindre de køber hver eneste aktie i indekset. Derfor vurderer man hvor god en indeksfond er på dens _tracking error_. Du kan læse mere om, hvordan man [finder de bedste investeringsforeninger]({% link _posts/2020-03-19-hvilken-fond.md %}).
+Med en indeksfond opnår du altså markedets gennemsnitlige afkast. Det bredeste indeks er verdensindekset, som f.eks. MSCI ACWI eller MSCI ACWI IMI. Du kan også købe en C25-indeksfond eller et indeks med de 500 største amerikanske aktier i S&P 500, som er det indeks, Warren Buffett historisk har anbefalet private investorer at følge.
 
-{% include figure image_path="/assets/images/posts/indeksfond-udvikling.png" caption="Den populære 'Sparindex INDEX Globale Aktier KL (SPVIGAKL)' dækker verdensindekset. Kursen på indexfonden bevæger sig med verdensmarkedet." %}
-
-Med en indeksfond opnår du altså markedets afkast. Det bredeste er verdensindekset, som kaldes 'MSCI ACWI IMI'. Du kan også eje en C25-indeksfon eller et indeks med de 500 største amerikanske aktier i S&P500, som er det [indeks Warren Buffet anbefaler private investorer at følge]({% link _posts/2020-03-07-warren-buffett-anbefalder-indeksfond.md %}). Du kan finde en fond med S&P500, som er virkelig billig i årlige omkostninger, mens verdensindekset typisk koster en lille smule mere.
+---
 
 ## Hvorfor skal jeg lave index investering?
 
-Der er to grunde til at index investering vinder frem. For det første er det virkelig enkelt. Du skal bare købe en passivt forvaltet fond, der afspejler det indeks du gerne vil følge, og så kan du sætte dig ned og nyde den passive indkomst. Foreningen sørger løbende for at rebalancere. For det andet så minimerer du risikoen ved at følge markedet, så du ikke risikerer at satse på alle taberne.
+Der er tre helt centrale grunde til, at index investering er blevet den mest populære metode for private investorer:
 
-Her kan du se nogle af fordelene ved index investering:
+* **Ultimativ spredning (Diversifikation):** En indeksfond sikrer dig en enorm spredning på tværs af hundreder eller tusinder af virksomheder, brancher og lande i én enkelt handel. Det minimerer din risiko markant i forhold til at satse på enkelte aktier.
+* **Du sparer tid:** Du behøver ikke læse årsregnskaber, følge med i nyhederne eller lave komplicerede markedsanalyser. Du vælger blot dit indeks, og så passer fonden sig selv.
+* **Lavere risiko for dårlig adfærd:** Ved at følge markedet slipper du for at forsøge at *time* markedet. Du undgår at træffe paniske beslutninger under kursfald, som ofte koster private investorer dyrt.
 
-- **Spredning**. En indeksfond sikrer dig en større spredning, end hvis du investerer i enkeltaktier i det samme index.
-- **Du sparer tid**. Du skal bare vælge en indeksfond, som følger dit foretrukne indeks. Så køber du den, og så behøver du ikke lave større markedsanalyser.
-- **Du minimerer risikoen**. Du behøver ikke holde dig opdateret på markedet, og du træffer ikke dårlige beslutninger undervejs. Du følger bare indekset.
-
-{% comment %}
-
-***
+---
 
 ## Hvad skal du være opmærksom på?
 
+Det er altafgørende, at du er langsigtet, når du investerer i indeksfonde. Aktiemarkederne går op og ned hele tiden. Hvis du har en kort tidshorisont, risikerer du at skulle sælge dine beviser i en periode, hvor markedet er i knæ. Har du derimod en lang tidshorisont (5-10+ år), viser al historik, at aktiemarkedet over tid vil bevæge sig opad og levere et solidt, positivt afkast.
 
-Det er vigtigt, at du er langsigtet, når du investerer i indeksfonde. Aktiemarkederne går op og ned hele tiden. Hvis du investerer på den korte bane, så kan du risikere, at dine penge har tabt værdi, når du trækker dem ud.
+Du bør også overveje, hvor stor en geografisk spredning du ønsker. Vælger du en fond, der udelukkende afspejler det danske C25-indeks, har du en fin spredning på selskaber, men du er 100 % eksponeret mod Danmarks økonomi. Går det skidt for Danmark, går det skidt for din portefølje.
 
-Har du en langsigtet tidshorisont, så peger al historik på, at aktiemarkedet altid vil gå op. Der vil dog være udfald på vejen, men det kan du gardere dig imod ved at være langsigtet.
+Derfor anbefaler jeg klart, at fundamentet i din portefølje (omkring 70-80 %) placeres i et bredt verdensindeks (som MSCI ACWI), så du er eksponeret mod hele den globale økonomi. De resterende procenter kan du så eventuelt krydre med mere specifikke regioner eller brancher, du finder interessante.
 
-Derudover så er det vigtigt, at du finder en passiv indeksfond. Den har klart de laveste omkostninger, og det har stor betydning for [rentes rente](/renters-rente/). Lad mig komme et eksempel. Lad os sige, at der er to investeringsforeninger. Den ene (fond 1) har en ÅOP på 0,5 %, og den anden (fond 2) har en ÅOP på 2,0 %. Ofte vil passive fonde være i den lave ende, mens aktive fonde vil være i den høje ende. Det interessante er her, at fond 2 hvert år skal opnå et afkast, der er 1,5 % højere end fond 1 for at præstere det samme.
-
-
-
-Det kan godt være, at det i nogle scenarier kan betale sig, men historikken peger på, at aktive fonde ikke kan betale sig i længden, da de skal være så meget bedre (som minimum 1,5 % bedre i eksemplet).
-
-Du slipper desværre ikke for omkostninger, men kan du holde dem på 0,5 % eller under, så vil jeg mene, at det er rigtig fornuftigt. Det er i hvert fald værd at betale for at få den store spredning, som de giver.
-
-Du bør ligeledes overveje hvor stor en spredning, som du vælger at have. Vælger du en fond, der afspejler C25, så har du som udgangspunkt en fin spredning. Dog er du kun eksponeret mod Danmark. Hvis det pludselig går dårligt for Danmark, så vil det også afspejles i indekset.
-
-Jeg vil derfor klart anbefale, at man kigger bredere. Jeg forsøger at afspejle verdensindekset MSCI ACWI i min portefølje med udbytteaktier. Det gør jeg for, at jeg er så bredt eksponeret som muligt. Jeg ville holde 70-80 % af ens midler i et verdensindeks, og så kan du eventuelt vælge at fordele de sidste procenter i C25 eller et andet indeks, som du finder interessant.
-
-***
-
-{% endcomment %}
+---
 
 ## Hvordan kommer du i gang med indeksfonde?
 
-Når du investerer, så skal du altid først lægge en investeringsstrategi. Strategien hjælper dig med at kunne træffe de rigtige beslutninger uanset hvordan markederne bevæger sig.
+Når du investerer, skal du altid først lægge en klar investeringsstrategi. Din strategi skal svare på følgende spørgsmål:
 
-Du kan vælge forskellige strategier. Hvis du køber løbende op, så kan du udnytte **dollar cost averaging** og på den måde reducere risikoen for markedsudsving. Du kan også vælge bare at købe op engang imellem. Du kan også forsøge at købe ind, når du synes markedet står godt, selvom det formentlig [ikke kan betale sig at _time_ markedet]({% link _posts/2020-03-02-hvornaar-ind-i-markedet.md %}).
+1. **Hvad er din tidshorisont?** Hvis du skal bruge pengene inden for de næste 1-3 år (f.eks. til et boligkøb), bør de formentlig blive stående på en højrentekonto i banken frem for i indeksfonde.
+2. **Hvor meget kan du investere?** Hvis du køber løbende op hver måned, kan du udnytte strategien *Dollar Cost Averaging*. Det betyder, at du automatisk køber færre andele, når kurserne er høje, og flere andele, når kurserne er lave. Det udligner risikoen for at købe på det forkerte tidspunkt.
+3. **Hvilken platform skal du vælge?** Jeg anbefaler at bruge specialiserede platforme som [Nordnet](/go/nordnet/) eller Saxo Bank frem for din traditionelle bank, da handelsomkostningerne (kurtagen) og depotgebyrerne her er markant lavere.
 
-Din investeringsstrategi kan indeholde følgende overvejelser:
+Nordnet tilbyder blandt andet deres populære **Månedsopsparing**, hvor du kan købe udvalgte danske indeksfonde og udenlandske ETF'er helt uden at betale købskurtage. Det er genialt til løbende opsparing av mindre beløb.
 
-- **Hvad er din tidshorisont?** Hvornår skal du bruge pengene? Hvis din tidshorisont kun er 1-5 år, så er det ikke sikkert at indeksfonde eller investeringer i det hele taget er et godt valg.
-- **Hvor høj risiko vil du tage?** Hvis du har en lang tidshorisont kan du påtage dig lidt højere risiko. Du skal have råd til at kunne vente med at få udbetalt pengene, ellers risikerer du at tabe penge, hvis du er nødsaget til at sælge, når markedet er nede.
-- **Har du råd lige nu?** Hvis du har gæld eller snart skal bruge pengene, så er det formentlig en dårlig ide at investere dem.
+---
 
-Husk at overveje disse ting i din investeringsstrategi først.
+## Beskatning af indeksfonde i 2026
 
-## Danske indeksfonde og passive investeringsforeninger
+Det danske skattesystem er komplekst, og når det gælder indeksfonde, afhænger din skat af både fondens struktur, og hvilket depot du placerer den på. I Danmark opererer vi med to forskellige beskatningsprincipper:
 
-Der findes også nogle gode danske indeksfonde og passive investeringsforeninger. Efterhånden er der kommet mere og mere konkurrence, så heldigvis er nogle af de danske fonde ved at være relativt prisbillige. Jeg har skrevet meget mere om [danske indeksfonde og passive investeringsforeninger]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}).
+* **Realisationsbeskatning:** Du betaler først skat af dine kursgevinster den dag, du rent faktisk sælger din fond med overskud (samt af de løbende årlige udbytter, fonden udbetaler).
+* **Lagerbeskatning:** Du opgøres skattemæssigt hvert år d. 31. december. Du betaler skat af årets gevinster, uanset om du har solgt dine fonde eller ej.
 
-{% comment %}
+For en fuldstændig gennemgang af denne dynamik kan du læse mit særskilte indlæg: **[Skat af aktier: Lagerbeskatning vs. realisationsbeskatning](/skat-af-aktier/)**.
 
-Der er flere forskellige muligheder for at komme i gang. Som platform så vil jeg anbefale, at du vælger enten Nordnet eller Saxo Bank. Det er to største danske mæglere, og jeg synes, at de tilbyder klart det bedste produkt på markedet.
+Når du investerer for **frie midler**, gælder følgende hovedregler for fonde:
 
-Nordnet tilbyder blandt andet deres månedsopsparing, hvor du har mulighed for at købe op løbende uden omkostninger. Du overfører blot til Nordnet, og så sørger den for resten. Saxo Bank har generelt lave omkostninger samtidig med, at de tilbyder muligheden for en aktiesparekonto. Det er aktiekonto med en beskatning på 17 % – det fortæller jeg mere om i næste afsnit.
+### 1. Danske udbyttebetalende indeksfonde
+Disse er som udgangspunkt **realisationsbeskattede** og beskattes som **aktieindkomst**. Det betyder, at du betaler 27 % i skat af de første **63.400 kr.** (i 2026) i årlig gevinst/udbytte, og 42 % af alt derover (beløbsgrænsen er det dobbelte for ægtepar). Hvis du vil se den fulde liste over specifikke distribuerende fonde og deres omkostninger, kan du læse min guide her: **[Passive danske fonde: Liste over danske investeringsforeninger](/danske-investeringsforeninger-med-passive-indeksfonde/)**.
 
-Der er forskellige fordele og ulemper ved de forskellige platforme, og du bør sætte dig ind i den pågældende platform, før du investerer. Det kan godt variere, hvad der er det bedste valg for den enkelte person.
+### 2. Udenlandske ETF'er og akkumulerende fonde
+Disse er altid **lagerbeskattede**. Om de beskattes som aktieindkomst (27 % / 42 %) eller kapitalindkomst (typisk 37 % - 42 %), afhænger af, om fonden står på Skattestyrelsens officielle *positivliste*. Aktiebaserede klassikere som *iShares Core MSCI World (EUNL)* beskattes i dag som aktieindkomst, fordi de står på positivlisten.
 
-Beskatning af indeksfonde
-Når vi er bosat i Danmark, så kan vi ikke komme udenom beskatning. Det er desværre ikke helt lige til. I det danske skattesystem kan de beskattes efter lagerbeskatningsprincippet eller realisationsbeskatningsprincippet.
+### 3. Aktiesparekontoen (ASK)
+Hvis du investerer via en Aktiesparekonto (hvor indskudsloftet i 2026 er **174.200 kr.**), er *alt* lagerbeskattet med en flad, lav særskat på kun **17 %**. Det gør Aktiesparekontoen ekstremt attraktiv for langt de fleste danskere – særligt til de billige, udenlandske ETF'er.
 
-Ved lagerbeskatning betaler du skat af årets gevinst hvert år, selvom du ikke har solgt. Samtidig får også fradrag hvert år for tab.
+*(Bemærk: Hvis du investerer på vegne af dine børn, gælder der helt særlige regler, især når de får fritidsjob. Læs mere om dette i min store [forældreguide til investering for børn](/investering-til-boern-guide/) og guiden til [børneopsparing](/borneopsparing/)).*
 
-Ved realisationsbeskatning betaler du skat af din gevinst, når du sælger dine investeringsbeviser. Du vil ligeledes først få fradrag, når du har solgt.
+---
 
-Generelt så skelnes der mellem aktive/passive, akkumulerende/udbyttebetalende og danske/udenlandske fonde – det skal ikke være nemt.
+## Konklusion og næste skridt
 
+Index investering er uden tvivl en af de mest fornuftige og dokumenterede metoder til at opbygge en formue på som privatperson. Du slipper for besværet med at overvåge enkeltaktier, holder dine omkostninger i bund, og sikrer dig et solidt, langesigtet markedsafkast.
 
-Lav kurtage
-Invester i aktier, fonde og ETF'er
-Jeg anbefaler
-Opret en konto
-Hvorvidt fonden er aktiv eller passiv har ikke indflydelse på beskatningen. Det er blot omkostningerne, som du være opmærksom på.
+Hvis du vil gøre det absolut nemmest for dig selv, kan du oprette en automatiseret løsning hos platforme som **[NORD.investments](/go/nord/){: rel='sponsored nofollow noopener' }**, der automatisk sammensætter en passiv portefølje af billige indeksfonde baseret på din personlige risikovillighed.
 
-Hvis du vælger at kigge på udenlandske investeringsforeninger, så bør du læse denne artikel om ETF investering. De er som udgangspunkt altid beskattet ved lagerbeskatning. Er den aktiebaseret (som de fleste indeksfonde er), så vil den være beskattet som aktieindkomst. Er den ikke, så vil være beskattet som kapitalindkomst. Det er blot en hovedregel.
+---
 
-For danske indeksfonde så afhænger beskatningen af, om fonden er udbyttebetalende eller akkumulerende. Betaler fonden ikke udbytte, så vil den være beskattet efter lagerbeskatningsprincippet. Er der tale om en aktiebaseret fond, så vil den være beskattet som aktieindkomst – er den ikke, så vil det være kapitalindkomst.
+*Har du spørgsmål til, hvordan du vælger den rigtige indeksfond, eller er du i tvivl om skattereglerne for netop din portefølje? Smid en kommentar herunder, så tager vi snakken!*
 
-Er den derimod udbyttebetalende, så vil den være beskattet efter realisationsprincippet. Her vil den være beskattet som aktieindkomst. Her skal du dog løbende betale skat af det udbytte, som du modtager.
+[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 
-Konklusion
+{% include feature_row type="left" %}
 
-Generelt set så vil de fleste indeksfonde for aktier være beskattet som aktieindkomst. En udenlandsk fond vil som hovedregel være beskattet efter lagerbeskatningsprincippet. Det samme gør sig gældende for en dansk fond, hvis den er akkumulerende. Er den udbyttebetalende, så vil det være efter realisationsbeskatning.
-
-For den almene dansker vil det være realisationsbeskatning være at foretrække, da du på den måde kan opnå et afkast af den udskudte skat. Aktieindkomst vil også være at foretrække, da beskatningen oftest er lavere end for kapitalindkomst. Her er skattesatsen 27 % op til 56.500 kr (2021), hvorefter den stiger til 42 %.
-
-En anden mulighed er aktiesparekontoen (læs mere her), der er lagerbeskattet med skatteprocent på 17 %. Her kan du dog kun placere fonde, der er beskattet som aktieindkomst. Den vil for de fleste være at foretrække, da den lave skattesats gør den meget attraktiv.
-
-Afrunding
-Index investering er bestemt en fornuftig metode at investere sine penge på. Du slipper for besværet samtidig med, at du opnår et markedsafkast uden de store omkostninger. Det må siges at være meget attraktivt.
-
-Har du spørgsmål eller kommentarer til investering i indeksfonde, så skal du være meget velkommen til at smide en kommentar herunder.
-
-## Indeksfonde
-
-indeksfond
-indeksfonde
-indexfonde
-
-## Hvad er index investering?
-
-index investering
-
-## bedste passive fonde bedste indexfonde
-
-## passive investeringsfonde
-
----> Nord.investments gør det automatisk for dig
-
-{% endcomment %}
+{% include disclaimer.md %}

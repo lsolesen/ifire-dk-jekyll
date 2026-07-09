@@ -39,11 +39,11 @@ feature_row_solutions:
     rel: sponsored nofollow noopener
 ---
 
-Her kan du læse om mine erfaringer med investering i kryptovaluta. Det er ikke helt så let at komme i gang med som [investering i aktier]({% link _pages/investering-aktier.md %}), men faktisk er det heller ikke så bøvlet som man skulle tro.
+Her kan du læse om mine erfaringer med investering i kryptovaluta. Det er ikke helt så let at komme i gang med som [investering i aktier](/investering-aktier/), men faktisk er det heller ikke så bøvlet som man skulle tro.
 
-Inden du går i gang, så kan du med fordel læse min [guide til investering i kryptovaluta]({% link _pages/investering-crypto.md %}). Jeg har investeret i et par forskellige digitale valutaer, men [Bitcoins](/bitcoins/) og [Ethereum](/ethereum/) fylder mest i porteføljen.
+Inden du går i gang, så kan du med fordel læse min [guide til investering i kryptovaluta](/kryptovaluta/). Jeg har investeret i et par forskellige digitale valutaer, men [Bitcoins](/bitcoins/) og [Ethereum](/ethereum/) fylder mest i porteføljen.
 
-Jeg havde flere overvejelser, inden jeg begyndte at investere i nogle af de digitale *coins*, og du kan læse om nogle af [mulighederne for at investere i kryptovalutaher]({% link _posts/2019-05-03-crypto-porfolio.md %})
+Jeg havde flere overvejelser, inden jeg begyndte at investere i nogle af de digitale *coins*, og du kan læse om nogle af [mulighederne for at investere i kryptovalutaer](/krypto-portfolio/)
 
 {% include disclosure.html %}
 
