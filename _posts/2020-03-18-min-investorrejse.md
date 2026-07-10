@@ -1,7 +1,7 @@
 ---
 title: "Min rejse som investor - og lidt om psykologi"
 last_modified_at: 2020-03-17T09:20:02+02:00
-permalink: /min-investorrejse/
+permalink: /min-investorrejse-2020/
 category:
   - Opdateringer
 tags:

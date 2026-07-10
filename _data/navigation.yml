@@ -1,22 +1,14 @@
 main:
-  - title: Min Strategi
-    url: /min-strategi/
-  - title: Min Portefølje
-    url: /mine-investeringer/
-  - title: Min Investorrejse
-    url: /min-investorrejse/
-  - title: Investering
-    url: /investering/
-  - title: Passiv indkomst
-    url: /passiv-indkomst/
-  - title: Spar penge
-    url: /spar-penge/
+  - title: Kom i gang
+    url: /kom-i-gang/
   - title: Privatøkonomi
     url: /privatokonomi/
-  - title: Crowdlending
-    url: /crowdlending/
-  - title: Kryptovaluta
-    url: /kryptovaluta/
+  - title: Investering
+    url: /investering/
+  - title: Min Strategi
+    url: /min-strategi/
+  - title: Værktøjer
+    url: /vaerktoejer/
   - title: Blog
     url: /blog/
   - title: Om

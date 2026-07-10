@@ -87,7 +87,7 @@ Læs mere om [crowdlending og crowdfunding](/crowdlending/).
 
 Kryptovaluta og Bitcoins er et meget omskifteligt marked. Personligt har jeg sat en lille smule penge i Bitcoins primært som en opsparing, og jeg køber Bitcoins efter Dollar-Cost-Average-metoden for stille og roligt at samle flere Bitcoins. Nogle anbefaler maksimalt at have omkring 2% af sin portefølje som Bitcoins. 
 
-Læs mere om [kryptovaluta og Bitcoins](/bitcoins/).
+Læs mere om [kryptovaluta](/kryptovaluta/) og [Bitcoins](/bitcoins/).
 
 ### Guld og metaller
 

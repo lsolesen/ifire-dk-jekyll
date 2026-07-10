@@ -301,7 +301,7 @@ Det bedste sted at blive klogere på, hvordan du skal opgive Skat af kryptovalut
 
 ## Mine erfaringer med investering i kryptovaluta
 
-Du kan læse mere om [mine erfaringer med investering i kryptovaluta]({% link _pages/portfolio-crypto.md %}).
+Du kan læse mere om [mine erfaringer med investering i kryptovaluta](/kryptovaluta/).
 
 {% include feature_row id="feature_row_solutions" %}
 

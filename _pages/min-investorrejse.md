@@ -17,7 +17,7 @@ I dag er min investeringsportefølje ekstremt kedelig. Jeg køber brede, globale
 
 Da jeg for alvor begyndte at interessere mig for økonomisk uafhængighed (FIRE), blev jeg ramt af "guldfeber". Jeg ville prøve alle aktivklasser af. Jeg jagtede høje procenter, loggede ind på tyve forskellige platforme ugentligt og eksperimenterede med alt fra ureguleret crowdlending til volatil kryptovaluta.
 
-På denne side har jeg samlet min historik. Betragt det som et museum over min investeringsrejse. Det er ikke anbefalinger til, hvad du skal gøre i dag – men et ærligt indblik i de lærepenge, der formede **[min nuværende strategi](/min-strategi/)** og **[mine nuværende investeringer](/mine-investeringer/)**.
+På denne side har jeg samlet min historik. Betragt det som et museum over min investeringsrejse. Det er ikke anbefalinger til, hvad du skal gøre i dag – men et ærligt indblik i de lærepenge, der formede **[min nuværende strategi](/min-investeringsstrategi/)** og **[mine nuværende investeringer](/mine-investeringer/)**.
 
 ---
 

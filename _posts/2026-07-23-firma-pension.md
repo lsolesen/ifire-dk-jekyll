@@ -5,7 +5,6 @@ date: 2026-07-09
 categories: ["Pension", "Investering", "FIRE"]
 tags: ["Velliv", "Firmapension", "Indeksfonde", "LinkPension", "Optimering"]
 author: "ifire"
-layout: "post"
 seo_keyword: "sådan optimerer du din firmapension billige indeksfonde"
 ---
 

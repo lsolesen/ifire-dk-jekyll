@@ -11,6 +11,15 @@ redirect_from:
   - /deals/
 excerpt: "Privatøkonomi handler om at få styr på, hvordan du håndterer dine penge. Det handler altså om opsparing, budgetter, forbrug og investeringer."
 author_profile: true
+feature_row_pages:
+  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+    alt: "Passiv Indkomst"
+    title: "Passiv Indkomst"
+    excerpt: "Læs mere om passi indkomst på [passiv indkomst](/passiv-indkomst/)"
+  - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+    alt: "Spar penge"
+    title: "Spar penge"
+    excerpt: "Læs mere om at spare penge på [spar penge](/spar-penge/)"
 feature_row_setup:
   - image_path: https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
     alt: "Bank"
