@@ -1,6 +1,10 @@
 main:
   - title: Min Strategi
     url: /min-strategi/
+  - title: Min Portefølje
+    url: /mine-investeringer/
+  - title: Min Investorrejse
+    url: /min-investorrejse/
   - title: Investering
     url: /investering/
   - title: Passiv indkomst

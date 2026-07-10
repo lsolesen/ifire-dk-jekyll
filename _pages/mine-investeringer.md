@@ -3,12 +3,24 @@ layout: single
 title: &title "Min investeringsportefølje: Mit komplette aktiesetup og strategien bag"
 seo_title: "Min investeringsportefølje • Gennemgang af mit setup »"
 excerpt: "En fuldstændig, hudløst ærlig gennemgang af min formuestruktur. Se hvilke indeksfonde og ETF'er jeg ejer, og hør de skattemæssige årsager til mine valg."
-permalink: /investeringer/
+permalink: /mine-investeringer/
+redirect_from:
+  - /investeringer/
+  - /portfolio/
 author_profile: true
 toc: true
 toc_sticky: true
 tags:
   - overblik
+sidebar:
+  - title: "Mit investeringskompas"
+    text: |
+      - Jeg følger markedet.
+      - Jeg forsøger ikke at slå markedet.
+      - Jeg holder omkostningerne lave.
+      - Jeg timer ikke markedet.
+      - Jeg optimerer skat.
+      - Jeg holder strategien enkel.
 header:
   teaser: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Stephen Dawson on Unsplash
@@ -119,6 +131,15 @@ Da jeg bor i lejebolig og har en minimal akut boligrisiko, har jeg reduceret min
 
 ---
 
+## Crowdlending (Under afvikling)
+Efter at have testet over 20 platforme gennem tiden, har jeg iværksat et totalt exit. Administrationen og risikoen står simpelthen ikke mål med det passive afkast fra brede indeksfonde. Over 80-90 % af min kapital er trukket hjem og genplaceret i aktiemarkedet. 
+
+Jeg har i dag kun en mikroskopisk rest tilbage fordelt på 4 platforme (*Mintos*, *Trine*, *Flexfunding* og *Lendino*), som passivt tikker ind, mens de sidste historiske lån afvikles. Jeg hæver ikke beløbet i crowdlending igen.
+
+* **Vil du lære af mine fejl?** Læs min historie om de platforme, jeg har tabt tusindvis af kroner på (inklusive Ponzisvindel og konkurser) her: **[Kirkegården: Mine crowdlending-erfaringer](/crowdlending-svindel-erfaringer/)**.
+
+---
+
 ## De platforme og værktøjer, jeg bruger
 
 For at holde omkostningerne nede og automatiseringen i top, benytter jeg primært to danske platforme til mine frie midler og private pensioner:
@@ -134,20 +155,5 @@ Hvis du selv vil i gang med at opbygge en simpel og solid aktieportefølje, kan 
 * **[Investering i aktier og værdipapirer: Den komplette begynderguide](/investering-aktier/)**
 * **[Investering til børn: Den ultimative forældreguide til frikort, ASK og Nordnet](/investering-til-boern-guide/)**
 * **[Nordnets Månedsopsparing: Sådan automatiserer du din formue](/nordnet-maanedsopsparing-problemer/)**
-
----
-
-## Indlæg om aktier, obligationer og værdipapirer
-
-Herunder finder du mit fulde historiske arkiv over markedsbetragtninger, portefølje-updates og strategiske overvejelser om aktiemarkedet gennem årene.
-
-<div class="feature__wrapper">
-{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "værdipapirer" | sort: "last_modified_at" | reverse %}
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-{% endif %}
-</div>
 
 {% include disclaimer.md %}
