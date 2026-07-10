@@ -12,7 +12,6 @@ tags:
   - aktier
   - indeksfonde
   - værdipapirer
-classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
@@ -24,9 +23,225 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
+Hvis jeg skulle starte helt forfra i dag, ville jeg investere næsten præcis som jeg gør nu.
+
+Det er egentlig lidt overraskende.
+
+I løbet af de sidste mange år har jeg prøvet lidt af hvert. Crowdlending. Kryptovaluta. Enkeltaktier. Nye platforme. Små optimeringer. Jeg har læst bunker af bøger, lyttet til podcasts og brugt mange timer på at jagte den perfekte investeringsstrategi.
+
+Resultatet er ikke blevet en mere avanceret strategi.
+
+Den er blevet markant simplere.
+
+Målet er i dag, at min økonomi passer sig selv så meget som muligt.
+
+Jo færre beslutninger jeg skal træffe undervejs, desto større er sandsynligheden for, at jeg holder fast i strategien i både gode og dårlige tider.
+
+Denne side er ikke skrevet for at overbevise dig om, at min strategi er den eneste rigtige. Jeg skriver den først og fremmest for mig selv.
+
+Når markederne falder, når medierne lover den næste fantastiske investering, eller når jeg bliver fristet til at ændre kurs, er det denne side, jeg vender tilbage til. Hvis jeg vil ændre strategi, skal jeg først kunne forklare, hvorfor principperne her ikke længere holder.
+
+---
+
+# Mine seks principper
+
+Min strategi bygger på seks enkle principper.
+
+Alt andet er detaljer.
+
+---
+
+## 1. Jeg følger markedet
+
+Jeg følger markedet, fordi jeg ikke tror, jeg kan slå det over de næste 20-30 år.
+
+Derfor forsøger jeg heller ikke.
+
+Jeg køber markedet gennem passive indeksfonde og accepterer markedsafkastet. Til gengæld kan jeg koncentrere mig om de ting, jeg faktisk kan kontrollere: mine omkostninger, min disciplin og hvor længe jeg er investeret.
+
+Min løbende opsparing investeres automatisk måned for måned.
+
+Jeg ønsker ikke at skulle tage stilling til, om markedet er for dyrt eller for billigt.
+
+Automatikken gør, at strategien bliver fulgt, uanset om nyhederne er positive eller negative.
+
+Jo færre beslutninger jeg skal træffe, desto mindre risiko er der for, at følelserne overtager.
+
+Hvis du vil læse argumenterne bag dette valg, kan du læse:
+
+- [Passiv investering](/passiv-investering/)
+- [Hvorfor passiv investering slår aktiv investering](/passiv-investering-slaar-aktiv/)
+- [5 kendetegn ved en passiv investor](/5-kendetegn-passiv-investor/)
+
+---
+
+## 2. Jeg ejer hele verden
+
+Jeg aner ikke, om USA, Europa, Indien eller noget helt fjerde bliver de næste årtiers vinder.
+
+Derfor forsøger jeg ikke at gætte.
+
+Jeg investerer bredt gennem globale indeksfonde, så jeg automatisk ejer tusindvis af virksomheder fordelt over hele verden.
+
+Hvis verdensøkonomien vokser, vokser min portefølje med den.
+
+Læs mere:
+
+- [Verdensindekset](/verdensindekset/)
+- [Buy and Hold](/5-grunde-buy-hold/)
+
+---
+
+## 3. Jeg holder mine omkostninger så lave som muligt
+
+Jeg kan ikke styre renter, inflation eller geopolitik.
+
+Men jeg kan styre, hvad det koster at investere.
+
+Derfor vælger jeg konsekvent billige indeksfonde med lave omkostninger. Selv små forskelle i ÅOP kan vokse sig store over flere årtier.
+
+Det er en af de få faktorer, jeg har fuld kontrol over.
+
+Læs mere:
+
+- [Indeksfonde](/indeksfonde/)
+- [Passiv investering](/passiv-investering/)
+
+---
+
+## 4. Jeg forsøger ikke at time markedet
+
+Jeg ved ikke, om markedet falder i morgen.
+
+Det ved ingen.
+
+Derfor forsøger jeg ikke at vente på den perfekte indgang.
+
+Hvis jeg får en større sum penge, investerer jeg dem med det samme.
+
+Min løbende opsparing investeres automatisk måned for måned.
+
+På den måde køber jeg både, når markedet er højt, og når det er lavt, uden at lade følelser eller nyhedsoverskrifter bestemme.
+
+Mit mål er ikke at købe på det perfekte tidspunkt.
+
+Mit mål er at være investeret så længe som muligt.
+
+Læs mere:
+
+- [Hvornår skal man investere?](/hvornaar-ind-i-markedet/)
+- [Lump Sum vs. Dollar Cost Average](/lump-sum-vs-dollar-cost-average/)
+- [Hvilken investeringsfase er du i?](/hvilken-investeringsfase/)
+
+---
+
+## 5. Jeg optimerer skat – uden at gøre strategien unødigt kompliceret
+
+Det danske skattesystem er kompliceret.
+
+Derfor bruger jeg tid på at få depotstrukturen rigtigt sat op.
+
+Når først strukturen er på plads, forsøger jeg til gengæld ikke at optimere den hele tiden.
+
+Mit mål er at bygge et system, der kan passe sig selv i mange år, frem for et system, der kræver konstant vedligeholdelse.
+
+Min rækkefølge er:
+
+1. Aldersopsparing
+2. Aktiesparekonto
+3. Pension
+4. Frie midler
+
+Målet er ikke at finde den perfekte skatteoptimering.
+
+Målet er at finde en løsning, som jeg stadig har lyst til at følge om 20 år.
+
+Læs mere:
+
+- [Aldersopsparing](/aldersopsparing/)
+- [Aktiesparekonto](/aktiesparekonto-bank-vs-nordnet/)
+- [Firmapension](/firma-pension/)
+
+---
+
+## 6. Jeg bygger et system, der kan passe sig selv
+
+Min strategi skal fungere, også når jeg ikke har lyst til at tænke på investering.
+
+Derfor forsøger jeg at automatisere så meget som muligt.
+
+Opsparingen investeres automatisk.
+
+Depotstrukturen er fast.
+
+Fondene skiftes sjældent.
+
+Jeg bruger ikke tid på daglige kurser eller finansnyheder.
+
+Jo mindre min strategi afhænger af min motivation eller disciplin, desto større er sandsynligheden for, at jeg holder fast i den i årtier.
+
+Målet er ikke at gøre investering spændende.
+
+Målet er at gøre investering kedelig.
+
+---
+
+## Ting jeg har valgt fra
+
+Min strategi er lige så meget et resultat af de ting, jeg har valgt **fra**, som de ting, jeg har valgt **til**.
+
+Gennem årene har jeg blandt andet investeret i:
+
+- Crowdlending
+- Kryptovaluta
+- Enkeltaktier
+- Mindre investeringseksperimenter
+
+Nogle af dem gav fine afkast.
+
+Andre gjorde ikke.
+
+Fælles for dem var, at de gjorde min økonomi mere kompliceret.
+
+I dag værdsætter jeg enkelhed højere end muligheden for at jagte den sidste ekstra procent i afkast.
+
+---
+
+## Strategien er et levende dokument
+
+Jeg forventer faktisk, at denne side kommer til at ændre sig.
+
+Ikke fordi markederne ændrer sig.
+
+Men fordi jeg gør.
+
+Hvis jeg en dag ændrer et af principperne ovenfor, bliver denne side opdateret først.
+
+På den måde fungerer den som mit eget investeringsmanifest.
+
+---
+
+## Fra principper til praksis
+
+Denne side beskriver **hvorfor** jeg investerer, som jeg gør.
+
+På porteføljesiden kan du se **hvordan** strategien ser ud i praksis:
+
+- Min aktuelle aktivfordeling
+- Hvilke fonde og ETF'er jeg ejer
+- Hvordan investeringerne er fordelt på mine depoter
+- Hvordan porteføljen udvikler sig over tid
+
+👉 **[Se min aktuelle portefølje](/investeringer/)**
+
+
+{% comment %}
+
+***
+
 Når det kommer til investering, er det let at blive overvældet af komplekse finansielle produkter, tekniske grafer og konstante nyhedsoverskrifter om den næste store "raketaktie". Min filosofi er fundamentalt anderledes. Min strategi handler ikke om at gætte fremtiden eller slå markedet på kort sigt, men om at opbygge solid, langsigtet rigdom med mindst muligt tidsforbrug og færrest mulige omkostninger.
 
-Kernen i min investeringsstrategi kan opsummeres i tre principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er maksimalt **skatteoptimeret** i forhold til danske regler. 
+Kernen i min investeringsstrategi kan opsummeres i tre principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er **skatteoptimeret** i forhold til danske regler. 
 
 Denne side forklarer de rationelle, matematiske og skattemæssige argumenter bag mine valg. Hvis du vil se, hvordan jeg udlever denne strategi i praksis – herunder mine præcise fondskoder, depotfordelinger og aktuelle afkast – kan du altid springe direkte til [min samlede portefølje på /investeringer/](/investeringer/).
 
@@ -106,3 +321,5 @@ Dette er de rationelle, matematiske og skattemæssige argumenter for, hvorfor mi
 Hvis du vil se den præcise fordeling af mine aktiver, hvilke fonde og ETFer jeg helt specifikt har valgt til min Aktiesparekonto, mine frie midler og mine pensioner, samt hvordan det hele performer lige nu, så kan du klikke dig videre til min altid opdaterede porteføljeside:
 
 👉 **[Se min konkrete portefølje og implementering i praksis på /investeringer/](/investeringer/)**
+
+{% endcomment %}
