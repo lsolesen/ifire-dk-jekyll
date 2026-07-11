@@ -9,6 +9,11 @@ redirect_from:
 excerpt: "Jeg startede ud med at investere i alt fra crowdlending til krypto. Her er min ærlige logbog over de fejl, lærepenge og erfaringer, der førte til min nuværende strategi."
 author_profile: true
 toc: true
+tags:
+  - fundament
+header:
+  teaser: https://images.unsplash.com/photo-1743715033185-11ee19e66522?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+weight: 60
 ---
 
 {{ page.excerpt }}

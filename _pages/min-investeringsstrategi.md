@@ -1,6 +1,7 @@
 ---
 title: "Min investeringsstrategi: Enkel, passiv og skatteoptimeret"
 permalink: /min-investeringsstrategi/
+excerpt: "Mit langsigtede kompas på aktiemarkedet. Læs om mine faste principper for billige, passive indeksfonde, min risikoprofil, og hvorfor jeg aldrig forsøger at time markedet."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 last_modified_at: 2026-07-09T11:00:00+02:00
@@ -12,6 +13,7 @@ tags:
   - aktier
   - indeksfonde
   - værdipapirer
+  - fundament
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"
@@ -21,6 +23,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
+weight: 40
 ---
 
 Hvis jeg skulle starte helt forfra i dag, ville jeg investere næsten præcis som jeg gør nu.

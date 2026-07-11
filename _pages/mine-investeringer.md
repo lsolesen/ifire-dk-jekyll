@@ -12,6 +12,7 @@ toc: true
 toc_sticky: true
 tags:
   - overblik
+  - fundament
 sidebar:
   - title: "Mit investeringskompas"
     text: |
@@ -29,6 +30,7 @@ feature_row_own:
     excerpt: "Jeg bruger primært [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til mine frie midler via Månedsopsparingen, min Aktiesparekonto og min Aldersopsparing."
   - image_path: /assets/images/logo/saxoinvestor.png
     excerpt: "Jeg supplerer med [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til de depoter, hvor kurtagestrukturen uden minimumskurtage giver mig den bedste fleksibilitet."
+weight: 50
 ---
 
 {{ page.excerpt }}

@@ -7,8 +7,10 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
   overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=5
   caption: "Min Strategi: Vejen til finansiel frihed"
+weight: 0
 ---
 
 {{ page.excerpt }}
