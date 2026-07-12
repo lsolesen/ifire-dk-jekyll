@@ -16,7 +16,7 @@ last_modified_at: 2021-07-03T20:22:02+02:00
 
 Læg et budget og få luft i din privatøkonomi. Der er garanteret penge at spare, når du får hjælp til overblik over din økonomi.
 
-Et budget kan hjælpe med at [spare penge i hverdagen]({% link _posts/2019-03-01-spar-penge.md %}) Derfor har jeg skrevet en guide til begyndere, hvor du kan få hjælp til at lægge et budget.
+Et budget kan hjælpe med at [spare penge i hverdagen](/spar-penge/) Derfor har jeg skrevet en guide til begyndere, hvor du kan få hjælp til at lægge et budget.
 
 ## Hvorfor bør alle lægge et budget?
 

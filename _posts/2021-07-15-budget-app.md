@@ -48,7 +48,7 @@ Det kan være noget af en jungle at finde de bedste apps. Her er de bedste apps,
 
 Det vanskeligste i din privatøkonomi er formentlig at holde budgettet. Jeg nyder selv at bruge apps for at holde mig på sporet og holde styr på min budgetlægning og fastholdelsen af det.
 
-Jeg har skrevet mere om, [hvordan man laver et budget]({% link _posts/2021-07-10-budget-for-begyndere.md %}).
+Jeg har skrevet mere om, [hvordan man laver et budget](/budget-for-begyndere/).
 
 Men lad os kigge pe bedste apps til budgetlægning på din smartphone.
 

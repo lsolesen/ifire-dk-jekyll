@@ -80,7 +80,7 @@ Du kan også aflæse skemaet omvendt.
 
 Hvis du går ind og kigger på, hvad du har investeret lige nu og finde ud af, hvad du har råd til at bruge i din pension. I mit tilfælde har jeg altså investeret 2,2 millioner lige nu. Jeg kan altså bruge omkring 200.000-225.000 kroner om året ved min pensionsalder.
 
-Jeg kan så gå i gang med at [lægge et budget]({% link _posts/2021-07-10-budget-for-begyndere.md %}) som modsvarer dette beløb.
+Jeg kan så gå i gang med at [lægge et budget](/budget-for-begyndere/) som modsvarer dette beløb.
 
 Jeg skal altså enten have reduceret mine udgifter lidt, have et bedre afkast eller skynde mig at få investeret noget ekstra.
 

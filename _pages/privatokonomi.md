@@ -76,8 +76,8 @@ Jeg kan godt lide at dele opsparing op i tre forskellige kategorier:
 Det kan altså være interessant at kigge på de følgende spørgsmål:
 
 - [hvilke konti har jeg brug for?]({% link _posts/2019-02-20-hvilken-konto.md %})
-- [hvor meget skal du spare op?]({% link _posts/2020-03-22-raad-til-at-investere.md %})
-- [opsparingskonto]({% link _posts/2021-07-17-opsparingskonto.md %})
+- [hvor meget skal du spare op?](/hvor-meget-opsparing/)
+- [opsparingskonto](/hoejrentekonto-opsparingskonto/)
 - hvilken rente kan du få på din opsparing?
 - [børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %})
 - aldersopsparing

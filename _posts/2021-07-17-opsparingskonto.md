@@ -18,13 +18,13 @@ last_modified_at: 2021-07-17T10:22:02+02:00
 
 Jeg har samlet de bedste højrentekonto, så du kan få den bedste rente. Oversigten gør det let at finde den bedste rente og den bedste opsparingskonto.
 
-Fordelen ved en højrentekonto er, at du risikofrit kan spare penge op i banken. Desværre er renterne historisk lave i øjeblikket, men der er brug for retner på din opsaring. Du kan fx udregne hvor meget [prisstigninger sluger i vores inflationsberegner]({% link _posts/2021-07-17-inflation-beregner.md %}).
+Fordelen ved en højrentekonto er, at du risikofrit kan spare penge op i banken. Desværre er renterne historisk lave i øjeblikket, men der er brug for retner på din opsaring. Du kan fx udregne hvor meget [prisstigninger sluger i vores inflationsberegner](/inflation-beregner/).
 
 ## Hvorfor har jeg brug for en opsparingskonto?
 
 Det er en god ide med en opsparingskonto, fordi alle har brug for en mindre opsparing. Hvis du investerer dine penge, så udsætter ud pengene for risiko, og så er det ikke en ren opsparing, da du ikke kan få pengene ud, så snart du har lyst uden at du har risikeret, at de har mistet værdi.
 
-Men der er også alternativomkostninger ved at spare pengene op. Du kan få en fornemmelse for, [hvor meget inflationen spiser værdien af dine penge]({% link _posts/2021-07-17-inflation-beregner.md %}). Derfor skal du gøre op med dig selv, [hvor meget opsparing du skal have]({% link _posts/2020-03-22-raad-til-at-investere.md %}).
+Men der er også alternativomkostninger ved at spare pengene op. Du kan få en fornemmelse for, [hvor meget inflationen spiser værdien af dine penge](/inflation-beregner/). Derfor skal du gøre op med dig selv, [hvor meget opsparing du skal have](/hvor-meget-opsparing/).
 
 ## Hvor kan man få en højrentekonto?
 

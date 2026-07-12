@@ -30,9 +30,9 @@ Du kan finde **gratis budgetskemaer** for:
 - baby budget
 - hus budget
 
-Inden du kaster dig ud i at vælge et budgetskema, så kan det sikkert være en fordel, at du lige kigger vores [begynderguide til budgetlægning]({% link _posts/2021-07-10-budget-for-begyndere.md %}) igennem først.
+Inden du kaster dig ud i at vælge et budgetskema, så kan det sikkert være en fordel, at du lige kigger vores [begynderguide til budgetlægning](/budget-for-begyndere/) igennem først.
 
-Et budgetskema hjælpe til i sidste ende at [spare penge]({% link _posts/2019-03-01-spar-penge.md %}).
+Et budgetskema hjælpe til i sidste ende at [spare penge](/spar-penge/).
 
 Du kan på [www.raadtilpenge.dk](https://www.raadtilpenge.dk/penge-beregner/budgetskema) finde et gratis budgetskema for både en person eller for et par. Der er en virkelig god forklaring.
 

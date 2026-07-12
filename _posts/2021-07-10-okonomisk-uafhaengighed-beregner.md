@@ -47,7 +47,7 @@ Du er økonomisk uafhængig, når dine passive indtægter dækker dine samlede �
 
 Måske lyder det som en drøm for dig at være finansiel uafhængig? Men det er nok kun realistisk for de fleste, hvis ikke de lever for dyrt. Men uanset hvad, så kræver det en indsats.
 
-Du skal altså først i gang med at udregne, hvad du kan leve for om måneden. Der skal du [i gang med at lægge et budget]({% link _posts/2021-07-10-budget-for-begyndere.md %}). Lad os kigge på nogle forskellige eksempler på, hvad du kan leve for om måneden i forskellige livsfaser.
+Du skal altså først i gang med at udregne, hvad du kan leve for om måneden. Der skal du [i gang med at lægge et budget](/budget-for-begyndere/). Lad os kigge på nogle forskellige eksempler på, hvad du kan leve for om måneden i forskellige livsfaser.
 
 {% include figure image_path="/assets/images/posts/rockwool-fonden-budgetberegner.png" caption="Jeg har brugt [Rockwool fondens](http://budgetberegner.rff.dk/) beregner for et minimums- og referencebudget i denne opstilling. Jeg har taget udgangspunkt i, at 'husstanden' har bil uanset om man bor alene eller er en familie, og at personen bor i Syddanmark. Jeg har valgt at børnefamilierne ikke har friplads til deres børn." alt="budget til økonomisk uafhængig beregner" %}
 
