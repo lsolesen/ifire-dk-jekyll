@@ -1,6 +1,9 @@
 ---
-title: "Status efter et år med opsparing i kryptovaluta"
-permalink: /crypto-1-aar/
+title: "Mine krypto-erfaringer: Den samlede status, gebyrfælder og svindel"
+permalink: /crypto-erfaringer/
+redirect_from:
+  - /crypto-1-aar/
+description: "Læs min ærlige status og logbog over min opsparing i kryptovaluta. Fra jagten på de laveste gebyrer til gratis mønter og et dyrt krak."
 category:
   - Opsparing
   - Opdateringer
@@ -97,3 +100,88 @@ Husk også at læse vores [guide til kryptovaluta](/kryptovaluta/), [Bitcoins](/
 {% include feature_row id="feature_row_solutions" %}
 
 {% include disclaimer.md %}
+
+***
+
+Da jeg for lidt over et år siden begyndte at investere i kryptovaluta, gjorde jeg det med opsparing for øje. Jeg oprettede en diversificeret portefølje (hvilket du kan læse mere om i min [Guide til en diversificeret kryptoportefølje](/krypto-portfolio/)), og planen var at købe ind løbende.
+
+Nu er der gået et stykke tid, og det er blevet tid til at gøre den samlede status. Kryptovaluta er ikke bare et spørgsmål om at købe og holde; det er en verden fuld af uigennemskuelige gebyrer, vilde teknologiske muligheder og desværre også en overhængende risiko for svindel. 
+
+Her er mine personlige, nørdede erfaringer, min samlede status og min fulde logbog over rejsen.
+
+## 1. Jagten på de laveste gebyrer (Kraken vs. Coinbase Pro)
+
+Det koster penge at købe kryptovaluta. I starten handlede jeg via Coinbase, fordi platformen er utrolig brugervenlig. Men jeg fandt hurtigt ud af, at deres almindelige gebyrer ved mindre, jævnlige opkøb simpelthen var for høje til min strategi. 
+
+Jeg dykkede ned i gebyrstrukturerne og opdagede, at det kan være svært at gennemskue de reelle omkostninger, fordi børserne arbejder med *maker/taker fees* (om du tilføjer likviditet til markedet eller fjerner den) og gebyrer for udbetalinger [5].
+
+Jeg sammenlignede Coinbase Pro med børsen Kraken. Nedenstående oversigt fra min analyse i starten af 2020 viser tydeligt, hvorfor jeg endte med at flytte min handel over på Kraken [5]:
+
+| Gebyrtype | Coinbase Pro | Kraken |
+| ------ | ------ | ------ |
+| Maker fee | 0,50% | 0,16% |
+| Taker fee | 0,50% | 0,26% |
+| Withdrawal fee BTC | 0 | 0,0005 BTC |
+| SEPA transfer | 0,15 EUR | 0 EUR |
+
+Jeg valgte [Kraken](/go/kraken/), hvor jeg målrettet øver mig i at lægge ordrerne ind, så jeg primært rammer den lave *maker-fee* på 0,16% [5]. Rent praktisk fører jeg penge derover ved først at veksle DKK til EUR gebyrfrit på min [Revolut](/go/revolut/)-konto, og sender dem derefter som en gratis SEPA-overførsel ind til Kraken. Det minimerer friktionen i min opsparing betragteligt!
+
+## 2. Gratis mønter og eksperimenter med Mining
+
+Kryptoverdenen byder også på lidt sjovere måder at få fingrene i mønterne på end bare at købe dem.
+
+**Gratis mønter via læring**
+Jeg har tjent en fin lille sum kryptovaluta på [Coinbase Earn](/coinbase-earn/), hvor jeg har gennemgået kurser i bl.a. Stellar Lumens (XLM), EOS og Orchid (OXT) [7, 8]. Kurserne består af professionelle videoer, der tager ganske kort tid, og man belønnes typisk med for 6-10 USD i den pågældende valuta [8]. Det er en genial måde at blive klogere på teknologien bag, samtidig med at porteføljen vokser.
+
+**Mining (Strømspild og håndører)**
+Jeg eksperimenterede i en måned med at *mine* kryptovaluta via programmet [MinerGate](/go/minergate/) på min private computer [9]. Programmet løste opgaver i baggrunden for at udvinde valutaen Monero (XMR). Resultatet? En hel måneds uafbrudt mining indbragte mig præcis 0,075 XMR – svarende til cirka 7 USD (45 DKK) [9]. Det kunne på ingen måde betale strømmen, så det blev ved et nørdet og lærerigt eksperiment.
+
+## 3. Katastrofen med CredEarn og Uphold
+
+For at få renters rente til at arbejde for mig valgte jeg at låne en del af min krypto ud via platformen CredEarn gennem min Uphold wallet [2, 10]. For at få den bedste rente krævede platformen, at man købte og holdt deres egen valuta, LBA [10].
+
+Dette viste sig at være min absolut dyreste lærestreg i kryptoverdenen. 
+
+Først styrtdykkede LBA-mønten, og jeg ramte hurtigt en intern rente på -78% på selve mønten [11]. Derefter gik selve udlånsplatformen CredEarn pludselig konkurs under anklager om svindel [10]! Jeg mistede adgangen til mine udlånte Bitcoins og altcoins og måtte bruge tid på at indsende et formelt *Proof of Claim* til den amerikanske domstol i håbet om nogensinde at se mine midler igen [6]. 
+
+Det var et ufatteligt smerteligt bevis på det gamle krypto-ordsprog: *"Not your keys, not your coins"* [12]. I dag bruger jeg min [Ledger hardware wallet](/go/ledger/) til sikker, offline opbevaring [13].
+
+## 4. Den samlede status: Hvordan tracker jeg det?
+
+Når man handler på tværs af børser som Kraken og Coinbase og bruger forskellige wallets, mister man hurtigt overblikket. I starten brugte jeg CoinTracking.info, men i dag har jeg samlet hele overvågningen i det gratis open-source program [Portfolio Performance](/hvordan-tracker-jeg-min-portefolje/) [12]. 
+
+Det er lykkedes mig at bygge et system i Portfolio Performance, hvor kurserne på Bitcoin, Ethereum osv. automatisk hentes ind fra Kraken, så jeg altid kan se den aktuelle, samlede værdi af min portefølje [14, 15].
+
+---
+
+Herunder har jeg samlet de ucensurerede notater fra mine historiske månedsopdateringer. De viser tydeligt op- og nedturene, de spændende airdrops og den bitre erkendelse af svindel.
+
+<details>
+  <summary><strong>2019: Coinbase Earn, Mining og fejlslagne lån</strong></summary>
+  
+  <br>
+
+  * **Maj:** Jeg er begyndt at investere aktivt i krypto, som jeg tracker via *CoinTracking.info*. Jeg har også gennemført kurser på *Coinbase Earn*, hvor jeg har tjent lidt Stellar Lumens (XLM) bare ved at se lærerige videoer [16, 17].
+  * **Juni:** Jeg *miner* Monero (XMR) via Minergate. En hel måneds uafbrudt mining gav mig sølle 0,04 XMR, svarende til små 3,7 USD [18].
+  * **August:** Jeg har lånt min krypto ud via Uphold og CredEarn. I denne måned tjente jeg 20,82 USD i renter, som jeg straks har brugt til at købe flere Bitcoins for. Desværre er valutaen LBA, som jeg skulle købe for at få høje renter, faldet massivt [19].
+  * **Oktober:** Dårlig måned. Den LBA jeg købte for at låne penge ud på CredEarn er nu nede med 77%. Det urealiserede tab på min kryptoportefølje vokser [20].
+  * **November:** Jeg oprettede en profil på Keybase for at bevise min digitale identitet. Pludselig fik jeg et kæmpe "Airdrop" på hele 688 Stellar Lumens (XLM) gratis ind på kontoen [21].
+</details>
+
+<details>
+  <summary><strong>2020: Kraken gebyrer, Revolut Vaults og CredEarn Konkursen</strong></summary>
+  
+  <br>
+
+  * **Februar:** Jeg har analyseret handelsgebyrerne! Jeg har forladt Coinbase Pro, hvor *maker-taker* gebyret var 0,5%, og er i stedet flyttet til Kraken, hvor jeg kan handle for *maker*-gebyrer helt nede på 0,16% [5, 22].
+  * **September:** Jeg har oprettet en *Vault* hos Revolut, der automatisk runder mine kortkøb op i hverdagen og investerer byttepengene i Bitcoins. Det er en sjov måde at få lavet lidt jævnlig *dollar-cost averaging* [23].
+  * **November:** Katastrofe! Det gik pludselig op for mig, at udlånsplatformen CredEarn er gået konkurs, og der er meldinger om decideret svindel. Langt størstedelen af min kryptovaluta er nu fanget i boet, og alt peger på, at udlån via Uphold var en meget dyr fejl [10].
+</details>
+
+<details>
+  <summary><strong>2021: Proof of Claim og den store Bitcoin optur</strong></summary>
+  
+  <br>
+
+  * **Januar:** Bitcoins er eksploderet i værdi og markedet er i *bull run*. Samtidig har jeg i denne måned indleveret et officielt *Proof of Claim* til en amerikansk domstol i forbindelse med CredEarns konkurs. Jeg håber i det mindste at få en del af mine Bitcoins, Ethereum og Ripple tilbagebetalt [6, 24]. 
+</details>

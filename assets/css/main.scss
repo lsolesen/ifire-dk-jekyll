@@ -178,3 +178,139 @@ body.layout--single .page__content .grid__item {
     top: 0;
     left: 0;
   }
+
+/* QUESTIONS */
+
+details.question {
+  margin: 10px 0;
+  padding: 8px;
+  /* Mindre padding for kompakt look */
+  border: 2px solid #0073e6;
+  /* Blue border */
+  border-radius: 8px;
+  background-color: #f8faff;
+  /* Light blue background */
+  transition: all 0.3s ease-in-out;
+  font-size: 0.9;
+
+  &[open] {
+    background-color: #e6f0ff;
+    /* Slightly darker when open */
+
+    summary {
+      color: #003366;
+      /* Mørkere farve for åben tilstand */
+      font-weight: bold;
+    }
+
+    summary::before {
+      content: "✔️";
+      /* Skifter ikon når åben */
+    }
+  }
+
+  summary {
+    font-size: 0.9em;
+    /* Lidt mindre fontstørrelse for kompakt tekst */
+    font-weight: normal;
+    cursor: pointer;
+    padding: 6px;
+    /* Mindre padding */
+    color: #004a99;
+    /* Standard blå */
+    display: flex;
+    align-items: center;
+    transition: color 0.3s ease-in-out;
+
+    &::before {
+      content: "❓";
+      /* Standard spørgsmålstegn */
+      font-size: 1.3em;
+      margin-right: 8px;
+    }
+  }
+
+  &:hover {
+    background-color: rgba(0, 115, 230, 0.1);
+    /* Let baggrundsændring på hover */
+    border-color: #005bbb;
+    /* Skifter til en mørkere blå kant */
+  }
+}
+
+/* FAQ */
+
+/* Forbedrer udseendet af FAQ-listen */
+.faq {
+  margin-bottom: 1em;
+  /* Afstand mellem FAQ-elementer */
+}
+
+.faq summary {
+  cursor: pointer;
+  /* Ændrer markøren for at gøre det klikbart */
+  display: flex;
+  /* Brug flexbox for at placere pilen og overskriften på samme linje */
+  align-items: center;
+  /* Vertikal centrering af indholdet */
+  background-color: #f1f1f1;
+  /* Lys baggrund for bedre synlighed */
+  padding: 0.5em;
+  /* Polstring for bedre klikbarhed */
+  border: 1px solid #ddd;
+  /* Let kant omkring elementerne */
+  transition: background-color 0.3s ease;
+  /* Blød overgang ved hover */
+  font-weight: bold;
+  /* Gør spørgsmålet mere fremtrædende */
+  position: relative;
+  /* Make sure that the arrows position correctly */
+}
+
+/* Hover-effekt for feedback */
+.faq summary:hover {
+  background-color: #e1e1e1;
+  /* Mørkere baggrund ved hover for interaktivitet */
+}
+
+/* Styling af spørgsmålene */
+.faq h3 {
+  margin: 0;
+  /* Fjern ekstra margin omkring h3 */
+  font-size: 1.1em;
+  /* Let forstørrelse af teksten */
+  color: #333;
+  /* Mørk tekstfarve for læsbarhed */
+}
+
+/* Tilføj en indrykning til svaret, så det skiller sig ud */
+.faq p {
+  margin-top: 10px;
+  /* Afstand fra spørgsmålet til svaret */
+  padding-left: 20px;
+  /* Indrykning af svaret */
+  color: #444;
+  /* Lysere tekstfarve for svarene */
+  line-height: 1.6;
+  /* Bedre linjeafstand */
+}
+
+/* Tilføjer en pil ved siden af spørgsmålet */
+.faq summary::before {
+  content: "▶";
+  /* Standard pil for lukket FAQ */
+  font-size: 1.2em;
+  /* Juster pilens størrelse */
+  margin-right: 10px;
+  /* Plads mellem pil og tekst */
+  transition: transform 0.3s ease;
+  /* Blød overgang ved pil rotation */
+}
+
+/* Når FAQ er åbnet, ændres pilen */
+.faq[open] summary::before {
+  content: "▼";
+  /* Pil der peger ned, når FAQ er åben */
+  transform: rotate(180deg);
+  /* Rotér pilen, når åbnet */
+}

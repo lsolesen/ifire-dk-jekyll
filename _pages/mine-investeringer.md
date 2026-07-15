@@ -33,29 +33,102 @@ feature_row_own:
 weight: 50
 ---
 
+### 📊 Strategisk overblik
+
+Herunder kan du se det overordnede strategi for min investerings-portefølje. Alle depoter er opbygget af **passive indeksfonde og ETF'er**, men de er skarpt opdelt, så de passer til de danske skatteregler:
+
+| Depot-type | Primært aktiv | Investeringsfokus | Skatteform | Kommentarer |
+| :--- | :--- | :--- | :--- | :--- |
+| **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft |
+| **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet | **Lagerskat** (17% aktieskat) | Indbetalingsloft |
+| **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet | **Realisationsskat** (27%/42% aktieskat) | Undgå lagerbeskatning |
+| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Selvvalg af aktiefonde med lav ÅOP |
+
+## 💸 Frie midler - aktiemarkedet
+
+<details class="question" markdown="1">
+  <summary>💼 Frie midler - Nordnet</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🚀 Aktiesparekonto - Nordnet</summary>
+
+</details>
+
+
+## 🌅 Pension - aktiemarkedet
+
+<details class="question" markdown="1">
+  <summary>👵 Aldersopsparing - Nordnet</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🔒 Kapitalpension - Nordnet</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🏢 Firmabetalt ratepension - Velliv</summary>
+
+</details>
+
+## Frie midler - øvrige investeringer
+
+<details class="question" markdown="1">
+  <summary>🛑 Crowdlending - under afvikling</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🪙 Kryptovaluta</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🌳 Investering i træer - under afvikling</summary>
+
+</details>
+
+
+## 🐷 Opsparing
+
+<details class="question" markdown="1">
+  <summary>🛡️ Nødopsparing - AL Sydbank - 10.000 DKK - 0,15% i rente</summary>
+
+</details>
+
+<details class="question" markdown="1">
+  <summary>🏦 Nødopsparing - Norwegian - 40.000 DKK - 1,45% i rente</summary>
+
+</details>
+
+
 {{ page.excerpt }}
 
-**Vær opmærksom på, at jeg ikke opfordrer dig til at investere på samme måde som mij. Jeg viser dig bare, hvordan jeg gør. Hvad du gør med den viden, må du selv om. Dine penge er dit ansvar.**
+**Vær opmærksom på, at jeg ikke opfordrer dig til at investere på samme måde som mig. Jeg viser dig bare, hvordan jeg gør. Hvad du gør med den viden, må du selv om. Dine penge er dit ansvar.**
 
 Efter mange år på aktiemarkedet har jeg for nylig trukket en streg i sandet og gennemført den helt store hovedrengøring i min økonomi. Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
 
-Kernen i [min investeringsstrategi](/min-investeringsstrategi/) kan opsummeres i tre principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er maksimalt **skatteoptimeret** i forhold til danske regler, så jeg **maksimerer effekten af renters rente**.
+Kernen i [min investeringsstrategi](/min-investeringsstrategi/) kan opsummeres i disse principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er maksimalt **skatteoptimeret** i forhold til danske regler, så jeg **maksimerer effekten af renters rente**. 
+
+Hvor det overhovedet er muligt, bygger min strategi udelukkende på **passive indeksfonde og ETF'er**. Det er ekstremt usandsynligt, at jeg skulle være i stand til at håndplukke de rigtige enkeltaktier over en 20-årig periode, så den øvelse holder jeg mig langt fra. Jeg vil have markedsafkastet, og det skal være så billigt som muligt. Derfor er jeg **fuldt investeret** ud over min nødopsparing.
 
 Jeg ejer ingen mursten og har hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed – og total nattero.
 
-Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/)**.
+Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/) og [min investorhistorie](/min-investorrejse/)**.
 
 På denne side kigger vi udelukkende på det konkrete, nuværende setup og de strategiske overvejelser bag hvert enkelt valg.
 
 ---
 
-## Min risikoprofil: 100 % aktier til den lange bane
+## Min risikoprofil: 100% aktier til den lange bane
 
-Min risikoprofil er i den høje ende. Da jeg er langsigtet investor med en tidshorisont på minimum 15-20 år før udbetalingerne for alvor starter, har jeg truffet et bevidst valg om at gå **100 % i aktier** på mine store depoter. 
+Jeg er langsigtet investor med en tidshorisont på minimum 15-20 år før udbetalingerne for alvor starter, har jeg truffet et bevidst valg om at gå **100 % i aktier** på mine store depoter. Det vil man karakterisere som en risikoprofil er i den høje ende. 
 
-Jeg har valgt at droppe traditionelle obligationer som risikodæmper i mine investeringsdepoter. De obligationer, der er tilgængelige i diverse blandede fonde, er i min optik for dyre i gebyrer og æder for meget af det langsigtede afkastpotentiale. Den nødvendige risikostyring og stabilitet henter jeg ikke i depotet, men derimod i min kontante nødopsparing, som jeg forklarer i bunden af siden.
+Jeg har valgt at droppe traditionelle obligationer i mine investeringsdepoter. De obligationer, der er tilgængelige i diverse blandede fonde, er i min optik for dyre i gebyrer og æder for meget af det langsigtede afkastpotentiale. Den nødvendige risikostyring og stabilitet henter jeg ikke i depotet, men derimod i min kontante nødopsparing, som jeg forklarer i bunden af siden.
 
-Hvor det overhovedet er muligt, bygger min strategi udelukkende på **passive indeksfonde og ETF'er**. Det er ekstremt usandsynligt, at jeg skulle være i stand til at håndplukke de rigtige enkeltaktier over en 20-årig periode, så den øvelse holder jeg mig langt fra. Jeg vil have markedsafkastet, og det skal være så billigt som muligt.
 
 ---
 

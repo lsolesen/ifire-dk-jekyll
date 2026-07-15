@@ -132,4 +132,104 @@ Jeg bruger bl.a. følgende værktøjer:
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGW14RxupaNWMwAc41OkBrTZVizIehYyLkyKfnWEkKk-akTxGCzs40s8fIAaoqSY6CKALn0jQwhYQ3/pubchart?oid=1805344946&amp;format=image"></iframe>
 
+
+---
+layout: single
+title: "Passiv indkomst: Mine 5 ærlige eksperimenter med at tjene penge online"
+permalink: /passiv-indkomst/
+description: "Passiv indkomst lyder let, men kræver hårdt arbejde. Læs om mine eksperimenter med aktier, blogs, udgivelse af bøger, udlejning og Shutterstock."
+---
+
+Passiv indkomst er drømmen om at tjene penge, mens du sover. Det er faktisk muligt, men det er sjældent så let at opbygge, som mange "gurus" på internettet påstår.
+
+Jeg har selv eksperimenteret intensivt med at skabe en passiv indtægt som en del af min rejse mod økonomisk frihed. Jeg har læst og undersøgt utrolig mange ting, og det er desværre let at blive snydt. Tilbud om at tjene hurtige, lette penge findes overalt online. 
+
+Fælles for al passiv indkomst er, at du først skal **investere din tid eller dine penge**. Det kræver et massivt, forudgående arbejde at bygge det system, der senere kan køre på autopilot og sende penge ind på din konto jævnligt.
+
+Her har jeg samlet de måder, jeg selv har forsøgt at skabe passiv indkomst på. Nogle virkede fantastisk, andre var et udmattende mareridt. Her er mine hudløst ærlige erfaringer.
+
+## 1. Aktier og Indeksfonde (Den ægte passive indkomst)
+
+Den mest "ægte" form for passiv indkomst får du ved at investere dine penge. Historisk set har aktiemarkedet været den mest pålidelige maskine til at bygge formue. 
+
+Hvis du har penge stående på en nul-rente konto i banken, mister de værdi på grund af inflation. Hvis du i stedet investerer dem, kan du lade renters rente gøre arbejdet for dig. Det kræver dog, at du ikke står og skal bruge pengene lige nu og her, da verdensmarkedet går op og ned. 
+
+Den bedste og mest simple metode, jeg har fundet, er at investere i brede, passive indeksfonde, der dækker hele verdensmarkedet. Det kræver blot, at du opretter en månedsopsparing hos Nordnet og sætter den på autopilot – eller lader tjenester som Nord.Investments gøre arbejdet for dig. Når maskinen kører, kræver det vitterligt 0 timer af din tid.
+👉 [Læs alt om min investeringsstrategi her](/min-investeringsstrategi/)
+
+## 2. Crowdlending (Den risikable indkomst)
+
+I 2018 og 2019 var crowdlending det helt store inden for passiv indkomst. Konceptet er simpelt: Du agerer bank og låner dine penge ud til private eller virksomheder mod at få en høj rente (ofte 10-14%).
+
+Jeg gik massivt ind i det og var spredt på over 20 forskellige platforme. Men i løbet af Corona-krisen i 2020 krakkede flere platforme, og nogle (som Envestio og Grupeer) viste sig at være deciderede svindelnumre. Selvom jeg har tjent penge på platforme som Mintos og EstateGuru, kræver det et stort opsyn, og risikoen er enorm.
+👉 [Læs hele min ærlige beretning og se min "kirkegård" over tabte penge i crowdlending her](/crowdlending-svindel-erfaringer/)
+
+## 3. At bygge og optimere niche-blogs (Reklamer og Affiliate)
+
+Mit suverænt mest tidskrævende – men også sjoveste – projekt for at skabe en indtægt, der kun krævede min tid, var at bygge og genoplive niche-sites som *Motionsplan.dk* og *Cykel-ruter.dk*. 
+
+Jeg brugte metoderne fra amerikanske *Income School* til at fokusere stenhårdt på SEO (søgemaskineoptimering) frem for at plastre mine sider til med irriterende affiliate-links. Målet var at skrive det mest "overraskende hjælpsomme indhold" på Google.
+
+Det var voldsomt hårdt teknisk arbejde. Jeg brugte uger på at flytte mine sites fra et tungt Drupal-setup til lynhurtige Jekyll-servere på Github Pages. Men det virkede. Trafikken eksploderede til op mod 75.000 besøgende om måneden, og jeg skiftede fra Google Adsense til annoncenetværket Ezoic, som via kunstig intelligens hastighedsoptimerer og tester annonceplaceringer. Det hævede min månedlige indtjening fra 16 kroner i starten af projektet til knap 2.800 kroner.
+👉 [Læs min fulde, dybdegående case om SEO, Ezoic og hvordan man (måske) kan leve af at blogge](/tjene-penge-blogge/)
+
+## 4. Low Content-bøger på Amazon KDP (via Fiverr)
+
+Da mine blogs begyndte at køre, ville jeg eksperimentere med noget nyt: At sælge såkaldte *Low Content*-bøger (malebøger, dagbøger og Sudoku-hæfter) internationalt på Amazon Kindle Digital Publishing (KDP). 
+
+For at gøre processen så passiv som muligt, valgte jeg at udlicitere selve indholdsproduktionen via freelance-platformen *Fiverr*. Fiverr er genialt, men det kræver tålmodighed. Jeg indhentede tilbud på Sudokus og anatomi-tegninger, men måtte hurtigt sortere mere end halvdelen af tilbuddene fra, fordi freelancerne simpelthen ikke havde forstået opgaven. Det ærgerlige ved Fiverr er også, at man nærmest skal i prisforhandling med hver enkelt freelancer, da de sjældent oplyser deres reelle pris fra start.
+
+Da materialet var i hus, bestod min egen opgave i at samle det, vælge de rigtige titler og skrive knivskarpe, SEO-optimerede produktbeskrivelser til Amazon for overhovedet at gøre mig håb om et salg. Konkurrencen er nemlig enorm.
+
+## 5. Sælg billeder på Shutterstock (Det tekniske mareridt)
+
+Jeg har taget rigtig mange billeder i mit liv, og jeg tænkte, at jeg kunne skabe en lille passiv indkomst ved at sælge dem som "stock photos". Jeg brugte lang tid på at gennemgå mit arkiv og udvalgte bevidst kun billeder *uden* mennesker for at undgå bøvl med rettigheder. Jeg valgte at uploade dem til Shutterstock.
+
+Mit første og vigtigste tip til dig er: Udfyld titel og nøgleord i billedets metadata (EXIF-data), *inden* du uploader! Ellers kommer du til at bruge ulideligt lang tid på at skrive titler og søgeord ind manuelt for hvert eneste billede i deres system.
+
+Mit forsøg endte som en hård lektie i Shutterstocks strenge kvalitetskontrol: Det tog under et døgn at få min konto godkendt, men ud af mine 14 indsendte testbilleder blev kun 2 (!) godkendt. Næsten alle afvisninger skyldtes, at billederne var taget med for høj ISO, hvilket gav en lille smule digital støj. Jeg har måske 50-100 billeder tilbage i arkivet, der er gode nok, men processen viste mig, hvor uhyre krævende *photo stock*-markedet reelt er.
+
+## 6. Udlejning af bolig via AirBnb
+
+Dette var et af de mest lavpraktiske eksperimenter på min rejse. Mens vi selv var på sommerferie i et andet lejet sommerhus, valgte vi at leje vores eget hus ud via AirBnb. 
+
+Passivt? Ikke helt. Det krævede selvfølgelig en gigantisk hovedrengøring inden afrejse. Men indsatsen betalte sig lynhurtigt. Selvom AirBnb tager deres del af kagen i gebyrer, gav udlejningen af vores eget hus en reel indtægt på 5.251 kr. på en uge, hvilket stort set dækkede vores egne ferieudgifter det år.
+
+## 7. Kryptovaluta-mining
+
+I 2019 eksperimenterede jeg desuden med at *mine* kryptovalutaen Monero (XMR) via programmet Minergate på min private computer. Programmet lå og løste opgaver i baggrunden, når min CPU alligevel havde overskud. 
+
+Var det en guldgrube? Absolut ikke. En hel måneds uafbrudt mining indbragte mig præcis 0,075 XMR, hvilket dengang svarede til 7 USD (cirka 45 kroner). Sammenholdt med strømforbruget og sliddet på computeren var det mest af alt et sjovt nørde-eksperiment frem for en holdbar kilde til indtjening. 
+
+## Kan man leve af passiv indkomst?
+
+Et af grundelementerne i FIRE (Financial Independence, Retire Early) er at skabe passive indkomststrømme, der er høje nok til at dække dine leveomkostninger. For at leve af passiv indkomst, skal du altså tjene nok til at dække dine faste og variable udgifter. Det har jeg skrevet meget mere om i mit indlæg omkring **[Status på FIRE: Er jeg Coast FIRE?](/fire-status/)**
+
+Passiv indkomst er sjældent 100% passivt. Men når først man har brugt timerne – eller årene – på at bygge et system, en blog eller en aktieportefølje op, så findes der få ting mere motiverende end at se indtjeningen tikke ind, mens man laver noget andet.
+
+## Logbogen: Mine ærlige noter om alternative eksperimenter
+
+Herunder har jeg samlet de ufiltrerede uddrag fra mine oprindelige månedsopdateringer, der omhandler mine mere skæve forsøg på at skabe passiv indkomst ud over aktier og blogging. 
+
+*(Leder du specifikt efter, hvordan min indtjening og trafik har udviklet sig måned for måned på mine blogs, finder du [min dedikerede logbog for blogging her](/tjene-penge-blogge/)).*
+
+<details>
+  <summary><strong>2019: AirBnb, Shutterstock og (uduelig) Crypto-mining</strong></summary>
+  
+  <br>
+
+  * **Juli (AirBnb):** Mens vi selv var på sommerferie i et andet lejet sommerhus, prøvede vi for første gang at leje vores eget hus ud via AirBnb [1, 5]. Udlejningen dækkede stort set vores egne boligudgifter på ferien og gav en reel indtægt på 5.251 DKK på en enkelt måned [1]. 
+  * **Efterår (Shutterstock):** Jeg udvalgte 14 billeder uden mennesker fra mit store arkiv for at sælge dem som *stock photos* på Shutterstock [6, 7]. Jeg brugte lang tid på at skrive titler og søgeord, men kun 2 ud af de 14 billeder blev godkendt, primært fordi de var taget med for høj ISO, hvilket gav støj i billederne [2]. En hård lektie i platformens kvalitetskrav [2].
+  * **Løbende (Minergate):** Jeg har eksperimenteret lidt med at lade min private computer *mine* kryptovalutaen Monero (XMR) i baggrunden, når processoren har overskud [3]. På en hel måneds uafbrudt mining har jeg tjent svimlende 0,075 XMR, hvilket svarer til ca. 7 dollars [3]. Strømforbruget og sliddet på computeren gør det til et rent nørde-eksperiment frem for en indtægtskilde [3].
+</details>
+
+<details>
+  <summary><strong>2021: Amazon KDP og udlicitering på Fiverr</strong></summary>
+  
+  <br>
+
+  * **Marts:** Jeg er begyndt at eksperimentere med at udgive *low content*-bøger på Amazon Kindle Digital Publishing [4]. For at gøre produktionen mere passiv, har jeg brugt platformen Fiverr til at få freelancere til at levere indholdet til malebøger og Sudokus [4]. Fiverr er fantastisk til småopgaver, men man skal forhandle pris med hver enkelt, og flere freelancere forstod i første omgang slet ikke opgaven [8]. Nu står jeg med det tunge manuelle arbejde med at skrive de helt rigtige SEO-tekster til Amazon for overhovedet at få solgt en bog [4].
+</details>
+
+
 {% include disclaimer.md %}

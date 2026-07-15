@@ -359,6 +359,89 @@ Om der er plads til at betale et lån tilbage.
 
 {% endcomment %}
 
+## Mine kategorier
+
+Jeg bruger kategorierne fra min netbank. For nemheds skyld kategoriserer jeg de enkelte hovedkategorier som enten faste udgifter eller variable udgifter, selvom der under de enkelte kategorier ligger lidt forskelligt i bankens opstilling. Da jeg ikke har noget billån, så ligger transport for mig under variable udgifter.
+
+### Indtægter
+
+- Løn & Dagpenge
+- Offentlige ydelser
+- Ekstraordinære indtægter
+- Andet
+
+### Faste udgifter
+
+* 🏠 **Bolig**
+* 🏦 Termin, husleje og boliglån
+* 🛠️ Vedligeholdelse (variabel)
+* ⚡ Varme, vand, el og gas
+* 🧾 Skatter & Afgifter
+* 🛋️ Indretning og udstyr (variabel)
+* 📦 Andet
+
+
+* 📝 **Øvrige faste udgifter**
+* 🏦 Lån
+* 💼 Fagforening & A-kasse
+* 🛡️ Forsikring
+* 🏫 Institution
+* 📱 Telefon, internet og tv (inkl. streaming)
+* 👶 Ægtefælle & Børnebidrag
+* 📎 Andet
+
+
+* 🏖️ **Fritidshus**
+* 🏦 Termin, husleje og boliglån
+* 🛠️ Vedligeholdelse (variabel)
+* ⚡ Varme, vand, el og gas
+* 🧾 Skatter & Afgifter
+* 🛋️ Indretning og udstyr (variabel)
+* 🏡 Andet
+
+
+### Variable udgifter
+
+* 🛒 **Husholdning**
+* 🛍️ Dagligvarer
+* 🍔 Fastfood og takeaway
+* 👕 Tøj, sko og accessories
+* 🧴 Personlig pleje
+* 💊 Sundhed
+* 🐾 Kæledyr & Husdyr
+* 📦 Andet
+
+
+* 🚗 **Transport**
+* ⛽ Brændstof (variabel)
+* 🚌 Offentlig transport (variabel)
+* 🔧 Vedligeholdelse (variabel)
+* 🔑 Billån (fast)
+* 🚲 Andet
+
+
+* ⛵ **Fritid og fornøjelse**
+* ✈️ Rejse og ferie
+* ⚽ Sport og fritid
+* ☕ Café og restaurant
+* 🍿 Biograf, koncert & Forlystelser
+* 🎮 Elektronik, gadgets, spil mv.
+* 📚 Film, musik & Læsestof
+* 🎭 Andet
+
+
+* 💳 **Andre udgifter**
+* 📈 Gebyr, Rente & Provision (fast eller variabel)
+* 🎁 Gaver og velgørenhed
+* 💰 Opsparing
+* 💸 Andet
+
+### Noter
+
+Jeg bruger denne opstilling, fordi det er lettest ift. den måde banken også ser det på. Jeg har i mit budget lavet en lille finte, hvor jeg kategoriserer hver udgift med en fast eller variabel, og så lavet to rækker i bunden, som deler det lidt mere minutiøst op i faste eller variable udgifter. På denne måde kan jeg udnytte bankens kategoriseringssystem til at følge op på det hele.
+
+💰 Opsparing - Jeg har success med at bruge opsparing som en fast udgift efter princippet _pay yourself first_, så pengene ikke ser ud til at være til rådighed. Jeg overfører hver måned først på måneden et fast beløb til min månedsopsparing, som bliver investeret. Se mere under [mine investeringer](/mine-investeringer/).
+
 ## Konklusion
 
 En af de store pengeslugere er din mad. Du kan lægge et [mad budget]({% link _posts/2021-04-01-madbudget-luksusfaelden.md %}), så du undgår at den post sluger hele dit rådighedsbeløb.
