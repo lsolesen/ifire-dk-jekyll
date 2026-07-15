@@ -1,8 +1,8 @@
 ---
 layout: single
-title: &title "Min investeringsportefølje: Mit komplette aktiesetup og strategien bag"
+title: &title "Min investeringsportefølje"
 seo_title: "Min investeringsportefølje • Gennemgang af mit setup »"
-excerpt: "En fuldstændig, hudløst ærlig gennemgang af min formuestruktur. Se hvilke indeksfonde og ETF'er jeg ejer, og hør de skattemæssige årsager til mine valg."
+excerpt: "En fuldstændig gennemgang af min investeringsportefølje. Se hvilke indeksfonde og ETF'er jeg ejer, og overvejelser om de skattemæssige årsager til mine valg."
 permalink: /mine-investeringer/
 redirect_from:
   - /investeringer/
@@ -28,202 +28,196 @@ header:
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
     excerpt: "Jeg bruger primært [Nordnet](/go/nordnet/){: rel='nofollow noopener' } til mine frie midler via Månedsopsparingen, min Aktiesparekonto og min Aldersopsparing."
-  - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: "Jeg supplerer med [SaxoInvestor](/go/saxoinvestor/){: rel='nofollow noopener' } til de depoter, hvor kurtagestrukturen uden minimumskurtage giver mig den bedste fleksibilitet."
 weight: 50
 ---
 
-### 📊 Strategisk overblik
-
-Herunder kan du se det overordnede strategi for min investerings-portefølje. Alle depoter er opbygget af **passive indeksfonde og ETF'er**, men de er skarpt opdelt, så de passer til de danske skatteregler:
-
-| Depot-type | Primært aktiv | Investeringsfokus | Skatteform | Kommentarer |
-| :--- | :--- | :--- | :--- | :--- |
-| **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft |
-| **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet | **Lagerskat** (17% aktieskat) | Indbetalingsloft |
-| **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet | **Realisationsskat** (27%/42% aktieskat) | Undgå lagerbeskatning |
-| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Selvvalg af aktiefonde med lav ÅOP |
-
-## 💸 Frie midler - aktiemarkedet
-
-<details class="question" markdown="1">
-  <summary>💼 Frie midler - Nordnet</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🚀 Aktiesparekonto - Nordnet</summary>
-
-</details>
-
-
-## 🌅 Pension - aktiemarkedet
-
-<details class="question" markdown="1">
-  <summary>👵 Aldersopsparing - Nordnet</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🔒 Kapitalpension - Nordnet</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🏢 Firmabetalt ratepension - Velliv</summary>
-
-</details>
-
-## Frie midler - øvrige investeringer
-
-<details class="question" markdown="1">
-  <summary>🛑 Crowdlending - under afvikling</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🪙 Kryptovaluta</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🌳 Investering i træer - under afvikling</summary>
-
-</details>
-
-
-## 🐷 Opsparing
-
-<details class="question" markdown="1">
-  <summary>🛡️ Nødopsparing - AL Sydbank - 10.000 DKK - 0,15% i rente</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🏦 Nødopsparing - Norwegian - 40.000 DKK - 1,45% i rente</summary>
-
-</details>
-
-
 {{ page.excerpt }}
 
-**Vær opmærksom på, at jeg ikke opfordrer dig til at investere på samme måde som mig. Jeg viser dig bare, hvordan jeg gør. Hvad du gør med den viden, må du selv om. Dine penge er dit ansvar.**
+**Jeg opfordrer dig ikke til at investere på samme måde som mig. Jeg viser dig bare, hvordan jeg gør. Dine penge er dit ansvar.**
 
-Efter mange år på aktiemarkedet har jeg for nylig trukket en streg i sandet og gennemført den helt store hovedrengøring i min økonomi. Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
+Jeg bor til leje. Har ingen gæld og ejer ikke et hus, så hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, og jeg tilstræber at lave et setup, som ikke kræver særlig megen tankevirksomhed.
 
-Kernen i [min investeringsstrategi](/min-investeringsstrategi/) kan opsummeres i disse principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er maksimalt **skatteoptimeret** i forhold til danske regler, så jeg **maksimerer effekten af renters rente**. 
+Efter mange år på aktiemarkedet er jeg endt med en [simpel investeringsstrategi](/min-investeringsstrategi/), som kan opsummeres i disse tre principper: **Prisbillige, passive indeksfonde**, der følger **verdensindekset**, struktureret så det er **skatteoptimeret til danske forhold**, så jeg **maksimerer effekten af renters rente**
 
-Hvor det overhovedet er muligt, bygger min strategi udelukkende på **passive indeksfonde og ETF'er**. Det er ekstremt usandsynligt, at jeg skulle være i stand til at håndplukke de rigtige enkeltaktier over en 20-årig periode, så den øvelse holder jeg mig langt fra. Jeg vil have markedsafkastet, og det skal være så billigt som muligt. Derfor er jeg **fuldt investeret** ud over min nødopsparing.
+Jeg tror ikke, at jeg kan slå markedet, så derfor forsøger jeg at være fuldt investeret ud over min nødopsparing.
 
-Jeg ejer ingen mursten og har hele min formue i værdipapirer. Det giver mig den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed – og total nattero.
+Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
 
 Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/) og [min investorhistorie](/min-investorrejse/)**.
 
-På denne side kigger vi udelukkende på det konkrete, nuværende setup og de strategiske overvejelser bag hvert enkelt valg.
+---
+
+## 📊 Strategisk overblik
+
+Herunder kan du se det overordnede landkort over min kerneportefølje. Alle depoter er opbygget af **passive indeksfonde og ETF'er**, men de er skarpt opdelt, så de passer til de danske skatteregler:
+
+| Depot-type | Primært aktiv | Investeringsfokus | Skatteform | Kommentarer |
+| :--- | :--- | :--- | :--- | :--- |
+| **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet (inkl. EM) | **Realisationsskat** (27%/42% aktieskat) | Undgår tvangssalg og lagerbeskatning. Giver fuld kontrol. |
+| **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet (DM) | **Lagerskat** (17% aktieskat) | Indbetalingsloft udnyttes fuldt ud med markedets laveste ÅOP. |
+| **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet (+ guld-satellit) | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft udnyttes. Guld skatteoptimeres herinde. |
+| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet (88% DM / 12% EM) | **PAL-skat** (15,3% lagerskat) | Sættes op via firmaindbetaling (Velliv selvvalg) med ultralav ÅOP. |
+
+---
+
+## 💸 Frie midler - aktiemarkedet
+
+De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er jo særligt dem, der kan give frihed - og bygge bro til pensionsmidlerne.
+
+<details class="faq" markdown="1">
+  <summary>🚀 Aktiesparekonto - Nordnet</summary>
+
+  * **Mit fondsvalg:** iShares MSCI ACWI UCITS ETF USD Acc (IUSQ)
+  * **Indeks:** MSCI World ACWI (ingen small cap)
+  * **Beskatning:** Lagerbeskatning (17% lagerskat)
+  * **ÅOP:** 0,20%
+  
+  Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
+
+  Jeg har dog andre overvejelser, inden jeg fylder aktiesparekontoen helt op. Fx WEBN til ÅOP 0,07% eller SPYI til 0,17% (som indeholder small cap). Tjek [lagerbeskatte fonde på skats positivliste](/bedste-etf-skats-positivliste/).
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>💼 Frie midler - Nordnet</summary>
+
+  **Strategi**: Realisationsbeskatning med udbyttebetalende danske fonde.
+
+  * **Mit primære fondsvalg:** Sparinvest INDEX MSCI ACWI (SPIIMA)
+  * **Indeks**: MSCI World ACWI (excl. small cap)
+  * **Beskatning:** Realisationsprincippet (27% / 42% progressionsskat)
+  * **ÅOP:** 0,35%
+
+  Jeg ønsker ikke at lagerbeskatte mine frie midler. Derfor vælger jeg en fond, der bliver realisationsbeskattet. Derfor skal jeg vælge en dansk fond, som har lidt højere årlige omkostninger end de udenlandske ETF'er. Realisationsbeskatningen sikrer, at jeg kun betaler skat, når jeg reelt sælger andele eller får udbytte. Det er med til at maksimere renters rente-effekten på den lange bane. Fonden dækker hele verden i ét værdipapir, hvilket gør administrationen minimal.
+  
+  Jeg køber om muligt på Nordnets månedsopsparing for faste månedlige indskud. 
+
+  Ud over mit foretrukne valg af fond, har jeg historisk købt et par andre fonde.
+
+  | Fond | Indeks / Dækning | Andel | ÅOP | Skattestatus |
+  | :--- | :--- | :--- | :--- | :--- |
+  | **Sparinvest INDEX Dow Jones Sustainability World KL** (SPIDJB) | DJSI World (kun udviklede lande) | 0,50% |
+  | **Sparinvest INDEX Emerging Markets KL** (SPIEMIKL) | Emerging Markets (udviklingslande) | 0,50% |
+  | **Sparinvest INDEX Globale Aktier KL** (SPIVIGAKL) | Morningstar Global All Cap TME Screened Select | 0,50% |
+
+  **Hvorfor ser mine frie midler sådan ud?**
+
+  Oprindeligt købte jeg SPIDJB og SPIEMIKL i en 85/15% fordeling for at få noget, der lignede hele verden. Senere begyndte jeg at købe SPIVIGAKL for at få en fond, der dækker hele verden i en fond inkl. small cap. Nu foretrækker jeg de lavere omkostninger i SPIIMA, men må undvære small cap. Det lever jeg med.
+
+  Selvom mit langsigtede kompas peger mod ét enkelt værdipapir, så afspejler min nuværende portefølje udviklingen over tid - og de fonde jeg tidligere tænkte var de bedste.
+
+  I stedet for at tvangssælge ældre, velfungerende fonde (og derved udløse en stor her-og-nu skatteregning af historiske gevinster), lader jeg dem stå og passe sig selv. Nye indbetalinger via min Månedsopsparing rettes dog mod min primære kernefond.
+
+</details>
+
+---
+
+## 🌅 Pension - aktiemarkedet
+
+Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reglerne for PAL-skat på 15,3%.
+
+<details class="faq" markdown="1">
+  <summary>👵 Aldersopsparing - Nordnet</summary>
+
+  * **Primære aktiver:** Nordnet Globale Aktier Index (88%) & Nordnet Emerging Markets Index Aktier (12%)
+  * **Indeks:** MSCI World + Emerging markets (ingen small cap)
+  * **Beskatning:** PAL-skat (15,3%)
+  * **ÅOP:** 0,32% (vægtet)
+  
+  Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>🔒 Kapitalpension - Nordnet</summary>
+
+  * **Primære aktiver:** Nordnet Globale Aktier Index (88%) & Nordnet Emerging Markets Index Aktier (12%)
+  * **Indeks:** MSCI World + Emerging Markets (ingen small cap)
+  * **Beskatning:** PAL-skat (15,3%)
+  * **ÅOP:** 0,32% (vægtet)
+  
+  Der må ikke længere indbetales på kapitalpensionen. Det er en gammel pensionsordning.
+
+  Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
+
+  **Bemærk**: Jeg overvejer at få konverteret kapitalpensionen til en aldersopsparing. Det koster ganske vist 40% nu, men et gør administrationen meget lettere - og jeg skal alligevel betale 40% senere. Det betyder, at jeg kan optimere investeringen på min aldersopsparing bedst muligt.
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>🏢 Firmabetalt ratepension - Velliv</summary>
+
+  * **Mit fondsvalg:** Velliv Globale Aktier Index (88%) & Velliv Emerging Markets Index Aktier (12%)
+  * **Indeks**: MSCI World og Emerging Markets (ingen small cap)
+  * **Beskatning:** PAL-skat (15,3%)
+  * **Samlet ÅOP:** Ca. 0,29% (vægtet - hhv. 0,27% og 0,43%)
+  
+  Jeg har fravalgt Vellivs standardiserede, aktive pakker, da der er for høje årlige omkostninger og andele af obligationer og andre investeringsklasser til min smag. I stedet bruger jeg deres *LinkPension (Selvvalg)* til at stykke min egen billige og passive portefølje sammen, som rammer den reelle, globale marked.
+
+</details>
+
+---
+
+## 🪵 Frie midler - øvrige investeringer (Historiske rester)
+
+*Note: De følgende tre punkter strider bevidst imod principperne i mit nuværende investeringskompas. Det er historiske eksperimenter, som i dag er under afvikling for at forenkle min økonomi.*
+
+<details class="faq" markdown="1">
+  <summary>🛑 Crowdlending - under afvikling</summary>
+
+  Efter at have testet over 20 platforme har jeg iværksat et totalt exit. Risikoen og administrationen står simpelthen ikke mål med det passive afkast fra brede indeksfonde. Jeg har i dag kun en mikroskopisk rest tilbage fordelt på platformene *Mintos*, *Trine*, *Flexfunding* og *Lendino*, som passivt tikker ind, mens de sidste historiske lån afvikles. Pengene genplaceres løbende i aktiemarkedet.
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>🪙 Kryptovaluta</summary>
+
+  Tidligere eksperimenterede jeg en del med kryptovaluta og "staking/udlån", hvilket bl.a. endte i en ubehagelig konkurs med platformen Cred. I dag fravælger jeg krypto i min kerneportefølje, men jeg har stadig en mindre beholdning af Bitcoins, som dog i øjeblikket ikke har strategisk betydning for mig. 
+  
+  Jeg lider dog lidt af FOMO i forhold til Bitcoins.
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>🌳 Investering i træer - under afvikling</summary>
+
+  Dette var et tidligere forsøg på grøn, alternativ investering. Projektet er sat på standby og jeg bruger mange tanker på, hvordan jeg får afviklet investeringen for at fjerne unødig kompleksitet fra min samlede formuestruktur.
+
+</details>
+
+---
+
+## 🐷 Opsparing
+
+Jeg har en nødopsparing for at undgå at blive nødt til at sælge aktier, hvis der kommer udforudsete udgifter. Strategisk har jeg til at dække 3 måneders faste udgifter, hvilket vil sige cirka 50.000 kroner.
+
+<details class="faq" markdown="1">
+  <summary>🛡️ Nødopsparing - AL Sydbank - 0,15% rente</summary>
+
+  Min hurtige kontante buffer, der står i min primære bank og er umiddelbart tilgængelige ved en hurtig overførsel. Uforudsete hverdagsudgifter, så er de tilgængelige med det samme. Desværre er renterne meget lave.
+
+</details>
+
+<details class="faq" markdown="1">
+  <summary>🏦 Nødopsparing - Norwegian - 1,45% rente</summary>
+
+  Min sekundære kontante buffer er placeret på en højrentekonto hos Norwegian. Denne del af nødopsparingen dækker de resterende måneders faste udgifter. Her står pengene sikkert og trækker en smule rente, mens de kan overføres til min hverdagsbank på 1-2 bankdage.
+
+</details>
 
 ---
 
 ## Min risikoprofil: 100% aktier til den lange bane
 
-Jeg er langsigtet investor med en tidshorisont på minimum 15-20 år før udbetalingerne for alvor starter, har jeg truffet et bevidst valg om at gå **100 % i aktier** på mine store depoter. Det vil man karakterisere som en risikoprofil er i den høje ende. 
+Jeg er langsigtet investor med en tidshorisont på minimum 15-20 år. Jeg har truffet et bevidst valg om at gå **100% i aktier** på mine store depoter. Det vil man kalde en **høj risikoprofil**. 
 
-Jeg har valgt at droppe traditionelle obligationer i mine investeringsdepoter. De obligationer, der er tilgængelige i diverse blandede fonde, er i min optik for dyre i gebyrer og æder for meget af det langsigtede afkastpotentiale. Den nødvendige risikostyring og stabilitet henter jeg ikke i depotet, men derimod i min kontante nødopsparing, som jeg forklarer i bunden af siden.
+Til gengæld **følger jeg verdensmarkedet** gennem **passive indeksfonde** med **lave omkostninger**, hvilket sikrer et langsigtet afkastpotentiale.
 
-
----
-
-## 1. Frie midler: Rygraden i min frihed (Nordnet)
-
-Da jeg bor i lejebolig, udgør mine frie midler størstedelen af min formue. Dette er min absolutte frihedsmotor. Hvis jeg beslutter mig for at gå på pension før tid, er det disse penge, jeg skal leve af i årene, indtil mine officielle pensionsmidler må udbetales.
-
-* **Mit fondsvalg:** Sparinvest INDEX Globale Aktier KL
-* **Beskatning:** Realisationsprincippet (27 % / 42 % aktieskat)
-
-### Hvorfor denne fond?
-Når man investerer i frie midler i Danmark, er skattestrukturen altavgørende. Jeg er **overhovedet ikke interesseret i lagerbeskatning i mine frie midler**, hvis jeg kan slippe. Dels forringer lagerbeskatningen renters rente-effekten over tid, og dels hænger den utrolig dårligt sammen med min drøm om tidlig pension. Hvis jeg i perioder ikke har en stor arbejdsindtægt, men ejer en lagerbeskattet portefølje, risikerer jeg at skulle tvangssælge ud af mine aktier blot for at få råd til at betale skatteregningen af urealiserede gevinster. Det er noget rod.
-
-Sparinvest-fonden er udbyttebetalende og sikrer, at jeg kun beskastes af selve kursgevinsterne den dag, jeg reelt sælger. Den dækker hele verden (både udviklede markeder, emerging markets og small cap) i ét enkelt værdipapir, hvilket gør administrationen minimal.
-* **Dyk dybere ned i strategien:** [Investering i aktier og værdipapirer: Den komplette begynderguide](/investering-aktier/)
-
-### Alternativerne jeg valgte fra:
-* **Storebrand Indeks - Alle Markeder:** En fantastisk og billig fond (ÅOP 0,30 %), som faktisk er realisationsbeskattet på trods af, at den er akkumulerende. Men den har den store hage, at beskatningen er teknisk besynderlig; du skal betale skatten af de akkumulerede gevinster over årsopgørelsen, uden at fonden udbetaler pengene til dig. Det kræver, at du skal finde likviditeten andetsteds fra hvert år. Det passer dårligt til mit temperament, og derfor har jeg valgt den fra i min store portefølje. *(Jeg bruger dog en lille satellit i Storebrand til børnenes efterskoleopsparing, hvor pengene alligevel skal låses og hæves løbende ad rater).*
-* **Danske Invest Global Indeks:** En fremragende og billig fond, men den dækker udelukkende udviklede markeder (Developed Markets). Det trade-off er jeg ikke interesseret i; jeg vil have emerging markets med i min kerneformue for at fange hele verdensmarkedet.
+Jeg bruger min **nødopsparing som værn mod risiko**, da den skal sikre mig, at jeg ikke bliver nødt til at sælge mine investeringer på ubelejlige tidspunkter.
 
 ---
 
-## 2. Aktiesparekontoen: Min skatteoptimerede aktiemotor
-
-Inden jeg skyder alle mine frie midler ind på det realisationsbeskattede depot, udnytter jeg naturligvis **Aktiesparekontoen (ASK)**. Investeringsloftet udnyttes fuldt ud for at få mest muligt ud af særreglerne.
-
-* **Mit fondsvalg:** iShares Core MSCI World UCITS ETF
-* **Beskatning:** Lagerbeskatning (17 % flad skat)
-
-### Hvorfor denne struktur?
-Den flade lagerskat på 17 % er markant lavere end de normale 27 % til 42 %, du betaler i almindelig aktieskat. Da en Aktiesparekonto under alle omstændigheder er tvunget i lagerbeskatning af staten, giver det perfekt mening at droppe de dyrere danske investeringsforeninger herinde. I stedet fylder jeg kontoen til loftet med en superbillig, udenlandsk, akkumulerende ETF med en ultralav ÅOP på kun 0,20 %. Den passer fuldstændig sig selv.
-* **Dyk dybere ned i strategien:** [Komplet guide til aktiesparekontoen](/aktiesparekonto/)
-* **Banken eller Nordnet?** Læs mine specifikke overvejelser om, hvor det bedst kan betale sig at have kontoen stående: [Aktiesparekonto i banken eller hos Nordnet? Det kolde regnestykke](/aktiesparekonto-bank-vs-nordnet/).
-
----
-
-## 3. Firmapension: Den rå indeksløsning (Velliv)
-
-Min store erhvervspension ligger hos Velliv under et *LinkPension (Selvvalg)*-produkt. Tidligere foreslog pensionsselskabet deres standardiserede "Høj Risiko"-pakker, som ofte indeholder unødvendige obligationer og aktive fonde med en højere ÅOP.
-
-Da jeg selv vil have kontrollen og barbere omkostningerne i bund, har jeg valgt to fonde til at dække verdensmarkedet:
-
-| Fond | Indeks / Dækning | Andel | ÅOP |
-| :--- | :--- | :--- | :--- |
-| **Velliv Globale Aktier Index** (State Street) | MSCI World (Udviklede lande, Large + Mid Cap) | **88 %** | 0,27 % |
-| **Velliv Emerging Markets Index Aktier** | MSCI Emerging Markets (Udviklingslande) | **12 %** | 0,43 % |
-
-### Hvorfor denne opdeling?
-* **Hvorfor 88/12?** Den globale fond fra State Street dækker kun den vestlige, udviklede verden. Ved at tilføje præcis 12 % emerging markets rammer jeg den reelle, globale markedsværdi (et fuldt ACWI-indeks) baseret på selskabernes faktiske størrelse. Jeg vægter efter objektive markedsdata frem for at gætte på et rundt tal.
-* **Hvorfor mangler der Small Cap?** Velliv tilbyder desværre ikke en selvstændig small cap-indeksfond i deres LinkPension-selvvalg. Den findes kun pakket ind i deres færdige livscyklusprodukter, hvor jeg mister kontrollen og tvinges over i en højere ÅOP. Jeg fravælger derfor bevidst small cap herinde for at bevare de ultralave omkostninger, og accepterer, at jeg dermed dækker ca. 96-97 % af verdensmarkedet.
-* **Skat:** Alle pensioner i Danmark afregnes efter det faste **pensionsprincip (PAL-skat) på 15,3 %**.
-
----
-
-## 4. Aldersopsparing & Kapitalpension: Min guld-satellit (Nordnet)
-
-Jeg har en mindre kapitalpension (en ældre ordning, der er lukket for nyindskud) samt min årlige aldersopsparing liggende hos Nordnet.
-
-* **Primære aktiver:** Globale indeks-ETF'er + en lille satellit i **Xetra-Gold**
-* **Beskatning:** PAL-skat på 15,3 % (lagerprincip)
-
-### Hvorfor guld netop her?
-Jeg har valgt at bevare en meget lille flig af min tidligere guld-strategi, men jeg har flyttet den **eksklusivt ind i mit pensionsmiljø**. Hvis du køber fysisk bakkede guld-fonde (ETC'er) i frie midler, bliver du straffet benhårdt; de lagerbeskattes som kapitalindkomst, hvilket ødelægger din skatteprocent. Men da pensionsdepotet kører i sit eget lukkede skattemiljø under den milde PAL-skat på 15,3 %, er det det eneste sted, hvor lagerbeskatning på råvarer er til at holde ud. Her fungerer det som en fin, isoleret forsikring.
-* **Dyk dybere ned i strategien:** [Min begynderguide og erfaringer med alternativ allokering og guld](/guld/)
-
----
-
-## Min Kontante Buffer (Nødopsparing)
-
-Når man har en formue i frie midler, kan det være fristende at have store beløb stående på en kontant opsparingskonto. Tidligere havde jeg 200.000 kr. stående som kontanter hos Nordnet, hvilket i bakspejlet var alt for meget inaktiv kapital. 
-
-Da jeg bor i lejebolig og har en minimal akut boligrisiko, har jeg reduceret min kontante nødopsparing til **ca. 2-3 måneders faste udgifter (ca. 50.000 kr.)**. De står på min almindelige bankkonto, så de er øjeblikkeligt tilgængelige via mit Dankort.
-
-* **Intet strategisk cash drag:** Statistisk set taber man for meget afkast ved at lade store kontantbeløb stå og vente på et markedsfald. Min automatiske Månedsopsparing og de løbende indbetalinger til Velliv fanger markedsfaldene helt automatisk over tid via *Dollar-Cost Averaging*. Du kan læse mere om den videnskabelige empiri bag denne tilgang i min guide: **[Hvordan kommer jeg ind i aktiemarkedet og hvorfor market timing fejler?](/hvornaar-ind-i-markedet/)**.
-
----
-
-## Crowdlending (Under afvikling)
-Efter at have testet over 20 platforme gennem tiden, har jeg iværksat et totalt exit. Administrationen og risikoen står simpelthen ikke mål med det passive afkast fra brede indeksfonde. Over 80-90 % af min kapital er trukket hjem og genplaceret i aktiemarkedet. 
-
-Jeg har i dag kun en mikroskopisk rest tilbage fordelt på 4 platforme (*Mintos*, *Trine*, *Flexfunding* og *Lendino*), som passivt tikker ind, mens de sidste historiske lån afvikles. Jeg hæver ikke beløbet i crowdlending igen.
-
-* **Vil du lære af mine fejl?** Læs min historie om de platforme, jeg har tabt tusindvis af kroner på (inklusive Ponzisvindel og konkurser) her: **[Kirkegården: Mine crowdlending-erfaringer](/crowdlending-svindel-erfaringer/)**.
-
----
-
-## De platforme og værktøjer, jeg bruger
-
-For at holde omkostningerne nede og automatiseringen i top, benytter jeg primært to danske platforme til mine frie midler og private pensioner:
-
-{% include feature_row id="feature_row_own" type="left" %}
-
----
-
-## Læs mine dybdegående guides om aktieinvestering
+## Læs mine dybdegående guides
 
 Hvis du selv vil i gang med at opbygge en simpel og solid aktieportefølje, kan du dykke ned i mine mest populære guides her:
 

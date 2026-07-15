@@ -1,7 +1,9 @@
 ---
 title: "Bedste ETF'er til FIRE: Lagerbeskatning og aktieindkomst"
 description: "Vil du bygge en ultrabillig global portefølje? Få den dybdegående guide til udenlandske ETF'er på SKATs positivliste og optimering af aktieindkomst."
-permalink: /bedste-etfer-fire-lagerbeskatning/
+permalink: /bedste-etf-skats-positivliste/
+redirect_from:
+  - /bedste-etfer-fire-lagerbeskatning/
 categories: [Investering, FIRE]
 tags: [ETF, Skat, Lagerbeskatning, Passiv indkomst]
 ---

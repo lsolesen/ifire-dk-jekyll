@@ -46,13 +46,6 @@ Her har jeg samlet alle mine store frie midler, efter jeg lukkede mit gamle og k
 * **Fokus:** Realisationsbeskatning. Jeg ønsker ikke at betale skat af urealiserede kursgevinster hvert eneste år (lagerbeskatning), da det æder den langsigtede renters rente-effekt.
 * **Valg af fond:** **Sparinvest INDEX Globale Aktier KL**. Fonden dækker hele verden, er udbyttebetalende og beskattes som aktieindkomst efter realisationsprincippet. Omkostningerne er lave, og opsparingen passer sig selv.
 
-### Efterskoleopsparingen (Satellit)
-
-Til børnenes kommende efterskoleopsparing har jeg valgt et særskilt og genialt produkt: **Storebrand Indeks - Alle Markeder**. 
-
-* Den har en ultralav ÅOP på kun 0,30 % og er en af de få udenlandske, akkumulerende fonde, der er **realisationsbeskattet** som aktieindkomst i Danmark. 
-* Pengene står og akkumulerer uforstyrret, og jeg sælger løbende ud af beviserne, efterhånden som raterne til efterskolen skal betales.
-
 ---
 
 ## 2. Aktiesparekontoen: Det oplagte valg til frie midler

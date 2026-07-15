@@ -17,9 +17,9 @@ weight: 0
 
 Da jeg startede iFire, var det for at dokumentere min søgen efter økonomisk uafhængighed. Gennem årene har jeg læst hundredvis af bøger, testet forskellige investeringsformer, begået dyre fejl og ændret kurs flere gange.
 
-I dag står min filosofi langt klarere, end da jeg begyndte. Den kan koges ned til den simple **[Rigdomsformel](https://www.ifire.dk/rigdomsformlen/)**:
+I dag står min filosofi langt klarere, end da jeg begyndte. Den kan koges ned til den simple **[Rigdomsformel](/rigdomsformlen/)**:
 
-> **Tjene mere → Forbruge mindre → Investere klogere**
+> 💰 **Forbrug mindre → Investér klogere → Tjen mere**
 
 Rigdomsformlen beskriver retningen. Denne side beskriver strategien.
 
@@ -27,74 +27,32 @@ Den handler ikke om, hvilke fonde jeg ejer lige nu, eller hvilken bank jeg bruge
 
 Jeg ser strategien som et kompas. Den konkrete implementering kan ændre sig over tid, men kompasset skal kun ændres, hvis jeg bliver klogere.
 
-Strategien følger de samme fire trin, som jeg anbefaler under **[Kom i gang](/kom-i-gang/)**. Forskellen er, at denne side viser, hvordan jeg selv har valgt at omsætte dem til en langsigtet plan mod økonomisk frihed.
+Min strategi følger de samme enkle trin, som jeg anbefaler under **[Kom i gang](/kom-i-gang/)**.
 
 ---
 
-# Trin 1: Få styr på min økonomi
+## ✂️ Trin 1: Forbrug mindre (og få overblik)
 
-Det første skridt handler ikke om investering. Det handler om overblik.
+Det første skridt handler om overblik.
 
-Jeg kan ikke træffe gode økonomiske beslutninger, hvis jeg ikke ved, hvor pengene bliver af. Derfor begynder min strategi altid med at skabe gennemsigtighed i økonomien.
+Jeg kan ikke træffe gode økonomiske beslutninger, hvis jeg ikke ved, hvor pengene bliver af. 
 
 Mine principper er enkle:
 
-- Jeg skal altid kende mit månedlige forbrug.
-- Jeg måler min opsparingsrate hver måned.
-- Jeg gennemgår løbende mine faste udgifter og fjerner de omkostninger, som ikke længere skaber værdi.
+- Jeg skal kende mit forbrug.
+- Jeg måler min opsparingsrate og forsøger at maksimere den.
+- Jeg gennemgår jævnligt mine faste udgifter og fjerner de omkostninger, som ikke længere skaber værdi.
 - Jeg forsøger at automatisere så meget som muligt, så økonomien bliver nem at vedligeholde.
 
-Overblik er ikke et engangsprojekt. Det er en vane.
+Overblik skal være en vane. Med overblik er det lettere at prioritere det, der virkelig bringer mig tættere på økonomisk frihed.
 
-Når jeg ved, hvor pengene går hen, bliver det langt lettere at prioritere det, der virkelig bringer mig tættere på økonomisk frihed.
-
-*I praksis bruger jeg i øjeblikket Spiir til at automatisere en stor del af arbejdet, men værktøjet er ikke vigtigt. Det afgørende er, at jeg altid har overblik over min økonomi.*
-
-👉 **[Dyk ned i Min Økonomi og alle mine sparetips](/min-oekonomi/)**
-
----
-
-# Trin 2: Skab et økonomisk fundament
-
-Jeg ønsker aldrig at blive tvunget til at sælge investeringer, fordi livet kommer i vejen.
-
-Derfor bygger min strategi på et økonomisk fundament, som gør mig robust, når uforudsete udgifter eller store kursfald rammer.
-
-Mit princip er enkelt:
-
-> **Investeringer må aldrig afhænge af kortsigtede behov.**
-
-Det betyder, at jeg altid prioriterer en kontant buffer, før jeg investerer aggressivt.
-
-Bufferens størrelse afhænger af min økonomi og mine faste udgifter. Lige nu svarer den omtrent til tre måneders faste udgifter, men det vigtigste er ikke tallet. Det vigtigste er, at bufferen giver mig ro til at holde fast i strategien, når markedet falder.
-
-Derudover bygger fundamentet på to enkle regler:
-
-- Jeg forsikrer mig mod de hændelser, der kan vælte min økonomi.
-- Jeg afvikler dyr gæld, før jeg fokuserer på at investere.
-
-Jeg ser bufferen som en del af min samlede investeringsstrategi. Den giver mig friheden til at tænke langsigtet og undgå forhastede beslutninger i perioder med usikkerhed.
-
-👉 **[Se min personlige kriseplan](/kriseplan/)**
-
-Perfekt. Her er anden halvdel. Jeg har især fokuseret på at gøre investeringsdelen til **principper** frem for **implementering**, så siden bliver tidløs.
-
-```markdown
----
-
-# Trin 3: Skab overskud
-
-Når fundamentet er på plads, handler resten om at skabe et økonomisk overskud, der kan investeres.
-
-For mig er den vigtigste målsætning ikke at opnå det højest mulige afkast, men at opbygge en høj og stabil opsparingsrate. Efter min erfaring er det den faktor, der har størst betydning for, hvor hurtigt man kan opnå økonomisk frihed.
+For mig er den vigtigste målsætning at opnå en høj opsparingsrate. Efter min erfaring er det den faktor, der har størst betydning for, hvor hurtigt man kan opnå økonomisk frihed.
 
 Mit princip er enkelt:
 
 > **Jeg betaler mig selv først.**
 
-Opsparing er ikke det, der bliver tilbage sidst på måneden. Det er den første udgift, jeg prioriterer.
-
-Derfor forsøger jeg at automatisere så meget som muligt. Jeg ønsker ikke at være afhængig af motivation eller viljestyrke, men af et system, der fungerer måned efter måned.
+Opsparing er ikke det, der bliver tilbage sidst på måneden. Det er den første udgift, jeg prioriterer. Jeg vil automatisere så meget som muligt, så jeg ikke er afhængig af motivation eller viljestyrke.
 
 En høj opsparingsrate giver mig flere fordele:
 
@@ -105,28 +63,52 @@ En høj opsparingsrate giver mig flere fordele:
 
 Strategien handler derfor ikke om at leve så billigt som muligt. Den handler om bevidst at prioritere det, der giver mig mest værdi på lang sigt.
 
+*I praksis bruger jeg et budget regneark og bankens kategoriseringssystem til at planlægge og følge med i min økonomi.*
+
+👉 **[Dyk ned i sammensætningen af Min Økonomi](/min-oekonomi/)**  
 👉 **[Se hvordan jeg beregner min opsparingsrate](/opsparingsrate-spiir/)**
 
 ---
 
-# Trin 4: Begynd at investere
+## 🛡️ Trin 2: Skab et økonomisk fundament
+
+Jeg ønsker aldrig at blive tvunget til at sælge investeringer, fordi livet kommer i vejen.
+
+Jeg har derfor en lille kontant buffer, så jeg kan imødekomme uforudsete udgifter uden at skulle sælge investeringer. 
+
+Bufferens størrelse afhænger af min økonomi og mine faste udgifter. Lige nu svarer den omtrent til tre måneders faste udgifter.
+
+Derudover bygger fundamentet på to enkle regler:
+
+- Jeg forsikrer mig mod de hændelser, der kan vælte min økonomi.
+- Jeg afvikler dyr gæld, før jeg fokuserer på at investere.
+
+Jeg ser bufferen som en del af min samlede investeringsstrategi. Den giver mig friheden til at tænke langsigtet og undgå forhastede beslutninger i perioder med usikkerhed.
+
+👉 **[Se min personlige kriseplan](/kriseplan/)**
+
+---
+
+## 📈 Trin 3: Investér klogere
 
 Når fundamentet er på plads, skal overskuddet ud at arbejde.
 
 Min investeringsstrategi bygger på ét overordnet mål: at skabe et enkelt og robust system, som jeg kan følge gennem et helt investeringsliv.
 
-Det betyder blandt andet, at jeg investerer langsigtet, holder omkostningerne lave, spreder risikoen bredt og undgår at lade følelser styre mine beslutninger.
+Det betyder blandt andet, at jeg investerer langsigtet, holder omkostningerne lave, spreder risikoen og undgår at lade følelser styre mine beslutninger.
 
-Strategien beskriver mine principper for, **hvordan** jeg investerer.
-
-Porteføljen viser, **hvordan jeg har valgt at implementere dem lige nu**.
-
-👉 **[Læs Min Investeringsstrategi](/min-investeringsstrategi/)**
-👉 **[Se Min Portefølje](/mine-investeringer/)**
+👉 **[Min Investeringsstrategi](/min-investeringsstrategi/)** viser **hvordan jeg ønsker at investere**.  
+👉 **[Min Portefølje](/mine-investeringer/)** viser **hvordan jeg implementerer min strategi**.
 
 ---
 
-# Hvorfor strategien er blevet så enkel
+## 🚀 Trin 4: Tjen mere (Boosteren)
+
+Når fundamentet og investeringsmaskinen kører på automatpilot, er det sidste princip i min strategi at øge indtægten. Fordi jeg allerede har styr på mit forbrug og min opsparingsrate (Trin 1), fungerer enhver ekstra krone, jeg tjener, som raketbrændstof for min formueopbygning, da det kan gå direkte til investeringer.
+
+---
+
+## Hvorfor strategien er blevet så enkel
 
 Min nuværende strategi er resultatet af mange års erfaring.
 
@@ -136,30 +118,30 @@ Det har lært mig én vigtig ting:
 
 > **Den bedste strategi er ikke nødvendigvis den mest avancerede – men den, jeg kan følge i årtier.**
 
-I dag forsøger jeg derfor at fjerne kompleksitet frem for at tilføre den.
+I dag forsøger jeg at gøre det hele simpelt.
 
 Jeg ønsker en strategi, der kræver få beslutninger, lave omkostninger og mindst muligt vedligehold.
 
 Det giver mig mere tid til familie, arbejde og livet uden for aktiemarkedet – og samtidig større sandsynlighed for, at jeg holder fast i planen.
 
+Men sådan startede det hele ikke.
+
 👉 **[Læs hele min investeringsrejse](/min-investorrejse/)**
 
 ---
 
-# Strategien er et levende dokument
+## 🧭 Strategien er et levende dokument
 
-Strategien er ikke skrevet i sten.
-
-Hvis jeg ændrer et princip, er det fordi jeg er blevet klogere – ikke fordi markedet er steget eller faldet.
-
-Det er derfor, denne side er et levende dokument.
-
-Den bliver opdateret, når mine grundlæggende principper udvikler sig.
-
-Den konkrete implementering kan derimod ændre sig langt oftere. Derfor opdaterer jeg **Min Portefølje**, når jeg ændrer depotstruktur, fonde eller den praktiske sammensætning af mine investeringer.
+Strategien for min økonomi er et levende dokument.
 
 Mit mål er ikke at have den perfekte strategi.
 
 Mit mål er at have en strategi, som jeg kan holde fast i resten af livet.
+
+Hvis jeg ændrer et princip, er det fordi jeg er blevet klogere eller har ændret holdning – ikke fordi markedet er steget eller faldet.
+
+Det er derfor, denne side er et levende dokument.
+
+Der er gået mange tanker forud for denne strategi.
 
 👉 **[Læs hele min FIRE-rejse](/min-firerejse/)**

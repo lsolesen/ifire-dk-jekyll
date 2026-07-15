@@ -17,39 +17,59 @@ Velkommen til iFire. Hvis du er landet her, er det sandsynligvis fordi du drømm
 
 Internettet svømmer over med komplekse råd om enkeltaktier, kryptovaluta og smarte investeringsplatforme. Det er let at blive overvældet og miste modet, før man overhovedet er startet.
 
-Men vejen til økonomisk frihed behøver ikke være kompliceret. Den bygger på tre enkle principper, som jeg kalder **[Rigdomsformlen](/min-strategi/)**: tjen mere, forbrug mindre, og invester klogere.
+Men vejen til økonomisk frihed behøver ikke være kompliceret. Den bygger på tre enkle principper, som i FIRE-kredse kaldes **[Rigdomsformlen](/min-strategi/)**.
+
+> **💰 Forbrug mindre → Investér klogere → Tjen mere**
+
+Hvorfor lige den rækkefølge? Fordi det er en aktiv handlingsplan. Dit forbrug er det eneste, du kan tage fuld kontrol over i dag. Når du har skabt et overskud der, kan du begynde at investere klogt. Og når maskinrummet først kører, fungerer dét at tjene mere som rent raketbrændstof for din formue.
 
 Her er min køreplan i fem trin til, hvordan du kickstarter din egen rejse i dag.
 
+
+
 ---
 
-## Trin 1: Få styr på din økonomi
+## ✂️ Trin 1: Forbrug mindre (og få overblik)
 
-Du kan ikke optimere det, du ikke måler. Før du overhovedet tænker på investering, skal du have et ærligt overblik over, hvor dine penge kommer fra, og hvor de forsvinder hen.
+Før du overhovedet tænker på investering, skal du have et overblik over, hvor dine penge kommer fra, og hvor de forsvinder hen.
 
 ### Budget
 
-Start med at trække bukserne af dit forbrug. Jeg bruger selv den gratis app Spiir, som automatisk henter dine bankdata og kategoriserer dine udgifter. Efter en enkelt måned får du et overraskende klart billede af, hvor pengene faktisk går hen – ikke hvor du tror, de går hen.
+Få overblik over dit forbrug. Du kan fx bruge kategoriseringsfunktionen i din bank. Gå et år tilbage så du får et samlet overblik over dine faste og variable udgifter. Det er den eneste måde at få overblik over, hvor pengene faktisk går hen – ikke hvor du tror, de går hen.
 
-Sæt dig ned én gang om måneden og gennemgå dit forbrug. Det behøver ikke tage mere end 15 minutter, men det er de 15 minutter, der for alvor flytter noget.
+I starten kan det betale sig at sætte sig ned en gang om måneden og gennemgå forbruget. Det behøver ikke tage mere end 15 minutter, men det er de 15 minutter, der for alvor flytter noget.
 
-### Spar penge
+### Trim de faste udgifter
 
-Når du har overblikket, kan du begynde at jagte de udgifter, der ikke giver dig ægte livskvalitet. Mange betaler ubevidst en "loyalitets-skat", fordi de har haft det samme elselskab, internet eller forsikring i årevis, mens priserne stille og roligt er kravlet opad i baggrunden.
+Når du har overblikket, kan du begynde at jagte de udgifter, der ikke giver dig ægte livskvalitet.
+
+Gennemgå dine faste udgifter mindst én gang om året – abonnementer, forsikringer, medlemskaber. De fleste af os har mindst ét abonnement, vi har glemt, vi betaler for. Faste udgifter er farlige, fordi de er usynlige: de trækkes automatisk, og du mærker dem aldrig som et bevidst valg. Derfor er de også det nemmeste sted at finde overskud, når du først går dem efter i sømmene.
+
+Mange betaler ubevidst en "loyalitets-skat", fordi de har haft det samme elselskab, internet eller forsikring i årevis, mens priserne stille og roligt er kravlet opad i baggrunden.
 
 *   **Tjek forsikringerne:** Ring til dit selskab, eller brug en sammenligningstjeneste. Jeg sparede selv 2.900 kr. om året på 15 minutters arbejde.
 *   **Skift elselskab:** Strømmen i kontakten er den samme uanset leverandør, så udnyt introduktionstilbuddene.
 *   **Forhandl bredbåndet:** Ring til din internetudbyder og bed om en skarpere pris, eller skift til en discount-fiberleverandør.
 
+### Betal dig selv først
+
+Opsparing er ikke det, der er tilbage i slutningen af måneden – det er det første, du sætter til side. Din opsparingsrate (hvor stor en andel af din indkomst du sparer) er den enkeltfaktor, der betyder allermest for, hvor hurtigt du når i mål. Sæt overførslen op til at køre automatisk den dag, du får løn.
+
+### Opsparingsrate
+
+Din opsparingsrate – altså hvor stor en andel af din indkomst du sparer op – er den enkeltfaktor, der har allerstørst betydning for, hvor hurtigt du når økonomisk frihed. Det er faktisk vigtigere end dit afkast. En opsparingsrate på 20 % bringer dig markant hurtigere i mål end 10 %, uanset hvor godt dine investeringer performer. Sæt dig et konkret mål for din opsparingsrate, og følg den måned for måned.
+
+*Bemærk: du kan også øge din opsparingsrate ved at hæve tælleren i stedet for at sænke nævneren – altså ved at tjene mere. En lønforhandling eller et sideprojekt tæller lige så meget som en besparelse. Det er bare ikke noget, jeg systematiserer på samme måde som resten af denne guide.*
+
+### Automatisering
+
+Det største problem for de fleste opsparere er dem selv. Vi glemmer, vi udskyder, eller vi bruger "overskuddet", før det når at blive sparet op. Løsningen er automatisering: opsæt en fast overførsel til en opsparingskonto samme dag, som lønnen går ind. Så bliver opsparingen en fast udgift på lige fod med husleje og forsikring – ikke noget, du skal huske eller motivere dig selv til hver eneste måned.
+
 👉 **[Se mine bedste sparetips til hverdagen](/spar-penge/)**
-
-### Faste udgifter
-
-Gennemgå dine faste udgifter mindst én gang om året – abonnementer, forsikringer, medlemskaber. De fleste af os har mindst ét abonnement, vi har glemt, vi betaler for. Faste udgifter er farlige, fordi de er usynlige: de trækkes automatisk, og du mærker dem aldrig som et bevidst valg. Derfor er de også det nemmeste sted at finde overskud, når du først går dem efter i sømmene.
 
 ---
 
-## Trin 2: Skab et økonomisk fundament
+## 🛡️ Trin 2: Skab et økonomisk fundament
 
 Før du investerer en eneste krone, skal du have et fundament, der kan holde til livets uforudsete hændelser. Uden det fundament ender du i den situation, hvor du tvinges til at sælge dine investeringer på det værst tænkelige tidspunkt – nemlig når markedet er faldet, og du samtidig har akut brug for penge.
 
@@ -67,31 +87,11 @@ Et solidt fundament handler ikke kun om kontanter – det handler også om at v�
 
 Dyr gæld er kryptonit for din formue. Før du begynder at investere for alvor, bør du have styr på – og helst have afviklet – dyr forbrugsgæld som kreditkortgæld og forbrugslån. Der findes ingen investering, der pålideligt slår renten på den slags gæld. Realkreditgæld og andre billige lån er en anden sag, og der kan det sagtens give mening at investere sideløbende, mens du betaler af.
 
-👉 **[Læs mere om budget og nødopsparing under Min Økonomi](/min-oekonomi/)**
-
 ---
 
-## Trin 3: Skab overskud
+## 📈 Trin 3: Investér klogere
 
-Med fundamentet på plads handler næste trin om systematisk at skabe det overskud, som senere skal sættes i arbejde på aktiemarkedet.
-
-### Opsparing
-
-Opsparing er ikke det, der er tilbage i slutningen af måneden – det er det første, du sætter til side, når lønnen lander. Vend rækkefølgen om: betal dig selv først, og lad resten af budgettet tilpasse sig.
-
-### Opsparingsrate
-
-Din opsparingsrate – altså hvor stor en andel af din indkomst du sparer op – er den enkeltfaktor, der har allerstørst betydning for, hvor hurtigt du når økonomisk frihed. Det er faktisk vigtigere end dit afkast. En opsparingsrate på 20 % bringer dig markant hurtigere i mål end 10 %, uanset hvor godt dine investeringer performer. Sæt dig et konkret mål for din opsparingsrate, og følg den måned for måned.
-
-### Automatisering
-
-Det største problem for de fleste opsparere er dem selv. Vi glemmer, vi udskyder, eller vi bruger "overskuddet", før det når at blive sparet op. Løsningen er automatisering: opsæt en fast overførsel til en opsparingskonto samme dag, som lønnen går ind. Så bliver opsparingen en fast udgift på lige fod med husleje og forsikring – ikke noget, du skal huske eller motivere dig selv til hver eneste måned.
-
----
-
-## Trin 4: Begynd at investere
-
-Nu står du med et månedligt overskud, og det er her, det sjove starter. Nu skal dine penge sendes på arbejde, så du kan drage fordel af **[Renters Rente](/renters-rente/)**.
+Nu står du med et månedligt overskud, og det er her, det sjove starter. Dette er andet ben i Rigdomsformlen: **investér klogere**. Nu skal dine penge sendes på arbejde, så du kan drage fordel af **[Renters Rente](/renters-rente/)**.
 
 ### Hvad er investering?
 
@@ -114,9 +114,27 @@ Det største problem for de fleste investorer er dem selv. Vi bliver bange, når
 
 ---
 
-## Trin 5: Byg din egen strategi
+## 🚀 Trin 4: Tjen mere (Boosteren)
 
-De første fire trin giver dig et solidt, generisk fundament. Men den virkelig langsigtede rejse handler om at gøre strategien til din egen.
+Tredje ben i formlen er her, hvor du for alvor sætter fart på din rejse. Hvorfor ligger dette trin til sidst? Fordi en høj indtægt er ligegyldig, hvis du bare bruger rub og stub (det fænomen, der kaldes lifestyle inflation).
+
+Men fordi du i Trin 1 har lært at styre dit forbrug, vil hver eneste ekstra krone, du nu tjener, gå direkte ned i din investeringsmotor.
+
+Når fundamentet er støbt, kan du begynde at skrue på indtægten:
+
+- Fokusér på den årlige lønforhandling.
+- Overvej et strategisk jobskifte for at hæve din grundløn.
+- Start et sideprojekt (side hustle) eller tag freelancearbejde.
+
+Hver gang din indtægt stiger, beholder du dine udgifter i ro, og øger i stedet dit faste, automatiske investeringsbeløb fra Trin 3.
+
+---
+
+## 🧭 Trin 5: Byg din egen strategi
+
+De første fire trin giver dig et solidt, generelt fundament. Men den langsigtede rejse handler om at gøre strategien til din egen.
+
+Her kan du dykke ned i, hvordan jeg personligt griber det hele an:
 
 ### Min strategi
 
@@ -124,27 +142,33 @@ Jeg har samlet mine egne principper og tanker om, hvordan jeg griber Rigdomsform
 
 👉 **[Læs Min Strategi](/min-strategi/)**
 
+### Min økonomi
+
+Jeg har samlet mine egne principper og tanker om, hvordan jeg griber Rigdomsformlen an, i et samlet overblik. Det er ikke nødvendigvis den rigtige strategi for dig, men det kan give dig inspiration til at forme din egen.
+
+👉 **[Læs Min Strategi](/min-oekonomi/)**
+
 ### Min investeringsstrategi
 
-Jeg deler løbende, hvordan min egen portefølje er sammensat – hvilke fonde jeg ejer, hvordan de er fordelt, og hvordan de har performet. Det er ment som et konkret eksempel, du kan spejle dig i, ikke som en facitliste.
+Jeg beskriver, hvordan jeg tænker investering – hvilke principper der styrer mine valg af fordeling, aktivklasser og skattemæssig rækkefølge. Det er ment som et konkret eksempel på tankegangen bag, ikke som en facitliste.
 
-👉 **[Se Min Portefølje](/min-investeringsstrategi/)**
+👉 **[Se Min Investeringsstrategi](/min-investeringsstrategi/)**
 
 ### Min portefølje
 
 Jeg deler løbende, hvordan min egen portefølje er sammensat – hvilke fonde jeg ejer, hvordan de er fordelt, og hvordan de har performet. Det er ment som et konkret eksempel, du kan spejle dig i, ikke som en facitliste.
 
-👉 **[Se Min Portefølje](/mine-investeringer/)**
+👉 **[Se Mine Investeringer](/mine-investeringer/)**
 
-### Min investeringshistorie
+### Min investeringsrejse
 
 Jeg har dokumenteret min rejse – med de fejl, tvivlsspørgsmål og justeringer, der uundgåeligt følger med, når man lærer undervejs. Det er ofte her, den mest ærlige læring ligger: ikke i de perfekte råd, men i de virkelige overvejelser, man selv har stået med.
 
-👉 **[Se Min Portefølje](/min-investeringsrejse/)**
+👉 **[Se Min Investeringsrejse](/min-investorrejse/)**
 
 ---
 
-## Er du klar til at tage det første skridt?
+## 🚀 Er du klar til at tage det første skridt?
 
 Rom blev ikke bygget på én dag, og det gør din økonomiske frihed heller ikke. Det vigtigste er ikke, om du starter med at investere 500 kr. eller 5.000 kr. om måneden. Det vigtigste er, at du **starter**.
 
