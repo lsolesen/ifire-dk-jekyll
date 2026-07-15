@@ -2,12 +2,8 @@
 title: "Hjemmeklipning: Lær at klippe dit eget og familiens hår"
 permalink: /hjemmeklipning-laer-klippe-haar/
 seo_title: Hjemmeklipning • Lær at klippe dit eget og familiens hår »
-descriptiont: Spar mange penge på at lave hjemme klipning. Lær at klippe dit
-  eget hår selv og se hvordan du klipper din kæreste, ægtefælle eller børn. Lær
-  det allerede i dag!
-excerpt: Spar penge på at lave hjemme klipning. Lær at klippe hår, så du kan
-  klippe dit eget hår selv, og se hvordan du klipper din kæreste, ægtefælle
-  eller børn.
+description: Spar tusindvis af kroner på at lave hjemmeklipning. Lær at klippe dit eget hår selv, og se hvordan du klipper din kæreste, ægtefælle eller børn.
+excerpt: Spar penge på at droppe frisøren. Lær at klippe hår, så du kan klippe dit eget hår selv, og se hvordan du klipper din kæreste, ægtefælle eller børn.
 header:
   overlay_image: https://images.unsplash.com/photo-1589876518759-5b460cabcc4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1589876518759-5b460cabcc4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
@@ -26,98 +22,77 @@ feature_row:
     excerpt: Test
     url: Test
     btn_label: Test
-last_modified_at: 2021-04-04T06:58:53+02:00
+last_modified_at: 2026-07-16T12:00:00+02:00
 ---
-Spar mange penge årligt ved at droppe frisøren. Lær at klippe dig eget hår, så du selv kan stå for din klipning hjemme. Få tips til at klippe hår selv.
 
-Hår gror konstant. Derfor skal du klippes igen og igen for at holde styr på det.
+Siden vi for alvor startede vores rejse mod økonomisk uafhængighed (FIRE), har vi ledt med lys og lygte efter faste udgifter i budgettet, som vi kunne skære væk – uden at det gik ud over vores livskvalitet. 
 
-Men fordi håret gror ud igen, så kan du roligt kaste dig ud i at lære at klippe hår ved hjemmeklipning.
+En af de mest indlysende, men også lidt grænseoverskridende poster var: **Frisørregningen.**
 
-Du kan spare mange penge i det lange løb, hvis du tør kaste dig ud i det. Du kan få masser af hjælp og tips på Youtube og til at klippe hår selv:
+Hår gror jo som bekendt konstant. Derfor er klipning en tilbagevendende udgift, der hurtigt løber op. Men fordi håret netop gror ud igen, kan du også roligt kaste dig ud i at lære at klippe det selv. Laver du en fejl, går der et par uger, og så er det vokset ud igen.
 
-- Hvad sparer man på hjemmeklipning?
-- Hvordan klipper jeg min kæreste?
-- Lær at klip dit eget hår mand
-- Hvordan klipper man selv etager i langt hår?
-- Hvordan klipper man hår med trimmer?
+I dag er der ingen herhjemme, der går til frisør. Vi klipper hinanden, og det sparer os for rigtig mange penge hvert eneste år.
 
-## Hvad kan du spare på hjemmeklipning?
+Her deler jeg vores erfaringer, og hvordan du selv kan komme i gang.
 
-Du kommer til at spare mange penge i det lange løb ved selv at klippe dit hår og dine familiemedlemmers hår.
+## Hvad kan du spare på hjemmeklipning i 2026?
 
-Hvis du og familien normalt bliver klippet hos en frisør, så er her et forslag til, hvad det koster dig at blive blive klippet årligt:
+Frisørpriserne har fået et ordentligt nyk opad de seneste år. Hvis du og familien normalt bliver klippet hos en frisør, er her et realistisk bud på, hvad det koster en almindelig familie om året:
 
+| Familiemedlem | Klip pr. år | Pris pr. klip | Pris pr. år |
+| :--- | :--- | :--- | :--- |
+| Far | 4 | 350 kr. | 1.400 kr. |
+| Søn | 4 | 300 kr. | 1.200 kr. |
+| Mor | 2 | 550 kr. | 1.100 kr. |
+| Datter | 2 | 400 kr. | 800 kr. |
+| **Total pris** | | | **4.500 kr.** |
 
-|| Klip pr år | Pris pr. klip | Pris pr år |
-|-|-|-|-|
-| Far | 4 | 255 | 1.020
- |
-| Søn | 4 | 205 | 820 |
-| Mor | 2 | 265 | 530 |
-|Datter | 2 | 205 | 410
- |
-| Total pris | | 2.780 kr |
+Antallet af frisørbesøg i dette eksempel er endda sat meget konservativt. Alligevel koster det hurtigt **4.500 kroner om året** at holde familiens lokker i skak. Og det er uden hårfarvning, striber eller dyre frisørprodukter!
 
+### FIRE-regnestykket: Hvad bliver pengene til?
+Som investor kan jeg ikke lade være med at kigge på alternativomkostningerne. Hvad sker der, hvis du tager de 4.500 kr., I sparer hvert år på frisøren, og investerer dem i en bred indeksfond med et gennemsnitligt afkast på 7%?
 
-Priserne er direkte fra prislisten hos den landsdækkende frisørkæde [Frisør hos Peter](https://hospeter.dk/prisliste/). Når jeg sammenligner med den frisør, jeg ofte er blevet klippet hos, så virker det som en relativt billig frisør.
+Over 10 år vil jeres hjemmeklipning (takket være renters rente) vokse til en formue på **omkring 66.000 kroner!** Det er alligevel en ret god timeløn for at svinge saksen i badeværelset et par gange om måneden.
 
-Jeg har taget udgangspunkt i en ret almindelig familiesammensætning. Antallet af besøg hos frisøren er nok i den konservative ende for de flest, men det er alligevel for en almindelig familie med den billigste type klipning 2.780 kroner om året på at få styr på håret.
+## Vores erfaringer: Hvordan kommer man i gang?
 
-Rigtig mange ender med at betale endnu mere for at være til frisøren, fordi der skal hårfarvning og køb af andre frisørprodukter.
+Starten var da lidt nervepirrende. Man vil jo helst ikke skamklippe sine børn eller sig selv. 
 
-## Hvordan kan du lave hjemme klipning?
+Men vi fandt hurtigt ud af, at det slet ikke er så svært, hvis man starter simpelt. Pigernes hår bliver i dag klippet med en god saks, mens manden og drengene i huset bliver klippet med en hårtrimmer.
 
-I øjeblikket er der ingen herhjemme, der går til frisør. Vi laver hjemmeklipning. Pigernes hår bliver klippet med saks. Manden i huset bliver klippet med en hårtrimmer.
+**Det vigtigste tip:** Lad være med at bruge køkkensaksen! Det koster et par hundrede kroner at købe en rigtig frisørsaks og en fornuftig trimmer (f.eks. en fra Braun eller Panasonic). Den investering er tjent hjem allerede efter *den allerførste* klipning.
 
-Du kan få en relativ billig hårtrimmer fra Braun rigtig mange steder. Du skal naturligvis også på udkig efter et saksesæt. Men det hele er tjent hjem allerede efter første klipning hjemme.
+Der er selvfølgelig en grund til, at det tager fire år at blive uddannet frisør. Derfor skal du ikke starte med at forsøge dig med en avanceret etageklipning eller en skarp "fade". Gå efter de simple, klassiske frisurer til at starte med.
 
-Youtube kan hjælpe dig, når du skal lære at klippe dig selv og andre. Også når du skal lære at klippe dig selv, mand!
+## Brug YouTube som din læremester
 
-Der er en grund til, at det tager nogle år at blive udlært frisør. Derfor skal du formentlig ikke starte med en avanceret frisure.
+Du behøver ikke tage et kursus for at lære hjemmeklipning. YouTube er din bedste ven. Herunder har jeg samlet et par gode videoer, der hjalp os i gang.
 
-Hvis du gerne vil have et godt udgangspunkt, så kan du jo bede din frisør om at lave en enkel og simpel frisure.
+Når du selv skal søge, så brug engelske termer – det giver langt de bedste resultater. Søg f.eks. på:
+* *"How to cut men's hair with clippers"*
+* *"How to cut straight hair at home"*
+* *"DIY kids haircut"*
 
-Når du har valgt en simpel frisure, så kan du altså kigge nærmere på at lære at klippe dit eget hår selv, men også at klippe dine børn og andre familiemedlemmer.
+*Husk dog altid at se hele videoen til ende, inden du begynder at klippe. Du skal lige være sikker på, at personen i videoen rent faktisk ved, hvad de laver, før du kopierer dem!*
 
-## Hvordan klipper jeg langt hår lige?
+### Hvordan klipper jeg langt hår lige?
 
-Du kan let klippe dit eget hår og dine døtre og pigers hår lige ved at følge instruktionerne i denne Youtube-video:
+Du kan let klippe dit eget eller dine døtres hår lige over ved at følge instruktionerne i denne video:
 
 {% include video provider="youtube" id="kgYVImOwYiI" %}
 
-## Sådan klipper du langt hår, dit eget eller en andens
+### Hvordan klipper du kort hår med en hårtrimmer?
 
-Det er let at finde enkle videoer på Youtube, som kan lære dig at klippe hår. 
+Hvis du gerne vil øve dig, er kort herrehår det absolut nemmeste at starte med. En god trimmer med afstandskamme gør det meste af arbejdet for dig. 
 
-Du kan bare søge på "Hvordan klipper jeg [indsæt selv frisure eller hårtype] hår" eller på engelsk "How to cut [indsæt selv frisure eller hårtype du vil klippe] hair".
-
-Der kommer masser af resultater frem uanset om du indsætter "eget hår", "drengehår", "krøllet hår" (curly), "glat hår", "etager" (som på engelsk hedder layer).
-
-Husk dog altid at se hele videoen til ende, inden du kaster dig ud i at klippe dit eget hår eller lave hjemmeklipning.
-
-Selvom - eller netop fordi - det er delt på Youtube, så er det ikke sikkert, at hele klipningen går god. Måske er de selv i gang med at lære at klippe deres eget hår.
-
-## Hvordan klipper du kort hår hjemme med en hårtrimmer?
-
-Hvis du gerne vil øve dig, så kan du starte med at lære at klippe kort hår. Det gror jo ud på ingen tid igen. Hvis du laver en fejl, så kan du altid bare klippe det helt kort i samme længde, vente et par uger, og så kan du allerede øve dig lidt igen.
-
-Her kan du se en video fra Youtube, der viser hvordan du kan klippe kort hår med en hårtrimmer til en pæn frisure.
+Her kan du se, hvordan du klipper en flot og pæn herrefrisure med maskine:
 
 {% include video provider="youtube" id="mBtay3_Ux7c" %}
 
-Der er altså ingen undskyldning. Du kan sagtens klippe dit eget hår som mand også.
-
 ## Konklusion
 
-Her var nogle enkle tips til, hvordan du kan klippe dit eget hår selv, og hvordan du kommer i gang med klipning hjemme.
+Hjemmeklipning er gået hen og blevet en af mine yndlings-spareråd, fordi besparelsen er så enorm over tid, og tidsforbruget er utrolig lavt, når man først har lært teknikken. Samtidig slipper vi for at skulle booke tider og køre frem og tilbage til en frisørsalon i en travl hverdag.
 
-Du fik svar på:
+Skal du i gang med at klippe dit eget eller familiens hår? Eller har du allerede kastet dig ud i det? Del endelig jeres største successer (eller brølere) i kommentarfeltet!
 
-- Hvor meget kan du spare på klipning hjemme ved at klippe dit eget hår?
-- Hvordan klipper jeg langt hår glat?
-- Sådan klipper du frisure med hårtrimmer
-
-Skal du i gang med at klippe dit eget hår eller familiens hår selv? Har du også kastet dig ud i at klippe hår selv?
-
-Jeg har også skrevet en del andre indlæg om, [hvordan man kan spare penge i hverdagen](/spar-penge/).
+*Jeg har også skrevet en del andre indlæg om, [hvordan man kan spare penge i hverdagen](/spar-penge/).*
