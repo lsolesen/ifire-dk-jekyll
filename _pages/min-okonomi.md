@@ -54,7 +54,7 @@ Dette er kernen i min økonomi. Jeg opdaterer disse grafer løbende for at holde
 
 <details class="question" markdown="1">
   <summary>📈 Opsparingsrate</summary>
-  Procentdelen af min indkomst, som bliver sendt direkte videre til investering. Dette er det tal, jeg har mest fokus på at maksimere.
+  Procentdelen af min indkomst, som bliver sendt direkte videre til investering. Dette er det tal, jeg har mest fokus på at maksimere, da det er det allervigtigste for at opnå økonomisk frihed.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=83329182&amp;format=image"></iframe>
 </details>
 
@@ -109,8 +109,21 @@ Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
 
 </details>
 
+<details class="question" markdown="1">
+  <summary>💳 Bankkort: Revolut Debetkort</summary>
 
-### 🛡️ Trin 2: Skab et økonomisk fundament (Buffer)
+  Revolut giver lidt billigere vekselgebyrer i den gratis udgave. Det har jeg ofte udnyttet på rejser.
+
+</details>
+
+  <summary>📥 Paypal</summary>
+
+  Her lander min indtægt fra reklamer. Jeg bruger den i sjældne tilfælde til at betale for ting og sager.
+
+</details>
+
+
+### 🛡️ Trin 2: Skab et økonomisk fundament
 Min kontante buffer skal sikre, at jeg aldrig bliver tvunget til at sælge aktier med tab. Min strategi dikterer en buffer på ca. 3 måneders faste udgifter, hvilket i øjeblikket er 50.000 kroner.
 
 <details class="question" markdown="1">
@@ -134,13 +147,13 @@ Min kontante buffer skal sikre, at jeg aldrig bliver tvunget til at sælge aktie
 </details>
 
 
-### 📈 Trin 3: Investér klogere (Motoren)
+### 📈 Trin 3: Investér klogere
 Når forbrug, budget og nødopsparing er fyldt op, sendes alt overskud direkte videre til mine investeringsdepoter helt automatisk. Læs [Min Investeringsstrategi](/min-investeringsstrategi/).
 
 👉 **[Se præcis hvilke platforme, fonde og aktier jeg investerer i under Min Portefølje](/mine-investeringer/)**
 
 
-### 🚀 Trin 4: Tjen mere (Boosteren)
+### 🚀 Trin 4: Tjen mere
 Når fundamentet (Trin 1 og 2) og investeringsmotoren (Trin 3) kører på automatpilot, handler det om at øge indtægten. 
 
 Fordi jeg har en fast og stram struktur for mit forbrug, betyder det, at **hver eneste ekstra tjent krone går direkte til investering**, frem for at forsvinde i øget forbrug (*lifestyle inflation*).

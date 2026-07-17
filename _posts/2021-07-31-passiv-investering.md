@@ -105,11 +105,15 @@ Hvis vi bruger vores [rentes renter beregner](https://www.ifire.dk/renters-rente
 
 Vi antager i eksemplet, at aktiemarkedet i gennemsnit giver et afkast på 7% om året. Vi har investeret 100.000 kroner, og vi har en investeringshorisont på 30 år. Det vil betyde, at vi efter 30 år har 811.650 kroner stående på investeringskontoen.
 
-Hvis vi vælger en løsning, hvor der er årlige omkostninger, så vil vores afkast naturligvis blive laver.  [Nord.Investments](/go/nord/) er en af de robotløsninger med de klart laveste årlige omkostninger. Lige nu er de på 0,75%. Vi skal altså lave en udregning, hvor vi i stedet for 7% om året får en rente på 6,25% om året. Det giver os et beløb på kontoen til sidst med 648.917 kroner.
+Hvis vi vælger en løsning, hvor der er årlige omkostninger, så vil vores afkast naturligvis blive laver. [Nord.Investments](/go/nord/) er en af de robotløsninger med de klart laveste årlige omkostninger. Lige nu er de på 0,75%. Vi skal altså lave en udregning, hvor vi i stedet for 7% om året får en rente på 6,25% om året. Det giver os et beløb på kontoen til sidst med 648.917 kroner.
 
 Hvis du vælger selv at købe ind, fx gennem Nordnets kurtagefrie månedsopsparing, så kan du gøre det noget billigere. Hvis du vælger [passive danske indeksfonde og investeringsforeninger]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}), så kan du finde årlige omkostninger på omkring 0,5%. Så ville du altså stå med 699.180 ved slutningen af de 30 år.
 
 Du kan også gå efter udenlandske ETF'er. Her kan du relativt enkelt få årlige omkostninger på under 0,2% årligt. Du står altså med 764.645 kroner på opsparingskontoen til sidst.
+
+Visuelt vil det se sådan her ud:
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.2" aop2="0.50" aop3="1.50" %}
 
 Der er altså rigtig stor forskel alt efter, hvad omkostningerne er på den investeringsløsning du vælger. Hvis du selv vælger at investere og vælge aktierne, skal du være meget opmærksom på den risikopræmie du betaler - og det arbejde du selv skal lave.
 
@@ -139,7 +143,7 @@ Her er et rigtig godt setup til at komme i gang som passiv investor. Investering
 
 Og faktisk er det også et **meget simpelt setup**.
 
-- Fyld aktiesparekontoen op til grænsen hos Saxo Investor
+- Fyld aktiesparekontoen op til grænsen
 - Brug månedsopsparingen fra Nordnet til at købe indekser
 
 ## Fyld først aktiesparekontoen
@@ -212,17 +216,18 @@ De fleste har ikke direkte adgang til at kunne vælge frit mellem alle fonde på
 
 ### Børneopsparing (traditionel)
 
-Jeg har skrevet mere om [børneopsparing]({% link _posts/2019-02-27-borneopsparing.md %}), men du skal ikke snydes for at hurtigt overblik over, hvrdan du kan gribe børneopsparingen an.
+Jeg har skrevet mere om [børneopsparing](/borneopsparing/), men du skal ikke snydes for at hurtigt overblik over, hvrdan du kan gribe børneopsparingen an.
 
 En traditionel børneopsparing i din bank kan du ofte få et investeringsdepot. Mange banker er begyndt at tilbyde, at du selv kan stå for investeringerne, og du kan typisk vælge mellem indeksbaserede investeringsprodukter.
 
-Her kunne du vælge 'Storebrand Indeks - Alle Markeder A5 (STIIAM)'. Begrundelsen er følgende:
+{% include fonde.html funds="SPVIGAKL" %}
 
-- Kan handles i danske kroner (det er ofte dyrt at handle i udenlandsk valuta på depoter til børneopsparingen)
-- Der er ofte høje gebyrer på udenlandske fonde i bankernes depoter.
-- Du kan ikke få en traditionel børneopsparing hos hverken SaxoInvestor eller Nordnet.
-- Fonden er akkumulerende, hvilket betyder at den ikke ubetaler små udbytter, som skal geninvesteres hvert år.
-- De årlige omkostninger til fonden er relativt lave.
+Begrundelsen for at vælge den fond er:
+
+- Det er SparIndex' bredeste aktiefond.
+- Den beskattes som aktieindkomst i et almindeligt aktiedepot.
+- Den kan købes kurtagefrit gennem Nordnets månedsopsparing.
+- Værdistigninger fra fonden beskattes ved salg og udbetaling af udbytte.
 
 ### Børneopsparing (supplerende)
 

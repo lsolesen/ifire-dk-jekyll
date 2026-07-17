@@ -146,7 +146,7 @@ Håber denne oversigt giver dig et solidt fundament for at forstå, hvordan skat
 
 Dansk Aktionærforening opdaterer løbende deres visuelle diagrammer over beskatningen, som kan give et godt grafisk overblik, hvis du vil dykke endnu dybere.
 
-Udover skatten er handelsomkostningerne det vigtigste sted at optimere din formue. Læs også mit indlæg om [handelsomkostninger og kurtage](/handelsomkostninger/), hvis du vil undgå, at gebyrer spiser dine gevinster.
+Udover skatten er handelsomkostningerne det vigtigste sted at optimere din formue. Læs også mit indlæg om [handelsomkostninger og kurtage](/investeringsomkostninger/), hvis du vil undgå, at gebyrer spiser dine gevinster.
 
 ---
 

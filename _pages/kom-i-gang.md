@@ -103,18 +103,38 @@ For de fleste er enkeltaktier hverken den nemmeste eller den klogeste vej ind i 
 
 ### Investeringsstrategi
 
-I Danmark er det skattemæssigt mest klogt at starte i denne rækkefølge:
+I Danmark er det skattemæssigt mest klogt at starte i denne rækkefølge for de **frie midler** for at [optimere skatten](/skat-af-aktier/):
 
-1.  **Aktiesparekontoen (ASK):** Start her. Fyld den op til loftet med en billig, global, akkumulerende ETF (f.eks. fra iShares). Skatten er her kun 17% flad lagerskat.
+1.  **Aktiesparekontoen (ASK):** Start her. Fyld den op med en billig, global, akkumulerende ETF (f.eks. fra iShares). Skatten er her kun 17% flad lagerskat.
 2.  **Frie midler:** Når ASK er fyldt, investerer du resten af dine frie midler via en månedsopsparing hos f.eks. Nordnet. Her kan du med fordel vælge en bred, udbyttebetalende dansk indeksfond (f.eks. fra Sparinvest), som giver dig realisationsbeskatning, så du slipper for at betale skat af gevinster, du endnu ikke har solgt.
 
-Det største problem for de fleste investorer er dem selv. Vi bliver bange, når markedet falder, eller grådige, når det stiger, og forsøger at time markedet – hvilket statistisk set koster os penge. Hemmeligheden bag min strategi er, at den er 100 % automatiseret og dødkedelig: når det faste månedlige beløb trækkes automatisk, køber du automatisk færre andele, når markedet er dyrt, og flere andele på "udsalg", når markedet falder. Det fjerner psykologien fra ligningen og sikrer dig markedsafkastet i det lange løb.
+Det største problem for de fleste investorer er dem selv. Vi bliver bange, når markedet falder, eller grådige, når det stiger, og forsøger at *time* markedet – hvilket statistisk set koster os penge.
+
+Selv følger jeg en 100% automatiseret og kedelig strategi: hver måned betaler jeg mig selv først og sætter pennge ind på investeringskontoen. Det investeres automatisk gennem månedsopsparingen i en global fond. Det betyder, at når markedet er dyrt får jeg færre aktier, og når markedet er billigt, så får jeg dem på udsalg.
+
+Det fjerner psykologien fra ligningen og sikrer dig markedsafkastet i det lange løb.
 
 👉 **[Se præcis hvilke fonde jeg selv ejer under Min Portefølje](/mine-investeringer/)**
 
+### Glem ikke din pension
+
+Hvis du har en arbejdsgiverbetalt pension, er det let at tro, at den passer sig selv. Mange bliver kun spurgt, om de ønsker lav, mellem eller høj risiko, og derefter bliver pengene investeret automatisk.
+
+Men hos mange pensionsselskaber kan du faktisk selv vælge, hvordan en del af pensionen investeres. Ofte kan du skifte fra en standardløsning til globale indeksfonde eller andre fonde med lavere omkostninger og en investeringsstrategi, der passer bedre til dig.
+
+Det er værd at bruge en halv time på at logge ind hos dit pensionsselskab og undersøge mulighederne. Da pensionen for de fleste bliver en af livets største investeringer, kan selv små forbedringer i omkostninger eller afkast få stor betydning over 20-40 år.
+
+### Overvej også at investere for dine børn
+
+Jo tidligere man begynder at investere, desto større bliver effekten af renters rente. Derfor kan det også være værd at overveje, om dine børn skal have en investeret børneopsparing eller et almindeligt investeringsdepot.
+
+Selv relativt små månedlige beløb kan vokse til en pæn startkapital, når pengene får lov til at arbejde i mange år.
+
+👉 [Læs min guide til investering for børn](/investering-til-boern-guide/).
+
 ---
 
-## 🚀 Trin 4: Tjen mere (Boosteren)
+## 🚀 Trin 4: Tjen mere
 
 Tredje ben i formlen er her, hvor du for alvor sætter fart på din rejse. Hvorfor ligger dette trin til sidst? Fordi en høj indtægt er ligegyldig, hvis du bare bruger rub og stub (det fænomen, der kaldes lifestyle inflation).
 
@@ -127,6 +147,14 @@ Når fundamentet er støbt, kan du begynde at skrue på indtægten:
 - Start et sideprojekt (side hustle) eller tag freelancearbejde.
 
 Hver gang din indtægt stiger, beholder du dine udgifter i ro, og øger i stedet dit faste, automatiske investeringsbeløb fra Trin 3.
+
+### Husk pensionen i lønforhandlingen
+
+Når du forhandler løn, er det ikke kun månedslønnen, der tæller. Arbejdsgiverens pensionsbidrag er også en del af din samlede lønpakke.
+
+Mange overenskomster ligger i dag omkring 10-12 % arbejdsgiverbetalt pension, mens nogle virksomheder tilbyder 15 % eller mere. Kan du forhandle pensionsprocenten bare én eller to procentpoint højere, kan det over et helt arbejdsliv blive til flere hundrede tusinde kroner ekstra på pensionskontoen.
+
+Det er penge, der investeres automatisk hver eneste måned, uden at du selv skal gøre noget.
 
 ---
 

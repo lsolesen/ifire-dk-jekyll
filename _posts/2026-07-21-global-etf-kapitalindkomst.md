@@ -47,7 +47,7 @@ Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv 
 * **Underliggende indeks:** *MSCI World Climate Change Index* (fonden fulgte tidligere MSCI World ESG Leaders Index, men er for nylig skiftet benchmark)
 * **Eksponering og markedsstørrelse:** Dækker ca. 1.500 virksomheder på tværs af 23 udviklede lande. Fonden er en ren **Large & Mid Cap** fond. Det betyder, at du ejer de store mastodonter og de mellemstore virksomheder, men de mindre selskaber (Small Cap) samt udviklingslandene er helt skåret fra. Desuden favoriserer indekset selskaber med en gunstig CO2-emissionsprofil frem for det brede MSCI World.
 * **Argumenter for/imod:** Den helt store fordel er, at den kan købes 100 % kurtagefrit via Nordnets Månedsopsparing, og da den handles i DKK, slipper du for valutavekslingsgebyrer.
-* **Sådan får du det fulde marked:** Hvis du vil have udviklingslandene med, kan du supplere med **Nordnet Emerging Markets Indeks** (Ticker: NNEMINDX / ÅOP: 0,39 %). Fordelingen vil typisk være 85/15. Bemærk dog, at du stadig mangler Small Cap i dette setup.
+* **Sådan får du det fulde marked:** Hvis du vil have udviklingslandene med, kan du supplere med **Nordnet Emerging Markets Indeks** (Ticker: NNEMINDX / ÅOP: 0,39 %). Fordelingen vil typisk være 88/12. Bemærk dog, at du stadig mangler Small Cap i dette setup.
 
 ### Invesco MSCI World UCITS ETF Acc
 Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, ufiltreret eksponering mod den vestlige verden, er denne udenlandske UCITS ETF en stærk kandidat. Da den bevidst *ikke* er tilmeldt SKATs positivliste, lagerbeskattes den som kapitalindkomst.
@@ -64,6 +64,12 @@ Vanguard er ikonet inden for passiv indeksinvestering. Hvor Invesco og Nordnet k
 * **Underliggende indeks:** *FTSE All-World Index*
 * **Eksponering og markedsstørrelse:** Over 3.600 selskaber på tværs af både 23 udviklede lande og 24 udviklingslande (Emerging Markets). Her får du en ekstremt bred geografisk dækning. Indekset fanger cirka 90 % af det samlede globale aktiemarked, men fokus er udelukkende på **Large & Mid Cap**. De mindre Small Cap-virksomheder (som udgør de resterende ca. 10-15 % af hele verdensmarkedet) må man undvære her.
 * **Argumenter for/imod:** Du får den absolut bredeste geografiske spredning i én fond – ingen behov for at rebalancere selv. Ulemperne er kurtage, valutaveksling og det faktum, at den udbetaler udbytte hvert kvartal. Det gør intet skattemæssigt på et frikort (da udbyttet blot modregnes), men det kræver, at du manuelt skal geninvestere pengene.
+
+---
+
+## Sammenlignet afkast ift. ÅOP
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.05" aop2="0.19" aop3="0.30" %}
 
 ---
 

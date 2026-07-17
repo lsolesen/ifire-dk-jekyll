@@ -71,13 +71,19 @@ Dette er den ultimative fond for investoren, der ikke vil nøjes med de store vi
 
 ---
 
+## Sammenlignet afkast ift. ÅOP
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.07" aop2="0.17" aop3="0.20" %}
+
+---
+
 ## Sammenligning: ETF'er på positivlisten vs. Danske Investeringsforeninger
 
 | Egenskab | Udenlandske ETF'er (Positivliste) | Danske Investeringsforeninger (Reference) |
 | :--- | :--- | :--- |
 | **Primære anvendelse** | **Ideel til ASK og pensionsdepoter.** (Bør kun bruges sekundært til frie midler). | **Ideel til frie midler** (efter at ASK/pension er fyldt helt op). |
 | **Skattetype** | Aktieindkomst (Lagerprincip) | Aktieindkomst (Realisationsprincip) |
-| **Typisk ÅOP** | Ultralav (`[INDSÆT %]` - `[INDSÆT %]`) | Højere (`[INDSÆT %]` - `[INDSÆT %]`) |
+| **Typisk ÅOP** | Ultralav (`0,07%` - `0,20%`) | Højere (`0,30%` - `0,60%`) |
 | **Skattesats (frie midler)** | 27 % / 42 % (Betales årligt af urealiseret gevinst) | 27 % / 42 % (Betales ved salg / årligt af udbytte) |
 | **Største fordel** | Laveste omkostninger = højere råt afkast | Skatteudskydelse på frie midler booster renters rente |
 | **Største ulempe** | Likviditetsdræn ved frie midler (skat skal findes årligt) | Højere løbende gebyrer æder af afkastet over tid |

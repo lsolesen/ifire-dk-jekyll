@@ -53,10 +53,10 @@ Herunder kan du se det overordnede landkort over min kerneportefølje. Alle depo
 
 | Depot-type | Primært aktiv | Investeringsfokus | Skatteform | Kommentarer |
 | :--- | :--- | :--- | :--- | :--- |
-| **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet (inkl. EM) | **Realisationsskat** (27%/42% aktieskat) | Undgår tvangssalg og lagerbeskatning. Giver fuld kontrol. |
-| **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet (DM) | **Lagerskat** (17% aktieskat) | Indbetalingsloft udnyttes fuldt ud med markedets laveste ÅOP. |
-| **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet (+ guld-satellit) | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft udnyttes. Guld skatteoptimeres herinde. |
-| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet (88% DM / 12% EM) | **PAL-skat** (15,3% lagerskat) | Sættes op via firmaindbetaling (Velliv selvvalg) med ultralav ÅOP. |
+| **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet | **Realisationsskat** (27%/42% aktieskat) | Undgår tvangssalg og lagerbeskatning. Giver fuld kontrol. |
+| **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet | **Lagerskat** (17% aktieskat) | Indbetalingsloft udnyttes fuldt ud med markedets laveste ÅOP. |
+| **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft udnyttes. |
+| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Sættes op via firmaindbetaling (Velliv selvvalg) med lav ÅOP. |
 
 ---
 
@@ -67,14 +67,12 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
 <details class="faq" markdown="1">
   <summary>🚀 Aktiesparekonto - Nordnet</summary>
 
-  * **Mit fondsvalg:** iShares MSCI ACWI UCITS ETF USD Acc (IUSQ)
-  * **Indeks:** MSCI World ACWI (ingen small cap)
+  * **Mit fondsvalg:** Amundi Prime All Country World UCITS ETF Acc (WEBN)
+  * **Indeks:** Solactive GBS Global Markets Large & Mid Cap Index (ingen small cap)
   * **Beskatning:** Lagerbeskatning (17% lagerskat)
-  * **ÅOP:** 0,20%
+  * **ÅOP:** 0,07%
   
   Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
-
-  Jeg har dog andre overvejelser, inden jeg fylder aktiesparekontoen helt op. Fx WEBN til ÅOP 0,07% eller SPYI til 0,17% (som indeholder small cap). Tjek [lagerbeskatte fonde på skats positivliste](/bedste-etf-skats-positivliste/).
 
 </details>
 

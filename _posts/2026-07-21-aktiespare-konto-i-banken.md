@@ -49,10 +49,10 @@ Hvis du udelukkende handler værdipapirer, der er noteret på den danske børs, 
 
 ## Konkrete regneeksempler: Banken vs. Nordnet
 
-Lad os tage udgangspunkt i min konkrete situation: Min Aktiesparekonto er fyldt op til det maksimale indskudsloft, hvilket betyder, at der står **174.000 kr.** 
+Lad os tage udgangspunkt i min konkrete situation: Min Aktiesparekonto er fyldt op til det maksimale indskudsloft, hvilket betyder, at der står **174.200 kr.** 
 
 ### Scenarie A: Beholde kontoen i banken
-I banken har jeg valgt fonde med en gennemsnitlig ÅOP på 0,40 %. Derudover betaler jeg de 176 kr. om året i depotgebyr. De 176 kr. svarer til ca. 0,10 % af min samlede formue på kontoen.
+I banken har jeg valgt fonde med en gennemsnitlig ÅOP på 0,40%. Derudover betaler jeg de 176 kr. om året i depotgebyr. De 176 kr. svarer til ca. 0,10 % af min samlede formue på kontoen.
 
 * **Fondens ÅOP (0,40 %):** 696 kr.
 * **Bankens depotgebyr:** 176 kr.
@@ -67,6 +67,14 @@ Hvis jeg flytter min ASK til Nordnet, får jeg fuld og gratis adgang til udenlan
 
 ### Den rene besparelse:
 Ved at flytte min Aktiesparekonto til Nordnet og optimere min fond til en global ETF, sparer jeg **524 kr. om året** ($872 \text{ kr.} - 348 \text{ kr.}$).
+
+---
+
+## Sammenlignet afkast ift. ÅOP
+
+Her sammenligner vi lige de to scenarier for at se, hvad det betyder for afkastet. Begge løsninger med passive indeksfonde er naturligvis noget bedre end alternativt med en aktivt forvaltet løsning, som ofte vil ryge op i mere end 1,5% i årlige omkostninger.
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.2" aop2="0.50" aop3="1.50" %}
 
 ---
 

@@ -1,0 +1,191 @@
+<!-- Interactive Tool Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 24px 0; max-width: 100%; box-sizing: border-box;">
+  
+  <!-- Row 1: Global Settings (Compact & Dynamic) -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
+    <div style="flex: 1; min-width: 100px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; text-transform: uppercase; color: #475569;">Startbeløb (kr.)</label>
+      <input type="number" id="calcStart" value="{{ include.start | default: 100000 }}" step="5000" style="width: 100% !important; padding: 6px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+    <div style="flex: 1; min-width: 100px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; text-transform: uppercase; color: #475569;">Markedsafkast (%)</label>
+      <input type="number" id="calcReturn" value="{{ include.afkast | default: 7 }}" step="0.5" style="width: 100% !important; padding: 6px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+    <div style="flex: 1; min-width: 100px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; text-transform: uppercase; color: #475569;">Tidshorisont (år)</label>
+      <input type="number" id="calcYears" value="{{ include.aar | default: 30 }}" step="1" style="width: 100% !important; padding: 6px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+  </div>
+
+  <!-- Row 2: Three Editable Funds (Compact & Dynamic) -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; background-color: #f1f5f9; padding: 10px; border-radius: 6px;">
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; color: #10b981;">Fond 1 ÅOP (%)</label>
+      <input type="number" id="calcAop1" value="{{ include.aop1 | default: 0.17 }}" step="0.01" style="width: 100% !important; padding: 5px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; color: #3b82f6;">Fond 2 ÅOP (%)</label>
+      <input type="number" id="calcAop2" value="{{ include.aop2 | default: 0.50 }}" step="0.01" style="width: 100% !important; padding: 5px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 11px; color: #ef4444;">Fond 3 ÅOP (%)</label>
+      <input type="number" id="calcAop3" value="{{ include.aop3 | default: 1.60 }}" step="0.01" style="width: 100% !important; padding: 5px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+    </div>
+  </div>
+
+  <!-- Dynamic Table (Compact & Full-Width Forced) -->
+  <div style="overflow-x: auto; margin-bottom: 16px; width: 100% !important;">
+    <table style="width: 100% !important; display: table !important; border-collapse: collapse; text-align: left; font-size: 13px; min-width: 100% !important;">
+      <thead>
+        <tr style="background-color: #e2e8f0; border-bottom: 2px solid #cbd5e1;">
+          <th style="padding: 6px 8px; font-weight: 600;">Scenarie</th>
+          <th style="padding: 6px 8px; font-weight: 600; text-align: right;">Årlig ÅOP</th>
+          <th style="padding: 6px 8px; font-weight: 600; text-align: right;">Nettoafkast</th>
+          <th style="padding: 6px 8px; font-weight: 600; text-align: right;">Slutværdi</th>
+          <th style="padding: 6px 8px; font-weight: 600; text-align: right;">Tabt til gebyrer</th>
+        </tr>
+      </thead>
+      <tbody id="calcTableBody">
+        <!-- Will be populated dynamically by JS -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Dynamic Graph Canvas (Double height: 400px) -->
+  <div style="position: relative; height: 400px; width:100% !important;">
+    <canvas id="growthChart"></canvas>
+  </div>
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+(function() {
+  const ctx = document.getElementById('growthChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { style: 'currency', currency: 'DKK', maximumFractionDigits: 0 }).format(val);
+  }
+
+  function calculate() {
+    const start = parseFloat(document.getElementById('calcStart').value) || 0;
+    const marketReturn = (parseFloat(document.getElementById('calcReturn').value) || 0) / 100;
+    const years = parseInt(document.getElementById('calcYears').value) || 1;
+
+    // We calculate a theoretical 0% baseline just to measure "Tabt til gebyrer"
+    const baselineFinal = start * Math.pow(1 + marketReturn, years);
+
+    const aops = [
+      { name: 'Teoretisk maks (0% ÅOP)', val: 0.0, color: '#94a3b8' },
+      { name: 'Fond 1', val: (parseFloat(document.getElementById('calcAop1').value) || 0) / 100, color: '#10b981' },
+      { name: 'Fond 2', val: (parseFloat(document.getElementById('calcAop2').value) || 0) / 100, color: '#3b82f6' },
+      { name: 'Fond 3', val: (parseFloat(document.getElementById('calcAop3').value) || 0) / 100, color: '#ef4444' }
+    ];
+
+    const labels = [];
+    for (let i = 0; i <= years; i++) {
+      labels.push('År ' + i);
+    }
+
+    const datasets = aops.map(aop => {
+      const data = [start];
+      const netRate = marketReturn - aop.val;
+      for (let y = 1; y <= years; y++) {
+        data.push(start * Math.pow(1 + netRate, y));
+      }
+      return {
+        label: aop.name,
+        data: data,
+        borderColor: aop.color,
+        backgroundColor: aop.color + '15',
+        borderWidth: aop.val === 0 ? 1.5 : 2,
+        borderDash: aop.val === 0 ? [5, 5] : [], // Dashed line for 0% ÅOP baseline
+        tension: 0.1,
+        fill: false
+      };
+    });
+
+    // Populate Table
+    const tableBody = document.getElementById('calcTableBody');
+    tableBody.innerHTML = '';
+
+    datasets.forEach((ds, idx) => {
+      const aopObj = aops[idx];
+      const finalVal = ds.data[years];
+      const lostVal = baselineFinal - finalVal;
+      const netReturnPct = (marketReturn - aopObj.val) * 100;
+
+      const row = document.createElement('tr');
+      row.style.borderBottom = '1px solid #e2e8f0';
+      if (aopObj.val === 0) {
+        row.style.color = '#64748b';
+        row.style.fontStyle = 'italic';
+      }
+
+      row.innerHTML = `
+        <td style="padding: 6px 8px; display: flex; align-items: center; font-weight: 500;"><span style="display:inline-block; width:10px; height:10px; background-color:${aopObj.color}; margin-right:6px; border-radius:50%;"></span> ${aopObj.name}</td>
+        <td style="padding: 6px 8px; text-align: right;">${(aopObj.val * 100).toFixed(2)}%</td>
+        <td style="padding: 6px 8px; text-align: right;">${netReturnPct.toFixed(2)}%</td>
+        <td style="padding: 6px 8px; text-align: right; font-weight: 600;">${formatDKK(finalVal)}</td>
+        <td style="padding: 6px 8px; text-align: right; color: ${aopObj.val === 0 ? '#64748b' : '#ef4444'}; font-weight: 500;">${aopObj.val === 0 ? '-' : formatDKK(lostVal)}</td>
+      `;
+      tableBody.appendChild(row);
+    });
+
+    // Draw / Update Chart
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { boxWidth: 10, font: { size: 10 }, padding: 8 }
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                return context.dataset.label + ': ' + formatDKK(context.raw);
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            ticks: {
+              font: { size: 9 },
+              callback: function(value) {
+                return formatDKK(value);
+              }
+            }
+          },
+          x: {
+            ticks: { font: { size: 9 } }
+          }
+        }
+      }
+    });
+  }
+
+  // Attach event listeners for real-time recalculation
+  const inputs = ['calcStart', 'calcReturn', 'calcYears', 'calcAop1', 'calcAop2', 'calcAop3'];
+  inputs.forEach(id => {
+    document.getElementById(id).addEventListener('input', calculate);
+  });
+
+  // Initial calculation
+  calculate();
+})();
+</script>
+<!-- Interactive Tool Ends Here -->

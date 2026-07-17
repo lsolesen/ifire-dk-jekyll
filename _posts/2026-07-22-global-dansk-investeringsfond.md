@@ -92,6 +92,14 @@ Her kommer artiklens absolutte jokerkort. **Storebrand Indeks - Alle Markeder** 
 | **Største fordel** | Du beholder pengene i markedet i stedet for at betale skat | Du betaler minimalt i årlige gebyrer til fonden |
 | **Største ulempe** | Du tvinges til at betale skat af årlige udbytter | Lagerskatten bremser sneboldeffekten en smule |
 
+---
+
+## Sammenlignet afkast ift. ÅOP
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.30" aop2="0.35" aop3="0.50" %}
+
+---
+
 ## Konklusion
 
 Hvis din tidshorisont er lang, vil skattefordelen ved at udskyde kursgevinsten i de danske fonde i mange tilfælde indhente og overhale den ulempe, som den højere ÅOP udgør. Det é den ultimative "køb, behold og pas dit liv"-løsning for den langsigtede investor.

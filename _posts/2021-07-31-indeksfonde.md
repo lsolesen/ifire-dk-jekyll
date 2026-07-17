@@ -40,16 +40,22 @@ Der findes mange forskellige indekser på markedet, så du skal huske at sætte 
 
 Indeksfonde bliver ofte brugt, når man gerne vil investere ved bare at følge markedet. Det kalder man også passiv investering. I bankerne vil du dog ofte blive tilbudt at investere i investeringsforeninger, der forvalter deres portefølje *aktivt*. Det gør de, fordi de håber på, at de professionelle porteføljemanagere kan håndplukke de bedste aktier og derved skabe et bedre afkast end markedet.
 
-Udfordringen er, at der i de aktive foreninger sidder dyre eksperter, som konstant køber og sælger. Det betyder, at omkostningerne (ÅOP) i de aktive foreninger er tårnhøje – det er ikke usædvanligt at finde årlige omkostninger på helt op til 1,5 % til 2,5 %.
+Udfordringen er, at der i de aktive foreninger sidder dyre eksperter, som konstant køber og sælger. Det betyder, at omkostningerne (ÅOP) i de aktive foreninger er tårnhøje – det er ikke usædvanligt at finde årlige omkostninger på helt op til 1,5% til 2,5%.
 
 I de passive indeksfonde kan du derimod finde markant lavere årlige omkostninger, ofte helt ned til mellem 0,07 % og 0,50 %.
 
-Historikken og adskillige undersøgelser viser, at passiv investering i langt de fleste tilfælde slår den aktive investering på den lange bane. En af hovedårsagerne er netop omkostningerne. Hvis en aktiv fond koster 2 % i ÅOP, skal den præstere hele 1,5 % *bedre* end markedsgennemsnittet hvert eneste år, bare for at give dig det samme afkast som en passiv fond til 0,5 % i ÅOP. Det er der de færreste managere, der formår over en 10-20 årig periode.
+Historikken og adskillige undersøgelser viser, at passiv investering i langt de fleste tilfælde slår den aktive investering på den lange bane. En af hovedårsagerne er netop omkostningerne. Hvis en aktiv fond koster 2% i ÅOP, skal den præstere hele 1,5% *bedre* end markedsgennemsnittet hvert eneste år, bare for at give dig det samme afkast som en passiv fond til 0,5% i ÅOP. Det er der de færreste managere, der formår over en 10-20 årig periode.
 
 Du skal også være opmærksom på, at traditionelle banker ofte tjener formidlingsprovision på de aktive investeringer, de anbefaler dig. Det er med til at holde omkostningerne oppe, og det betyder desværre, at bankerne ikke altid er helt objektive i deres rådgivning.
 
+Et lille regneeksempel:
+
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="20" aop1="0.07" aop2="0.50" aop3="1.50" %}
+
+Det er jo en massiv forskel.
+
 ### Hvad er tracking error?
-Indeksinvestering fungerer ved, at foreningen køber bredt op i indekset, så fonden har nægtes samme vægtning som det overordnede indeks. Teoretisk set betyder det, at hvis indekset falder 3 %, falder din fond også omkring 3 %, og det samme gør sig gældende ved stigninger.
+Indeksinvestering fungerer ved, at foreningen køber bredt op i indekset, så fonden har nægtes samme vægtning som det overordnede indeks. Teoretisk set betyder det, at hvis indekset falder 3%, falder din fond også omkring 3%, og det samme gør sig gældende ved stigninger.
 
 Det er dog ikke altid muligt at følge indekset 100 % præcist på decimalen på grund af handelsomkostninger og løbende rebalancering. Derfor vurderer man, hvor god en indeksfond er, ud fra dens såkaldte *tracking error* (hvor meget den afviger fra indeksets reelle kurs).
 
@@ -106,7 +112,7 @@ Når du investerer for **frie midler**, gælder følgende hovedregler for fonde:
 Disse er som udgangspunkt **realisationsbeskattede** og beskattes som **aktieindkomst**. Det betyder, at du betaler 27 % i skat af de første **63.400 kr.** (i 2026) i årlig gevinst/udbytte, og 42 % af alt derover (beløbsgrænsen er det dobbelte for ægtepar). Hvis du vil se den fulde liste over specifikke distribuerende fonde og deres omkostninger, kan du læse min guide her: **[Passive danske fonde: Liste over danske investeringsforeninger](/danske-investeringsforeninger-med-passive-indeksfonde/)**.
 
 ### 2. Udenlandske ETF'er og akkumulerende fonde
-Disse er altid **lagerbeskattede**. Om de beskattes som aktieindkomst (27 % / 42 %) eller kapitalindkomst (typisk 37 % - 42 %), afhænger af, om fonden står på Skattestyrelsens officielle *positivliste*. Aktiebaserede klassikere som *iShares Core MSCI World (EUNL)* beskattes i dag som aktieindkomst, fordi de står på positivlisten.
+Disse er altid **lagerbeskattede**. Om de beskattes som aktieindkomst (27 % / 42 %) eller kapitalindkomst (typisk 37 % - 42 %), afhænger af, om fonden står på Skattestyrelsens officielle *positivliste*. Aktiebaserede klassikere som *iShares Core MSCI World (EUNL)* beskattes i dag som aktieindkomst, fordi de står på [Skats positivliste](/skats-positivliste/).
 
 ### 3. Aktiesparekontoen (ASK)
 Hvis du investerer via en Aktiesparekonto (hvor indskudsloftet i 2026 er **174.200 kr.**), er *alt* lagerbeskattet med en flad, lav særskat på kun **17 %**. Det gør Aktiesparekontoen ekstremt attraktiv for langt de fleste danskere – særligt til de billige, udenlandske ETF'er.
