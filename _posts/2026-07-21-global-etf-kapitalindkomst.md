@@ -38,9 +38,14 @@ Hvis du har store renteudgifter – f.eks. fra et realkreditlån eller banklån 
 
 ## Fonde jeg overvejer i dette setup
 
+{% include fond-sammenlign.html fonde="NNGBLINDX, MXWS, VMCE" %}
+
 For at opnå en bred global dækning i dette specifikke skattemiljø, kigger jeg lige nu på tre stærke referencefonde. De har hver deres unikke fordele, når vi kigger på handelsomkostninger, præcise indeks og ikke mindst fordelingen af virksomhedsstørrelser (**Large, Mid og Small Cap**).
 
 ### Nordnet Global Indeks
+
+{% include fond-oplysninger.html fond="NNGBLINDX" %}
+
 Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv udbyder. Det er en af de nemmeste løsninger til frikort-hacket, hvis du vil undgå komplekse børshandler.
 * **Ticker:** NNGBLINDX (Handelsvaluta: DKK)
 * **ÅOP:** 0,30 %
@@ -50,6 +55,9 @@ Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv 
 * **Sådan får du det fulde marked:** Hvis du vil have udviklingslandene med, kan du supplere med **Nordnet Emerging Markets Indeks** (Ticker: NNEMINDX / ÅOP: 0,39 %). Fordelingen vil typisk være 88/12. Bemærk dog, at du stadig mangler Small Cap i dette setup.
 
 ### Invesco MSCI World UCITS ETF Acc
+
+{% include fond-oplysninger.html fond="MXWS" %}
+
 Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, ufiltreret eksponering mod den vestlige verden, er denne udenlandske UCITS ETF en stærk kandidat. Da den bevidst *ikke* er tilmeldt SKATs positivliste, lagerbeskattes den som kapitalindkomst.
 * **Ticker:** MXWS (Handelsvaluta: EUR) / ISIN: IE00B60SX394
 * **ÅOP:** 0,05 %
@@ -58,6 +66,9 @@ Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, uf
 * **Argumenter for/imod:** Den ultralave ÅOP på 0,05 % gør den til en af markedets absolut billigste MSCI World-ETF'er og fantastisk til at maksimere renters rente-effekten på et børnedepot over tid. Ulemperne er, at du skal betale almindelig kurtage ved køb/salg, og du skal betale Nordnets valutagebyr på 0,25 % ved hver handel, da den afregnes i Euro. Og den medtager hverken emerging markets eller small-cap.
 
 ### Vanguard FTSE All-World UCITS ETF Dist (FIRE-favoritten)
+
+{% include fond-oplysninger.html fond="VMCE" %}
+
 Vanguard er ikonet inden for passiv indeksinvestering. Hvor Invesco og Nordnet kræver, at du selv kombinerer flere fonde for at få udviklingslandene med, klarer denne ETF det hele i én enkelt handel. Da denne distribuerende version ikke optræder på SKATs positivliste, lander den direkte i kurven for kapitalindkomst. Den findes også i en akkumulerende udgave som VWRL.
 * **Ticker:** VMCE (Handelsvaluta: EUR)
 * **ÅOP:** 0,19%

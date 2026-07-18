@@ -7,6 +7,7 @@ tags:
   - rigdomsformularen
   - status
   - crowdlending
+  - månedsopdateringer
 excerpt: "November har budt på stabile investeringsafkast og lidt eksperimenter med Fiverr."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500

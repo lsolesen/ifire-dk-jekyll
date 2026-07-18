@@ -4,11 +4,13 @@ last_modified_at: 2020-01-03T20:20:02+02:00
 permalink: /investering-vol6/
 category:
   - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
   - obligationer
   - værdipapirer
+  - portefølje
 excerpt: "Der er kommet spændende nye index fonde til Danmark - nemlig fonde fra Storebrand, som kan handles helt ned til årlige omkostninger på 0,39%."
 classes: wide
 header:

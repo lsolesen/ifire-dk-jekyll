@@ -22,6 +22,14 @@ Jeg har fundet rigtig mange besparelser ved at have fokus på, hvordan jeg kan s
 
 Når de faste udgifter og privatforbruget er begrænset, så skal du jo i sidste ende tjene færre penge for at opnå finansiel uafhængighed.
 
+## Prøv selv beregneren
+
+Hvad koster din næste telefon eller dine nye sko dig i tabt fremtidig frihed? Indtast beløbet og se effekten med det samme.
+
+{% include alternativomkostning-beregner.html amount="1000" years="15" savingsRate="0.5" investmentReturn="7.0" inflation="2.0" %}
+
+{% include latte-factor-beregner.html monthlyAmount="1500" years="10" savingsRate="1.2" investmentReturn="7.5" inflation="2.5" %}
+
 {% comment %}
 spar penge
 spare penge

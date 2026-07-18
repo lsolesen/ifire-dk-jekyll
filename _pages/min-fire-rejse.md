@@ -111,10 +111,10 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
 </details>
 ---
 
-## Historiske opdateringer
+## Månedsopdateringer
 
 <div class="feature__wrapper">
-{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "værdipapirer" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "månedsopdateringer" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}

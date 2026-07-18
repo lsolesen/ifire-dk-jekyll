@@ -39,7 +39,11 @@ Vi har lavet en onlineberegner til at visualisere **effekten af renters rente**.
 
 ***
 
-{% include compound-interest-calculator.html %}
+{% include renters-rente.html 
+  base="10000"
+  deposit="50"
+  rate="7"
+  years="30" %}
 
 ***
 

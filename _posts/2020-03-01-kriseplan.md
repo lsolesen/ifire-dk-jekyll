@@ -68,6 +68,8 @@ Du skal gøre op med dig selv, hvordan din økonomi ser ud, hvis det værst muli
 
 Du kan læse mange forskellige anbefalinger lige fra at have en nødopsparing, der kan dække dine samlede udgifter i en måned op til et helt år. Jeg har selv valgt at have omkring tre måneder til mine faste udgifter som nødopsparing. 
 
+{% include emergency-fund-beregner.html fixedExp="15000" varExp="8000" months="6" akasse="15500" houseBuffer="25000" carBuffer="15000" %}
+
 Det kommer helt an på din livssituation, og jeg ville helt sikkert være mere risikovillig desto yngre jeg var og desto friere mit liv var, så jeg kunne maksimere mine investeringer.
 
 Nødopsparingen sikrer mig mod at jeg skulle blive nødt til at sælge mine investeringer med mulighed for et tab. 
@@ -109,6 +111,8 @@ En diversificeret portefølje med _buy & hold_-strategien har fungeret i rigtig 
 Nogle vil måske overtale dig til at sælge ud, men så er du helt sikker på at tabe penge. Andre vil overtale dig til at investere og tjene hurtige penge. Hold ud. Hold dig til strategien.
 
 Under en krise skal du bare lade være med at kigge på dit aktiedepot, og du skal formentlig også undgå at se finansnyhederne. Så er det lettere at holde strategien.
+
+{% include krise-runway-beregner.html expNow="22000" expCrisis="14000" cash="85000" stableAssets="15000" backupIncome="16500" %}
 
 ## Efter krisen
 

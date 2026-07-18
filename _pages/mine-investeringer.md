@@ -71,6 +71,8 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
   * **Indeks:** Solactive GBS Global Markets Large & Mid Cap Index (ingen small cap)
   * **Beskatning:** Lagerbeskatning (17% lagerskat)
   * **ÅOP:** 0,07%
+
+{% include fond-oplysninger.html fond="WEBN" %}
   
   Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
 
@@ -86,21 +88,20 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
   * **Beskatning:** Realisationsprincippet (27% / 42% progressionsskat)
   * **ÅOP:** 0,35%
 
+{% include fond-oplysninger.html fond="SPIIMA" %}
+
   Jeg ønsker ikke at lagerbeskatte mine frie midler. Derfor vælger jeg en fond, der bliver realisationsbeskattet. Derfor skal jeg vælge en dansk fond, som har lidt højere årlige omkostninger end de udenlandske ETF'er. Realisationsbeskatningen sikrer, at jeg kun betaler skat, når jeg reelt sælger andele eller får udbytte. Det er med til at maksimere renters rente-effekten på den lange bane. Fonden dækker hele verden i ét værdipapir, hvilket gør administrationen minimal.
   
   Jeg køber om muligt på Nordnets månedsopsparing for faste månedlige indskud. 
 
   Ud over mit foretrukne valg af fond, har jeg historisk købt et par andre fonde.
 
-  | Fond | Indeks / Dækning | Andel | ÅOP | Skattestatus |
-  | :--- | :--- | :--- | :--- | :--- |
-  | **Sparinvest INDEX Dow Jones Sustainability World KL** (SPIDJB) | DJSI World (kun udviklede lande) | 0,50% |
-  | **Sparinvest INDEX Emerging Markets KL** (SPIEMIKL) | Emerging Markets (udviklingslande) | 0,50% |
-  | **Sparinvest INDEX Globale Aktier KL** (SPIVIGAKL) | Morningstar Global All Cap TME Screened Select | 0,50% |
+{% include fond-oplysninger.html 
+    title="Tidligere investeringer" 
+    allocation="SPIDJB,SPIEMIKL,SPIVIGAKL"
+    comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI AWCI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
 
   **Hvorfor ser mine frie midler sådan ud?**
-
-  Oprindeligt købte jeg SPIDJB og SPIEMIKL i en 85/15% fordeling for at få noget, der lignede hele verden. Senere begyndte jeg at købe SPIVIGAKL for at få en fond, der dækker hele verden i en fond inkl. small cap. Nu foretrækker jeg de lavere omkostninger i SPIIMA, men må undvære small cap. Det lever jeg med.
 
   Selvom mit langsigtede kompas peger mod ét enkelt værdipapir, så afspejler min nuværende portefølje udviklingen over tid - og de fonde jeg tidligere tænkte var de bedste.
 
@@ -121,6 +122,9 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
   * **Indeks:** MSCI World + Emerging markets (ingen small cap)
   * **Beskatning:** PAL-skat (15,3%)
   * **ÅOP:** 0,32% (vægtet)
+
+{% include depottype-kort.html type="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" 
+    comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
   
   Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
 
@@ -149,6 +153,8 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
   * **Indeks**: MSCI World og Emerging Markets (ingen small cap)
   * **Beskatning:** PAL-skat (15,3%)
   * **Samlet ÅOP:** Ca. 0,29% (vægtet - hhv. 0,27% og 0,43%)
+
+{% include depottype-kort.html type="pension" allocation="VELLIVG:88,VELLIVE:12" %}
   
   Jeg har fravalgt Vellivs standardiserede, aktive pakker, da der er for høje årlige omkostninger og andele af obligationer og andre investeringsklasser til min smag. I stedet bruger jeg deres *LinkPension (Selvvalg)* til at stykke min egen billige og passive portefølje sammen, som rammer den reelle, globale marked.
 

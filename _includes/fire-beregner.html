@@ -1,0 +1,370 @@
+<!-- Styling til at fjerne standard input-pile og styre responsivt layout -->
+<style>
+  .fire-input-clean::-webkit-outer-spin-button,
+  .fire-input-clean::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .fire-input-clean[type=number] {
+    -moz-appearance: textfield;
+  }
+  
+  /* Responsivt grid til input-blokken */
+  .fire-input-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr 1fr 0.8fr;
+    gap: 10px;
+  }
+
+  /* Responsivt grid til KPI-kortene */
+  .fire-cards-grid-4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+
+  /* Mobil-tilpasninger (Breakpoints) */
+  @media (max-width: 768px) {
+    .fire-input-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .fire-cards-grid-4 {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 480px) {
+    .fire-input-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- FIRE Beregner Dashboard Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 900px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.025);">
+  
+  <!-- Header -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em;">FIRE Beregner</h3>
+    <span style="font-size: 11px; color: #94a3b8; font-weight: 500; letter-spacing: 0.02em;">Indstil dine mål live</span>
+  </div>
+
+  <!-- Kompakt, lys grågrå inputramme til de 4 hovedindtastninger -->
+  <div style="background-color: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+    <div class="fire-input-grid">
+      
+      <!-- Input 1: Forbrug -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Forbrug/md.</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="inpConsumption" value="{{ include.forbrug | default: 15000 }}" step="500" class="fire-input-clean" style="width: 100% !important; padding: 8px 30px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+        </div>
+      </div>
+      
+      <!-- Input 2: Nuværende Opsparing -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Nuv. opsparing</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="inpSavings" value="{{ include.opsparing | default: 250000 }}" step="5000" class="fire-input-clean" style="width: 100% !important; padding: 8px 30px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+        </div>
+      </div>
+
+      <!-- Input 3: Månedsopsparing -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Månedsopsparing</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="inpMonthly" value="{{ include.maanedssave | default: 2500 }}" step="250" class="fire-input-clean" style="width: 100% !important; padding: 8px 30px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+        </div>
+      </div>
+
+      <!-- Input 4: Forventet Afkast -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Afkast</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="inpReturn" value="{{ include.afkast | default: 7.0 }}" step="0.1" class="fire-input-clean" style="width: 100% !important; padding: 8px 24px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">%</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Gul boks til udbetalingsmodel -->
+  <div style="background-color: #fffdec; border: 1px solid #fef08a; border-radius: 8px; padding: 10px 16px; margin-bottom: 16px; display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; align-items: center; font-size: 13px;">
+    <div style="font-weight: 700; color: #854d0e; display: flex; align-items: center; gap: 4px;">
+      ⚙️ <span>Udbetalingsmodel:</span>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; font-weight: 600;">
+      <div>
+        <span>Udbetalingsrate (SWR):</span>
+        <input type="number" id="inputSWR" value="{{ include.swr | default: 4.0 }}" step="0.1" class="fire-input-clean" style="width: 45px; padding: 3px; border: 1px solid #fde047; border-radius: 4px; text-align: center; font-weight: 700; background: #fff; height: 24px;"> %
+      </div>
+      <div>
+        <span>Skat på afkast:</span>
+        <input type="number" id="inputTax" value="{{ include.skat | default: 0 }}" step="1" class="fire-input-clean" style="width: 45px; padding: 3px; border: 1px solid #fde047; border-radius: 4px; text-align: center; font-weight: 700; background: #fff; height: 24px;"> %
+      </div>
+    </div>
+  </div>
+
+  <!-- Dashboard Cards (4 Columns) -->
+  <div class="fire-cards-grid-4" style="margin-bottom: 16px;">
+    
+    <!-- Mål -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">FIRE-mål</div>
+      <div id="valTarget" style="font-size: 16px; font-weight: 800; color: #0f172a; margin-top: 4px;">0 kr.</div>
+    </div>
+
+    <!-- Mangler -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Mangler stadig</div>
+      <div id="valRemaining" style="font-size: 16px; font-weight: 800; color: #ef4444; margin-top: 4px;">0 kr.</div>
+    </div>
+
+    <!-- Opsparingsrate -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Opsparingsrate</div>
+      <div id="valSavingsRate" style="font-size: 16px; font-weight: 800; color: #10b981; margin-top: 4px;">0%</div>
+    </div>
+
+    <!-- Status -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Status</div>
+      <div id="valPct" style="font-size: 16px; font-weight: 800; color: #2563eb; margin-top: 4px;">0%</div>
+    </div>
+
+  </div>
+
+  <!-- Live visual chart (Double height: 350px) -->
+  <div style="position: relative; height: 350px; width: 100% !important; margin-bottom: 20px;">
+    <canvas id="fireChart"></canvas>
+  </div>
+
+  <!-- Progress Bar & Result Section -->
+  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #e2e8f0; text-align: center;">
+    
+    <!-- Custom Progress Bar -->
+    <div style="width: 100%; height: 10px; background-color: #e2e8f0; border-radius: 5px; overflow: hidden; margin-bottom: 12px; position: relative;">
+      <div id="progressBar" style="width: 0%; height: 100%; background-color: #ea580c; transition: width 0.3s ease;"></div>
+    </div>
+
+    <!-- Final Result Statement -->
+    <div style="font-size: 13px; font-weight: 500; color: #475569;">
+      Tid til økonomisk uafhængighed:
+      <div id="valTimeResult" style="font-size: 26px; font-weight: 900; color: #ea580c; margin-top: 4px; letter-spacing: -0.02em;">Ca. 0 år</div>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Interactive Engine -->
+<script>
+(function() {
+  const inpConsumption = document.getElementById('inpConsumption');
+  const inpSavings = document.getElementById('inpSavings');
+  const inpMonthly = document.getElementById('inpMonthly');
+  const inpReturn = document.getElementById('inpReturn');
+  
+  const inputSWR = document.getElementById('inputSWR');
+  const inputTax = document.getElementById('inputTax');
+
+  // Outputs
+  const valTarget = document.getElementById('valTarget');
+  const valRemaining = document.getElementById('valRemaining');
+  const valSavingsRate = document.getElementById('valSavingsRate');
+  const valPct = document.getElementById('valPct');
+  const progressBar = document.getElementById('progressBar');
+  const valTimeResult = document.getElementById('valTimeResult');
+
+  const ctx = document.getElementById('fireChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val) + ' kr.';
+  }
+
+  function runCalculation() {
+    // 1. Inputs
+    const consumption = parseFloat(inpConsumption.value) || 0;
+    const currentSavings = parseFloat(inpSavings.value) || 0;
+    const monthlySave = parseFloat(inpMonthly.value) || 0;
+    const expectedReturn = (parseFloat(inpReturn.value) || 0) / 100;
+    
+    const swr = (parseFloat(inputSWR.value) || 4) / 100;
+    const taxRate = (parseFloat(inputTax.value) || 0) / 100;
+
+    // 2. Target calculation (FIRE-mål)
+    const annualConsumption = consumption * 12;
+    const netTarget = annualConsumption / swr;
+    const target = taxRate < 1 ? Math.round(netTarget / (1 - taxRate)) : netTarget;
+
+    const remaining = Math.max(0, target - currentSavings);
+    const pct = target > 0 ? Math.min(100, (currentSavings / target) * 100) : 100;
+
+    // 3. Opsparingsrate
+    const totalNetIncome = monthlySave + consumption;
+    const savingsRate = totalNetIncome > 0 ? (monthlySave / totalNetIncome) * 100 : 0;
+
+    // Update static outputs
+    valTarget.innerText = formatDKK(target);
+    valRemaining.innerText = formatDKK(remaining);
+    valSavingsRate.innerText = savingsRate.toFixed(1).replace('.', ',') + '%';
+    valPct.innerText = pct.toFixed(1).replace('.', ',') + '% nået';
+    progressBar.style.width = pct + '%';
+
+    // 4. Time to FIRE math
+    let totalMonths = 0;
+    let timeText = "";
+    let isIndependent = false;
+
+    if (currentSavings >= target) {
+      timeText = "Du er økonomisk uafhængig! 🎉";
+      isIndependent = true;
+    } else {
+      const r = expectedReturn / 12; // Månedligt afkast
+      const PV = currentSavings;
+      const PMT = monthlySave;
+      const FV = target;
+
+      if (PMT <= 0 && PV * r <= 0) {
+        timeText = "Uendelig (ingen opsparing/afkast)";
+      } else {
+        if (PV * r + PMT <= 0) {
+          timeText = "Uendelig (opsparingen svinder ind)";
+        } else {
+          let n = 0;
+          if (r === 0) {
+            n = (FV - PV) / PMT;
+          } else {
+            const numerator = FV * r + PMT;
+            const denominator = PV * r + PMT;
+            if (denominator <= 0 || numerator <= 0) {
+              n = Infinity;
+            } else {
+              n = Math.log(numerator / denominator) / Math.log(1 + r);
+            }
+          }
+
+          if (!isFinite(n) || n < 0) {
+            timeText = "Spar mere op";
+          } else {
+            totalMonths = Math.ceil(n);
+            const years = Math.floor(totalMonths / 12);
+            const months = totalMonths % 12;
+
+            if (years === 0) {
+              timeText = `${months} mdr.`;
+            } else {
+              timeText = `Ca. ${years} år og ${months} mdr.`;
+            }
+          }
+        }
+      }
+    }
+
+    valTimeResult.innerText = timeText;
+
+    // 5. Generate Chart Data
+    const chartLabels = ['År 0'];
+    const growthData = [currentSavings];
+    const targetData = [target];
+
+    let yearsToPlot = 30;
+    if (isIndependent) {
+      yearsToPlot = 10;
+    } else if (totalMonths > 0) {
+      yearsToPlot = Math.min(50, Math.ceil(totalMonths / 12));
+    }
+
+    let tempBalance = currentSavings;
+    const mRate = expectedReturn / 12;
+
+    for (let y = 1; y <= yearsToPlot; y++) {
+      for (let m = 0; m < 12; m++) {
+        tempBalance += tempBalance * mRate;
+        tempBalance += monthlySave;
+      }
+      chartLabels.push('År ' + y);
+      growthData.push(tempBalance);
+      targetData.push(target);
+    }
+
+    // 6. Render Chart.js
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: chartLabels,
+        datasets: [
+          {
+            label: 'Din opsparing',
+            data: growthData,
+            borderColor: '#10b981',
+            backgroundColor: '#10b98115',
+            fill: true,
+            tension: 0.1,
+            borderWidth: 2.5
+          },
+          {
+            label: 'FIRE-mål',
+            data: targetData,
+            borderColor: '#ef4444',
+            borderDash: [6, 6],
+            fill: false,
+            tension: 0,
+            borderWidth: 1.5,
+            pointRadius: 0
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { boxWidth: 12, font: { size: 11, family: 'system-ui' } }
+          },
+          tooltip: {
+            mode: 'index',
+            intersect: false,
+            callbacks: {
+              label: function(context) {
+                return context.dataset.label + ': ' + formatDKK(context.raw);
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            ticks: {
+              font: { size: 10, family: 'system-ui' },
+              callback: function(value) { return formatDKK(value); }
+            }
+          },
+          x: {
+            ticks: { font: { size: 10, family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Live recalculation event listeners
+  const inputs = [inpConsumption, inpSavings, inpMonthly, inpReturn, inputSWR, inputTax];
+  inputs.forEach(el => el.addEventListener('input', runCalculation));
+
+  // Initial Calculation
+  runCalculation();
+})();
+</script>
+<!-- FIRE Beregner Container Ends Here -->

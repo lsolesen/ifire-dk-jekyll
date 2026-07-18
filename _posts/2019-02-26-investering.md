@@ -6,6 +6,7 @@ category:
 tags:
   - investering
   - værdipapirer
+  - portefølje
 excerpt: "Investering i aktier og obligationer skal stadig være en del af min portefølje, men hvordan skal den være?"
 last_modified_at: 2020-03-04T15:20:02+02:00
 header:

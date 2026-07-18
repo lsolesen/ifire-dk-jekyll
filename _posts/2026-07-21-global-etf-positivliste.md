@@ -43,10 +43,16 @@ Her skal du nemlig betale den fulde aktieskat på 27 % (og 42 % over progression
 
 ## De 3 topkandidater til mit setup
 
+{% include fond-sammenlign.html fonde="WEBN, IUSQ, SPYI" %}
+
 Når du skal vælge fonde til din ASK, din pension eller som en aggressiv pris-optimering af dine frie midler, kigger jeg lige nu specifikt på tre globale sværvægtere, som dækker markedet på forskellige måder:
 
 ### Amundi Prime All Country World UCITS ETF Acc (Prisbaskeren)
 Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske marked. Hvis du vil have omkostningerne presset helt i bund, er det denne fond, du skal kigge på.
+
+{% include fond-oplysninger.html fond="WEBN" %}
+
+
 * **Ticker:** WEBN (Handelsvaluta: EUR) / ISIN: IE0003XJA0J9
 * **ÅOP:** 0,07 %
 * **Underliggende indeks:** *Solactive GBS Global Markets Large & Mid Cap Index*
@@ -54,6 +60,9 @@ Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske ma
 * **Argumenter for/imod:** En ÅOP på 0,07 % for en komplet global fond er intet mindre end revolutionerende. Ulemperne er minimale, men da fonden følger et Solactive-indeks i stedet for de traditionelle MSCI-indeks, kan der være mikroskopiske forskelle i sammensætningen, og fonden er relativt ny.
 
 ### iShares MSCI ACWI UCITS ETF USD (Acc) (Klassikeren)
+
+{% include fond-oplysninger.html fond="IUSQ" %}
+
 BlackRocks flagskib inden for globale fonde og en absolut favorit på de danske aktiesparekonti gennem mange år.
 * **Ticker:** IUSQ (Handelsvaluta: EUR) / ISIN: IE00B6R52259
 * **ÅOP:** 0,20 %
@@ -62,7 +71,10 @@ BlackRocks flagskib inden for globale fonde og en absolut favorit på de danske 
 * **Argumenter for/imod:** Enorm likviditet, ekstremt tæt tracking og absolut tryghed hos verdens største pengeforvalter. Ulempen er, at en ÅOP på 0,20 % nu er næsten tre gange så dyr som WEBN, og du mangler stadig Small Cap-segmentet.
 
 ### SPDR MSCI ACWI IMI UCITS ETF (Det komplette marked)
-Dette er den ultimative fond for investoren, der ikke vil nøjes med de store virksomheder, men som vil have det **komplette** marked i én enkelt handelsordre. 
+Dette er den ultimative fond for investoren, der ikke vil nøjes med de store virksomheder, men som vil have det **komplette** marked i én enkelt handelsordre.
+
+{% include fond-oplysninger.html fond="SPYI" %}
+
 * **Ticker:** SPYI (Handelsvaluta: EUR) / ISIN: IE00B3YLTY66
 * **ÅOP:** 0,17 %
 * **Underliggende indeks:** *MSCI ACWI IMI (All Country World Investable Market Index)*

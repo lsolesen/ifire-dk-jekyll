@@ -68,6 +68,28 @@ For at gøre det let, så skal du bare indtaste det udbetalte beløb efter skat.
 
 {% include calculator-reel-timeloen.html %}
 
+{% include reel-timeloen.html 
+   wage="42000" 
+   pension="12" 
+   hours="160" 
+   exp_transport="1200" 
+   exp_clothes="150" 
+   exp_other="250" 
+   time_transport="20" 
+   time_relax="8" 
+   time_other="3" 
+%}
+
+{% include reel-timeloen-sammenlign.html
+   s1_wage="45000" s1_pension="10" s1_hours="160"
+   s1_exp_transport="2000" s1_exp_clothes="250" s1_exp_other="400"
+   s1_time_transport="35" s1_time_relax="12" s1_time_other="8"
+   
+   s2_wage="38000" s2_pension="12" s2_hours="140"
+   s2_exp_transport="500" s2_exp_clothes="100" s2_exp_other="200"
+   s2_time_transport="10" s2_time_relax="2" s2_time_other="2"
+%}
+
 ## Eksempel på beregning af din reelle timeløn
 
 Inspireret af [Frinans](https://www.frinans.dk/min-nye-reelle-timeloen/) har jeg udregnet min egen _reelle timeløn_[^note]. For hvad vil jeg egentlig sælge min tid for, når det kommer til stykket.

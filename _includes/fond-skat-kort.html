@@ -1,0 +1,156 @@
+{% assign fund = nil %}
+{% for item in site.data.fonde %}
+  {% if item.ticker == include.ticker %}
+    {% assign fund = item %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if fund %}
+<!-- CSS specifikt for skattekortet -->
+<style>
+  .fsk-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 14px;
+    margin: 18px 0;
+    font-family: system-ui, -apple-system, sans-serif;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 100%;
+  }
+  .fsk-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 8px;
+  }
+  .fsk-title-box {
+    display: flex;
+    flex-direction: column;
+  }
+  .fsk-navn {
+    font-size: 13.5px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+  .fsk-indeks {
+    font-size: 10.5px;
+    color: #64748b;
+    margin-top: 2px;
+  }
+  .fsk-ticker-badge {
+    background: #f1f5f9;
+    color: #334155;
+    font-size: 10.5px;
+    font-weight: 800;
+    padding: 3px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 1px solid #e2e8f0;
+  }
+  .fsk-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+  .fsk-prop {
+    background: #f8fafc;
+    border: 1px solid #f1f5f9;
+    border-radius: 6px;
+    padding: 6px 8px;
+    display: flex;
+    flex-direction: column;
+  }
+  .fsk-label {
+    font-size: 9px;
+    font-weight: 700;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-bottom: 1px;
+  }
+  .fsk-value {
+    font-size: 11.5px;
+    font-weight: 700;
+    color: #1e293b;
+  }
+  .fsk-footer {
+    font-size: 11.5px;
+    line-height: 1.4;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+  }
+  
+  /* Dynamiske farvetemaer baseret på skattestatus */
+  .fsk-match-ask { background-color: #f0f9ff; border: 1px solid #bae6fd; color: #0369a1; }
+  .fsk-match-frie { background-color: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; }
+  .fsk-match-frikort { background-color: #fffbeb; border: 1px solid #fde68a; color: #b45309; }
+
+  @media (max-width: 600px) {
+    .fsk-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+
+<div class="fsk-card" markdown="0">
+  <!-- Top: Navn og Ticker -->
+  <div class="fsk-header">
+    <div class="fsk-title-box">
+      <span class="fsk-navn">{{ fund.navn }}</span>
+      <span class="fsk-indeks">Tracking: {{ fund.indeks }}</span>
+    </div>
+    <span class="fsk-ticker-badge">{{ fund.ticker }}</span>
+  </div>
+
+  <!-- Midt: De 4 vigtige FIRE-datapunkter -->
+  <div class="fsk-grid">
+    <div class="fsk-prop">
+      <span class="fsk-label">Pris (ÅOP)</span>
+      <span class="fsk-value" style="color: #0f172a;">{{ fund.aop }}</span>
+    </div>
+    <div class="fsk-prop">
+      <span class="fsk-label">Skatteprincip</span>
+      <span class="fsk-value">{{ fund.skatteprincip }}</span>
+    </div>
+    <div class="fsk-prop">
+      <span class="fsk-label">Skattetype</span>
+      <span class="fsk-value">{{ fund.skattetype }}</span>
+    </div>
+    <div class="fsk-prop">
+      <span class="fsk-label">Udbetaling</span>
+      <span class="fsk-value">{{ fund.udbytte }}</span>
+    </div>
+  </div>
+
+  <!-- Bund: Intelligent "Oplagt til"-guide baseret på din CSV-data -->
+  {% if fund.skatteprincip == "Realisation" and fund.skattetype == "Aktieskat" %}
+    <div class="fsk-footer fsk-match-frie">
+      🎯 <strong>Kandidat:</strong> Almindelige <strong>frie midler</strong> på et frit depot. Da fonden er realisationsbeskattet, udskyder du skatten maksimalt og giver renters rente-effekten optimale betingelser. ℹ️ <strong>Kommentar:</strong> {{ fund.kommentar }}
+    </div>
+  {% elsif fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+    <div class="fsk-footer fsk-match-ask">
+      🚀 <strong>Kandidat:</strong> <strong>Aktiesparekonto (ASK)</strong> eller <strong>pensionsmidler</strong>. Da disse depoter alligevel er tvunget i lagerskat, kan du udnytte lav ÅOP til lav beskatning (17% / 15,3%). ℹ️ <strong>Kommentar:</strong> {{ fund.kommentar }}
+    </div>
+  {% elsif fund.skattetype == "Kapitalbeskatning" %}
+    <div class="fsk-footer fsk-match-frikort">
+      👶 <strong>Kandidat:</strong> Investering i frit depot i barnets navn, så barnets frikort kan udnyttes. Da kapitalindkomst kan modregnes direkte i frikortet, er det gunstigt indtil barnet tjener penge. ℹ️ <strong>Kommentar:</strong> {{ fund.kommentar }}
+    </div>
+  {% else %}
+    <div class="fsk-footer" style="background: #f8fafc; color: #475569; border: 1px solid #e2e8f0;">
+      ℹ️ <strong>Kommentar:</strong> {{ fund.kommentar }}
+    </div>
+  {% endif %}
+</div>
+{% else %}
+<!-- Fejlhåndtering hvis du taster en forkert ticker -->
+<div style="color: #b91c1c; background: #fef2f2; border: 1px solid #fca5a5; padding: 10px; border-radius: 6px; font-size: 12px;">
+  ⚠️ Fejl: Fonden med tickeren <strong>"{{ include.ticker }}"</strong> blev ikke fundet i <code>_data/fonde.csv</code>.
+</div>
+{% endif %}

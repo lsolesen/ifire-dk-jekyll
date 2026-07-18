@@ -24,7 +24,7 @@ I vores inflationsberegner kan du blive klogere på, hvad dine penge er værd i 
 
 Denne inflationsberegner er baseret på, at du gætter på, hvad inflationen vil være i årene fra nu af og fremefter.
 
-{% include calculator-inflation.html %}
+{% include calculator-inflation.html opsparing="25000" inflation="3.5" aar="15" %}
 
 ## Inflation-omregner: Omregn værdien af en krone i forskellige år
 
@@ -32,7 +32,7 @@ Jeg har også lavet denne beregner til inflation, som kan gøre dig klogere på,
 
 I denne beregner kan du altså få svaret på, hvad et beløb er værd i nutidspenge.
 
-{% include calculator-inflation-forbrugerindeks.html %}
+{% include calculator-inflation-forbrugerindeks.html beloeb="10000" fra_aar="1900" til_aar="2020" %}
 
 ## Hvordan modvirker jeg inflation?
 

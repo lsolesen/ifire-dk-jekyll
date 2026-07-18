@@ -116,7 +116,7 @@ Oprydningen var dog udmattende. At trække penge ud af uregulerede crowdlending-
 
 Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg skrev, mens jeg var midt i orkanens øje. Det er her, du kan følge min besættelse af XIRR (intern rente), min tvivl under Corona-krisen, og erkendelsen af, at jeg måtte forenkle alt.
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2019: Guldfeber, FIRE-drømme og massive porteføljer</strong></summary>
   
   <br>
@@ -136,7 +136,7 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **December (#12):** Jeg har brugt utrolig meget tid på at nørde skat! Jeg har bygget regneark og sammenlignet lagerbeskattede, udenlandske ETF'er (med lav ÅOP) over for realisationsbeskattede, danske investeringsforeninger (med højere ÅOP). Min konklusion er, at den skattemæssige fordel ved at udskyde skatten med danske foreninger ofte vinder på den helt lange bane (20-30 år) for frie midler [3, 11, 12]. 
 </details>
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2020: Kriserne rammer, svindel afsløres og oprydningen starter</strong></summary>
   
   <br>
@@ -150,7 +150,7 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **November (#19):** Brexit tvinger Revolut til at skifte IBAN-numre. Jeg skal manuelt overføre 2 EUR til mere end 15 crowdlending-platforme for at verificere min nye konto. Jeg indser, hvor fuldstændig håbløst mit setup er blevet. Jeg sælger mig helt ud af Funderbeam med et bevidst tab bare for at lukke kontoen.
 </details>
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2021: Krystalklar strategi og rejsen mod Coast FIRE</strong></summary>
   
   <br>
@@ -166,10 +166,22 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
 ## Historiske opdateringer
 
 <div class="feature__wrapper">
-{% assign site_posts = site.posts | where: "category", "Investering" | where: "tags", "værdipapirer" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "portefølje" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 {% endif %}
 </div>
+
+## Månedsopdateringer
+
+<div class="feature__wrapper">
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "månedsopdateringer" | sort: "last_modified_at" | reverse %}
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+</div>
+

@@ -7,6 +7,7 @@ tags:
   - rigdomsformularen
   - status
   - crowdlending
+  - månedsopdateringer
 excerpt: "I april måned har målet være at få investeret de sidste midler og beslutte mig for, hvor meget jeg skal have i kontanter."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10

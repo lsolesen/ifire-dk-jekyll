@@ -10,6 +10,7 @@ tags:
   - rigdomsformularen
   - status
   - crowdlending
+  - månedsopdateringer
 excerpt: "September måned har budt på nye investeringer i EvoEstate og Revolut Trading - og så ellers en rekordindtjening på crowdlending."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780143115762/0x500

@@ -1,0 +1,355 @@
+<!-- Hent Chart.js fra et sikkert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+  .aocal-clean-input::-webkit-outer-spin-button,
+  .aocal-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .aocal-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .aocal-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .aocal-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+
+  .aocal-input-group-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .aocal-group-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #6366f1; /* Indigo-lilla tema til alternativomkostninger */
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+  }
+
+  .aocal-field {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .aocal-field label {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 11px;
+    color: #475569;
+  }
+
+  .aocal-input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .aocal-input-box input {
+    width: 100% !important;
+    padding: 4px 32px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 30px;
+  }
+
+  .aocal-input-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* Dashboard Matrix Grid */
+  .aocal-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .aocal-stat-tile {
+    border-radius: 6px;
+    padding: 8px 12px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .aocal-stat-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    letter-spacing: 0.02em;
+  }
+
+  .aocal-stat-value {
+    font-size: 14px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .aocal-chart-panel {
+    min-height: 280px;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 12px;
+  }
+
+  .aocal-info-box {
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: #312e81;
+    background-color: #e0e7ff;
+    border: 1px solid #c7d2fe;
+  }
+
+  @media (max-width: 768px) {
+    .aocal-stats-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 820px) {
+    .aocal-inputs-grid { grid-template-columns: 1fr; gap: 12px; }
+  }
+</style>
+
+<div markdown="0" class="aocal-full-wrapper">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">Beregner til Alternativomkostninger</h3>
+    <span style="font-size: 10px; color: #6366f1; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Hvad koster købet i virkeligheden?</span>
+  </div>
+
+  <!-- DEFINITIONSBOKS -->
+  <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 10px 12px; margin-bottom: 16px; font-size: 12px; color: #475569; line-height: 1.45;">
+    💸 <strong>Hvad er en alternativomkostning?</strong> Det er værdien af det, du *mister*, når du vælger én ting frem for en anden. Hver gang du bruger 1.000 kr. på forbrug (f.eks. et par sko eller en tech-gadget), fravælger du samtidig at lade de samme penge yngle på aktiemarkedet. Modellen her regner i **reelle tal** (inflationskorrigeret).
+  </div>
+
+  <!-- INPUTS MED DYNAMISK JEKYLL VARIABLE-SUPPORT -->
+  <div class="aocal-inputs-grid">
+    
+    <!-- KOLONNE 1: KØBET -->
+    <div class="aocal-input-group-box">
+      <div class="aocal-group-title">1. Overvejet Køb</div>
+      <div class="aocal-field">
+        <label>Pris på varen i dag</label>
+        <div class="aocal-input-box"><input type="number" value="{{ include.amount | default: 1000 }}" step="100" class="aocal-clean-input js-ao-amount"><span>kr.</span></div>
+      </div>
+      <div class="aocal-field">
+        <label>Tidshorisont (Fremtid)</label>
+        <div class="aocal-input-box"><input type="number" value="{{ include.years | default: 15 }}" class="aocal-clean-input js-ao-years"><span>år</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 2: SCENARIERNE -->
+    <div class="aocal-input-group-box">
+      <div class="aocal-group-title">2. Alternativerne</div>
+      <div class="aocal-field">
+        <label>Bankrente / Opsparing (Nom.)</label>
+        <div class="aocal-input-box"><input type="number" value="{{ include.savingsRate | default: 0.5 }}" step="0.1" class="aocal-clean-input js-ao-savings"><span>%</span></div>
+      </div>
+      <div class="aocal-field">
+        <label>Aktieafkast / Investering (Nom.)</label>
+        <div class="aocal-input-box"><input type="number" value="{{ include.investmentReturn | default: 7.0 }}" step="0.1" class="aocal-clean-input js-ao-return"><span>%</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 3: MARKEDET -->
+    <div class="aocal-input-group-box">
+      <div class="aocal-group-title">3. Forventet Inflation</div>
+      <div class="aocal-field">
+        <label>Forventet Inflation</label>
+        <div class="aocal-input-box"><input type="number" value="{{ include.inflation | default: 2.0 }}" step="0.1" class="aocal-clean-input js-ao-inflation"><span>%</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- INSTRUMENTBRÆT: DET GENEREDE 1x3 DASHBOARD GRID -->
+  <div class="aocal-stats-grid">
+    <div class="aocal-stat-tile" style="border-left: 3px solid #94a3b8; background-color: #f8fafc;">
+      <span class="aocal-stat-title">Værdi i banken (Reel)</span>
+      <span class="js-ao-stat-bank aocal-stat-value">0 kr.</span>
+    </div>
+    <div class="aocal-stat-tile" style="border-left: 3px solid #22c55e; background-color: #f0fdf4;">
+      <span class="aocal-stat-title" style="color: #166534;">Værdi som investeret (Reel)</span>
+      <span class="js-ao-stat-invest aocal-stat-value">0 kr.</span>
+    </div>
+    <div class="aocal-stat-tile" style="border-left: 3px solid #ef4444; background-color: #fef2f2;">
+      <span class="aocal-stat-title" style="color: #991b1b;">Reel Alternativomkostning</span>
+      <span class="js-ao-stat-cost aocal-stat-value" style="color: #b91c1c;">0 kr.</span>
+    </div>
+  </div>
+
+  <!-- LIVE GRAF PANEL -->
+  <div class="aocal-chart-panel">
+    <canvas class="js-ao-canvas" style="width:100%; height:100%; max-height:280px;"></canvas>
+  </div>
+  
+  <!-- DYNAMISK KONKLUSIONSKORT -->
+  <div class="aocal-info-box js-ao-summary-text">
+    Kører simulation...
+  </div>
+
+</div>
+
+<!-- Præcis simulationsmotor for alternativomkostninger -->
+<script>
+(function() {
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.aocal-full-wrapper').forEach(function(widget) {
+    let chartInstance = null;
+
+    function runEngine() {
+      const amount = parseFloat(widget.querySelector('.js-ao-amount').value) || 0;
+      const years = parseInt(widget.querySelector('.js-ao-years').value) || 0;
+      const nominalSavings = parseFloat(widget.querySelector('.js-ao-savings').value) || 0;
+      const nominalReturn = parseFloat(widget.querySelector('.js-ao-return').value) || 0;
+      const inflation = parseFloat(widget.querySelector('.js-ao-inflation').value) || 0;
+
+      // Realvækstrater (Korrigeret for inflation)
+      const realSavingsGrowth = ((1 + nominalSavings / 100) / (1 + inflation / 100)) - 1;
+      const realInvestGrowth = ((1 + nominalReturn / 100) / (1 + inflation / 100)) - 1;
+
+      // Slutværdier
+      const finalBankValue = amount * Math.pow(1 + realSavingsGrowth, years);
+      const finalInvestValue = amount * Math.pow(1 + realInvestGrowth, years);
+      const opportunityCost = finalInvestValue - finalBankValue;
+
+      // Opdater dashboard-fliser
+      widget.querySelector('.js-ao-stat-bank').innerText = formatDkr(finalBankValue);
+      widget.querySelector('.js-ao-stat-invest').innerText = formatDkr(finalInvestValue);
+      widget.querySelector('.js-ao-stat-cost').innerText = formatDkr(opportunityCost);
+
+      // --- GENERER GRAF DATA ---
+      const labelsYears = [];
+      const dataBankPlot = [];
+      const dataInvestPlot = [];
+      const dataForbrugPlot = [];
+
+      for (let y = 0; y <= years; y++) {
+        labelsYears.push('År ' + y);
+        dataBankPlot.push(Math.round(amount * Math.pow(1 + realSavingsGrowth, y)));
+        dataInvestPlot.push(Math.round(amount * Math.pow(1 + realInvestGrowth, y)));
+        dataForbrugPlot.push(0); // Forbrug i dag betyder 0 kr. på kontoen i al fremtid
+      }
+
+      // --- DYNAMISK KONKLUSIONSTEKST ---
+      const summaryBox = widget.querySelector('.js-ao-summary-text');
+      let msg = "💡 <strong>Adfærdspsykologisk realitetstjek:</strong><br>";
+      
+      if (amount <= 0 || years <= 0) {
+        msg += "Indtast et beløb og en tidshorisont for at se, hvad pengene kan blive til.";
+      } else {
+        msg += "Hvis du dropper impulskøbet på <strong>" + formatDkr(amount) + "</strong> i dag og i stedet investerer pengene, vil de over de næste **" + years + " år** vokse til **" + formatDkr(finalInvestValue) + "** i købekraft.<br><br>";
+        msg += "Vælger du at købe varen alligevel, betaler du ikke blot mærkaten i butikken – du accepterer samtidig en **reel alternativomkostning på " + formatDkr(opportunityCost) + "** i tabt fremtidig formue sammenlignet med at investere dem. Lader du dem bare stå i banken, bliver de stille og roligt spist op af inflationen og falder til **" + formatDkr(finalBankValue) + "** i reel værdi.";
+      }
+      summaryBox.innerHTML = msg.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+      // --- TEGN / OPDATER LIVE CHART ---
+      const ctx = widget.querySelector('.js-ao-canvas').getContext('2d');
+      if (chartInstance) { chartInstance.destroy(); }
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labelsYears,
+          datasets: [
+            {
+              label: 'Hvis du investerer beløbet',
+              data: dataInvestPlot,
+              borderColor: '#22c55e',
+              backgroundColor: 'rgba(34, 197, 94, 0.04)',
+              borderWidth: 2.5,
+              pointRadius: years > 30 ? 0 : 2,
+              fill: true
+            },
+            {
+              label: 'Hvis du lader dem stå i banken',
+              data: dataBankPlot,
+              borderColor: '#64748b',
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false
+            },
+            {
+              label: 'Hvis du gennemfører købet i dag',
+              data: dataForbrugPlot,
+              borderColor: '#ef4444',
+              borderWidth: 1.5,
+              borderDash: [3, 3],
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 } } },
+            tooltip: {
+              callbacks: { label: function(context) { return context.dataset.label + ': ' + formatDkr(context.parsed.y); } }
+            }
+          },
+          scales: {
+            y: { ticks: { font: { size: 9 }, callback: function(value) { return formatDkr(value); } }, grid: { color: '#f1f5f9' } },
+            x: { ticks: { font: { size: 9 } }, grid: { display: false } }
+          }
+        }
+      });
+    }
+
+    widget.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('input', runEngine);
+    });
+
+    runEngine();
+  });
+})();
+</script>

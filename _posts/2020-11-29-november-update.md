@@ -9,6 +9,7 @@ tags:
   - rigdomsformularen
   - status
   - crowdlending
+  - månedsopdateringer
 excerpt: "Investeringerne kører på autopilot. En del arbejde med at få opdateret kontooplysninger på crowdlending - og svindel hos CredEarn."
 ---
 

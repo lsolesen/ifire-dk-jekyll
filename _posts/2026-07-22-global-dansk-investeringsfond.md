@@ -14,7 +14,9 @@ Hvis du følger den klassiske FIRE-filosofi fra *The Simple Path to Wealth* af J
 
 I en dansk kontekst betyder det ofte, at man kigger væk fra de udenlandske ETF'er og i stedet retter blikket mod de traditionelle, danske investeringsforeninger.
 
-Ligesom i det udenlandske setup er målet ikke at gætte, hvilke enkeltaktier der vinder i morgen. Vi ved fra statistikken, at enkeltaktier historisk set har en markant tendens til at underperforme det brede markedsindeks, og at en forsvindende lille andel af top-aktierne trækker hele markedsafkastet. Hvorfor løbe den risiko? Du kan læse mere om vigtigheden af bred spredning i min artikel om [verdensmarkedet og den brede portefølje](/investering-vol9/). Derfor skal vores danske fonde ramme verdensmarkedet ultra-bredt.
+Ligesom i det udenlandske setup er målet ikke at gætte, hvilke enkeltaktier der vinder i morgen. Vi ved fra statistikken, at enkeltaktier historisk set har en markant tendens til at underperforme det brede markedsindeks, og at en forsvindende lille andel af top-aktierne trækker hele markedsafkastet. Hvorfor løbe den risiko?
+
+Du kan læse mere om hvorfor jeg foretrækker at følge verdensmarkedet i min artikel om [verdensmarkedet og den brede portefølje](/investering-vol9/). Derfor skal vores danske fonde ramme verdensmarkedet ultra-bredt.
 
 ---
 
@@ -23,6 +25,7 @@ Ligesom i det udenlandske setup er målet ikke at gætte, hvilke enkeltaktier de
 Hvor udenlandske ETF'er tvinger dig til at betale skat hvert eneste år (lagerbeskatning), fungerer de fleste aktiebaserede, udbyttebetalende danske fonde efter **realisationsprincippet**. Det betyder, at du først betaler skat af dine kursgevinster den dag, du rent faktisk trykker på sælg-knappen. 
 
 Dette giver nogle massive fordele, når målet er tidlig pension:
+
 * **Renters rente i fuld effekt:** De penge, du ellers skulle have svaret i skat hvert år i februar, bliver stående i fonden. De trækker endnu mere afkast til dig det efterfølgende år, hvilket skaber en sneboldeffekt over en 10-15 årig periode.
 * **Kontrol over skatteprocenten:** Når du rammer din FIRE-tilværelse og ikke længere har en fast lønindkomst, kan du løbende sælge ud af din portefølje, så du præcis holder dig under progressionsgrænsen for aktieindkomst. På den måde nøjes du med at betale 27 % i skat af dine gevinster i stedet for at ramme de tunge 42 %.
 
@@ -41,10 +44,19 @@ For at opnå en bred, global eksponering via danske investeringsforeninger, kigg
 
 ## Fonde jeg overvejer i dette setup
 
+Herunder kan du se en direkte sammenligning af de tre mest populære fonde til frie midler:
+
+{% include fond-sammenlign.html fonde="SPIIMA, SPVIGAKL, DKIGI" %}
+
 Når det kommer til de danske, realisationsbeskattede fonde, er der sket en spændende udvikling på markedet. Vi har tre klassiske sværvægtere på radaren samt en yderst potent udfordrer. Her skal du være særligt opmærksom på, hvordan de dækker henholdsvis **udviklingslandene (Emerging Markets)** og **mindre virksomheder (Small Cap)**.
 
 ### Sparindex INDEX MSCI ACWI (Den spritnye alt-i-én løsning)
-Dette er Sparindex' helt nye flagskibsfond, som blev børsnoteret i juni 2026 for at give investorerne den ultimative nemme adgang til hele verden. 
+Dette er Sparindex' helt nye flagskibsfond, som blev børsnoteret i juni 2026 for at give investorerne den ultimative nemme adgang til hele verden.
+
+{% include fond-oplysninger.html fond="SPIIMA" %}
+
+***
+
 * **Ticker:** SPIIMA (Handelsvaluta: DKK) / ISIN: DK0064866222
 * **ÅOP:** 0,35 %
 * **Underliggende indeks:** *MSCI All Country World Index (ACWI)*
@@ -52,6 +64,9 @@ Dette er Sparindex' helt nye flagskibsfond, som blev børsnoteret i juni 2026 fo
 * **OBS på mangler:** Selvom geografien er komplet, er dette et rent **Large & Mid Cap** indeks. De mindre virksomheder (Small Cap) er udeladt af denne fond.
 
 ### Sparindex INDEX Globale Aktier KL (Den brede klassiker)
+
+{% include fond-oplysninger.html fond="SPVIGAKL" %}
+
 Den historiske go-to fond for rigtig mange danske FIRE-investorer, som dog har fået et par vigtige ændringer undervejs.
 * **Ticker:** SPVIGAKL (Handelsvaluta: DKK) / ISIN: DK0060747822
 * **ÅOP:** 0,50 %
@@ -60,6 +75,9 @@ Den historiske go-to fond for rigtig mange danske FIRE-investorer, som dog har f
 * **OBS på ændringer:** Fonden er altså bredere end et rent MSCI World-produkt, som typisk **kun dækker udviklede markeder og Large/Mid Cap**. Til gengæld skiftede fonden benchmark i slutningen af 2024, hvor der blev indført en
 
 ### Danske Invest Global Indeks, klasse DKK d
+
+{% include fond-oplysninger.html fond="DKIGI" %}
+
 Danske Banks bud på en bred, passiv global fond, som minder rigtig meget om Sparindex' klassiker.
 * **Ticker:** DKIGI (Handelsvaluta: DKK) / ISIN: DK0010263052
 * **ÅOP:** 0,40 %
@@ -71,6 +89,8 @@ Danske Banks bud på en bred, passiv global fond, som minder rigtig meget om Spa
 
 ## Min store skatte-bobler: Storebrand Indeks - Alle Markeder A5
 
+{% include fond-oplysninger.html fond="STIIAM" %}
+
 Her kommer artiklens absolutte jokerkort. **Storebrand Indeks - Alle Markeder** er en norskbaseret fond, men den er børsnoteret i Danmark og er fuldstændig **realisationsbeskattet som aktieindkomst** til frie midler.
 
 * **Ticker:** STIIAM (Handelsvaluta: DKK) / ISIN: DK0060884658
@@ -80,6 +100,9 @@ Her kommer artiklens absolutte jokerkort. **Storebrand Indeks - Alle Markeder** 
 * **Hvorfor er den en bobler?** Med en ÅOP på kun 0,30 % er den billigere end de danske konkurrenter. Det virkeligt geniale ved Storebrand er dog deres udbyttepolitik. Hvor de traditionelle danske fonde ved lov tvinges til at udlodde store udbytter hvert år (som du beskattes af med det samme), udbetaler Storebrand historisk set et **meget minimalt udbytte**. Det betyder, at du opnår en markant højere grad af *ren* skatteudskydelse, fordi pengene bliver inde i fonden og trækker maksimal renters rente-effekt. 
 * **OBS på mangler:** Ligesom de andre store ACWI-fonde fokuserer Storebrand rent på Large & Mid Cap. Du må altså stadig undvære Small Cap-segmentet her.
 
+Lad os stille den nye Sparindex-fond op mod Storebrand for at se forskellen på ÅOP og udbyttestrategi:
+
+{% include fond-sammenlign.html fonde="SPIIMA, STIIAM" %}
 ---
 
 ## Sammenligning: Skatteudskydelse vs. Lav ÅOP

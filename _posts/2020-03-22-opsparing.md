@@ -65,6 +65,8 @@ Hvis pengene i stedet var investeret, kunne de have forrentet sig selv over tid.
 
 Du skal primært have styr på din opsparing, så du har en god sikkerhed. Men derefter handler det om, at du kan komme i gang med at investere dine penge.
 
+{% include emergency-fund-beregner.html fixedExp="15000" varExp="8000" months="6" akasse="15500" houseBuffer="25000" carBuffer="15000" %}
+
 Du behøver faktisk ikke at have ret mange penge for at komme i gang med at investere. Men der er lige et par ting, du bør have styr på først:
 
 - **Afbetal dyr gæld:** Hvis du har dyr gæld med høje renter (som forbrugslån), så er det en meget bedre “investering” at få gælden afbetalt først.

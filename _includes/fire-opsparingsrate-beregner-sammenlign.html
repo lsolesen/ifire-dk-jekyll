@@ -1,0 +1,349 @@
+<!-- Styling til at fjerne standard input-pile og styre responsivt layout -->
+<style>
+  .mmms-input-clean::-webkit-outer-spin-button,
+  .mmms-input-clean::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .mmms-input-clean[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .mmms-global-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  .mmms-scenario-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .mmms-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .mmms-global-grid {
+      grid-template-columns: 1fr;
+    }
+    .mmms-scenario-grid {
+      grid-template-columns: 1fr;
+    }
+    .mmms-cards-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- MMM Sammenligner Dashboard Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 800px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  
+  <!-- Header -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em;">Sammenlign Opsparingsrater (MMM)</h3>
+    <span style="font-size: 11px; color: #94a3b8; font-weight: 500;">Hvor mange år sparer du?</span>
+  </div>
+
+  <!-- Globale indstillinger (Gul boks) -->
+  <div style="background-color: #fffdec; border: 1px solid #fef08a; border-radius: 8px; padding: 14px; margin-bottom: 20px;">
+    <div style="font-size: 11px; font-weight: 800; color: #854d0e; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 10px; display: flex; align-items: center; gap: 4px;">
+      ⚙️ Globale forudsætninger
+    </div>
+    <div class="mmms-global-grid">
+      <!-- Allerede opsparet -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 10px; text-transform: uppercase; color: #854d0e;">Allerede opsparet</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="mmmsSavedPct" value="{{ include.saved_pct | default: 0 }}" min="0" max="100" step="5" class="mmms-input-clean" style="width: 100% !important; padding: 6px 24px 6px 10px; border: 1px solid #fde047; border-radius: 4px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 34px;">
+          <span style="position: absolute; right: 8px; font-size: 12px; font-weight: 700; color: #a16207; pointer-events: none;">%</span>
+        </div>
+      </div>
+      <!-- Realafkast -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 10px; text-transform: uppercase; color: #854d0e;">Realafkast</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="mmmsReturn" value="{{ include.return | default: 5.0 }}" step="0.1" class="mmms-input-clean" style="width: 100% !important; padding: 6px 24px 6px 10px; border: 1px solid #fde047; border-radius: 4px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 34px;">
+          <span style="position: absolute; right: 8px; font-size: 12px; font-weight: 700; color: #a16207; pointer-events: none;">%</span>
+        </div>
+      </div>
+      <!-- SWR -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 10px; text-transform: uppercase; color: #854d0e;">Udbetaling (SWR)</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="mmmsSWR" value="{{ include.swr | default: 4.0 }}" step="0.1" class="mmms-input-clean" style="width: 100% !important; padding: 6px 24px 6px 10px; border: 1px solid #fde047; border-radius: 4px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 34px;">
+          <span style="position: absolute; right: 8px; font-size: 12px; font-weight: 700; color: #a16207; pointer-events: none;">%</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- De to scenarier (Opsparingsrater) -->
+  <div class="mmms-scenario-grid">
+    
+    <!-- Scenarie 1 (Blå) -->
+    <div style="background-color: #eff6ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 16px; border-top: 4px solid #2563eb;">
+      <h4 style="margin: 0 0 10px 0; font-size: 12px; font-weight: 800; color: #1e40af; text-transform: uppercase; display: flex; align-items: center; gap: 6px;">
+        <span style="display:inline-block; width:8px; height:8px; background-color:#2563eb; border-radius:50%;"></span> Scenarie 1
+      </h4>
+      <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 10px; text-transform: uppercase; color: #1e40af;">Opsparingsrate</label>
+      <div style="position: relative; display: flex; align-items: center;">
+        <input type="number" id="mmmsRate1" value="{{ include.s1_rate | default: 50 }}" min="1" max="99" step="1" class="mmms-input-clean" style="width: 100% !important; padding: 8px 30px 8px 12px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 18px; font-weight: 800; color: #0f172a; background: #fff; outline: none; height: 42px;">
+        <span style="position: absolute; right: 12px; font-size: 16px; font-weight: 800; color: #64748b; pointer-events: none;">%</span>
+      </div>
+    </div>
+
+    <!-- Scenarie 2 (Rød) -->
+    <div style="background-color: #fff1f2; border: 1px solid #fecdd3; border-radius: 8px; padding: 16px; border-top: 4px solid #dc2626;">
+      <h4 style="margin: 0 0 10px 0; font-size: 12px; font-weight: 800; color: #9f1239; text-transform: uppercase; display: flex; align-items: center; gap: 6px;">
+        <span style="display:inline-block; width:8px; height:8px; background-color:#dc2626; border-radius:50%;"></span> Scenarie 2
+      </h4>
+      <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 10px; text-transform: uppercase; color: #9f1239;">Opsparingsrate</label>
+      <div style="position: relative; display: flex; align-items: center;">
+        <input type="number" id="mmmsRate2" value="{{ include.s2_rate | default: 60 }}" min="1" max="99" step="1" class="mmms-input-clean" style="width: 100% !important; padding: 8px 30px 8px 12px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 18px; font-weight: 800; color: #0f172a; background: #fff; outline: none; height: 42px;">
+        <span style="position: absolute; right: 12px; font-size: 16px; font-weight: 800; color: #64748b; pointer-events: none;">%</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- KPI Resultat-kort -->
+  <div class="mmms-cards-grid">
+    
+    <!-- Scenarie 1 Tid -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+      <div style="font-size: 10px; font-weight: 700; color: #1e40af; text-transform: uppercase; margin-bottom: 6px;">Scenarie 1: Tid til FIRE</div>
+      <div id="statTime1" style="font-size: 24px; font-weight: 900; color: #2563eb; letter-spacing: -0.02em;">-</div>
+    </div>
+
+    <!-- Scenarie 2 Tid -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+      <div style="font-size: 10px; font-weight: 700; color: #9f1239; text-transform: uppercase; margin-bottom: 6px;">Scenarie 2: Tid til FIRE</div>
+      <div id="statTime2" style="font-size: 24px; font-weight: 900; color: #dc2626; letter-spacing: -0.02em;">-</div>
+    </div>
+
+    <!-- Forskel -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.02); border-bottom: 4px solid #10b981;">
+      <div style="font-size: 10px; font-weight: 700; color: #047857; text-transform: uppercase; margin-bottom: 6px;">Du sparer</div>
+      <div id="statDiff" style="font-size: 24px; font-weight: 900; color: #10b981; letter-spacing: -0.02em;">-</div>
+    </div>
+
+  </div>
+
+  <!-- Kurvegraf med to punkter -->
+  <div style="position: relative; height: 320px; width: 100% !important;">
+    <canvas id="mmmsCurveChart"></canvas>
+  </div>
+
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Calculator Code -->
+<script>
+(function() {
+  // Inputs
+  const mmmsSavedPct = document.getElementById('mmmsSavedPct');
+  const mmmsReturn = document.getElementById('mmmsReturn');
+  const mmmsSWR = document.getElementById('mmmsSWR');
+  const mmmsRate1 = document.getElementById('mmmsRate1');
+  const mmmsRate2 = document.getElementById('mmmsRate2');
+
+  // Outputs
+  const statTime1 = document.getElementById('statTime1');
+  const statTime2 = document.getElementById('statTime2');
+  const statDiff = document.getElementById('statDiff');
+  
+  const ctx = document.getElementById('mmmsCurveChart').getContext('2d');
+  let myChart;
+
+  // Matematik-funktioner
+  function calculateYearsToFIRE(p, r, swr, k) {
+    if (k >= 1) return 0;
+    if (p <= 0) return Infinity;
+    if (p >= 1) return 0;
+    
+    if (r === 0) {
+      return (1 - k) * (1 - p) / (p * swr);
+    }
+    
+    const numerator = ((1 - p) / swr) * r + p;
+    const denominator = k * ((1 - p) / swr) * r + p;
+    
+    if (denominator <= 0 || numerator <= 0) return Infinity;
+    return Math.log(numerator / denominator) / Math.log(1 + r);
+  }
+
+  function getRateForYears(N, r, swr, k) {
+    if (k >= 1) return 0;
+    if (N <= 0) return 100;
+    
+    const A = Math.pow(1 + r, N);
+    const B = r / swr;
+    
+    if (r === 0) {
+      return ((1 - k) / (N * swr + 1 - k)) * 100;
+    }
+    
+    const numerator = B * (A * k - 1);
+    const denominator = A * k * B - A - B + 1;
+    
+    const p = numerator / denominator;
+    return Math.max(0, Math.min(100, p * 100));
+  }
+
+  function formatYears(years) {
+    if (years === Infinity) return "For evigt 🤖";
+    if (years === 0) return "0 år 🕊️";
+    if (years % 1 === 0) return years.toFixed(0) + " år";
+    return years.toFixed(1).replace('.', ',') + " år";
+  }
+
+  function runComparison() {
+    // Globale variabler
+    const savedPct = (parseFloat(mmmsSavedPct.value) || 0) / 100;
+    const expectedReturn = (parseFloat(mmmsReturn.value) || 0) / 100;
+    const swr = (parseFloat(mmmsSWR.value) || 0) / 100;
+
+    // Opsparingsrater
+    const rate1 = (parseFloat(mmmsRate1.value) || 0) / 100;
+    const rate2 = (parseFloat(mmmsRate2.value) || 0) / 100;
+
+    // 1. Beregn år til FIRE for begge
+    const years1 = calculateYearsToFIRE(rate1, expectedReturn, swr, savedPct);
+    const years2 = calculateYearsToFIRE(rate2, expectedReturn, swr, savedPct);
+
+    statTime1.innerText = formatYears(years1);
+    statTime2.innerText = formatYears(years2);
+
+    // 2. Beregn forskel
+    if (isFinite(years1) && isFinite(years2)) {
+      const diff = Math.abs(years1 - years2);
+      statDiff.innerText = formatYears(diff);
+    } else {
+      statDiff.innerText = "-";
+    }
+
+    // 3. Beregn x-akse dynamisk
+    let xMax = 50;
+    if (savedPct > 0 && expectedReturn > 0) {
+      const zeroRateYears = Math.log(1 / savedPct) / Math.log(1 + expectedReturn);
+      xMax = Math.min(50, Math.max(10, Math.ceil(zeroRateYears * 1.15)));
+    }
+
+    // 4. Generer hovedkurven (Grå baggrundskurve)
+    const curvePoints = [];
+    for (let N = 0.5; N <= xMax; N += 0.5) {
+      const p = getRateForYears(N, expectedReturn, swr, savedPct);
+      if (p >= 0 && p <= 100) {
+        curvePoints.push({ x: N, y: p });
+      }
+    }
+
+    // 5. Opret punkterne for Scenarie 1 og Scenarie 2
+    const point1 = isFinite(years1) && years1 > 0 ? [{ x: years1, y: rate1 * 100 }] : (years1 === 0 ? [{ x: 0, y: rate1 * 100 }] : []);
+    const point2 = isFinite(years2) && years2 > 0 ? [{ x: years2, y: rate2 * 100 }] : (years2 === 0 ? [{ x: 0, y: rate2 * 100 }] : []);
+
+    // 6. Tegn grafen
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'scatter',
+      data: {
+        datasets: [
+          {
+            label: 'Matematisk kurve',
+            data: curvePoints,
+            showLine: true,
+            borderColor: '#94a3b8', // Neutral grå kurve
+            backgroundColor: '#f1f5f950',
+            fill: true,
+            tension: 0.15,
+            borderWidth: 2,
+            pointRadius: 0
+          },
+          {
+            label: 'Scenarie 1 (Blå)',
+            data: point1,
+            showLine: false,
+            borderColor: '#2563eb',
+            backgroundColor: '#2563eb',
+            pointRadius: 7,
+            pointHoverRadius: 10,
+            pointStyle: 'circle'
+          },
+          {
+            label: 'Scenarie 2 (Rød)',
+            data: point2,
+            showLine: false,
+            borderColor: '#dc2626',
+            backgroundColor: '#dc2626',
+            pointRadius: 7,
+            pointHoverRadius: 10,
+            pointStyle: 'circle'
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                if (context.datasetIndex === 1) {
+                  return 'S1: ' + context.raw.y.toFixed(0) + '% giver ' + context.raw.x.toFixed(1).replace('.', ',') + ' år';
+                } else if (context.datasetIndex === 2) {
+                  return 'S2: ' + context.raw.y.toFixed(0) + '% giver ' + context.raw.x.toFixed(1).replace('.', ',') + ' år';
+                }
+                return 'Ved ' + context.raw.x.toFixed(1).replace('.', ',') + ' år kræves ' + context.raw.y.toFixed(1).replace('.', ',') + '% rate';
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            type: 'linear',
+            min: 0,
+            max: xMax,
+            title: {
+              display: true,
+              text: 'Arbejdsår tilbage',
+              font: { size: 10, weight: 'bold', family: 'system-ui' }
+            },
+            ticks: { font: { size: 9, family: 'system-ui' } }
+          },
+          y: {
+            min: 0,
+            max: 100,
+            title: {
+              display: true,
+              text: 'Opsparingsrate (%)',
+              font: { size: 10, weight: 'bold', family: 'system-ui' }
+            },
+            ticks: { font: { size: 9, family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Live lyttere
+  const inputs = [mmmsSavedPct, mmmsReturn, mmmsSWR, mmmsRate1, mmmsRate2];
+  inputs.forEach(el => el.addEventListener('input', runComparison));
+
+  // Initial kørsel
+  runComparison();
+})();
+</script>
+<!-- MMM Sammenligner Dashboard Ends Here -->

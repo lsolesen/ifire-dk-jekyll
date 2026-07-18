@@ -10,6 +10,7 @@ header:
   teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
@@ -19,6 +20,7 @@ tags:
   - grønne aktier
   - bæredygtige aktier
   - bæredygtig investering
+  - portefølje
 last_modified_at: 2021-08-06T12:28:25+02:00
 feature_row:
   - title: Investeringsforeninger

@@ -63,7 +63,11 @@ Hvorfor skal min nevø lægge lidt til side?
 
 Jeg håber, at min nevø bliver inspireret af _renters rente_-effekten, som han selv kan lege med i følgende beregner. [Rentes rente](/renters-rente/) skulle gerne være med til at fastholde motivationen for at investere.
 
-{% include compound-interest-calculator.html %}
+{% include renters-rente.html 
+  base="1000"
+  deposit="20"
+  rate="4"
+  years="30" %}
 
 ## Hvordan startede min nevø så?
 

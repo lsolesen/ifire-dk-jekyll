@@ -1,0 +1,326 @@
+<!-- CSS-styring til det fulde, responsive Full-Width Dashboard -->
+<style>
+  .dbcal-clean-input::-webkit-outer-spin-button,
+  .dbcal-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .dbcal-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .dbcal-full-container {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 20px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%; 
+    max-width: 100%; 
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .dbcal-topbar {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    margin-bottom: 16px; 
+    border-bottom: 2px solid #e2e8f0; 
+    padding-bottom: 8px;
+  }
+
+  .dbcal-year-select {
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #1e293b;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    background-color: #f8fafc;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .dbcal-input-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 16px;
+    background: #f8fafc;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+  }
+
+  .dbcal-field-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .dbcal-field-group label {
+    font-weight: 700;
+    margin-bottom: 4px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #475569;
+    letter-spacing: 0.04em;
+  }
+
+  .dbcal-field-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .dbcal-field-box input {
+    width: 100% !important;
+    padding: 4px 28px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 34px;
+  }
+
+  .dbcal-field-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* Grid-opbygning til fliser */
+  .dbcal-row-grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .dbcal-tile {
+    background-color: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 10px 12px;
+  }
+
+  .dbcal-tile-title {
+    font-size: 10px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+    letter-spacing: 0.02em;
+  }
+
+  .dbcal-tile-title span {
+    cursor: help;
+    border-bottom: 1px dotted #94a3b8;
+  }
+
+  .dbcal-tile-value {
+    font-size: 16px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .dbcal-tile-sub {
+    font-size: 9px;
+    color: #64748b;
+    margin-top: 2px;
+  }
+
+  .dbcal-tile-large {
+    padding: 14px;
+  }
+
+  @media (max-width: 680px) {
+    .dbcal-row-grid-3 { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 440px) {
+    .dbcal-input-row { grid-template-columns: 1fr; }
+    .dbcal-row-grid-3 { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" class="dbcal-full-container">
+  
+  <!-- TOPBAR -->
+  <div class="dbcal-topbar">
+    <h3 style="margin: 0; font-size: 15px; font-weight: 800; color: #0f172a;">Lønberegner Dashboard</h3>
+    <div>
+      <label style="font-size: 11px; font-weight: 700; color: #475569; margin-right: 4px;">Skatteår:</label>
+      <select class="dbcal-year-select js-dbcal-year">
+        <option value="2026" selected>2026</option>
+        <option value="2025">2025</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- INPUTS -->
+  <div class="dbcal-input-row">
+    <div class="dbcal-field-group">
+      <label>Månedsløn før skat</label>
+      <div class="dbcal-field-box">
+        <input type="number" value="{{ include.lon | default: 38000 }}" step="500" class="dbcal-clean-input js-dbcal-lon">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="dbcal-field-group">
+      <label>Ekstra fradrag <span style="font-weight:normal; text-transform:lowercase; color:#64748b;" title="Fx private lån, renter, kørsel mv.">ⓘ</span></label>
+      <div class="dbcal-field-box">
+        <input type="number" value="{{ include.andreFradrag | default: 0 }}" step="100" class="dbcal-clean-input js-dbcal-fradrag">
+        <span>kr.</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- DASHBOARD FLISER (Nu i et balanceret 3x3 grid) -->
+  
+  <!-- Række 1: De faste indkomster/pensioner -->
+  <div class="dbcal-row-grid-3">
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">Årsløn Brutto</div>
+      <div class="js-dbcal-val-aar dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Samlet indkomst per år</div>
+    </div>
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">ATP (Pension)</div>
+      <div class="js-dbcal-val-atp dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Fast obligatorisk bidrag</div>
+    </div>
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">AM-bidrag (8%)</div>
+      <div class="js-dbcal-val-am dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Statsskat trukket fra løn</div>
+    </div>
+  </div>
+
+  <!-- Række 2: Fradrag og Progressiv Skat -->
+  <div class="dbcal-row-grid-3">
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">Personfradrag</div>
+      <div class="js-dbcal-val-person-vis dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Skattefrit bundbeløb</div>
+    </div>
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">Arbejdsfradrag ⓘ</div>
+      <div class="js-dbcal-val-arbejde dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Beskæftigelse + job</div>
+    </div>
+    <div class="dbcal-tile">
+      <div class="dbcal-tile-title">Top- & Mellemskat</div>
+      <div class="js-dbcal-val-topskat dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Ekstra statsskat ved høj løn</div>
+    </div>
+  </div>
+
+  <!-- Række 3: Skat totalt og Facitbunde -->
+  <div class="dbcal-row-grid-3">
+    <div class="dbcal-tile" style="background-color: #f8fafc;">
+      <div class="dbcal-tile-title">Skat i alt</div>
+      <div class="js-dbcal-val-skat-alt dbcal-tile-value">0 kr.</div>
+      <div class="dbcal-tile-sub">Samlet AM-bidrag + A-skat</div>
+    </div>
+    <div class="dbcal-tile dbcal-tile-large" style="background-color: #fff7ed; border-color: #ffedd5;">
+      <div class="dbcal-tile-title" style="color: #c2410c;">Reel skatteprocent</div>
+      <div class="js-dbcal-val-effekt" style="font-size: 20px; font-weight: 900; color: #b45309; line-height: 1.1; margin-top: 2px;">0%</div>
+      <div class="dbcal-tile-sub" style="color: #9a3412;">Din effektive skat</div>
+    </div>
+    <div class="dbcal-tile dbcal-tile-large" style="background-color: #f0fdf4; border-color: #bbf7d0;">
+      <div class="dbcal-tile-title" style="color: #166534;">Udbetalt nettoløn</div>
+      <div class="js-dbcal-val-udbetalt" style="font-size: 20px; font-weight: 900; color: #15803d; line-height: 1.1; margin-top: 2px;">0 kr.</div>
+      <div class="dbcal-tile-sub" style="color: #166534;">Sættes ind på NemKonto</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Multi-instans og multi-årssikker beregningsmotor -->
+<script>
+(function() {
+  function formatMoney(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  const skatteSatser = {
+    "2026": { personfradrag: 4508, arbPct: 0.1275, arbLoft: 4350, topskatGraense: 51000, skatPct: 37 },
+    "2025": { personfradrag: 4133, arbPct: 0.1065, arbLoft: 3950, topskatGraense: 49000, skatPct: 37 }
+  };
+
+  document.querySelectorAll('.dbcal-full-container').forEach(function(widget) {
+    
+    function calculate() {
+      const lon = parseFloat(widget.querySelector('.js-dbcal-lon').value) || 0;
+      const ekstraFradrag = parseFloat(widget.querySelector('.js-dbcal-fradrag').value) || 0;
+      const valgtAar = widget.querySelector('.js-dbcal-year').value;
+      
+      const satser = skatteSatser[valgtAar] || skatteSatser["2026"];
+
+      const aarsLon = lon * 12;
+      const atp = lon > 0 ? 99 : 0; 
+
+      // 1. AM-bidrag (8% af løn efter ATP)
+      const amBidrag = Math.round((lon - atp) * 0.08);
+
+      // 2. Arbejdsfradrag (Beskæftigelse + jobfradrag)
+      let arbejdsFradrag = Math.round((lon - atp) * satser.arbPct);
+      if (arbejdsFradrag > satser.arbLoft) arbejdsFradrag = satser.arbLoft;
+      if (lon === 0) arbejdsFradrag = 0;
+
+      // 3. Skattegrundlag
+      const totalFradrag = satser.personfradrag + arbejdsFradrag + ekstraFradrag;
+      let grundlag = Math.round(lon - atp - amBidrag - totalFradrag);
+      if (grundlag < 0) grundlag = 0;
+
+      // 4. Almindelig A-skat
+      const almSkat = Math.round(grundlag * (satser.skatPct / 100));
+
+      // 5. Progressiv Topskat beregning
+      let topskatGrundlag = Math.round((lon - atp - amBidrag) - satser.topskatGraense);
+      if (topskatGrundlag < 0) topskatGrundlag = 0;
+      const topSkat = Math.round(topskatGrundlag * 0.15); 
+
+      // 6. Opsamling af skat i alt
+      const totalAksat = almSkat + topSkat;
+      const skatIAlt = amBidrag + totalAksat;
+
+      // 7. Facit udbetalt beløb
+      const udbetalt = Math.max(0, Math.round(lon - atp - skatIAlt));
+
+      // 8. Reel effektiv skatteprocent
+      let reelSkatteprocent = 0;
+      if (lon > 0) {
+        reelSkatteprocent = (skatIAlt / lon) * 100;
+      }
+
+      // Render alle flise-værdier live
+      widget.querySelector('.js-dbcal-val-aar').innerText = formatMoney(aarsLon);
+      widget.querySelector('.js-dbcal-val-atp').innerText = formatMoney(atp);
+      widget.querySelector('.js-dbcal-val-am').innerText = formatMoney(amBidrag);
+      widget.querySelector('.js-dbcal-val-person-vis').innerText = formatMoney(satser.personfradrag);
+      widget.querySelector('.js-dbcal-val-arbejde').innerText = formatMoney(arbejdsFradrag);
+      widget.querySelector('.js-dbcal-val-topskat').innerText = formatMoney(topSkat);
+      widget.querySelector('.js-dbcal-val-skat-alt').innerText = formatMoney(skatIAlt);
+      widget.querySelector('.js-dbcal-val-effekt').innerText = reelSkatteprocent.toFixed(1).replace('.', ',') + '%';
+      widget.querySelector('.js-dbcal-val-udbetalt').innerText = formatMoney(udbetalt);
+    }
+
+    widget.querySelectorAll('input, select').forEach(function(el) {
+      el.addEventListener('input', calculate);
+    });
+
+    calculate();
+  });
+})();
+</script>

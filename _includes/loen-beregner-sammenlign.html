@@ -1,0 +1,270 @@
+<!-- CSS-styring til det kompakte dashboard -->
+<style>
+  .lcalc-clean-input::-webkit-outer-spin-button,
+  .lcalc-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .lcalc-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .lcalc-container {
+    background-color: #f8fafc; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 20px auto; 
+    max-width: 740px; 
+    box-sizing: border-box; 
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.05);
+  }
+
+  .lcalc-grid-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .lcalc-field-group {
+    margin-bottom: 8px;
+  }
+
+  .lcalc-field-group label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 3px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #475569;
+    letter-spacing: 0.04em;
+  }
+
+  .lcalc-field-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .lcalc-field-box input {
+    width: 100% !important;
+    padding: 4px 30px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 32px;
+  }
+
+  .lcalc-field-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  .lcalc-spec-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11.5px;
+    padding: 4px 0;
+    border-bottom: 1px dashed #f1f5f9;
+    color: #475569;
+  }
+
+  .lcalc-tooltip {
+    cursor: help;
+    border-bottom: 1px dotted #94a3b8;
+  }
+
+  @media (max-width: 600px) {
+    .lcalc-grid-columns { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" class="lcalc-container">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">Scenarie-Lønberegner (Skatteår 2026)</h3>
+    <span style="font-size: 10px; color: #2563eb; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Automatisk Fradragsstyring</span>
+  </div>
+
+  <!-- Sammenligningskolonner -->
+  <div class="lcalc-grid-columns">
+    
+    <!-- SCENARIE A -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; border-top: 3px solid #64748b;">
+      <div style="font-size: 11px; font-weight: 800; color: #475569; text-transform: uppercase; margin-bottom: 10px;">Scenarie A</div>
+      
+      <div class="lcalc-field-group">
+        <label>Månedsløn før skat</label>
+        <div class="lcalc-field-box">
+          <input type="number" value="{{ include.lonA | default: 0 }}" step="500" class="lcalc-clean-input js-lcalc-mnd-lon-A">
+          <span>kr.</span>
+        </div>
+      </div>
+      
+      <div class="lcalc-field-group" style="margin-bottom: 12px;">
+        <label>Supplerende fradrag <span style="font-weight:normal; text-transform:lowercase; color:#64748b;">(fx renter, lån)</span></label>
+        <div class="lcalc-field-box">
+          <input type="number" value="{{ include.andreFradragA | default: 0 }}" step="100" class="lcalc-clean-input js-lcalc-andre-fradrag-A">
+          <span>kr.</span>
+        </div>
+      </div>
+
+      <div style="background-color: #f8fafc; border-radius: 6px; padding: 6px 10px; margin-bottom: 10px;">
+        <div class="lcalc-spec-row"><span>ATP (Pension)</span><span class="js-spec-atp-A">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>AM-bidrag (8%)</span><span class="js-spec-am-A">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>Personfradrag</span><span>4.508 kr.</span></div>
+        <div class="lcalc-spec-row"><span class="lcalc-tooltip" title="Beskæftigelsesfradrag og jobfradrag udregnes automatisk ud fra din indkomst (12,75%)">Arbejdsfradrag ⓘ</span><span class="js-spec-arbejde-A">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>Skattegrundlag</span><span class="js-spec-grundlag-A">0 kr.</span></div>
+        <div class="lcalc-spec-row" style="border-bottom: none; font-weight: 700;"><span>Effektiv skatteprocent</span><span class="js-spec-effekt-A">0%</span></div>
+      </div>
+
+      <div style="background-color: #f1f5f9; padding: 6px; border-radius: 5px; text-align: center; border: 1px solid #cbd5e1;">
+        <div style="font-size: 8.5px; font-weight: 700; color: #64748b; text-transform: uppercase;">Udbetalt nettoløn</div>
+        <div class="js-val-udbetalt-A" style="font-size: 16px; font-weight: 900; color: #0f172a; margin-top: 1px;">0 kr.</div>
+      </div>
+    </div>
+
+    <!-- SCENARIE B -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; border-top: 3px solid #2563eb;">
+      <div style="font-size: 11px; font-weight: 800; color: #2563eb; text-transform: uppercase; margin-bottom: 10px;">Scenarie B</div>
+      
+      <div class="lcalc-field-group">
+        <label>Månedsløn før skat</label>
+        <div class="lcalc-field-box">
+          <input type="number" value="{{ include.lonB | default: 4500 }}" step="500" class="lcalc-clean-input js-lcalc-mnd-lon-B">
+          <span>kr.</span>
+        </div>
+      </div>
+      
+      <div class="lcalc-field-group" style="margin-bottom: 12px;">
+        <label>Supplerende fradrag <span style="font-weight:normal; text-transform:lowercase; color:#64748b;">(fx renter, lån)</span></label>
+        <div class="lcalc-field-box">
+          <input type="number" value="{{ include.andreFradragB | default: 0 }}" step="100" class="lcalc-clean-input js-lcalc-andre-fradrag-B">
+          <span>kr.</span>
+        </div>
+      </div>
+
+      <div style="background-color: #f8fafc; border-radius: 6px; padding: 6px 10px; margin-bottom: 10px;">
+        <div class="lcalc-spec-row"><span>ATP (Pension)</span><span class="js-spec-atp-B">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>AM-bidrag (8%)</span><span class="js-spec-am-B">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>Personfradrag</span><span>4.508 kr.</span></div>
+        <div class="lcalc-spec-row"><span class="lcalc-tooltip" title="Beskæftigelsesfradrag og jobfradrag udregnes automatisk ud fra din indkomst (12,75%)">Arbejdsfradrag ⓘ</span><span class="js-spec-arbejde-B">0 kr.</span></div>
+        <div class="lcalc-spec-row"><span>Skattegrundlag</span><span class="js-spec-grundlag-B">0 kr.</span></div>
+        <div class="lcalc-spec-row" style="border-bottom: none; font-weight: 700;"><span>Effektiv skatteprocent</span><span class="js-spec-effekt-B">0%</span></div>
+      </div>
+
+      <div style="background-color: #eff6ff; padding: 6px; border-radius: 5px; text-align: center; border: 1px solid #bfdbfe;">
+        <div style="font-size: 8.5px; font-weight: 700; color: #2563eb; text-transform: uppercase;">Udbetalt nettoløn</div>
+        <div class="js-val-udbetalt-B" style="font-size: 16px; font-weight: 900; color: #1e40af; margin-top: 1px;">0 kr.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Hovedresultat i bunden -->
+  <div class="js-lcalc-gevinst-kort" style="background-color: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 6px; padding: 10px; margin-top: 14px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+    <div style="font-size: 9px; font-weight: 800; color: #166534; text-transform: uppercase; letter-spacing: 0.05em;">Anslået forskel i udbetalt beløb</div>
+    <div class="js-val-lcalc-forskel-hoved" style="font-size: 20px; font-weight: 900; color: #15803d; margin-top: 1px;">+0 kr. /md.</div>
+  </div>
+
+</div>
+
+<!-- Synkroniseret 2026-beregningsmotor med fuld ATP-integration -->
+<script>
+(function() {
+  function formatKrone(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.lcalc-container').forEach(function(widget) {
+    
+    function runCalcFor(col) {
+      const lon = parseFloat(widget.querySelector('.js-lcalc-mnd-lon-' + col).value) || 0;
+      const suppFradrag = parseFloat(widget.querySelector('.js-lcalc-andre-fradrag-' + col).value) || 0;
+      
+      // Officielle 2026 standard-satser
+      const personFradrag = 4508; 
+      const skatteprocent = 37;
+
+      // 1. Fast obligatorisk ATP pension (kun hvis der er indtægt)
+      const atp = lon > 0 ? 99 : 0;
+
+      // 2. AM-bidrag (8% af bruttolønnen efter ATP)
+      const amBidrag = Math.round((lon - atp) * 0.08);
+
+      // 3. Automatisk arbejdsfradrag (12,75% under 2026-regler, loft ved 4.350 kr./md.)
+      let arbejdsFradrag = Math.round((lon - atp) * 0.1275);
+      if (arbejdsFradrag > 4350) arbejdsFradrag = 4350;
+      if (lon === 0) arbejdsFradrag = 0;
+
+      // 4. Samlet fradrag i spil
+      const totalFradrag = personFradrag + arbejdsFradrag + suppFradrag;
+      
+      // 5. Skattegrundlag (Løn minus ATP minus AM minus samlede fradrag)
+      let grundlag = Math.round(lon - atp - amBidrag - totalFradrag);
+      if (grundlag < 0) grundlag = 0;
+
+      // 6. A-skat
+      const aSkat = Math.round(grundlag * (skatteprocent / 100));
+
+      // 7. Netto udbetalt (Alt modregnet)
+      const udbetalt = Math.max(0, Math.round(lon - atp - amBidrag - aSkat));
+
+      // 8. Reel effektiv skatteprocent (Skat i alt delt med bruttoløn)
+      let effektSkat = 0;
+      if (lon > 0) {
+        effektSkat = ((amBidrag + aSkat) / lon) * 100;
+      }
+
+      // Opdater display live
+      widget.querySelector('.js-spec-atp-' + col).innerText = formatKrone(atp);
+      widget.querySelector('.js-spec-am-' + col).innerText = formatKrone(amBidrag);
+      widget.querySelector('.js-spec-arbejde-' + col).innerText = formatKrone(arbejdsFradrag);
+      widget.querySelector('.js-spec-grundlag-' + col).innerText = formatKrone(grundlag);
+      widget.querySelector('.js-spec-effekt-' + col).innerText = effektSkat.toFixed(1).replace('.', ',') + '%';
+      widget.querySelector('.js-val-udbetalt-' + col).innerText = formatKrone(udbetalt);
+
+      return udbetalt;
+    }
+
+    function renderAll() {
+      const netA = runCalcFor('A');
+      const netB = runCalcFor('B');
+      const diff = netB - netA;
+
+      const diffLabel = widget.querySelector('.js-val-lcalc-forskel-hoved');
+      const wrapper = widget.querySelector('.js-lcalc-gevinst-kort');
+
+      if (diff >= 0) {
+        diffLabel.innerText = '+' + formatKrone(diff) + ' /md.';
+        diffLabel.style.color = '#15803d';
+        wrapper.style.backgroundColor = '#f0fdf4';
+        wrapper.style.borderColor = '#bbf7d0';
+      } else {
+        diffLabel.innerText = formatKrone(diff) + ' /md.';
+        diffLabel.style.color = '#b91c1c';
+        wrapper.style.backgroundColor = '#fef2f2';
+        wrapper.style.borderColor = '#fca5a5';
+      }
+    }
+
+    widget.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('input', renderAll);
+    });
+
+    renderAll();
+  });
+})();
+</script>

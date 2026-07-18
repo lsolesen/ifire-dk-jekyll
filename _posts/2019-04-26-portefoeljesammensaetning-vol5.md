@@ -9,6 +9,7 @@ tags:
   - aktier
   - obligationer
   - værdipapirer
+  - portefølje
 excerpt: "Sammenligning af fordeling af aktiver i en portefølje - og hvordan backtester man den med historiske data?"
 classes: wide
 header:

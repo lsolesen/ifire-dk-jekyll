@@ -39,6 +39,18 @@ Du kan blive økonomisk uafhængig med, når du laver en [passiv indkomst](/pass
 
 {% include calculator-okonomisk-uafhaengighed.html %}
 
+{% include fire-beregner.html forbrug="15000" opsparing="250000" maanedssave="2500" afkast="7" swr="4.0" skat="0" %}
+
+{% include fire-beregner-sammenlign.html 
+   s1_forbrug="12000" s1_opsparing="250000" s1_maanedssave="4000" s1_afkast="7"
+   s2_forbrug="18000" s2_opsparing="250000" s2_maanedssave="2000" s2_afkast="7"
+   swr="4.0" skat="0" 
+%}
+
+{% include fire-opsparingsrate-beregner.html rate="50" return="5.0" swr="4.0" %}
+
+{% include fire-opsparingsrate-beregner-sammenlign.html saved_pct="10" return="5.0" swr="4.0" s1_rate="10" s2_rate="50" %}
+
 Beregneren tager **ikke** højde for, at der fx ved aktieindkomst er en progressionsgrænse, hvor skatten er forskellig. Læs mere om [skatteforholdene for aktier og investeringer](/skat-af-aktier/) alt efter, hvor meget du tjener.
 
 ## Hvornår er man økonomisk uafhængig?

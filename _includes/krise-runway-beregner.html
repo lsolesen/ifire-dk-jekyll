@@ -1,0 +1,381 @@
+<!-- Hent Chart.js fra et sikkert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+  .krcal-clean-input::-webkit-outer-spin-button,
+  .krcal-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .krcal-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .krcal-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .krcal-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+
+  .krcal-input-group-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .krcal-group-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #b91c1c; 
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+  }
+
+  .krcal-field {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .krcal-field label {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 11px;
+    color: #475569;
+  }
+
+  .krcal-input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .krcal-input-box input {
+    width: 100% !important;
+    padding: 4px 32px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 30px;
+  }
+
+  .krcal-input-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  .krcal-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .krcal-stat-tile {
+    border-radius: 6px;
+    padding: 8px 12px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #f1f5f9;
+  }
+
+  .krcal-stat-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    letter-spacing: 0.02em;
+  }
+
+  .krcal-stat-value {
+    font-size: 14px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .krcal-chart-panel {
+    min-height: 280px;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 12px;
+  }
+
+  .krcal-info-box {
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 13.5px;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 768px) {
+    .krcal-stats-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 820px) {
+    .krcal-inputs-grid { grid-template-columns: 1fr; gap: 12px; }
+  }
+</style>
+
+<div markdown="0" class="krcal-full-wrapper">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">Investerings-Brandmur (Krise-Runway)</h3>
+    <span style="font-size: 10px; color: #b91c1c; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Skræddersyet Tidslinje</span>
+  </div>
+
+  <!-- DEFINITIONSBOKS -->
+  <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 10px 12px; margin-bottom: 16px; font-size: 12px; color: #475569; line-height: 1.45;">
+    🔥 <strong>Hvordan reagerer din nødopsparing under krisen?</strong> Grafen nedenfor simulerer dit likviditetsdræn måned for måned. Den tilpasser sig automatisk din personlige tidshorisont, så du visuelt kan se præcis, hvornår du løber tør for kontanter under henholdsvis et normalt budget (Rød) og et krisebudget (Grøn).
+  </div>
+
+  <!-- INPUTS MED DYNAMISK JEKYLL VARIABLE-SUPPORT -->
+  <div class="krcal-inputs-grid">
+    <div class="krcal-input-group-box">
+      <div class="krcal-group-title">1. Forbrug under krise</div>
+      <div class="krcal-field">
+        <label>Udgifter i dag (Mdl.)</label>
+        <div class="krcal-input-box"><input type="number" value="{{ include.expNow | default: 19000 }}" step="1000" class="krcal-clean-input js-kr-exp-now"><span>kr.</span></div>
+      </div>
+      <div class="krcal-field">
+        <label>Skrabet Krisebudget (Mdl.)</label>
+        <div class="krcal-input-box"><input type="number" value="{{ include.expCrisis | default: 12000 }}" step="1000" class="krcal-clean-input js-kr-exp-crisis"><span>kr.</span></div>
+      </div>
+    </div>
+
+    <div class="krcal-input-group-box">
+      <div class="krcal-group-title">2. Likvide Buffere</div>
+      <div class="krcal-field">
+        <label>Nødopsparing + Kontanter</label>
+        <div class="krcal-input-box"><input type="number" value="{{ include.cash | default: 61000 }}" step="5000" class="krcal-clean-input js-kr-cash"><span>kr.</span></div>
+      </div>
+      <div class="krcal-field">
+        <label>Andre stabile aktiver</label>
+        <div class="krcal-input-box"><input type="number" value="{{ include.stableAssets | default: 0 }}" step="5000" class="krcal-clean-input js-kr-stable"><span>kr.</span></div>
+      </div>
+    </div>
+
+    <div class="krcal-input-group-box">
+      <div class="krcal-group-title">3. Aktuel Indtægt</div>
+      <div class="krcal-field">
+        <label>Mdl. indtægt under krisen</label>
+        <div class="krcal-input-box"><input type="number" value="{{ include.backupIncome | default: 15500 }}" step="1000" class="krcal-clean-input js-kr-income"><span>kr.</span></div>
+      </div>
+      <div style="font-size: 9.5px; color:#64748b; line-height:1.2; padding-top:2px;">
+        (Skriv din normale løn, hvis du beholder jobbet – eller din A-kasse, hvis du frygter fyring)
+      </div>
+    </div>
+  </div>
+
+  <!-- DASHBOARD FLISER -->
+  <div class="krcal-stats-grid">
+    <div class="krcal-stat-tile" style="border-left: 3px solid #64748b;">
+      <span class="krcal-stat-title">Månedlig krisebesparelse</span>
+      <span class="js-kr-stat-savings krcal-stat-value">0 kr.</span>
+    </div>
+    <div class="krcal-stat-tile" style="border-left: 3px solid #3b82f6;">
+      <span class="krcal-stat-title">Samlet kontant buffer</span>
+      <span class="js-kr-stat-buffer krcal-stat-value">0 kr.</span>
+    </div>
+    <div class="krcal-stat-tile" style="background-color: #fef2f2; border-left: 3px solid #b91c1c;">
+      <span class="krcal-stat-title">Din Krise-Runway (Brandmur)</span>
+      <span class="js-kr-stat-runway krcal-stat-value" style="font-size: 14px; font-weight:800;">0 mdr.</span>
+    </div>
+  </div>
+
+  <!-- LIVE CHART PANEL -->
+  <div class="krcal-chart-panel">
+    <canvas class="js-kr-canvas" style="width:100%; height:100%; max-height:280px;"></canvas>
+  </div>
+
+  <!-- LIVE DYNAMISK KONKLUSIONSKORT -->
+  <div class="krcal-info-box js-kr-summary-text">
+    Beregner kriseresistens...
+  </div>
+
+</div>
+
+<script>
+(function() {
+  function formatDk(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.krcal-full-wrapper').forEach(function(widget) {
+    let chartInstance = null;
+    
+    function calculateRunway() {
+      const expNow = parseFloat(widget.querySelector('.js-kr-exp-now').value) || 0;
+      const expCrisis = parseFloat(widget.querySelector('.js-kr-exp-crisis').value) || 0;
+      const cash = parseFloat(widget.querySelector('.js-kr-cash').value) || 0;
+      const stable = parseFloat(widget.querySelector('.js-kr-stable').value) || 0;
+      const income = parseFloat(widget.querySelector('.js-kr-income').value) || 0;
+
+      const monthlySavingsInCrisis = Math.max(0, expNow - expCrisis);
+      const totalBuffer = cash + stable;
+      
+      const netNormalDraw = expNow - income;
+      const netCrisisDraw = expCrisis - income;
+
+      let runwayMonths = 0;
+      let maxGraphMonths = 24; // Standardvisning, hvis ens runway er uendelig
+      let runwayText = "";
+      const summaryBox = widget.querySelector('.js-kr-summary-text');
+
+      widget.querySelector('.js-kr-stat-savings').innerText = formatDk(monthlySavingsInCrisis) + ' /md.';
+      widget.querySelector('.js-kr-stat-buffer').innerText = formatDk(totalBuffer);
+
+      if (netCrisisDraw <= 0) {
+        widget.querySelector('.js-kr-stat-runway').innerText = "Ubegrænset 🚀";
+        widget.querySelector('.js-kr-stat-runway').style.color = "#166534";
+        widget.querySelector('.krcal-stat-tile:last-child').style.backgroundColor = "#f0fdf4";
+        widget.querySelector('.krcal-stat-tile:last-child').style.borderLeftColor = "#22c55e";
+        
+        runwayText = "🚀 <strong>Uovervindelig brandmur:</strong> Da din indtægt under krisen på " + formatDk(income) + " dækker dine kriseudgifter på " + formatDk(expCrisis) + ", kører din økonomi rundt i bedste velgående. <strong>Din Runway er uendelig!</strong> Du behøver ikke røre din nødopsparing, og dit aktiedepot kan sunde sig i fred.";
+        summaryBox.style.backgroundColor = "#f0fdf4"; summaryBox.style.borderColor = "#bbf7d0"; summaryBox.style.color = "#166534";
+      } else {
+        runwayMonths = totalBuffer / netCrisisDraw;
+        const years = (runwayMonths / 12).toFixed(1).replace('.', ',');
+        
+        widget.querySelector('.js-kr-stat-runway').innerText = runwayMonths.toFixed(0) + " mdr. (" + years + " år)";
+        
+        // DYNAMISK AKSE-LOGIK: Sæt grafens længde til runwayen + 3 måneder (dog min 12 mdr og max 60 mdr)
+        maxGraphMonths = Math.max(12, Math.min(60, Math.ceil(runwayMonths) + 3));
+
+        if (runwayMonths >= 24) {
+          widget.querySelector('.js-kr-stat-runway').style.color = "#166534";
+          widget.querySelector('.krcal-stat-tile:last-child').style.backgroundColor = "#f0fdf4";
+          widget.querySelector('.krcal-stat-tile:last-child').style.borderLeftColor = "#22c55e";
+          
+          runwayText = "✅ <strong>Super solid kriseplan (Worst-case sikret):</strong> Selv hvis du mister dit job, holder din kontante brandmur dig kørende i <strong>" + runwayMonths.toFixed(0) + " måneder</strong> (" + years + " år). Da et historisk slemt bjørnemarked sjældent tager mere end 24 måneder om at vende, har du fuldstændig ro til at ride stormen af.";
+          summaryBox.style.backgroundColor = "#f0fdf4"; summaryBox.style.borderColor = "#bbf7d0"; summaryBox.style.color = "#166534";
+        } else if (runwayMonths >= 12) {
+          widget.querySelector('.js-kr-stat-runway').style.color = "#b45309";
+          widget.querySelector('.krcal-stat-tile:last-child').style.backgroundColor = "#fff7ed";
+          widget.querySelector('.krcal-stat-tile:last-child').style.borderLeftColor = "#f59e0b";
+          
+          runwayText = "⚡ <strong>Moderat brandmur:</strong> Sker det dobbelte krak, holder dine kontanter i <strong>" + runwayMonths.toFixed(0) + " måneder</strong>. Det dækker kortere kriser, men hvis vi rammer en langvarig recession, risikerer du at løbe tør undervejs. Prøv at trykke krisebudgettet længere ned eller øg din buffer.";
+          summaryBox.style.backgroundColor = "#fff7ed"; summaryBox.style.borderColor = "#ffedd5"; summaryBox.style.color = "#b45309";
+        } else {
+          widget.querySelector('.js-kr-stat-runway').style.color = "#991b1b";
+          widget.querySelector('.krcal-stat-tile:last-child').style.backgroundColor = "#fef2f2";
+          widget.querySelector('.krcal-stat-tile:last-child').style.borderLeftColor = "#b91c1c";
+          
+          runwayText = "⚠️ <strong>Sårbar kriseplan:</strong> Ved et jobtab varer din Runway kun <strong>" + runwayMonths.toFixed(0) + " måneder</strong> før du løber tør og tvinges til paniksalg af aktier. Du bør kigge på at trykke dit krisebudget længere ned eller opbygge en større kontant nødopsparing før krisen.";
+          summaryBox.style.backgroundColor = "#fef2f2"; summaryBox.style.borderColor = "#fca5a5"; summaryBox.style.color = "#991b1b";
+        }
+      }
+      summaryBox.innerHTML = runwayText;
+
+      // --- GENERER DYNAMISK GRAF DATA ---
+      const labelsMonths = [];
+      const plotNormalCash = [];
+      const plotCrisisCash = [];
+
+      let currentNormalCash = totalBuffer;
+      let currentCrisisCash = totalBuffer;
+
+      for (let m = 0; m <= maxGraphMonths; m++) {
+        labelsMonths.push('Mnd ' + m);
+        
+        plotNormalCash.push(Math.round(currentNormalCash));
+        plotCrisisCash.push(Math.round(currentCrisisCash));
+
+        // Dræn til normalt forløb
+        currentNormalCash = currentNormalCash - netNormalDraw;
+        if (currentNormalCash < 0) currentNormalCash = 0;
+
+        // Dræn til kriseforløb
+        currentCrisisCash = currentCrisisCash - netCrisisDraw;
+        if (currentCrisisCash < 0) currentCrisisCash = 0;
+      }
+
+      // --- TEGN / OPDATER LIVE GRAF ---
+      const ctx = widget.querySelector('.js-kr-canvas').getContext('2d');
+      if (chartInstance) { chartInstance.destroy(); }
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labelsMonths,
+          datasets: [
+            {
+              label: 'Uændret livsstil (Høj burn rate)',
+              data: plotNormalCash,
+              borderColor: '#ef4444',
+              borderWidth: 2,
+              borderDash: [4, 4],
+              pointRadius: 0,
+              fill: false
+            },
+            {
+              label: 'Krisebudget aktiveret (Sikker Runway)',
+              data: plotCrisisCash,
+              borderColor: '#22c55e',
+              backgroundColor: 'rgba(34, 197, 94, 0.03)',
+              borderWidth: 2.5,
+              pointRadius: 0,
+              fill: true
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 } } },
+            tooltip: {
+              callbacks: { label: function(context) { return context.dataset.label + ': ' + formatDk(context.parsed.y); } }
+            }
+          },
+          scales: {
+            y: { ticks: { font: { size: 9 }, callback: function(value) { return formatDk(value); } }, grid: { color: '#f1f5f9' } },
+            x: { ticks: { font: { size: 9 } }, grid: { display: false } }
+          }
+        }
+      });
+    }
+
+    widget.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('input', calculateRunway);
+    });
+
+    calculateRunway();
+  });
+})();
+</script>

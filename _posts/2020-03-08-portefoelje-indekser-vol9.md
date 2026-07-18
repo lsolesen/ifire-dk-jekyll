@@ -9,12 +9,14 @@ last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
 category:
   - Investering
+  - Opdateringer
 tags:
   - investering
   - aktier
   - obligationer
   - værdipapirer
   - indeksfonde
+  - portefølje
 classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500

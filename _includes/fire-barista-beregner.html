@@ -1,0 +1,479 @@
+<!-- Hent Chart.js fra et sikkert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+  .bfcal-clean-input::-webkit-outer-spin-button,
+  .bfcal-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .bfcal-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .bfcal-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .bfcal-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+
+  .bfcal-input-group-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .bfcal-group-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #2563eb;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+  }
+
+  .bfcal-field {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bfcal-field label {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 11px;
+    color: #475569;
+  }
+
+  .bfcal-input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .bfcal-input-box input {
+    width: 100% !important;
+    padding: 4px 32px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 30px;
+  }
+
+  .bfcal-input-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  .bfcal-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .bfcal-stat-tile {
+    border-radius: 6px;
+    padding: 8px 12px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .bfcal-stat-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    letter-spacing: 0.02em;
+  }
+
+  .bfcal-stat-value {
+    font-size: 14px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .bfcal-chart-panel {
+    min-height: 280px;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 12px;
+  }
+
+  .bfcal-info-box {
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: #1e40af;
+    background-color: #eff6ff;
+    border: 1px solid #bfdbfe;
+  }
+
+  @media (max-width: 768px) {
+    .bfcal-stats-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 820px) {
+    .bfcal-inputs-grid { grid-template-columns: 1fr; gap: 12px; }
+  }
+</style>
+
+<div markdown="0" class="bfcal-full-wrapper">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">Barista FIRE Scenarie-Model</h3>
+    <span style="font-size: 10px; color: #2563eb; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Dobbelt Forbrug</span>
+  </div>
+
+  <!-- DEFINITIONSBOKS -->
+  <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 10px 12px; margin-bottom: 16px; font-size: 12px; color: #475569; line-height: 1.45;">
+    ☕️ <strong>Hvad betyder Barista FIRE med scenarier?</strong> Det betyder, at du skifter til et deltidsscenarie tidligt i livet [source: 1]. Din udbetalte deltidsindtækt tager brodden af dine faste udgifter, mens din investerede formue dækker det resterende underskud og vokser videre i baggrunden, indtil du opnår 100% økonomisk frihed (Fuld FIRE) – enten til dit Basis- eller dit Drømmebudget [source: 1].
+  </div>
+
+  <!-- INPUTS MED DYNAMISK JEKYLL VARIABLE-SUPPORT -->
+  <div class="bfcal-inputs-grid">
+    
+    <!-- KOLONNE 1: NUTIDIG STATUS -->
+    <div class="bfcal-input-group-box">
+      <div class="bfcal-group-title">1. Nutidig Status</div>
+      <div class="bfcal-field">
+        <label>Nuværende alder</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.ageNow | default: 30 }}" class="bfcal-clean-input js-bf-age-now"><span>år</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Udbetalt løn nu (Mdl.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.payNow | default: 30000 }}" step="1000" class="bfcal-clean-input js-bf-pay-now"><span>kr.</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Udgifter nu (Mdl.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.expNow | default: 18000 }}" step="1000" class="bfcal-clean-input js-bf-exp-now"><span>kr.</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Investeret formue i dag</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.nwNow | default: 1000000 }}" step="50000" class="bfcal-clean-input js-bf-nw-now"><span>kr.</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 2: BARISTA FREMTID -->
+    <div class="bfcal-input-group-box">
+      <div class="bfcal-group-title">2. Barista Fremtid</div>
+      <div class="bfcal-field">
+        <label>Ønsket Barista-alder</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.ageBarista | default: 40 }}" class="bfcal-clean-input js-bf-age-barista"><span>år</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Min. udgifter / Basis (Mdl.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.expFireMin | default: 16000 }}" step="1000" class="bfcal-clean-input js-bf-exp-min"><span>kr.</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Max. udgifter / Drøm (Mdl.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.expFireMax | default: 24000 }}" step="1000" class="bfcal-clean-input js-bf-exp-max"><span>kr.</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Udbetalt deltidsløn (Mdl.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.payBarista | default: 8000 }}" step="500" class="bfcal-clean-input js-bf-pay-barista"><span>kr.</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 3: FORVENTNINGER -->
+    <div class="bfcal-input-group-box">
+      <div class="bfcal-group-title">3. Forventninger</div>
+      <div class="bfcal-field">
+        <label>Investeringsafkast (Nom.)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.return | default: 7.0 }}" step="0.1" class="bfcal-clean-input js-bf-return"><span>%</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Forventet Inflation</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.inflation | default: 2.5 }}" step="0.1" class="bfcal-clean-input js-bf-inflation"><span>%</span></div>
+      </div>
+      <div class="bfcal-field">
+        <label>Sikker hæverate (SWR)</label>
+        <div class="bfcal-input-box"><input type="number" value="{{ include.swr | default: 4.0 }}" step="0.1" class="bfcal-clean-input js-bf-swr"><span>%</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- INSTRUMENTBRÆT: 2x3 GRID -->
+  <div class="bfcal-stats-grid">
+    
+    <!-- RÆKKE 1: BASIS SCENARIET (Grøn) -->
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #22c55e; background-color: #f0fdf4;">
+      <span class="bfcal-stat-title" style="color: #166534;">Fuld FIRE mål (Basis)</span>
+      <span class="js-bf-stat-target-min bfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #16a34a; background-color: #f0fdf4;">
+      <span class="bfcal-stat-title" style="color: #166534;">Formue v. overgang (alder <span class="js-bf-txt-age-1">0</span>)</span>
+      <span class="js-bf-stat-nw-transition bfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #15803d; background-color: #f0fdf4;">
+      <span class="bfcal-stat-title" style="color: #166534;">Fuld FIRE alder (Basis)</span>
+      <span class="js-bf-stat-age-min bfcal-stat-value">Regner...</span>
+    </div>
+
+    <!-- RÆKKE 2: DRØMME SCENARIET (Blå) -->
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #3b82f6; background-color: #f0f9ff;">
+      <span class="bfcal-stat-title" style="color: #1e40af;">Fuld FIRE mål (Drøm)</span>
+      <span class="js-bf-stat-target-max bfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #2563eb; background-color: #f0f9ff;">
+      <span class="bfcal-stat-title" style="color: #1e40af;">Aktuel Opsparing Nu</span>
+      <span class="js-bf-stat-savings-vis bfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="bfcal-stat-tile" style="border-left: 3px solid #1e40af; background-color: #f0f9ff;">
+      <span class="bfcal-stat-title" style="color: #1e40af;">Fuld FIRE alder (Drøm)</span>
+      <span class="js-bf-stat-age-max bfcal-stat-value">Regner...</span>
+    </div>
+
+  </div>
+
+  <!-- LIVE GRAF PANEL -->
+  <div class="bfcal-chart-panel">
+    <canvas class="js-bf-canvas" style="width:100%; height:100%; max-height:300px;"></canvas>
+  </div>
+  
+  <!-- DYNAMISK KONKLUSIONSKORT -->
+  <div class="bfcal-info-box js-bf-summary-text">
+    Kører simulation...
+  </div>
+
+</div>
+
+<!-- To-sporet simulationsmotor -->
+<script>
+(function() {
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.bfcal-full-wrapper').forEach(function(widget) {
+    let chartInstance = null;
+
+    function runEngine() {
+      const ageNow = parseInt(widget.querySelector('.js-bf-age-now').value) || 0;
+      let ageBarista = parseInt(widget.querySelector('.js-bf-age-barista').value) || 0;
+      const payNow = parseFloat(widget.querySelector('.js-bf-pay-now').value) || 0;
+      const expNow = parseFloat(widget.querySelector('.js-bf-exp-now').value) || 0;
+      const nwNow = parseFloat(widget.querySelector('.js-bf-nw-now').value) || 0;
+      
+      const expMinMnd = parseFloat(widget.querySelector('.js-bf-exp-min').value) || 0;
+      const expMaxMnd = parseFloat(widget.querySelector('.js-bf-exp-max').value) || 0;
+      const payBaristaMnd = parseFloat(widget.querySelector('.js-bf-pay-barista').value) || 0;
+      
+      const nomReturn = parseFloat(widget.querySelector('.js-bf-return').value) || 0;
+      const inflation = parseFloat(widget.querySelector('.js-bf-inflation').value) || 0;
+      const swr = (parseFloat(widget.querySelector('.js-bf-swr').value) || 0) / 100;
+
+      if (ageBarista < ageNow) ageBarista = ageNow;
+
+      // Realvækst efter inflation
+      const realGrowth = ((1 + nomReturn / 100) / (1 + inflation / 100)) - 1;
+      const mndSavingsNow = Math.max(0, payNow - expNow);
+      const annualSavingsNow = mndSavingsNow * 12;
+      
+      const fireTargetMin = swr > 0 ? ((expMinMnd * 12) / swr) : 0;
+      const fireTargetMax = swr > 0 ? ((expMaxMnd * 12) / swr) : 0;
+
+      widget.querySelectorAll('.js-bf-txt-age-1').forEach(el => el.innerText = ageBarista);
+      widget.querySelector('.js-bf-stat-target-min').innerText = formatDkr(fireTargetMin);
+      widget.querySelector('.js-bf-stat-target-max').innerText = formatDkr(fireTargetMax);
+      widget.querySelector('.js-bf-stat-savings-vis').innerText = formatDkr(mndSavingsNow) + ' /md.';
+
+      // --- SIMULATION (Op til år 100) ---
+      let nwMinTrack = nwNow;
+      let nwMaxTrack = nwNow;
+      
+      let ageFullFireMin = 999;
+      let ageFullFireMax = 999;
+      let nwAtTransition = nwNow;
+
+      for (let age = ageNow; age <= 100; age++) {
+        if (age < ageBarista) {
+          nwMinTrack = nwMinTrack * (1 + realGrowth) + annualSavingsNow;
+          nwMaxTrack = nwMaxTrack * (1 + realGrowth) + annualSavingsNow;
+          nwAtTransition = nwMinTrack;
+        } else {
+          const annualBaristaIncome = payBaristaMnd * 12;
+          const drawMin = Math.max(0, (expMinMnd * 12) - annualBaristaIncome);
+          const drawMax = Math.max(0, (expMaxMnd * 12) - annualBaristaIncome);
+
+          nwMinTrack = nwMinTrack * (1 + realGrowth) - drawMin;
+          if (nwMinTrack < 0) nwMinTrack = 0;
+
+          nwMaxTrack = nwMaxTrack * (1 + realGrowth) - drawMax;
+          if (nwMaxTrack < 0) nwMaxTrack = 0;
+        }
+
+        if (nwMinTrack >= fireTargetMin && ageFullFireMin === 999) {
+          ageFullFireMin = age;
+        }
+        if (nwMaxTrack >= fireTargetMax && ageFullFireMax === 999) {
+          ageFullFireMax = age;
+        }
+      }
+
+      widget.querySelector('.js-bf-stat-nw-transition').innerText = formatDkr(nwAtTransition);
+      widget.querySelector('.js-bf-stat-age-min').innerText = ageFullFireMin === 999 ? 'Ikke muligt' : ageFullFireMin + ' år';
+      widget.querySelector('.js-bf-stat-age-max').innerText = ageFullFireMax === 999 ? 'Ikke muligt' : ageFullFireMax + ' år';
+
+      // --- GENERER GRAF DATA ---
+      const maxAge = Math.max(67, Math.max(ageBarista + 5, Math.max(ageFullFireMin === 999 ? 0 : ageFullFireMin, ageFullFireMax === 999 ? 0 : ageFullFireMax) + 2));
+      const labelsAges = [];
+      const dataBaristaMinPlot = [];
+      const dataBaristaMaxPlot = [];
+      const dataTargetMinLine = [];
+      const dataTargetMaxLine = [];
+
+      let nwMinPlot = nwNow;
+      let nwMaxPlot = nwNow;
+
+      for (let age = ageNow; age <= maxAge; age++) {
+        labelsAges.push('År ' + age);
+        dataTargetMinLine.push(Math.round(fireTargetMin));
+        dataTargetMaxLine.push(Math.round(fireTargetMax));
+
+        dataBaristaMinPlot.push(Math.round(nwMinPlot));
+        dataBaristaMaxPlot.push(Math.round(nwMaxPlot));
+
+        if (age < ageBarista) {
+          nwMinPlot = nwMinPlot * (1 + realGrowth) + annualSavingsNow;
+          nwMaxPlot = nwMaxPlot * (1 + realGrowth) + annualSavingsNow;
+        } else {
+          const annualBaristaIncome = payBaristaMnd * 12;
+          nwMinPlot = nwMinPlot * (1 + realGrowth) - Math.max(0, (expMinMnd * 12) - annualBaristaIncome);
+          nwMaxPlot = nwMaxPlot * (1 + realGrowth) - Math.max(0, (expMaxMnd * 12) - annualBaristaIncome);
+          
+          if (nwMinPlot < 0) nwMinPlot = 0;
+          if (nwMaxPlot < 0) nwMaxPlot = 0;
+        }
+      }
+
+      // --- TEKSTKONKLUSION ---
+      const summaryBox = widget.querySelector('.js-bf-summary-text');
+      let msg = "📊 <strong>Barista FIRE Statusanalyse:</strong><br>";
+
+      if (nwNow >= fireTargetMax) {
+        msg = "🎉 <strong>Fuldstændig frihed!</strong> Din nuværende formue overstiger allerede dit maksimale drømme-FIRE budget. Du behøver slet ikke arbejde mere.";
+      } else {
+        if (ageFullFireMin === 999) {
+          msg += "❌ <strong>Basis-forløb:</strong> Din deltidsløn er for lav til at holde formuen i live ved et basisbudget på " + formatDkr(expMinMnd) + "/md. Formuen vil tømmes.<br>";
+        } else {
+          msg += "🎯 Skifter du til deltid som " + ageBarista + "-årig, rammer du <strong>Basis Fuld FIRE som " + ageFullFireMin + "-årig</strong> (Mål: " + formatDkr(fireTargetMin) + ").<br>";
+        }
+
+        if (ageFullFireMax === 999) {
+          msg += "⚠️ <strong>Drømme-forløb:</strong> Dit luksusbudget på " + formatDkr(expMaxMnd) + "/md kan ikke bæres af deltidsscenariet helt i mål. Juster opsparingen eller luksusmålet.";
+        } else {
+          const diffYears = ageFullFireMax - (ageFullFireMin === 999 ? ageNow : ageFullFireMin);
+          msg += "💎 Dit <strong>Drømme Fuld FIRE-mål</strong> (Mål: " + formatDkr(fireTargetMax) + ") opnår du som <strong>" + ageFullFireMax + "-årig</strong>. Luksustillægget koster dig " + diffYears + " ekstra år på deltid.";
+        }
+      }
+      summaryBox.innerHTML = msg.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+      // --- LIVE CHART RE-RENDER ---
+      const ctx = widget.querySelector('.js-bf-canvas').getContext('2d');
+      if (chartInstance) { chartInstance.destroy(); }
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labelsAges,
+          datasets: [
+            {
+              label: 'Barista bane (Basis budget)',
+              data: dataBaristaMinPlot,
+              borderColor: '#22c55e',
+              backgroundColor: 'rgba(34, 197, 94, 0.04)',
+              borderWidth: 2.5,
+              pointRadius: 0,
+              fill: true
+            },
+            {
+              label: 'Barista bane (Drømme budget)',
+              data: dataBaristaMaxPlot,
+              borderColor: '#3b82f6',
+              borderWidth: 2.5,
+              borderDash: [3, 3],
+              pointRadius: 0,
+              fill: false
+            },
+            {
+              label: 'Fuld FIRE linje (Basis)',
+              data: dataTargetMinLine,
+              borderColor: '#16a34a',
+              borderWidth: 1.5,
+              pointRadius: 0,
+              fill: false
+            },
+            {
+              label: 'Fuld FIRE linje (Drøm)',
+              data: dataTargetMaxLine,
+              borderColor: '#1e3a8a',
+              borderWidth: 1.5,
+              borderDash: [4, 4],
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 } } },
+            tooltip: {
+              callbacks: { label: function(context) { return context.dataset.label + ': ' + formatDkr(context.parsed.y); } }
+            }
+          },
+          scales: {
+            y: { ticks: { font: { size: 9 }, callback: function(value) { return value / 1000000 + ' mio.'; } }, grid: { color: '#f1f5f9' } },
+            x: { ticks: { font: { size: 9 } }, grid: { display: false } }
+          }
+        }
+      });
+    }
+
+    widget.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('input', runEngine);
+    });
+
+    runEngine();
+  });
+})();
+</script>

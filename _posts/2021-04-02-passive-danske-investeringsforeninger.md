@@ -17,12 +17,14 @@ header:
   overlay_image: https://images.unsplash.com/photo-1511376868136-742c0de8c9a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1511376868136-742c0de8c9a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: "Passive danske fonde: Liste over danske investeringsforeninger"
-last_modified_at: 2026-07-04T12:45:00+02:00
+last_modified_at: 2026-07-18T10:00:00+02:00
 ---
 
-Jeg er meget interesseret i at finde de bedste danske passive investeringsforeninger. Fordi det kan være lidt af en jungle at få det fulde overblik over markedet i Danmark, har jeg sat mig for at lave den ultimative, strukturerede liste over de mest populære passive indeksfonde.
+Jeg er meget interesseret i at finde de bedste danske passive investeringsforeninger. Fordi det kan være lidt af en jungle at få det fulde overblik over markedet i Danmark, har jeg sat mig for at lave den ultimative, strukturerede og interaktive liste over de mest populære passive indeksfonde.
 
-Når du vælger danske investeringsforeninger frem for udenlandske ETF'er, skyldes det i 9 ud af 10 tilfælde de særlige danske skatteregler for frie midler. Men hvilke fonde findes der, hvad koster de i ÅOP, og hvilke passer til netop din strategi? Det kigger vi på her.
+Når du vælger danske investeringsforeninger frem for udenlandske ETF'er, skyldes det i ofte de særlige danske skatteregler for frie midler. Men hvilke fonde findes der, hvad koster de i ÅOP, og hvilke passer til netop din strategi? 
+
+*Vil du hellere springe listen over og se mine favoritter? Læs min guide til, hvordan jeg [sammensætter min FIRE-portefølje med 3 udvalgte danske indeksfonde](/danske-investeringsforeninger-fire-realisation/).*
 
 ---
 
@@ -43,95 +45,68 @@ Da jeg foretrækker en helt enkel, passiv investeringsstrategi, der følger hele
 Før du vælger din specifikke fond, skal du træffe en vigtig beslutning baseret på dit depot og din skattestrategi:
 
 * **Udbyttebetalende fonde (Distribuerende):** Disse fonde udbetaler automatisk et årligt udbytte til dig. Fordelen er, at de i et almindeligt aktiedepot (for frie midler) er **realisationsbeskattede som aktieindkomst**. Det betyder, at du kun betaler 27 % (op til **63.400 kr.** i 2026) eller 42 % (over grænsen) i skat af dine realiserede gevinster og udbytter. Dine kursgevinster på "papiret" beskattes ikke, før du sælger.
-* **Akkumulerende fonde:** Disse fonde udbetaler ikke udbytte, men geninvesterer i stedet overskuddet internt i fonden. Disse er altid **lagerbeskattede** (du betaler skat af årets fiktive gevinst d. 31. december). Hvis fonden er dansk og akkumulerende, beskattes den som kapitalindkomst, medmindre den står på Skattestyrelsens positivliste, hvor den i stedet lagerbeskattes som aktieindkomst. Norske fonde (som Storebrand) beskattes dog som aktieindkomst, hvis de er på positivlisten.
+* **Akkumulerende fonde:** Disse fonde udbetaler ikke udbytte, men geninvesterer i stedet overskuddet internt i fonden. Disse er altid **lagerbeskattede** (du betaler skat af årets fiktive gevinst d. 31. december). 
 
 Hvis du vil forstå skatternes dybere betydning for din formue, kan du læse min store moderside: **[Indeksfonde - Komplet guide til index investering](/indeksfonde/)**.
 
 ---
 
-## Komplet overblik over de passive danske indeksfonde
+## Det interaktive overblik: Danske globale indeksfonde
 
-Herunder har jeg samlet de mest gængse globale indeksfonde fra de danske udbydere. For at en fond kan kvalificere sig til denne liste, skal den opfylde to krav:
-1. Den skal kunne købes nemt via de gængse handelsplatforme som egen bank, [Nordnet](/go/nordnet/) eller Saxo Bank.
-2. Den skal have et globalt fokus, da en bred verdensfond bør udgøre fundamentet i enhver passiv portefølje.
+Herunder finder du en liste over de globale indeksfonde fra de danske udbydere, som har været på min radar. Du kan sortere tabellen ved at klikke på overskrifterne (f.eks. for at finde den laveste ÅOP), eller bruge filter-dropdowns til at matche din præcise skattestrategi.
 
-Her er det samlede, rå overblik over fondene på tværs af kategorier:
+{% include fonde-tabel.html fondstype="Dansk Investeringsforening" aktivklasse="Aktier" %}
 
-{% assign fonde = site.data.funds | where: "type", "Investeringsforening" | where: "strategy", "Passiv" %}
-
-{% include fund-table.html funds=fonde %}
-
-*Bemærk: Jeg har inkluderet information om, hvorvidt fondene kan købes via **Nordnets Månedsopsparing**. Det er en kæmpe fordel, da du derved slipper for at betale købskurtage, når du køber op måned efter måned.*
-
----
-
-{% assign distribuerende = site.data.funds | where: "type", "Investeringsforening" | where: "dividend", "Distribuerende" %}
-
-## Liste over {{ distribuerende.size }} udbyttebetalende (realisationsbeskattede) fonde
-
-Disse fonde er oplagte til dig, der investerer for **frie midler** og ønsker at udskyde skatten på dine kursgevinster i overensstemmelse med realisationsprincippet. 
-
-Følgende fonde er passive, udbyttebetalende og globale:
-
-{% for f in distribuerende %}
-- [{{ f.name }}]({{ f.morningstar_url }}) (Ticker: `{{ f.ticker }}`)
-{%- endfor %}
-
-*Tip: Navnene kan variere en smule på tværs af bankernes handelsplatforme. Brug derfor altid fondens `ticker` (forkortelse) i parentesen, når du søger efter den, så du er sikker på at ramme den rigtige.*
+*Tip: Mange af de danske fonde i tabellen kan købes kurtagefrit via **Nordnets Månedsopsparing**. Hold øje med dem, hvis du vil automatisere dine månedlige opkøb uden at spilde penge på handelsomkostninger.*
 {: .notice--info }
 
 ---
 
-{% assign akkumulerende = site.data.funds | where: "type", "Investeringsforening" | where: "dividend", "Akkumulerende" %}
+## Liste over udbyttebetalende (realisationsbeskattede) fonde
 
-## Liste over {{ akkumulerende.size }} akkumulerende (lagerbeskattede) fonde
+Det er disse fonde jeg har kigget på, når jeg investerer mine **frie midler** (altså almindeligt opsparede penge uden for pensionsordninger). Fordi de følger realisationsprincippet for kursgevinster, får du en massiv matematisk fordel:
 
-Disse fonde egner sig særligt godt til pensionsdepoter (f.eks. ratepension eller aldersopsparing) eller til virksomhedsskatteordningen (VSO), hvor der i forvejen er tvungen lagerbeskatning.
+1. **Renters rente i fuld effekt:** Skatten på dine kursgevinster udskydes. De penge, du ellers skulle have betalt i skat hvert år i januar, bliver stående i fonden og arbejder videre for dig.
+2. **Kontrol i FIRE-fasen:** Når du en dag trækker stikket og lever af din portefølje, kan du løbende sælge ud, så du præcis holder dig under progressionsgrænsen på 27% i aktieskat.
 
-Følgende fonde er passive, akkumulerende og globale:
+På Aktiesparekontoen går jeg efter en prisbillig ETF, da aktiesparekontoen er tvunget i lagerbeskatning. Jeg har kig på følgende [globale aktiebeskattede ETF'er](/bedste-etf-skats-positivliste/).
 
-{% for f in akkumulerende %}
-- [{{ f.name }}]({{ f.morningstar_url }}) (Ticker: `{{ f.ticker }}`)
-{%- endfor %}
+> **Sådan finder du dem i databasen:** Vælg **"Realisation"** i filteret over tabellen i toppen. Det vil isolere de traditionsrige fonde fra udbydere som Sparindex, Danske Invest og Nordea Invest, så du nemt kan sammenligne deres ÅOP.
 
-*Bemærk vedrørende Storebrand:* Selvom Storebrand er en norsk udbyder, er deres fonde ekstremt populære i Danmark, fordi de er godkendt som aktieindkomst på Skats positivliste. De akkumulerende fonde sikrer, at du slipper for at geninvestere små udbytter manuelt.
+---
+
+## Liste over akkumulerende (lagerbeskattede) fonde
+
+Akkumulerende fonde udbetaler ikke udbytte til din konto, men geninvesterer automatisk pengene direkte i de underliggende aktier. I et almindeligt frit depot er de sjældent optimale på grund af den årlige lagerbeskatning, men jeg overvejer dem i følgende setups:
+
+* **Pensionsdepoter:** Ratepensioner, livrenter og Aldersopsparing er tvungen lagerbeskatning (PAL-skat på 15,3 %). Her sparer de akkumulerende fonde dig for besværet og kurtagen ved manuelt at skulle geninvestere småbytter fra udbytte.
+* **Frie midler for mindregårige og barnets frikort:** Visse akkumulerende fonde beskattes som kapitalindkomst. Det betyder, at dine børn kan bruge deres personlige frikort til at dække skatten, så de reelt kan investere helt skattefrit for frie midler.
+* **Virksomhedsskatteordningen (VSO):** Investerer du overskydende midler gennem et selskab i VSO, er akkumulerende fonde ofte det foretrukne valg.
+
+> **Sådan finder du dem i databasen:** Vælg **"Lagerskat"** i filteret over tabellen. Læg her særligt mærke til de populære fonde fra norske *Storebrand* – de udbetaler et absolut minimalt teknisk udbytte, hvilket kan gøre dem attraktive.
 
 ---
 
 ## Hvad skal du holde øje med? (ÅOP og Benchmark)
 
-Når du sammenligner passive fonde, er der to nøgletal, der reelt betyder noget:
+Når du har besluttet dig for dit skatteprincip, skal du reelt kun kigge på to parametre for at fælde dom over en passiv fond:
 
 ### 1. Årlige Omkostninger i Procent (ÅOP)
-Da passive fonde blot følger et indeks mekanisk, betaler du ikke for "geniale genveje", men for ren administration. Derfor skal ÅOP være så lav som overhovedet muligt. En god dansk passiv fond bør ligge et godt stykke under 1,0 %.
 
-Her er de årlige omkostninger for de **udbyttebetalende** globale fonde:
+Da en passiv fond blot følger et indeks mekanisk, betaler du ikke for "geniale genveje" eller dyre forvaltnere i jakkesæt. Du betaler udelukkende for ren it og administration. Derfor skal ÅOP være så lav som overhovedet muligt. En god, dansk passiv fond bør ligge i omegnet af 0,35 % til 0,50 %. 
 
-{% for f in distribuerende %}
-- [{{ f.name }}]({{ f.morningstar_url }}) — **{{ f.aaop }} ÅOP**
-{%- endfor %}
+*Sammenligning med udlandet:* Du har måske bemærket, at udenlandske ETF'er kan fås helt ned til 0,07 % i ÅOP. Grunden til, at de danske fonde koster en smule mere, er det administrative arbejde, udbyderne skal lave for at overholde de særprægede danske udbytte- og skatteregler. For frie midler opvejer værdien af realisationsbeskatningen dog næsten altid denne mindre prisforskel.
 
-Her er de årlige omkostninger for de **akkumulerende** globale fonde:
-
-{% for f in akkumulerende %}
-- [{{ f.name }}]({{ f.morningstar_url }}) — **{{ f.aaop }} ÅOP**
-{%- endfor %}
-
-*Sammenligning med udlandet:* Til sammenligning kan du købe udenlandske, børshandlede fonde (ETF'er) med en ÅOP helt ned til 0,07 % - 0,12 %. Grunden til, at de danske fonde koster en smule mere i administration (typisk 0,40 % - 0,50 %), er de administrative omkostninger forbundet med at overholde de danske udbytte- og skatteregler. For mange investorer opvejer fordelen ved realisationsbeskatning dog denne prisforskel.
+**Gør det nemt:** Klik på **"ÅOP ↕"** i tabellen øverst på siden for øjeblikkeligt at sortere fondene, så de billigste ligger i toppen.
 
 ### 2. Benchmark (Hvilket indeks følger fonden?)
-Selvom alle fondene kalder sig "globale", er der nuancer i, hvad de definerer som *verden*. Det indeks, fonden spejler, kaldes dens benchmark:
+Selvom alle fondene kalder sig "globale", skal du være vågen. De definerer nemlig ikke "verden" på samme måde. Deres *benchmark* (det indeks de spejler) bestemmer din spredning:
 
-{% for f in distribuerende %}
-- [{{ f.name }}]({{ f.morningstar_url }}) — Benchmark: `{{ f.index }}`
-{%- endfor %}
+* **MSCI World:** Dækker udelukkende store og mellemstore virksomheder i den *udviklede* del af verden (f.eks. USA, Europa, Japan). Vælger du dette benchmark, fravælger du bevidst udviklingslandene.
+* **MSCI Emerging Markets:** Dækker udelukkende *udviklingslande* (f.eks. Kina, Indien, Brasilien). Bruges typisk som en supplerende byggeklods.
+* **MSCI ACWI (All Country World Index):** Indeholder *både* i-lande og udviklingslande. Det er det absolut bredeste og mest rå fundament, du kan vælge, hvis du vil sove trygt om natten i troen på, at du ejer hele verdensøkonomien.
 
-Kort fortalt opdeles verdensindekserne typisk fra MSCI således:
-* **MSCI World:** Dækker udelukkende virksomheder i den *udviklede* del af verden (f.eks. USA, Europa, Japan).
-* **MSCI Emerging Markets:** Dækker udelukkende *udviklingslande* (f.eks. Kina, Indien, Brasilien).
-* **MSCI ACWI (All Country World Index):** Indeholder *både* udviklede lande og udviklingslande. Det er det absolut bredeste fundament, du kan vælge.
-
-Hvis du vælger en fond, der følger MSCI World, fravælger du bevidst udviklingslandene. Vælger du en fond som *Sparindex INDEX Globale Aktier*, følger den MSCI ACWI-princippet og dækker dermed hele den globale økonomi bredest muligt.
+Når du kigger i min tabel, så hold øje med, om fonden følger et rent *World*-indeks eller et *ACWI/All Cap*-indeks, så du ved præcis, om du får hele pakken eller kun de rige lande.
 
 ---
 
@@ -139,8 +114,8 @@ Hvis du vælger en fond, der følger MSCI World, fravælger du bevidst udvikling
 
 Valget af den bedste passive investeringsforening afhænger fuldstændig af dit depot:
 
-1. **Investerer du for frie midler?** Så vil de fleste have størst fordel af en **dansk, udbyttebetalende fond** (som Sparindex eller Danske Invest) for at opnå realisationsbeskatning og derved lade den udskudte skat arbejde for sig.
-2. **Investerer du via Aktiesparekonto eller pension?** Så er der tvungen lagerbeskatning. Her bør du kigge mod de markant billigere udenlandske ETF'er (eller akkumulerende fonde som Storebrand) for at presse ÅOP i bund.
+1. **Investerer du for frie midler?** Så vil de fleste have størst fordel af en **dansk, udbyttebetalende fond** (som f.eks. de brede løsninger fra Sparindex eller Danske Invest) for at opnå realisationsbeskatning og lade skatteudskydelsen booste formuen.
+2. **Investerer du via Aktiesparekonto eller pension?** Så er der alligevel tvungen lagerbeskatning. Her bør du i stedet kigge mod de markant billigere udenlandske ETF'er (eller de billige akkumulerende fonde) for at presse de årlige omkostninger helt i bund.
 
 ---
 

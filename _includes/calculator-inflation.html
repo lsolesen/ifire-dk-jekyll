@@ -1,34 +1,213 @@
-<form class="calculator" id="inflation_calculator">
-    <fieldset>
-        <legend>Beregn konsekvensen af inflation på din opsparing</legend>
-        <div class="form-group">
-            <label>Nuværende opsparing
-                <input type="number" min="0" max="10000000" placeholder="fx 10000" name="savings" required>
-            </label>
+<!-- Styling til at fjerne standard input-pile og styre responsivt layout -->
+<style>
+  .inf-input-clean::-webkit-outer-spin-button,
+  .inf-input-clean::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .inf-input-clean[type=number] {
+    -moz-appearance: textfield;
+  }
+  
+  /* Responsivt grid til input-feltet */
+  .inf-input-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 12px;
+  }
+
+  /* Responsivt grid til dashboard-kortene */
+  .inf-cards-grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  /* Mobil-tilpasninger (Breakpoints) */
+  @media (max-width: 680px) {
+    .inf-input-grid {
+      grid-template-columns: 1fr;
+    }
+    .inf-cards-grid-3 {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- Inflationsberegner Dashboard Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 750px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.025);">
+  
+  <!-- Header -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em;">Inflationsberegner</h3>
+    <span style="font-size: 11px; color: #94a3b8; font-weight: 500; letter-spacing: 0.02em;">Udhuling af købekraft</span>
+  </div>
+
+  <!-- Kompakt, lys grågrå inputramme -->
+  <div style="background-color: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+    <div class="inf-input-grid">
+      
+      <!-- Input 1: Nuværende Opsparing -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Nuværende opsparing</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="infSavings" value="{{ include.opsparing | default: 10000 }}" step="1000" class="inf-input-clean" style="width: 100% !important; padding: 8px 30px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
         </div>
-        <div class="form-group">
-            <label>Inflation (%)
-                <input type="number" min="0" max="100" placeholder="fx 2" value="2" name="inflation">
-            </label>
+      </div>
+      
+      <!-- Input 2: Inflation % -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Inflation pr. år</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="infRate" value="{{ include.inflation | default: 2.0 }}" step="0.1" class="inf-input-clean" style="width: 100% !important; padding: 8px 24px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">%</span>
         </div>
-        <div class="form-group">
-            <label>Tidshorisont (år)
-                <input type="number" min="0" max="100" placeholder="fx 10" value="10" name="years">
-            </label>
+      </div>
+
+      <!-- Input 3: Tidshorisont -->
+      <div>
+        <label style="display: block; font-weight: 700; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em;">Tidshorisont</label>
+        <div style="position: relative; display: flex; align-items: center;">
+          <input type="number" id="infYears" value="{{ include.aar | default: 10 }}" step="1" class="inf-input-clean" style="width: 100% !important; padding: 8px 30px 8px 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 38px;">
+          <span style="position: absolute; right: 10px; font-size: 12px; font-weight: 700; color: #64748b; pointer-events: none;">år</span>
         </div>
-        <input type="submit" value="Beregn">
-    </fieldset>
-    <fieldset class="results">
-        <legend>Opsparing efter inflation</legend>
-        <div class="form-group">
-            <label>Prisstigninger æder (kr)
-                <input type="number" name="price_increases" disabled>
-            </label>
-        </div>
-        <div class="form-group">
-            <label>Opsparing ender på (kr)
-                <input type="number" name="savings_after" disabled>
-            </label>
-        </div>
-    </fieldset>
-</form>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Dashboard Cards (3 Columns) -->
+  <div class="inf-cards-grid-3" style="margin-bottom: 16px;">
+    
+    <!-- Nominel værdi -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Nominelt beløb</div>
+      <div id="valNominal" style="font-size: 16px; font-weight: 800; color: #0f172a; margin-top: 4px;">0 kr.</div>
+    </div>
+
+    <!-- Prisstigninger æder -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Tabt til inflation</div>
+      <div id="valEaten" style="font-size: 16px; font-weight: 800; color: #ef4444; margin-top: 4px;">0 kr.</div>
+    </div>
+
+    <!-- Opsparing ender på -->
+    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 2px rgba(0,0,0,0.02); border-bottom: 3px solid #ea580c;">
+      <div style="font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase;">Reel købekraft</div>
+      <div id="valFinal" style="font-size: 16px; font-weight: 800; color: #ea580c; margin-top: 4px;">0 kr.</div>
+    </div>
+
+  </div>
+
+  <!-- Live fremskrivningsgraf (Højde: 280px) -->
+  <div style="position: relative; height: 280px; width: 100% !important; margin-bottom: 0;">
+    <canvas id="inflationChart"></canvas>
+  </div>
+
+</div>
+
+<!-- Load Chart.js fra CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Interactive Engine -->
+<script>
+(function() {
+  const infSavings = document.getElementById('infSavings');
+  const infRate = document.getElementById('infRate');
+  const infYears = document.getElementById('infYears');
+
+  // KPI Outputs
+  const valNominal = document.getElementById('valNominal');
+  const valEaten = document.getElementById('valEaten');
+  const valFinal = document.getElementById('valFinal');
+
+  const ctx = document.getElementById('inflationChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val) + ' kr.';
+  }
+
+  function runCalculation() {
+    // 1. Grib inputs
+    const savings = parseFloat(infSavings.value) || 0;
+    const rate = (parseFloat(infRate.value) || 0) / 100;
+    const years = Math.max(1, parseInt(infYears.value) || 1);
+
+    // 2. Matematisk beregning (Officiel formel for tab af købekraft)
+    // Købekraft = Beløb / (1 + r)^n
+    const finalValue = Math.round(savings / Math.pow(1 + rate, years));
+    const eatenValue = savings - finalValue;
+
+    // Opdater KPI-kortene live
+    valNominal.innerText = formatDKK(savings);
+    valEaten.innerText = '- ' + formatDKK(eatenValue);
+    valFinal.innerText = formatDKK(finalValue);
+
+    // 3. Generer data til grafen (år for år)
+    const chartLabels = ['I dag'];
+    const chartData = [savings];
+
+    for (let y = 1; y <= years; y++) {
+      chartLabels.push('År ' + y);
+      chartData.push(Math.round(savings / Math.pow(1 + rate, y)));
+    }
+
+    // 4. Tegn / Opdater Chart.js grafen
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: chartLabels,
+        datasets: [{
+          label: 'Din opsparings købekraft',
+          data: chartData,
+          borderColor: '#ea580c', // Flot orange linje
+          backgroundColor: '#ea580c10',
+          fill: true,
+          tension: 0.1,
+          borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                return 'Købekraft: ' + formatDKK(context.raw);
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            ticks: {
+              font: { size: 9, family: 'system-ui' },
+              callback: function(value) { return formatDKK(value); }
+            }
+          },
+          x: {
+            ticks: { font: { size: 9, family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Tilføj live event-lyttere til alle felter
+  infSavings.addEventListener('input', runCalculation);
+  infRate.addEventListener('input', runCalculation);
+  infYears.addEventListener('input', runCalculation);
+
+  // Kør beregningen første gang ved indlæsning
+  runCalculation();
+})();
+</script>
+<!-- Inflationsberegner Dashboard Ends Here -->

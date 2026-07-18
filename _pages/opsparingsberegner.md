@@ -42,7 +42,17 @@ Det er let at lade sig rive lidt med at sine egne forventninger til, hvor god fo
 
 ***
 
-{% include compound-interest-calculator.html %}
+Her har jeg lavet et lille eksempel - om pengene er investeret i aktier eller obligationer.
+
+{% include renters-rente-sammenlign.html 
+   years="25" 
+   s1_base="10000" 
+   s1_deposit="100" 
+   s1_rate="7" 
+   s2_base="10000" 
+   s2_deposit="100" 
+   s2_rate="2" 
+%}
 
 ***
 

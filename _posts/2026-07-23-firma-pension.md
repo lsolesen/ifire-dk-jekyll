@@ -8,7 +8,45 @@ author: "ifire"
 seo_keyword: "sådan optimerer du din firmapension billige indeksfonde"
 ---
 
-Når man træder ind i FIRE-bevægelsen (Financial Independence, Retire Early), lærer man hurtigt de basale spilleregler: Minimer dine omkostninger, maksimer din opsparingsrate, og smid pengene i brede, billige globale aktieindeksfonde. 
+Når man træder ind i FIRE-bevægelsen (Financial Independence, Retire Early), lærer man hurtigt de basale spilleregler: Minimer dine omkostninger, maksimer din opsparingsrate, og smid pengene i brede, billige globale aktieindeksfonde.
+
+***
+
+Hvis du vil have omkostningerne helt i bund på din Aktiesparekonto, er Amundis nye prisbasker et fremragende valg:
+
+{% include fond-skat-kort.html ticker="WEBN" %}
+
+Vil du derimod investere dine frie midler og undgå lagerskatten, bør du kigge mod de klassiske danske foreninger:
+
+{% include fond-skat-kort.html ticker="SPVIGAKL" %}
+
+Og skal der investeres i børnenes navne for at ramme frikortet, skifter vi fuldstændig spor:
+
+{% include fond-skat-kort.html ticker="NNGBLINDX" %}
+
+***
+
+Jeg har valgt at fordele min portefølje til frie midler således for at få den maksimale skatteudskydelse:
+
+{% include depottype-kort.html type="frie_midler" allocation="SPIIMA:88,STIIAM:12" %}
+
+***
+
+### 1. Start altid med din Aktiesparekonto
+
+Her får du overblikket over reglerne for ASK, samt hvilke fonde der i dag giver den absolut billigste adgang:
+
+{% include depottype-kort.html type="ask" %}
+
+---
+
+### 2. Hvis du investerer til dine børn
+
+Hvis du vil gå udenom de stramme regler på børneopsparingen, kan du udnytte frikort-hacket:
+
+{% include depottype-kort.html type="frikort" %}
+
+***
 
 Du har helt sikkert styr på din Nordnet-månedsopsparing, og din aldersopsparing kører på skinner. Men hvad med din største, låste pengetank? 
 
@@ -41,6 +79,8 @@ Jeg har valgt at fordele min pensionsopsparing således:
 
 * **88% i Velliv Globale Aktier Index** (ÅOP på kun **0,27%**)
 * **12% i Velliv Emerging Markets Index Aktier** (ÅOP på **0,43%**)
+
+{% include depottype-kort.html type="pension" allocation="VELLIVG:88,VELLIVE:12" %}
 
 Tilsammen giver det mig en super skarp, bred eksponering mod globale aktier i både den udviklede verden og de nye markeder. Det dækker både *large cap* (store virksomheder) og *mid cap* (mellemstore virksomheder). 
 

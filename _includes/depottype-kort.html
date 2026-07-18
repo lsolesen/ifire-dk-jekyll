@@ -1,0 +1,341 @@
+{% assign type = include.type | downcase %}
+
+<!-- CSS Styling til Depotkortet -->
+<style>
+  .dtk-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 16px;
+    margin: 24px 0;
+    font-family: system-ui, -apple-system, sans-serif;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .dtk-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 10px;
+    margin-bottom: 12px;
+  }
+  .dtk-badge {
+    font-size: 10px;
+    font-weight: 800;
+    padding: 4px 10px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .dtk-title {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 800;
+    color: #0f172a;
+  }
+  .dtk-meta-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    background: #f8fafc;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #f1f5f9;
+    margin-bottom: 14px;
+    font-size: 12px;
+  }
+  .dtk-meta-item strong {
+    color: #475569;
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+  .dtk-meta-item span {
+    font-weight: 700;
+    color: #0f172a;
+  }
+  .dtk-section-title {
+    font-size: 11px;
+    font-weight: 800;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 8px;
+  }
+  .dtk-fund-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .dtk-fund-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+  .dtk-fund-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .dtk-fund-name {
+    font-weight: 700;
+    color: #1e293b;
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .dtk-fund-index {
+    font-size: 11px;
+    color: #64748b;
+    font-style: italic;
+    margin-top: 1px;
+    margin-bottom: 2px;
+  }
+  .dtk-fund-aop {
+    font-weight: 800;
+    color: #475569;
+    background: #f1f5f9;
+    padding: 3px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+    letter-spacing: -0.01em;
+  }
+  .dtk-weighted-total-box {
+    margin-top: 10px;
+    padding: 10px 12px;
+    background: #f1f5f9;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12.5px;
+    font-weight: 700;
+    color: #1e293b;
+    border: 1px solid #e2e8f0;
+  }
+
+  /* Specifikke farvetemaer */
+  .dtk-theme-ask .dtk-badge { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+  .dtk-theme-ask .dtk-header { border-bottom-color: #3b82f6; }
+  .dtk-theme-frie .dtk-badge { background: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; }
+  .dtk-theme-frie .dtk-header { border-bottom-color: #22c55e; }
+  .dtk-theme-frikort .dtk-badge { background: #fef3c7; color: #b45309; border: 1px solid #fde68a; }
+  .dtk-theme-frikort .dtk-header { border-bottom-color: #f59e0b; }
+  .dtk-theme-pension .dtk-badge { background: #f3e8ff; color: #6b21a8; border: 1px solid #e9d5ff; }
+  .dtk-theme-pension .dtk-header { border-bottom-color: #a855f7; }
+  .dtk-theme-alders .dtk-badge { background: #e0e7ff; color: #4338ca; border: 1px solid #c7d2fe; }
+  .dtk-theme-alders .dtk-header { border-bottom-color: #4f46e5; }
+  .dtk-theme-borne .dtk-badge { background: #ccfbf1; color: #0f766e; border: 1px solid #99f6e4; }
+  .dtk-theme-borne .dtk-header { border-bottom-color: #0d9488; }
+</style>
+
+<!-- Konfiguration af depotdata -->
+{% if type == "ask" %}
+  {% assign theme_class = "dtk-theme-ask" %}
+  {% assign title = "Aktiesparekonto (ASK)" %}
+  {% assign skattesats = "17% (Flad særskat)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "174.200 kr. (2026)" %}
+  {% assign beskrivelse = "Det absolut bedste sted at starte. Alt på kontoen lagerbeskattes til en lav særskat. Du bør altid maxe dette depot ud med billige, udenlandske ETF'er før noget andet." %}
+{% elsif type == "frie_midler" %}
+  {% assign theme_class = "dtk-theme-frie" %}
+  {% assign title = "Frie Midler (Almindeligt Depot)" %}
+  {% assign skattesats = "27% / 42% (Progressiv aktieskat)" %}
+  {% assign princip = "Realisation (Anbefalet)" %}
+  {% assign loft = "Intet loft" %}
+  {% assign beskrivelse = "Dit standarddepot til penge, du har stående udover pension og ASK. Her bør du primært jage realisationsbeskattede fonde for at udskyde skatten og maksimere renters rente." %}
+{% elsif type == "frikort" %}
+  {% assign theme_class = "dtk-theme-frikort" %}
+  {% assign title = "Frie Midler (Mindreårige)" %}
+  {% assign skattesats = "0% (Op til barnets personfradrag)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "Barnets uudnyttede frikort" %}
+  {% assign beskrivelse = "Investering i barnets eget navn på et almindeligt depot. Ved at vælge fonde, der beskattes som kapitalindkomst, modregnes afkastet i frikortet, og du får 100% skattefrit afkast." %}
+{% elsif type == "pension" %}
+  {% assign theme_class = "dtk-theme-pension" %}
+  {% assign title = "Pensionsmidler" %}
+  {% assign skattesats = "15,3% (PAL-skat)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "Ingen grænse" %}
+  {% assign beskrivelse = "Depot til firmabetalt pension. Lagerbeskattet. Jeg vælger selv den billigst mulige aktie-portefølje." %}
+{% elsif type == "aldersopsparing" %}
+  {% assign theme_class = "dtk-theme-alders" %}
+  {% assign title = "Aldersopsparing (AOS)" %}
+  {% assign skattesats = "15,3% (PAL-skat)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "9.100 kr. / 61.700 kr. (2026)" %}
+  {% assign beskrivelse = "Privat pensionsopsparing uden fradrag i indbetalingen, men til gengæld fuldstændig skattefri udbetaling. Da depotet altid er tvunget i lagerbeskatning, optimeres det bedst med udenlandske ETF'er på positivliste." %}
+{% elsif type == "borneopsparing" %}
+  {% assign theme_class = "dtk-theme-borne" %}
+  {% assign title = "Klassisk Børneopsparing" %}
+  {% assign skattesats = "0% (100% skattefri)" %}
+  {% assign princip = "Skattefri" %}
+  {% assign loft = "6.000 kr. årligt (Max 72.000 kr.)" %}
+  {% assign beskrivelse = "Den absolut mest attraktive og låste opsparing til dine børn. Alt afkast og udbytte er 100% skattefrit i hele bindingsperioden. Her kan du frit vælge brede, billige indeksfonde eller ETF'er." %}
+{% endif %}
+
+<div class="dtk-card {{ theme_class }}" markdown="0">
+  
+  <!-- Header -->
+  <div class="dtk-header">
+    <h4 class="dtk-title">{{ title }}</h4>
+    <span class="dtk-badge">{{ princip }}</span>
+  </div>
+
+  <!-- Beskrivelse -->
+  <p style="font-size: 13px; line-height: 1.5; margin: 0 0 12px 0; color: #334155;">
+    {{ beskrivelse }}
+  </p>
+
+  <!-- Skatte- og Depotregler -->
+  <div class="dtk-meta-grid">
+    <div class="dtk-meta-item">
+      <strong>Skattesats</strong>
+      <span>{{ skattesats }}</span>
+    </div>
+    <div class="dtk-meta-item">
+      <strong>Indskudsloft</strong>
+      <span>{{ loft }}</span>
+    </div>
+  </div>
+
+  <!-- SCENARIE A: VIS DIN VALGTE VEJEDE ALLOKERING -->
+  {% if include.allocation %}
+  {% assign allocs = include.allocation | split: "," %}
+  
+  <div class="dtk-section-title">Min valgte fordeling & vægtning:</div>
+  
+  <!-- Visuel Stacked Progress Bar baseret på procenter -->
+  <div style="display: flex; height: 10px; border-radius: 6px; overflow: hidden; margin-bottom: 12px; background: #e2e8f0;">
+    {% assign colors = "#3b82f6,#10b981,#f59e0b,#ec4899,#8b5cf6" | split: "," %}
+    {% assign color_idx = 0 %}
+    {% for alloc in allocs %}
+      {% assign parts = alloc | split: ":" %}
+      {% assign pct = parts[1] | plus: 0 %}
+      <div style="width: {{ pct }}%; background-color: {{ colors[color_idx] }}; height: 100%;"></div>
+      {% assign color_idx = color_idx | plus: 1 %}
+      {% if color_idx >= 5 %}{% assign color_idx = 0 %}{% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Dynamisk allokerings-kommentar placeret præcis under baren -->
+  {% if include.comment %}
+  <div style="font-size: 12.5px; color: #64748b; margin: -4px 0 14px 0; font-weight: 500; line-height: 1.4;">
+    {{ include.comment }}
+  </div>
+  {% endif %}
+
+  <!-- Liste over de valgte fonde med live-vægtet ÅOP beregning -->
+  <div class="dtk-fund-list">
+    {% assign total_weighted_aop = 0.0 %}
+    
+    {% for alloc in allocs %}
+      {% assign parts = alloc | split: "," | first | split: ":" %}
+      {% assign target_ticker = parts[0] | strip %}
+      {% assign pct = parts[1] | plus: 0 %}
+      
+      {% assign found_fund = nil %}
+      {% for fund in site.data.fonde %}
+        {% if fund.ticker == target_ticker %}
+          {% assign found_fund = fund %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if found_fund %}
+        {% assign aop_pure = found_fund.aop | replace: "%", "" | strip | plus: 0 %}
+        {% assign contrib = aop_pure | times: pct %}
+        {% assign total_weighted_aop = total_weighted_aop | plus: contrib %}
+        
+        <div class="dtk-fund-item" style="border-left: 4px solid {{ colors[forloop.index0] }};">
+          <div style="display: flex; align-items: center; flex-grow: 1;">
+            <div style="font-size: 22px; font-weight: 800; color: {{ colors[forloop.index0] }}; padding-right: 14px; min-width: 55px; line-height: 1; display: flex; align-items: center;">
+              {{ pct }}%
+            </div>
+            <div class="dtk-fund-info">
+              <span class="dtk-fund-name">
+                {{ found_fund.navn }}
+                <span style="font-size: 9.5px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 1px 5px; border-radius: 3px; text-transform: uppercase; margin-left: 4px; border: 1px solid #e2e8f0; font-family: system-ui, sans-serif;">{{ found_fund.ticker }}</span>
+              </span>
+              <span class="dtk-fund-index">Tracking: {{ found_fund.indeks }}</span>
+              <div style="font-size: 11px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 1px;">
+                <span>{%- if found_fund.skatteprincip == "Realisation" -%}⏳ Realisation{%- else -%}📊 Lagerskat{%- endif -%}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{%- if found_fund.skattetype == "Aktieskat" -%}📈 Aktieskat{%- else -%}💼 Kapitalindkomst{%- endif -%}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{%- if found_fund.udbytte contains "Akkumulerende" -%}🔄 Akk.{%- else -%}💰 Udbytte{%- endif -%}</span>
+              </div>
+            </div>
+          </div>
+          <span class="dtk-fund-aop">{{ found_fund.aop }}</span>
+        </div>
+      {% endif %}
+    {% endfor %}
+    
+    <!-- Udregn og vis den samlede vægtede ÅOP -->
+    {% assign final_weighted_aop = total_weighted_aop | divided_by: 100.0 %}
+    <div class="dtk-weighted-total-box">
+      <span style="color: #475569; font-size: 11px; text-transform: uppercase; letter-spacing: 0.02em;">Samlet pris for dette setup:</span>
+      <span style="color: #0f172a; font-size: 13px;">Vægtet ÅOP: <strong>{{ final_weighted_aop | round: 2 }}%</strong></span>
+    </div>
+  </div>
+
+  <!-- SCENARIE B: STANDARD FUNKTION -->
+  {% else %}
+  <div class="dtk-section-title">Anbefalede fonde fra kartoteket:</div>
+  <div class="dtk-fund-list">
+    {% assign match_count = 0 %}
+    {% for fund in site.data.fonde %}
+      {% assign is_match = false %}
+      
+      {% if type == "ask" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif type == "frie_midler" and fund.skatteprincip == "Realisation" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif type == "frikort" and fund.skattetype == "Kapitalbeskatning" %}
+        {% assign is_match = true %}
+      {% elsif type == "pension" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif type == "aldersopsparing" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif type == "borneopsparing" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% endif %}
+
+      {% if is_match %}
+        {% assign match_count = match_count | plus: 1 %}
+        <div class="dtk-fund-item">
+          <div class="dtk-fund-info">
+            <span class="dtk-fund-name">
+              {{ fund.navn }}
+              <span style="font-size: 9.5px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 1px 5px; border-radius: 3px; text-transform: uppercase; margin-left: 4px; border: 1px solid #e2e8f0; font-family: system-ui, sans-serif;">{{ fund.ticker }}</span>
+            </span>
+            <span class="dtk-fund-index">Tracking: {{ fund.indeks }}</span>
+            <div style="font-size: 11px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 1px;">
+              <span>{%- if fund.skatteprincip == "Realisation" -%}⏳ Realisation{%- else -%}📊 Lagerskat{%- endif -%}</span>
+              <span style="color: #cbd5e1;">&middot;</span>
+              <span>{%- if fund.skattetype == "Aktieskat" -%}📈 Aktieskat{%- else -%}💼 Kapitalindkomst{%- endif -%}</span>
+              <span style="color: #cbd5e1;">&middot;</span>
+              <span>{%- if fund.udbytte contains "Akkumulerende" -%}🔄 Akk.{%- else -%}💰 Udbytte{%- endif -%}</span>
+            </div>
+          </div>
+          <span class="dtk-fund-aop">{{ fund.aop }}</span>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    {% if match_count == 0 %}
+      <div style="font-size: 12px; color: #64748b; font-style: italic;">Ingen fonde i kartoteket matcher i øjeblikket denne depottype.</div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>

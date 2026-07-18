@@ -1,0 +1,391 @@
+<!-- Hent Chart.js fra et sikkert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+  .lfcal-clean-input::-webkit-outer-spin-button,
+  .lfcal-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .lfcal-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .lfcal-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .lfcal-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+
+  .lfcal-input-group-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .lfcal-group-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #d97706; /* Kaffe/Amber tema */
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+  }
+
+  .lfcal-field {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .lfcal-field label {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 11px;
+    color: #475569;
+  }
+
+  .lfcal-input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .lfcal-input-box input {
+    width: 100% !important;
+    padding: 4px 32px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 30px;
+  }
+
+  .lfcal-input-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* Det professionelle 2x3 Dashboard Grid */
+  .lfcal-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .lfcal-stat-tile {
+    border-radius: 6px;
+    padding: 8px 12px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .lfcal-stat-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    letter-spacing: 0.02em;
+  }
+
+  .lfcal-stat-value {
+    font-size: 14px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .lfcal-chart-panel {
+    min-height: 280px;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 12px;
+  }
+
+  .lfcal-info-box {
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: #92400e;
+    background-color: #fffbeb;
+    border: 1px solid #fde68a;
+  }
+
+  @media (max-width: 768px) {
+    .lfcal-stats-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 820px) {
+    .lfcal-inputs-grid { grid-template-columns: 1fr; gap: 12px; }
+  }
+</style>
+
+<div markdown="0" class="lfcal-full-wrapper">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">Latte-Faktor Dashboard</h3>
+    <span style="font-size: 10px; color: #d97706; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Forbrug vs Investering</span>
+  </div>
+
+  <!-- DEFINITIONSBOKS -->
+  <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 10px 12px; margin-bottom: 16px; font-size: 12px; color: #475569; line-height: 1.45;">
+    💡 <strong>Købekraft vs. Kroner på kontoen:</strong> Den <strong>grønne række</strong> trækker inflationen fra, så du ser værdien målt i, hvad du rent faktisk kan købe for pengene i dag. Den <strong>blå række</strong> viser det nøgne tal, der vil stå på din konto i fremtiden. **Alternativomkostningen** viser den samlede formue, du går glip af ved at vælge forbruget.
+  </div>
+
+  <!-- INPUTS -->
+  <div class="lfcal-inputs-grid">
+    
+    <!-- KOLONNE 1: VANEN -->
+    <div class="lfcal-input-group-box">
+      <div class="lfcal-group-title">1. Din faste vane</div>
+      <div class="lfcal-field">
+        <label>Pris pr. gang / styk</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.price | default: 40 }}" step="5" class="lfcal-clean-input js-lf-price"><span>kr.</span></div>
+      </div>
+      <div class="lfcal-field">
+        <label>Antal gange om måneden</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.count | default: 20 }}" class="lfcal-clean-input js-lf-count"><span>gange</span></div>
+      </div>
+      <div class="lfcal-field">
+        <label>Hvor mange år stoppes vanen?</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.yearsHabit | default: 1 }}" class="lfcal-clean-input js-lf-years-habit"><span>år</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 2: FORMUEVÆKST -->
+    <div class="lfcal-input-group-box">
+      <div class="lfcal-group-title">2. Formuevækst</div>
+      <div class="lfcal-field">
+        <label>Investeringsperiode i alt</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.yearsTotal | default: 20 }}" class="lfcal-clean-input js-lf-years-total"><span>år</span></div>
+      </div>
+      <div class="lfcal-field">
+        <label>Aktieafkast (Forventet)</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.investmentReturn | default: 7.5 }}" step="0.1" class="lfcal-clean-input js-lf-return"><span>%</span></div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 3: MARKEDET -->
+    <div class="lfcal-input-group-box">
+      <div class="lfcal-group-title">3. Inflation</div>
+      <div class="lfcal-field">
+        <label>Forventet Inflation</label>
+        <div class="lfcal-input-box"><input type="number" value="{{ include.inflation | default: 2.5 }}" step="0.1" class="lfcal-clean-input js-lf-inflation"><span>%</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- DET STRUKTUREREDE 2x3 RESULTAT-GRID -->
+  <div class="lfcal-stats-grid">
+    
+    <!-- RÆKKE 1: KØBEKRAFT I DAG / EFTER INFLATION (Grøn tone) -->
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #16a34a; background-color: #f0fdf4;">
+      <span class="lfcal-stat-title" style="color: #166534;">Mnd. udgift nu</span>
+      <span class="js-lf-stat-monthly lfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #15803d; background-color: #f0fdf4;">
+      <span class="lfcal-stat-title" style="color: #166534;">Indbetaling (Købekraft i dag)</span>
+      <span class="js-lf-stat-spent-real lfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #166534; background-color: #f0fdf4;">
+      <span class="lfcal-stat-title" style="color: #166534;">Investeret (Købekraft i dag)</span>
+      <span class="js-lf-stat-invest-real lfcal-stat-value" style="color:#14532d;">0 kr.</span>
+    </div>
+
+    <!-- RÆKKE 2: KRONER PÅ KONTOEN / UDEN INFLATIONSTJEK (Blå/Rød tone) -->
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #2563eb; background-color: #f0f9ff;">
+      <span class="lfcal-stat-title" style="color: #1e40af;">Årlig udgift</span>
+      <span class="js-lf-stat-annual lfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #1d4ed8; background-color: #f0f9ff;">
+      <span class="lfcal-stat-title" style="color: #1e40af;">Indbetaling (Kroner på kontoen)</span>
+      <span class="js-lf-stat-total-spent lfcal-stat-value">0 kr.</span>
+    </div>
+    <div class="lfcal-stat-tile" style="border-left: 3px solid #dc2626; background-color: #fef2f2;">
+      <span class="lfcal-stat-title" style="color: #991b1b;">Alternativomkostning (Tabt frihed)</span>
+      <span class="js-lf-stat-opportunity lfcal-stat-value" style="color:#991b1b;">0 kr.</span>
+    </div>
+
+  </div>
+
+  <!-- LIVE GRAF PANEL -->
+  <div class="lfcal-chart-panel">
+    <canvas class="js-lf-canvas" style="width:100%; height:100%; max-height:280px;"></canvas>
+  </div>
+  
+  <!-- DYNAMISK KONKLUSIONSKORT -->
+  <div class="lfcal-info-box js-lf-summary-text">
+    Kører simulation...
+  </div>
+
+</div>
+
+<!-- Præcis og fuldstændig fejlfri simulationsmotor -->
+<script>
+(function() {
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.lfcal-full-wrapper').forEach(function(widget) {
+    let chartInstance = null;
+
+    function runEngine() {
+      const price = parseFloat(widget.querySelector('.js-lf-price').value) || 0;
+      const count = parseFloat(widget.querySelector('.js-lf-count').value) || 0;
+      
+      let yearsHabit = parseInt(widget.querySelector('.js-lf-years-habit').value) || 0;
+      let yearsTotal = parseInt(widget.querySelector('.js-lf-years-total').value) || 0;
+      
+      const nominalReturn = parseFloat(widget.querySelector('.js-lf-return').value) || 0;
+      const inflation = parseFloat(widget.querySelector('.js-lf-inflation').value) || 0;
+
+      if (yearsTotal < yearsHabit) {
+        yearsTotal = yearsHabit;
+        widget.querySelector('.js-lf-years-total').value = yearsTotal;
+      }
+
+      const monthlyAmount = price * count;
+      const annualContribution = monthlyAmount * 12;
+
+      let currentInvestNom = 0;
+      const labelsYears = [];
+      const dataSpentPlot = [];
+      const dataInvestRealPlot = [];
+
+      for (let y = 0; y <= yearsTotal; y++) {
+        labelsYears.push('År ' + y);
+        
+        let currentInvestReal = currentInvestNom / Math.pow(1 + inflation / 100, y);
+        let activeIndbetalingReal = (annualContribution * Math.min(y, yearsHabit)) / Math.pow(1 + inflation / 100, Math.min(y, yearsHabit));
+        
+        dataInvestRealPlot.push(Math.round(currentInvestReal));
+        dataSpentPlot.push(Math.round(activeIndbetalingReal));
+
+        if (y < yearsTotal) {
+          if (y < yearsHabit) {
+            currentInvestNom = currentInvestNom * (1 + nominalReturn / 100) + annualContribution;
+          } else {
+            currentInvestNom = currentInvestNom * (1 + nominalReturn / 100);
+          }
+        }
+      }
+
+      const finalInvestNom = currentInvestNom;
+      const finalInvestReal = dataInvestRealPlot[yearsTotal];
+      const totalIndbetalingNom = annualContribution * yearsHabit;
+      const totalIndbetalingReal = dataSpentPlot[yearsTotal];
+      const opportunityCostNom = finalInvestNom; 
+
+      // Opdater dashboard-fliser
+      widget.querySelector('.js-lf-stat-monthly').innerText = formatDkr(monthlyAmount) + ' /md.';
+      widget.querySelector('.js-lf-stat-spent-real').innerText = formatDkr(totalIndbetalingReal);
+      widget.querySelector('.js-lf-stat-invest-real').innerText = formatDkr(finalInvestReal);
+      
+      widget.querySelector('.js-lf-stat-annual').innerText = formatDkr(annualContribution) + ' /år';
+      widget.querySelector('.js-lf-stat-total-spent').innerText = formatDkr(totalIndbetalingNom);
+      widget.querySelector('.js-lf-stat-opportunity').innerText = formatDkr(opportunityCostNom);
+
+      // --- DYNAMISK KONKLUSIONSTEKST ---
+      const summaryBox = widget.querySelector('.js-lf-summary-text');
+      let msg = "💡 <strong>Vane- og Coast-analyse:</strong><br>";
+      
+      if (monthlyAmount <= 0 || yearsTotal <= 0) {
+        msg += "Indtast venligst pris, antal gange og tidshorisont.";
+      } else {
+        msg += "Bytter du vanen ud med aktier, vil der om " + yearsTotal + " år stå hele <strong>" + formatDkr(finalInvestNom) + "</strong> fysisk på dit depot! ";
+        msg += "Din **alternativomkostning** ved at vælge forbruget nu er altså svimlende " + formatDkr(opportunityCostNom) + " i tabt fremtidig formue. ";
+        msg += "Juzetret for inflation svarer det til en ren købekraft på **" + formatDkr(finalInvestReal) + "** i dagens priser.";
+      }
+      summaryBox.innerHTML = msg.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+      // --- LIVE CHART RE-RENDER ---
+      const ctx = widget.querySelector('.js-lf-canvas').getContext('2d');
+      if (chartInstance) { chartInstance.destroy(); }
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labelsYears,
+          datasets: [
+            {
+              label: 'Værdi som Investeret (Købekraft i dag)',
+              data: dataInvestRealPlot,
+              borderColor: '#22c55e',
+              backgroundColor: 'rgba(34, 197, 94, 0.04)',
+              borderWidth: 2.5,
+              pointRadius: yearsTotal > 30 ? 0 : 2,
+              fill: true
+            },
+            {
+              label: 'Indbetaling (Købekraft i dag)',
+              data: dataSpentPlot,
+              borderColor: '#ef4444',
+              borderWidth: 1.5,
+              borderDash: [3, 3],
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 } } },
+            tooltip: {
+              callbacks: { label: function(context) { return context.dataset.label + ': ' + formatDkr(context.parsed.y); } }
+            }
+          },
+          scales: {
+            y: { ticks: { font: { size: 9 }, callback: function(value) { return formatDkr(value); } }, grid: { color: '#f1f5f9' } },
+            x: { ticks: { font: { size: 9 } }, grid: { display: false } }
+          }
+        }
+      });
+    }
+
+    widget.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('input', runEngine);
+    });
+
+    runEngine();
+  });
+})();
+</script>

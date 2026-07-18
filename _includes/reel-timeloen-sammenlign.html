@@ -1,0 +1,383 @@
+<!-- Styling til at fjerne standard input-pile og styre responsivt layout -->
+<style>
+  .rtls-input-clean::-webkit-outer-spin-button,
+  .rtls-input-clean::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .rtls-input-clean[type=number] {
+    -moz-appearance: textfield;
+  }
+  
+  /* Grid til scenarie-inputkasserne */
+  .rtls-scenarios-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+
+  .rtls-box-s1 {
+    background-color: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .rtls-box-s2 {
+    background-color: #fff1f2;
+    border: 1px solid #fecdd3;
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .rtls-input-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  /* Mobil-tilpasninger */
+  @media (max-width: 800px) {
+    .rtls-scenarios-grid {
+      grid-template-columns: 1fr;
+    }
+    .rtls-input-row {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- Reel Timeløn Sammenligner Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 950px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.025);">
+  
+  <!-- Header -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em;">Sammenlign to reelle timelønninger</h3>
+    <span style="font-size: 11px; color: #94a3b8; font-weight: 500;">Stil to job eller livsstile op mod hinanden</span>
+  </div>
+
+  <!-- To kasser til Scenarie 1 og Scenarie 2 -->
+  <div class="rtls-scenarios-grid">
+    
+    <!-- Scenarie 1 (Blå) -->
+    <div class="rtls-box-s1" style="border-top: 4px solid #2563eb;">
+      <h4 style="margin: 0; font-size: 12px; font-weight: 800; color: #1e40af; text-transform: uppercase; letter-spacing: 0.05em; display: flex; align-items: center; gap: 6px;">
+        <span style="display:inline-block; width:8px; height:8px; background-color:#2563eb; border-radius:50%;"></span> Scenarie 1 (f.eks. Job A)
+      </h4>
+      
+      <!-- Løn, Pension, Timer -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #1e40af;">Månedsløn</label>
+          <div style="position: relative; display: flex; align-items: center;">
+            <input type="number" id="s1Wage" value="{{ include.s1_wage | default: 40000 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px 24px 5px 6px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+            <span style="position: absolute; right: 6px; font-size: 10px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+          </div>
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #1e40af;">Pension %</label>
+          <input type="number" id="s1Pension" value="{{ include.s1_pension | default: 10 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: center; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #1e40af;">Timer/md.</label>
+          <input type="number" id="s1Hours" value="{{ include.s1_hours | default: 160 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+      </div>
+
+      <!-- Udgifter -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Transport/md.</label>
+          <input type="number" id="s1ExpTrans" value="{{ include.s1_exp_transport | default: 1500 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Tøj & pleje/md.</label>
+          <input type="number" id="s1ExpClothes" value="{{ include.s1_exp_clothes | default: 200 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Andet/md.</label>
+          <input type="number" id="s1ExpOther" value="{{ include.s1_exp_other | default: 300 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+      </div>
+
+      <!-- Tid -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Rejsetid/md.</label>
+          <input type="number" id="s1TimeTrans" value="{{ include.s1_time_transport | default: 25 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Afkobling/md.</label>
+          <input type="number" id="s1TimeRelax" value="{{ include.s1_time_relax | default: 10 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Udenomstid/md.</label>
+          <input type="number" id="s1TimeOther" value="{{ include.s1_time_other | default: 5 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+      </div>
+    </div>
+
+    <!-- Scenarie 2 (Rød) -->
+    <div class="rtls-box-s2" style="border-top: 4px solid #dc2626;">
+      <h4 style="margin: 0; font-size: 12px; font-weight: 800; color: #9f1239; text-transform: uppercase; letter-spacing: 0.05em; display: flex; align-items: center; gap: 6px;">
+        <span style="display:inline-block; width:8px; height:8px; background-color:#dc2626; border-radius:50%;"></span> Scenarie 2 (f.eks. Job B)
+      </h4>
+      
+      <!-- Løn, Pension, Timer -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #9f1239;">Månedsløn</label>
+          <div style="position: relative; display: flex; align-items: center;">
+            <input type="number" id="s2Wage" value="{{ include.s2_wage | default: 35000 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px 24px 5px 6px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+            <span style="position: absolute; right: 6px; font-size: 10px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+          </div>
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #9f1239;">Pension %</label>
+          <input type="number" id="s2Pension" value="{{ include.s2_pension | default: 12 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: center; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #9f1239;">Timer/md.</label>
+          <input type="number" id="s2Hours" value="{{ include.s2_hours | default: 140 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+      </div>
+
+      <!-- Udgifter -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Transport/md.</label>
+          <input type="number" id="s2ExpTrans" value="{{ include.s2_exp_transport | default: 400 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Tøj & pleje/md.</label>
+          <input type="number" id="s2ExpClothes" value="{{ include.s2_exp_clothes | default: 100 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Andet/md.</label>
+          <input type="number" id="s2ExpOther" value="{{ include.s2_exp_other | default: 150 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; background: #fff; height: 28px;">
+        </div>
+      </div>
+
+      <!-- Tid -->
+      <div class="rtls-input-row">
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Rejsetid/md.</label>
+          <input type="number" id="s2TimeTrans" value="{{ include.s2_time_transport | default: 8 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Afkobling/md.</label>
+          <input type="number" id="s2TimeRelax" value="{{ include.s2_time_relax | default: 2 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+        <div>
+          <label style="display: block; font-weight: 700; margin-bottom: 3px; font-size: 9px; text-transform: uppercase; color: #475569;">Udenomstid/md.</label>
+          <input type="number" id="s2TimeOther" value="{{ include.s2_time_other | default: 1 }}" class="rtls-input-clean" style="width: 100% !important; padding: 5px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 12px; font-weight: 700; text-align: right; background: #fff; height: 28px;">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Key Stats Cards -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 24px;">
+    
+    <!-- Scenarie 1 Result Card -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #1e40af; margin-bottom: 4px;">Scenarie 1 Reel Timeløn</div>
+        <div id="statS1Hourly" style="font-size: 22px; font-weight: 900; color: #2563eb;">0 kr./t.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Reel månedsløn: <span id="statS1Monthly" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Værdibevarelse: <span id="statS1Pct" style="font-weight: 600; float: right; color: #2563eb;">0%</span></div>
+      </div>
+    </div>
+
+    <!-- Scenarie 2 Result Card -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #9f1239; margin-bottom: 4px;">Scenarie 2 Reel Timeløn</div>
+        <div id="statS2Hourly" style="font-size: 22px; font-weight: 900; color: #dc2626;">0 kr./t.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Reel månedsløn: <span id="statS2Monthly" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Værdibevarelse: <span id="statS2Pct" style="font-weight: 600; float: right; color: #dc2626;">0%</span></div>
+      </div>
+    </div>
+
+    <!-- Difference Card -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #475569; margin-bottom: 4px;">Forskel i timeløn</div>
+        <div id="statDiffHourly" style="font-size: 22px; font-weight: 900; color: #10b981;">0 kr./t.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Mdl. indkomstforskel: <span id="statDiffMonthly" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Mest effektivt job: <span id="statWinner" style="font-weight: 700; float: right; color: #10b981;">-</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Chart (Double height: 400px) -->
+  <div style="position: relative; height: 400px; width: 100% !important; margin-bottom: 24px;">
+    <canvas id="hourlyComparisonChart"></canvas>
+  </div>
+
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+(function() {
+  const ctx = document.getElementById('hourlyComparisonChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val) + ' kr.';
+  }
+
+  function runHourlyComparison() {
+    // Scenario 1 Inputs
+    const wage1 = parseFloat(document.getElementById('s1Wage').value) || 0;
+    const pension1 = parseFloat(document.getElementById('s1Pension').value) || 0;
+    const hours1 = parseFloat(document.getElementById('s1Hours').value) || 1;
+    const expTrans1 = parseFloat(document.getElementById('s1ExpTrans').value) || 0;
+    const expClothes1 = parseFloat(document.getElementById('s1ExpClothes').value) || 0;
+    const expOther1 = parseFloat(document.getElementById('s1ExpOther').value) || 0;
+    const timeTrans1 = parseFloat(document.getElementById('s1TimeTrans').value) || 0;
+    const timeRelax1 = parseFloat(document.getElementById('s1TimeRelax').value) || 0;
+    const timeOther1 = parseFloat(document.getElementById('s1TimeOther').value) || 0;
+
+    // Scenario 2 Inputs
+    const wage2 = parseFloat(document.getElementById('s2Wage').value) || 0;
+    const pension2 = parseFloat(document.getElementById('s2Pension').value) || 0;
+    const hours2 = parseFloat(document.getElementById('s2Hours').value) || 1;
+    const expTrans2 = parseFloat(document.getElementById('s2ExpTrans').value) || 0;
+    const expClothes2 = parseFloat(document.getElementById('s2ExpClothes').value) || 0;
+    const expOther2 = parseFloat(document.getElementById('s2ExpOther').value) || 0;
+    const timeTrans2 = parseFloat(document.getElementById('s2TimeTrans').value) || 0;
+    const timeRelax2 = parseFloat(document.getElementById('s2TimeRelax').value) || 0;
+    const timeOther2 = parseFloat(document.getElementById('s2TimeOther').value) || 0;
+
+    // Math - Scenario 1
+    const totalMonthlyWage1 = wage1 * (1 + (pension1 / 100));
+    const standardHourly1 = totalMonthlyWage1 / hours1;
+    const totalExpenses1 = expTrans1 + expClothes1 + expOther1;
+    const realMonthlyIncome1 = totalMonthlyWage1 - totalExpenses1;
+    const realHours1 = hours1 + timeTrans1 + timeRelax1 + timeOther1;
+    const realHourly1 = realHours1 > 0 ? (realMonthlyIncome1 / realHours1) : 0;
+    const s1Pct = standardHourly1 > 0 ? (realHourly1 / standardHourly1) * 100 : 0;
+
+    // Math - Scenario 2
+    const totalMonthlyWage2 = wage2 * (1 + (pension2 / 100));
+    const standardHourly2 = totalMonthlyWage2 / hours2;
+    const totalExpenses2 = expTrans2 + expClothes2 + expOther2;
+    const realMonthlyIncome2 = totalMonthlyWage2 - totalExpenses2;
+    const realHours2 = hours2 + timeTrans2 + timeRelax2 + timeOther2;
+    const realHourly2 = realHours2 > 0 ? (realMonthlyIncome2 / realHours2) : 0;
+    const s2Pct = standardHourly2 > 0 ? (realHourly2 / standardHourly2) * 100 : 0;
+
+    // Differences and Winner
+    const diffHourly = Math.abs(realHourly1 - realHourly2);
+    const diffMonthly = Math.abs(realMonthlyIncome1 - realMonthlyIncome2);
+    let winner = "-";
+    if (realHourly1 > realHourly2) {
+      winner = "Scenarie 1";
+    } else if (realHourly2 > realHourly1) {
+      winner = "Scenarie 2";
+    } else if (realHourly1 === realHourly2 && realHourly1 > 0) {
+      winner = "Uafgjort";
+    }
+
+    // Update Text UI
+    document.getElementById('statS1Hourly').innerText = formatDKK(realHourly1) + '/t.';
+    document.getElementById('statS1Monthly').innerText = formatDKK(realMonthlyIncome1);
+    document.getElementById('statS1Pct').innerText = s1Pct.toFixed(1).replace('.', ',') + '%';
+
+    document.getElementById('statS2Hourly').innerText = formatDKK(realHourly2) + '/t.';
+    document.getElementById('statS2Monthly').innerText = formatDKK(realMonthlyIncome2);
+    document.getElementById('statS2Pct').innerText = s2Pct.toFixed(1).replace('.', ',') + '%';
+
+    document.getElementById('statDiffHourly').innerText = formatDKK(diffHourly) + '/t.';
+    document.getElementById('statDiffMonthly').innerText = formatDKK(diffMonthly);
+    document.getElementById('statWinner').innerText = winner;
+    document.getElementById('statWinner').style.color = (winner === "Scenarie 1") ? "#2563eb" : (winner === "Scenarie 2" ? "#dc2626" : "#1e293b");
+
+    // Draw / Update Bar Chart
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Scenarie 1 (Job A)', 'Scenarie 2 (Job B)'],
+        datasets: [
+          {
+            label: 'Standard Timeløn',
+            data: [standardHourly1, standardHourly2],
+            backgroundColor: '#94a3b8', // Grå, for at vise det "teoretiske" udgangspunkt
+            borderWidth: 1
+          },
+          {
+            label: 'Reel Timeløn',
+            data: [realHourly1, realHourly2],
+            backgroundColor: ['#2563eb', '#dc2626'], // Blå for Scenarie 1, Rød for Scenarie 2
+            borderWidth: 1
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { font: { size: 11, family: 'system-ui' } }
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                return context.dataset.label + ': ' + formatDKK(context.raw) + '/t.';
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            ticks: {
+              font: { size: 10, family: 'system-ui' },
+              callback: function(value) { return formatDKK(value) + '/t.'; }
+            }
+          },
+          x: {
+            ticks: { font: { size: 11, fontStyle: 'bold', family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Attach live calculation event listeners to all input tags
+  const inputs = [
+    's1Wage', 's1Pension', 's1Hours', 's1ExpTrans', 's1ExpClothes', 's1ExpOther', 's1TimeTrans', 's1TimeRelax', 's1TimeOther',
+    's2Wage', 's2Pension', 's2Hours', 's2ExpTrans', 's2ExpClothes', 's2ExpOther', 's2TimeTrans', 's2TimeRelax', 's2TimeOther'
+  ];
+
+  inputs.forEach(id => {
+    document.getElementById(id).addEventListener('input', runHourlyComparison);
+  });
+
+  // Initial Calculation
+  runHourlyComparison();
+})();
+</script>
+<!-- Reel Timeløn Sammenligner Ends Here -->

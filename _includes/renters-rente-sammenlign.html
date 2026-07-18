@@ -1,0 +1,314 @@
+<!-- Scenario Comparison Tool Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px 0; max-width: 100%; box-sizing: border-box;">
+  
+  <h3 style="margin-top: 0; margin-bottom: 16px; color: #0f172a; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; font-size: 18px; font-weight: 700;">Sammenlign to investeringsscenarier</h3>
+  
+  <!-- Global Parameter: Years -->
+  <div style="margin-bottom: 16px;">
+    <label style="display: block; font-weight: 600; margin-bottom: 4px; font-size: 11px; text-transform: uppercase; color: #475569;">Tidshorisont for begge (år)</label>
+    <input type="number" id="compYears" value="{{ include.years | default: 30 }}" step="1" style="width: 100% !important; max-width: 200px; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px;">
+  </div>
+
+  <!-- Scenario 1 Box (Blue Theme) -->
+  <div style="background-color: #eff6ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 14px; margin-bottom: 12px;">
+    <h4 style="margin: 0 0 10px 0; font-size: 13px; font-weight: 700; color: #1e40af; text-transform: uppercase; display: flex; align-items: center;">
+      <span style="display:inline-block; width:10px; height:10px; background-color:#2563eb; margin-right:6px; border-radius:50%;"></span> Scenarie 1 (f.eks. Aktier)
+    </h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #1e40af;">Startbeløb (kr.)</label>
+        <input type="number" id="compStart1" value="{{ include.s1_base | default: 1000 }}" step="500" style="width: 100% !important; padding: 6px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #1e40af;">Mdl. indskud (kr.)</label>
+        <input type="number" id="compDeposit1" value="{{ include.s1_deposit | default: 100 }}" step="10" style="width: 100% !important; padding: 6px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #1e40af;">Rente (% p.a.)</label>
+        <input type="number" id="compRate1" value="{{ include.s1_rate | default: 7 }}" step="0.5" style="width: 100% !important; padding: 6px; border: 1px solid #93c5fd; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Scenario 2 Box (Red Theme) -->
+  <div style="background-color: #fff1f2; border: 1px solid #fecdd3; border-radius: 8px; padding: 14px; margin-bottom: 20px;">
+    <h4 style="margin: 0 0 10px 0; font-size: 13px; font-weight: 700; color: #9f1239; text-transform: uppercase; display: flex; align-items: center;">
+      <span style="display:inline-block; width:10px; height:10px; background-color:#dc2626; margin-right:6px; border-radius:50%;"></span> Scenarie 2 (f.eks. Obligationer)
+    </h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #9f1239;">Startbeløb (kr.)</label>
+        <input type="number" id="compStart2" value="{{ include.s2_base | default: 1000 }}" step="500" style="width: 100% !important; padding: 6px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #9f1239;">Mdl. indskud (kr.)</label>
+        <input type="number" id="compDeposit2" value="{{ include.s2_deposit | default: 100 }}" step="10" style="width: 100% !important; padding: 6px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+      <div style="flex: 1; min-width: 100px;">
+        <label style="display: block; font-weight: 600; margin-bottom: 3px; font-size: 10px; text-transform: uppercase; color: #9f1239;">Rente (% p.a.)</label>
+        <input type="number" id="compRate2" value="{{ include.s2_rate | default: 2 }}" step="0.5" style="width: 100% !important; padding: 6px; border: 1px solid #fca5a5; border-radius: 4px; box-sizing: border-box; font-size: 13px;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Key Stats Cards -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 24px;">
+    
+    <!-- Stat Card 1 -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #1e40af; margin-bottom: 4px;">Scenarie 1 Slutværdi</div>
+        <div id="statComp1" style="font-size: 18px; font-weight: 800; color: #2563eb;">0 kr.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Samlet indskud: <span id="statComp1Deposits" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Akk. renter: <span id="statComp1Interest" style="font-weight: 600; float: right; color: #10b981;">0 kr.</span></div>
+      </div>
+    </div>
+
+    <!-- Stat Card 2 -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #9f1239; margin-bottom: 4px;">Scenarie 2 Slutværdi</div>
+        <div id="statComp2" style="font-size: 18px; font-weight: 800; color: #dc2626;">0 kr.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Samlet indskud: <span id="statComp2Deposits" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Akk. renter: <span id="statComp2Interest" style="font-weight: 600; float: right; color: #10b981;">0 kr.</span></div>
+      </div>
+    </div>
+
+    <!-- Stat Card 3 (Difference with splits) -->
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #475569; margin-bottom: 4px;">Forskel</div>
+        <div id="statCompDiff" style="font-size: 18px; font-weight: 800; color: #0f172a;">0 kr.</div>
+      </div>
+      <div style="border-top: 1px solid #f1f5f9; margin-top: 8px; padding-top: 6px; font-size: 11px; color: #64748b; text-align: left;">
+        <div>Forskel i indskud: <span id="statCompDiffDeposits" style="font-weight: 600; float: right;">0 kr.</span></div>
+        <div style="margin-top: 2px;">Forskel i renter: <span id="statCompDiffInterest" style="font-weight: 600; float: right; color: #10b981;">0 kr.</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Line Chart comparing totals (Double height: 400px) -->
+  <div style="position: relative; height: 400px; width: 100% !important; margin-bottom: 24px;">
+    <canvas id="scenarioComparisonChart"></canvas>
+  </div>
+
+  <!-- Comparison Table -->
+  <div style="overflow-x: auto; margin-bottom: 10px; width: 100% !important;">
+    <table style="width: 100% !important; display: table !important; border-collapse: collapse; text-align: left; font-size: 13px; min-width: 100% !important;">
+      <thead>
+        <tr style="background-color: #e2e8f0; border-bottom: 2px solid #cbd5e1;">
+          <th style="padding: 8px; font-weight: 600;">År</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right; color: #1e40af;">Scenarie 1 (Værdi)</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right; color: #9f1239;">Scenarie 2 (Værdi)</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right;">Forskel</th>
+        </tr>
+      </thead>
+      <tbody id="compTableBody">
+        <!-- Dynamisk indhold -->
+      </tbody>
+    </table>
+  </div>
+  
+  <p style="font-size: 11px; color: #64748b; margin-top: 10px; margin-bottom: 0; text-align: center; font-style: italic;">Beregneren tager ikke højde for inflation og skat.</p>
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+(function() {
+  const ctx = document.getElementById('scenarioComparisonChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { style: 'currency', currency: 'DKK', maximumFractionDigits: 0 }).format(val);
+  }
+
+  function runComparison() {
+    const years = parseInt(document.getElementById('compYears').value) || 1;
+
+    // Scenario 1 Inputs
+    const start1 = parseFloat(document.getElementById('compStart1').value) || 0;
+    const deposit1 = parseFloat(document.getElementById('compDeposit1').value) || 0;
+    const rate1 = parseFloat(document.getElementById('compRate1').value) || 0;
+
+    // Scenario 2 Inputs
+    const start2 = parseFloat(document.getElementById('compStart2').value) || 0;
+    const deposit2 = parseFloat(document.getElementById('compDeposit2').value) || 0;
+    const rate2 = parseFloat(document.getElementById('compRate2').value) || 0;
+
+    let balance1 = start1;
+    let totalDeposits1 = 0;
+    let totalInterest1 = 0;
+
+    let balance2 = start2;
+    let totalDeposits2 = 0;
+    let totalInterest2 = 0;
+
+    const mRate1 = (rate1 / 12) / 100;
+    const mRate2 = (rate2 / 12) / 100;
+
+    const labels = ['År 0'];
+    const s1Data = [start1];
+    const s2Data = [start2];
+
+    const tableRows = [];
+
+    for (let year = 1; year <= years; year++) {
+      // Compounding loop for 12 months
+      for (let month = 1; month <= 12; month++) {
+        // Scenario 1
+        const interest1 = balance1 * mRate1;
+        balance1 += interest1;
+        totalInterest1 += interest1;
+        balance1 += deposit1;
+        totalDeposits1 += deposit1;
+
+        // Scenario 2
+        const interest2 = balance2 * mRate2;
+        balance2 += interest2;
+        totalInterest2 += interest2;
+        balance2 += deposit2;
+        totalDeposits2 += deposit2;
+      }
+
+      labels.push('År ' + year);
+      s1Data.push(balance1);
+      s2Data.push(balance2);
+
+      tableRows.push({
+        year: year,
+        val1: balance1,
+        val2: balance2,
+        diff: Math.abs(balance1 - balance2),
+        isS1Higher: balance1 >= balance2
+      });
+    }
+
+    // Calculations for totals & differences
+    const totalOwnPayment1 = start1 + totalDeposits1;
+    const totalOwnPayment2 = start2 + totalDeposits2;
+
+    const diffTotal = Math.abs(balance1 - balance2);
+    const diffOwnPayment = Math.abs(totalOwnPayment1 - totalOwnPayment2);
+    const diffInterest = Math.abs(totalInterest1 - totalInterest2);
+
+    // Update Top Stats Card Values
+    document.getElementById('statComp1').innerText = formatDKK(balance1);
+    document.getElementById('statComp1Deposits').innerText = formatDKK(totalOwnPayment1);
+    document.getElementById('statComp1Interest').innerText = formatDKK(totalInterest1);
+
+    document.getElementById('statComp2').innerText = formatDKK(balance2);
+    document.getElementById('statComp2Deposits').innerText = formatDKK(totalOwnPayment2);
+    document.getElementById('statComp2Interest').innerText = formatDKK(totalInterest2);
+
+    // Update Difference Card
+    document.getElementById('statCompDiff').innerText = formatDKK(diffTotal);
+    document.getElementById('statCompDiffDeposits').innerText = formatDKK(diffOwnPayment);
+    document.getElementById('statCompDiffInterest').innerText = formatDKK(diffInterest);
+
+    // Update Comparison Table
+    const tableBody = document.getElementById('compTableBody');
+    tableBody.innerHTML = '';
+
+    // Decide step dynamically based on years to keep table compact
+    let step = 1;
+    if (years > 20) step = 2;
+    if (years > 40) step = 5;
+
+    tableRows.forEach((row) => {
+      if ((row.year % step === 0) || row.year === years) {
+        const tr = document.createElement('tr');
+        tr.style.borderBottom = '1px solid #e2e8f0';
+        
+        const diffColor = row.isS1Higher ? '#10b981' : '#ef4444';
+        const diffPrefix = row.isS1Higher ? '+' : '-';
+
+        tr.innerHTML = `
+          <td style="padding: 8px; font-weight: 600;">År ${row.year}</td>
+          <td style="padding: 8px; text-align: right; font-weight: 500;">${formatDKK(row.val1)}</td>
+          <td style="padding: 8px; text-align: right; font-weight: 500;">${formatDKK(row.val2)}</td>
+          <td style="padding: 8px; text-align: right; color: ${diffColor}; font-weight: 600;">${diffPrefix}${formatDKK(row.diff)}</td>
+        `;
+        tableBody.appendChild(tr);
+      }
+    });
+
+    // Draw / Update Line Chart
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: 'Scenarie 1',
+            data: s1Data,
+            borderColor: '#2563eb',
+            backgroundColor: '#2563eb15',
+            borderWidth: 2.5,
+            tension: 0.1,
+            fill: false
+          },
+          {
+            label: 'Scenarie 2',
+            data: s2Data,
+            borderColor: '#dc2626',
+            backgroundColor: '#dc262615',
+            borderWidth: 2.5,
+            tension: 0.1,
+            fill: false
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { boxWidth: 12, font: { size: 11, family: 'system-ui' }, padding: 12 }
+          },
+          tooltip: {
+            mode: 'index',
+            intersect: false,
+            callbacks: {
+              label: function(context) {
+                return context.dataset.label + ': ' + formatDKK(context.raw);
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            ticks: {
+              font: { size: 10, family: 'system-ui' },
+              callback: function(value) { return formatDKK(value); }
+            }
+          },
+          x: {
+            ticks: { font: { size: 10, family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Attach event listeners for real-time calculation
+  const inputIds = ['compYears', 'compStart1', 'compDeposit1', 'compRate1', 'compStart2', 'compDeposit2', 'compRate2'];
+  inputIds.forEach(id => {
+    document.getElementById(id).addEventListener('input', runComparison);
+  });
+
+  // Run initial calculation
+  runComparison();
+})();
+</script>
+<!-- Scenario Comparison Tool Ends Here -->

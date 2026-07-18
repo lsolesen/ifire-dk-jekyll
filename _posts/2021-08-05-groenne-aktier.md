@@ -8,8 +8,10 @@ header:
   caption: *title
 category:
   - Investering
+  - Opdateringer
 tags:
   - aktier
+  - portefølje
 excerpt: "Her kigger vi på grønne aktier, der fokuserer på en mere bæredygtig verden. En komplet liste til bæredygtige aktier."
 last_modified_at: 2021-08-02T10:22:02+02:00
 ---

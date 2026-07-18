@@ -12,6 +12,7 @@ tags:
   - bæredygtighed
   - etik
   - værdipapirer
+  - portefølje
 excerpt: "Hvordan gør jeg mine investeringer i værdipapirer, crowdlending og ejendomme etiske og bæredygtige?"
 ---
 

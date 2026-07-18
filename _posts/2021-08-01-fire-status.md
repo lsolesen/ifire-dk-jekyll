@@ -31,6 +31,10 @@ Listen er formentlig ikke udtømt. Du kan forstå de forskellige variationer af 
 
 Jeg har kigget lidt på, hvad min status er i forhold til at være Coast FIRE.
 
+{% include fire-barista-beregner.html ageNow="30" ageBarista="40" payNow="32000" expNow="18000" nwNow="1200000" expFireMin="16000" expFireMax="26000" payBarista="9000" %}
+
+{% include fire-coast-beregner.html ageNow="42" nwNow="850000" contribution="6500" expFireMin="14000" expFireMax="25000" %}
+
 {% comment %}
 
 I dette spektrum er der altså forskellige niveauer af finansiel uafhængighed. Jeg gennemgår i det følgende de forskellige niveauer og forklarer, hvordan man udregner dem.

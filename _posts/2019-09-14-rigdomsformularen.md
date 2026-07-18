@@ -52,7 +52,11 @@ Hvorfor skal du investere? Du vil nok finde motivation i effekten af [renters re
 
 ***
 
-{% include compound-interest-calculator.html %}
+{% include renters-rente.html 
+  base="0"
+  deposit="500"
+  rate="4"
+  years="30" %}
 
 ***
 

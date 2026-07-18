@@ -1,0 +1,231 @@
+<!-- Renters Rente Beregner Starts Here -->
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px 0; max-width: 100%; box-sizing: border-box;">
+  
+  <h3 style="margin-top: 0; margin-bottom: 16px; color: #0f172a; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; font-size: 18px; font-weight: 700;">Udregn dit afkast (Renters rente)</h3>
+  
+  <!-- Step 1: Compact Inputs -->
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 4px; font-size: 11px; text-transform: uppercase; color: #475569;">Startbeløb (kr.)</label>
+      <input type="number" id="rrStart" value="{{ include.base | default: 1000 }}" step="500" style="width: 100% !important; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px;">
+    </div>
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 4px; font-size: 11px; text-transform: uppercase; color: #475569;">Mdl. indskud (kr.)</label>
+      <input type="number" id="rrDeposit" value="{{ include.deposit | default: 20 }}" step="10" style="width: 100% !important; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px;">
+    </div>
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 4px; font-size: 11px; text-transform: uppercase; color: #475569;">Rente (% p.a.)</label>
+      <input type="number" id="rrRate" value="{{ include.rate | default: 5 }}" step="0.1" style="width: 100% !important; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px;">
+    </div>
+    <div style="flex: 1; min-width: 120px;">
+      <label style="display: block; font-weight: 600; margin-bottom: 4px; font-size: 11px; text-transform: uppercase; color: #475569;">Tidshorisont (år)</label>
+      <input type="number" id="rrYears" value="{{ include.years | default: 30 }}" step="1" style="width: 100% !important; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px;">
+    </div>
+  </div>
+
+  <!-- Step 2: Key Stats Cards -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 24px;">
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+      <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #64748b; margin-bottom: 4px;">Samlet værdi</div>
+      <div id="statTotal" style="font-size: 18px; font-weight: 800; color: #008000;">0 kr.</div>
+    </div>
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+      <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #64748b; margin-bottom: 4px;">Total indskudt</div>
+      <div id="statDeposits" style="font-size: 18px; font-weight: 700; color: #ffa500;">0 kr.</div>
+    </div>
+    <div style="background-color: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+      <div style="font-size: 11px; text-transform: uppercase; font-weight: 600; color: #64748b; margin-bottom: 4px;">Total renter</div>
+      <div id="statInterest" style="font-size: 18px; font-weight: 700; color: #008000;">0 kr.</div>
+    </div>
+  </div>
+
+  <!-- Step 3: Stacked Bar Chart (Double height: 400px) -->
+  <div style="position: relative; height: 400px; width: 100% !important; margin-bottom: 24px;">
+    <canvas id="compoundChart"></canvas>
+  </div>
+
+  <!-- Step 4: Yearly breakdown table -->
+  <div style="overflow-x: auto; margin-bottom: 10px; width: 100% !important;">
+    <table style="width: 100% !important; display: table !important; border-collapse: collapse; text-align: left; font-size: 13px; min-width: 100% !important;">
+      <thead>
+        <tr style="background-color: #e2e8f0; border-bottom: 2px solid #cbd5e1;">
+          <th style="padding: 8px; font-weight: 600;">År</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right;">Hovedstol</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right;">Eget indskud</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right;">Akkumulerede renter</th>
+          <th style="padding: 8px; font-weight: 600; text-align: right;">Slutværdi</th>
+        </tr>
+      </thead>
+      <tbody id="rrTableBody">
+        <!-- Dynamisk indhold -->
+      </tbody>
+    </table>
+  </div>
+  
+  <p style="font-size: 11px; color: #64748b; margin-top: 10px; margin-bottom: 0; text-align: center; font-style: italic;">Beregneren tager ikke højde for inflation og skat.</p>
+</div>
+
+<!-- Load Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+(function() {
+  const ctx = document.getElementById('compoundChart').getContext('2d');
+  let myChart;
+
+  function formatDKK(val) {
+    return new Intl.NumberFormat('da-DK', { style: 'currency', currency: 'DKK', maximumFractionDigits: 0 }).format(val);
+  }
+
+  function runCalculation() {
+    const base = parseFloat(document.getElementById('rrStart').value) || 0;
+    const deposit = parseFloat(document.getElementById('rrDeposit').value) || 0;
+    const rate = parseFloat(document.getElementById('rrRate').value) || 0;
+    const years = parseInt(document.getElementById('rrYears').value) || 1;
+
+    let balance = base;
+    let totalDeposits = 0;
+    let totalInterest = 0;
+
+    const monthlyRate = (rate / 12) / 100;
+
+    // Start arrays with Year 0 values
+    const labels = ['År 0'];
+    const principalData = [base];
+    const depositsData = [0];
+    const interestData = [0];
+
+    const tableRows = [];
+
+    for (let year = 1; year <= years; year++) {
+      for (let month = 1; month <= 12; month++) {
+        const monthlyInterest = balance * monthlyRate;
+        balance += monthlyInterest;
+        totalInterest += monthlyInterest;
+
+        balance += deposit;
+        totalDeposits += deposit;
+      }
+
+      labels.push('År ' + year);
+      principalData.push(base);
+      depositsData.push(totalDeposits);
+      interestData.push(totalInterest);
+
+      tableRows.push({
+        year: year,
+        principal: base,
+        ownPayment: totalDeposits,
+        interest: totalInterest,
+        total: balance
+      });
+    }
+
+    // Update Top Stats
+    document.getElementById('statTotal').innerText = formatDKK(balance);
+    document.getElementById('statDeposits').innerText = formatDKK(base + totalDeposits);
+    document.getElementById('statInterest').innerText = formatDKK(totalInterest);
+
+    // Update Table
+    const tableBody = document.getElementById('rrTableBody');
+    tableBody.innerHTML = '';
+
+    // Choose step dynamically to prevent table from being too long
+    let step = 1;
+    if (years > 20) step = 2;
+    if (years > 40) step = 5;
+
+    tableRows.forEach((row, idx) => {
+      if ((row.year % step === 0) || row.year === years) {
+        const tr = document.createElement('tr');
+        tr.style.borderBottom = '1px solid #e2e8f0';
+        tr.innerHTML = `
+          <td style="padding: 8px; font-weight: 600;">År ${row.year}</td>
+          <td style="padding: 8px; text-align: right;">${formatDKK(row.principal)}</td>
+          <td style="padding: 8px; text-align: right; color: #ffa500; font-weight: 500;">${formatDKK(row.ownPayment)}</td>
+          <td style="padding: 8px; text-align: right; color: #008000; font-weight: 500;">${formatDKK(row.interest)}</td>
+          <td style="padding: 8px; text-align: right; font-weight: 700;">${formatDKK(row.total)}</td>
+        `;
+        tableBody.appendChild(tr);
+      }
+    });
+
+    // Draw / Update Stacked BAR Chart
+    if (myChart) {
+      myChart.destroy();
+    }
+
+    myChart = new Chart(ctx, {
+      type: 'bar', // Forvandlet til søjlediagram!
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: 'Hovedstol',
+            data: principalData,
+            backgroundColor: '#0000ff', // Blå farve fra din original
+            borderColor: '#0000ff',
+            borderWidth: 1
+          },
+          {
+            label: 'Indskud',
+            data: depositsData,
+            backgroundColor: '#ffa500', // Orange farve fra din original
+            borderColor: '#ffa500',
+            borderWidth: 1
+          },
+          {
+            label: 'Renter',
+            data: interestData,
+            backgroundColor: '#008000', // Grøn farve fra din original
+            borderColor: '#008000',
+            borderWidth: 1
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { boxWidth: 12, font: { size: 11, family: 'system-ui' }, padding: 12 }
+          },
+          tooltip: {
+            mode: 'index',
+            intersect: false,
+            callbacks: {
+              label: function(context) {
+                return context.dataset.label + ': ' + formatDKK(context.raw);
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            stacked: true, // Stacker søjlerne ovenpå hinanden
+            ticks: {
+              font: { size: 10, family: 'system-ui' },
+              callback: function(value) { return formatDKK(value); }
+            }
+          },
+          x: {
+            stacked: true, // Stacker søjlerne ovenpå hinanden
+            ticks: { font: { size: 10, family: 'system-ui' } }
+          }
+        }
+      }
+    });
+  }
+
+  // Event Listeners for real-time recalculation
+  const inputIds = ['rrStart', 'rrDeposit', 'rrRate', 'rrYears'];
+  inputIds.forEach(id => {
+    document.getElementById(id).addEventListener('input', runCalculation);
+  });
+
+  // Initial Run
+  runCalculation();
+})();
+</script>
+<!-- Renters Rente Beregner Ends Here -->

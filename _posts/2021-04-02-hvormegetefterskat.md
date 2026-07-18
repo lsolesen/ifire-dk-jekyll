@@ -64,6 +64,11 @@ Min månedsløn er på omkring 41.000 kroner. Når jeg taster min månedsløn in
 
 Jeg får altså i følge beregneren udbetalt 26.051 kroner hver måned. Det er faktisk et ret godt estimat på, hvad jeg får udbetalt efter skat.
 
+{% include loen-beregner.html 
+  lon="41000"
+  traekprocent="36.3"
+  personfradrag="4508" %}
+
 ## Hvad er min skatteprocent?
 
 Selvom du kan få en anslået skatteprocent i beregneren, så kan den ikke fortælle dig nøjagtigt, hvad din skatteprocent er?
@@ -116,12 +121,14 @@ Selvom det er en fin lønforhøjelse på 4.500 kroner, så stiger min disponible
 
 Lønberegneren kan altså være ret godt til at tjekke, hvad du reelt får ud af din lønforhøjelse. Hvis dit nye job fx er mere krævende eller kræver flere timer, så er det godt at kigge på, hvor mange penge du reelt får udbetalt efter skat af din nye løn.
 
+{% include loen-beregner-sammenlign.html lonA="38000" lonB="42500" fradragA="4200" fradragB="4200" skatA="37" skatB="37" %}
+
 Du kan jo selv lege med forskellige scenarier i lønberegneren. Jeg tastede fx for sjov 100.000 kroner ind i beregnerne og så, at min reelle skatteprocent steg op til 42% ved den månedsløn. Det er jo noget mere end min skatteprocent på 36% med min nuværende løn.
 
 ## Hvad med FIRE og lidt arbejde?
 
 [Pengepugeren](https://pengepugeren.dk/2018/02/oekonomisk-uafhaengig-lev-14-000-kr-maaneden-slip-skat/) har lavet en inspirerende udregning, som tager udgangspunkt i, at du har passiv indkomst fra investeringer, der fordeler sig på kapitalindkomst og aktieindkomst.
-
+ 
 Pengepugeren når frem til, at hvis du kan leve for 14.000 kroner om måneden, så behøver du kun at tjene 16.100 kroner før skat.
 
 > Sagen er, at**man kan modregne sin kapitalindkomst i personfradraget**. Dertil betaler man “kun” 27 % skat af de første ca. 51.700 kr. (52.900 kr. i 2018) i aktieindkomst.
@@ -131,6 +138,8 @@ Pengepugeren når frem til, at hvis du kan leve for 14.000 kroner om måneden, s
 --- <cite>[Pengepugeren](https://pengepugeren.dk/2018/02/oekonomisk-uafhaengig-lev-14-000-kr-maaneden-slip-skat/)</cite>
 
 Her er vi dog ude i, at vi har brug for en betydelig investering, som vi skatteoptimerer.
+
+{% include loen-beregner-sammenlign.html lonA="0" lonB="4500" fradragA="0" fradragB="4200" skatA="0" skatB="37" %}
 
 Dette indlæg handler om, hvad vi får udbetalt efter løn for vores arbejde, så lad os komme tilbage til det.
 
