@@ -46,8 +46,6 @@ Samlet dalede den urealiserede værdi af mine investeringer i værdipapirer med 
 
 I alt har jeg i øjeblikket en **vægtet intern rente på -11,04%** på mine investeringer i værdipapirer.
 
-[Få en gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
 Hvis du er interesseret i detaljer om mine værdipapirer, så tjek [indtjeningen i min samlede portefølje med værdipapirer](/investeringer/).
 
 [Copytrading og kurtagefri handel på E-Toro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }

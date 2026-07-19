@@ -117,6 +117,8 @@ Valget af den bedste passive investeringsforening afhænger fuldstændig af dit 
 1. **Investerer du for frie midler?** Så vil de fleste have størst fordel af en **dansk, udbyttebetalende fond** (som f.eks. de brede løsninger fra Sparindex eller Danske Invest) for at opnå realisationsbeskatning og lade skatteudskydelsen booste formuen.
 2. **Investerer du via Aktiesparekonto eller pension?** Så er der alligevel tvungen lagerbeskatning. Her bør du i stedet kigge mod de markant billigere udenlandske ETF'er (eller de billige akkumulerende fonde) for at presse de årlige omkostninger helt i bund.
 
+*Sidder du med en specifik fond i kikkerten på Nordnet, og er du i tvivl om, hvorvidt dens ÅOP og Tracking Error faktisk er godkendt? Så kan du smide dens nøgletal direkte ind i [vores interaktive fond-evaluator her](/hvilken-fond/).*
+
 ---
 
 *Hvilken fond er din personlige favorit i din portefølje, og prioriterer du lavest mulige omkostninger (ÅOP) eller bredest muligt benchmark? Lad os høre din mening i kommentarerne herunder!*

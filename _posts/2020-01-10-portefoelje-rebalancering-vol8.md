@@ -25,6 +25,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
+**OBS: Dette er en ældre logbogsartikel fra min investorrejse, som ikke længere opdateres.** Hvis du er interesseret i at kende min nuværende personlige investeringsstrategi, kan du læse om den på [/min-strategi/](/min-strategi/). Min aktuelle portefølje kan du se på [/mine-investeringer/](/mine-investeringer/).
+{: .notice--info}
+
 Her først i 2020 kigger jeg lidt på en rebalancering af mine porteføljer, bl.a. fordi jeg vil sørge for at jeg holder min strategi. Det skrev jeg også lidt om tidligere i ['Simple Path to Wealth'](/investering-vol7/).
 
 Da det [langt fra er sikkert at en løbende rebalancering vil ændre porteføljens resultat](https://www.morningstar.dk/dk/news/195776/rebalancering-eller-ej.aspx), så skal man altså tænke sig om. Min strategi er at lave så få handler som muligt, der får mig tættere på min foretrukne allokering.

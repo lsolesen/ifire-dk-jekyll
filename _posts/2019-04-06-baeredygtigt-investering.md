@@ -1,16 +1,15 @@
 ---
-title: "Bæredygtig investering i aktier, investeringsforeninger og ETF'er #3"
-seo_title: "Bæredygtige investeringer i aktier, indeksfonde og ETF'er"
-permalink: /investering-vol3/
+title: "Bæredygtig investering i investeringsforeninger og ETF'er"
+seo_title: "Bæredygtige investeringer i indeksfonde og ETF'er"
+permalink: /baeredygtig-investering-fonde-etf/
 excerpt: Hvordan kan du lave bæredygtige investeringer i
-  aktier, investeringsforeninger, fonde og ETF'er - og hvor finder du de grønne aktier og indeksfonde?
+  investeringsforeninger, fonde og ETF'er - og hvor finder du de grønne aktier og indeksfonde?
 header:
   caption: "Bæredygtige investeringer i aktier, investeringsforeninger og ETF'er"
   overlay_image: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1586049188868-63fa351cf340?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Investering
-  - Opdateringer
 tags:
   - investering
   - aktier
@@ -20,7 +19,7 @@ tags:
   - grønne aktier
   - bæredygtige aktier
   - bæredygtig investering
-  - portefølje
+last_modified_at: 2026-07-18T15:34:09+02:00
 feature_row:
   - title: Investeringsforeninger
     url: https://www.nordnet.dk/markedet/investeringsforeninger-liste?sortField=name&sortOrder=asc&fundLowCarbon=true
@@ -33,14 +32,11 @@ feature_row:
     btn_label: ETF'er
 ---
 
-**Opdateres ikke længere**. Hvis du vil dykke ned i, hvordan du kan lave bæredygtige investeringer i fonde og etf'er, så tjek [dette opdaterede indlæg](/baeredygtig-investering-fonde-etf/).
-{ .notice--warning }
-
 {{ page.excerpt }}
 
 *[ESG]: Environmental, Social and Governance
 
-Nu har jeg efterhånden fået gang i min portefølje med aktier og obligationer. Derfor vil jeg kigge lidt på, hvordan jeg kan **påvirke verden med mine penge gennem klimabevidste og bæredygtige investeringer**. Jeg satser primært på passive investeringsforeninger og ETF’er i mine egne investeringer, men guider dig også her til, hvordan du selv kan finde aktive fonde og grønne aktier.
+Nu har jeg efterhånden fået gang i min portefølje med aktier og obligationer. Derfor vil jeg kigge lidt på, hvordan jeg kan **påvirke verden med mine penge gennem klimabevidste og bæredygtige investeringer**. Jeg satser primært på passive investeringsforeninger og ETF’er i mine egne investeringer, men guider dig også her til, hvordan du selv kan finde aktive fonde og [grønne aktier](/groenne-aktier/).
 
 > ”Investerer du 39.000kr i Triodos Renewables Energy Fund svarer den grønne energi fonden genererer til en gennemsnitlig danskers CO2 forbrug.”
 

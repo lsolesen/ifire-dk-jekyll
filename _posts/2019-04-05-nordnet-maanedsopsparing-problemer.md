@@ -85,7 +85,7 @@ Jeg har oprettet en fast bankoverførsel fra min bank til Nordnet hver eneste m�
 
 Jeg har valgt en af de passive fonde fra SparInvest på mit ene depot - og på et andet depot har jeg valgt passive ETF’er fra BlackRock.
 
-Hvis du gerne vil investere i passive indekser ligesom jeg gør, så kan du se, hvordan [jeg investerer i verdensmarkedet](/investering-vol9/).
+Hvis du gerne vil investere i passive indekser ligesom jeg gør, så kan du se, hvordan [jeg investerer i verdensmarkedet](/verdensindekset/).
 
 ## Nordnets månedsopsparing giver problemer
 
@@ -175,10 +175,8 @@ Jeg har skrevet lidt mere om [passiv indeks investering](/investering/), hvis du
 
 Hvis du selv vil købe ind manuelt hver måned for et mindre beløb, så kan [SaxoInvestor](/go/saxoinvestor/) også være en mulighed. Der er minimumskurtagen nemlig mindre.
 
-En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter. Jeg synes den mest interessante er [Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }, fordi den er uafhængig af din bank, og de skal præstere for at beholde dig som kunde.
+En anden mulighed for at investere mindre beløb pr. måned er at bruge en af de robotinvestorer, der er kommet frem de seneste år. Produkterne er relativt billige i forhold til bankernes andre produkter.
 
 Du kan også tjekke min [guide til at købe en indeksfond eller ETF på Nordnet](/nordnet-koeb-fond/).
-
-[Få gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
 
 {% include disclaimer.md %}

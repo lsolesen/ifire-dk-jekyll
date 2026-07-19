@@ -119,13 +119,18 @@ Der findes en lang række forskellige ETF’er, der dækker større eller mindre
 
 Som _passiv investor_ med interesse i at følge verdensindekset ville jeg ikke opprioritere enkelte sektorer med mindre, man mener at de er underprioriteret i den valgte ETF.
 
-[Få et gratis investeringforslag fra Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
-
 ## Opsamling
 
 En indeksforening er en afdeling i en dansk investeringsforening. En ETF er en fond, der kan handles på børsen. I en indeksforening er der overensstemmelse mellem indre værdig og prisen. En ETFs pris bestemmes via udbud og efterspørgsel. Der er således altid en ”bid” og en ”ask” pris.
 
 Du kan både investere i udbyttebetalende eller akkumulerende indeksforeninger og ETF’er. Din strategi og dit behov bestemmer, hvad der bedst kan betale sig for dig.
+
+---
+
+## Næste skridt: Hvordan finder du de bedste fonde?
+Nu hvor du har styr på forskellen mellem en investeringsforening og en ETF, er det næste vigtige skridt at lære, hvordan du skiller fårene fra bukkene. Det gør du ved at kigge på fondens specifikke nøgletal som ÅOP, Tracking Error og Sharpe Ratio.
+
+[Gå til guiden: Find de bedste fonde (og test dem i beregneren) ➔](/hvilken-fond/){: .btn .btn--large .btn--success }
 
 ## Lær mere
 

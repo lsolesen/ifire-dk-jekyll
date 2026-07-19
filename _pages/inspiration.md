@@ -76,22 +76,6 @@ feature_row:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 feature_row_solutions:
-  - image_path: /assets/images/logo/nord.png
-    alt: "Nord.Investments"
-    title: "Nord.Investments"
-    excerpt: "[Nord.Investments](/go/nord/) er en investeringsrobot, som ud fra din risikoprofil automatisk sætter dine investeringer op for et relativt lille beløb."
-    url: /go/nord/
-    btn_label: "Få gratis investeringsprofil"
-    btn_class: "btn--info"
-    rel: sponsored nofollow noopener
-  - image_path: /assets/images/logo/themany.jpg
-    alt: "The Many"
-    title: "The Many"
-    excerpt: "[The Many](/go/themany/){: rel='sponsored nofollow noopener' } gør det let at lave ejendomsinvesteringer uden selv at skulle stå for administrationen og udlejningen af ejendommene. Du investere i ejendomme for helt ned til 5.000 DKK."
-    url: /go/themany/
-    btn_label: "Få 250 DKK på The Many"
-    btn_class: "btn--info"
-    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/mintos.png
     alt: "Mintos"
     title: "Mintos"

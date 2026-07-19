@@ -14,7 +14,7 @@ Når vi taler om investering i Danmark, lærer vi hurtigt, at *lagerbeskatning* 
 
 Men der findes en række meget specifikke scenarier, hvor en global fond, der bliver **lagerbeskattet som kapitalindkomst**, forvandler sig fra at være en skatteulempe til at være dit absolut stærkeste værktøj i værktøjskassen.
 
-Uanset hvilket skattemiljø vi bevæger os i, holder vi dog fast i kernen af sund investering: Vi forsøger ikke at gætte vinderaktier. Historien viser, at enkeltaktier som regel underperformer markedsindekset, og at det er en forsvindende lille gruppe av top-aktier, der driver hele markedets afkast. Du kan læse min dybere argumentation for dette i min artikel om [verdensmarkedet og den brede portefølje](/investering-vol9/). Derfor skal vores kapitalbeskattede fond også give en bred og bundsolid markedseksponering.
+Uanset hvilket skattemiljø vi bevæger os i, holder vi dog fast i kernen af sund investering: Vi forsøger ikke at gætte vinderaktier. Historien viser, at enkeltaktier som regel underperformer markedsindekset, og at det er en forsvindende lille gruppe av top-aktier, der driver hele markedets afkast. Du kan læse min dybere argumentation for dette i min artikel om [verdensmarkedet og den brede portefølje](/verdensindekset/). Derfor skal vores kapitalbeskattede fond også give en bred og bundsolid markedseksponering.
 
 ---
 
@@ -44,7 +44,7 @@ For at opnå en bred global dækning i dette specifikke skattemiljø, kigger jeg
 
 ### Nordnet Global Indeks
 
-{% include fond-oplysninger.html fond="NNGBLINDX" %}
+{% include fond-oplysninger.html fonde="NNGBLINDX:88, NNEMINDX:12" %}
 
 Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv udbyder. Det er en af de nemmeste løsninger til frikort-hacket, hvis du vil undgå komplekse børshandler.
 * **Ticker:** NNGBLINDX (Handelsvaluta: DKK)
@@ -56,7 +56,7 @@ Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv 
 
 ### Invesco MSCI World UCITS ETF Acc
 
-{% include fond-oplysninger.html fond="MXWS" %}
+{% include fond-oplysninger.html fonde="MXWS" %}
 
 Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, ufiltreret eksponering mod den vestlige verden, er denne udenlandske UCITS ETF en stærk kandidat. Da den bevidst *ikke* er tilmeldt SKATs positivliste, lagerbeskattes den som kapitalindkomst.
 * **Ticker:** MXWS (Handelsvaluta: EUR) / ISIN: IE00B60SX394
@@ -67,7 +67,7 @@ Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, uf
 
 ### Vanguard FTSE All-World UCITS ETF Dist (FIRE-favoritten)
 
-{% include fond-oplysninger.html fond="VMCE" %}
+{% include fond-oplysninger.html fonde="VMCE" %}
 
 Vanguard er ikonet inden for passiv indeksinvestering. Hvor Invesco og Nordnet kræver, at du selv kombinerer flere fonde for at få udviklingslandene med, klarer denne ETF det hele i én enkelt handel. Da denne distribuerende version ikke optræder på SKATs positivliste, lander den direkte i kurven for kapitalindkomst. Den findes også i en akkumulerende udgave som VWRL.
 * **Ticker:** VMCE (Handelsvaluta: EUR)

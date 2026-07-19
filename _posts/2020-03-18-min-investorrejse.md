@@ -72,7 +72,7 @@ I mit fuldmagtsinvesteringsprodukt havde banken investeret i nogle aktivt forval
 
 Men jeg måtte altså til at sadle helt om i mine investeringer, fordi jeg ikke bare langsomt kunne omlægge investeringerne.
 
-Jeg fik et [gratis investeringsforslag fra Nord.Investments](/go/nord/){: rel='sponsored nofollow noopener' }, som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
+Jeg fik et gratis investeringsforslag fra [Nord.Investments](/platform/nord/), som nu hedder Norm, som jeg lod mig inspirere af, men jeg var meget i tvivl om, hvordan jeg skulle gribe det an.
 
 Jeg var naturligvis oprindeligt _primet_ til at tænke at banken var den bedste rådgiver for mine penge. I bagklogskabens lys er det naturligvis ikke tilfældet, når de bliver rådgivere og sælgere af deres egne produkter.
 

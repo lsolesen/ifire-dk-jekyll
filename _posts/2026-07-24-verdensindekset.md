@@ -102,20 +102,37 @@ I Danmark er det desværre ikke nok bare at finde det bedste indeks. Det danske 
 Når du vil investere i verdensindekset, har du i praksis to helt forskellige ruter at gå:
 
 ### Rute A: Danske investeringsforeninger (Realisationsbeskatning)
-Hvis du investerer **frie midler** (almindelig opsparing uden om pensionsordninger), er denne rute som regel den mest optimale. For at opnå den eftertragtede *realisationsbeskatning* som aktieindkomst (hvor du først betaler 27% / 42% i skat den dag, du reelt sælger med gevinst), skal du vælge en dansk investeringsforening, der er **udbyttebetalende**. 
 
-* **Den simple 1-fonds løsning:** Du køber *Sparinvest INDEX Globale Aktier KL (SPVIGAKL)*. Denne fond tracker indekset *XXX*, der minder om *MSCI ACWI IMI*, hvilket betyder, at du får Developed Markets, Emerging Markets samt Small Cap leveret i ét enkelt værdipapir. Det er den absolut nemmeste måde at eje 99% af verdensmarkedet på under realisationsprincippet.
-* **Den billigere 2-fonds løsning:** Da Sparinvest-fonden har en ÅOP på ca. 0,58 %, vælger nogle at splitte det op for at spare omkostninger. Du kan købe *Danske Invest Global Indeks KL (DKIGI)* til en lav ÅOP på 0,44 %. Da denne fond dog tracker det "snævre" *MSCI World* (og dermed mangler Emerging Markets og Small Cap), skal du selv supplere op med ca. 12 % i f.eks. *Sparinvest INDEX Emerging Markets KL* for at genskabe balancen.
+Hvis du investerer **frie midler** (almindelig opsparing uden om pensionsordninger) er realisationsbeskatning som aktieindkomst som regel den mest optimale. Det betyder, at du skal vælge en dansk investeringsforening, der er **udbyttebetalende**. 
+
+* **Den simple 1-fonds løsning:** Jeg har længe investeret i *Sparinvest INDEX Globale Aktier KL (SPVIGAKL)*. Fonden tracker indekset *XXX*, der minder om *MSCI ACWI IMI*, hvilket betyder, at du får Developed Markets, Emerging Markets samt Small Cap. Det er ikke så ofte man kan få det hele i et værdipapir. Det er den absolut letteste måde at eje 99% af verdensmarkedet på under realisationsprincippet.
+
+{% include fond-oplysninger.html fonde="SPVIGAKL" %}
+
+* **Den billigere 2-fonds løsning:** Da Sparinvest-fonden har en ÅOP på ca. 0,50%, vælger nogle at splitte det op for at spare omkostninger. Du kan købe *Danske Invest Global Indeks KL (DKIGI)* til en lav ÅOP på 0,44 %. Da denne fond dog tracker det "snævre" *MSCI World* (og dermed mangler Emerging Markets og Small Cap), skal du selv supplere op med ca. 12% i f.eks. *Sparinvest INDEX Emerging Markets KL* for at genskabe balancen, men du ender stadig uden Small Cap.
+
+{% include fond-oplysninger.html allocation="DKIGI:88, SPIEMIKL:12" %}
+
 * **Akkumulerende undtagelse:** *Storebrand Indeks - Alle Markeder (STIIAM)* tracker det brede MSCI ACWI (ESG-screenet). Den er unik, fordi den er akkumulerende, men *realisationsbeskattet* som aktieindkomst. Ulempen er dog en teknisk besværlig afregning over årsopgørelsen, som kræver, at du skal finde ekstern likviditet til skatten hvert år.
+
+{% include fond-oplysninger.html fonde="STIIAM" %}
+
 * 👉 **[Læs min dybdegående porteføljegennemgang for frie midler her](/investeringer/)**
 
 ### Rute B: Udenlandske ETF'er (Lagerbeskatning)
-Hvis du investerer via en **Aktiesparekonto (ASK)** eller dine **pensionsmidler** (Aldersopsparing, Ratepension), ændrer spillereglerne sig fuldstændigt. Disse depoter er i forvejen underlagt tvungen lagerbeskatning fra statens side (henholdsvis 17 % ASK-skat eller 15,3 % PAL-skat), hvor du afregnes hvert år af urealiserede gevinster. 
+
+Hvis du investerer via en **Aktiesparekonto (ASK)** eller dine **pensionsmidler** (Aldersopsparing, Ratepension), ændrer spillereglerne sig. Disse depoter er i forvejen underlagt tvungen lagerbeskatning fra statens side (henholdsvis 17% ASK-skat eller 15,3% PAL-skat), hvor du afregnes hvert år af urealiserede gevinster. 
 
 Her skal du fuldstændig droppe de dyrere danske fonde. I stedet skal du købe udenlandske, akkumulerende ETF'er (Exchange Traded Funds), som typisk er på SKATs positivliste, så de beskattes som aktieindkomst. Da de er akkumulerende, geninvesterer de udbyttet internt helt gratis, og du sparer massivt på de årlige omkostninger (ÅOP).
 
-* **Den ultimative 1-fonds løsning til ASK/Pension:** *iShares MSCI ACWI UCITS ETF (IUSQ)*. Den følger det fulde MSCI ACWI (Large + Mid Cap i hele verden) til en ultralav ÅOP på kun 0,20 %. Det er en rendyrket "set and forget"-motor til din Aktiesparekonto.
+* **Den ultimative 1-fonds løsning til ASK/Pension:** Du kan vælge *iShares MSCI ACWI UCITS ETF (IUSQ)*, som følger det fulde MSCI ACWI (Large + Mid Cap) til en ultralav ÅOP på kun 0,20%. Et fuldstændig ligeværdigt og ekstremt populært alternativ er **Vanguard FTSE All-World UCITS ETF (VWCE)**, som følger det konkurrerende *FTSE All-World* indeks til en ÅOP på 0,22%. Begge fungerer som en rendyrket "set and forget"-motor til din Aktiesparekonto eller pension, hvor du får hele verden i ét enkelt værdipapir.
+
+{% include fond-oplysninger.html fonde="IUSQ, VWCE" %}
+
 * **Den billige 2-fonds løsning til pension:** Du kan købe markedets absolut billigste kernefond, *iShares Core MSCI World (EUNL)*, til en ÅOP på kun 0,20 %. For at dække selskabsstørrelserne og zonerne helt ind, kan du supplere på dit pensionsdepot med *iShares Core MSCI EM IMI (IS3N)* til 0,18 % i ÅOP (som dækker emerging markets inklusive small cap) og eventuelt tilføje en ren Small Cap ETF (*IUSN*) for at ramme den fulde IMI-struktur.
+
+{% include fond-oplysninger.html allocation="EUNL:80, IS3N:10, IUSN:10" %}
+
 * 👉 **[Se min komplette guide til optimering af Aktiesparekontoen](/aktiesparekonto/)**
 * 👉 **[Læs om, hvordan jeg skatteoptimerer mine pensions- og selskabsdepoter](/egen-investering/)**
 
@@ -128,6 +145,14 @@ Når du ejer verdensindekset, vil du hurtigt bemærke, at det amerikanske aktiem
 Det er dog en fundamental misforståelse af en markedsvægtet strategi. Verdensindekset afspejler blot selskabernes reelle størrelse på verdensmarkedet. Hvis de amerikanske selskaber i dag er de mest værdifulde og succesfulde, skal de fylde mest. Hvis magtbalancen skifter i fremtiden, korrigerer indekset sig selv helt automatisk pga. den løbende markedsvægtning – uden at du skal røre en finger eller udløse skat ved et salg. Desuden er giganter som Apple, Microsoft og Nvidia multinationale virksomheder, der henter størstedelen af deres indtjening på globalt plan.
 
 Mange drømmer om at slå verdensmarkedet ved at spotte trends, købe enkeltaktier eller kaste sig over dyre, tematiske ETF'er (f.eks. inden for grøn energi eller AI). Men den berømte og uafhængige **SPIVA-statistik** (Standard & Poor's Active vs. Passive) slår år efter år fast med syvtommersøm: **Over 90 % af de professionelle, topuddannede og fuldtidsansatte investeringsfonde formår ikke at slå det passive markedsindeks over en 15-årig periode.** Når eksperterne med alle deres ressourcer og algoritmer taber til markedsindekset, er sandsynligheden for, at man selv kan gøre det bedre på hobbyplan, forsvindende lille. Tematiske fonde ender stort set altid som en taberforretning pga. høje gebyrer og dårlig timing.
+
+Når du ejer verdensindekset, vil du hurtigt bemærke, at det amerikanske aktiemarked fylder omkring 60-70 % af den samlede portefølje. Mange investorer bliver nervøse for denne koncentration og forsøger manuelt at købe særskilte europæiske eller asiatiske fonde for at tvinge USA-vægten ned. Det er dog en fundamental misforståelse af en markedsvægtet strategi. Verdensindekset afspejler blot selskabernes reelle størrelse på verdensmarkedet. Hvis de amerikanske selskaber i dag er de mest værdifulde og succesfulde, skal de fylde mest. Hvis magtbalancen skifter i fremtiden, korrigerer indekset sig selv helt automatisk pga. den løbende markedsvægtning – uden at du skal røre en finger eller udløse skat ved et salg. Desuden er giganter som Apple, Microsoft og Nvidia multinationale virksomheder, der henter størstedelen af deres indtjening på globalt plan.
+
+Som den kendte amerikanske finansforfatter [J. L. Collins](https://jlcollinsnh.com/2012/09/26/stocks-part-xi-international-funds-2/) påpeger, har de store amerikanske selskaber i forvejen en så gigantisk international berøringsflade og omsætning i resten af verden, at man via USA-vægten automatisk får en massiv global eksponering.
+
+[Warren Buffet mener](/warren-buffett-anbefaler-passive-indekser/), at man kan nøjes med en amerikansk fond af nogle af de samme årsager. Jeg har selv en lang periode ejet følgende fond med meget lave omkostninger.
+
+{% include fond-oplysninger.html fonde="SXR8" %}
 
 ---
 

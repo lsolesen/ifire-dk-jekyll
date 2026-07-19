@@ -1,0 +1,394 @@
+<!-- Hent Chart.js til visualisering af formueudviklingen over tid -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px; margin: 24px 0; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; box-shadow: 0 4px 12px rgba(0,0,0,0.05); width: 100% !important; max-width: 100% !important; box-sizing: border-box;" markdown="0">
+
+<!-- 1. HEADER -->
+<div style="border-bottom: 2px solid #f1f5f9; padding-bottom: 12px; margin-bottom: 20px;">
+<h4 style="margin: 0; font-size: 17px; font-weight: 800; color: #0f172a;">{{ include.title | default: "Den Ultimative Eje vs. Leje Analyse" }}</h4>
+<p style="margin: 4px 0 0 0; font-size: 12.5px; color: #64748b; font-weight: 500; line-height: 1.4;">Simulering af akkumulerede omkostninger, lånetyper samt årlig indeksregulering af huslejen via nettoprisindekset.</p>
+</div>
+
+<!-- 2. GRUPPEREDE INDSTILLINGER -->
+<div style="display: flex; flex-direction: column; gap: 18px; margin-bottom: 24px;">
+  <!-- Gruppe 1: Boligen -->
+  <div style="background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+    <h5 style="margin: 0 0 12px 0; font-size: 13px; font-weight: 800; color: #1e40af; text-transform: uppercase; letter-spacing: 0.03em;">🏠 Ejerbolig & Lånesammensætning</h5>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Husets Købspris</label>
+        <input type="number" id="prop-pris" value="{{ include.kobspris | default: 2900000 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Kontant Udbetaling</label>
+        <input type="number" id="prop-udbetaling" value="{{ include.udbetaling | default: 145000 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Realkreditrente (% p.a.)</label>
+        <input type="number" step="0.1" id="prop-rente-rk" value="{{ include.rente_rk | default: 4.0 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Banklånsrente (% p.a.)</label>
+        <input type="number" step="0.1" id="prop-rente-bank" value="{{ include.rente_bank | default: 7.5 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Årligt Afdrag (% af lån)</label>
+        <input type="number" step="0.1" id="prop-afdrag-pct" value="{{ include.afdrag_pct | default: 2.5 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Vedligeholdelse (% år)</label>
+        <input type="number" step="0.1" id="prop-vedligehold" value="{{ include.vedligehold | default: 1.0 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Gruppe 2: Lejen (NU MED ÅRLIG REGULERING) -->
+  <div style="background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+    <h5 style="margin: 0 0 12px 0; font-size: 13px; font-weight: 800; color: #065f46; text-transform: uppercase; letter-spacing: 0.03em;">🏢 Lejebolig & Indskud</h5>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Månedlig Start-husleje</label>
+        <input type="number" id="prop-leje" value="{{ include.husleje | default: 6000 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Årlig Huslejestigning (% p.a.)</label>
+        <input type="number" step="0.1" id="prop-leje-stigning" value="{{ include.lejestigning | default: 2.0 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Indskud / Depositum</label>
+        <input type="number" id="prop-indskud" value="{{ include.indskud | default: 18000 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Gruppe 3: Investering & Tid -->
+  <div style="background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+    <h5 style="margin: 0 0 12px 0; font-size: 13px; font-weight: 800; color: #b45309; text-transform: uppercase; letter-spacing: 0.03em;">📈 Investeringsmarked & Tidshorisont</h5>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Forventet Aktieafkast (% p.a.)</label>
+        <input type="number" step="0.1" id="prop-aktier" value="{{ include.aktieafkast | default: 7.0 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Forventet Aktieskat (%)</label>
+        <input type="number" id="prop-aktieskat" value="{{ include.aktieskat | default: 30 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Boligmarkedets Stigning (% p.a.)</label>
+        <input type="number" step="0.1" id="prop-stigning" value="{{ include.husstigning | default: 2.0 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Tidshorisont (År)</label>
+        <input type="number" min="1" max="40" id="prop-tid" value="{{ include.tidshorisont | default: 10 }}" oninput="beregnBolig()" style="width: 100%; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 3. DETALJERET TRANSPARENT TABEL -->
+<div style="width: 100% !important; min-width: 100% !important; overflow-x: auto; box-sizing: border-box; margin-bottom: 24px; border: 1px solid #e2e8f0; border-radius: 8px;">
+<table style="width: 100% !important; min-width: 100% !important; border-collapse: collapse; font-size: 12.5px; text-align: left; display: table !important; table-layout: auto; box-sizing: border-box; margin: 0;">
+<thead>
+<tr style="background-color: #f8fafc; border-bottom: 2px solid #e2e8f0; color: #475569; font-size: 10.5px; text-transform: uppercase; font-weight: 800;">
+<th style="padding: 12px 10px;">Månedlig Likviditetsbalance (Snapshot År 1)</th>
+<th style="padding: 12px 10px; text-align: right; width: 160px; color: #1e40af;">Hvis du EJER huset</th>
+<th style="padding: 12px 10px; text-align: right; width: 160px; color: #065f46;">Hvis du LEJER huset</th>
+</tr>
+</thead>
+<tbody style="color: #334155;">
+<tr style="font-weight: 700; background: #f8fafc;"><td style="padding: 6px 10px;" colspan="3">A. Løbende Tabte Omkostninger (Penge ud av vinduet)</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td>Månedlig husleje til udlejer</td><td style="text-align: right; color:#cbd5e1;">-</td><td id="tbl-leje-ren" style="text-align: right; font-weight:600;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td id="lbl-rk-loan">Renteudgifter: Realkredit</td><td id="tbl-eje-rente-rk" style="text-align: right; font-weight:600; color:#b91c1c;">0 kr.</td><td style="text-align: right; color:#cbd5e1;">-</td></tr>
+<tr id="row-bankloan" style="border-bottom: 1px solid #f1f5f9;"><td id="lbl-bank-loan">Renteudgifter: Banklån</td><td id="tbl-eje-rente-bank" style="text-align: right; font-weight:600; color:#b91c1c;">0 kr.</td><td style="text-align: right; color:#cbd5e1;">-</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td>Løbende vedligeholdelse & forsikringer</td><td id="tbl-eje-vedligehold" style="text-align: right; font-weight:600; color:#b91c1c;">0 kr.</td><td style="text-align: right; color:#cbd5e1;">-</td></tr>
+<tr style="border-bottom: 1px solid #cbd5e1;"><td>Ejendomsskatter (Grundskyld/Værdiskat)</td><td id="tbl-eje-skat" style="text-align: right; font-weight:600; color:#b91c1c;">0 kr.</td><td style="text-align: right; color:#cbd5e1;">-</td></tr>
+<tr style="font-weight: 700; background: #fff5f5; border-bottom: 2px solid #cbd5e1; color:#b91c1c;"><td>Subtotal: Månedlige tabte penge i alt</td><td id="tbl-eje-tabt-tot" style="text-align: right;">0 kr.</td><td id="tbl-leje-tabt-tot" style="text-align: right;">0 kr.</td></tr>
+
+<tr style="font-weight: 700; background: #f8fafc;"><td style="padding: 6px 10px;" colspan="3">B. Opsparingskomponent (Formueopbygning)</td></tr>
+<tr style="border-bottom: 2px solid #cbd5e1;"><td>Månedligt afdrag på gæld (Opsparing i mursten)</td><td id="tbl-eje-afdrag" style="text-align: right; font-weight:600; color:#166534;">0 kr.</td><td style="text-align: right; color:#cbd5e1;">-</td></tr>
+
+<tr style="font-weight: 900; background: #e2e8f0; color: #0f172a;">
+<td style="padding: 12px 10px; text-transform: uppercase; font-size: 11px;">Samlet månedlig kontant ydelse ud af lommen (A + B)</td>
+<td id="tbl-eje-ydelse-tot" style="text-align: right; color:#1e3a8a; font-size:13.5px;">0 kr.</td>
+<td id="tbl-leje-ydelse-tot" style="text-align: right; color:#065f46; font-size:13.5px;">0 kr.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- 4. VISUEL DYNAMISK LINJEGRAF -->
+<div style="margin-bottom: 24px; padding: 14px; border: 1px solid #e2e8f0; border-radius: 8px; background: #fff;">
+  <span style="font-size: 11px; font-weight: 800; color: #475569; text-transform: uppercase; display: block; margin-bottom: 12px; text-align: center;">📈 Formueudvikling over tid (Netto efter alt skat ved salg)</span>
+  <div style="width: 100%; height: 260px; position: relative;">
+    <canvas id="boligFlotChart" style="width: 100%; height: 100%;"></canvas>
+  </div>
+</div>
+
+<!-- 5. MATRIX-DASHBOARD (MATEMATISK TRANSPARENT FRA TOP TIL BUND) -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin-bottom: 20px;">
+  
+  <!-- Sektion 1: Lejerens Kontantstrømme -->
+  <div style="background: #f0fdf4; border: 1px solid #bbf7d0; padding: 14px; border-radius: 8px;">
+    <span style="font-size: 11px; font-weight: 800; color: #166534; text-transform: uppercase; display: block; border-bottom: 1px dashed #bbf7d0; padding-bottom: 4px; margin-bottom: 8px;">🏢 LEJERENS TOTALREGNSKAB</span>
+    <div style="font-size: 12px; display: flex; flex-direction: column; gap: 6px;">
+      <div>• Samlet betalt husleje (Tabt): <strong id="dash-leje-samlet-leje" style="float:right; color:#b91c1c;">0 kr.</strong></div>
+      <div style="border-top: 1px dashed #bbf7d0; padding-top: 4px; margin-top: 2px; font-weight: 700; color:#475569;">Investerings-input:</div>
+      <div>&nbsp;&nbsp;&nbsp;Frie aktiestartkapital (År 0): <strong id="dash-leje-start" style="float:right; color:#15803d;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;+ Løbende ekstra aktiekøb: <strong id="dash-leje-ekstra" style="float:right; color:#15803d;">0 kr.</strong></div>
+      <div style="background:#e8f7ed; padding: 2px 4px; border-radius:4px;">= Samlet indskudt på aktier: <strong id="dash-leje-indskudt-alt" style="float:right; color:#15803d;">0 kr.</strong></div>
+    </div>
+  </div>
+
+  <!-- Sektion 2: Ejerens Friværdi-mellemregning -->
+  <div style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 14px; border-radius: 8px;">
+    <span style="font-size: 11px; font-weight: 800; color: #1e40af; text-transform: uppercase; display: block; border-bottom: 1px dashed #bfdbfe; padding-bottom: 4px; margin-bottom: 8px;">🏠 EJERENS FORMUEOPGØRELSE</span>
+    <div style="font-size: 12px; display: flex; flex-direction: column; gap: 6px;">
+      <div>• Samlet tabt ejerudgift: <strong id="dash-eje-samlet-tabt" style="float:right; color:#b91c1c;">0 kr.</strong></div>
+      <div style="font-size:11px; color:#64748b; padding-left: 6px; margin-bottom: 4px;">(Renter: <span id="dash-eje-samlet-rente">0</span> | Skat/Vedl: <span id="dash-eje-samlet-skatvedl">0</span>)</div>
+      <div style="border-top: 1px dashed #bfdbfe; padding-top: 4px; font-weight: 700; color:#475569;">Friværdi-regnestykke:</div>
+      <div>&nbsp;&nbsp;&nbsp;Husets nye markedsværdi: <strong id="dash-eje-vaerdi" style="float:right; color:#1e3a8a;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;- Resterende gæld i alt: <strong id="dash-eje-gaeld" style="float:right; color:#b91c1c;">0 kr.</strong></div>
+      <div style="background:#e0f2fe; padding: 4px; border-radius:4px; font-weight: 900; border: 1px solid #bfdbfe;">= Skattefrie Friværdi (Netto): <strong id="dash-eje-netto" style="float:right; color:#1e3a8a; font-size:13px;">0 kr.</strong></div>
+    </div>
+  </div>
+
+  <!-- Sektion 3: Lejerens Aktie-mellemregning -->
+  <div style="background: #fdf4ff; border: 1px solid #f5d0fe; padding: 14px; border-radius: 8px;">
+    <span style="font-size: 11px; font-weight: 800; color: #701a75; text-transform: uppercase; display: block; border-bottom: 1px dashed #f5d0fe; padding-bottom: 4px; margin-bottom: 8px;">🧮 LEJERS AKTIE-MELLEMREGNINGER</span>
+    <div style="font-size: 12px; display: flex; flex-direction: column; gap: 6px;">
+      <div>&nbsp;&nbsp;&nbsp;Samlet indskudt på aktier: <strong id="dash-breakdown-indskudt" style="float:right; color:#701a75;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;+ Akkumuleret bruttoafkast: <strong id="dash-breakdown-afkast" style="float:right; color:#16a34a;">0 kr.</strong></div>
+      <div style="background:#fae8ff; padding: 2px 4px; border-radius:4px; font-weight:700;">= Opsparet bruttoformue: <strong id="dash-breakdown-brutto" style="float:right; color:#701a75;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;- Løbende årlig udbytteskat: <strong id="dash-breakdown-loebende-skat" style="float:right; color:#b91c1c;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;- Slutskat ved realisering: <strong id="dash-breakdown-slutskat" style="float:right; color:#b91c1c;">0 kr.</strong></div>
+      <div>&nbsp;&nbsp;&nbsp;+ Returneret boligindskud: <strong id="dash-breakdown-indskud" style="float:right; color:#16a34a;">0 kr.</strong></div>
+      <div style="background:#fdf4ff; padding: 4px; border-radius:4px; font-weight: 900; border: 1px solid #f5d0fe;">= Endelig udbetalt nettoformue: <strong id="dash-leje-netto" style="float:right; color:#166534; font-size:13px;">0 kr.</strong></div>
+    </div>
+  </div>
+
+  <!-- Sektion 4: De afgørende forskelle -->
+  <div style="background: #fff7ed; border: 1px solid #ffedd5; padding: 14px; border-radius: 8px;">
+    <span style="font-size: 11px; font-weight: 800; color: #c2410c; text-transform: uppercase; display: block; border-bottom: 1px dashed #ffedd5; padding-bottom: 4px; margin-bottom: 8px;">📊 STRUKTURELLE FORSKELLE</span>
+    <div style="font-size: 12px; display: flex; flex-direction: column; gap: 6px;">
+      <div>• Start Mnd. Cashflow-fordel: <strong id="dash-diff-flow" style="float:right; color:#9a3412;">0 kr.</strong></div>
+      <div>• Hvem tabte flest penge? <strong id="dash-diff-hvem-tabte" style="float:right; color:#b91c1c;">-</strong></div>
+      <div style="border-top: 1px solid #ffedd5; padding-top: 4px; margin-top: 2px;">• <strong>Slutformue-difference:</strong> <strong id="dash-diff-slut" style="float:right; color:#c2410c; font-size:13.5px; font-weight:900;">0 kr.</strong></div>
+    </div>
+  </div>
+</div>
+
+<!-- 6. SKRIFTLIG STRATEGISK OPSAMLING -->
+<div id="bolig-konklusion" style="padding: 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 13px; line-height: 1.5; color: #334155; font-weight: 500;">
+<!-- Genereres live af JS -->
+</div>
+
+</div>
+
+<script>
+let mitBoligChartObjekt = null;
+
+function beregnBolig() {
+  // 1. INPUTS
+  const kobspris = Math.max(0, parseFloat(document.getElementById('prop-pris').value) || 0);
+  const udbetaling = Math.max(0, parseFloat(document.getElementById('prop-udbetaling').value) || 0);
+  const husleje = Math.max(0, parseFloat(document.getElementById('prop-leje').value) || 0);
+  const lejeStigningPct = (parseFloat(document.getElementById('prop-leje-stigning').value) || 0) / 100;
+  const indskud = Math.max(0, parseFloat(document.getElementById('prop-indskud').value) || 0);
+  
+  const rkPct = (parseFloat(document.getElementById('prop-rente-rk').value) || 0) / 100;
+  const bankPct = (parseFloat(document.getElementById('prop-rente-bank').value) || 0) / 100;
+  const afdragPct = (parseFloat(document.getElementById('prop-afdrag-pct').value) || 0) / 100;
+  const vedligeholdPct = (parseFloat(document.getElementById('prop-vedligehold').value) || 0) / 100;
+  const aktieAfkastPct = (parseFloat(document.getElementById('prop-aktier').value) || 0) / 100;
+  const aktieskatSats = (parseFloat(document.getElementById('prop-aktieskat').value) || 0) / 100;
+  const husStigningPct = (parseFloat(document.getElementById('prop-stigning').value) || 0) / 100;
+  const tidHorizon = Math.max(1, parseInt(document.getElementById('prop-tid').value) || 10);
+
+  // Lånefordeling
+  const maxRkLaan = kobspris * 0.80;
+  const totalLaanBehov = Math.max(0, kobspris - udbetaling);
+  const rkLaanStart = Math.min(maxRkLaan, totalLaanBehov);
+  const bankLaanStart = Math.max(0, totalLaanBehov - rkLaanStart);
+
+  const ejendomsskatAarlig = kobspris * 0.007;
+
+  // Snapshot År 1 faste tal
+  const mdRenteRK = (rkLaanStart * rkPct) / 12;
+  const mdRenteBank = (bankLaanStart * bankPct) / 12;
+  const mdVedligehold = (kobspris * vedligeholdPct) / 12;
+  const mdSkat = ejendomsskatAarlig / 12;
+  const totalTabtEjerUdgift = mdRenteRK + mdRenteBank + mdVedligehold + mdSkat;
+  const mdAfdrag = (totalLaanBehov * afdragPct) / 12;
+
+  function fmtRaw(v) { return Math.round(v).toLocaleString('da-DK') + ' kr.'; }
+  document.getElementById('tbl-leje-ren').innerText = fmtRaw(husleje);
+  document.getElementById('tbl-eje-rente-rk').innerText = fmtRaw(mdRenteRK);
+  document.getElementById('lbl-rk-loan').innerText = `Renteudgifter: Realkredit (80% — ${fmtRaw(rkLaanStart)})`;
+  
+  if(bankLaanStart > 0) {
+    document.getElementById('row-bankloan').style.display = 'table-row';
+    document.getElementById('tbl-eje-rente-bank').innerText = fmtRaw(mdRenteBank);
+    document.getElementById('lbl-bank-loan').innerText = `Renteudgifter: Banklån (${kobspris > 0 ? Math.round((bankLaanStart/kobspris)*100) : 0}% — ${fmtRaw(bankLaanStart)})`;
+  } else {
+    document.getElementById('row-bankloan').style.display = 'none';
+  }
+  document.getElementById('tbl-eje-vedligehold').innerText = fmtRaw(mdVedligehold);
+  document.getElementById('tbl-eje-skat').innerText = fmtRaw(mdSkat);
+  document.getElementById('tbl-eje-tabt-tot').innerText = fmtRaw(totalTabtEjerUdgift);
+  document.getElementById('tbl-leje-tabt-tot').innerText = fmtRaw(husleje);
+  document.getElementById('tbl-eje-afdrag').innerText = fmtRaw(mdAfdrag);
+  document.getElementById('tbl-eje-ydelse-tot').innerText = fmtRaw(totalTabtEjerUdgift + mdAfdrag);
+  document.getElementById('tbl-leje-ydelse-tot').innerText = fmtRaw(husleje);
+
+  // --- LOOP SIMULERING ---
+  let chartLabels = [0];
+  let chartLejerData = [Math.max(0, udbetaling - indskud) + indskud];
+  let chartEjerData = [udbetaling];
+
+  let lejerAktier = Math.max(0, udbetaling - indskud);
+  let startKapitalLejer = lejerAktier;
+  let totalEkstraInvesteret = 0;
+  
+  let totalLejeBetalt = 0;
+  let totalRenteRKBetalt = 0;
+  let totalRenteBankBetalt = 0;
+  let totalVedligeholdBetalt = 0;
+  let totalSkatBetalt = 0;
+  let totalLoeberendeUdbytteskat = 0;
+  let totalGenereretAfkastBrutto = 0;
+
+  let restGaeld_RK = rkLaanStart;
+  let restGaeld_Bank = bankLaanStart;
+  let aktuelBoligVaerdi = kobspris;
+  let aktuelHusleje = husleje; // tracker huslejen undervejs som reguleres årligt
+
+  for (let aar = 1; aar <= tidHorizon; aar++) {
+    for (let m = 1; m <= 12; m++) {
+      let fribeloebMedVekst = lejerAktier * (aktieAfkastPct / 12);
+      totalGenereretAfkastBrutto += fribeloebMedVekst;
+      lejerAktier += fribeloebMedVekst;
+
+      let curRenteRK = (restGaeld_RK * rkPct) / 12;
+      let curRenteBank = (restGaeld_Bank * bankPct) / 12;
+      
+      totalLejeBetalt += aktuelHusleje; // akkumulerer den nuværende regulerede leje
+      totalRenteRKBetalt += curRenteRK;
+      totalRenteBankBetalt += curRenteBank;
+      totalVedligeholdBetalt += mdVedligehold;
+      totalSkatBetalt += mdSkat;
+
+      let curTabtMnd = curRenteRK + curRenteBank + mdVedligehold + mdSkat;
+      let curEjerYdelse = curTabtMnd + mdAfdrag;
+
+      // Lejer sparer cashflow ift den *aktuelle* regulerede leje
+      if (curEjerYdelse > aktuelHusleje) {
+        let diff = curEjerYdelse - aktuelHusleje;
+        lejerAktier += diff;
+        totalEkstraInvesteret += diff;
+      }
+
+      if (restGaeld_Bank > mdAfdrag) {
+        restGaeld_Bank -= mdAfdrag;
+      } else {
+        let rest = mdAfdrag - restGaeld_Bank;
+        restGaeld_Bank = 0;
+        restGaeld_RK = Math.max(0, restGaeld_RK - rest);
+      }
+    }
+
+    // Årlig regulering af huslejen via nettoprisindeks ved årets udgang
+    aktuelHusleje *= (1 + lejeStigningPct);
+
+    // Årlig Udbytteskat
+    let aarligtUdbytte = lejerAktier * 0.03;
+    let aarligSkatRegning = aarligtUdbytte * aktieskatSats;
+    lejerAktier -= aarligSkatRegning;
+    totalLoeberendeUdbytteskat += aarligSkatRegning;
+
+    aktuelBoligVaerdi *= (1 + husStigningPct);
+    let aktuelFrivaerdi = Math.max(0, aktuelBoligVaerdi - (restGaeld_RK + restGaeld_Bank));
+
+    let midlertidigIndskudt = startKapitalLejer + totalEkstraInvesteret;
+    let midlertidigGevinst = Math.max(0, lejerAktier - midlertidigIndskudt);
+    let midlertidigSlutskat = midlertidigGevinst * aktieskatSats;
+    let nettoLejerFormueNu = lejerAktier - midlertidigSlutskat + indskud;
+
+    chartLabels.push(aar);
+    chartLejerData.push(Math.round(nettoLejerFormueNu));
+    chartEjerData.push(Math.round(aktuelFrivaerdi));
+  }
+
+  // --- AFSLUTTENDE BALANCERING ---
+  const samletIndskudtAktier = startKapitalLejer + totalEkstraInvesteret;
+  const opsparetBruttoformue = samletIndskudtAktier + totalGenereretAfkastBrutto - totalLoeberendeUdbytteskat;
+  const slutskatVedRealisering = Math.max(0, lejerAktier - samletIndskudtAktier) * aktieskatSats;
+  const lejerNettoSlut = lejerAktier - slutskatVedRealisering + indskud;
+  
+  const totalRestGaeld = restGaeld_RK + restGaeld_Bank;
+  const ejerNettoSlut = Math.max(0, aktuelBoligVaerdi - totalRestGaeld);
+  const samletTabtEjer = totalRenteRKBetalt + totalRenteBankBetalt + totalVedligeholdBetalt + totalSkatBetalt;
+
+  // POPULER DASHBOARD
+  document.getElementById('dash-leje-samlet-leje').innerText = fmtRaw(totalLejeBetalt);
+  document.getElementById('dash-leje-start').innerText = fmtRaw(startKapitalLejer);
+  document.getElementById('dash-leje-ekstra').innerText = fmtRaw(totalEkstraInvesteret);
+  document.getElementById('dash-leje-indskudt-alt').innerText = fmtRaw(samletIndskudtAktier);
+
+  document.getElementById('dash-eje-samlet-tabt').innerText = fmtRaw(samletTabtEjer);
+  document.getElementById('dash-eje-samlet-rente').innerText = Math.round(totalRenteRKBetalt + totalRenteBankBetalt).toLocaleString('da-DK');
+  document.getElementById('dash-eje-samlet-skatvedl').innerText = Math.round(totalVedligeholdBetalt + totalSkatBetalt).toLocaleString('da-DK');
+  document.getElementById('dash-eje-vaerdi').innerText = fmtRaw(aktuelBoligVaerdi);
+  document.getElementById('dash-eje-gaeld').innerText = fmtRaw(totalRestGaeld);
+  document.getElementById('dash-eje-netto').innerText = fmtRaw(ejerNettoSlut);
+
+  // Det matematiske 🧮 investeringsbreakdown
+  document.getElementById('dash-breakdown-indskudt').innerText = fmtRaw(samletIndskudtAktier);
+  document.getElementById('dash-breakdown-afkast').innerText = fmtRaw(totalGenereretAfkastBrutto);
+  document.getElementById('dash-breakdown-brutto').innerText = fmtRaw(opsparetBruttoformue);
+  document.getElementById('dash-breakdown-loebende-skat').innerText = fmtRaw(totalLoeberendeUdbytteskat);
+  document.getElementById('dash-breakdown-slutskat').innerText = fmtRaw(slutskatVedRealisering);
+  document.getElementById('dash-breakdown-indskud').innerText = fmtRaw(indskud);
+  document.getElementById('dash-leje-netto').innerText = fmtRaw(lejerNettoSlut);
+
+  // Forskelle
+  const startCashflowForskel = Math.abs((totalTabtEjerUdgift + mdAfdrag) - husleje);
+  document.getElementById('dash-diff-flow').innerText = "+" + fmtRaw(startCashflowForskel) + "/md.";
+  document.getElementById('dash-diff-slut').innerText = fmtRaw(Math.abs(lejerNettoSlut - ejerNettoSlut));
+  
+  const diffTabtePenge = Math.abs(samletTabtEjer - totalLejeBetalt);
+  document.getElementById('dash-diff-hvem-tabte').innerText = samletTabtEjer > totalLejeBetalt 
+    ? "Ejer tabte " + fmtRaw(diffTabtePenge) + " mere" 
+    : "Lejer tabte " + fmtRaw(diffTabtePenge) + " mere";
+
+  // RENDERING AF CHART
+  if (mitBoligChartObjekt) { mitBoligChartObjekt.destroy(); }
+  const ctx = document.getElementById('boligFlotChart').getContext('2d');
+  mitBoligChartObjekt = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: chartLabels,
+      datasets: [
+        { label: 'Lejer Nettoformue (Efter al skat ved salg)', data: chartLejerData, borderColor: '#10b981', backgroundColor: 'transparent', borderWidth: 3, pointRadius: 2 },
+        { label: 'Ejer Friværdi (Skattefri)', data: chartEjerData, borderColor: '#3b82f6', backgroundColor: 'transparent', borderWidth: 3, pointRadius: 2 }
+      ]
+    },
+    options: { responsive: true, maintainAspectRatio: false, scales: { y: { ticks: { callback: function(value) { return (value/1000000).toFixed(1) + ' mio. kr.'; } } } } }
+  });
+
+  // TEKSTOPSAMLING
+  const konklusionDiv = document.getElementById('bolig-konklusion');
+  let vinderUdsagn = lejerNettoSlut > ejerNettoSlut
+    ? `lejeboligen og investere overskuddet. Selvom du betaler både den løbende udbytteskat og en stor slutskat ved realisering, overperformer aktiemarkedets sneboldeffekt ejerens mursten.`
+    : `købe ejendommen. Ejerens massive fordel ved at have en **100% skattefri boliggevinst** overperformer i dette scenarie lejerens aktiedepot, som tynges af de løbende skatter til staten.`;
+
+  konklusionDiv.innerHTML = `<strong>Transparent strategisk dom efter ${tidHorizon} år:</strong><br>
+  Ved at tilføje den årlige regulering af huslejen stiger lejerens månedlige udgift i takt med nettoprisindekset. Det betyder, at det samlede beløb betalt i husleje over perioden ender på <strong>${fmtRaw(totalLejeBetalt)}</strong>, hvilket gradvist indsnævrer lejerens månedlige investeringsfordel.<br><br>
+  Lejeren afregner undervejs <strong>${fmtRaw(totalLoeberendeUdbytteskat)} i løbende skat</strong> og <strong>${fmtRaw(slutskatVedRealisering)} i slutskat</strong>.<br><br>
+  Boligejeren taber samlet set <strong>${fmtRaw(samletTabtEjer)}</strong> over perioden (heraf ${fmtRaw(totalRenteRKBetalt+totalRenteBankBetalt)} i rene renter og ${fmtRaw(totalVedligeholdBetalt+totalSkatBetalt)} i skatter og vedligehold). Til gengæld udbetales hele friværdien skattefrit.<br><br>
+  <strong>Endelig dom:</strong> Over en periode på ${tidHorizon} år er det mest optimale træk at <strong>${vinderUdsagn}</strong>`;
+}
+
+window.addEventListener('DOMContentLoaded', (event) => {
+  beregnBolig();
+});
+</script>

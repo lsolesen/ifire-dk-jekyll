@@ -61,7 +61,7 @@ Det er dog ikke altid muligt at følge indekset 100 % præcist på decimalen på
 
 {% include figure image_path="/assets/images/posts/indeksfond-udvikling.png" caption="Den populære 'Sparindex INDEX Globale Aktier KL' dækker verdensindekset. Kursen på indexfonden bevæger sig synkront med verdensmarkedet." alt="indeksfonde udvikling" %}
 
-Med en indeksfond opnår du altså markedets gennemsnitlige afkast. Det bredeste indeks er verdensindekset, som f.eks. MSCI ACWI eller MSCI ACWI IMI. Du kan også købe en C25-indeksfond eller et indeks med de 500 største amerikanske aktier i S&P 500, som er det indeks, Warren Buffett historisk har anbefalet private investorer at følge.
+Med en indeksfond opnår du altså markedets gennemsnitlige afkast. Det bredeste indeks er [verdensindekset](/verdensindekset/), som f.eks. MSCI ACWI eller MSCI ACWI IMI. Du kan også købe en C25-indeksfond eller et indeks med de 500 største amerikanske aktier i S&P 500, som er det indeks, Warren Buffett historisk har anbefalet private investorer at følge.
 
 ---
 
@@ -125,7 +125,9 @@ Hvis du investerer via en Aktiesparekonto (hvor indskudsloftet i 2026 er **174.2
 
 Index investering er uden tvivl en af de mest fornuftige og dokumenterede metoder til at opbygge en formue på som privatperson. Du slipper for besværet med at overvåge enkeltaktier, holder dine omkostninger i bund, og sikrer dig et solidt, langesigtet markedsafkast.
 
-Hvis du vil gøre det absolut nemmest for dig selv, kan du oprette en automatiseret løsning hos platforme som **[NORD.investments](/go/nord/){: rel='sponsored nofollow noopener' }**, der automatisk sammensætter en passiv portefølje af billige indeksfonde baseret på din personlige risikovillighed.
+Hvis du vil gøre det absolut nemmest for dig selv, kan du oprette en automatiseret løsning hos platforme som **[Norm Invest](/platform/nord/)**, der automatisk sammensætter en passiv portefølje af billige indeksfonde baseret på din personlige risikovillighed.
+
+*Sidder du med en specifik fond i kikkerten på Nordnet, og er du i tvivl om, hvorvidt dens ÅOP og Tracking Error faktisk er godkendt? Så kan du smide dens nøgletal direkte ind i [vores interaktive fond-evaluator](/hvilken-fond/).*
 
 ---
 

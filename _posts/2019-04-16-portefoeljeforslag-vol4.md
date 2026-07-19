@@ -16,6 +16,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
+**OBS: Dette er en ældre artikel, som ikke længere opdateres.** Hvis du er interesseret i at kende min nuværende langsigtede investeringsstrategi, kan du læse om den på [/min-strategi/](/min-strategi/). Du kan også se præcis, hvordan min aktuelle portefølje er sammensat i dag på [/mine-investeringer/](/mine-investeringer/). Hvis du i stedet leder efter en opdateret, dybdegående guide til aktivallokering og historiske teorier som All Weather og Permanent Portfolio, kan du læse den nye side om [modelporteføljer og aktivallokering](/modelportefoeljer-aktivallokering/).
+{: .notice--warning }
+
 Jeg har efterhånden gjort mig [rigtig](/investering/) [mange](/investering-vol2/) [overvejelser](/investering-vol3/) om, hvordan min aktie- og obligationsportefølje skal være. Der er mange variable, der skal overvejes, og derfor er jeg også kommet frem til flere forskellige porteføljer.
 
 Jeg satser hovedsageligt på **investeringsfonde** og **ETF’er**, som investerer passivt i indekser.
@@ -28,8 +31,6 @@ Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er in
 
 **UPDATE**: Desværre er fondene fra _Vanguard_ med virkelig lave omkostninger ikke **UCITS**-godkendte, så det kan ikke købes på hverken Nordnet eller SaxoInvestor.
 {: .notice--info}
-
-[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
 
 ## Hold øje med kurtagen
 
@@ -70,7 +71,9 @@ Der betales 27% i aktiebeskatning efter realiseringsprincippet op til bundgræns
 
 ## Portefølje 2: Nordnet: Growth Portfolio (aktier, obligationer, REIT og guld)
 
-Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg ved endnu ikke om jeg rent faktisk vil købe guld til min portefølje, men det er tydeligt i _back tests_ fra The Obvious Investor, at det stabiliserer porteføljen. Jeg vil primært gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP). Jeg har valgt de tre aktie-ETF'er, som også er en del af den [gratis investeringsplan fra Nord.investments](/go/nord/), jeg har fået lavet. The Obvious Investor foreslår tre REIT ([Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB)), men jeg vil hellere dække REIT med en ETF. Jeg har markeret i tabellen nedenunder, hvilke af værdipapirerne, der kan købes i månedsopsparingen hos Nordnet. Denne portefølje er primært akkumulerende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb, når det er ved at være tid til at rebalancere porteføljen. Fordelingen i tabellen er på sigt, når porteføljen er klar til at passe sig selv uden for meget indblanden.
+Denne portefølje er kraftigt inspireret af [The Obvious Investor](https://obviousinvestor.com/my-investments/growth-portfolio/). [The Obvious Investors](https://obviousinvestor.com/my-investments/growth-portfolio/) _Growth Portfolio_ anbefaler han 25% aktier, 25% obligationer, 25% guld og 25% REIT. Jeg ved endnu ikke om jeg rent faktisk vil købe guld til min portefølje, men det er tydeligt i _back tests_ fra The Obvious Investor, at det stabiliserer porteføljen. Jeg vil primært gerne have en portefølje, som jeg kunne fylde i vha. månedsopsparingen. [Frinans.dk](https://www.frinans.dk/millionaerklubsportefoeljen-3-etfer-i-maanedsopsparingen/) foreslår fire fonde fra _BlackRock_, som har fornuftige årlige omkostninger (ÅOP).
+
+Jeg har valgt de tre aktie-ETF'er, som også er en del af den [gratis investeringsplan fra Nord.investments](/go/nord/), jeg har fået lavet. The Obvious Investor foreslår tre REIT ([Federal Realty Investment Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P00000241), [National Retail Properties](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000001DX) og [Universal Health Realty Income Trust](http://tools.morningstar.dk/dk/stockreport/default.aspx?Site=dk&id=0P000005OB)), men jeg vil hellere dække REIT med en ETF. Jeg har markeret i tabellen nedenunder, hvilke af værdipapirerne, der kan købes i månedsopsparingen hos Nordnet. Denne portefølje er primært akkumulerende. Udbytterne bliver blot reinvesteret gennem månedsopsparingen og manuelle opkøb, når det er ved at være tid til at rebalancere porteføljen. Fordelingen i tabellen er på sigt, når porteføljen er klar til at passe sig selv uden for meget indblanden.
 
 | Tick | Værdipapir                                                                                                                                    | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling | Måned |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|-------|
@@ -96,22 +99,9 @@ Mit [gratis Investeringsforslag fra Nord](/go/nord/){: rel='sponsored nofollow n
 
 ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen individuelle skatteprocent. Det er altså væsentligt at være opmærksom på, at jeg har frie midler nok til at svare skatten af ETF’erne.
 
-## Portefølje 3: Nordnet: Growth Portfolio USD (Vanguard)
+Da obligationerne i denne periode pga. de meget lave renter, så valgte jeg at sammensætte porteføljen noget anderledes, hvor jeg erstattede obligationsdelen med en aktiedel. Jeg valgte også en aktiefond, som fulgte indekset i USA for at få lavest mulige omkostninger.
 
-Jeg vil gerne have lidt mere eksponering i USD, og jeg synes _Vanguard_ er rigtig interessant med utrolig lave omkostninger. VTI er eksponeret mod hele verden, mens jeg har valgt VYM og VNQ som er eksponeret mod USA. Når jeg køber ind til porteføljen på Nordnet, skal jeg sørge for at købe ind i store nok portioner, så kurtagen bliver mindst mulig. De er alle udbyttebetalende, og udbytterne vil i første omgang bare blive geninvesteret manuelt.
-
-De følgende fonde fra Vanguard vil jeg købe i USD. Jeg er opmærksom på, at USD kan falde, når jeg evt. vil sælge værdipapirerne igen, men det giver også en valutaspredning at investere i flere valutaer. Da mine samlede investeringer er spredt bliver jeg ikke tvunget til at sælge positionen på noget bestemt tidspunkt.
-
-| Værdipapir                                                                                                            | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
-|-----------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
-| [Vanguard Total Stock Market ETF (VTI) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00002DAJ)  | 0,04% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 40%       |
-| [Vanguard High Dividend Yield ETF (VYM) (USD)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00006A9F) | 0,06% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2605; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | 30%       |
-| [Vanguard Real Estate ETF (VNQ) (USD)](https://www.morningstar.com/etfs/arcx/vnq/quote)                               | 0,12% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | 30%       |
-
-**UPDATE**: Disse ETF'er fra _Vanguard_ er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor, så jeg skal have fundet nogle europæiske udgaver af fondene, hvor jeg får nogenlunde samme omkostninger.
-{: .notice--info}
-
-ETF’er beskattes efter lagerprincippet, og der skal således betales skat af gevinst og tab, selvom investeringerne ikke er solgt. I 2019 beskattes de som kapitalindkomst - altså med min egen skatteprocent. Det er altså væsentligt at være opmærksom på, at der er frie midler nok til at svare skatten af ETF’erne.
+{% include fond-oplysninger.html allocation="SXR8:50, 4GLD:25, TRET:25" %}
 
 ## Portefølje 4: SaxoInvestor: Aktiesparekonto
 
@@ -130,21 +120,6 @@ Når kapitalpensionen beskattes med pensionsafkastskat (PAL-skat) på 15,3%. Kap
 ## Portefølje 6: SparNord: Børneopsparing
 
 På mine børneopsparinger vil jeg købe en bæredygtig fond, der stille og roligt bare skal blive flere penge værd.
-
-## Portefølje 7: Nordnet: Bæredygtig portfolio EUR
-
-Jeg har en drøm om også at lave en decideret bæredygtig portefølje. Desværre er det kun xTrackers der kan købes på månedsopsparingen, så skal lige have fundet en god måde at købe ETF’erne på, da omkostningerne også er lidt højere en sædvanligt med ETF’er.
-
-| Værdipapir                                                                                                                                | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Fordeling |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-----------|
-| [Xtrackers MSCI Africa Top 50 Swap UCITS ETF 1C (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000U9KU)             | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; |                                          | -         |
-| [BlackRock iShares Global Clean Energy UCITS ETF USD (Dist) (EUR)](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000I4PL) | 0,65% | &#x2605;&#x2605;&#x2605;&#x2605;&#x2606; | &#x26AB;&#x26AB;&#x26AA;&#x26AA;&#x26AA; | -         |
-| [BlackRock iShares MSCI ACWI Low Carbon Target ETF](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00014DXN)                | 0,65% | &#x2605;&#x2605;&#x2605;&#x2606;&#x2606; | &#x26AB;&#x26AB;&#x26AB;&#x26AA;&#x26AA; | -         |
-| [BlackRock iShares MSCI Global Impact ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P00017FJ9)                     | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AA; | -         |
-| [BlackRock iShares Global Green Bond ETF USD](http://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0001EDEI)                      | ?     |                                          | &#x26AB;&#x26AB;&#x26AB;&#x26AB;&#x26AB; | -         |
-
-**UPDATE**: De tre nederste _iShares_ er ikke **UCITS** godkendte - og de kan ikke købes på hverken Nordnet eller SaxoInvestor.
-{: .notice--info}
 
 ## Næste trin
 

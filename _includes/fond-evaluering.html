@@ -1,0 +1,397 @@
+<style>
+  /* Fjern pile i nummer-inputs */
+  .fval-clean-input::-webkit-outer-spin-button,
+  .fval-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .fval-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  /* Kompakt indpakning */
+  .fval-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 10px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 16px 0; 
+    width: 100%;
+    box-sizing: border-box; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  .fval-section-title {
+    font-size: 12px;
+    font-weight: 800;
+    color: #0f172a;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 4px;
+  }
+
+  /* --- SEKTION 1: INDSTILLINGER --- */
+  .fval-settings-box {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 20px;
+  }
+
+  .fval-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+
+  .fval-input-col {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .fval-input-col label {
+    font-size: 11px;
+    font-weight: 700;
+    color: #475569;
+  }
+
+  .fval-input-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .fval-input-box input, .fval-input-box select {
+    width: 100%;
+    padding: 6px 22px 6px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .fval-input-box input:focus, .fval-input-box select:focus {
+    border-color: #0284c7;
+  }
+
+  .fval-input-box select { padding-right: 8px; }
+  .fval-input-box span {
+    position: absolute;
+    right: 8px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* --- SEKTION 2: VURDERING --- */
+  .fval-eval-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .fval-eval-box {
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .fval-eval-title {
+    font-size: 12px;
+    font-weight: 800;
+    color: #334155;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .fval-eval-val {
+    color: #0284c7;
+    font-size: 14px;
+  }
+
+  .fval-slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: #e2e8f0;
+    outline: none;
+    accent-color: #0284c7;
+    cursor: pointer;
+    margin: 2px 0;
+  }
+
+  /* Blød, beskrivende cutoff tekst */
+  .fval-cutoff-text {
+    font-size: 11px;
+    color: #64748b;
+    margin-bottom: 4px;
+  }
+
+  /* Vurderingsboksen */
+  .fval-slider-desc {
+    font-size: 12.5px;
+    font-weight: 700;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    line-height: 1.4;
+    width: 100%;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+  }
+
+  .fval-status-good { background-color: #f0fdf4; border-color: #bbf7d0; color: #166534; }
+  .fval-status-warn { background-color: #fefce8; border-color: #fef08a; color: #854d0e; }
+  .fval-status-bad { background-color: #fef2f2; border-color: #fecaca; color: #991b1b; }
+
+  /* --- SEKTION 3: RAPPORT --- */
+  .fval-report-box {
+    background-color: #f0f9ff;
+    border: 1px solid #bae6fd;
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #0369a1;
+  }
+
+  @media (max-width: 900px) {
+    .fval-inputs-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 500px) {
+    .fval-inputs-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" class="fval-full-wrapper">
+
+  <!-- SEKTION 1: INDSTILLINGER -->
+  <div class="fval-section-title">🛠️ 1. Indtast fondens nøgletal</div>
+  <div class="fval-settings-box">
+    <div class="fval-inputs-grid">
+      <div class="fval-input-col">
+        <label>Investeringsstrategi</label>
+        <div class="fval-input-box">
+          <select class="js-fv-type">
+            <option value="passiv" {% if include.type == 'passiv' or include.type == nil %}selected{% endif %}>Passiv (Indeksfond)</option>
+            <option value="aktiv" {% if include.type == 'aktiv' %}selected{% endif %}>Aktiv (Forvaltet)</option>
+          </select>
+        </div>
+      </div>
+      
+      <div class="fval-input-col">
+        <label>Årlige Omk. (ÅOP)</label>
+        <div class="fval-input-box">
+          <input type="number" min="0" max="3" step="0.01" value="{{ include.aop | default: 0.50 }}" class="fval-clean-input js-fv-num-aop">
+          <span>%</span>
+        </div>
+      </div>
+
+      <div class="fval-input-col">
+        <label>Tracking Error</label>
+        <div class="fval-input-box">
+          <input type="number" min="0" max="15" step="0.1" value="{{ include.trackingError | default: 0.2 }}" class="fval-clean-input js-fv-num-te">
+          <span>%</span>
+        </div>
+      </div>
+
+      <div class="fval-input-col">
+        <label>Sharpe Ratio</label>
+        <div class="fval-input-box">
+          <input type="number" min="-2" max="4" step="0.1" value="{{ include.sharpeRatio | default: 1.2 }}" class="fval-clean-input js-fv-num-sharpe">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SEKTION 2: VISUEL VURDERING -->
+  <div class="fval-section-title">📊 2. Evaluering af nøgletal</div>
+  <div class="fval-eval-stack">
+    
+    <!-- ÅOP -->
+    <div class="fval-eval-box">
+      <div class="fval-eval-title">Omkostninger (ÅOP) <span class="fval-eval-val js-fv-lbl-aop">0,00%</span></div>
+      <input type="range" min="0" max="3" step="0.01" class="fval-slider js-fv-slide-aop">
+      <div class="fval-cutoff-text js-cutoff-aop">-</div>
+      <div class="fval-slider-desc js-fv-desc-aop">-</div>
+    </div>
+
+    <!-- TRACKING ERROR -->
+    <div class="fval-eval-box">
+      <div class="fval-eval-title">Afvigelse (Tracking Error) <span class="fval-eval-val js-fv-lbl-te">0,0%</span></div>
+      <input type="range" min="0" max="15" step="0.1" class="fval-slider js-fv-slide-te">
+      <div class="fval-cutoff-text js-cutoff-te">-</div>
+      <div class="fval-slider-desc js-fv-desc-te">-</div>
+    </div>
+
+    <!-- SHARPE RATIO -->
+    <div class="fval-eval-box">
+      <div class="fval-eval-title">Risikojusteret afkast (Sharpe Ratio) <span class="fval-eval-val js-fv-lbl-sharpe">0,0</span></div>
+      <input type="range" min="-1" max="4" step="0.1" class="fval-slider js-fv-slide-sharpe">
+      <div class="fval-cutoff-text js-cutoff-sharpe">-</div>
+      <div class="fval-slider-desc js-fv-desc-sharpe">-</div>
+    </div>
+
+  </div>
+
+  <!-- SEKTION 3: SAMLET RAPPORT -->
+  <div class="fval-section-title">📝 3. Samlet Konklusion</div>
+  <div class="fval-report-box js-fv-report">
+    Indlæser simuleringsrapport...
+  </div>
+
+</div>
+
+<script>
+(function() {
+  document.querySelectorAll('.fval-full-wrapper').forEach(function(widget) {
+    
+    function setAssessmentStyle(descClass, status, text) {
+      const descEl = widget.querySelector(descClass);
+      if (!descEl) return;
+      
+      // FIX: Vi fjerner kun farve-klasserne i stedet for at slette hele className!
+      descEl.classList.remove('fval-status-good', 'fval-status-warn', 'fval-status-bad');
+      
+      // Tilføj den nye farve
+      if (status === 'good') descEl.classList.add('fval-status-good');
+      else if (status === 'warn') descEl.classList.add('fval-status-warn');
+      else if (status === 'bad') descEl.classList.add('fval-status-bad');
+      
+      descEl.innerHTML = text;
+    }
+
+    function analyzeFund(e) {
+      // 1. Tovejs-synkronisering
+      if (e && e.target) {
+        const rawVal = e.target.value.toString().replace(',', '.');
+        
+        if (e.target.classList.contains('js-fv-num-aop')) widget.querySelector('.js-fv-slide-aop').value = rawVal;
+        if (e.target.classList.contains('js-fv-num-te')) widget.querySelector('.js-fv-slide-te').value = rawVal;
+        if (e.target.classList.contains('js-fv-num-sharpe')) widget.querySelector('.js-fv-slide-sharpe').value = rawVal;
+        
+        if (e.target.classList.contains('js-fv-slide-aop')) widget.querySelector('.js-fv-num-aop').value = rawVal;
+        if (e.target.classList.contains('js-fv-slide-te')) widget.querySelector('.js-fv-num-te').value = rawVal;
+        if (e.target.classList.contains('js-fv-slide-sharpe')) widget.querySelector('.js-fv-num-sharpe').value = rawVal;
+      }
+
+      // 2. Hent værdier
+      const type = widget.querySelector('.js-fv-type').value;
+      const aop = parseFloat(widget.querySelector('.js-fv-num-aop').value.toString().replace(',', '.')) || 0;
+      const te = parseFloat(widget.querySelector('.js-fv-num-te').value.toString().replace(',', '.')) || 0;
+      const sharpe = parseFloat(widget.querySelector('.js-fv-num-sharpe').value.toString().replace(',', '.')) || 0;
+
+      // 3. Opdater labels
+      widget.querySelector('.js-fv-lbl-aop').innerText = aop.toFixed(2).replace('.', ',') + '%';
+      widget.querySelector('.js-fv-lbl-te').innerText = te.toFixed(1).replace('.', ',') + '%';
+      widget.querySelector('.js-fv-lbl-sharpe').innerText = sharpe.toFixed(1).replace('.', ',');
+
+      // 4. Sæt de naturlige, sproglige cutoffs
+      if (type === 'passiv') {
+        widget.querySelector('.js-cutoff-aop').innerText = "Tommelfingerregel: Under 0,55 % er godt. Over 0,75 % begynder at blive for dyrt.";
+        widget.querySelector('.js-cutoff-te').innerText = "Tommelfingerregel: Bør ligge under 0,6 %. Rammer den over 1,5 %, er den upræcis.";
+      } else {
+        widget.querySelector('.js-cutoff-aop').innerText = "Tommelfingerregel: Under 0,75 % er rigtig flot. Over 1,30 % er meget dyrt.";
+        widget.querySelector('.js-cutoff-te').innerText = "Tommelfingerregel: Skal ligge over 1,0 %, ellers betaler du blot for et dyrt 'skabsindeks'.";
+      }
+      widget.querySelector('.js-cutoff-sharpe').innerText = "Tommelfingerregel: Bør altid være 1,0 eller derover, for at risikoen kan betale sig.";
+
+      let aopStatus = 'good', aopDesc = '';
+      let teStatus = 'good', teDesc = '';
+      let sharpeStatus = 'good', sharpeDesc = '';
+      let reportHtml = '';
+
+      // --- 5. LOGIK OG FARVE-VURDERING ---
+
+      // ÅOP
+      if (type === 'passiv') {
+        if (aop <= 0.55) { aopStatus = 'good'; aopDesc = '🟢 <strong>Godkendt:</strong> Fornuftig og billig pris for en passiv fond.'; }
+        else if (aop <= 0.75) { aopStatus = 'warn'; aopDesc = '🟡 <strong>Advarsel:</strong> Fonden ligger i den dyre ende for passiv styring.'; }
+        else { aopStatus = 'bad'; aopDesc = '🔴 <strong>For dyr:</strong> Høje faste omkostninger spiser dit markedsafkast.'; }
+      } else { 
+        if (aop <= 0.75) { aopStatus = 'good'; aopDesc = '🟢 <strong>Billigt:</strong> En yderst skarp pris for aktiv forvaltning.'; }
+        else if (aop <= 1.30) { aopStatus = 'warn'; aopDesc = '🟡 <strong>Normalt:</strong> Kræver et konsekvent overafkast for at kunne betale sig.'; }
+        else { aopStatus = 'bad'; aopDesc = '🔴 <strong>Meget dyrt:</strong> Det bliver ekstremt svært at slå markedet efter gebyrer.'; }
+      }
+
+      // TRACKING ERROR
+      if (type === 'passiv') {
+        if (te <= 0.6) { teStatus = 'good'; teDesc = '🟢 <strong>Perfekt:</strong> Fonden skygger markedsindekset upåklageligt.'; }
+        else if (te <= 1.5) { teStatus = 'warn'; teDesc = '🟡 <strong>Høj afvigelse:</strong> Den rammer ikke sit indeks helt rent (små udsving).'; }
+        else { teStatus = 'bad'; teDesc = '🔴 <strong>Kritisk høj:</strong> Fonden afviger markant fra markedet. Du får ikke rent markedsafkast.'; }
+      } else { 
+        if (te < 1.0) { teStatus = 'bad'; teDesc = '🔴 <strong>Skabsindeks:</strong> Fonden opfører sig som et passivt indeks, men tager aktiv overpris.'; }
+        else if (te <= 6.0) { teStatus = 'good'; teDesc = '🟢 <strong>Sund aktivitet:</strong> Forvalteren forsøger reelt at gøre noget andet end markedet.'; }
+        else { teStatus = 'warn'; teDesc = '🟡 <strong>Ekstrem afvigelse:</strong> Meget aggressiv satsning væk fra benchmarket.'; }
+      }
+
+      // SHARPE RATIO
+      if (sharpe < 1.0) { sharpeStatus = 'bad'; sharpeDesc = '🔴 <strong>Sub-optimalt:</strong> Afkastet har ikke været højt nok i forhold til udsvingene.'; }
+      else { sharpeStatus = 'good'; sharpeDesc = '🟢 <strong>Fornuftigt:</strong> Rigtig god balance mellem historisk afkast og volatilitet.'; }
+
+      // 6. Opdater DOM farver
+      setAssessmentStyle('.js-fv-desc-aop', aopStatus, aopDesc);
+      setAssessmentStyle('.js-fv-desc-te', teStatus, teDesc);
+      setAssessmentStyle('.js-fv-desc-sharpe', sharpeStatus, sharpeDesc);
+
+      // --- 7. BYG RAPPORT TEKST ---
+      if (type === 'passiv') {
+        reportHtml += "Fonden har en **passiv investeringsstrategi**. Dens formål er blot at følge markedet. ";
+        if (aopStatus === 'bad' || aopStatus === 'warn') {
+          reportHtml += "Desværre er omkostningerne (" + aop.toFixed(2).replace('.', ',') + "%) for høje til en passiv fond, hvilket vil spise dit renters-rente afkast. ";
+        } else {
+          reportHtml += "Prisen er fornuftig, hvilket er det absolut vigtigste fundament i passiv investering. ";
+        }
+        if (te > 1.5) {
+          reportHtml += "<br><br>⚠️ **Høj afvigelse:** Med en tracking error på hele " + te.toFixed(1).replace('.', ',') + "% følger fonden slet ikke sit indeks slavisk. Du bør være opmærksom på, at du *ikke* nødvendigvis får et bredt markedsafkast med så stor en afvigelse.";
+        }
+      } else {
+        reportHtml += "Fonden har en **aktiv investeringsstrategi**, hvor forvalteren forsøger at slå markedet. ";
+        if (te < 1.0) {
+          reportHtml += "<br><br>⚠️ **Skabsindeksfond:** Fonden har en utrolig lav tracking error (" + te.toFixed(1).replace('.', ',') + "%). Forvalteren tager næsten ingen aktive valg, men du betaler en dyr aktiv ÅOP. Fonde som denne bør typisk undgås. ";
+        } else {
+          reportHtml += "Fonden udviser en sund grad af aktivitet og forsøger at slå indekset. ";
+          if (aopStatus === 'bad') {
+            reportHtml += "Men den høje ÅOP (" + aop.toFixed(2).replace('.', ',') + "%) kræver, at forvalteren skaber massive afkast, bare for at gå i nul mod et billigere indeks. ";
+          }
+        }
+      }
+
+      if (sharpeStatus === 'bad') {
+        reportHtml += "<br><br>📊 **Risikovurdering:** Fondens Sharpe Ratio (" + sharpe.toFixed(1).replace('.', ',') + ") er under 1. Det historiske afkast har været sub-optimalt i forhold til markedsudsvingene.";
+      } else {
+        reportHtml += "<br><br>📊 **Risikovurdering:** Fonden leverer en stærk Sharpe Ratio (" + sharpe.toFixed(1).replace('.', ',') + "). Du er historisk blevet flot kompenseret med afkast for den risiko, du har taget.";
+      }
+
+      widget.querySelector('.js-fv-report').innerHTML = reportHtml.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    }
+
+    // Lyt på både inputfelter og sliders
+    widget.querySelectorAll('input, select').forEach(function(elem) {
+      elem.addEventListener('input', analyzeFund);
+    });
+
+    // Initial kørsel
+    analyzeFund();
+  });
+})();
+</script>

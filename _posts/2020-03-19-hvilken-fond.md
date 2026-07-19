@@ -32,11 +32,18 @@ Hvis du gerne vil finde de bedste fonde, så er der nogle begreber, som det er e
 
 Jeg bruger selv hovedsageligt [Morningstar](http://www.morningstar.dk/) og fondenes egne hjemmesider til at finde oplysningerne.
 
+{% include fond-evaluering.html 
+   type="passiv" 
+   aop=0.50 
+   trackingError=0.2 
+   sharpeRatio=1.2 
+%}
+
 ## Aktiv eller passiv forvaltning
 
 Du skal vælge om du vil følge en aktiv eller en passiv strategi i forhold til de fonde, du vælger.
 
-Jeg sværger til passive investeringsfonde, der følger et verdensindeks, fordi der er stor sandsynlighed for, at de [passivt forvaltede fonde klarer sig bedre end de aktive](/passiv-investering-slaar-aktiv/). I bund og grund handler forskellen om, hvordan aktierne udvælges. I en passivt forvaltet fond køber manageren underliggende aktier, der afspejler det underliggende indeks (fx [verdensmarkedet](/investering-vol9/)), mens en aktiv forvalter forsøger at finde aktier, der klarer sig bedre end de øvrige aktier.
+Jeg sværger til passive investeringsfonde, der følger et verdensindeks, fordi der er stor sandsynlighed for, at de [passivt forvaltede fonde klarer sig bedre end de aktive](/passiv-investering-slaar-aktiv/). I bund og grund handler forskellen om, hvordan aktierne udvælges. I en passivt forvaltet fond køber manageren underliggende aktier, der afspejler det underliggende indeks (fx [verdensmarkedet](/verdensindekset/)), mens en aktiv forvalter forsøger at finde aktier, der klarer sig bedre end de øvrige aktier.
 
 De aktivt forvaltede fonde lyder tillokkende, men det indebærer højere omkostninger uden at sikre et højere afkast. Man kan sige at du påtager dig en højere risiko uden nødvendigvis at få et højere afkast.
 
@@ -48,7 +55,7 @@ På Morningstar kan du få et hurtigt overblik over fondene - og deres investeri
 
 Når man kigger på Morningstar, så sammenlignes alle fonde med både en kategori og et indeks. Det gør de uanset, om du vælger en aktivt forvaltet fond eller en passiv indeksinvestering. Hvis du er passiv investor, skal du vælge et indeks at følge. Hvis du er aktiv investor, så er det interessant at se om din portefølje kan slå et indeks. Uanset hvad så skal du vælge en strategi for dine investeringer - og hvordan du gerne vil ramme det globale marked.
 
-[Læs mere om verdensindekset](/investering-vol9/){: .btn .btn--large .btn--info }
+[Læs mere om verdensindekset](/verdensindekset/){: .btn .btn--large .btn--info }
 
 ## Morningstar rating
 
@@ -99,6 +106,8 @@ En passivt forvaltet fonds afkast skal gerne følge det underliggende indeks nog
 
 {% include figure image_path="/assets/images/book/spvigakl-afkast.png" caption="[Afkast sammenlignet med Benchmark for SPVIGAKL](https://sparindex.dk/produkter/)" %}
 
+Vær dog opmærksom på, at hvis du analyserer en *aktivt* forvaltet fond, og dens tracking error er utrolig lav (under 1,0 %), så har du højst sandsynligt fat i en **skabsindeksfond**. Det betyder i al sin enkelhed, at forvalteren blot kopierer markedsindekset i stedet for at tage aktive valg, men stadig opkræver et tårnhøjt aktivt gebyr. Det er en direkte dårlig forretning, som du bør undgå.
+
 ### Benchmarkafkast-afvigelsen (BA)
 
 Ved at trække benchmarkafkastet fra fondsafkastet kan du finde benchmarkafkastafvigelsen. Benchmarkafkastafvigelsen har et fortegn, så du kan opdagee systematiske afvigelser i fondens afkast.
@@ -109,7 +118,15 @@ Du kan finde benchmarkafkastafvigelsen på [Morningstar](http://www.morningstar.
 
 ## Omkostninger
 
-Hvis du er langsigtet investor, så har de årlige omkostninger i fonden stor betydning for, hvor højt dit samlede afkast kan ende med at blive. Der er relativt stor forskel på, hvad de årlige omkostninger er. Der er især stor forskel på, hvad de aktive fonde har i årlige omkostninger, sammenlignet med de passive fonde. Men du vil også se en stor forskel mellem danske investeringsforeninger og udenlandske ETF’er.
+Hvis du er langsigtet investor, så har [investeringsomkostningerne](/investeringsomkostninger/) i forbindelse med fonden stor betydning for, hvor højt dit samlede afkast kan ende med at blive.
+
+Der er relativt stor forskel på, hvad de årlige omkostninger er. Der er især stor forskel på, hvad de aktive fonde har i årlige omkostninger, sammenlignet med de passive fonde.
+
+Men du vil også se en stor forskel mellem danske investeringsforeninger og udenlandske ETF’er.
+
+Da omkostningerne har så massiv en betydning for din formue på lang sigt, bør du altid gå efter de billigste passive fonde, der dækker dit valgte indeks.
+
+[Se den opdaterede liste over passive danske fonde og deres ÅOP her ➔](/danske-investeringsforeninger-med-passive-indeksfonde/){: .btn .btn--info }
 
 ## Udbyttebetalende eller akkumulerende
 

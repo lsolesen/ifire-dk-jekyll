@@ -2,7 +2,7 @@
 title: &title "Lønberegner: Hvor meget løn får jeg udbetalt efter skat?"
 seo_title: "Lønberegner • Hvor meget løn får jeg udbetalt efter skat? »"
 excerpt: "Hvor meget løn får jeg udbetalt efter skat? Beregn din løn efter skat i denne lønberegner og få overblik over, hvad du tjener, og hvad din skatteprocent er?"
-last_modified_at: 2021-03-31T09:20:02+02:00
+last_modified_at: 2026-07-18T09:20:02+02:00
 permalink: /udbetalt-loen-efter-skat/
 category:
   - Privatøkonomi
@@ -131,17 +131,36 @@ Du kan jo selv lege med forskellige scenarier i lønberegneren. Jeg tastede fx f
  
 Pengepugeren når frem til, at hvis du kan leve for 14.000 kroner om måneden, så behøver du kun at tjene 16.100 kroner før skat.
 
-> Sagen er, at**man kan modregne sin kapitalindkomst i personfradraget**. Dertil betaler man “kun” 27 % skat af de første ca. 51.700 kr. (52.900 kr. i 2018) i aktieindkomst.
+> Sagen er, at **man kan modregne sin kapitalindkomst i personfradraget**. Dertil betaler man “kun” 27 % skat af de første ca. 51.700 kr. (52.900 kr. i 2018) i aktieindkomst.
 > 
-> **Ved at kombinere de to investeringsmetoder kan man således slippe med ca. 13 % i effektiv skat, men alligevel have en indkomst, som reelt er til at leve for.** Omend noget mere skrabet end de fleste er vant til.
+> **Ved at kombinere de to investeringsmetoder kan man således slippe med ca. 13% i effektiv skat, men alligevel have en indkomst, som reelt er til at leve for.** Omend noget mere skrabet end de fleste er vant til.
 
 --- <cite>[Pengepugeren](https://pengepugeren.dk/2018/02/oekonomisk-uafhaengig-lev-14-000-kr-maaneden-slip-skat/)</cite>
 
+{% include skatteberegner.html 
+   title=""
+   comment=""
+   status="gift"
+   loen=0
+   kapital=45000
+   aktie=51700
+   loen_p2=0
+   kapital_p2=45000
+   aktie_p2=51700 
+%}
+
 Her er vi dog ude i, at vi har brug for en betydelig investering, som vi skatteoptimerer.
 
-{% include loen-beregner-sammenlign.html lonA="0" lonB="4500" fradragA="0" fradragB="4200" skatA="0" skatB="37" %}
+{% include investeringsbehov.html 
+   status="gift"
+   yield_kapital=5.0
+   yield_aktie=7.0
+   title="Hvordan skal investeringerne fordeles?"
+%}
 
 Dette indlæg handler om, hvad vi får udbetalt efter løn for vores arbejde, så lad os komme tilbage til det.
+
+{% include loen-beregner-sammenlign.html lonA="0" lonB="4500" fradragA="0" fradragB="4200" skatA="0" skatB="37" %}
 
 [Frinans](https://www.frinans.dk/hvor-meget-efter-skat/) regner lidt på, hvad du kan bruge viden om skatteprocent og fradrag til, når du tænker på FIRE. En fortolkning af FIRE er Barista FIRE eller Coast FIRE.
 
@@ -156,6 +175,8 @@ Det tager helt sikkert noget tid at få oparbejdet en investeringsportefølje p�
 Hvis vi i stedet for forestiller os, at vi vil gå efter Coast FIRE, hvor vi supplerer indtjeningen fra vores investeringer med en eller anden form for mindre indtægt.
 
 [Frinans](https://www.frinans.dk/hvor-meget-efter-skat/) foreslår en indtægt på 4.500 kroner om måneden før skat. Det burde være relativt enkelt at opnå en indtjening på det.
+
+
 
 Lad os se på, hvad du reelt får udbetalt, hvis du tjener omkring 4.500 kroner om måneden før skat. Vi prøver lige begge værktøjer. Vi starter med hvormegetefterskat.dk:
 

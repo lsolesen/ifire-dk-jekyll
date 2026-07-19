@@ -1,0 +1,153 @@
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px; margin: 24px 0; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; box-shadow: 0 4px 12px rgba(0,0,0,0.05); width: 100% !important; max-width: 100% !important; box-sizing: border-box;" markdown="0">
+
+<!-- 1. HEADER -->
+<div style="border-bottom: 2px solid #f1f5f9; padding-bottom: 12px; margin-bottom: 20px;">
+<h4 style="margin: 0; font-size: 17px; font-weight: 800; color: #0f172a;">{{ include.title | default: "FIRE Sweet Spot: Udnyt skattegrænserne maksimalt" }}</h4>
+<p style="margin: 4px 0 0 0; font-size: 12.5px; color: #64748b; font-weight: 500; line-height: 1.4;">Se præcis hvor stor en formue du skal opbygge for at maksimere dit skattefrie personfradrag og den lave aktieskat.</p>
+</div>
+
+<!-- 2. INDSTILLINGER / INPUTS -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+<div>
+<label style="display: block; font-size: 11px; font-weight: 800; color: #475569; text-transform: uppercase; margin-bottom: 6px;">Civilstand</label>
+<select id="opt-status" onchange="beregnOptimeretBehov()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; background:#fff; color: #0f172a;">
+<option value="gift" {% if include.status == "gift" %}selected{% endif %}>Gift (2x fradrag & grænser)</option>
+<option value="single" {% if include.status == "single" %}selected{% endif %}>Single (1x fradrag & grænser)</option>
+</select>
+</div>
+
+<div>
+<label style="display: block; font-size: 11px; font-weight: 800; color: #475569; text-transform: uppercase; margin-bottom: 6px;">Afkast: Kapitalindkomst (%)</label>
+<input type="number" step="0.1" id="opt-afkast-kap" value="{{ include.yield_kapital | default: 7.0 }}" oninput="beregnOptimeretBehov()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+
+<div>
+<label style="display: block; font-size: 11px; font-weight: 800; color: #475569; text-transform: uppercase; margin-bottom: 6px;">Afkast: Aktieindkomst (%)</label>
+<input type="number" step="0.1" id="opt-afkast-akt" value="{{ include.yield_aktie | default: 5.0 }}" oninput="beregnOptimeretBehov()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+</div>
+
+<!-- 3. STORE VISUELLE RESULTAT-KORT -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-bottom: 24px;">
+<div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 16px; text-align: center;">
+<span style="font-size: 11px; font-weight: 800; color: #1e40af; text-transform: uppercase; display: block;">Månedligt Netto (Udbetalt)</span>
+<span id="opt-netto-mnd" style="font-size: 26px; font-weight: 900; color: #1e3a8a; display: block; margin: 4px 0;">0 kr.</span>
+<span style="font-size: 11.5px; color: #1e40af; font-weight: 500;">Skatteoptimeret passiv indkomst</span>
+</div>
+
+<div style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 16px; text-align: center;">
+<span style="font-size: 11px; font-weight: 800; color: #166534; text-transform: uppercase; display: block;">Nødvendig Total Formue</span>
+<span id="opt-total-formue" style="font-size: 26px; font-weight: 900; color: #15803d; display: block; margin: 4px 0;">0 kr.</span>
+<span style="font-size: 11.5px; color: #166534; font-weight: 500;">Fordelt på to aktivklasser</span>
+</div>
+</div>
+
+<!-- 4. FORDELINGSTABEL (100% BREDDE) -->
+<div style="width: 100% !important; min-width: 100% !important; box-sizing: border-box; border: 1px solid #e2e8f0; border-radius: 8px; overflow-x: auto; margin-bottom: 20px;">
+<table style="width: 100% !important; min-width: 100% !important; border-collapse: collapse; font-size: 13px; text-align: left; display: table !important; margin: 0; table-layout: auto;">
+<thead>
+<tr style="background-color: #f8fafc; border-bottom: 2px solid #e2e8f0; color: #475569; font-size: 10.5px; text-transform: uppercase; font-weight: 800;">
+<th style="padding: 12px 10px;">Aktivklasse & Maksimal Grænse</th>
+<th style="padding: 12px 10px; text-align: right; width: 110px;">Sat afkast</th>
+<th style="padding: 12px 10px; text-align: right; width: 120px;">Årlig Bruttomål</th>
+<th style="padding: 12px 10px; text-align: right; width: 140px;">Investeringskrav</th>
+</tr>
+</thead>
+<tbody>
+<!-- Hovedfokus: Kapitalindkomst -->
+<tr style="border-bottom: 1px solid #e2e8f0; background: #fff;">
+<td style="padding: 14px 10px;">
+<strong style="color: #1e3a8a; display: block; font-size: 14px;">1. Kapitalindkomst (100% Skattefri)</strong>
+<span style="font-size: 11.5px; color: #64748b; display: block; margin-top: 4px; line-height: 1.4;">Målet er at ramme beløbet fra personfradraget (0% skat). Kapitalindkomst er ofte renteindtægter. Typisk fra obligationer eller direkte lån. Fonde uden for Skats positivliste, fx Nordnets Indeks-fonde bliver også kapitalbeskattet. Endelig kan de risikovillige forsøge sig med crowdlending. Realistisk afkast 2-7% årligt.</span>
+</td>
+<td id="tbl-opt-kap-pct" style="text-align: right; padding: 14px 10px; font-weight: 600; color: #64748b;">0%</td>
+<td id="tbl-opt-kap-brutto" style="text-align: right; padding: 14px 10px; font-weight: 700; color: #1e3a8a;">0 kr.</td>
+<td id="tbl-opt-kap-inv" style="text-align: right; padding: 14px 10px; font-weight: 900; color: #0f172a; font-size: 14px;">0 kr.</td>
+</tr>
+<!-- Sekundært: Aktieindkomst -->
+<tr style="border-bottom: 2px solid #cbd5e1; background: #f8fafc;">
+<td style="padding: 14px 10px;">
+<strong style="color: #065f46; display: block; font-size: 14px;">2. Aktieindkomst (Lav 27% Skat)</strong>
+<span style="font-size: 11.5px; color: #64748b; display: block; margin-top: 4px; line-height: 1.4;">Målet er beskrevet som beløbet op til progressionsgrænsen (27%/42% i skat). Aktieindtægt er kursstigninger og udbytte. Investeres i udbytteaktier eller investeringsforeninger. Realistisk afkast 4-7% årligt.</span>
+</td>
+<td id="tbl-opt-akt-pct" style="text-align: right; padding: 14px 10px; font-weight: 600; color: #64748b;">0%</td>
+<td id="tbl-opt-akt-brutto" style="text-align: right; padding: 14px 10px; font-weight: 700; color: #065f46;">0 kr.</td>
+<td id="tbl-opt-akt-inv" style="text-align: right; padding: 14px 10px; font-weight: 900; color: #0f172a; font-size: 14px;">0 kr.</td>
+</tr>
+<!-- Total -->
+<tr style="font-weight: 900; background: #f1f5f9; color: #0f172a;">
+<td style="padding: 12px 10px; text-transform: uppercase; font-size: 11.5px;" colspan="2">Samlet Portefølje for at ramme "Sweet Spot"</td>
+<td id="tbl-opt-tot-brutto" style="text-align: right; padding: 12px 10px;">0 kr.</td>
+<td id="tbl-opt-tot-inv" style="text-align: right; padding: 12px 10px; font-size: 14px; color: #15803d;">0 kr.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- 5. DYNAMISK STRATEGI-TEKST -->
+<div id="opt-forklaring" style="padding: 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 13px; line-height: 1.5; color: #334155; font-weight: 500;">
+<!-- Genereres live af JS -->
+</div>
+
+</div>
+
+<script>
+function beregnOptimeretBehov() {
+  // 1. SKATTEGRÆNSER 2026
+  const SATS_PERSONFRADRAG = 53500;
+  const SATS_AKTIE_GRAENSE = 65400;
+
+  // 2. INPUTS
+  const status = document.getElementById('opt-status').value;
+  const afkastKap = Math.max(0.1, parseFloat(document.getElementById('opt-afkast-kap').value) || 1.0) / 100;
+  const afkastAkt = Math.max(0.1, parseFloat(document.getElementById('opt-afkast-akt').value) || 1.0) / 100;
+
+  const multiplier = (status === 'gift') ? 2 : 1;
+
+  // 3. BEREGN MÅL
+  const targetKapitalBrutto = SATS_PERSONFRADRAG * multiplier; 
+  const targetAktieBrutto = SATS_AKTIE_GRAENSE * multiplier;
+
+  // 4. BEREGN INVESTERINGSBEHOV
+  const invKapital = targetKapitalBrutto / afkastKap;
+  const invAktie = targetAktieBrutto / afkastAkt;
+  const totalFormue = invKapital + invAktie;
+
+  // 5. BEREGN NETTO UDBETALING
+  const nettoKapital = targetKapitalBrutto; 
+  const nettoAktie = targetAktieBrutto * (1 - 0.27);
+  const totalAarligNetto = nettoKapital + nettoAktie;
+  const maanedligNetto = totalAarligNetto / 12;
+
+  // 6. OPDATER DOM
+  function fmt(v) { return Math.round(v).toLocaleString('da-DK') + ' kr.'; }
+
+  document.getElementById('opt-netto-mnd').innerText = fmt(maanedligNetto);
+  document.getElementById('opt-total-formue').innerText = fmt(totalFormue);
+
+  document.getElementById('tbl-opt-kap-pct').innerText = (afkastKap * 100).toFixed(1) + '%';
+  document.getElementById('tbl-opt-kap-brutto').innerText = fmt(targetKapitalBrutto);
+  document.getElementById('tbl-opt-kap-inv').innerText = fmt(invKapital);
+
+  document.getElementById('tbl-opt-akt-pct').innerText = (afkastAkt * 100).toFixed(1) + '%';
+  document.getElementById('tbl-opt-akt-brutto').innerText = fmt(targetAktieBrutto);
+  document.getElementById('tbl-opt-akt-inv').innerText = fmt(invAktie);
+
+  document.getElementById('tbl-opt-tot-brutto').innerText = fmt(targetKapitalBrutto + targetAktieBrutto);
+  document.getElementById('tbl-opt-tot-inv').innerText = fmt(totalFormue);
+
+  // 7. STRATEGISK KONKLUSION (Nu med dynamisk afkastprocent inkluderet i aktie-afsnittet)
+  const forklaringDiv = document.getElementById('opt-forklaring');
+  let civOrd = (status === 'gift') ? 'jeres samlede personfradrag' : 'dit personfradrag';
+  
+  let tekst = `<strong>Konklusion på Sweet Spot strategien:</strong><br>
+  For at maksimere skattefordelene bør du opbygge en portefølje i kapitalbeskattede aktiver på <strong>${fmt(invKapital)}</strong>. Ved et afkast på <strong> ${(afkastKap * 100).toFixed(1)}%</strong> rammer det præcis <strong>${fmt(targetKapitalBrutto)}</strong>, som absorberes fuldstændigt af ${civOrd}. Denne del af indkomsten er derfor <strong>100% skattefri</strong>.<br><br>
+  Dernæst bør du opbygge en aktiebeskattet formue på <strong>${fmt(invAktie)}</strong>. Ved et afkast på <strong> ${(afkastAkt * 100).toFixed(1)}%</strong> vil den generere <strong>${fmt(targetAktieBrutto)}</strong> om året, som beskattes med kun 27%. Tjener du mere end dette på aktier, stiger skatten til 42%.<br><br>
+  Rammer du denne balance, opnår du en fuldstændig optimeret passiv udbetaling på <strong>${fmt(maanedligNetto)} netto om måneden</strong> uden nogensinde at betale en høj skattesats.`;
+  
+  forklaringDiv.innerHTML = tekst;
+}
+
+// Start beregningen med det samme
+beregnOptimeretBehov();
+</script>

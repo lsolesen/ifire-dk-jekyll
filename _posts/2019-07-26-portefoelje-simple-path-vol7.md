@@ -26,6 +26,10 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
+**OBS: Dette er en ældre logbogsartikel fra min investorrejse, som ikke længere opdateres.** Hvis du er interesseret i at kende min nuværende personlige investeringsstrategi, kan du læse om den på [/min-strategi/](/min-strategi/). Min aktuelle portefølje kan du se på [/mine-investeringer/](/mine-investeringer/). Hvis du leder efter min fulde, opdaterede og dybdegående gennemgang af JL Collins' filosofi overført til danske skatte- og fondsegenskaber, så hop over til min nye evergreen-guide:
+👉 **[The Simple Path to Wealth på dansk: JL Collins' filosofi foldet ud](/simple-path-to-wealth-danmark/)**
+{: .notice--info}
+
 Jeg havde besluttet mig for en strategi. Jeg ville købe index-fonde - og gøre det enkelt!
 
 Men så læste jeg lidt mere om investering. Det viser sig, at der er mange interesserede i _finansiel uafhængighed_, der laver en portefølje med udbytteaktier. Så jeg blev revet med for at få en mere eller mindre fast indkomst.

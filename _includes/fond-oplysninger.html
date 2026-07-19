@@ -2,7 +2,7 @@
 {% assign allocs = include.allocation | split: "," %}
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px 16px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 18px 0; width: 100%; max-width: 100%; box-sizing: border-box; box-shadow: 0 1px 3px rgba(0,0,0,0.02); border-left: 4px solid #2563eb; display: flex; flex-direction: column; gap: 14px;" markdown="0">
 
-  <!-- Top Header (Opdateret til at understøtte kommentarer) -->
+  <!-- SCENARIE A: VÆGTET ALLOKERING -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px;">
     <div style="display: flex; flex-direction: column; gap: 2px;">
       <h4 style="margin: 0; font-size: 15px; font-weight: 800; color: #0f172a; line-height: 1.2;">{{ include.title | default: "Sammensat Markedsdækning" }}</h4>
@@ -13,7 +13,6 @@
     <span style="font-size: 9.5px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; flex-shrink: 0; margin-top: 2px;">Kombineret Setup</span>
   </div>
 
-  <!-- Visuel Stacked Progress Bar -->
   <div style="display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: #e2e8f0; margin-top: 2px; width: 100%;">
     {% assign colors = "#3b82f6,#10b981,#f59e0b,#ec4899,#8b5cf6" | split: "," %}
     {% assign color_idx = 0 %}
@@ -26,7 +25,6 @@
     {% endfor %}
   </div>
 
-  <!-- Liste over fonde i fuld bredde -->
   <div style="display: flex; flex-direction: column; gap: 12px; width: 100%;">
     {% assign total_weighted_aop = 0.0 %}
     {% assign color_idx = 0 %}
@@ -80,20 +78,82 @@
     {% endfor %}
   </div>
 
-  <!-- Opsummeringsboks i bunden -->
   {% assign final_weighted_aop = total_weighted_aop | divided_by: 100.0 %}
   <div style="margin-top: 4px; padding: 10px 12px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; font-size: 13px; font-weight: 700; color: #1e293b; width: 100%; box-sizing: border-box;">
-    <span style="color: #166534; font-size: 11px; text-transform: uppercase; letter-spacing: 0.02em;">Samlet pris for denne sammensætning:</span>
+    <span style="color: #166534; font-size: 11px; text-transform: uppercase; letter-spacing: 0.02em;">Samlet pris for dette setup:</span>
     <span style="color: #15803d; font-size: 13.5px;">Vægtet ÅOP: <strong style="font-size: 15px; font-weight: 900;">{{ final_weighted_aop | round: 2 }}%</strong></span>
   </div>
 
 </div>
 
 {% else %}
+{% assign ticker_list = include.fonde | split: "," %}
+{% assign ticker_count = ticker_list.size %}
+
+{% if ticker_count > 1 %}
 <!-- ================================================================== -->
-<!-- SCENARIE B: ENKELTFOND (NU OGSÅ MED COMMENT SUPPORT)               -->
+<!-- SCENARIE B: FLERE FONDE HENTET VIA "FONDE=" (LISTE-LOOK)            -->
 <!-- ================================================================== -->
-{% assign target_fond = include.fond | strip %}
+<div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px 16px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 18px 0; width: 100%; max-width: 100%; box-sizing: border-box; box-shadow: 0 1px 3px rgba(0,0,0,0.02); border-left: 4px solid #2563eb; display: flex; flex-direction: column; gap: 14px;" markdown="0">
+
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px;">
+    <div style="display: flex; flex-direction: column; gap: 2px;">
+      <h4 style="margin: 0; font-size: 15px; font-weight: 800; color: #0f172a; line-height: 1.2;">{{ include.title | default: "Udvalgte Indeksfonde" }}</h4>
+      {% if include.comment %}
+      <div style="font-size: 12px; color: #64748b; margin-top: 3px; font-weight: 500; line-height: 1.4;">{{ include.comment }}</div>
+      {% endif %}
+    </div>
+    <span style="font-size: 9.5px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; flex-shrink: 0; margin-top: 2px;">Fondsliste</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; gap: 12px; width: 100%;">
+    {% assign colors = "#3b82f6,#10b981,#f59e0b,#ec4899,#8b5cf6" | split: "," %}
+    {% assign color_idx = 0 %}
+    
+    {% for raw_ticker in ticker_list %}
+      {% assign target_ticker = raw_ticker | strip %}
+      {% assign found_fund = nil %}
+      {% for fund in site.data.fonde %}
+        {% if fund.ticker == target_ticker %}
+          {% assign found_fund = fund %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if found_fund %}
+        <div style="display: flex; justify-content: space-between; align-items: center; padding-left: 6px; border-left: 3px solid {{ colors[color_idx] }}; width: 100%; box-sizing: border-box; gap: 12px;">
+          <div style="display: flex; align-items: center; flex-grow: 1;">
+            <div style="display: flex; flex-direction: column; gap: 2px;">
+              <div style="font-size: 13.5px; font-weight: 700; color: #1e293b; line-height: 1.2;">
+                {{ found_fund.navn }} 
+                <span style="font-size: 9.5px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 1px 5px; border-radius: 3px; text-transform: uppercase; margin-left: 4px; border: 1px solid #e2e8f0;">{{ found_fund.ticker }}</span>
+              </div>
+              <div style="font-size: 11px; color: #64748b; font-style: italic;">
+                Tracking: {{ found_fund.indeks }}
+              </div>
+              <div style="font-size: 11px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 1px;">
+                <span>{%- if found_fund.skatteprincip == "Realisation" -%}⏳ Realisation{%- else -%}📊 Lagerskat{%- endif -%}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{%- if found_fund.skattetype == "Aktieskat" -%}📈 Aktieskat{%- else -%}💼 Kapitalindkomst{%- endif -%}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{%- if found_fund.udbytte contains "Akkumulerende" -%}🔄 Akk.{%- else -%}💰 Udbytte{%- endif -%}</span>
+              </div>
+            </div>
+          </div>
+          <span style="font-weight: 800; color: #475569; background: #f1f5f9; padding: 3px 6px; border-radius: 4px; font-size: 11px; letter-spacing: -0.01em; flex-shrink: 0;">{{ found_fund.aop }}</span>
+        </div>
+        {% assign color_idx = color_idx | plus: 1 %}
+        {% if color_idx >= 5 %}{% assign color_idx = 0 %}{% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{% else %}
+<!-- ================================================================== -->
+<!-- SCENARIE C: KUN ÉN ENKELT FOND ANGIVET I "FONDE=" (KORT-LOOK)       -->
+<!-- ================================================================== -->
+{% assign target_fond = ticker_list[0] | strip %}
 {% for fond in site.data.fonde %}
 {% if fond.ticker == target_fond %}
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px 16px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 18px 0; width: 100%; max-width: 100%; box-sizing: border-box; box-shadow: 0 1px 3px rgba(0,0,0,0.02); border-left: 4px solid #2563eb; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;" markdown="0">
@@ -118,13 +178,13 @@
 
     <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
       <span style="background-color: #f1f5f9; color: #475569; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; display: flex; align-items: center; gap: 4px;">
-        {% if fond.skatteprincip == "Realisation" %}⏳{% else %}📊{% endif %} {{ fond.skatteprincip }}
+        {% if fond.skatteprincip == "Realisation" %}⏳ {{ fond.skatteprincip }}{% else %}📊 {{ fond.skatteprincip }}{% endif %}
       </span>
       <span style="background-color: #f1f5f9; color: #475569; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; display: flex; align-items: center; gap: 4px;">
-        {% if fond.skattetype == "Aktieskat" %}📈{% else %}💼{% endif %} {{ fond.skattetype }}
+        {% if fond.skattetype == "Aktieskat" %}📈 {{ fond.skattetype }}{% else %}💼 {{ fond.skattetype }}{% endif %}
       </span>
       <span style="background-color: #f1f5f9; color: #475569; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; display: flex; align-items: center; gap: 4px;">
-        {% if fond.udbytte contains "Akkumulerende" %}🔄{% else %}💰{% endif %} {{ fond.udbytte }}
+        {% if fond.udbytte contains "Akkumulerende" %}🔄 {{ fond.udbytte }}{% else %}💰 {{ fond.udbytte }}{% endif %}
       </span>
       <span style="background-color: #f1f5f9; color: #475569; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; display: flex; align-items: center; gap: 4px;">
         💵 {{ fond.valuta }}
@@ -143,4 +203,6 @@
 </div>
 {% endif %}
 {% endfor %}
+{% endif %}
+
 {% endif %}

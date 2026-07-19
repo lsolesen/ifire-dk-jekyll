@@ -30,13 +30,6 @@ feature_row:
     btn_class: btn--info
     url: /go/nordnet/
     excerpt: "Du kan oprette en konto for mindreårige og en Aktiesparekonto og selv investere pengene.\n\n- Kurtagefri månedsopsparing på frit depot\n\n- Lave omkostninger"
-  - image_path: /assets/images/logo/nord.png
-    title: Nord.Investments
-    excerpt: "Du kan oprette en konto for mindreårige og få fuldautomatisk investering.\n\n- Fuldautomatisk\n\n- Lav ÅOP baseret på risikoprofil"
-    btn_label: Åbn gratis konto
-    btn_class: btn--info
-    url: /go/nord/
-    rel: sponsored nofollow noopener
   - image_path: /assets/images/logo/tobi.png
     title: Tobi
     excerpt: "Tobi er en fuldautomatisk håndtering af hele børneopsparingen.\n\n- Helt fuldautomatisk\n\n- Skræddersyet til børns frikort"
@@ -53,7 +46,7 @@ Jeg har nogle dejlige unger løbende rundt, og jeg synes egentlig, at de skal kl
 
 Hvis jeg får sat børneopsparingen op på den rigtige måde, så kan de, når de bliver 21 år (hvor jeg har sat pengene til at blive frigivet) have et pænt beløb pga. af [renters rente](/renters-rente/).
 
-Du kan både investere en traditionel børneopsparing gennem dit eget pengeinstitut, og du kan investere en “supplerende” børneopsparing via et depot for mindreårige hos fx Nordnet eller Nord.Investments.
+Du kan både investere en traditionel børneopsparing gennem dit eget pengeinstitut, og du kan investere en “supplerende” børneopsparing via et depot for mindreårige hos fx Nordnet.
 
 But how should I approach childcare savings so that 'compound interest' really makes a difference?
 
@@ -132,10 +125,9 @@ Nogle vil gerne have endnu større effekt af renters rente og vil gerne kunne in
 
 Du kan relativt let oprette et depot for mindreårige udenom din traditionelle bank, hvor børnenes penge kan blive investeret billigt:
 
-- **NORD.investments**. Her laver du en konto til mindreårige, hvor der ikke er et maksimalt indskud. Der skal betales skat af afkastet på hele kontoen, men noget af det kan klares med dit barns frikort, hvis du vælger de rigtige fonde. Hos NORD.investments vælger du en risikoprofil, og så sørger en robot for at investere dine penge automatisk. Det giver lave omkostninger og minimalt arbejde.
 - **Nordnet**. Du kan lave noget tilsvarende hos Nordnet, hvor du selv styrer investeringerne. Her kan du også selv vælge produkter med meget lave omkostninger og benytte deres Månedsopsparing.
 
-Hverken Nordnet eller Nord.Investments tilbyder en traditionel, bunden børneopsparing. Derfor skal du bruge din nuværende banks muligheder for selve børneopsparingen, og så bruge disse platforme som et supplerende værktøj.
+Nordnet tilbyder ikke en traditionel, bunden børneopsparing. Derfor skal du bruge din nuværende banks muligheder for selve børneopsparingen, og så bruge disse platforme som et supplerende værktøj.
 
 At skulle flytte hele sit bankengagement for at få en god børneopsparing vil ofte være forbundet med høje omkostninger. Du kan også vælge at have en konto for mindreårige i din nuværende bank, men vær opmærksom på handelsomkostninger og depotgebyrer. De steder jeg har undersøgt, er Nordnet bare markant billigere i kurtage og gebyrer.
 
@@ -187,6 +179,10 @@ Jeg vil gerne ramme det globale aktiemarked på den mest omkostnings- og skattee
 **Min førsteprioritet** er at have den traditionelle **børneopsparing** i banken, hvor jeg hvert år makser beløbet ud. Jeg har fået tilknyttet et investeringsdepot til kontoen. Her har jeg købt *"SparInvest MSCI ACWI"*. Fonden handles på den danske børs, er relativt billig i årlige omkostninger og handles i danske kroner.
 
 **Min andenprioritet** var i mange år et almindeligt **depot for mindreårige hos Nordnet**. Her brugte vi i en årrække Nordnets egne indeksfonde (f.eks. *Nordnet Global Indeks*), da de beskattes som kapitalindkomst og kan købes kurtagefrit via Månedsopsparingen. På den måde kunne vi udnytte børnenes frikort, så længe de ikke havde anden indkomst. Man skal dog være opmærksom på, at Nordnets egne fonde er syntetiske. At de er syntetiske vil sige, at fondene ikke køber de fysiske, underliggende aktier direkte, men i stedet replikerer indeksets afkast via en finansiel aftale (et swap).
+
+{% include fond-skat-kort.html ticker="NNGBLINDX" %}
+
+{% include depottype-kort.html type="frikort" %}
 
 {% include figure image_path="https://moneypennyandmore.dk/wp-content/uploads/2020/07/Ska%CC%88rmavbild-2020-07-03-kl.-08.56.00.png" caption="Brian Buus Madsen, Head of Business Management @ Nordnet forklarer her, hvad det vil sige at fondene er syntetiske." %}
 

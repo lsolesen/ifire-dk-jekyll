@@ -23,6 +23,20 @@ Det var her, ejendomscrowdfunding kom ind i billedet som det perfekte, passive a
 
 Men markedet har ændret sig dramatisk over de seneste år, og virkeligheden har givet mig nogle dyre, men vigtige lærepenge.
 
+{% include boligberegner.html 
+   kobspris=2900000 
+   udbetaling=145000 
+   husleje=6000 
+   indskud=18000 
+   rente_rk=4.0
+   rente_bank=7.5
+   afdrag_pct=2.5
+   vedligehold=1.0
+   aktieafkast=7.0
+   husstigning=2.0
+   title="" 
+%}
+
 ## Fordele ved crowdfunded ejendomsinvestering
 
 Tanken bag konceptet er stadig genial i sin grundform. De primære fordele tæller:

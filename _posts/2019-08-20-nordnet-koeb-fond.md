@@ -34,7 +34,7 @@ gallery_spvigakl:
     title: "SPVIGAKL køb, salg og ordredybde på Nordnet"
 ---
 
-Hvis [du har fundet ud af, hvilket indeks du gerne vil følge](/investering-vol9/), så skal du bare have fundet den på Nordnet og lægge en købsordre.
+Hvis [du har fundet ud af, hvilket indeks du gerne vil følge](/verdensindekset/), så skal du bare have fundet den på Nordnet og lægge en købsordre.
 
 ## Find fonden
 
@@ -49,7 +49,7 @@ I dette eksempel vælger jeg at søge efter **Investeringsforeninger**. Så komm
 - **Type**: Indeks
 - **Region/Land**: Global
 
-Så har du en liste med med passivt forvaltede fonde, der følger et verdensindeks. (læg mærke til at [fondene følger lidt forskellige fortolkninger af et globalt indeks](/investering-vol9/)). Du kan sortere listen ud fra forskellige parametre. Fx Morningstar rating og ÅOP (som er de årlige omkostninger i procent). Når du har valgt en fond, så sørg for at læse grundigt, hvad fonden investerer i, inden du går videre.
+Så har du en liste med med passivt forvaltede fonde, der følger et verdensindeks. (læg mærke til at [fondene følger lidt forskellige fortolkninger af et globalt indeks](/verdensindekset/)). Du kan sortere listen ud fra forskellige parametre. Fx Morningstar rating og ÅOP (som er de årlige omkostninger i procent). Når du har valgt en fond, så sørg for at læse grundigt, hvad fonden investerer i, inden du går videre.
 
 ## Lav en købsordre
 

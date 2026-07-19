@@ -154,7 +154,7 @@ Den mest "ægte" form for passiv indkomst får du ved at investere dine penge. H
 
 Hvis du har penge stående på en nul-rente konto i banken, mister de værdi på grund af inflation. Hvis du i stedet investerer dem, kan du lade renters rente gøre arbejdet for dig. Det kræver dog, at du ikke står og skal bruge pengene lige nu og her, da verdensmarkedet går op og ned. 
 
-Den bedste og mest simple metode, jeg har fundet, er at investere i brede, passive indeksfonde, der dækker hele verdensmarkedet. Det kræver blot, at du opretter en månedsopsparing hos Nordnet og sætter den på autopilot – eller lader tjenester som Nord.Investments gøre arbejdet for dig. Når maskinen kører, kræver det vitterligt 0 timer af din tid.
+Den bedste og mest simple metode, jeg har fundet, er at investere i brede, passive indeksfonde, der dækker hele verdensmarkedet. Det kræver blot, at du opretter en månedsopsparing hos Nordnet og sætter den på autopilot, så er du i gang med [passiv investering](/passiv-investering/). Når maskinen kører, kræver det vitterligt 0 timer af din tid.
 👉 [Læs alt om min investeringsstrategi her](/min-investeringsstrategi/)
 
 ## 2. Crowdlending (Den risikable indkomst)

@@ -12,45 +12,9 @@ Når man træder ind i FIRE-bevægelsen (Financial Independence, Retire Early), 
 
 ***
 
-Hvis du vil have omkostningerne helt i bund på din Aktiesparekonto, er Amundis nye prisbasker et fremragende valg:
-
-{% include fond-skat-kort.html ticker="WEBN" %}
-
-Vil du derimod investere dine frie midler og undgå lagerskatten, bør du kigge mod de klassiske danske foreninger:
-
-{% include fond-skat-kort.html ticker="SPVIGAKL" %}
-
-Og skal der investeres i børnenes navne for at ramme frikortet, skifter vi fuldstændig spor:
-
-{% include fond-skat-kort.html ticker="NNGBLINDX" %}
-
-***
-
-Jeg har valgt at fordele min portefølje til frie midler således for at få den maksimale skatteudskydelse:
-
-{% include depottype-kort.html type="frie_midler" allocation="SPIIMA:88,STIIAM:12" %}
-
-***
-
-### 1. Start altid med din Aktiesparekonto
-
-Her får du overblikket over reglerne for ASK, samt hvilke fonde der i dag giver den absolut billigste adgang:
-
-{% include depottype-kort.html type="ask" %}
-
----
-
-### 2. Hvis du investerer til dine børn
-
-Hvis du vil gå udenom de stramme regler på børneopsparingen, kan du udnytte frikort-hacket:
-
-{% include depottype-kort.html type="frikort" %}
-
-***
-
 Du har helt sikkert styr på din Nordnet-månedsopsparing, og din aldersopsparing kører på skinner. Men hvad med din største, låste pengetank? 
 
-Kan man overhovedet optimere sin firmapension? Svaret er et rungende ja – og vejen frem er at skifte til billige indeksfonde.
+Kan man overhovedet optimere sin firmapension? Svaret er ja – og vejen frem er at skifte til billige indeksfonde.
 
 For rigtig mange danskere er firmapensionen det absolut største "sorte hul" i privatøkonomien. Hver måned trækkes der tusindvis af kroner automatisk fra din bruttoløn, som lander hos et kommercielt pensionsselskab. Hvis du er som folk er flest, har du sikkert bare logget ind en enkelt gang, sat kryds i "Høj risiko" og tænkt: *“Sådan, nu arbejder pengene maksimalt.”*
 
@@ -80,16 +44,16 @@ Jeg har valgt at fordele min pensionsopsparing således:
 * **88% i Velliv Globale Aktier Index** (ÅOP på kun **0,27%**)
 * **12% i Velliv Emerging Markets Index Aktier** (ÅOP på **0,43%**)
 
-{% include depottype-kort.html type="pension" allocation="VELLIVG:88,VELLIVE:12" %}
+{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL0000000039:12" %}
 
-Tilsammen giver det mig en super skarp, bred eksponering mod globale aktier i både den udviklede verden og de nye markeder. Det dækker både *large cap* (store virksomheder) og *mid cap* (mellemstore virksomheder). 
+Tilsammen giver det mig en bred eksponering mod globale aktier i både den udviklede verden og de nye markeder. Det dækker både *large cap* (store virksomheder) og *mid cap* (mellemstore virksomheder). 
 
 ### Small Cap-udfordringen i pensionsselskaberne
-Hvis man vil ramme det fulde verdensindeks (svarende til f.eks. en MSCI ACWI eller en klassisk iShares lagerbeskattet ETF), vil man ofte også gerne have *small cap* (små virksomheder) med. Men her støder man på en klassisk mur i pensionssektoren. 
+Hvis man vil ramme det fulde verdensindeks med *small cap* (små virksomheder), så kan det ofte være lidt vanskeligere lige at finde en oplagt fond.
 
-Velliv tilbyder desværre ikke en billig indeksfond, der følger small cap. Det eneste alternativ i deres Link-univers er den aktivt forvaltede fond **Nordea Global Small Cap Aktier**. Men prisen? En svimlende ÅOP på **1,96%**. 
+Velliv tilbyder desværre ikke en billig indeksfond, der følger small cap. Det eneste alternativ jeg kunne finde på listen over [fonde i LinkPension](https://www.velliv.dk/opsparing/linkpension/fonde-i-linkpension) den aktivt forvaltede fond **Nordea Global Small Cap Aktier**. Men prisen? En svimlende ÅOP på **1,96%**.
 
-For en FIRE-investor er en ÅOP på næsten 2% fuldstændig uacceptabel. Det vil æde en alt for stor del af det fremtidige afkast. Derfor har jeg bevidst valgt at fravælge small cap i min firmapension. De 0,27% i ÅOP på de globale aktier er simpelthen for god en handel til, at jeg vil udvande det med dyre, aktive fonde.
+En så høj ÅOP vil hurtigt æde en alt for stor del af det fremtidige afkast. Derfor har jeg bevidst fravalgt small cap i min firmapension. De 0,27% i ÅOP på de globale aktier er acceptabelt.
 
 ---
 

@@ -50,7 +50,7 @@ Frisørpriserne har fået et ordentligt nyk opad de seneste år. Hvis du og fami
 Antallet af frisørbesøg i dette eksempel er endda sat meget konservativt. Alligevel koster det hurtigt **4.500 kroner om året** at holde familiens lokker i skak. Og det er uden hårfarvning, striber eller dyre frisørprodukter!
 
 ### FIRE-regnestykket: Hvad bliver pengene til?
-Som investor kan jeg ikke lade være med at kigge på alternativomkostningerne. Hvad sker der, hvis du tager de 4.500 kr., I sparer hvert år på frisøren, og investerer dem i en bred indeksfond med et gennemsnitligt afkast på 7%?
+Som investor kan jeg ikke lade være med at kigge på [alternativomkostningerne](/alternativomkosninger/). Hvad sker der, hvis du tager de 4.500 kr., I sparer hvert år på frisøren, og investerer dem i en bred indeksfond med et gennemsnitligt afkast på 7%?
 
 Over 10 år vil jeres hjemmeklipning (takket være renters rente) vokse til en formue på **omkring 66.000 kroner!** Det er alligevel en ret god timeløn for at svinge saksen i badeværelset et par gange om måneden.
 

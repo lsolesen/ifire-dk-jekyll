@@ -65,8 +65,6 @@ Lige nu afspejler mine investeringer ikke, hvad jeg allerhelst vil gøre med inv
 
 Hvis du vil læse mere om sammensætningen af mine egne fysiske investeringer, så kan du se den i min [oversigt over alle mine egne investeringer](/investeringer/). Her kan du også se, hvilke værktøjer jeg bruger.
 
-[Få en gratis investeringsplan fra Nord.Investments](/go/nord/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Copytrading og kurtagefri handel på E-Toro](/go/etoro/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
-
 ### Crowdlending
 
 Tidsforbruget med at holde styr på investeringerne i crowdlending er med til at gøre mig mere struktureret og kræsen i forhold til, hvad der giver mening. Jeg bruger meget tid på at følge med på de enkelte platforme for at følge med, og jeg synes det er vigtigt selv at være investeret i platformene.

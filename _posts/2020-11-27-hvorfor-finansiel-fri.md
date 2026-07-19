@@ -67,7 +67,7 @@ Hvis man gerne vil være økonomisk fri, så ville jeg starte med at kigge på f
 
 Jeg endte selv med at gøre mange ting indviklet, fordi jeg gerne ville lære noget om de enkelte dele. Jeg brugte rigtig mange timer på at tænke over økonomi, og jeg jo længere jeg kom ind i det, desto tydeligere blev det, at dette ikke skabte økonomisk frihed at tænke så meget på økonomi.
 
-At investere er imidlertid med til at holde mig op på målene om at bruge penge fornuftig og at kunne nøjes. Min oprindelige plan var at investere i [verdensindekset](/investering-vol9/) ud fra en [passiv investeringsfilosofi](/passiv-investering-slaar-aktiv/). Det ærgrer mig virkelig, at jeg ikke bare holdt fast i den. Det har uden sammenligning været den del af mine investeringer, som alligevel er endt med at give det bedste afkast ved brug af færrest mulig hjernekapacitet.
+At investere er imidlertid med til at holde mig op på målene om at bruge penge fornuftig og at kunne nøjes. Min oprindelige plan var at investere i [verdensindekset](/verdensindekset/) ud fra en [passiv investeringsfilosofi](/passiv-investering-slaar-aktiv/). Det ærgrer mig virkelig, at jeg ikke bare holdt fast i den. Det har uden sammenligning været den del af mine investeringer, som alligevel er endt med at give det bedste afkast ved brug af færrest mulig hjernekapacitet.
 
 ## Konklusion
 

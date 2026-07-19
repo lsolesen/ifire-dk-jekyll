@@ -67,7 +67,7 @@ Det ser ud til at [passiv forvaltede fonde, der følger et indeks, i langt de fl
 
 Jeg har forsøgt mig med at købe enkeltaktier, og det tager bare noget længere tid. For mig handler investering også om at holde tidsforbruget nede, så jeg ikke behøver at følge mine investeringer konstant. Jeg bruger heller ikke tid på analyser af aktieselskaber eller aktier, og fordi jeg har valgt en passiv strategi behøver jeg heller ikke bekymre mig om _timing_ for køb og salg ([selvom det nok alligevel ikke kan lade sig gøre](/hvornaar-ind-i-markedet/)). I stedet bruger jeg tiden på at holde øje med min bankkonto for at se, om jeg kan afsætte flere penge til investering. På den måde holder jeg mig skarpere på mit forbrug.
 
-Som passiv investor skal man selvfølgelig stadig bruge en del tid på at [finde de fonde](/investering-vol9/), man gerne vil investere i - og tid på at forstå de produkter man køber. Løbende vil jeg også bruge tid på at kigge på min strategi, men det kan jeg planlægge på forhånd, hvornår jeg vil gøre.
+Som passiv investor skal man selvfølgelig stadig bruge en del tid på at [finde de fonde](/verdensindekset/), man gerne vil investere i - og tid på at forstå de produkter man køber. Løbende vil jeg også bruge tid på at kigge på min strategi, men det kan jeg planlægge på forhånd, hvornår jeg vil gøre.
 
 ### 5) Maksimal investering
 

@@ -166,10 +166,10 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
 ## Historiske opdateringer
 
 <div class="feature__wrapper">
-{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "portefølje" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "portefølje" | sort: "date" %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 </div>
@@ -177,10 +177,10 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
 ## Månedsopdateringer
 
 <div class="feature__wrapper">
-{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "månedsopdateringer" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "månedsopdateringer" | sort: "date" %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 </div>

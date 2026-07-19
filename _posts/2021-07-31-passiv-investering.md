@@ -80,7 +80,7 @@ Det er heldigvis blevet ret enkelt at følge markedet.
 
 Der er flere forskellige muligheder for at komme i gang som passiv investor. Grundlæggende er der følgende muligheder for dig der vil i gang.
 
-- Vælg en af de **automatiske robotinvesteringsløsninger**, hvor du bare skal vælge dit risikoniveau. De fleste banker har løsninger, som de kan guide dig til. Du skal være meget opmærksom på omkostningerne. Her er den uafhængige [Nord.Investments](/go/nord/){: rel="sponsored nofollow noopener" }. Der er årlige omkostninger relativt lave, og den er let at bruge. Du skal bare sørge for at oprette kontoen og sætte penge ind. Du kan også sagtens bruge Nord.Investments som en månedsopsparing, så du konstant får investeret.
+- Vælg en af de **automatiske robotinvesteringsløsninger**, hvor du bare skal vælge dit risikoniveau. De fleste banker har løsninger, som de kan guide dig til. Du skal være meget opmærksom på omkostningerne. Her er den uafhængige [Norm](/platform/nord/). Der er årlige omkostninger relativt lave, og den er let at bruge. Du skal bare sørge for at oprette kontoen og sætte penge ind. Du kan også sagtens bruge Norm som en månedsopsparing, så du konstant får investeret.
 - Vælg **Nordnets månedsopsparing** hvor du kan investere i passive indeksfonde og ETF'er automatisk hver måned. Du vælger selv hvilke fonde, du gerne vil investere i. Hver måned sætter du penge ind på kontoen, og du køber kurtagefrit ind til din passive investeringsportefølje. Denne type kræver, at du selv lige sætter dig ind i de bedste passive fonde. Jeg har skrevet en [guide til Nordnets månedsopsparing](/nordnet-maanedsopsparing-problemer/).
 - **Køb selv ind på et aktiedepot**. Det er let selv at købe ind på et aktiedepot også. Du kan have et depot hos din egen bank, men Saxo Investor er også en meget populær løsning, hvor kurtagen er lav. Igen skal du selv lige lave lidt research for at vide, hvad du gerne vil investere i.
 
@@ -93,9 +93,7 @@ De årlige omkostninger for Nordnet og SaxoInvestor er baseret på, at du køber
 
 ## Robotinvesteringsløsninger
 
-Det er **lidt dyrere at bruge en robotinvesteringsløsning**, men til gengæld så er det også helt automatisk. Du skal ikke selv bekymre dig om, hvad der skal købes ind og hvornår det skal ske. Det sker helt automatisk. Nord.Investments er altså fuldautomatisk.
-
-Uanset hvad så kan du få et [gratis investeringsforslag fra Nord](/go/nord/){: rel="sponsored nofollow noopener" }.
+Det er **lidt dyrere at bruge en robotinvesteringsløsning**, men til gengæld så er det også helt automatisk. Du skal ikke selv bekymre dig om, hvad der skal købes ind og hvornår det skal ske. Det sker helt automatisk. Norm Invest er altså fuldautomatisk.
 
 Men lad os lige prøve at kigge på, hvad der sker, hvis man sænker omkostninger på langsigtede investeringer.
 
@@ -105,7 +103,7 @@ Hvis vi bruger vores [rentes renter beregner](https://www.ifire.dk/renters-rente
 
 Vi antager i eksemplet, at aktiemarkedet i gennemsnit giver et afkast på 7% om året. Vi har investeret 100.000 kroner, og vi har en investeringshorisont på 30 år. Det vil betyde, at vi efter 30 år har 811.650 kroner stående på investeringskontoen.
 
-Hvis vi vælger en løsning, hvor der er årlige omkostninger, så vil vores afkast naturligvis blive laver. [Nord.Investments](/go/nord/) er en af de robotløsninger med de klart laveste årlige omkostninger. Lige nu er de på 0,75%. Vi skal altså lave en udregning, hvor vi i stedet for 7% om året får en rente på 6,25% om året. Det giver os et beløb på kontoen til sidst med 648.917 kroner.
+Hvis vi vælger en løsning, hvor der er årlige omkostninger, så vil vores afkast naturligvis blive laver. [Norm Investment](/platform/nord/) er en af de robotløsninger med de klart laveste årlige omkostninger. Lige nu er de på 0,75%. Vi skal altså lave en udregning, hvor vi i stedet for 7% om året får en rente på 6,25% om året. Det giver os et beløb på kontoen til sidst med 648.917 kroner.
 
 Hvis du vælger selv at købe ind, fx gennem Nordnets kurtagefrie månedsopsparing, så kan du gøre det noget billigere. Hvis du vælger [passive danske indeksfonde og investeringsforeninger]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}), så kan du finde årlige omkostninger på omkring 0,5%. Så ville du altså stå med 699.180 ved slutningen af de 30 år.
 
@@ -125,7 +123,7 @@ Du skal naturligvis tage højde for de lidt [forskellige skatteforhold for aktie
 
 Selvom det er mere fordelagtigt selv at sammensætte din investeringsportefølje, så kan jeg sagtens forstå hvis ikke du har tid, lyst og overskud til det.
 
-Men her er Nord.Investments altså en rigtig fin løsning, hvis ikke selv du vil lave dine investeringer. Robotinvesteringsløsninger er for langt de fleste mennesker klart at foretrække i stedet for at gå i banken og få investeringsrådgivning. De fleste banker tager nemlig langt over 1% i årlige omkostninger.
+Men her er Norm Invest altså en rigtig fin løsning, hvis ikke selv du vil lave dine investeringer. Robotinvesteringsløsninger er for langt de fleste mennesker klart at foretrække i stedet for at gå i banken og få investeringsrådgivning. De fleste banker tager nemlig langt over 1% i årlige omkostninger.
 
 Det lyder måske tillokkende at have banken eller en investeringsrådgiver til at varetage dine investeringere. Men de højere årlige omkostninger betyder netop, at de skal levere et merafkast stabilt i forhold til markedet på mindst de årlige omkostninger.
 
@@ -174,7 +172,7 @@ Men lad os nu kigge på nogle konkrete forslag til fonde, som du kan købe på d
 
 Jeg har valgt at tage udgangspunkt i, at du har samlet dine investeringer hos Nordnet og bruger månedsopsparingen i dette forslag.
 
-I dette investeringsforslag [investerer vi i verdensindekset](/investering-vol9/). Verdensindekset kaldes ofte noget forskelligt, men typisk refererer man til verdensindekset med følgende betegnelser. ‘MSCI ACWI’ eller ‘MSCI ACWI IMI’.
+I dette investeringsforslag [investerer vi i verdensindekset](/verdensindekset/). Verdensindekset kaldes ofte noget forskelligt, men typisk refererer man til verdensindekset med følgende betegnelser. ‘MSCI ACWI’ eller ‘MSCI ACWI IMI’.
 
 ### Almindeligt aktiedepot (frie midler)
 

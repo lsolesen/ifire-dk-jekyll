@@ -1,0 +1,384 @@
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 22px; margin: 24px 0; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; box-shadow: 0 4px 12px rgba(0,0,0,0.05); width: 100% !important; max-width: 100% !important; box-sizing: border-box;" markdown="0">
+
+<!-- 1. HEADER -->
+<div style="border-bottom: 2px solid #f1f5f9; padding-bottom: 12px; margin-bottom: 20px;">
+<h4 style="margin: 0; font-size: 17px; font-weight: 800; color: #0f172a;">{{ include.title | default: "Udvidet FIRE- & Indkomstskatteberegner" }}</h4>
+{% if include.comment %}
+<p style="margin: 4px 0 0 0; font-size: 12.5px; color: #64748b; font-weight: 500; line-height: 1.4;">{{ include.comment }}</p>
+{% endif %}
+</div>
+
+<!-- 2. CIVILSTAND VÆLGER -->
+<div style="margin-bottom: 16px; background: #f8fafc; padding: 12px; border-radius: 8px; border: 1px solid #e2e8f0;">
+<label style="display: block; font-size: 10.5px; font-weight: 800; color: #475569; text-transform: uppercase; margin-bottom: 4px;">Civilstand</label>
+<select id="skat-status" onchange="haandterStatusSkift()" style="width: 100%; max-width: 300px; padding: 7px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; background:#fff; color: #0f172a;">
+<option value="gift" {% if include.status == "gift" %}selected{% endif %}>Gift (Ægtepar)</option>
+<option value="single" {% if include.status == "single" %}selected{% endif %}>Single</option>
+</select>
+</div>
+
+<!-- 3. SÆRSKILTE INDTASTNINGER -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-bottom: 20px;">
+<!-- Person 1 -->
+<div style="background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+<h5 id="lbl-p1-title" style="margin: 0 0 10px 0; font-size: 12px; font-weight: 800; color: #1e40af; text-transform: uppercase; letter-spacing: 0.02em;">Person 1</h5>
+<div style="margin-bottom: 10px;">
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Lønindkomst (Arbejde før AM-bidrag)</label>
+<input type="number" id="skat-loen-p1" value="{{ include.loen | default: 0 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+<div style="margin-bottom: 10px;">
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Kapitalindkomst</label>
+<input type="number" id="skat-kapital-p1" value="{{ include.kapital | default: 45000 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+<div>
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Aktieindkomst</label>
+<input type="number" id="skat-aktie-p1" value="{{ include.aktie | default: 51700 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+</div>
+
+<!-- Person 2 -->
+<div id="container-indtastning-p2" style="background: #f8fafc; padding: 14px; border-radius: 8px; border: 1px solid #e2e8f0;">
+<h5 style="margin: 0 0 10px 0; font-size: 12px; font-weight: 800; color: #6b21a8; text-transform: uppercase; letter-spacing: 0.02em;">Ægtefælle (Person 2)</h5>
+<div style="margin-bottom: 10px;">
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Lønindkomst (Arbejde før AM-bidrag)</label>
+<input type="number" id="skat-loen-p2" value="{{ include.loen_p2 | default: 0 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+<div style="margin-bottom: 10px;">
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Kapitalindkomst</label>
+<input type="number" id="skat-kapital-p2" value="{{ include.kapital_p2 | default: 53500 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+<div>
+<label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 4px;">Aktieindkomst</label>
+<input type="number" id="skat-aktie-p2" value="{{ include.aktie_p2 | default: 65400 }}" oninput="koerSkatteberegning()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-weight: 600; font-size: 13px; box-sizing: border-box;">
+</div>
+</div>
+</div>
+
+<!-- 4. STRATEGISKE MÅLERE -->
+<div style="margin-bottom: 24px; padding: 14px; border: 1px solid #e2e8f0; border-radius: 8px; background: #fff; display: flex; flex-direction: column; gap: 16px;">
+  <div>
+    <div style="display: flex; justify-content: space-between; font-size: 12px; font-weight: 700; color: #475569; margin-bottom: 6px;">
+      <span>Udnyttelse af samlet Personfradrag:</span>
+      <span id="fradrag-tekst" style="color: #2563eb; font-weight: 800;">0 kr. / 0 kr.</span>
+    </div>
+    <div style="width: 100%; height: 8px; border-radius: 4px; background: #e2e8f0; overflow: hidden; margin-bottom: 4px;">
+      <div id="fradrag-bar" style="width: 0%; background: #3b82f6; height: 100%; transition: width 0.2s;"></div>
+    </div>
+    <p style="margin: 0; font-size: 11px; color: #64748b; font-style: italic; line-height: 1.4;">Kapitalindkomst og løn modregnes i dit personfradrag for at eliminere indkomstskatten op til bundgrænsen.</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; font-size: 12px; font-weight: 700; color: #475569; margin-bottom: 6px;">
+      <span>Udnyttelse af Progressionsgrænse (Aktieindkomst):</span>
+      <span id="aktie-tekst" style="color: #10b981; font-weight: 800;">0 kr. / 0 kr.</span>
+    </div>
+    <div style="width: 100%; height: 8px; border-radius: 4px; background: #e2e8f0; overflow: hidden; margin-bottom: 4px;">
+      <div id="aktie-bar" style="width: 0%; background: #10b981; height: 100%; transition: width 0.2s;"></div>
+    </div>
+    <p style="margin: 0; font-size: 11px; color: #64748b; font-style: italic; line-height: 1.4;">Aktieindkomst beskattes med en lav særskat på 27% op til progressionsgrænsen. Alt afkast herover beskattes med 42%.</p>
+  </div>
+</div>
+
+<!-- 5. DETALJERET SKATTEOPGØRELSE (TVUNGET PÅ 100% BREDDE) -->
+<div style="width: 100% !important; min-width: 100% !important; box-sizing: border-box; margin-bottom: 24px; border: 1px solid #e2e8f0; border-radius: 8px; overflow-x: auto;">
+<table style="width: 100% !important; min-width: 100% !important; border-collapse: collapse; font-size: 12.5px; text-align: left; display: table !important; table-layout: auto; margin: 0; box-sizing: border-box;">
+<thead>
+<tr style="background-color: #f8fafc; border-bottom: 2px solid #e2e8f0; color: #475569; font-size: 10.5px; text-transform: uppercase; font-weight: 800;">
+<th style="padding: 12px 10px;">Opgørelse efter SKATs principper</th>
+<th id="th-p1" style="padding: 12px 10px; text-align: right; width: 110px;">Person 1</th>
+<th id="th-p2" style="padding: 12px 10px; text-align: right; width: 110px;">Person 2</th>
+<th style="padding: 12px 10px; text-align: right; width: 130px;">Samlet skat</th>
+</tr>
+</thead>
+<tbody style="color: #334155;">
+<!-- Indkomster -->
+<tr style="font-weight: 700; background: #f8fafc;"><td style="padding: 6px 10px;" colspan="4">Registrerede årsindkomster</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; color: #475569;">Lønindkomst (Arbejde)</td><td id="td-loen-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-loen-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-loen-tot" style="text-align: right; padding: 6px 10px; font-weight: 700;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; color: #475569;">Kapitalindkomst</td><td id="td-kapital-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-kapital-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-kapital-tot" style="text-align: right; padding: 6px 10px; font-weight: 700;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 6px 10px; color: #475569;">Aktieindkomst</td><td id="td-aktie-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-aktie-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="td-aktie-tot" style="text-align: right; padding: 6px 10px; font-weight: 700;">0 kr.</td></tr>
+
+<!-- AM-Bidrag -->
+<tr style="font-weight: 700; background: #f8fafc;"><td style="padding: 6px 10px;" colspan="4">1. Arbejdsmarkedsbidrag</td></tr>
+<tr style="border-bottom: 2px solid #cbd5e1;"><td style="padding: 6px 10px; color: #475569;">AM-bidrag (8% af lønindkomst)</td><td id="skat-am-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-am-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-am-tot" style="text-align: right; padding: 6px 10px; font-weight: 700; color: #b91c1c;">0 kr.</td></tr>
+
+<!-- DET NYE FEJLFRIT OPSTRUKTUREREDE AFSNIT 2 -->
+<tr style="font-weight: 700; background: #f1f5f9; color: #1e293b;"><td style="padding: 6px 10px;" colspan="4">2. Bund- & Kommuneskat Opgørelse</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #64748b;">Beregnet statslig Bundskat (12,06% af løn efter AM + kapital)</td><td id="skat-bund-brutto-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-bund-brutto-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-bund-brutto-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #475569;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #64748b;">Beregnet gennemsnitlig Kommuneskat (25,0% af løn efter AM + kapital)</td><td id="skat-komm-brutto-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-komm-brutto-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-komm-brutto-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #475569;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #16a34a;">Modregnet: Skatteværdi af Personfradrag i Bundskat (12,06%)</td><td id="fradrag-bund-p1" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-bund-p2" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-bund-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #16a34a;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #16a34a;">Modregnet: Skatteværdi af Personfradrag i Kommuneskat (25,0%)</td><td id="fradrag-komm-p1" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-komm-p2" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-komm-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #16a34a;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #16a34a;">Modregnet: Skatteværdi af Beskæftigelsesfradrag i Kommuneskat (25,0%)</td><td id="fradrag-besk-p1" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-besk-p2" style="text-align: right; padding: 6px 10px; color: #16a34a;">0 kr.</td><td id="fradrag-besk-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #16a34a;">0 kr.</td></tr>
+<tr style="border-bottom: 2px solid #cbd5e1; background: #fff5f5; font-weight: 700;"><td style="padding: 6px 10px; padding-left: 14px; color: #0f172a;">Samlet løn- & kapitalindkomstskat (Netto)</td><td id="skat-indk-netto-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-indk-netto-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-indk-netto-tot" style="text-align: right; padding: 6px 10px; color: #b91c1c;">0 kr.</td></tr>
+
+<!-- Aktieskat -->
+<tr style="font-weight: 700; background: #f1f5f9; color: #1e293b;"><td style="padding: 6px 10px;" colspan="4">3. Aktieskat</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #64748b;">Aktieskat 27% (Under progressionsgrænsen)</td><td id="skat-aktielav-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktielav-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktielav-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #475569;">0 kr.</td></tr>
+<tr style="border-bottom: 1px solid #f1f5f9;"><td style="padding: 6px 10px; padding-left: 14px; color: #64748b;">Aktieskat 42% (Over progressionsgrænsen)</td><td id="skat-aktiehoej-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktiehoej-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktiehoej-tot" style="text-align: right; padding: 6px 10px; font-weight: 600; color: #475569;">0 kr.</td></tr>
+<tr style="border-bottom: 2px solid #cbd5e1; background: #fff5f5; font-weight: 700;"><td style="padding: 6px 10px; padding-left: 14px; color: #0f172a;">Samlet aktieskat</td><td id="skat-aktie-netto-p1" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktie-netto-p2" style="text-align: right; padding: 6px 10px;">0 kr.</td><td id="skat-aktie-netto-tot" style="text-align: right; padding: 6px 10px; color: #b91c1c;">0 kr.</td></tr>
+
+<!-- Total -->
+<tr style="font-weight: 900; font-size: 13.5px; background: #e2e8f0; color: #0f172a;">
+<td style="padding: 12px 10px;">Samlet beregnet slutskat (1 + 2 + 3)</td>
+<td id="final-p1" style="text-align: right; padding: 12px 10px;">0 kr.</td>
+<td id="final-p2" style="text-align: right; padding: 12px 10px;">0 kr.</td>
+<td id="final-tot" style="text-align: right; padding: 12px 10px; color: #b91c1c;">0 kr.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- 6. LIVE INSIGHTS DASHBOARD -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 20px;">
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 12px; border-radius: 8px; text-align: center;">
+<span style="font-size: 10px; font-weight: 800; color: #64748b; text-transform: uppercase; display: block;">Samlet Indtægt</span>
+<span id="dash-brutto" style="font-size: 18px; font-weight: 900; color: #0f172a; display: block; margin-top: 2px;">0 kr.</span>
+</div>
+<div style="background: #fff5f5; border: 1px solid #fee2e2; padding: 12px; border-radius: 8px; text-align: center;">
+<span style="font-size: 10px; font-weight: 800; color: #991b1b; text-transform: uppercase; display: block;">Samlet Slutskat</span>
+<span id="dash-skat" style="font-size: 18px; font-weight: 900; color: #991b1b; display: block; margin-top: 2px;">0 kr.</span>
+</div>
+<div style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 12px; border-radius: 8px; text-align: center;">
+<span style="font-size: 10px; font-weight: 800; color: #1e40af; text-transform: uppercase; display: block;">Reel Skatteprocent</span>
+<span id="dash-pct" style="font-size: 18px; font-weight: 900; color: #1e40af; display: block; margin-top: 2px;">0.0%</span>
+</div>
+<div style="background: #f0fdf4; border: 1px solid #bbf7d0; padding: 12px; border-radius: 8px; text-align: center;">
+<span style="font-size: 10px; font-weight: 800; color: #166534; text-transform: uppercase; display: block;">Månedligt Netto</span>
+<span id="dash-maaned" style="font-size: 18px; font-weight: 900; color: #15803d; display: block; margin-top: 2px;">0 kr.</span>
+</div>
+</div>
+
+<!-- 7. SKRIFTLIG KONKLUSION -->
+<div id="skat-konklusion" style="padding: 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 13px; line-height: 1.5; color: #334155; font-weight: 500;">
+<!-- Genereres dynamisk af JS -->
+</div>
+
+</div>
+
+<script>
+function haandterStatusSkift() {
+  const status = document.getElementById('skat-status').value;
+  const containerP2 = document.getElementById('container-indtastning-p2');
+  const lblP1Title = document.getElementById('lbl-p1-title');
+
+  if (status === 'single') {
+    containerP2.style.display = 'none';
+    lblP1Title.innerText = "Indtastninger (Single)";
+    document.getElementById('skat-loen-p2').value = 0;
+    document.getElementById('skat-kapital-p2').value = 0;
+    document.getElementById('skat-aktie-p2').value = 0;
+  } else {
+    containerP2.style.display = 'block';
+    lblP1Title.innerText = "Person 1";
+    if(parseFloat(document.getElementById('skat-kapital-p2').value) === 0 && parseFloat(document.getElementById('skat-loen-p2').value) === 0) {
+      document.getElementById('skat-loen-p2').value = 0;
+      document.getElementById('skat-kapital-p2').value = 53500;
+      document.getElementById('skat-aktie-p2').value = 65400;
+    }
+  }
+  koerSkatteberegning();
+}
+
+function koerSkatteberegning() {
+  const SATS_PERSONFRADRAG = 53500;
+  const SATS_AKTIE_GRAENSE = 65400;
+  const SATS_MAX_BESKAEFTIGELSE = 50000;
+  
+  const SATS_BUNDSKAT = 0.1206;
+  const SATS_KOMMUNESKAT = 0.250;
+
+  const status = document.getElementById('skat-status').value;
+  
+  const loenP1 = Math.max(0, parseFloat(document.getElementById('skat-loen-p1').value) || 0);
+  const kapitalP1 = Math.max(0, parseFloat(document.getElementById('skat-kapital-p1').value) || 0);
+  const aktieP1 = Math.max(0, parseFloat(document.getElementById('skat-aktie-p1').value) || 0);
+  
+  const loenP2 = (status === 'gift') ? Math.max(0, parseFloat(document.getElementById('skat-loen-p2').value) || 0) : 0;
+  const kapitalP2 = (status === 'gift') ? Math.max(0, parseFloat(document.getElementById('skat-kapital-p2').value) || 0) : 0;
+  const aktieP2 = (status === 'gift') ? Math.max(0, parseFloat(document.getElementById('skat-aktie-p2').value) || 0) : 0;
+
+  if (status === 'single') {
+    document.getElementById('th-p2').style.display = 'none';
+    document.getElementById('td-loen-p2').style.display = 'none';
+    document.getElementById('td-kapital-p2').style.display = 'none';
+    document.getElementById('td-aktie-p2').style.display = 'none';
+    document.getElementById('skat-am-p2').style.display = 'none';
+    document.getElementById('skat-bund-brutto-p2').style.display = 'none';
+    document.getElementById('skat-komm-brutto-p2').style.display = 'none';
+    document.getElementById('fradrag-bund-p2').style.display = 'none';
+    document.getElementById('fradrag-komm-p2').style.display = 'none';
+    document.getElementById('fradrag-besk-p2').style.display = 'none';
+    document.getElementById('skat-indk-netto-p2').style.display = 'none';
+    document.getElementById('skat-aktielav-p2').style.display = 'none';
+    document.getElementById('skat-aktiehoej-p2').style.display = 'none';
+    document.getElementById('skat-aktie-netto-p2').style.display = 'none';
+    document.getElementById('final-p2').style.display = 'none';
+    document.getElementById('th-p1').innerText = "Skatteyder";
+  } else {
+    document.getElementById('th-p2').style.display = 'table-cell';
+    document.getElementById('td-loen-p2').style.display = 'table-cell';
+    document.getElementById('td-kapital-p2').style.display = 'table-cell';
+    document.getElementById('td-aktie-p2').style.display = 'table-cell';
+    document.getElementById('skat-am-p2').style.display = 'table-cell';
+    document.getElementById('skat-bund-brutto-p2').style.display = 'table-cell';
+    document.getElementById('skat-komm-brutto-p2').style.display = 'table-cell';
+    document.getElementById('fradrag-bund-p2').style.display = 'table-cell';
+    document.getElementById('fradrag-komm-p2').style.display = 'table-cell';
+    document.getElementById('fradrag-besk-p2').style.display = 'table-cell';
+    document.getElementById('skat-indk-netto-p2').style.display = 'table-cell';
+    document.getElementById('skat-aktielav-p2').style.display = 'table-cell';
+    document.getElementById('skat-aktiehoej-p2').style.display = 'table-cell';
+    document.getElementById('skat-aktie-netto-p2').style.display = 'table-cell';
+    document.getElementById('final-p2').style.display = 'table-cell';
+    document.getElementById('th-p1').innerText = "Person 1";
+  }
+
+  // --- ARBEJDSMARKEDSBIDRAG ---
+  let amP1 = loenP1 * 0.08;
+  let persIndkP1 = loenP1 - amP1;
+  let amP2 = loenP2 * 0.08;
+  let persIndkP2 = loenP2 - amP2;
+
+  // --- BESKÆFTIGELSESFRADRAG ---
+  let beskFradragAmtP1 = Math.min(loenP1 * 0.1065, SATS_MAX_BESKAEFTIGELSE);
+  let skattevaerdiBeskP1 = beskFradragAmtP1 * SATS_KOMMUNESKAT;
+
+  let beskFradragAmtP2 = Math.min(loenP2 * 0.1065, SATS_MAX_BESKAEFTIGELSE);
+  let skattevaerdiBeskP2 = beskFradragAmtP2 * SATS_KOMMUNESKAT;
+
+  // --- PERSONFRADRAGS ALLOKERING ---
+  let fradragBrugtLoenP1 = Math.min(persIndkP1, SATS_PERSONFRADRAG);
+  let restFradragP1 = SATS_PERSONFRADRAG - fradragBrugtLoenP1;
+
+  let fradragBrugtLoenP2 = Math.min(persIndkP2, SATS_PERSONFRADRAG);
+  let restFradragP2 = SATS_PERSONFRADRAG - fradragBrugtLoenP2;
+
+  let fradragBrugtKapP1 = Math.min(kapitalP1, restFradragP1);
+  let heltLeftoverP1 = restFradragP1 - fradragBrugtKapP1;
+
+  let fradragBrugtKapP2 = Math.min(kapitalP2, restFradragP2);
+  let heltLeftoverP2 = restFradragP2 - fradragBrugtKapP2;
+
+  if (status === 'gift') {
+    if (heltLeftoverP1 > 0 && kapitalP2 > fradragBrugtKapP2) {
+      let overf = Math.min(kapitalP2 - fradragBrugtKapP2, heltLeftoverP1);
+      fradragBrugtKapP2 += overf;
+      heltLeftoverP1 -= overf;
+    } else if (heltLeftoverP2 > 0 && kapitalP1 > fradragBrugtKapP1) {
+      let overf = Math.min(kapitalP1 - fradragBrugtKapP1, heltLeftoverP2);
+      fradragBrugtKapP1 += overf;
+      heltLeftoverP2 -= overf;
+    }
+  }
+
+  // Rå bruttoskatter linje for linje
+  let bundBruttoP1 = (persIndkP1 + kapitalP1) * SATS_BUNDSKAT;
+  let kommBruttoP1 = (persIndkP1 + kapitalP1) * SATS_KOMMUNESKAT;
+  
+  let samletBrugtFradragP1 = fradragBrugtLoenP1 + fradragBrugtKapP1;
+  let skattevaerdiFradragBundP1 = samletBrugtFradragP1 * SATS_BUNDSKAT;
+  let skattevaerdiFradragKommP1 = samletBrugtFradragP1 * SATS_KOMMUNESKAT;
+
+  let indkNettoP1 = Math.max(0, (bundBruttoP1 - skattevaerdiFradragBundP1) + (kommBruttoP1 - skattevaerdiFradragKommP1 - skattevaerdiBeskP1));
+
+  let bundBruttoP2 = (persIndkP2 + kapitalP2) * SATS_BUNDSKAT;
+  let kommBruttoP2 = (persIndkP2 + kapitalP2) * SATS_KOMMUNESKAT;
+  
+  let samletBrugtFradragP2 = fradragBrugtLoenP2 + fradragBrugtKapP2;
+  let skattevaerdiFradragBundP2 = samletBrugtFradragP2 * SATS_BUNDSKAT;
+  let skattevaerdiFradragKommP2 = samletBrugtFradragP2 * SATS_KOMMUNESKAT;
+
+  let indkNettoP2 = Math.max(0, (bundBruttoP2 - skattevaerdiFradragBundP2) + (kommBruttoP2 - skattevaerdiFradragKommP2 - skattevaerdiBeskP2));
+
+  // Aktieskat
+  let granseP1 = SATS_AKTIE_GRAENSE;
+  let granseP2 = SATS_AKTIE_GRAENSE;
+  if (status === 'gift') {
+    let restGranseP1 = Math.max(0, SATS_AKTIE_GRAENSE - aktieP1);
+    let restGranseP2 = Math.max(0, SATS_AKTIE_GRAENSE - aktieP2);
+    if (restGranseP1 > 0) granseP2 += restGranseP1;
+    if (restGranseP2 > 0) granseP1 += restGranseP2;
+  }
+
+  let aktieLavP1 = Math.min(aktieP1, granseP1) * 0.27;
+  let aktieHoejP1 = Math.max(0, aktieP1 - granseP1) * 0.42;
+  let aktieNettoP1 = aktieLavP1 + aktieHoejP1;
+
+  let aktieLavP2 = Math.min(aktieP2, granseP2) * 0.27;
+  let aktieHoejP2 = Math.max(0, aktieP2 - granseP2) * 0.42;
+  let aktieNettoP2 = aktieLavP2 + aktieHoejP2;
+
+  let slutskatP1 = amP1 + indkNettoP1 + aktieNettoP1;
+  let slutskatP2 = amP2 + indkNettoP2 + aktieNettoP2;
+
+  // --- LIVE TABEL POPULERING MED KOMPLETTE TOTALER ---
+  function f(id, v) { document.getElementById(id).innerText = Math.round(v).toLocaleString('da-DK') + ' kr.'; }
+
+  f('td-loen-p1', loenP1); f('td-loen-p2', loenP2); f('td-loen-tot', loenP1 + loenP2);
+  f('td-kapital-p1', kapitalP1); f('td-kapital-p2', kapitalP2); f('td-kapital-tot', kapitalP1 + kapitalP2);
+  f('td-aktie-p1', aktieP1); f('td-aktie-p2', aktieP2); f('td-aktie-tot', aktieP1 + aktieP2);
+  
+  f('skat-am-p1', amP1); f('skat-am-p2', amP2); f('skat-am-tot', amP1 + amP2);
+
+  // Splittede indkomsts- og fradragslinjer
+  f('skat-bund-brutto-p1', bundBruttoP1); f('skat-bund-brutto-p2', bundBruttoP2); f('skat-bund-brutto-tot', bundBruttoP1 + bundBruttoP2);
+  f('skat-komm-brutto-p1', kommBruttoP1); f('skat-komm-brutto-p2', kommBruttoP2); f('skat-komm-brutto-tot', kommBruttoP1 + kommBruttoP2);
+  
+  f('fradrag-bund-p1', -skattevaerdiFradragBundP1); f('fradrag-bund-p2', -skattevaerdiFradragBundP2); f('fradrag-bund-tot', -(skattevaerdiFradragBundP1 + skattevaerdiFradragBundP2));
+  f('fradrag-komm-p1', -skattevaerdiFradragKommP1); f('fradrag-komm-p2', -skattevaerdiFradragKommP2); f('fradrag-komm-tot', -(skattevaerdiFradragKommP1 + skattevaerdiFradragKommP2));
+  f('fradrag-besk-p1', -skattevaerdiBeskP1); f('fradrag-besk-p2', -skattevaerdiBeskP2); f('fradrag-besk-tot', -(skattevaerdiBeskP1 + skattevaerdiBeskP2));
+
+  f('skat-indk-netto-p1', indkNettoP1); f('skat-indk-netto-p2', indkNettoP2); f('skat-indk-netto-tot', indkNettoP1 + indkNettoP2);
+
+  f('skat-aktielav-p1', aktieLavP1); f('skat-aktielav-p2', aktieLavP2); f('skat-aktielav-tot', aktieLavP1 + aktieLavP2);
+  f('skat-aktiehoej-p1', aktieHoejP1); f('skat-aktiehoej-p2', aktieHoejP2); f('skat-aktiehoej-tot', aktieHoejP1 + aktieHoejP2);
+  f('skat-aktie-netto-p1', aktieNettoP1); f('skat-aktie-netto-p2', aktieNettoP2); f('skat-aktie-netto-tot', aktieNettoP1 + aktieNettoP2);
+
+  f('final-p1', slutskatP1); f('final-p2', slutskatP2); f('final-tot', slutskatP1 + slutskatP2);
+
+  // MÅLER 1: PERSONFRADRAG
+  let totalBrugtFradrag = samletBrugtFradragP1 + samletBrugtFradragP2;
+  let totalMaxFradrag = SATS_PERSONFRADRAG * ((status === 'gift') ? 2 : 1);
+  let fradragPct = Math.min(100, (totalBrugtFradrag / totalMaxFradrag) * 100);
+  document.getElementById('fradrag-tekst').innerText = Math.round(totalBrugtFradrag).toLocaleString('da-DK') + ' kr. / ' + Math.round(totalMaxFradrag).toLocaleString('da-DK') + ' kr.';
+  document.getElementById('fradrag-bar').style.width = fradragPct + '%';
+
+  // MÅLER 2: AKTIEINDTÆGT PROGRESSIONSGRÆNSE
+  let totalAktieindkomst = aktieP1 + aktieP2;
+  let totalMaxGranse = SATS_AKTIE_GRAENSE * ((status === 'gift') ? 2 : 1);
+  let aktiePct = Math.min(100, (totalAktieindkomst / totalMaxGranse) * 100);
+  document.getElementById('aktie-tekst').innerText = Math.round(totalAktieindkomst).toLocaleString('da-DK') + ' kr. / ' + Math.round(totalMaxGranse).toLocaleString('da-DK') + ' kr.';
+  document.getElementById('aktie-bar').style.width = aktiePct + '%';
+
+  // DASHBOARD BOGFØRING
+  let bruttoTotal = loenP1 + kapitalP1 + aktieP1 + loenP2 + kapitalP2 + aktieP2;
+  let skatTotal = slutskatP1 + slutskatP2;
+  let reelPct = bruttoTotal > 0 ? (skatTotal / bruttoTotal) * 100 : 0;
+  let maanedligtRaaderum = (bruttoTotal - skatTotal) / 12;
+
+  document.getElementById('dash-brutto').innerText = Math.round(bruttoTotal).toLocaleString('da-DK') + ' kr.';
+  document.getElementById('dash-skat').innerText = Math.round(skatTotal).toLocaleString('da-DK') + ' kr.';
+  document.getElementById('dash-pct').innerText = reelPct.toFixed(1) + '%';
+  document.getElementById('dash-maaned').innerText = Math.round(maanedligtRaaderum).toLocaleString('da-DK') + ' kr.';
+
+  // SKRIFTLIG STRATEGIKONKLUSION
+  const konklusionDiv = document.getElementById('skat-konklusion');
+  if (bruttoTotal === 0) {
+    konklusionDiv.innerHTML = "💡 Indtast indkomster for at se den fulde skattekonklusion.";
+    return;
+  }
+
+  let civilstandOrd = (status === 'gift') ? 'I som ægtepar' : 'du som single';
+  let fradragBesked = "";
+  if (loenP1 + loenP2 > 0) {
+    fradragBesked = ` Lønindkomsten udløser et samlet beskæftigelsesfradrag, der reducerer din kommuneskat med yderligere <strong>${Math.round(skattevaerdiBeskP1 + skattevaerdiBeskP2).toLocaleString('da-DK')} kr.</strong>, hvilket delvist modregner effekten af AM-bidraget.`;
+  }
+
+  konklusionDiv.innerHTML = `<strong>Strategisk opfølgning på skatteprofilen:</strong><br>
+  Ud fra dine indtastede værdier genererer ${civilstandOrd} en samlet bruttoindtægt på <strong>${Math.round(bruttoTotal).toLocaleString('da-DK')} kr.</strong> om året. 
+  Takket være det optimerede FIRE-setup lander den samlede årlige slutskat (inkl. AM-bidrag og det nye beskæftigelsesfradrag) på kun <strong>${Math.round(skatTotal).toLocaleString('da-DK')} kr.</strong><br><br>
+  ${fradragBesked} Den <strong>reelle skatteprocent presses helt ned på ${reelPct.toFixed(1)}%</strong> på tværs af alle indtægtskilder. 
+  Dette efterlader dig med et rent råderum efter skat på <strong>${Math.round(bruttoTotal - skatTotal).toLocaleString('da-DK')} kr.</strong> om året – svarende til <strong>${Math.round(maanedligtRaaderum).toLocaleString('da-DK')} kr. udbetalt om måneden</strong>.`;
+}
+
+haandterStatusSkift();
+</script>

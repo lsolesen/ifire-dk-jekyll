@@ -25,9 +25,10 @@
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
   }
 
+  /* 2 rene kolonner */
   .lfcal-inputs-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 16px;
     margin-bottom: 14px;
   }
@@ -45,7 +46,7 @@
   .lfcal-group-title {
     font-size: 10px;
     font-weight: 800;
-    color: #d97706; /* Kaffe/Amber tema */
+    color: #d97706; 
     text-transform: uppercase;
     letter-spacing: 0.05em;
     border-bottom: 1px solid #e2e8f0;
@@ -94,7 +95,6 @@
     pointer-events: none;
   }
 
-  /* Det professionelle 2x3 Dashboard Grid */
   .lfcal-stats-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -167,7 +167,7 @@
     💡 <strong>Købekraft vs. Kroner på kontoen:</strong> Den <strong>grønne række</strong> trækker inflationen fra, så du ser værdien målt i, hvad du rent faktisk kan købe for pengene i dag. Den <strong>blå række</strong> viser det nøgne tal, der vil stå på din konto i fremtiden. **Alternativomkostningen** viser den samlede formue, du går glip af ved at vælge forbruget.
   </div>
 
-  <!-- INPUTS -->
+  <!-- INPUTS (Nu med kun 2 kasser side om side) -->
   <div class="lfcal-inputs-grid">
     
     <!-- KOLONNE 1: VANEN -->
@@ -187,22 +187,17 @@
       </div>
     </div>
 
-    <!-- KOLONNE 2: FORMUEVÆKST -->
+    <!-- KOLONNE 2: FORMUEVÆKST & RAMMER -->
     <div class="lfcal-input-group-box">
-      <div class="lfcal-group-title">2. Formuevækst</div>
+      <div class="lfcal-group-title">2. Formuevækst & Marked</div>
       <div class="lfcal-field">
         <label>Investeringsperiode i alt</label>
         <div class="lfcal-input-box"><input type="number" value="{{ include.yearsTotal | default: 20 }}" class="lfcal-clean-input js-lf-years-total"><span>år</span></div>
       </div>
       <div class="lfcal-field">
-        <label>Aktieafkast (Forventet)</label>
+        <label>Aktieafkast (Forventet nominelt)</label>
         <div class="lfcal-input-box"><input type="number" value="{{ include.investmentReturn | default: 7.5 }}" step="0.1" class="lfcal-clean-input js-lf-return"><span>%</span></div>
       </div>
-    </div>
-
-    <!-- KOLONNE 3: MARKEDET -->
-    <div class="lfcal-input-group-box">
-      <div class="lfcal-group-title">3. Inflation</div>
       <div class="lfcal-field">
         <label>Forventet Inflation</label>
         <div class="lfcal-input-box"><input type="number" value="{{ include.inflation | default: 2.5 }}" step="0.1" class="lfcal-clean-input js-lf-inflation"><span>%</span></div>
@@ -211,34 +206,34 @@
 
   </div>
 
-  <!-- DET STRUKTUREREDE 2x3 RESULTAT-GRID -->
+  <!-- RESULTAT-GRID -->
   <div class="lfcal-stats-grid">
     
-    <!-- RÆKKE 1: KØBEKRAFT I DAG / EFTER INFLATION (Grøn tone) -->
+    <!-- RÆKKE 1: KØBEKRAFT I DAG (Grøn) -->
     <div class="lfcal-stat-tile" style="border-left: 3px solid #16a34a; background-color: #f0fdf4;">
       <span class="lfcal-stat-title" style="color: #166534;">Mnd. udgift nu</span>
       <span class="js-lf-stat-monthly lfcal-stat-value">0 kr.</span>
     </div>
     <div class="lfcal-stat-tile" style="border-left: 3px solid #15803d; background-color: #f0fdf4;">
-      <span class="lfcal-stat-title" style="color: #166534;">Indbetaling (Købekraft i dag)</span>
+      <span class="lfcal-stat-title" style="color: #166534;">Indbetaling (Købekraft)</span>
       <span class="js-lf-stat-spent-real lfcal-stat-value">0 kr.</span>
     </div>
     <div class="lfcal-stat-tile" style="border-left: 3px solid #166534; background-color: #f0fdf4;">
-      <span class="lfcal-stat-title" style="color: #166534;">Investeret (Købekraft i dag)</span>
+      <span class="lfcal-stat-title" style="color: #166534;">Investeret (Købekraft)</span>
       <span class="js-lf-stat-invest-real lfcal-stat-value" style="color:#14532d;">0 kr.</span>
     </div>
 
-    <!-- RÆKKE 2: KRONER PÅ KONTOEN / UDEN INFLATIONSTJEK (Blå/Rød tone) -->
+    <!-- RÆKKE 2: KRONER PÅ KONTOEN (Blå/Rød) -->
     <div class="lfcal-stat-tile" style="border-left: 3px solid #2563eb; background-color: #f0f9ff;">
       <span class="lfcal-stat-title" style="color: #1e40af;">Årlig udgift</span>
       <span class="js-lf-stat-annual lfcal-stat-value">0 kr.</span>
     </div>
     <div class="lfcal-stat-tile" style="border-left: 3px solid #1d4ed8; background-color: #f0f9ff;">
-      <span class="lfcal-stat-title" style="color: #1e40af;">Indbetaling (Kroner på kontoen)</span>
+      <span class="lfcal-stat-title" style="color: #1e40af;">Indbetaling (Nominel)</span>
       <span class="js-lf-stat-total-spent lfcal-stat-value">0 kr.</span>
     </div>
     <div class="lfcal-stat-tile" style="border-left: 3px solid #dc2626; background-color: #fef2f2;">
-      <span class="lfcal-stat-title" style="color: #991b1b;">Alternativomkostning (Tabt frihed)</span>
+      <span class="lfcal-stat-title" style="color: #991b1b;">Alternativomkostning</span>
       <span class="js-lf-stat-opportunity lfcal-stat-value" style="color:#991b1b;">0 kr.</span>
     </div>
 
@@ -256,7 +251,7 @@
 
 </div>
 
-<!-- Præcis og fuldstændig fejlfri simulationsmotor -->
+<!-- Simulationsmotor -->
 <script>
 (function() {
   function formatDkr(v) {
@@ -313,7 +308,7 @@
       const totalIndbetalingReal = dataSpentPlot[yearsTotal];
       const opportunityCostNom = finalInvestNom; 
 
-      // Opdater dashboard-fliser
+      // Opdater dashboard
       widget.querySelector('.js-lf-stat-monthly').innerText = formatDkr(monthlyAmount) + ' /md.';
       widget.querySelector('.js-lf-stat-spent-real').innerText = formatDkr(totalIndbetalingReal);
       widget.querySelector('.js-lf-stat-invest-real').innerText = formatDkr(finalInvestReal);
@@ -322,7 +317,7 @@
       widget.querySelector('.js-lf-stat-total-spent').innerText = formatDkr(totalIndbetalingNom);
       widget.querySelector('.js-lf-stat-opportunity').innerText = formatDkr(opportunityCostNom);
 
-      // --- DYNAMISK KONKLUSIONSTEKST ---
+      // Konklusionstekst
       const summaryBox = widget.querySelector('.js-lf-summary-text');
       let msg = "💡 <strong>Vane- og Coast-analyse:</strong><br>";
       
@@ -331,11 +326,11 @@
       } else {
         msg += "Bytter du vanen ud med aktier, vil der om " + yearsTotal + " år stå hele <strong>" + formatDkr(finalInvestNom) + "</strong> fysisk på dit depot! ";
         msg += "Din **alternativomkostning** ved at vælge forbruget nu er altså svimlende " + formatDkr(opportunityCostNom) + " i tabt fremtidig formue. ";
-        msg += "Juzetret for inflation svarer det til en ren købekraft på **" + formatDkr(finalInvestReal) + "** i dagens priser.";
+        msg += "Justeret for inflation svarer det til en ren købekraft på **" + formatDkr(finalInvestReal) + "** i dagens priser.";
       }
       summaryBox.innerHTML = msg.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
 
-      // --- LIVE CHART RE-RENDER ---
+      // Graf
       const ctx = widget.querySelector('.js-lf-canvas').getContext('2d');
       if (chartInstance) { chartInstance.destroy(); }
 

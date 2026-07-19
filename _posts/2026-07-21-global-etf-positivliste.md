@@ -14,7 +14,7 @@ tags: [ETF, Skat, Lagerbeskatning, Passiv indkomst]
 
 Når du opbygger fundamentet for din økonomiske uafhængighed (FIRE), er der ét altoverskyggende princip, der går igen hos de mest succesfulde investorer: Enkelhed og ultrabred spredning. I stedet for at forsøge at finde nålen i højstakken, køber vi hele højstakken. 
 
-Det er der en helt særlig, statistisk årsag til. Historiske data viser, at enkeltaktier har en markant tendens til at underperforme markedsindekset som helhed. Hvis du misser de absolut bedste top-aktier, risikerer du et afkast tæt på nul. Derfor satser vi på at ramme verdensmarkedet så bredt som overhovedet muligt via passiv indeksinvestering. Du kan læse meget mere om denne vigtige pointe og min filosofi i min artikel om [verdensmarkedet og den brede portefølje](/investering-vol9/).
+Det er der en helt særlig, statistisk årsag til. Historiske data viser, at enkeltaktier har en markant tendens til at underperforme markedsindekset som helhed. Hvis du misser de absolut bedste top-aktier, risikerer du et afkast tæt på nul. Derfor satser vi på at ramme verdensmarkedet så bredt som overhovedet muligt via passiv indeksinvestering. Du kan læse meget mere om denne vigtige pointe og min filosofi i min artikel om [verdensmarkedet og den brede portefølje](/verdensindekset/).
 
 I denne artikel kigger vi nærmere på, hvordan du sammensætter et globalt setup udelukkende med udenlandske ETF'er (*Exchange Traded Funds*), der er godkendt til **aktieindkomst**.
 
@@ -50,7 +50,7 @@ Når du skal vælge fonde til din ASK, din pension eller som en aggressiv pris-o
 ### Amundi Prime All Country World UCITS ETF Acc (Prisbaskeren)
 Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske marked. Hvis du vil have omkostningerne presset helt i bund, er det denne fond, du skal kigge på.
 
-{% include fond-oplysninger.html fond="WEBN" %}
+{% include fond-oplysninger.html fonde="WEBN" %}
 
 
 * **Ticker:** WEBN (Handelsvaluta: EUR) / ISIN: IE0003XJA0J9
@@ -61,7 +61,7 @@ Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske ma
 
 ### iShares MSCI ACWI UCITS ETF USD (Acc) (Klassikeren)
 
-{% include fond-oplysninger.html fond="IUSQ" %}
+{% include fond-oplysninger.html fonde="IUSQ" %}
 
 BlackRocks flagskib inden for globale fonde og en absolut favorit på de danske aktiesparekonti gennem mange år.
 * **Ticker:** IUSQ (Handelsvaluta: EUR) / ISIN: IE00B6R52259
@@ -73,7 +73,7 @@ BlackRocks flagskib inden for globale fonde og en absolut favorit på de danske 
 ### SPDR MSCI ACWI IMI UCITS ETF (Det komplette marked)
 Dette er den ultimative fond for investoren, der ikke vil nøjes med de store virksomheder, men som vil have det **komplette** marked i én enkelt handelsordre.
 
-{% include fond-oplysninger.html fond="SPYI" %}
+{% include fond-oplysninger.html fonde="SPYI" %}
 
 * **Ticker:** SPYI (Handelsvaluta: EUR) / ISIN: IE00B3YLTY66
 * **ÅOP:** 0,17 %

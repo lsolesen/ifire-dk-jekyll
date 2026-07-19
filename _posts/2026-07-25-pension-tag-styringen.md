@@ -90,6 +90,8 @@ Jeg har sammensat min portefølje af to billige indeksfonde, der tilsammen dækk
 
 Når vi vægter de to fonde sammen, lander min samlede, årlige omkostning på **ca. 0,29% i ÅOP**.
 
+{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL0000000039:12" %}
+
 ### Sammenligningen: Hvad sparer jeg i forhold til de aktive valg?
 Når jeg sætter min portefølje op mod to af Vellivs andre alternativer. Ideen er naturligvis at en aktivt forvaltet fond kan slå markedsindekset, men den skal jo slå det ganske betydeligt for at det er risikoen værd.
 

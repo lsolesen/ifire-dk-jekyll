@@ -17,6 +17,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
+**OBS: Dette er en ældre logbogsartikel, som ikke længere opdateres.** Hvis du er interesseret i at kende min nuværende langsigtede investeringsstrategi, kan du læse om den på [/min-strategi/](/min-strategi/). Du kan også se præcis, hvordan min aktuelle portefølje er sammensat i dag på [/mine-investeringer/](/mine-investeringer/). Hvis du i stedet leder efter den opdaterede og dybdegående guide til Storebrand-fondene, det fiktive udbytte og advarslen om de skjulte depotgebyrer, kan du læse den nye side om [Storebrand fonde, skat og fælder](/storebrand-fonde-skat/).
+{: .notice--info}
+
 Jeg bruger stadig det porteføljer, jeg [tidligere har været inspireret af](/investering-vol5/), men for nylig er der kommet nogle nye fonde til Danmark med lave omkostninger, som beskattes efter realisationsprincippet som aktieindkomst. Fondene er akkumulerende og betaler ikke udbytte, men alligevel er beskatningen fordelagtig for danske investorer, da den ligner beskatningen for almindelige aktier og de andre danske distribuerende (udbyttebetalende) investeringsforeninger.
 
 Fondene er fra Storebrand. Desværre kan de ikke købes i månedsopsparingen hos Nordnet (og deres support siger, at der heller ikke er planer om det), men jeg overvejer kraftigt at købe lidt ind af dem i nogle af mine porteføljer alligevel. Fx er jeg ved at oprette en opsparing, som gerne skal være med til at finansiere mine døtres efterskoleophold.

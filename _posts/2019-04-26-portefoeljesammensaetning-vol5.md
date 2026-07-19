@@ -16,6 +16,9 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
+**OBS: Dette er en ældre artikel, som ikke længere opdateres.** Hvis du er interesseret i at kende min nuværende langsigtede investeringsstrategi, kan du læse om den på [/min-strategi/](/min-strategi/). Du kan også se præcis, hvordan min aktuelle portefølje er sammensat i dag på [/mine-investeringer/](/mine-investeringer/). Hvis du i stedet leder efter en opdateret, dybdegående guide til aktivallokering og historiske teorier som All Weather og Permanent Portfolio, kan du læse den nye side om [modelporteføljer og aktivallokering](/modelportefoeljer-aktivallokering/).
+{: .notice--warning }
+
 Man bliver [lige](/investering/) [lidt](/investering-vol2/) [klogere](/investering-vol3/) [hele](/investering-vol4/) tiden.
 
 Jeg vil som udgangspunkt gerne lave en _hands off_-investeringsstrategi. Derfor er sammensætningen af min portefølje en vigtig beslutning.

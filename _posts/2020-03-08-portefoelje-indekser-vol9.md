@@ -1,6 +1,6 @@
 ---
-title: "Verdensindekset 2021: Passiv investering i aktier [Guide]"
-seo_title: "Verdensindekset 2021: Passiv investering i aktier [Guide] »"
+title: "Verdensindekset 2021: Passiv investering i aktier #9"
+seo_title: "Verdensindekset 2021: Passiv investering i aktier #9 »"
 description: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Jeg viser her hvordan du kan investere gennem passivt forvaltede fonde i verdensindekset."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
@@ -28,6 +28,10 @@ feature_row:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 ---
+
+**OBS: Denne artikel opdateres ikke længere.** Jeg har skrevet en helt ny, gennemgribende guide til verdensmarkedet, hvor jeg dykker meget dybere ned i geografiske zoner, selskabsstørrelser (Large/Mid/Small Cap) og de danske skatteregler for globale fonde – helt uden uoverskuelige datatabeller. [Læs den nye og opdaterede guide til verdensindekset her](/verdensindekset/).
+{: .notice--info}
+
 {% comment %}
 
 Du har jo nok stødt på Ray Dalio og hans all weather portfolio, som mange sværger til - find evt inpsiration der. Jeg hælder (pension,frie og ASK) til EUNL, EUNM, SXRG og XDEX . De 2 sidste grundet historiske afkast indenfor Small cap og Value - men ingen ved hvad fremtiden bringer.
