@@ -72,7 +72,7 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
   * **Beskatning:** Lagerbeskatning (17% lagerskat)
   * **ÅOP:** 0,07%
 
-{% include fond-oplysninger.html fond="WEBN" %}
+{% include fond-oplysninger.html fonde="WEBN" %}
   
   Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
 
@@ -88,7 +88,7 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
   * **Beskatning:** Realisationsprincippet (27% / 42% progressionsskat)
   * **ÅOP:** 0,35%
 
-{% include fond-oplysninger.html fond="SPIIMA" %}
+{% include fond-oplysninger.html fonde="SPIIMA" %}
 
   Jeg ønsker ikke at lagerbeskatte mine frie midler. Derfor vælger jeg en fond, der bliver realisationsbeskattet. Derfor skal jeg vælge en dansk fond, som har lidt højere årlige omkostninger end de udenlandske ETF'er. Realisationsbeskatningen sikrer, at jeg kun betaler skat, når jeg reelt sælger andele eller får udbytte. Det er med til at maksimere renters rente-effekten på den lange bane. Fonden dækker hele verden i ét værdipapir, hvilket gør administrationen minimal.
   
