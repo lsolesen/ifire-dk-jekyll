@@ -43,7 +43,7 @@ Jeg tror ikke, at jeg kan slå markedet, så derfor forsøger jeg at være fuldt
 
 Tidligere har jeg i min portefølje eksperimenteret med lidt mere komplekse strategier med guld-satellitter, crowdlending, ejendoms-ETF'er og lagerbeskatning i frie midler.
 
-Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[Fra komplekst til knivskarpt: Mit komplette investeringssetup](/egen-investering/) og [min investorhistorie](/min-investorrejse/)**.
+Hvis du vil læse den personlige historie om selve omlægningen og de fejl, jeg har ryddet op i, kan du læse min blogpost her: **[min investorhistorie](/min-investorrejse/)**.
 
 ---
 
@@ -67,57 +67,33 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
 <details class="faq" markdown="1">
   <summary>🚀 Aktiesparekonto - Nordnet</summary>
 
-  * **Mit fondsvalg:** Amundi Prime All Country World UCITS ETF Acc (WEBN)
-  * **Indeks:** Solactive GBS Global Markets Large & Mid Cap Index (ingen small cap)
-  * **Beskatning:** Lagerbeskatning (17% lagerskat)
-  * **ÅOP:** 0,07%
-
-{% include depottype-kort.html type="ask" allocation="WEBN:100" %}
+På Aktiesparekontoen har jeg valgt en billig passivt forvaltet ETF, der tracker det globale aktiemarked. Da Aktiesparekontoen altid er lagerbeskattet, giver det mening at fylde den op med netop udenlandske, akkumulerende ETF'er.
 
 {% include investeringskort.html depot="ask" fonde="WEBN:100" %}
-  
-  Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
+
+Jeg prioriterer at fylde kontoen op til det maksimale indskudsloft løbende. Da man desværre ikke kan bruge Nordnets Månedsopsparing på en Aktiesparekonto, køber jeg manuelt, så hurtigt som jeg har midlerne klar. Jeg er opmærksom på, at der er en lille engangsomkostning til valutaveksling, når der handles udenlandske ETF'er.
 
 </details>
 
 <details class="faq" markdown="1">
   <summary>💼 Frie midler - Nordnet</summary>
 
-  **Strategi**: Realisationsbeskatning med udbyttebetalende danske fonde.
-
-  * **Mit primære fondsvalg:** Sparinvest INDEX MSCI ACWI (SPIIMA)
-  * **Indeks**: MSCI World ACWI (excl. small cap)
-  * **Beskatning:** Realisationsprincippet (27% / 42% progressionsskat)
-  * **ÅOP:** 0,35%
-
-{% include depottype-kort.html type="frie_midler" allocation="SPIIMA:100" %}
+  For mine frie midler foretrækker jeg en udbyttebetalende dansk fond, da [realisationsbeskatningen på lang sigt er lagerbeskatning overlegen](/lagerbeskatning-etf-fordel-eller-ulempe/) i de fleste tilfælde. Det kræver en dansk, udbyttebetalende fond. Selvom de årlige omkostninger (ÅOP) er højere end hos udenlandske ETF'er, betales der kun skat af realiserede gevinster og udbytter. Jeg bruger én bred fond, der dækker hele verden for at holde administrationen minimal.
 
 {% include investeringskort.html depot="frie_midler" fonde="SPIIMA:100" %}
 
-  Jeg ønsker ikke at lagerbeskatte mine frie midler. Derfor vælger jeg en fond, der bliver realisationsbeskattet. Derfor skal jeg vælge en dansk fond, som har lidt højere årlige omkostninger end de udenlandske ETF'er. Realisationsbeskatningen sikrer, at jeg kun betaler skat, når jeg reelt sælger andele eller får udbytte. Det er med til at maksimere renters rente-effekten på den lange bane. Fonden dækker hele verden i ét værdipapir, hvilket gør administrationen minimal.
-  
-  Jeg køber om muligt på Nordnets månedsopsparing for faste månedlige indskud. 
-
-  Ud over mit foretrukne valg af fond, har jeg historisk købt et par andre fonde.
-
-{% include fond-oplysninger.html
-    title="Tidligere investeringer" 
-    allocation="SPIDJB:15,SPIEMIKL:2,SPIVIGAKL:83"
-    comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI AWCI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
+  Køb sker automatisk via Nordnets Månedsopsparing. Porteføljen indeholder desuden en række ældre fonde fra tidligere strategier:
 
 {% include investeringskort.html
     title="Tidligere investeringer" 
     fonde="SPIDJB:15,SPIEMIKL:2,SPIVIGAKL:83"
-    comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI AWCI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
+    comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI ACWI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
 
-  **Hvorfor ser mine frie midler sådan ud?**
+  **Hvorfor beholde de gamle fonde?**
 
-  Selvom mit langsigtede kompas peger mod ét enkelt værdipapir, så afspejler min nuværende portefølje udviklingen over tid - og de fonde jeg tidligere tænkte var de bedste.
-
-  I stedet for at tvangssælge ældre, velfungerende fonde (og derved udløse en stor her-og-nu skatteregning af historiske gevinster), lader jeg dem stå og passe sig selv. Nye indbetalinger via min Månedsopsparing rettes dog mod min primære kernefond.
+  For ikke at udløse en unødig skatteregning lader jeg de ældre fonde stå frem for at sælge dem. De akkumulerede gevinster forbliver investeret, mens alle nye indbetalinger via Månedsopsparingen udelukkende ledes over i den nuværende kernefond.
 
 </details>
-
 ---
 
 ## 🌅 Pension - aktiemarkedet
@@ -127,17 +103,11 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 <details class="faq" markdown="1">
   <summary>👵 Aldersopsparing - Nordnet</summary>
 
-  * **Primære aktiver:** Nordnet Globale Aktier Index (88%) & Nordnet Emerging Markets Index Aktier (12%)
-  * **Indeks:** MSCI World + Emerging markets (ingen small cap)
-  * **Beskatning:** PAL-skat (15,3%)
-  * **ÅOP:** 0,32% (vægtet)
+  Aldersopsparingen afregnes efter lagerprincippet med en fast PAL-skat på 15,3 %. På grund af det lave årlige indskudsloft bruger jeg i øjeblikket Nordnets egne indeksfonde. Fordelen er, at de kan købes kurtagefrit via Månedsopsparingen, hvilket sikrer, at de små indskud ikke bliver spist op af handelsgebyrer.
 
-{% include depottype-kort.html type="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" 
-    comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
+{% include investeringskort.html depot="aldersopsparing" fonde="NNGBLINDX:88,NNEMINDX:12" comment="Jeg køber kurtagefrie fonde nu, men skifter til en billigere udenlandsk ETF, når depotets samlede værdi retfærdiggør handelsomkostningerne." %}
 
-{% include investeringskort.html depot="aldersopsparing" fonde="NNGBLINDX:88,NNEMINDX:12" comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
-  
-  Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
+  At Nordnets fonde normalt beskattes som kapitalindkomst har ingen betydning på denne konto, da pensionsmiljøets PAL-skat overskriver de almindelige skatteregler. Når den samlede formue på kontoen med årene er vokset tilstrækkeligt, omlægges porteføljen til en enkelt udenlandsk ETF for at nedbringe den løbende ÅOP yderst muligt.
 
 </details>
 
@@ -160,16 +130,11 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 <details class="faq" markdown="1">
   <summary>🏢 Firmabetalt Pensionsopsparing - Velliv</summary>
 
-  * **Mit fondsvalg:** Velliv Globale Aktier Index (88%) & Velliv Emerging Markets Index Aktier (12%)
-  * **Indeks**: MSCI World og Emerging Markets (ingen small cap)
-  * **Beskatning:** PAL-skat (15,3%)
-  * **Samlet ÅOP:** Ca. 0,29% (vægtet - hhv. 0,27% og 0,43%)
-
-{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL000IDX004N:12" %}
+  For min firmabetalte pension har jeg fravalgt Vellivs aktive standardløsninger for at undgå høje administrationsomkostninger samt uønskede obligationer. I stedet bruger jeg deres *LinkPension (Selvvalg)*. Det gør det muligt selv at sammensætte en billig, passiv portefølje, der følger det globale aktiemarked.
 
 {% include investeringskort.html depot="pension" fonde="UL0000000039:88,UL000IDX004N:12" %}
 
-  Jeg har fravalgt Vellivs standardiserede, aktive pakker, da der er for høje årlige omkostninger og andele af obligationer og andre investeringsklasser til min smag. I stedet bruger jeg deres *LinkPension (Selvvalg)* til at stykke min egen billige og passive portefølje sammen, som rammer den reelle, globale marked.
+  Investeringen er fordelt på to indeksfonde, der dækker både udviklede markeder og udviklingslande via MSCI World og Emerging Markets. Afkastet beskattes efter lagerprincippet med den faste PAL-skat på 15,3 %. Ved at fravælge de færdigpakkede løsninger holdes den samlede, vægtede ÅOP nede på ca. 0,29 %.
 
 </details>
 

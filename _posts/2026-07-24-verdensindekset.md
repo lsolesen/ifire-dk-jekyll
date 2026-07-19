@@ -134,7 +134,7 @@ Her skal du fuldstændig droppe de dyrere danske fonde. I stedet skal du købe u
 {% include fond-oplysninger.html allocation="EUNL:80, IS3N:10, IUSN:10" %}
 
 * 👉 **[Se min komplette guide til optimering af Aktiesparekontoen](/aktiesparekonto/)**
-* 👉 **[Læs om, hvordan jeg skatteoptimerer mine pensions- og selskabsdepoter](/egen-investering/)**
+* 👉 **[Læs om, hvordan jeg skatteoptimerer mine investeringsdepoter og pension](/skatteoptimeret-investering/)**
 
 ---
 

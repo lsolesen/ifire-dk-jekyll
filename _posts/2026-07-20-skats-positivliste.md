@@ -53,11 +53,13 @@ Forskellen på, om en fond er på listen eller ej, handler udelukkende om, hvilk
 Her er forskellen i 2026:
 
 ### Hvis fonden ER på positivlisten --> Aktieindkomst
+
 Du beskattes efter de progressive satser for aktieindkomst. I 2026 ser satserne således ud:
 * **27% i skat** af de første 79.400 kr. i årligt afkast (progressionsgrænsen).
 * **42% i skat** af alt afkast derover.
 
 ### Hvis fonden IKKE er på positivlisten --> Kapitalindkomst
+
 Uden for listen beskattes du som kapitalindkomst. Kapitalindkomst er teknisk kompliceret og afhænger af din personlige indkomst, topskat og renteudgifter. Skattesatsen ligger typisk mellem **37% og 42%**, men du rammer ofte den høje sats med det samme.
 
 ### Sammenligning af beskatning (frie midler)
@@ -79,22 +81,16 @@ Uanset om en ETF er på positivlisten eller ej, og uanset om den er akkumulerend
 
 ## Positivlisten og Aktiesparekontoen (ASK)
 
-Hvis du har en Aktiesparekonto, er positivlisten din faste følgesvend. På en aktiesparekonto er skatten altid **15,3% (lagerprincip)**, hvilket er yderst attraktivt. 
+Hvis du har en [Aktiesparekonto](/aktiesparekonto/), er positivlisten din faste følgesvend. På en aktiesparekonto er skatten altid **15,3% (lagerprincip)**, hvilket er yderst attraktivt. 
 
 Men der er en vigtig regel: **Du må kun købe ETFer og fonde på Aktiesparekontoen, hvis de står på Skats positivliste.** Du kan altså slet ikke købe en kapitalindkomstbeskattet ETF her.
 
 ### 3 populære og billige ETFer på positivlisten i 2026
 Hvis du mangler inspiration til din aktiesparekonto eller dit frie depot, er disse tre brede og billige klassikere på listen i 2026:
 
-1.  **Amundi Prime All Country World UCITS ETF Acc (Ticker: WEBN)**
-    * **Årlige omkostninger (ÅOP):** 0,07%
-    * **Fokus:** Developed og Emerging Markets (hele verden). Ekstremt billig.
-2.  **iShares MSCI ACWI UCITS ETF USD (Acc) (Ticker: IUSQ)**
-    * **Årlige omkostninger (ÅOP):** 0,20%
-    * **Fokus:** Super populær og meget likvid fond, der dækker hele verden.
-3.  **SPDR MSCI ACWI IMI UCITS ETF (Ticker: SPYI)**
-    * **Årlige omkostninger (ÅOP):** 0,17%
-    * **Fokus:** Den bredeste løsning, da den også inkluderer Small Cap (mindre virksomheder).
+{% include fond-sammenlign.html ticker="WEBN, SPYI, IUSQ" %}
+
+**Læs:** [Bedste ETF'er på Skats Positivliste](/bedste-etf-skats-positivliste/)
 
 ---
 
@@ -112,7 +108,9 @@ Børn har et personfradrag (frikort). Man kan *ikke* bruge frikortet til aktiein
 
 Skats positivliste ændrer sig hvert år. Du bør altid tjekke den officielle liste, før du trykker på købsknappen, hvis du er i tvivl.
 
-Du finder listen direkte på Skats hjemmeside under overskriften **"Liste over aktiebaserede investeringsselskaber"**. Det er en god idé at gemme siden som bogmærke, så du hurtigt kan slå ISIN-koder eller navne op.
+Du finder listen direkte på Skats hjemmeside under overskriften **"[Liste over aktiebaserede investeringsselskaber](https://skat.dk/erhverv/ekapital/vaerdipapirer/beviser-og-aktier-i-investeringsforeninger-og-selskaber-ifpa)"**. Det er en god idé at gemme siden som bogmærke, så du hurtigt kan slå ISIN-koder eller navne op.
+
+Synes [skatspositivliste.dk](https://www.skatspositivliste.dk/) er lidt lettere at bruge.
 
 ---
 

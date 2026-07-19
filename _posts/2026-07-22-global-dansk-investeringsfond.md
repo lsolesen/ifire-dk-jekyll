@@ -8,7 +8,7 @@ tags: [Investeringsforening, Skat, Realisationsbeskatning, Renters rente]
 
 > **Hurtig guide: Er du landet det rette sted?**
 > * Hvis du vil have markedets absolut laveste omkostninger (ÅOP) og er okay med at betale skat hvert år, så læs om [lagerbeskattede udenlandske ETF'er på positivlisten](/bedste-etfer-fire-lagerbeskatning/).
-> * Hvis du leder efter det oversete skatte-hack til børns frikort eller modregning i renteudgifter, så hop til min [guide til kapitalbeskattede fonde](/guide-kapitalbeskattede-fonde-skat/).
+> * Hvis du leder efter værdipapirer til det lidt oversete skatte-hack til børns frikort eller modregning i renteudgifter, så skal du bruge [kapitalbeskattede fonde](/guide-kapitalbeskattede-fonde-skat/).
 
 Hvis du følger den klassiske FIRE-filosofi fra *The Simple Path to Wealth* af J. L. Collins, handler investering om at gøre det så simpelt som muligt: Køb markedet, behold det i årtier, og lad dine penge arbejde i fred. 
 
@@ -48,61 +48,59 @@ Herunder kan du se en direkte sammenligning af de tre mest populære fonde til f
 
 {% include fond-sammenlign.html fonde="SPIIMA, SPVIGAKL, DKIGI" %}
 
-Når det kommer til de danske, realisationsbeskattede fonde, er der sket en spændende udvikling på markedet. Vi har tre klassiske sværvægtere på radaren samt en yderst potent udfordrer. Her skal du være særligt opmærksom på, hvordan de dækker henholdsvis **udviklingslandene (Emerging Markets)** og **mindre virksomheder (Small Cap)**.
-
-### Sparindex INDEX MSCI ACWI (Den spritnye alt-i-én løsning)
-Dette er Sparindex' helt nye flagskibsfond, som blev børsnoteret i juni 2026 for at give investorerne den ultimative nemme adgang til hele verden.
-
-{% include fond-oplysninger.html fonde="SPIIMA" %}
-
-***
-
-* **Ticker:** SPIIMA (Handelsvaluta: DKK) / ISIN: DK0064866222
-* **ÅOP:** 0,35 %
-* **Underliggende indeks:** *MSCI All Country World Index (ACWI)*
-* **Eksponering og markedsdækning:** Fonden løser det geografiske problem én gang for alle. Den dækker over 2.500 virksomheder på tværs af både 23 udviklede lande og 24 udviklingslande (Emerging Markets). Du får altså hele den globale geografi serveret i én fond til en yderst konkurrencedygtig pris.
-* **OBS på mangler:** Selvom geografien er komplet, er dette et rent **Large & Mid Cap** indeks. De mindre virksomheder (Small Cap) er udeladt af denne fond.
-
-### Sparindex INDEX Globale Aktier KL (Den brede klassiker)
-
-{% include fond-oplysninger.html fonde="SPVIGAKL" %}
-
-Den historiske go-to fond for rigtig mange danske FIRE-investorer, som dog har fået et par vigtige ændringer undervejs.
-* **Ticker:** SPVIGAKL (Handelsvaluta: DKK) / ISIN: DK0060747822
-* **ÅOP:** 0,50 %
-* **Underliggende indeks:** *Morningstar Global All Cap TME Screened Select* (indtil ultimo 2024 fulgte fonden MSCI ACWI IMI)
-* **Eksponering og markedsdækning:** Fonden dækker faktisk hele det globale aktiemarked - **Large, Mid og Small Cap** i både udviklede lande og emerging markets, med ca. 1.500 selskaber ud af et univers på ca. 9.000.
-* **OBS på ændringer:** Fonden er altså bredere end et rent MSCI World-produkt, som typisk **kun dækker udviklede markeder og Large/Mid Cap**. Til gengæld skiftede fonden benchmark i slutningen af 2024, hvor der blev indført en
-
-### Danske Invest Global Indeks, klasse DKK d
-
-{% include fond-oplysninger.html fonde="DKIGI" %}
-
-Danske Banks bud på en bred, passiv global fond, som minder rigtig meget om Sparindex' klassiker.
-* **Ticker:** DKIGI (Handelsvaluta: DKK) / ISIN: DK0010263052
-* **ÅOP:** 0,40 %
-* **Underliggende indeks:** *MSCI World Index (screenet)*
-* **Eksponering og markedsdækning:** Ligesom SPVIGAKL følger denne fond MSCI World og dækker udelukkende store og mellemstore virksomheder i den **udviklede** del af verden. Fonden kører desuden med en ESG-screening, hvor visse selskaber fravælges på baggrund af bæredygtighedskriterier.
-* **OBS på mangler:** Du mangler **både** Emerging Markets og Small Cap her. Fonden har historisk udbetalt en relativt høj udbytteprocent, hvilket man skal være opmærksom på, da store udbytter mindsker effekten af skatteudskydelsen på kursgevinsten.
+Når det kommer til de danske, realisationsbeskattede fonde, skal du være særligt opmærksom på, hvordan de dækker henholdsvis **udviklingslandene (Emerging Markets)** og **mindre virksomheder (Small Cap)**.
 
 ---
 
-## Min store skatte-bobler: Storebrand Indeks - Alle Markeder A5
+### Sparindex INDEX MSCI ACWI
 
-{% include fond-oplysninger.html fonde="STIIAM" %}
+Fonden blev børsnoteret i juni 2026 for at give investorer en enkel adgang til hele verden uden behov for at balancere flere fonde selv. 
 
-Her kommer artiklens absolutte jokerkort. **Storebrand Indeks - Alle Markeder** er en norskbaseret fond, men den er børsnoteret i Danmark og er fuldstændig **realisationsbeskattet som aktieindkomst** til frie midler.
+* **Fordele:** Du får både de udviklede markeder og udviklingslandene (Emerging Markets) i én fond. Med en ÅOP på 0,35% er det en yderst konkurrencedygtig pris for et komplet globalt indeks på det danske realisationsmarked.
+* **Ulemper:** Fonden følger et rent Large & Mid Cap-indeks, hvilket betyder, at de mindre virksomheder (Small Cap) er helt udeladt. Da fonden er relativt ny, har vi endnu ikke mange års historik på, hvor store dens årlige tvungne udbyttebetalinger reelt bliver.
 
-* **Ticker:** STIIAM (Handelsvaluta: DKK) / ISIN: DK0060884658
-* **ÅOP:** 0,30 %
-* **Underliggende indeks:** *MSCI ACWI Index (Bæredygtighedsscreenet)*
-* **Eksponering og markedsdækning:** Præcis som den nye Sparindex ACWI (SPIIMA) dækker Storebrand hele verden – det vil sige **både** udviklede lande og udviklingslande (Emerging Markets) i én og samme fond.
-* **Hvorfor er den en bobler?** Med en ÅOP på kun 0,30 % er den billigere end de danske konkurrenter. Det virkeligt geniale ved Storebrand er dog deres udbyttepolitik. Hvor de traditionelle danske fonde ved lov tvinges til at udlodde store udbytter hvert år (som du beskattes af med det samme), udbetaler Storebrand historisk set et **meget minimalt udbytte**. Det betyder, at du opnår en markant højere grad af *ren* skatteudskydelse, fordi pengene bliver inde i fonden og trækker maksimal renters rente-effekt. 
-* **OBS på mangler:** Ligesom de andre store ACWI-fonde fokuserer Storebrand rent på Large & Mid Cap. Du må altså stadig undvære Small Cap-segmentet her.
+{% include fond-oplysninger.html fonde="SPIIMA" %}
 
-Lad os stille den nye Sparindex-fond op mod Storebrand for at se forskellen på ÅOP og udbyttestrategi:
+---
+
+### Sparindex INDEX Globale Aktier KL
+
+Dette har historisk været standardvalget for danske FIRE-investorer, der ønsker den absolut maksimale spredning i et enkelt papir. Denne fond har jeg også købt rigtig mange af.
+
+* **Fordele:** Dette er den eneste traditionelle danske fond, som dækker *hele* det globale aktiemarked – det vil sige både Large, Mid og Small Cap i både i-lande og u-lande. Du går ikke glip af de mindre virksomheders potentielle vækst.
+* **Ulemper:** Fonden har en lidt høj ÅOP på 0,50%. Desuden skiftede den benchmark i slutningen af 2024 til et screenet Morningstar-indeks. Det betyder, at den frasorterer en del selskaber ud fra bæredygtighedskriterier, så du ikke længere ejer det rå, ufiltrerede verdensmarked.
+
+{% include investeringskort.html fonde="SPVIGAKL" %}
+
+---
+
+### Danske Invest Global Indeks
+
+Denne fond fokuserer udelukkende på store og mellemstore virksomheder i den udviklede del af verden via et screenet MSCI World-indeks. 
+
+* **Fordele:** En solid og stabil fond, der dækker den etablerede vestlige verden til en fornuftig ÅOP på 0,40%.
+* **Ulemper:** Fonden kan **ikke** stå alene, hvis du vil eje hele verden. Du mangler både Emerging Markets (ca. 10-12% af verdensøkonomien) og hele Small Cap-segmentet. Derudover udbetaler fonden historisk set ret store årlige udbytter, hvilket udløser løbende aktieskat og bremser effekten af skatteudskydelsen.
+
+> 🧩 **Sådan fikser du DKIGI (Hvis du vil bruge den):**
+> Hvis du ønsker DKIGI som din primære motor, skal du bygge et puslespil. For at lukke det geografiske hul skal du supplere den med **Sparindex INDEX Emerging Markets KL** (ÅOP 0,50 %). Vær dog opmærksom på, at du stadig vil mangle Small Cap i dette setup.
+
+{% include investeringskort.html fonde="DKIGI:88, SPIEMIKL:12" %}
+
+---
+
+## Outsideren: Storebrand Indeks - Alle Markeder A5
+
+Hvis du leder efter det tætteste, man kommer på en udenlandsk ETF i et dansk realisationsmiljø, er denne norskbaserede fond den stærkeste udfordrer. Den er børsnoteret i Danmark og beskattes som helt almindelig aktieindkomst efter realisationsprincippet på et frit depot.
+
+* **Fordele:** Den har markedets laveste ÅOP på 0,30% og dækker både i-lande og u-lande (MSCI ACWI) i ét værdipapir. Den absolut største fordel er dog Storebrands udbyttestrategi: Den er ikke underlagt de samme stramme danske udlodningskrav, så den udbetaler kun et absolut minimalt udbytte. Det betyder, at næsten hele dit afkast forbliver i fonden som urealiseret kursgevinst, hvilket maksimerer renters rente-effekten.
+* **Ulemper:** Den er ESG-screenet (både ud fra MSCI-standarder og Storebrands egne regler), hvilket udelukker visse brancher og selskaber. Ligesom SPIIMA indeholder den overhovedet ikke Small Cap.
+
+{% include investeringskort.html fonde="STIIAM" %}
+
+Herunder sammenlignes den nye Sparindex-fond direkte med Storebrand på omkostninger og udbyttestrategi:
 
 {% include fond-sammenlign.html fonde="SPIIMA, STIIAM" %}
+
 ---
 
 ## Sammenligning: Skatteudskydelse vs. Lav ÅOP

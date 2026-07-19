@@ -1,0 +1,405 @@
+<style>
+  .beregner-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 650px) {
+    .beregner-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div markdown="0" style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; font-family: system-ui, sans-serif; margin: 30px 0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  
+  <!-- Info/Skattenote -->
+  <div style="background-color: #f1f5f9; border-left: 4px solid #64748b; padding: 14px 16px; border-radius: 0 8px 8px 0; font-size: 13px; color: #334155; line-height: 1.5; margin-bottom: 24px;">
+    <strong>💼 Skattenote (Aktieskat på frit depot):</strong> Beregneren simulerer en enkeltperson. For den lagerbeskattede ETF beskattes hele årets samlede afkast (både kursgevinst og evt. udbytte) under ét hvert år. For den danske realisationsfond kan du herunder vælge, om du vil simulere et øjeblikkeligt totalsalg til sidst (som typisk udløser 42 % skat) eller et gradvist salg over en årrække, hvor du forbliver under progressionsknækket på 27 %.
+  </div>
+
+  <!-- 1. Generelle Indstillinger -->
+  <h4 style="margin: 0 0 12px 0; color: #0f172a; font-size: 14px; font-weight: 700; border-bottom: 2px solid #cbd5e1; padding-bottom: 6px;">⚙️ 1. Rammer for investeringen</h4>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 12px;">
+    <div>
+      <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 2px;">Start (kr.)</label>
+      <input type="number" id="startbelob" value="{{ include.start | default: 100000 }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 2px;">Indskud/år (kr.)</label>
+      <input type="number" id="indskud" value="{{ include.indskud | default: 50000 }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 2px;">Afkast (%)</label>
+      <input type="number" id="afkast" value="{{ include.afkast | default: 7 }}" step="0.1" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 2px;">År</label>
+      <input type="number" id="aar" value="{{ include.aar | default: 30 }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+    </div>
+  </div>
+
+  <!-- Udbetalingsstrategi -->
+  <div style="margin-bottom: 24px;">
+    <label style="display: block; font-size: 11px; font-weight: 700; color: #475569; margin-bottom: 2px;">Udbetalingsstrategi (Dansk fond):</label>
+    <select id="udbetalingsStrategi" onchange="beregnOgTegn()" style="width: 100%; max-width: 450px; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; background-color: white;">
+      <option value="27">Gradvist salg i pension (Holdes under knækket = 27% flad skat)</option>
+      <option value="42">Alt sælges på én gang (Progressiv 27% / 42% skat)</option>
+    </select>
+  </div>
+  
+  <h4 style="margin: 0 0 16px 0; color: #0f172a; font-size: 14px; font-weight: 700; border-bottom: 2px solid #cbd5e1; padding-bottom: 6px;">⚖️ 2. Strategier side om side</h4>
+
+  <!-- 2. To Symmetriske Søjler side om side -->
+  <div class="beregner-grid">
+    
+    <!-- SØJLE A: LAGERBESKATTET ETF (BLÅ) -->
+    <div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 12px; padding: 18px; display: flex; flex-direction: column; gap: 14px;">
+      <div style="font-size: 13px; font-weight: 700; color: #1e40af; text-transform: uppercase; border-bottom: 2px solid #bfdbfe; padding-bottom: 6px;">📊 Lagerbeskattet ETF</div>
+      
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+        <div>
+          <label style="display: block; font-size: 11px; font-weight: 700; color: #1e40af; margin-bottom: 4px;">ÅOP (%)</label>
+          <input type="text" id="aopLager" value="{{ include.aop_blaa | default: '0,07' }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+        </div>
+        <div>
+          <label style="display: block; font-size: 11px; font-weight: 700; color: #1e40af; margin-bottom: 4px;">Udbytte (%)</label>
+          <input type="text" id="udbyttePctLager" value="{{ include.udbytte_blaa | default: 0 }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+        </div>
+      </div>
+      
+      <hr style="border: 0; border-top: 1px solid #bfdbfe; margin: 2px 0;">
+      
+      <table style="width: 100% !important; display: table !important; font-size: 13px; border-collapse: collapse; text-align: left; color: #334155; margin: 0 !important; padding: 0 !important;">
+        <tr style="border-bottom: 1px dashed #bfdbfe;"><td style="padding: 6px 0;">💎 Værdi før skat:</td><td id="bruttoLager" style="text-align: right; font-weight: 600;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bfdbfe;"><td style="padding: 6px 0; color: #b91c1c;">💸 Løbende lagerskat:</td><td id="skatUndervejsLager" style="text-align: right; color: #b91c1c;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bfdbfe;"><td style="padding: 6px 0; color: #2563eb;">🔄 Udloddet udbytte:</td><td id="udbytteLagerAkkumuleret" style="text-align: right; color: #2563eb; font-weight: 600;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bfdbfe;"><td style="padding: 6px 0;">🏛️ Slutskat ved salg:</td><td style="text-align: right; font-style: italic; color: #64748b;">0 kr.</td></tr>
+        <tr style="font-size: 14px; font-weight: 800; color: #1e40af;"><td style="padding: 8px 0 0 0;">🎯 Værdi efter skat:</td><td id="resultatLager" style="text-align: right; padding: 8px 0 0 0;">-</td></tr>
+      </table>
+    </div>
+
+    <!-- SØJLE B: REALISATIONSBESKATTET FOND (GRØN) -->
+    <div style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; padding: 18px; display: flex; flex-direction: column; gap: 14px;">
+      <div style="font-size: 13px; font-weight: 700; color: #166534; text-transform: uppercase; border-bottom: 2px solid #bbf7d0; padding-bottom: 6px;">⏳ Realisationsbeskattet fond</div>
+      
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+        <div>
+          <label style="display: block; font-size: 11px; font-weight: 700; color: #166534; margin-bottom: 4px;">ÅOP (%)</label>
+          <input type="text" id="aopRealise" value="{{ include.aop_groen | default: '0,50' }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+        </div>
+        <div>
+          <label style="display: block; font-size: 11px; font-weight: 700; color: #166534; margin-bottom: 4px;">Udbytte (%)</label>
+          <input type="text" id="udbyttePctRealise" value="{{ include.udbytte_groen | default: 4 }}" oninput="beregnOgTegn()" style="width: 100%; padding: 6px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+        </div>
+      </div>
+      
+      <hr style="border: 0; border-top: 1px solid #bbf7d0; margin: 2px 0;">
+      
+      <table style="width: 100% !important; display: table !important; font-size: 13px; border-collapse: collapse; text-align: left; color: #334155; margin: 0 !important; padding: 0 !important;">
+        <tr style="border-bottom: 1px dashed #bbf7d0;"><td style="padding: 6px 0;">💎 Værdi før skat:</td><td id="bruttoRealise" style="text-align: right; font-weight: 600;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bbf7d0;"><td style="padding: 6px 0; color: #b91c1c;">💸 Løbende udbytteskat:</td><td id="skatUndervejsRealise" style="text-align: right; color: #b91c1c;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bbf7d0;"><td style="padding: 6px 0; color: #166534;">🔄 Geninvesteret udbytte:</td><td id="nettoUdbytteAkkumuleret" style="text-align: right; color: #166534; font-weight: 600;">-</td></tr>
+        <tr style="border-bottom: 1px dashed #bbf7d0;"><td style="padding: 6px 0; color: #b91c1c;">🏛️ Slutskat ved salg:</td><td id="skatSalgRealise" style="text-align: right; color: #b91c1c;">-</td></tr>
+        <tr style="font-size: 14px; font-weight: 800; color: #166534;"><td style="padding: 8px 0 0 0;">🎯 Værdi efter skat:</td><td id="resultatRealise" style="text-align: right; padding: 8px 0 0 0;">-</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <!-- DYNAMISK VINDER-BOKS MED KÆMPE POKAL -->
+  <div id="vinderBoks" style="border-radius: 0 8px 8px 0; margin-bottom: 28px; transition: all 0.3s ease;">
+    <!-- Udfyldes af JS -->
+  </div>
+
+  <!-- 3. Interaktiv Graf -->
+  <h4 style="margin: 0 0 12px 0; color: #0f172a; font-size: 14px; font-weight: 700; border-bottom: 2px solid #cbd5e1; padding-bottom: 6px;">📈 3. Formueudvikling (Nettoværdi efter skat)</h4>
+  <div style="position: relative; height: 340px; width: 100%; background: #fff; padding: 12px; border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 28px;">
+    <canvas id="afkastChart"></canvas>
+  </div>
+
+  <!-- NYT: TIDSLINJE-TABEL -->
+  <h4 style="margin: 0 0 12px 0; color: #0f172a; font-size: 14px; font-weight: 700; border-bottom: 2px solid #cbd5e1; padding-bottom: 6px;">⏱️ Tidslinje: Sådan udvikler forskellen sig</h4>
+  <div style="width: 100%; overflow-x: auto; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 28px;">
+    <!-- table-layout: fixed tvinger tabellen til at fylde 100% og respektere kolonne-bredderne -->
+    <table style="width: 100% !important; display: table; table-layout: fixed; border-collapse: collapse; font-size: 13px; text-align: left; margin: 0; background: #fff;">
+      <thead style="background-color: #f8fafc; border-bottom: 2px solid #e2e8f0;">
+        <tr>
+          <th style="padding: 10px; color: #475569; font-weight: 700; width: 15%;">År</th>
+          <th style="padding: 10px; color: #1e40af; font-weight: 700; width: 25%;">📊 Blå ETF</th>
+          <th style="padding: 10px; color: #166534; font-weight: 700; width: 25%;">⏳ Grøn Fond</th>
+          <th style="padding: 10px; color: #475569; font-weight: 700; width: 35%;">Forskel efter skat</th>
+        </tr>
+      </thead>
+      <tbody id="tidslinjeBody" style="color: #334155;">
+        <!-- Udfyldes af JS -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 4. Vigtige forbehold & ekstra info -->
+  <div style="background-color: #fffbeb; border-left: 4px solid #f59e0b; padding: 16px; border-radius: 0 8px 8px 0; font-size: 13px; color: #78350f; line-height: 1.5;">
+    <h4 style="margin: 0 0 8px 0; color: #b45309; font-size: 14px; font-weight: 700;">⚠️ Værd at vide om beregneren (Forbehold)</h4>
+    <p style="margin: 0 0 10px 0;">Denne model er et forenklet simuleringsværktøj og tager ikke højde for absolut alle individuelle aspekter af skattelovgivningen:</p>
+    <ul style="margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 6px;">
+      <li><strong>Likviditet til skat:</strong> Modellen trækker automatisk den årlige lagerskat ud af ETF'ens samlede værdi. I virkeligheden vil du typisk få en regning fra Skattestyrelsen, som skal betales med likvide midler (eller via et delvist salg).</li>
+      <li><strong>Kurtage er ikke medregnet:</strong> Modellen ignorerer handelsomkostninger. For den realisationsbeskattede fond kan du undgå kurtage ved geninvestering, hvis du bruger fx Nordnets Månedsopsparing. Skal du sælge ud af din ETF for at betale skat, koster det kurtage.</li>
+      <li><strong>Frikort og ægtefælle:</strong> Beregneren bruger faste progressionsgrænser for en enkeltperson (ca. 65.000 kr.). Er du gift, er grænsen dobbelt så stor. Den tager heller ikke højde for modregning af eventuelle gamle aktietab.</li>
+    </ul>
+  </div>
+
+</div>
+
+<!-- Chart.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+let myChart = null;
+
+// Funktion der oversætter danske kommaer til maskinlæsbare punktummer
+function parseDanskTal(val) {
+  if (!val) return 0;
+  return parseFloat(val.toString().replace(',', '.')) || 0;
+}
+
+function beregnAktieskat(belob) {
+  if (belob <= 0) return 0;
+  const graense = 65000;
+  if (belob <= graense) {
+    return belob * 0.27;
+  } else {
+    return (graense * 0.27) + ((belob - graense) * 0.42);
+  }
+}
+
+function beregnOgTegn() {
+  const startbelob = parseDanskTal(document.getElementById('startbelob').value);
+  const indskud = parseDanskTal(document.getElementById('indskud').value);
+  const afkastPct = parseDanskTal(document.getElementById('afkast').value) / 100;
+  const aar = parseInt(document.getElementById('aar').value) || 0;
+  
+  const aopLager = parseDanskTal(document.getElementById('aopLager').value) / 100;
+  const udbyttePctLager = parseDanskTal(document.getElementById('udbyttePctLager').value) / 100;
+  
+  const aopRealise = parseDanskTal(document.getElementById('aopRealise').value) / 100;
+  const udbyttePctRealise = parseDanskTal(document.getElementById('udbyttePctRealise').value) / 100;
+  const udbetalingsStrategi = document.getElementById('udbetalingsStrategi').value;
+
+  let labels = [];
+  let dataLager = [];
+  let dataRealise = [];
+
+  labels.push("År 0");
+  dataLager.push(startbelob);
+  dataRealise.push(startbelob);
+
+  // 1. Beregning af Lagerbeskattet ETF
+  let vaerdiLager = startbelob;
+  let totalSkatLager = 0;
+  let totalUdbytteLager = 0;
+  
+  for (let i = 1; i <= aar; i++) {
+    vaerdiLager += indskud;
+    let afkast = vaerdiLager * (afkastPct - aopLager);
+    let udbytte = vaerdiLager * udbyttePctLager;
+    totalUdbytteLager += udbytte;
+    
+    let aarligSkat = afkast > 0 ? beregnAktieskat(afkast) : 0;
+    totalSkatLager += aarligSkat;
+    vaerdiLager = vaerdiLager + afkast - aarligSkat;
+    
+    dataLager.push(Math.round(vaerdiLager));
+  }
+
+  // 2. Beregning af Realisationsbeskattet Dansk Fond
+  let vaerdiRealise = startbelob;
+  let totalAnskaffelsesVaerdi = startbelob; 
+  let løbendeUdbytteSkat = 0;
+  let totalNettoUdbytteGeninvesteret = 0;
+
+  for (let i = 1; i <= aar; i++) {
+    vaerdiRealise += indskud;
+    totalAnskaffelsesVaerdi += indskud; 
+    labels.push("År " + i);
+
+    let vaekst = vaerdiRealise * (afkastPct - aopRealise);
+    let udbytte = vaerdiRealise * udbyttePctRealise;
+    let udbytteSkat = udbytte > 0 ? beregnAktieskat(udbytte) : 0;
+    løbendeUdbytteSkat += udbytteSkat;
+
+    let nettoUdbytte = Math.max(0, udbytte - udbytteSkat);
+    totalNettoUdbytteGeninvesteret += nettoUdbytte;
+
+    vaerdiRealise = vaerdiRealise + vaekst - udbytteSkat;
+    totalAnskaffelsesVaerdi += nettoUdbytte;
+
+    let urealiseretGevinstMidlertidig = Math.max(0, vaerdiRealise - totalAnskaffelsesVaerdi);
+    let fiktivSlutskat = 0;
+    if (udbetalingsStrategi === "27") {
+      fiktivSlutskat = urealiseretGevinstMidlertidig * 0.27;
+    } else {
+      fiktivSlutskat = beregnAktieskat(urealiseretGevinstMidlertidig);
+    }
+    dataRealise.push(Math.round(vaerdiRealise - fiktivSlutskat));
+  }
+
+  let urealiseretGevinstEndelig = Math.max(0, vaerdiRealise - totalAnskaffelsesVaerdi);
+  let endeligSlutskat = 0;
+  if (udbetalingsStrategi === "27") {
+    endeligSlutskat = urealiseretGevinstEndelig * 0.27;
+  } else {
+    endeligSlutskat = beregnAktieskat(urealiseretGevinstEndelig);
+  }
+  let slutVaerdiRealise = vaerdiRealise - endeligSlutskat;
+
+  const formatter = new Intl.NumberFormat('da-DK', { style: 'currency', currency: 'DKK', maximumFractionDigits: 0 });
+  
+  // Opdater visning for Lager
+  document.getElementById('bruttoLager').innerText = formatter.format(vaerdiLager + totalSkatLager);
+  document.getElementById('skatUndervejsLager').innerText = "-" + formatter.format(totalSkatLager);
+  document.getElementById('udbytteLagerAkkumuleret').innerText = formatter.format(totalUdbytteLager);
+  document.getElementById('resultatLager').innerText = formatter.format(vaerdiLager);
+
+  // Opdater visning for Realisation
+  document.getElementById('bruttoRealise').innerText = formatter.format(slutVaerdiRealise + løbendeUdbytteSkat + endeligSlutskat);
+  document.getElementById('skatUndervejsRealise').innerText = "-" + formatter.format(løbendeUdbytteSkat);
+  document.getElementById('nettoUdbytteAkkumuleret').innerText = formatter.format(totalNettoUdbytteGeninvesteret);
+  document.getElementById('skatSalgRealise').innerText = "-" + formatter.format(endeligSlutskat);
+  document.getElementById('resultatRealise').innerText = formatter.format(slutVaerdiRealise);
+
+  // --- DYNAMISK VINDER BOKS LOGIK ---
+  const vinderBoks = document.getElementById('vinderBoks');
+  const forskel = Math.abs(vaerdiLager - slutVaerdiRealise);
+  const forskelFormat = formatter.format(forskel);
+
+  // Dynamisk tekst der afspejler brugerens strategi-valg
+  const strategiTekst = udbetalingsStrategi === "27" 
+    ? "Forudsat at du i pensionsalderen stille og roligt får udbetalt (sælger gradvist) og holder dig under 27 % grænsen for aktieskat." 
+    : "Forudsat at du sælger hele formuen på én gang og rammer topskatten for aktier (42 %).";
+
+  let bgColor, borderColor, textColor, ikon, vinderTekst;
+  
+  if (forskel < 100) {
+    bgColor = '#f1f5f9'; borderColor = '#64748b'; textColor = '#334155';
+    ikon = '⚖️';
+    vinderTekst = `<strong>Dødt løb!</strong><br>I dette scenarie ender de to strategier med at give stort set præcis det samme resultat efter skat.<br><span style="display:block; margin-top:8px; font-size:12px; font-style:italic; opacity:0.85;">* ${strategiTekst}</span>`;
+  } else if (vaerdiLager > slutVaerdiRealise) {
+    bgColor = '#eff6ff'; borderColor = '#3b82f6'; textColor = '#1e40af';
+    ikon = '🏆';
+    vinderTekst = `<strong>Lagerbeskattet ETF vinder!</strong><br>I dette scenarie giver den blå ETF dig <strong>${forskelFormat}</strong> mere i hånden, når al skat er betalt.<br><span style="display:block; margin-top:8px; font-size:12px; font-style:italic; opacity:0.85;">* ${strategiTekst}</span>`;
+  } else {
+    bgColor = '#f0fdf4'; borderColor = '#22c55e'; textColor = '#166534';
+    ikon = '🏆';
+    vinderTekst = `<strong>Realisationsbeskattet fond vinder!</strong><br>I dette scenarie giver den grønne fond dig <strong>${forskelFormat}</strong> mere i hånden, når al skat er betalt.<br><span style="display:block; margin-top:8px; font-size:12px; font-style:italic; opacity:0.85;">* ${strategiTekst}</span>`;
+  }
+
+  vinderBoks.style.backgroundColor = bgColor;
+  vinderBoks.style.borderLeft = `4px solid ${borderColor}`;
+  vinderBoks.style.color = textColor;
+  vinderBoks.style.display = 'flex';
+  vinderBoks.style.alignItems = 'center';
+  vinderBoks.style.gap = '20px';
+  vinderBoks.style.padding = '20px';
+
+  vinderBoks.innerHTML = `
+    <div style="font-size: 3.5rem; line-height: 1; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">${ikon}</div>
+    <div style="font-size: 14px; line-height: 1.5;">${vinderTekst}</div>
+  `;
+
+  // --- TIDSLINJE TABEL LOGIK ---
+  const tbody = document.getElementById('tidslinjeBody');
+  tbody.innerHTML = '';
+  
+  let targetYears = [5, 10, 20, 30, 40];
+  if (!targetYears.includes(aar) && aar > 0) {
+    targetYears.push(aar);
+  }
+  targetYears.sort((a, b) => a - b);
+
+  targetYears.forEach(year => {
+    if (year <= aar) {
+      let valLager = dataLager[year];
+      let valReal = dataRealise[year]; 
+      
+      let yearDiff = valLager - valReal;
+      let diffText = "";
+      let diffColor = "";
+
+      if (yearDiff > 0) {
+        diffText = `+ ${formatter.format(yearDiff)} (Blå vinder)`;
+        diffColor = '#1e40af';
+      } else if (yearDiff < 0) {
+        diffText = `+ ${formatter.format(Math.abs(yearDiff))} (Grøn vinder)`;
+        diffColor = '#166534';
+      } else {
+        diffText = `0 kr.`;
+        diffColor = '#475569';
+      }
+
+      let tr = document.createElement('tr');
+      tr.style.borderBottom = '1px solid #e2e8f0';
+      tr.innerHTML = `
+        <td style="padding: 10px; font-weight: 700; border-right: 1px solid #f1f5f9;">År ${year}</td>
+        <td style="padding: 10px; color: #1e40af; border-right: 1px solid #f1f5f9;">${formatter.format(valLager)}</td>
+        <td style="padding: 10px; color: #166534; border-right: 1px solid #f1f5f9;">${formatter.format(valReal)}</td>
+        <td style="padding: 10px; font-weight: 700; color: ${diffColor};">${diffText}</td>
+      `;
+      tbody.appendChild(tr);
+    }
+  });
+
+  // Tegn grafen
+  const ctx = document.getElementById('afkastChart').getContext('2d');
+  if (myChart) { myChart.destroy(); }
+
+  myChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: 'Lagerbeskattet ETF (Værdi efter skat)',
+          data: dataLager,
+          borderColor: '#2563eb',
+          backgroundColor: 'rgba(37, 99, 235, 0.02)',
+          borderWidth: 3,
+          pointRadius: aar > 25 ? 0 : 3,
+          tension: 0.15
+        },
+        {
+          label: 'Realisationsbeskattet fond (Værdi efter skat)',
+          data: dataRealise,
+          borderColor: '#16a34a',
+          backgroundColor: 'rgba(22, 163, 74, 0.02)',
+          borderWidth: 3,
+          pointRadius: aar > 25 ? 0 : 3,
+          tension: 0.15
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { position: 'top', labels: { boxWidth: 12, font: { family: 'system-ui', size: 12 } } }
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { size: 10 } } },
+        y: { 
+          ticks: {
+            font: { size: 10 },
+            callback: function(value) { return value >= 1e6 ? (value / 1e6).toFixed(1) + ' mio.' : value.toLocaleString('da-DK'); }
+          }
+        }
+      }
+    }
+  });
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', beregnOgTegn);
+} else {
+  beregnOgTegn();
+}
+</script>

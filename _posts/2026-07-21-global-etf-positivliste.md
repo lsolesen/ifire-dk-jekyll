@@ -27,17 +27,16 @@ Den absolut største fordel ved udenlandske ETF'er er de ekstremt lave omkostnin
 Udenlandske ETF'er på SKATs positivliste afregnes efter **lagerprincippet som aktieindkomst**. Det betyder, at du hvert år betaler skat af din urealiserede gevinst, uanset om du har solgt ud eller ej. 
 
 ### Det ideelle match: Aktiesparekontoen og pensionsdepoter
-Fordi disse fonde *skal* lagerbeskattes, har de deres absolutte primære berettigelse i de miljøer, der i forvejen er født med lagerbeskatning, men som tilbyder en markant lavere skattesats end almindelige frie midler:
 
-* **Aktiesparekontoen (ASK):** Her slipper du med en flad lagerbeskatning på kun 17 % (i stedet for de normale 27/42 % på et frit depot).
+Fordi disse fonde *skal* lagerbeskattes passer de særlig godt til miljøer, der i forvejen er født med lagerbeskatning, men som tilbyder en markant lavere skattesats end almindelige frie midler:
+
+* **Aktiesparekontoen (ASK):** Her slipper du med en flad lagerbeskatning på kun 17% (i stedet for de normale 27/42 % på et frit depot).
 * **Pensionsdepoter (Aldersopsparing, Ratepension m.m.):** Her er skatten helt nede på 15,3 % (PAL-skat) via lagerprincippet.
 
-I disse depoter er de udenlandske ETF'er på positivlisten kongen. Du får udlandets ultralave omkostninger, og du bliver ikke straffet ekstra for lagerbeskatningen, fordi depotet alligevel kræver det. Din absolutte førsteprioritet bør derfor altid være at maxe disse depoter ud med billige ETF'er først. Du kan læse min specifikke strategi for dette i min artikel om [Aktiesparekontoen](/aktiesparekonto/).
+I disse depoter er de udenlandske ETF'er på [Skats positivliste](/skats-positivliste/) oplagte, fordi de har lave omkostninger. Her leder jeg først og fremmest efter de billige ETF'er. Du kan læse min specifikke strategi for dette i min artikel om [Aktiesparekontoen (ASK)](/aktiesparekonto/).
 
 ### Hvad så med frie midler på et almindeligt depot?
-Det er først det sekund, du har fyldt din ASK og dine pensionsdepoter, at du skal overveje, om de udenlandske ETF'er skal have en plads blandt dine **frie midler** på et almindeligt depot. 
-
-Her skal du nemlig betale den fulde aktieskat på 27 % (og 42 % over progressionsgrænsen) hvert evig eneste år af din urealiserede gevinst. Det skaber et årligt likviditetsdræn, hvor du skal finde kontanter til skattefar i februar. Derfor skal den ultralave ÅOP på ETF'erne være ekstraordinært god for at opveje den fordel, du ellers kan hente ved skatteudskydelsen i de [danske realisationsbeskattede fonde](/danske-investeringsforeninger-fire-realisation/).
+Jeg køber ikke ETF'er for mine **frie midler** på mit almindelige depot. Her skal jeg nemlig betale aktieskat på 27% (og 42% over progressionsgrænsen) hvert år af mine urealiserede gevinst. Det dræner likviditeten her får, og jeg skal finde kontanter til at betale skatten. Derfor skal den ultralave ÅOP på ETF'erne være ekstraordinært god for at opveje den fordel, du ellers kan hente ved skatteudskydelsen i de [danske realisationsbeskattede fonde](/danske-investeringsforeninger-fire-realisation/).
 
 ---
 
@@ -45,13 +44,14 @@ Her skal du nemlig betale den fulde aktieskat på 27 % (og 42 % over progression
 
 {% include fond-sammenlign.html fonde="WEBN, IUSQ, SPYI" %}
 
-Når du skal vælge fonde til din ASK, din pension eller som en aggressiv pris-optimering af dine frie midler, kigger jeg lige nu specifikt på tre globale sværvægtere, som dækker markedet på forskellige måder:
+Jeg kigger i øjeblikket på disse lagerbeskattede billige fonde til min ASK, alderspension - og hvis jeg virkelig kan finde en billig ETF til de dine frie midler. Dette er økonoisk globale sværvægtere.
 
-### Amundi Prime All Country World UCITS ETF Acc (Prisbaskeren)
+---
+
+### Amundi Prime All Country World UCITS ETF Acc
 Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske marked. Hvis du vil have omkostningerne presset helt i bund, er det denne fond, du skal kigge på.
 
 {% include fond-oplysninger.html fonde="WEBN" %}
-
 
 * **Ticker:** WEBN (Handelsvaluta: EUR) / ISIN: IE0003XJA0J9
 * **ÅOP:** 0,07 %
@@ -59,7 +59,9 @@ Dette er den nyeste og absolut billigste "alt-i-én"-fond på det europæiske ma
 * **Eksponering og markedsstørrelse:** Dækker store og mellemstore virksomheder (Large & Mid Cap) på tværs af 23 udviklede lande og 24 udviklingslande (Emerging Markets). Fonden fanger cirka 85-90 % af det samlede globale aktiemarked, men fravælger de mindre selskaber (Small Cap).
 * **Argumenter for/imod:** En ÅOP på 0,07 % for en komplet global fond er intet mindre end revolutionerende. Ulemperne er minimale, men da fonden følger et Solactive-indeks i stedet for de traditionelle MSCI-indeks, kan der være mikroskopiske forskelle i sammensætningen, og fonden er relativt ny.
 
-### iShares MSCI ACWI UCITS ETF USD (Acc) (Klassikeren)
+---
+
+### iShares MSCI ACWI UCITS ETF USD (Acc)
 
 {% include fond-oplysninger.html fonde="IUSQ" %}
 
@@ -70,7 +72,9 @@ BlackRocks flagskib inden for globale fonde og en absolut favorit på de danske 
 * **Eksponering og markedsstørrelse:** Ligesom WEBN dækker IUSQ både i-lande og u-lande (ca. 1.800 selskaber). Det er en rendyrket Large & Mid Cap fond, hvilket betyder, at de mindre Small Cap-virksomheder (som udgør de sidste ca. 10-15 % af verdensmarkedet) er skåret fra.
 * **Argumenter for/imod:** Enorm likviditet, ekstremt tæt tracking og absolut tryghed hos verdens største pengeforvalter. Ulempen er, at en ÅOP på 0,20 % nu er næsten tre gange så dyr som WEBN, og du mangler stadig Small Cap-segmentet.
 
-### SPDR MSCI ACWI IMI UCITS ETF (Det komplette marked)
+---
+
+### SPDR MSCI ACWI IMI UCITS ETF
 Dette er den ultimative fond for investoren, der ikke vil nøjes med de store virksomheder, men som vil have det **komplette** marked i én enkelt handelsordre.
 
 {% include fond-oplysninger.html fonde="SPYI" %}

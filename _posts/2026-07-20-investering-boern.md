@@ -125,10 +125,10 @@ I min bank er der ekstra depotgebyr på udenlandske værdipapirer, så jeg har v
 
 ### 📄 Depot 2: Det frie depot – Udnyt barnets frikort til 0% i skat (Kapitalindkomst)
 
-Hvis du ønsker at investere mere end de 6.000 kr. om året, er det næste naturlige skridt et almindeligt, frit depot til mindreårige (f.eks. hos Nordnet). 
+Hvis du ønsker at investere mere end de 6.000 kr. om året, er det næste naturlige skridt et almindeligt, frit depot til mindreårige (fx hos Nordnet). 
 
 * **Hvorfor:** Her kan du udnytte barnets frikort (personfradrag). I 2026 kan unge under 18 år tjene op til **54.100 kr. om året helt skattefrit**. 
-* **Den livsvigtige skatteregel:** Frikortet kan *kun* modregnes i **kapitalindkomst**. Jeg køber derfor fonde eller ETF'er, der lagerbeskattes som kapitalindkomst (f.eks. *Nordnet Global Indeks* via deres kurtagefrie Månedsopsparing). Jeg undgår derfor så længe barnet har frikort at købe værdipapirer, der beskattes som aktieindkomst for at undgå at skulle betale 27% skat fra første krone.
+* **Den livsvigtige skatteregel:** Frikortet kan *kun* modregnes i **kapitalindkomst**. Jeg køber derfor [fonde eller ETF'er, der lagerbeskattes som kapitalindkomst](/guide-kapitalbeskattede-fonde-skat/) (f.eks. *Nordnet Global Indeks* via deres kurtagefrie Månedsopsparing). Jeg undgår derfor så længe barnet har frikort at købe værdipapirer, der beskattes som aktieindkomst for at undgå at skulle betale 27% skat fra første krone.
 * **Hvornår stopper denne strategi?** Jeg køber det kapitalbeskattede papirer, så længe der er ledig plads på barnets frikort. Når barnets fritidsjob spiser frikortet, så skifter jeg til at købe fonde, som beskattes efter realisationsprincippet (aktieindkomst på 27%/42%).
 
 {% include investeringskort.html depot="frikort" fonde="NNGBLINDX:88,NNEMINDX:12" %}

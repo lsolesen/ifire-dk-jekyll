@@ -110,6 +110,35 @@ Oprydningen var dog udmattende. At trække penge ud af uregulerede crowdlending-
 
 **[Læs min aktuelle investeringsstrategi her &rarr;](/min-investeringsstrategi/)**
 
+## Kapitel 6: Den store hovedrengøring og vejen til total nattero
+
+I løbet af 2021 ramte virkeligheden mig for alvor. Min ekstremt komplekse formuestruktur – med 26 crowdlending-platforme, låst kapital i konkurser, kryptovaluta og overvågning af enkeltaktier – gav mig ikke økonomisk frihed [4]. Den gav mig reelt bare et ubetalt deltidsjob som administrator af mine egne penge [4].
+
+Nedturen og oprydningen blev en stor øjenåbner. Det gik op for mig, at de brede, passive indeksfonde, som passede sig selv via Nordnets Månedsopsparing, ufortrødent tikkede opad, mens alt mit udenomsknas krævede oceaner af mental energi og regneark [4].
+
+Jeg traf en radikal beslutning: **Alt skulle skæres ind til benet.**
+
+### Det udmattende exit
+At rydde op i en rodet portefølje er ikke gjort over en weekend. Det tager år at trække sig ud af uregulerede crowdlending-platforme, slå *auto-invest* fra og vente på, at lånene drypvis udløber [4]. Jeg måtte acceptere tab, indsende krav til amerikanske konkursboer (som CredEarn) og manuelt indberette komplekse skatteforhold [4].
+
+Men målet var krystalklart: Jeg ville have et setup, der var så simpelt, at det kunne passe sig selv, uanset om jeg var motiveret eller ej.
+
+### Mit setup i dag: 100% passiv autopilot
+I dag ejer jeg ingen mursten og har hele min formue i værdipapirer. Alt det unødige fedt er skåret væk, og strategien er reduceret til tre ord: **Simpelt, billigt og effektivt**. 
+
+For at få det absolut maksimale ud af min formue på den lange bane, har jeg struktureret mine depoter i en helt fast, skatteoptimeret rækkefølge (en såkaldt "pecking order"):
+
+1. **Aldersopsparingen:** Fyldes altid op først med superbillige fonde for at udnytte den lave PAL-skat på 15,3% [3, 4].
+2. **Aktiesparekontoen:** Første store stop for frie midler, fyldt til det maksimale indskudsloft med brede ETF'er til kun 17% i lagerskat [1].
+3. **Erhvervspensionen:** Flyttet væk fra bankernes dyre standardpakker og over i et "Selvvalg/LinkPension"-produkt hos Velliv, så jeg kan køre 100% rene aktieindeks til ultralave omkostninger [1].
+4. **Almindelige frie midler:** Endestationen for resten af formuen, hvor jeg udelukkende køber danske, udbyttebetalende indeksfonde for at beskytte renters rente-effekten via realisationsbeskatning [1].
+
+Min kontante nødopsparing er barberet ned til 50.000 kr. (2-3 måneders faste udgifter), så jeg undgår et unødigt *cash drag* på min formue [1]. 
+
+Hovedrengøringen har givet mig præcis det, jeg ledte efter, da jeg startede min rejse i 2013: Den ultimative økonomiske frihed, et setup som ikke kræver særlig megen tankevirksomhed og total nattero [1].
+
+👉 **[Se den fulde, pædagogiske guide til, hvordan du selv skatteoptimerer dit setup her](/skatteoptimeret-investering/)**
+
 ---
 
 ## Logbogen: Min historiske rejse måned for måned (2019-2021)
@@ -159,6 +188,19 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **Januar (#20):** Jeg har netop indleveret mit *proof of claim* i konkurssagen mod CredEarn. At udlåne krypto for at få renter viste sig at være en ubehagelig lærestreg [11]. Bitcoins stiger heldigvis eksplosivt, men mine midler er låst fast i sagen [12].
   * **Marts (#21):** Opgørelsen af skat for over 20 udenlandske crowdlending-platforme er et mareridt. Min aktieportefølje via Nordnets Månedsopsparing stiger til gengæld ufortrødent. Det simple virker.
   * **Coast FIRE Status:** Jeg sætter mig ned og regner på mine tal via *Walletburst*. Min optimering af hverdagsudgifter har haft en enorm effekt. Med 2,2 millioner kroner investeret passivt er jeg nået dertil, hvor jeg reelt ikke behøver at indbetale mere til min pension, før jeg når pensionsalderen (*Coast FIRE*). Den erkendelse ændrer alt.
+</details>
+
+<details class="faq" markdown="1">
+  <summary><strong>2022-2025: Den endelige hovedrengøring og det knivskarpe ryk</strong></summary>
+  
+  <br>
+
+  * **Lukning af Growth Portfolio:** Jeg tager konsekvensen af min adfærdspsykologiske læring og lukker min komplekse, hjemmebyggede "Growth Portfolio" [1, 4]. Guld-ETF'er, REITs og enkeltaktier bliver solgt [1, 4]. Skatteregningen bliver betalt, og hele provenuet flyttes over i én bred, realisationsbeskattet global indeksfond [1]. Det giver øjeblikkelig mental ro [1].
+  * **Farvel til Saxo – ASK flyttes til Nordnet:** For at samle mit økonomiske liv ét sted, vælger jeg at flytte min Aktiesparekonto (ASK) fra Saxo Bank over til Nordnet [1, 4]. Selvom det koster et flyttegebyr og tager tid, er det alle pengene værd at slippe for at logge ind på flere forskellige platforme [1, 4]. Kontoen nulstilles for gamle stock-picking-forsøg og sættes på passiv autopilot med en superbillig, global ETF [1, 4].
+  * **Børnenes ASK sættes i system:** Jeg udnytter Nordnets platform til også at oprette Aktiesparekonti til børnene [1]. Ved at give dem indskuddet som gave, udnytter jeg de 17% i lagerskat på deres egne konti og lukker effektivt "forældrefælden", hvor afkastet ellers ville rulle tilbage på min egen årsopgørelse [1].
+  * **Pensions-selvvalg i Velliv:** Jeg tager kampen op med mit firmapensionsselskab [1]. Jeg fravælger deres dyre, blandede standardpakker ("Høj Risiko Indeks") med indbyggede obligationer og en ÅOP på 0,53% [1]. I stedet skifter jeg til LinkPension (Selvvalg) og strikker en ultrabillig, ren 2-fonds aktieløsning sammen (88% MSCI World / 12% Emerging Markets) til næsten den halve pris [1].
+  * **Afvikling af historiske rester:** Crowdlending-porteføljen er nu reelt død [2]. De mikroskopiske procenter, der drypper ind fra de sidste låste platforme, bliver konsekvent trukket ud og sendt direkte i aktiemarkedet [2]. Min FOMO omkring krypto og andre alternative projekter (som træ-investeringen) bliver parkeret på sidelinjen [2, 4] – min kerneformue skal være 100% simpel [1].
+  * **2026-Status – Enkelhed vinder altid:** Hovedrengøringen er fuldført [1]. Fra at overvåge 26 platforme og nørde komplekse aktivklasser i gigantiske Excel-ark [4], er mit setup nu skåret helt ind til benet [1]. Min samlede formue på 7,4 millioner kroner passer sig selv på tværs af fire skarpe skattemiljøer [1]. Det kræver minimal tankevirksomhed, og det virker [1].
 </details>
 
 ---

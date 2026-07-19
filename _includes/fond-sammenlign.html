@@ -1,12 +1,36 @@
 {% comment %}
-  Opdateret matrix-include til at sammenligne fonde side om side.
+  Opdateret matrix-include med ALLE rækker bevaret.
+  Tilpasser sig 100% på desktop uden tvungen min-width.
   Brug: {% include fond-sammenlign.html fonde="SPIIMA, SPVIGAKL, DKIGI" %}
 {% endcomment %}
 
 {% assign ticker_array = include.fonde | split: "," %}
 
-<div markdown="0" style="width: 100%; overflow-x: auto; margin: 25px 0; border: 1px solid #e2e8f0; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
-  <table style="width: 100%; border-collapse: collapse; font-family: system-ui, sans-serif; font-size: 14px; text-align: left; background: #fff; min-width: 650px;">
+<style>
+  .matrix-wrapper table {
+    width: 100%; 
+    border-collapse: collapse; 
+    font-family: system-ui, sans-serif; 
+    font-size: 14px; 
+    text-align: left; 
+    background: #fff;
+  }
+  @media screen and (max-width: 600px) {
+    .matrix-wrapper {
+      overflow-x: auto !important;
+    }
+    .matrix-wrapper table {
+      font-size: 11px;
+      min-width: 550px; /* Tvinger kun scroll på små mobilskærme, så teksten ikke maser */
+    }
+    .matrix-wrapper th, .matrix-wrapper td {
+      padding: 8px 6px !important;
+    }
+  }
+</style>
+
+<div class="matrix-wrapper" markdown="0" style="width: 100%; margin: 25px 0; border: 1px solid #e2e8f0; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden;">
+  <table>
     
     <!-- Tabel-header med fondenes navne -->
     <thead>
@@ -18,7 +42,7 @@
             {% if fond.ticker == t %}
               <th style="padding: 14px 16px; font-weight: 800; color: #0f172a; border-left: 1px solid #e2e8f0; text-align: center;">
                 <div style="font-size: 11px; color: #2563eb; font-weight: 700; text-transform: uppercase;">{{ fond.ticker }}</div>
-                <div style="font-size: 14px; margin-top: 2px;">{{ fond.navn }}</div>
+                <div style="font-size: 14px; margin-top: 2px; line-height: 1.2;">{{ fond.navn }}</div>
               </th>
             {% endif %}
           {% endfor %}
@@ -42,12 +66,12 @@
 
       <!-- Række 2: Underliggende Indeks -->
       <tr style="border-bottom: 1px solid #f1f5f9;">
-        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Benchmark Indeks</td>
+        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Benchmark</td>
         {% for raw_ticker in ticker_array %}
           {% assign t = raw_ticker | strip %}
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
-              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #475569; font-style: italic;">{{ fond.indeks }}</td>
+              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #475569; font-style: italic; line-height: 1.3;">{{ fond.indeks }}</td>
             {% endif %}
           {% endfor %}
         {% endfor %}
@@ -60,7 +84,7 @@
           {% assign t = raw_ticker | strip %}
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
-              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #0f172a; font-weight: 500;">{{ fond.eksponering }}</td>
+              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #0f172a; font-weight: 500; line-height: 1.3;">{{ fond.eksponering }}</td>
             {% endif %}
           {% endfor %}
         {% endfor %}
@@ -68,13 +92,13 @@
 
       <!-- Række 4: Skatteprincip -->
       <tr style="border-bottom: 1px solid #f1f5f9;">
-        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Skatteprincip</td>
+        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Princip</td>
         {% for raw_ticker in ticker_array %}
           {% assign t = raw_ticker | strip %}
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
               <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #334155;">
-                {%- if fond.skatteprincip == "Realisation" -%}⏳{%- else -%}📊{%- endif -%} {{ fond.skatteprincip }}
+                {%- if fond.skatteprincip == "Realisation" -%}⏳ Realise{%- else -%}📊 Lager{%- endif -%}
               </td>
             {% endif %}
           {% endfor %}
@@ -89,7 +113,7 @@
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
               <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #334155;">
-                {%- if fond.skattetype == "Aktieskat" -%}📈{%- else -%}💼{%- endif -%} {{ fond.skattetype }}
+                {%- if fond.skattetype == "Aktieskat" -%}📈 Aktie{%- else -%}💼 Kap.{%- endif -%}
               </td>
             {% endif %}
           {% endfor %}
@@ -98,13 +122,13 @@
 
       <!-- Række 6: Udbyttetype -->
       <tr style="border-bottom: 1px solid #f1f5f9;">
-        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Udbyttepolitik</td>
+        <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Udbytte</td>
         {% for raw_ticker in ticker_array %}
           {% assign t = raw_ticker | strip %}
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
-              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #334155;">
-                {%- if fond.udbytte contains "Akkumulerende" -%}🔄{%- else -%}💰{%- endif -%} {{ fond.udbytte }}
+              <td style="padding: 12px 16px; border-left: 1px solid #e2e8f0; font-size: 13px; color: #334155; line-height: 1.2;">
+                {%- if fond.udbytte contains "Akkumulerende" -%}🔄 Akk.{%- else -%}💰 Udb.{%- endif -%}
               </td>
             {% endif %}
           {% endfor %}
@@ -118,13 +142,13 @@
           {% assign t = raw_ticker | strip %}
           {% for fond in site.data.fonde %}
             {% if fond.ticker == t %}
-              <td style="padding: 12px 16px; text-align: center; border-left: 1px solid #e2e8f0; font-weight: 600; color: #475569;">💵 {{ fond.valuta }}</td>
+              <td style="padding: 12px 16px; text-align: center; border-left: 1px solid #e2e8f0; font-weight: 600; color: #475569;">{{ fond.valuta }}</td>
             {% endif %}
           {% endfor %}
         {% endfor %}
       </tr>
 
-      <!-- Række 8: Morningstar Rating (FIXET: Tilføjet | floor for at sikre et rent heltal) -->
+      <!-- Række 8: Morningstar Rating -->
       <tr style="border-bottom: 1px solid #f1f5f9;">
         <td style="padding: 12px 16px; font-weight: 700; color: #475569; background: #f8fafc;">Morningstar</td>
         {% for raw_ticker in ticker_array %}

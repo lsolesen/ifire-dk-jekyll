@@ -32,49 +32,46 @@ Dette er et genialt alternativ eller supplement, hvis du har ramt det stramme lo
 ### 2. Modregning i negativ kapitalindkomst (Boligejere)
 Hvis du har store renteudgifter – f.eks. fra et realkreditlån eller banklån – har du det, der hedder negativ kapitalindkomst. Hvis du sideløbende investerer i en fond, der udløser *positiv* kapitalindkomst, kan de to modregnes direkte i hinanden på din årsopgørelse. Det kan i nogle tilfælde give en markant mere optimal samlet personlig skat, end hvis du blindt jagtede ren aktieindkomst.
 
-> ⚠️ **ADVARSEL:** Hvis du er en voksen investor uden store renteudgifter, er et frit depot med en kapitalbeskattet fond en **rigtig dårlig idé**. Uden et frikort eller negative renter til at modregne i, bliver du beskattet hårdt med op til ca. 42 % hvert eneste år via lagerprincippet. Til dine egne frie midler bør du i stedet kigge mod [udenlandske ETF'er på positivlisten](/bedste-etfer-fire-lagerbeskatning/) eller [danske realisationsbeskattede fonde](/danske-investeringsforeninger-fire-realisation/).
+> ⚠️ **ADVARSEL:** Jeg er voksen uden de store renteudgifter. Derfor undgår jeg kapitalbeskattede fonde på mit fire depot. Uden et frikort eller negative renter til at modregne i, bliver du beskattet med op til ca. 37%-42 % hvert eneste år via lagerprincippet. Jeg kigger selv mod mod [danske realisationsbeskattede fonde](/danske-investeringsforeninger-fire-realisation/) på mit frie depot og [udenlandske ETF'er på positivlisten](/bedste-etfer-fire-lagerbeskatning/) på min aktiesparekonto.
 
 ---
 
 ## Fonde jeg overvejer i dette setup
 
-{% include fond-sammenlign.html fonde="NNGBLINDX, MXWS, VMCE" %}
-
 For at opnå en bred global dækning i dette specifikke skattemiljø, kigger jeg lige nu på tre stærke referencefonde. De har hver deres unikke fordele, når vi kigger på handelsomkostninger, præcise indeks og ikke mindst fordelingen af virksomhedsstørrelser (**Large, Mid og Small Cap**).
 
-### Nordnet Global Indeks
+---
 
-{% include fond-oplysninger.html fonde="NNGBLINDX:88, NNEMINDX:12" %}
+### Nordnet Global Indeks + Nordnet Emerging Markets Indeks
 
-Dette er en traditionel indeksfond (ikke en børshandlet ETF), som Nordnet selv udbyder. Det er en af de nemmeste løsninger til frikort-hacket, hvis du vil undgå komplekse børshandler.
-* **Ticker:** NNGBLINDX (Handelsvaluta: DKK)
-* **ÅOP:** 0,30 %
-* **Underliggende indeks:** *MSCI World Climate Change Index* (fonden fulgte tidligere MSCI World ESG Leaders Index, men er for nylig skiftet benchmark)
-* **Eksponering og markedsstørrelse:** Dækker ca. 1.500 virksomheder på tværs af 23 udviklede lande. Fonden er en ren **Large & Mid Cap** fond. Det betyder, at du ejer de store mastodonter og de mellemstore virksomheder, men de mindre selskaber (Small Cap) samt udviklingslandene er helt skåret fra. Desuden favoriserer indekset selskaber med en gunstig CO2-emissionsprofil frem for det brede MSCI World.
-* **Argumenter for/imod:** Den helt store fordel er, at den kan købes 100 % kurtagefrit via Nordnets Månedsopsparing, og da den handles i DKK, slipper du for valutavekslingsgebyrer.
-* **Sådan får du det fulde marked:** Hvis du vil have udviklingslandene med, kan du supplere med **Nordnet Emerging Markets Indeks** (Ticker: NNEMINDX / ÅOP: 0,39 %). Fordelingen vil typisk være 88/12. Bemærk dog, at du stadig mangler Small Cap i dette setup.
+{% include investeringskort.html fonde="NNGBLINDX:88, NNEMINDX:12" %}
 
-### Invesco MSCI World UCITS ETF Acc
+Dette er en fuldt færdig "byg-selv-verdensportefølje" bestående af to traditionelle danske indeksfonde, som Nordnet selv udbyder. Det er et oplagt valg for dig, der vil have bred global eksponering for frie midler, men ønsker at holde det tekniske setup så enkelt som muligt.
 
-{% include fond-oplysninger.html fonde="MXWS" %}
+* **Eksponering og markedsstørrelse:** Ved at kombinere de to fonde i et klassisk 88/12-setup opnår du en bred geografisk dækning, der spænder over både 23 udviklede lande og 24 udviklingslande (Emerging Markets). Tilsammen dækker du omkring 2.800 store og mellemstore selskaber (Large & Mid Cap). Du skal dog være opmærksom på to ting: For det første overvægter Global-fonden selskaber med en grøn CO2-profil (klimascreening). For det fjerde er de helt små virksomheder (Small Cap) skåret helt ud af dette setup.
+* **Fordele og ulemper:** Den helt store fordel er brugervenligheden. Du kan sætte begge fonde op i Nordnets Månedsopsparing, hvorefter hele indkøbet kører 100 % kurtagefrit hver måned. Da fondene handles i danske kroner (DKK), slipper du også fuldstændig for løbende valutavekslingsgebyrer. Du skal dog være vågen her: Selvom fondene er udstedt i Danmark, er de **lagerbeskattede** som aktieindkomst. Du får altså ikke realisationsprincippets udskudte skat, som mange ellers forbinder med danske fonde.
 
-Hvis du leder efter markedets absolut laveste omkostninger og ønsker en ren, ufiltreret eksponering mod den vestlige verden, er denne udenlandske UCITS ETF en stærk kandidat. Da den bevidst *ikke* er tilmeldt SKATs positivliste, lagerbeskattes den som kapitalindkomst.
-* **Ticker:** MXWS (Handelsvaluta: EUR) / ISIN: IE00B60SX394
-* **ÅOP:** 0,05 %
-* **Underliggende indeks:** *MSCI World Index*
-* **Eksponering og markedsstørrelse:** Dækker ca. 1.400 af de største selskaber i 23 udviklede markeder uden nogen form for bæredygtigheds-screening. Ligesom Nordnet-fonden er dette en ren **Large & Mid Cap** fond, hvor de mindre Small Cap-virksomheder er udeladt af indekset.
-* **Argumenter for/imod:** Den ultralave ÅOP på 0,05 % gør den til en af markedets absolut billigste MSCI World-ETF'er og fantastisk til at maksimere renters rente-effekten på et børnedepot over tid. Ulemperne er, at du skal betale almindelig kurtage ved køb/salg, og du skal betale Nordnets valutagebyr på 0,25 % ved hver handel, da den afregnes i Euro. Og den medtager hverken emerging markets eller small-cap.
+---
 
-### Vanguard FTSE All-World UCITS ETF Dist (FIRE-favoritten)
+### Invesco MSCI World + Invesco MSCI Emerging Markets
 
-{% include fond-oplysninger.html fonde="VMCE" %}
+{% include investeringskort.html fonde="MXWS:88, XMME:12" %}
 
-Vanguard er ikonet inden for passiv indeksinvestering. Hvor Invesco og Nordnet kræver, at du selv kombinerer flere fonde for at få udviklingslandene med, klarer denne ETF det hele i én enkelt handel. Da denne distribuerende version ikke optræder på SKATs positivliste, lander den direkte i kurven for kapitalindkomst. Den findes også i en akkumulerende udgave som VWRL.
-* **Ticker:** VMCE (Handelsvaluta: EUR)
-* **ÅOP:** 0,19%
-* **Underliggende indeks:** *FTSE All-World Index*
-* **Eksponering og markedsstørrelse:** Over 3.600 selskaber på tværs af både 23 udviklede lande og 24 udviklingslande (Emerging Markets). Her får du en ekstremt bred geografisk dækning. Indekset fanger cirka 90 % af det samlede globale aktiemarked, men fokus er udelukkende på **Large & Mid Cap**. De mindre Small Cap-virksomheder (som udgør de resterende ca. 10-15 % af hele verdensmarkedet) må man undvære her.
-* **Argumenter for/imod:** Du får den absolut bredeste geografiske spredning i én fond – ingen behov for at rebalancere selv. Ulemperne er kurtage, valutaveksling og det faktum, at den udbetaler udbytte hvert kvartal. Det gør intet skattemæssigt på et frikort (da udbyttet blot modregnes), men det kræver, at du manuelt skal geninvestere pengene.
+Hvis du jagter de absolut laveste ejeromkostninger på markedet og ønsker en fuldstændig rå, ufiltreret eksponering mod hele verdensøkonomien, er denne udenlandske ETF-kombination det stærkeste svar. 
+
+* **Eksponering og markedsstørrelse:** Når du parrer disse to ETF'er i et 88/12-forhold, fanger du præcis samme markedsstørrelse som Nordnet-kombinationen – altså omkring 2.700 store og mellemstore virksomheder på tværs af udviklede markeder og udviklingslande. Den helt store forskel ligger i *filtreringen*: Invesco bruger de rene, klassiske MSCI-indeks uden nogen former for klimascreening eller ESG-filtre. Du køber markedet præcis, som det ser ud. Ligesom hos Nordnet må du dog undvære de mindre Small Cap-virksomheder.
+* **Fordele og ulemper:** Fordelen kan opsummeres i ét ord: Pris. De samlede årlige omkostninger (ÅOP) for denne kombination er helt i bund, hvilket gør den til en brutal maskine til at maksimere renters rente-effekten over tid. Ulemperne er til gengæld den praktiske og økonomiske "friktion": Fondene handles på udenlandske børser i Euro (EUR), hvilket betyder, at du skal betale almindelig kurtage ved hvert køb, samt Nordnets valutagebyr på 0,25 % ved hver eneste transaktion. Desuden skal du selv manuelt logge ind og geninvestere og rebalancere forholdet mellem de to fonde, når markedet rykker sig.
+
+---
+
+### Vanguard FTSE All-World UCITS ETF (FIRE-favoritten)
+
+{% include investeringskort.html fonde="VMCE" %}
+
+Vanguard er ikonet inden for passiv indeksinvestering. Hvor de andre løsninger kræver, at du selv bygger og balancerer flere fonde for at få udviklingslandene med, klarer Vanguard det hele for dig i én samlet pakke.
+
+* **Eksponering og markedsstørrelse:** Her får du over 3.600 selskaber spredt ud over både udviklede lande og 24 udviklingslande (Emerging Markets). Fonden fanger ca. 90 % af det samlede globale aktiemarked. Det er stadig udelukkende Large & Mid Cap, så de allermindste virksomheder mangler, men det er det tætteste, du kommer på at "købe hele høstakken".
+* **Fordele og ulemper:** Du får markedets bredeste og mest populære "alt-i-én"-løsning, og du slipper dermed helt for selv at skulle rebalancere dit depot. Ulemperne er igen handelsomkostningerne (kurtage og valutaveksling til EUR). Vælger du den distribuerende udgave (som ofte bruges af FIRE-tilhængere), skal du desuden være opmærksom på, at du manuelt skal geninvestere de kvartalsvise udbytter for ikke at have kontanter stående til 0 % i rente.
 
 ---
 
