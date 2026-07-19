@@ -180,7 +180,7 @@ I et almindeligt aktiedepot med _frie midler_ skal du vælge om du helst vil rea
 
 Mange vælger 'SparIndex INDEX Globale Aktier KL (SPVIGAKL)' til deres almindelige aktiedepot. Fonden indeholder nemlig også emerging markets og small cap og investerer således i det bredeste markedsindeks.
 
-{% include fonde.html funds="SPVIGAKL" %}
+{% include fond-oplysninger.html fonde="SPVIGAKL" %}
 
 Begrundelsen for at vælge den fond er:
 
@@ -198,7 +198,7 @@ Du kan på aktiesparekontoen købe nogle af de forskellige ETF'er fra iShares:
 - Investeringer på aktiesparekontoen er allerede lagerbeskattede.
 - Mange ETF'er fra iShares er på SKATs positivliste, hvilket gør dem tilgængelige på aktiesparekontoen.
 
-{% include fonde.html funds="EUNL,IS3N,IUSN" %}
+{% include fond-oplysninger.html fonde="EUNL,IS3N,IUSN" %}
 
 Du kan også vælge 'Xtrackers MSCI AC World UCITS ETF 1C' for at holde det helt enkelt. Xtrackers indeholder dog ikke _small cap_, og de samlede årlige omkostninger er lidt højere end kombinationen fra iShares.
 
@@ -218,7 +218,7 @@ Jeg har skrevet mere om [børneopsparing](/borneopsparing/), men du skal ikke sn
 
 En traditionel børneopsparing i din bank kan du ofte få et investeringsdepot. Mange banker er begyndt at tilbyde, at du selv kan stå for investeringerne, og du kan typisk vælge mellem indeksbaserede investeringsprodukter.
 
-{% include fonde.html funds="SPVIGAKL" %}
+{% include fond-oplysninger.html fonde="SPVIGAKL" %}
 
 Begrundelsen for at vælge den fond er:
 

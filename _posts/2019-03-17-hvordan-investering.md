@@ -53,7 +53,7 @@ Jeg kunne vælge at gå over i nogle danske indeksfonde i stedet. Indekserne inv
 
 Jeg har kigget på følgende danske indeksfonde, som jeg overvejer at sætte ind i min fremtidige portefølje. De er alle udbyttebetalende, hvilket kan være en fordel, når jeg gerne vil have noget passiv indkomst uden at skulle sælge ud af værdipapirerne undervejs (også selvom det samlet over tid vil betyde, at porteføljen yngler mindre, hvis jeg vælger at reinvestere udbyttet, når jeg ikke har brug for det).
 
-{% include fonde.html funds="SPIGLAMRIK,SPVIBGKL,SPIDJWKL,SPIEMIKL,DK0060950541" show_ratings="false" %}
+{% include fond-oplysninger.html fonde="SPIGLAMRIK,SPVIBGKL,SPIDJWKL,SPIEMIKL,DK0060950541" show_ratings="false" %}
 
 Jeg vil gerne bredt eksponeres mod verden, så [Sparinvest INDEX DJSI World KL](http://www.morningstar.dk/dk/funds/snapshot/snapshot.aspx?id=F0GBR04IDG) er ret interessant med relativt lave omkostninger og den bedste bæredygtighedsscore af de valgte fonde.
 

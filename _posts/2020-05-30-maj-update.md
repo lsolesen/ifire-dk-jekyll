@@ -153,6 +153,6 @@ Jeg forsøger at være så objektiv som muligt. De seneste dage har jeg dykket n
 
 Jeg har samlet alle de bedste råd om, hvordan man laver en blog, der faktisk på et tidspunkt kan generere en indtægt, jeg har kunnet finde i mine fem dages research på at skabe en passiv indkomst gennem blogging i [dette blogindlæg om Income School](/tjene-penge-blogge/).
 
-Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/portfolio/).
+Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/mine-investeringer/).
 
 {% include disclaimer.md %}

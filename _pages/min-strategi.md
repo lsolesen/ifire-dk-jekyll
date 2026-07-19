@@ -95,7 +95,9 @@ Når fundamentet er på plads, skal overskuddet ud at arbejde.
 
 Min investeringsstrategi bygger på ét overordnet mål: at skabe et enkelt og robust system, som jeg kan følge gennem et helt investeringsliv.
 
-Det betyder blandt andet, at jeg investerer langsigtet, holder omkostningerne lave, spreder risikoen og undgår at lade følelser styre mine beslutninger.
+Det betyder blandt andet, at jeg investerer langsigtet, holder omkostningerne lave, spreder risikoen ved at følge verdensmarkedet og undgår at lade følelser styre mine beslutninger.
+
+Samtidig husker jeg at være opmærksom på min firmapension.
 
 👉 **[Min Investeringsstrategi](/min-investeringsstrategi/)** viser **hvordan jeg ønsker at investere**.  
 👉 **[Min Portefølje](/mine-investeringer/)** viser **hvordan jeg implementerer min strategi**.

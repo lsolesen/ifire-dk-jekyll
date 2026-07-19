@@ -10,4 +10,4 @@ sort_order: forward # forward (default), reverse
 author_profile: true
 ---
 
-Her har jeg samlet alle de opdateringer jeg har lavet. Jeg har samlet en oversigt over [min portefølje her](/portfolio/).
+Her har jeg samlet alle de opdateringer jeg har lavet. Jeg har samlet en oversigt over [min portefølje her](/mine-investeringer/).

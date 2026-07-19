@@ -30,7 +30,7 @@ feature_row_solutions:
     excerpt: "[Ledger](/go/ledger/){: rel='sponsored nofollow noopener' } er en hardware wallet til dine kryptovalutaer. Det er helt nødvendigt, hvis du tager sikkerheden seriøst."
 ---
 
-Kryptovaluta et meget volatilt marked. Med min risikoprofil kommer kryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/portfolio/), som jeg også tidligere har skrevet om i mit indlæg om [Bitcoins](/bitcoins/).
+Kryptovaluta et meget volatilt marked. Med min risikoprofil kommer kryptovaluta kun til at fylde en mindre del af min samlede [portefølje](/mine-investeringer/), som jeg også tidligere har skrevet om i mit indlæg om [Bitcoins](/bitcoins/).
 
 Hvis du er nybegynder i denne verden, så anbefaler jeg, at du først læser vores [begynderguide til kryptovaluta](/kryptovaluta/).
 

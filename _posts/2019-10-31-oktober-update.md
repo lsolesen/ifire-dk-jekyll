@@ -60,7 +60,7 @@ Jeg er stadig ret glad for [Revolut](/go/revolut/){: rel='sponsored nofollow noo
 
 ## Investeringer
 
-Jeg gør stadig klar til at rebalancere lidt i min samlede portefølje. Jeg har samlet ikke skudt flere penge ind i crowdlending i denne måned, men hævet lidt af det tjente på nogle platforme. Du kan altid dykke lidt ned i min [samlede portefølje](/portfolio/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/kryptovaluta/).
+Jeg gør stadig klar til at rebalancere lidt i min samlede portefølje. Jeg har samlet ikke skudt flere penge ind i crowdlending i denne måned, men hævet lidt af det tjente på nogle platforme. Du kan altid dykke lidt ned i min [samlede portefølje](/mine-investeringer/), men jeg har også lavet nogle oversigtssider over mine investeringer i [værdipapirer](/investeringer/) og [crowdlending](/crowdlending/) - og desuden i det jeg egentlig har kaldt opsparing [kryptovaluta](/kryptovaluta/).
 
 | Type                        | Start | Fordeling |
 |-----------------------------|-------|-----------|

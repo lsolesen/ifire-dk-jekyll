@@ -51,7 +51,7 @@ Følgende er altså **blevet solgt**.
 
 Jeg har købt lidt [Danske Bank](https://www.morningstar.com/stocks/XCSE/DANSKE/quote.html) og [Swed Bank](https://www.morningstar.com/stocks/pinx/swdby/quote.html), da de var faldet virkelig meget som følge af forskellige udfordringer med hvidvask. Det er ikke min hensigt, at jeg skal sidde og finde enkeltaktier i fremtiden. Jeg vil enten have passive indeksfonde eller ETF’er i min portefølje.
 
-Salget af ovenstående betyder også, at jeg lige nu har en rigtig stor andel af mine midler i kontant opsparing, som du se i tabellen ovenfor. Du kan også se den [opdaterede status på min portefølje](/portfolio/).
+Salget af ovenstående betyder også, at jeg lige nu har en rigtig stor andel af mine midler i kontant opsparing, som du se i tabellen ovenfor. Du kan også se den [opdaterede status på min portefølje](/mine-investeringer/).
 
 Jeg har flyttet lidt penge til [Nord.investments](/go/nord/){: rel='sponsored nofollow noopener'} og jeg har et lille beløb på Darwin, men tænker grundigt over, hvordan jeg vil gribe resten af investeringen an. Bl.a. har jeg overført penge til min _aktiesparekonto_ hos [SaxoInvestor](/go/saxoinvestor/), og jeg er også ved at [sammensætte min månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/).
 
@@ -93,7 +93,7 @@ Nedenstående tabel giver et overblik over, hvordan jeg har fordelt mine investe
 | [Housers (EUR)](/platform/housers/)                 | En           | Nej  | 7        |
 | [PropertyPartner (GBP)](/platform/propertypartner/) | En           | Ja   | 3        |
 
-Men hvorfor har jeg overhovedet så mange platforme kørende. Først og fremmest synes jeg det er klart mest interessant at sætte sig ordentligt ind i en platform, når man har _skin in the game_ - altså penge investeret. Du kan se min nøjagtige fordeling af platformene under [min portefølje](/portfolio/).
+Men hvorfor har jeg overhovedet så mange platforme kørende. Først og fremmest synes jeg det er klart mest interessant at sætte sig ordentligt ind i en platform, når man har _skin in the game_ - altså penge investeret. Du kan se min nøjagtige fordeling af platformene under [min portefølje](/mine-investeringer/).
 
 I fremtiden vil jeg formentlig skærpe min portefølje lidt, men nu vil jeg se, hvad der fungerer bedst for mig - og jeg glæder mig især til at følge, hvordan den _interne rente (XIRR)_ udvikler sig i projekterne.
 

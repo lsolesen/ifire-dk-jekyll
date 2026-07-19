@@ -32,7 +32,7 @@ En af funktionerne på Morningstar er, at du kan se, hvor bæredygtige dine fond
 
 Morningstar er altså et fint redskab til at vurdere hvilke fonde, du vil investere i, så du maksimerer de etiske overvejelser og bæredygtige valg i porteføljerne.
 
-Det bliver _næste trin for mig_. Min nuværende [portefølje](/portfolio/), som er lavet af min bank, men flytter til [Nordnet](/go/nordnet/), skal _gennemgås for for omkostninger, afkast, etik og bæredygtighed_ - og så skal jeg vurdere dem op mod alternativer på det fire punkter.
+Det bliver _næste trin for mig_. Min nuværende [portefølje](/mine-investeringer/), som er lavet af min bank, men flytter til [Nordnet](/go/nordnet/), skal _gennemgås for for omkostninger, afkast, etik og bæredygtighed_ - og så skal jeg vurdere dem op mod alternativer på det fire punkter.
 
 ## Hvordan investerer jeg etisk og bæredygtigt i crowdlending med højt afkast?
 

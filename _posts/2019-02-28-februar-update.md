@@ -13,7 +13,7 @@ header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
-Det er tid til en opdatering med, hvordan det går med at gøre min økonomi til en lidt mere selvkørende motor. Jeg har i første omgang valgt at fokusere på at optimere investeringsstrategien. Du kan se min [opdaterede portefølje her](/portfolio/).
+Det er tid til en opdatering med, hvordan det går med at gøre min økonomi til en lidt mere selvkørende motor. Jeg har i første omgang valgt at fokusere på at optimere investeringsstrategien. Du kan se min [opdaterede portefølje her](/mine-investeringer/).
 
 ## Investeringsgennemgang
 

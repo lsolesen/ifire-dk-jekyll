@@ -56,7 +56,7 @@ Herunder kan du se det overordnede landkort over min kerneportefølje. Alle depo
 | **💸 Frie midler** | Passive danske indeksfonde | Verdensmarkedet | **Realisationsskat** (27%/42% aktieskat) | Undgår tvangssalg og lagerbeskatning. Giver fuld kontrol. |
 | **🚀 Aktiesparekonto (ASK)** | Passive udenlandske ETF'er | Verdensmarkedet | **Lagerskat** (17% aktieskat) | Indbetalingsloft udnyttes fuldt ud med markedets laveste ÅOP. |
 | **👵 Aldersopsparing** | Passive udenlandske ETF'er | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Indbetalingsloft udnyttes. |
-| **🏢 Ratepension** | Passive globale fonde | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Sættes op via firmaindbetaling (Velliv selvvalg) med lav ÅOP. |
+| **🏢 Pensionsopsparing** | Passive globale fonde | Verdensmarkedet | **PAL-skat** (15,3% lagerskat) | Sættes op via firmaindbetaling (Velliv LinkPension) med lav ÅOP. |
 
 ---
 
@@ -147,7 +147,7 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 </details>
 
 <details class="faq" markdown="1">
-  <summary>🏢 Firmabetalt ratepension - Velliv</summary>
+  <summary>🏢 Firmabetalt Pensionsopsparing - Velliv</summary>
 
   * **Mit fondsvalg:** Velliv Globale Aktier Index (88%) & Velliv Emerging Markets Index Aktier (12%)
   * **Indeks**: MSCI World og Emerging Markets (ingen small cap)

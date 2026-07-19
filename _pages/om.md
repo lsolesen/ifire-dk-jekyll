@@ -21,7 +21,7 @@ Jeg har altså sat mig for helt i tråd med **rigdomsformularen** at:
 
 Samtidig vil jeg gerne være med til at bryde pengetabuet og dele min strategi.
 
-[Se min samlede portefølje](/portfolio/){: .btn .btn--large .btn--success }
+[Se min samlede portefølje](/mine-investeringer/){: .btn .btn--large .btn--success }
 
 ## Følg min status
 

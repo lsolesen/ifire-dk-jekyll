@@ -152,6 +152,6 @@ Desuden har jeg skrevet lidt blogindlæg efter metoden på [cykel-ruter.dk](http
 
 Jeg kommer de kommende måneder til at fortælle lidt mere om, hvordan det går med besøgende på de forskellige sites.
 
-Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/portfolio/).
+Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/mine-investeringer/).
 
 {% include disclaimer.md %}

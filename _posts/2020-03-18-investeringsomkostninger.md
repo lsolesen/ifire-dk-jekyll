@@ -73,6 +73,8 @@ Her er hvad der sker med dine penge afhængigt af dit valg af investering:
 
 > **Konklusion:** Ved at lade din lokale bankrådgiver placere dine 100.000 kr. i deres aktive, dyre fonde (1,50% i ÅOP) frem for en billig ETF, forærer du **over 220.000 kr.** væk i tabt afkast til banken. 
 
+{% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.20" aop2="0.50" aop3="1.50" %}
+
 ---
 
 ## Duel: Dansk Indeksfond vs. Udenlandsk ETF

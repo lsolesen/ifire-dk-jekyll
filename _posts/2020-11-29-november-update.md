@@ -137,6 +137,6 @@ Jeg gik i gang med at følge rådene fra _Income School_ i forhold til at lave n
 
 Der er altså sket en del med trafikken på de enkelte sites. Jeg har kun arbejdet meget målrettet med motionsplan.dk, og det er tydeligt, at man kan få noget til at ske med trafikken, hvis man producerer noget content, som Google kan finde og vil vise.
 
-Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/portfolio/).
+Hvis der er andre detaljer, du kunne være interesseret i, så må du endelig skrive i kommentarerne. Du kan også se [den helt aktuelle status for min samlede portefølje](/mine-investeringer/).
 
 {% include disclaimer.md %}
