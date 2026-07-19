@@ -73,6 +73,8 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
   * **ÅOP:** 0,07%
 
 {% include depottype-kort.html type="ask" allocation="WEBN:100" %}
+
+{% include investeringskort.html depot="ask" fonde="WEBN:100" %}
   
   Jeg fylder først aktiesparekontoen op til indskudsloftet hvert år. Da en Aktiesparekontoen er lagerbeskattet, så giver det mening at fylde den op med billige, udenlandske akkumulerende ETF'er. Der er naturligvis en engangsomkostning ved køb til valutaveksling. På Aktiesparekontoen kan jeg ikke købe på Nordnets månedsopsparing, så jeg køber bare så hurtigt som jeg har midlerne klar.
 
@@ -90,6 +92,8 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
 
 {% include depottype-kort.html type="frie_midler" allocation="SPIIMA:100" %}
 
+{% include investeringskort.html depot="frie_midler" fonde="SPIIMA:100" %}
+
   Jeg ønsker ikke at lagerbeskatte mine frie midler. Derfor vælger jeg en fond, der bliver realisationsbeskattet. Derfor skal jeg vælge en dansk fond, som har lidt højere årlige omkostninger end de udenlandske ETF'er. Realisationsbeskatningen sikrer, at jeg kun betaler skat, når jeg reelt sælger andele eller får udbytte. Det er med til at maksimere renters rente-effekten på den lange bane. Fonden dækker hele verden i ét værdipapir, hvilket gør administrationen minimal.
   
   Jeg køber om muligt på Nordnets månedsopsparing for faste månedlige indskud. 
@@ -99,6 +103,11 @@ De frie midler er jo særligt interessante at få maksimeret udbyttet af. Det er
 {% include fond-oplysninger.html
     title="Tidligere investeringer" 
     allocation="SPIDJB:15,SPIEMIKL:2,SPIVIGAKL:83"
+    comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI AWCI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
+
+{% include investeringskort.html
+    title="Tidligere investeringer" 
+    fonde="SPIDJB:15,SPIEMIKL:2,SPIVIGAKL:83"
     comment="Tidligere fyldte jeg depotet op med SPIDJB og SPIEMIKL for samlet at ramme MSCI AWCI. Senere skiftede jeg til SPIVIGAKL, som har den bredeste dækning af SparInvest-fondene. Nu er jeg skiftet til SPIIMA med lavere omkostninger på bekostning af small cap."%}
 
   **Hvorfor ser mine frie midler sådan ud?**
@@ -125,6 +134,8 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 
 {% include depottype-kort.html type="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" 
     comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
+
+{% include investeringskort.html depot="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
   
   Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
 
@@ -154,8 +165,10 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
   * **Beskatning:** PAL-skat (15,3%)
   * **Samlet ÅOP:** Ca. 0,29% (vægtet - hhv. 0,27% og 0,43%)
 
-{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL0000000039:12" %}
-  
+{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL000IDX004N:12" %}
+
+{% include investeringskort.html depot="pension" fonde="UL0000000039:88,UL000IDX004N:12" %}
+
   Jeg har fravalgt Vellivs standardiserede, aktive pakker, da der er for høje årlige omkostninger og andele af obligationer og andre investeringsklasser til min smag. I stedet bruger jeg deres *LinkPension (Selvvalg)* til at stykke min egen billige og passive portefølje sammen, som rammer den reelle, globale marked.
 
 </details>

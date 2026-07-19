@@ -1,0 +1,388 @@
+<!-- Styling til den perfekt integrerede forbrugsomregner -->
+<style>
+  .fc-input-clean::-webkit-outer-spin-button,
+  .fc-input-clean::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+  .fc-input-clean[type=number] { -moz-appearance: textfield; }
+
+  /* Række 1: Inputs på én linje */
+  .fc-inputs-row-top {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    background-color: #f8fafc;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+  }
+
+  /* Række 2: Eksempel og Resultat side om side */
+  .fc-bottom-split {
+    display: grid;
+    grid-template-columns: 1.2fr 2fr;
+    gap: 12px;
+    align-items: stretch;
+  }
+
+  /* Custom dropdown styling */
+  .fc-dropdown-wrapper {
+    position: relative;
+    width: 100%;
+    display: flex;
+  }
+
+  .fc-dropdown-trigger {
+    background: #ffffff;
+    border: 2px solid #10b981;
+    border-radius: 8px;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .fc-dropdown-trigger::after {
+    content: "";
+    position: absolute;
+    right: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 5px solid transparent;
+    border-top-color: #10b981;
+    transition: transform 0.2s;
+  }
+
+  .fc-dropdown-wrapper.fc-open .fc-dropdown-trigger::after {
+    transform: translateY(-75%) rotate(180deg);
+  }
+
+  .fc-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    margin-top: 4px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    z-index: 50;
+    display: none;
+    max-height: 220px;
+    overflow-y: auto;
+  }
+
+  .fc-dropdown-wrapper.fc-open .fc-dropdown-menu {
+    display: block;
+  }
+
+  .fc-dropdown-item {
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  .fc-dropdown-item:hover { background: #f8fafc; }
+  .fc-dropdown-item.fc-selected { background: #f0fdf4; }
+
+  /* Ikon indstillinger */
+  .fc-item-icon {
+    font-size: 38px;
+    line-height: 1;
+    user-select: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .fc-item-text {
+    display: flex;
+    flex-direction: column;
+    padding-right: 12px;
+  }
+
+  .fc-item-title {
+    font-size: 13px;
+    font-weight: 800;
+    color: #1e293b;
+    line-height: 1.2;
+  }
+
+  .fc-item-sub {
+    font-size: 11px;
+    color: #64748b;
+    margin-top: 2px;
+  }
+
+  .fc-label {
+    display: block; 
+    font-weight: 700; 
+    margin-bottom: 4px; 
+    font-size: 9px; 
+    text-transform: uppercase; 
+    color: #64748b;
+  }
+
+  /* Mobil-tilpasning */
+  @media (max-width: 750px) {
+    .fc-inputs-row-top { grid-template-columns: 1fr; gap: 8px; }
+    .fc-bottom-split { grid-template-columns: 1fr; gap: 12px; }
+  }
+</style>
+
+<!-- Forbrugsomregner Container -->
+<div class="fc-calculator-container" data-default-eksempel="{{ include.eksempel | default: 'manuel' }}" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 16px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 25px auto; max-width: 750px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+
+  <!-- Ultrakompakt Header -->
+  <div style="margin-bottom: 12px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">⏳ Hvad koster det i *tid*?</h3>
+    <span style="font-size: 11px; color: #64748b; font-weight: 500;">Oversæt udgifter til timer og minutter af dit liv</span>
+  </div>
+
+  <!-- RÆKKE 1: Alle indstillinger samlet på en linje i toppen -->
+  <div class="fc-inputs-row-top">
+    <div>
+      <label class="fc-label">Din reelle timeløn</label>
+      <div style="position: relative; display: flex; align-items: center;">
+        <input type="text" inputmode="decimal" value="{{ include.hourly_wage | default: '144' }}" class="fc-input-clean js-fc-wage" style="width: 100%; padding: 6px 34px 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 34px; box-sizing: border-box;">
+        <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #94a3b8; pointer-events: none;">kr/t</span>
+      </div>
+    </div>
+
+    <div>
+      <label class="fc-label">Varens pris</label>
+      <div style="position: relative; display: flex; align-items: center;">
+        <input type="text" inputmode="decimal" placeholder="F.eks. 500" class="fc-input-clean js-fc-price" style="width: 100%; padding: 6px 30px 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 14px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 34px; box-sizing: border-box;">
+        <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #94a3b8; pointer-events: none;">kr.</span>
+      </div>
+    </div>
+
+    <div>
+      <label class="fc-label">Type udgift</label>
+      <select class="js-fc-type" style="width: 100%; padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; font-weight: 700; color: #0f172a; background: #fff; outline: none; cursor: pointer; height: 34px; box-sizing: border-box;">
+        <option value="" disabled selected hidden>Vælg type...</option>
+        <option value="engang">Engangskøb</option>
+        <option value="maaned">Pr. måned</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- RÆKKE 2: Dropdown og Resultatboks integreret side om side -->
+  <div class="fc-bottom-split">
+    
+    <!-- Venstre: Dropdown Vælger -->
+    <div class="fc-dropdown-wrapper js-fc-dropdown">
+      <div class="fc-dropdown-trigger js-fc-trigger">
+        <span class="fc-item-icon js-current-icon">💡</span>
+        <div class="fc-item-text">
+          <span class="fc-item-title js-current-title">Prøv et eksempel</span>
+          <span class="fc-item-sub js-current-sub">Klik her for at vælge</span>
+        </div>
+      </div>
+      
+      <div class="fc-dropdown-menu">
+        <div class="fc-dropdown-item js-fc-item fc-selected" data-id="manuel" data-price="" data-type="" data-icon="💡" data-title="Prøv et eksempel" data-sub="Klik her for at vælge eller tast selv">
+          <span class="fc-item-icon" style="font-size: 24px;">💡</span>
+          <div class="fc-item-text">
+            <span class="fc-item-title">Tast selv / Nulstil</span>
+            <span class="fc-item-sub">Start med tomme felter</span>
+          </div>
+        </div>
+
+        <div class="fc-dropdown-item js-fc-item" data-id="kaffe" data-price="40" data-type="engang" data-icon="☕" data-title="Kaffe to-go" data-sub="40 kr. · Engang">
+          <span class="fc-item-icon" style="font-size: 24px;">☕</span>
+          <div class="fc-item-text">
+            <span class="fc-item-title">Kaffe to-go</span>
+            <span class="fc-item-sub">40 kr. · Engangskøb</span>
+          </div>
+        </div>
+        
+        <div class="fc-dropdown-item js-fc-item" data-id="streaming" data-price="119" data-type="maaned" data-icon="📺" data-title="Streaming" data-sub="119 kr. · Månedlig">
+          <span class="fc-item-icon" style="font-size: 24px;">📺</span>
+          <div class="fc-item-text">
+            <span class="fc-item-title">Streaming-abonnement</span>
+            <span class="fc-item-sub">119 kr. · Pr. måned</span>
+          </div>
+        </div>
+
+        <div class="fc-dropdown-item js-fc-item" data-id="bil" data-price="2500" data-type="maaned" data-icon="🚗" data-title="Leasingbil" data-sub="2.500 kr. · Månedlig">
+          <span class="fc-item-icon" style="font-size: 24px;">🚗</span>
+          <div class="fc-item-text">
+            <span class="fc-item-title">Leasingbil (inkl. alt)</span>
+            <span class="fc-item-sub">2.500 kr. · Pr. måned</span>
+          </div>
+        </div>
+
+        <div class="fc-dropdown-item js-fc-item" data-id="iphone" data-price="8000" data-type="engang" data-icon="📱" data-title="Ny iPhone" data-sub="8.000 kr. · Engang">
+          <span class="fc-item-icon" style="font-size: 24px;">📱</span>
+          <div class="fc-item-text">
+            <span class="fc-item-title">Ny smartphone / iPhone</span>
+            <span class="fc-item-sub">8.000 kr. · Engangskøb</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Højre: Den integrerede grønne Resultatboks -->
+    <div style="background-color: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 12px 16px; display: flex; flex-direction: column; justify-content: center; text-align: center; box-sizing: border-box;">
+      <div class="js-fc-top-title" style="font-size: 10px; font-weight: 800; color: #166534; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 2px;">Du skal arbejde i:</div>
+      
+      <div class="js-fc-result-time" style="font-size: 26px; font-weight: 900; color: #15803d; line-height: 1.1;">
+        -
+      </div>
+      
+      <div class="js-fc-result-subtext" style="font-size: 11px; font-weight: 500; color: #166534; opacity: 0.9; margin-top: 2px;">
+        Vælg et eksempel til venstre eller tast tal i toppen for at beregne tid.
+      </div>
+
+      <div class="js-fc-monthly-warning" style="display: none; margin-top: 6px; padding-top: 6px; border-top: 1px solid #bbf7d0; font-size: 11px; color: #166534;">
+        Det svarer til <span class="js-fc-monthly-pct" style="font-weight: 800;">0%</span> af dit månedlige arbejde (160 t).
+      </div>
+    </div>
+
+  </div> <!-- End Bottom Split -->
+
+</div>
+
+<!-- Multi-instance Logik Engine -->
+<script>
+(function() {
+  function parseNum(val) {
+    if (!val) return 0;
+    let s = val.toString().trim();
+    s = s.replace(/\./g, '').replace(/,/g, '.');
+    return parseFloat(s) || 0;
+  }
+
+  const calculators = document.querySelectorAll('.fc-calculator-container');
+
+  calculators.forEach(function(container) {
+    const defaultEksempel = container.getAttribute('data-default-eksempel') || 'manuel';
+
+    const inWage = container.querySelector('.js-fc-wage');
+    const inPrice = container.querySelector('.js-fc-price');
+    const selType = container.querySelector('.js-fc-type');
+    
+    const outTopTitle = container.querySelector('.js-fc-top-title');
+    const outTime = container.querySelector('.js-fc-result-time');
+    const outSubtext = container.querySelector('.js-fc-result-subtext');
+    const outWarning = container.querySelector('.js-fc-monthly-warning');
+    const outPct = container.querySelector('.js-fc-monthly-pct');
+    
+    const dropdownWrapper = container.querySelector('.js-fc-dropdown');
+    const dropdownTrigger = container.querySelector('.js-fc-trigger');
+    const dropdownItems = container.querySelectorAll('.js-fc-item');
+    
+    const curIcon = container.querySelector('.js-current-icon');
+    const curTitle = container.querySelector('.js-current-title');
+    const curSub = container.querySelector('.js-current-sub');
+
+    function calculateTime() {
+      const wage = parseNum(inWage.value) || 1; 
+      const price = parseNum(inPrice.value);
+      const type = selType.value;
+
+      if (!price || !type) {
+        outTopTitle.style.display = 'none';
+        outTime.innerText = "💡 Prøv selv";
+        outSubtext.innerText = "Vælg et eksempel til venstre eller tast dine egne tal ovenfor for at se prisen i arbejdstid.";
+        outWarning.style.display = 'none';
+        return;
+      }
+
+      outTopTitle.style.display = 'block';
+      const totalHoursDecimal = price / wage;
+      const fullHours = Math.floor(totalHoursDecimal);
+      const minutes = Math.round((totalHoursDecimal - fullHours) * 60);
+
+      let displayHours = fullHours;
+      let displayMinutes = minutes;
+      if (displayMinutes === 60) {
+        displayHours += 1;
+        displayMinutes = 0;
+      }
+
+      let timeString = "";
+      if (displayHours > 0) {
+        timeString += displayHours + (displayHours === 1 ? " time" : " timer");
+      }
+      if (displayHours > 0 && displayMinutes > 0) {
+        timeString += " og ";
+      }
+      if (displayMinutes > 0 || displayHours === 0) {
+        timeString += displayMinutes + " min.";
+      }
+
+      outTime.innerText = timeString;
+
+      if (type === 'engang') {
+        outSubtext.innerText = "arbejde for at dække dette engangskøb.";
+        outWarning.style.display = 'none';
+      } else {
+        outSubtext.innerText = "hver måned for at dække denne faste udgift.";
+        const pct = (totalHoursDecimal / 160) * 100;
+        outPct.innerText = pct.toFixed(1).replace('.', ',') + '%';
+        outWarning.style.display = 'block';
+      }
+    }
+
+    function selectItem(itemEl) {
+      dropdownItems.forEach(i => i.classList.remove('fc-selected'));
+      itemEl.classList.add('fc-selected');
+
+      curIcon.innerText = itemEl.getAttribute('data-icon');
+      curTitle.innerText = itemEl.getAttribute('data-title');
+      curSub.innerText = itemEl.getAttribute('data-sub');
+
+      inPrice.value = itemEl.getAttribute('data-price');
+      selType.value = itemEl.getAttribute('data-type');
+      
+      calculateTime();
+    }
+
+    dropdownTrigger.addEventListener('click', function(e) {
+      e.stopPropagation();
+      document.querySelectorAll('.js-fc-dropdown').forEach(d => {
+        if(d !== dropdownWrapper) d.classList.remove('fc-open');
+      });
+      dropdownWrapper.classList.toggle('fc-open');
+    });
+
+    dropdownItems.forEach(item => {
+      item.addEventListener('click', function() {
+        selectItem(this);
+        dropdownWrapper.classList.remove('fc-open');
+      });
+    });
+
+    document.addEventListener('click', function() {
+      dropdownWrapper.classList.remove('fc-open');
+    });
+
+    [inWage, inPrice, selType].forEach(el => {
+      el.addEventListener('input', function() {
+        if(this === inPrice || this === selType) {
+          dropdownItems.forEach(i => i.classList.remove('fc-selected'));
+          curIcon.innerText = "✏️";
+          curTitle.innerText = "Eget eksempel";
+          curSub.innerText = "Justeret manuelt af dig";
+        }
+        calculateTime();
+      });
+    });
+
+    let initialItem = container.querySelector(`.js-fc-item[data-id="${defaultEksempel}"]`);
+    if (!initialItem) initialItem = dropdownItems[0];
+    if (initialItem) selectItem(initialItem);
+  });
+})();
+</script>

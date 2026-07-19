@@ -71,6 +71,8 @@ Med en tidshorisont på minimum 15-20 år før udbetaling har jeg valgt at gå *
 | **Velliv Globale Aktier Index** (State Street) | MSCI World (Large + Mid Cap, udviklede lande) | **88%** | 0,27% | UL0000000039 |
 | **Velliv Emerging Markets Index Aktier** | MSCI Emerging Markets | **12%** | 0,43% | UL000IDX004N |
 
+{% include investeringskort.html fonde="UL0000000039:88, UL000IDX004N:12" %}
+
 * **Hvorfor to fonde?** Den rene globale fond dækker kun udviklede lande. Ved at tilføje en emerging markets-fond kommer jeg tættere på et reelt verdensmarkedsindeks (ACWI) i stedet for kun den vestlige del af det.
 * **Hvorfor 88/12?** Det svarer nogenlunde til emerging markets' andel af det globale aktiemarked (ca. 11-12 %). Jeg vægter altså efter markedsværdi frem for at gætte et rundt tal.
 * **Hvorfor ikke small cap?** Velliv har ingen selvstændig small cap-fond, jeg kan vælge i LinkPension — den findes kun bundet inde i deres faste livscyklusprodukter, hvor jeg ikke kan styre vægtene selv. Jeg fravælger den bevidst for at bevare kontrol og lave omkostninger, og accepterer at jeg dermed rammer ca. 96-97 % af et fuldt ACWI IMI-indeks.

@@ -1,0 +1,391 @@
+<!-- CSS-styring til den kompakte FIRE-reduktionsberegner -->
+<style>
+  .bflite-clean-input::-webkit-outer-spin-button,
+  .bflite-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .bflite-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .bflite-container {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 20px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%; 
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  /* Topbar styling */
+  .bflite-header-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 14px;
+    gap: 16px;
+  }
+
+  .bflite-title-area {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .bflite-big-icon {
+    font-size: 36px;
+    line-height: 1;
+    user-select: none;
+  }
+
+  .bflite-headline-text h3 {
+    margin: 0 0 4px 0;
+    font-size: 16px;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.02em;
+  }
+
+  .bflite-headline-text p {
+    margin: 0;
+    font-size: 12px;
+    color: #64748b;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  .bflite-inputs-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 14px;
+  }
+
+  .bflite-field-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bflite-field-group label {
+    font-weight: 700;
+    margin-bottom: 4px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #475569;
+    letter-spacing: 0.04em;
+  }
+
+  .bflite-field-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .bflite-field-box input {
+    width: 100% !important;
+    padding: 4px 34px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 34px;
+  }
+
+  .bflite-field-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* CSS Tooltip system til hjælpetekst */
+  .bflite-tooltip-wrapper {
+    position: relative;
+    display: inline-block;
+    cursor: help;
+  }
+
+  .bflite-info-trigger {
+    font-weight: bold;
+    color: #3b82f6;
+    background: #eff6ff;
+    padding: 0px 4px;
+    border-radius: 4px;
+    font-size: 10px;
+    margin-left: 2px;
+    display: inline-block;
+  }
+
+  .bflite-tooltip-box {
+    position: absolute;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #1e293b;
+    color: #ffffff;
+    text-transform: none;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 11px;
+    line-height: 1.4;
+    width: 200px;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+    z-index: 99;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s, visibility 0.2s;
+    pointer-events: none;
+  }
+
+  .bflite-tooltip-box::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #1e293b transparent transparent transparent;
+  }
+
+  .bflite-tooltip-wrapper:hover .bflite-tooltip-box {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* Mellemregnings-linjer */
+  .bflite-calc-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    font-size: 12.5px;
+    color: #475569;
+  }
+
+  .bflite-tiles-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .bflite-tile {
+    background-color: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+  }
+
+  .bflite-tile-title {
+    font-size: 10px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    letter-spacing: 0.02em;
+  }
+
+  .bflite-tile-value {
+    font-size: 16px;
+    font-weight: 800;
+    color: #0f172a;
+  }
+
+  .bflite-tile-sub {
+    font-size: 11px;
+    color: #64748b;
+    margin-top: 2px;
+  }
+
+  /* Resultatkort i bunden */
+  .bflite-result-card {
+    background-color: #f0fdf4; 
+    border: 1px solid #bbf7d0; 
+    border-radius: 8px; 
+    padding: 16px; 
+    text-align: center; 
+    position: relative;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+  }
+
+  .bflite-top-right-icon {
+    position: absolute;
+    top: 10px;
+    right: 14px;
+    font-size: 32px;
+    line-height: 1;
+    user-select: none;
+  }
+
+  @media (max-width: 600px) {
+    .bflite-inputs-row { grid-template-columns: 1fr; gap: 10px; }
+    .bflite-tiles-grid { grid-template-columns: 1fr; }
+    .bflite-header-box { flex-direction: column; align-items: flex-start; gap: 8px; }
+  }
+</style>
+
+<div markdown="0" class="bflite-container">
+  
+  <!-- TOPBAR -->
+  <div class="bflite-header-box">
+    <div class="bflite-title-area">
+      <span class="bflite-big-icon">⚖️</span>
+      <div class="bflite-headline-text">
+        <h3>Formueeffekt ved deltidsindtægt</h3>
+        <p>Se hvor dramatisk dit behov for investeret formue falder, hvis du supplerer med en lille indtægt.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- INPUTS -->
+  <div class="bflite-inputs-row">
+    <div class="bflite-field-group">
+      <label>Månedligt forbrug</label>
+      <div class="bflite-field-box">
+        <input type="number" value="{{ include.forbrug | default: 14000 }}" step="500" class="bflite-clean-input js-bf-forbrug">
+        <span>kr.</span>
+      </div>
+    </div>
+    
+    <div class="bflite-field-group">
+      <label>
+        Sideindtægt (efter skat)
+        <div class="bflite-tooltip-wrapper">
+          <span class="bflite-info-trigger">i</span>
+          <div class="bflite-tooltip-box">Indtast den reelle udbetalte løn per måned fra din sideforretning eller dit deltidsjob.</div>
+        </div>
+      </label>
+      <div class="bflite-field-box">
+        <input type="number" value="{{ include.indtaegt | default: 4000 }}" step="500" class="bflite-clean-input js-bf-indtaegt">
+        <span>kr.</span>
+      </div>
+    </div>
+
+    <div class="bflite-field-group">
+      <label>Sikker hæverate (SWR)</label>
+      <div class="bflite-field-box">
+        <input type="number" value="{{ include.swr | default: 4.0 }}" step="0.1" class="bflite-clean-input js-bf-swr">
+        <span>%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- NY SEKTION: MELLEMREGNINGEN -->
+  <div style="background-color: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 12px 14px; margin-bottom: 14px; box-sizing: border-box;">
+    <div style="font-size: 9px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px;">Mellemregning (Årligt budgetbehov)</div>
+    
+    <div class="bflite-calc-row">
+      <span>Samlet årligt forbrugsbehov:</span>
+      <strong class="js-bf-aar-forbrug" style="color: #0f172a;">0 kr.</strong>
+    </div>
+    
+    <div class="bflite-calc-row">
+      <span>Dækket af din sideindtægt:</span>
+      <strong class="js-bf-aar-indtaegt" style="color: #475569;">- 0 kr.</strong>
+    </div>
+    
+    <div class="bflite-calc-row" style="border-top: 1px solid #e2e8f0; margin-top: 6px; padding-top: 6px; font-weight: 700; color: #2563eb; margin-bottom: 0;">
+      <span>= Resterende behov fra investeringer:</span>
+      <strong class="js-bf-aar-behov">0 kr.</strong>
+    </div>
+  </div>
+
+  <!-- FLISER MED SAMMENLIGNING -->
+  <div class="bflite-tiles-grid">
+    <div class="bflite-tile" style="border-top: 3px solid #64748b;">
+      <div class="bflite-tile-title">Fuld FIRE formue (Uden job)</div>
+      <div class="js-bf-target-pure bflite-tile-value">0 kr.</div>
+      <div class="bflite-tile-sub">Hvis porteføljen skal klare alt</div>
+    </div>
+    
+    <div class="bflite-tile" style="border-top: 3px solid #2563eb;">
+      <div class="bflite-tile-title">Nyt formuebehov (Med job)</div>
+      <div class="js-bf-target-reduced bflite-tile-value">0 kr.</div>
+      <div class="bflite-tile-sub">Kravet til din opsparing falder</div>
+    </div>
+  </div>
+
+  <!-- RESULTATKORT I BUNDEN -->
+  <div class="bflite-result-card">
+    <div class="bflite-top-right-icon">💰</div>
+    <div style="font-size: 10px; font-weight: 800; color: #166534; text-transform: uppercase; letter-spacing: 0.05em; padding-right: 40px;">Du skærer af dit formuemål:</div>
+    <div class="js-bf-saving-total" style="font-size: 22px; font-weight: 900; color: #15803d; margin: 2px 0; padding-right: 40px;">0 kr.</div>
+    <div class="js-bf-saving-explain" style="font-size: 12px; font-weight: 500; color: #166534; opacity: 0.9; padding-right: 40px;">
+      Hver månedlig 1.000 kr. tjent efter skat reducerer dit formuebehov med 300.000 kr.
+    </div>
+  </div>
+
+</div>
+
+<!-- Multi-instans-sikker motor -->
+<script>
+(function() {
+  const widget = document.currentScript.previousElementSibling;
+  if (!widget || !widget.classList.contains('bflite-container')) return;
+
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  function calculate() {
+    const forbrugMnd = parseFloat(widget.querySelector('.js-bf-forbrug').value) || 0;
+    const indtaegtMnd = parseFloat(widget.querySelector('.js-bf-indtaegt').value) || 0;
+    const swr = (parseFloat(widget.querySelector('.js-bf-swr').value) || 4.0) / 100;
+
+    // Årlige mellemregninger
+    const aarligtForbrug = forbrugMnd * 12;
+    const aarligIndtaegt = indtaegtMnd * 12;
+    const aarligtRestbehov = Math.max(0, aarligtForbrug - aarligIndtaegt);
+
+    // Beregn formuemål ud fra SWR
+    const maalUdenJob = swr > 0 ? (aarligtForbrug / swr) : 0;
+    const maalMedJob = swr > 0 ? (aarligtRestbehov / swr) : 0;
+    
+    const renBesparelse = maalUdenJob - maalMedJob;
+    const faktor = swr > 0 ? (1000 * 12 / swr) : 0;
+
+    // Render Mellemregninger
+    widget.querySelector('.js-bf-aar-forbrug').innerText = formatDkr(aarligtForbrug);
+    widget.querySelector('.js-bf-aar-indtaegt').innerText = "- " + formatDkr(aarligIndtaegt);
+    widget.querySelector('.js-bf-aar-behov').innerText = formatDkr(aarligtRestbehov);
+
+    // Render Hovedtal
+    widget.querySelector('.js-bf-target-pure').innerText = formatDkr(maalUdenJob);
+    widget.querySelector('.js-bf-target-reduced').innerText = formatDkr(maalMedJob);
+    widget.querySelector('.js-bf-saving-total').innerText = formatDkr(renBesparelse);
+    
+    // Dynamisk forklaringstekst
+    const explainBox = widget.querySelector('.js-bf-saving-explain');
+    if (indtaegtMnd >= forbrugMnd) {
+      explainBox.innerHTML = "Deltidsjobbet dækker <strong>100%</strong> af dit forbrug. Du er i mål med det samme uden formuekrav!";
+    } else {
+      explainBox.innerHTML = "Ved en hæverate på " + (swr * 100).toFixed(1).replace('.', ',') + "% fjerner hver 1.000 kr. du tjener efter skat hele <strong>" + formatDkr(faktor) + "</strong> fra dit formuemål.";
+    }
+  }
+
+  widget.querySelectorAll('input').forEach(function(input) {
+    input.addEventListener('input', calculate);
+  });
+
+  calculate();
+})();
+</script>

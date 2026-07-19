@@ -1,301 +1,464 @@
-<!-- Styling til at fjerne standard input-pile og styre responsivt layout -->
+<!-- Styling til at fjerne standard input-pile og styre layout -->
 <style>
-  .rtl-input-clean::-webkit-outer-spin-button,
-  .rtl-input-clean::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0;
-  }
-  .rtl-input-clean[type=number] {
-    -moz-appearance: textfield;
-  }
-  
-  /* Responsivt grid til input-blokkene */
-  .rtl-settings-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
-    margin-bottom: 20px;
+  .rtl-settings-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 16px;
   }
 
   .rtl-box {
-    background-color: #f1f5f9;
+    background-color: #f8fafc;
     border: 1px solid #cbd5e1;
     border-radius: 8px;
-    padding: 14px;
+    padding: 12px 14px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
   }
 
-  /* Responsivt grid til dashboard-kortene */
+  .rtl-box-header {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    margin-bottom: 2px;
+  }
+
+  .rtl-input-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  .rtl-label {
+    display: block; 
+    font-weight: 700; 
+    margin-bottom: 4px; 
+    font-size: 9px; 
+    text-transform: uppercase; 
+    color: #475569;
+  }
+
+  .rtl-input-wrapper {
+    position: relative; 
+    display: flex; 
+    align-items: center;
+  }
+
+  .rtl-input {
+    width: 100% !important; 
+    padding: 6px 26px 6px 8px; 
+    border: 1px solid #cbd5e1; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    font-size: 13px; 
+    font-weight: 700; 
+    color: #0f172a; 
+    background: #fff; 
+    outline: none; 
+    height: 32px;
+  }
+
+  .rtl-unit {
+    position: absolute; 
+    right: 8px; 
+    font-size: 11px; 
+    font-weight: 700; 
+    color: #64748b; 
+    pointer-events: none;
+  }
+
+  .rtl-period-select {
+    padding: 2px 6px; 
+    font-size: 10px; 
+    font-weight: 700; 
+    color: #334155; 
+    border: 1px solid #cbd5e1; 
+    border-radius: 4px; 
+    background: #fff; 
+    cursor: pointer; 
+    outline: none;
+  }
+
   .rtl-cards-grid-3 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
+    margin-bottom: 12px;
   }
+
   .rtl-cards-grid-bottom {
     display: grid;
-    grid-template-columns: 1.2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 12px;
   }
 
-  /* Mobil-tilpasninger (Breakpoints) */
-  @media (max-width: 800px) {
-    .rtl-settings-grid {
-      grid-template-columns: 1fr;
-    }
-    .rtl-cards-grid-3 {
-      grid-template-columns: 1fr;
-    }
-    .rtl-cards-grid-bottom {
-      grid-template-columns: 1fr;
-    }
+  .rtl-math-breakdown {
+    font-size: 10px;
+    margin-top: 8px;
+    background: #f8fafc;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .rtl-math-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .rtl-math-label {
+    color: #64748b;
+  }
+  
+  .rtl-math-value {
+    color: #334155;
+    font-weight: 700;
+  }
+
+  /* Mobil-tilpasninger */
+  @media (max-width: 700px) {
+    .rtl-input-row { grid-template-columns: 1fr; gap: 8px; }
+    .rtl-cards-grid-3 { grid-template-columns: 1fr; }
+    .rtl-cards-grid-bottom { grid-template-columns: 1fr; }
   }
 </style>
 
-<!-- Reel Timelønberegner Dashboard Starts Here -->
-<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 900px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.025);">
+<!-- Reel Timelønberegner Dashboard (Omsluttet af unik container-klasse) -->
+<div class="rtl-calculator-container" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b; margin: 30px auto; max-width: 900px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
   
   <!-- Header -->
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
-    <h3 style="margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em;">Reel Timelønberegner</h3>
-    <span style="font-size: 11px; color: #94a3b8; font-weight: 500; letter-spacing: 0.02em;">Find din sande timeløn efter "skjulte" omkostninger</span>
+  <div style="margin-bottom: 16px; border-bottom: 1px solid #e2e8f0; padding-bottom: 12px; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 10px;">
+    <div>
+      <h3 style="margin: 0 0 4px 0; font-size: 18px; font-weight: 800; color: #0f172a;">⚖️ Reel Timelønberegner</h3>
+      <span style="font-size: 11px; color: #64748b; font-weight: 500;">Find din sande timeløn efter udgifter og skjult tidsforbrug</span>
+    </div>
   </div>
 
-  <!-- Tre-delt input system -->
-  <div class="rtl-settings-grid">
+  <div class="rtl-settings-stack">
     
-    <!-- Sektion 1: Kontrakt & Løn -->
-    <div class="rtl-box" style="border-top: 4px solid #3b82f6;">
-      <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #1e3a8a; text-transform: uppercase; letter-spacing: 0.05em;">1. Løn & Kontrakt</h4>
-      
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Månedsløn (Brutto)</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlWage" value="{{ include.wage | default: 40000 }}" step="1000" class="rtl-input-clean" style="width: 100% !important; padding: 6px 30px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
-        </div>
+    <!-- 1. Løn & Kontrakt -->
+    <div class="rtl-box" style="border-left: 3px solid #3b82f6;">
+      <div class="rtl-box-header">
+        <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #1e3a8a; text-transform: uppercase;">💼 1. Løn & Kontrakt <span style="text-transform: none;">(Pr. måned)</span></h4>
       </div>
-
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Arbejdsgiver pension</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlPension" value="{{ include.pension | default: 10 }}" step="1" class="rtl-input-clean" style="width: 100% !important; padding: 6px 22px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; text-align: center; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">%</span>
+      <div class="rtl-input-row">
+        <div>
+          <label class="rtl-label">💰 Løn efter skat (Netto)</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.wage | default: '25000' }}" class="rtl-input js-rtl-wage">
+            <span class="rtl-unit">kr.</span>
+          </div>
         </div>
-      </div>
-
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Kontrakt timer/md.</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlHours" value="{{ include.hours | default: 160 }}" step="5" class="rtl-input-clean" style="width: 100% !important; padding: 6px 26px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; text-align: right; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">t.</span>
+        <div>
+          <label class="rtl-label">🏦 Pension (Arbejdsgiver)</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.pension | default: '10' }}" class="rtl-input js-rtl-pension">
+            <span class="rtl-unit">%</span>
+          </div>
         </div>
-      </div>
-    </div>
-
-    <!-- Sektion 2: Månedlige Udgifter -->
-    <div class="rtl-box" style="border-top: 4px solid #ef4444;">
-      <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #991b1b; text-transform: uppercase; letter-spacing: 0.05em;">2. Udgifter pr. måned</h4>
-      
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Transport / Pendling</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlExpTransport" value="{{ include.exp_transport | default: 1500 }}" step="100" class="rtl-input-clean" style="width: 100% !important; padding: 6px 30px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
-        </div>
-      </div>
-
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Arbejdstøj & pleje</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlExpClothes" value="{{ include.exp_clothes | default: 200 }}" step="50" class="rtl-input-clean" style="width: 100% !important; padding: 6px 30px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
-        </div>
-      </div>
-
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Andet (f.eks. frokost/kaffe)</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlExpOther" value="{{ include.exp_other | default: 300 }}" step="50" class="rtl-input-clean" style="width: 100% !important; padding: 6px 30px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">kr.</span>
+        <div>
+          <label class="rtl-label">⏱️ Kontrakt timer / md.</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.hours | default: '160' }}" class="rtl-input js-rtl-hours">
+            <span class="rtl-unit">t.</span>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- Sektion 3: Ekstra Tidsforbrug -->
-    <div class="rtl-box" style="border-top: 4px solid #eab308;">
-      <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #854d0e; text-transform: uppercase; letter-spacing: 0.05em;">3. Ekstra tid pr. måned</h4>
-      
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Rejsetid / Pendling</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlTimeTransport" value="{{ include.time_transport | default: 25 }}" step="1" class="rtl-input-clean" style="width: 100% !important; padding: 6px 26px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; text-align: right; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">t.</span>
+    <!-- 2. Udgifter -->
+    <div class="rtl-box" style="border-left: 3px solid #ef4444;">
+      <div class="rtl-box-header">
+        <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #991b1b; text-transform: uppercase;">💸 2. Udgifter <span class="js-label-exp-title" style="text-transform: none;">(Pr. måned)</span></h4>
+        <select class="rtl-period-select js-rtl-exp-period">
+          <option value="dag" {% if include.exp_period == 'dag' %}selected{% endif %}>Pr. dag</option>
+          <option value="uge" {% if include.exp_period == 'uge' %}selected{% endif %}>Pr. uge</option>
+          <option value="maaned" {% if include.exp_period == 'maaned' or include.exp_period == nil %}selected{% endif %}>Pr. måned</option>
+        </select>
+      </div>
+      <div class="rtl-input-row">
+        <div>
+          <label class="rtl-label">🚗 Transport / Pendling</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.exp_transport | default: '0' }}" class="rtl-input js-rtl-exp-transport">
+            <span class="rtl-unit">kr.</span>
+          </div>
+        </div>
+        <div>
+          <label class="rtl-label">👕 Arbejdstøj & pleje</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.exp_clothes | default: '0' }}" class="rtl-input js-rtl-exp-clothes">
+            <span class="rtl-unit">kr.</span>
+          </div>
+        </div>
+        <div>
+          <label class="rtl-label">☕ Andet (frokost/kaffe)</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.exp_other | default: '0' }}" class="rtl-input js-rtl-exp-other">
+            <span class="rtl-unit">kr.</span>
+          </div>
         </div>
       </div>
+    </div>
 
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Afkobling efter job (stress-af)</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlTimeRelax" value="{{ include.time_relax | default: 10 }}" step="1" class="rtl-input-clean" style="width: 100% !important; padding: 6px 26px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; text-align: right; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">t.</span>
-        </div>
+    <!-- 3. Ekstra Tid -->
+    <div class="rtl-box" style="border-left: 3px solid #eab308;">
+      <div class="rtl-box-header">
+        <h4 style="margin: 0; font-size: 11px; font-weight: 800; color: #854d0e; text-transform: uppercase;">⏳ 3. Ekstra tid <span class="js-label-time-title" style="text-transform: none;">(Pr. uge)</span></h4>
+        <select class="rtl-period-select js-rtl-time-period">
+          <option value="dag" {% if include.time_period == 'dag' %}selected{% endif %}>Pr. dag</option>
+          <option value="uge" {% if include.time_period == 'uge' or include.time_period == nil %}selected{% endif %}>Pr. uge</option>
+          <option value="maaned" {% if include.time_period == 'maaned' %}selected{% endif %}>Pr. måned</option>
+        </select>
       </div>
-
-      <div>
-        <label style="display: block; font-weight: 700; margin-bottom: 4px; font-size: 9px; text-transform: uppercase; color: #475569;">Udenoms-arbejde (mail/tænkning)</label>
-        <div style="position: relative; display: flex; align-items: center;">
-          <input type="number" id="rtlTimeOther" value="{{ include.time_other | default: 5 }}" step="1" class="rtl-input-clean" style="width: 100% !important; padding: 6px 26px 6px 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; text-align: right; background: #fff; outline: none; height: 32px;">
-          <span style="position: absolute; right: 8px; font-size: 11px; font-weight: 700; color: #64748b; pointer-events: none;">t.</span>
+      <div class="rtl-input-row">
+        <div>
+          <label class="rtl-label">🚆 Rejsetid / Pendling</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.time_transport | default: '0' }}" class="rtl-input js-rtl-time-transport">
+            <span class="rtl-unit">t.</span>
+          </div>
+        </div>
+        <div>
+          <label class="rtl-label">🧘 Afkobling efter job</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.time_relax | default: '0' }}" class="rtl-input js-rtl-time-relax">
+            <span class="rtl-unit">t.</span>
+          </div>
+        </div>
+        <div>
+          <label class="rtl-label">📧 Udenoms-arbejde (mails)</label>
+          <div class="rtl-input-wrapper">
+            <input type="text" inputmode="decimal" value="{{ include.time_other | default: '0' }}" class="rtl-input js-rtl-time-other">
+            <span class="rtl-unit">t.</span>
+          </div>
         </div>
       </div>
     </div>
 
   </div>
 
-  <!-- Dashboard Cards - Row 1 (3 Columns) -->
-  <div class="rtl-cards-grid-3" style="margin-bottom: 12px;">
+  <!-- Dashboard Resultater -->
+  <div class="rtl-cards-grid-3">
     
     <!-- Nominel timeløn -->
-    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-      <div style="font-size: 10px; font-weight: 700; color: #64748b; text-transform: uppercase;">Standard Timeløn</div>
-      <div id="valStandardHourly" style="font-size: 18px; font-weight: 800; color: #0f172a; margin-top: 6px;">0 kr.</div>
-      <div style="font-size: 9px; color: #94a3b8; margin-top: 4px;">Løn + pension pr. kontrakt-time</div>
+    <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; background: #fff;">
+      <div style="font-size: 10px; font-weight: 800; color: #334155; text-transform: uppercase;">Standard Timeløn</div>
+      <div class="js-val-standard-hourly" style="font-size: 18px; font-weight: 900; color: #0f172a; margin-top: 4px;">0 kr.</div>
+      <div class="rtl-math-breakdown js-breakdown-standard"></div>
     </div>
 
     <!-- Reelt Tidsforbrug -->
-    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-      <div style="font-size: 10px; font-weight: 700; color: #64748b; text-transform: uppercase;">Reelt Tidsforbrug</div>
-      <div id="valRealHours" style="font-size: 18px; font-weight: 800; color: #eab308; margin-top: 6px;">0 timer</div>
-      <div style="font-size: 9px; color: #94a3b8; margin-top: 4px;">Kontrakt-timer + ekstra tid pr. md.</div>
+    <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; background: #fff;">
+      <div style="font-size: 10px; font-weight: 800; color: #334155; text-transform: uppercase;">Reelt Tidsforbrug</div>
+      <div class="js-val-real-hours" style="font-size: 18px; font-weight: 900; color: #eab308; margin-top: 4px;">0 timer</div>
+      <div class="rtl-math-breakdown js-breakdown-hours"></div>
     </div>
 
-    <!-- Månedlig disponibel værdi -->
-    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-      <div style="font-size: 10px; font-weight: 700; color: #64748b; text-transform: uppercase;">Justered månedsløn</div>
-      <div id="valRealMonthlyIncome" style="font-size: 18px; font-weight: 800; color: #0f172a; margin-top: 6px;">0 kr.</div>
-      <div style="font-size: 9px; color: #94a3b8; margin-top: 4px;">Løn + pension minus udgifter</div>
+    <!-- Løn minus udgifter -->
+    <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; background: #fff;">
+      <div style="font-size: 10px; font-weight: 800; color: #334155; text-transform: uppercase;">Løn Minus Udgifter</div>
+      <div class="js-val-real-income" style="font-size: 18px; font-weight: 900; color: #0f172a; margin-top: 4px;">0 kr.</div>
+      <div class="rtl-math-breakdown js-breakdown-income"></div>
     </div>
 
   </div>
 
-  <!-- Dashboard Cards - Row 2 (Bottom Highlights - 2 Columns) -->
   <div class="rtl-cards-grid-bottom">
     
-    <!-- Tabt i procent -->
-    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 18px; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-      <div>
-        <div style="font-size: 11px; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em;">Effektiv værditest</div>
-        <div id="valRtlPercent" style="font-size: 32px; font-weight: 900; color: #b45309; margin-top: 4px; line-height: 1;">0%</div>
-      </div>
-      <!-- Minimalistisk SVG grafik for værditab -->
-      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.4;">
-        <path d="M16 18L18.29 15.71L13.41 10.83L9.41 14.83L2 7.41L3.41 6L9.41 12L13.41 8L19.71 14.29L22 12V18H16Z" fill="#b45309"/>
-      </svg>
+    <!-- Procent Bevaret -->
+    <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; position: relative;">
+      <div style="position: absolute; top: 12px; right: 16px; font-size: 36px; line-height: 1; user-select: none;">📉</div>
+      
+      <div style="font-size: 11px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; padding-right: 40px;">Beholdt Lønværdi <span style="color:#94a3b8; text-transform: none;">(Total)</span></div>
+      <div class="js-val-rtl-percent" style="font-size: 28px; font-weight: 900; color: #b45309; margin-top: 6px; line-height: 1;">0 %</div>
+      <div style="font-size: 10px; color: #94a3b8; margin-top: 6px;">Andel af din timeløn du reelt får for din tid.</div>
     </div>
 
-    <!-- Udbetalt (Netto) -->
-    <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 18px; display: flex; align-items: center; justify-content: space-between; border-left: 5px solid #10b981; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-      <div>
-        <div style="font-size: 11px; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em;">Reel Timeløn</div>
-        <div id="valRealHourly" style="font-size: 32px; font-weight: 900; color: #047857; margin-top: 4px; line-height: 1;">0 kr.</div>
-      </div>
-      <!-- Pengesæk SVG Ikon -->
-      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity: 0.4;">
-        <path d="M12 2C9.79 2 8 3.79 8 6V7H6C4.9 7 4 7.9 4 9V19C4 20.1 4.9 21 6 21H18C19.1 21 20 20.1 20 19V9C20 7.9 19.1 7 18 7H16V6C16 3.79 14.21 2 12 2ZM10 6C10 4.9 10.9 4 12 4C13.1 4 14 4.9 14 6V7H10V6ZM12 11C13.66 11 15 12.34 15 14C15 15.66 13.66 17 12 17C10.34 17 9 15.66 9 14C9 12.34 10.34 11 12 11Z" fill="#047857"/>
-      </svg>
+    <!-- Reel Timeløn -->
+    <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; border-left: 4px solid #10b981; position: relative;">
+      <div style="position: absolute; top: 12px; right: 16px; font-size: 36px; line-height: 1; user-select: none;">💰</div>
+      
+      <div style="font-size: 11px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; padding-right: 40px;">Reel Timeløn <span style="color:#94a3b8; text-transform: none;">(Pr. time)</span></div>
+      <div class="js-val-real-hourly" style="font-size: 28px; font-weight: 900; color: #047857; margin-top: 6px; line-height: 1;">0 kr.</div>
+      <div class="rtl-math-breakdown js-breakdown-final" style="margin-top: 10px;"></div>
     </div>
 
   </div>
-
 </div>
 
-<!-- Calculation Engine Script -->
+<!-- Logik Engine - Opdateret til at håndtere flere beregnere på samme side -->
 <script>
 (function() {
-  const rtlWage = document.getElementById('rtlWage');
-  const rtlPension = document.getElementById('rtlPension');
-  const rtlHours = document.getElementById('rtlHours');
+  // Fælles tekst og formatering
+  const periodText = {
+    'dag': '(Pr. dag)',
+    'uge': '(Pr. uge)',
+    'maaned': '(Pr. måned)'
+  };
 
-  const rtlExpTransport = document.getElementById('rtlExpTransport');
-  const rtlExpClothes = document.getElementById('rtlExpClothes');
-  const rtlExpOther = document.getElementById('rtlExpOther');
-
-  const rtlTimeTransport = document.getElementById('rtlTimeTransport');
-  const rtlTimeRelax = document.getElementById('rtlTimeRelax');
-  const rtlTimeOther = document.getElementById('rtlTimeOther');
-
-  // Outputs
-  const valStandardHourly = document.getElementById('valStandardHourly');
-  const valRealHours = document.getElementById('valRealHours');
-  const valRealMonthlyIncome = document.getElementById('valRealMonthlyIncome');
-  const valRtlPercent = document.getElementById('valRtlPercent');
-  const valRealHourly = document.getElementById('valRealHourly');
+  const unitTime = ' <span style="font-size: 0.6em; color: #94a3b8; font-weight: 700;">/ time</span>';
+  const unitMonth = ' <span style="font-size: 0.6em; color: #94a3b8; font-weight: 700;">/ måned</span>';
 
   function formatDKK(val) {
-    return new Intl.NumberFormat('da-DK', { minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val) + ' kr.';
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 1 }).format(val) + ' kr.';
   }
 
-  function runHourlyCalculation() {
-    // 1. Inputs
-    const wage = parseFloat(rtlWage.value) || 0;
-    const pensionPct = parseFloat(rtlPension.value) || 0;
-    const hours = parseFloat(rtlHours.value) || 1;
+  function formatHours(val) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 1 }).format(val);
+  }
 
-    const expTransport = parseFloat(rtlExpTransport.value) || 0;
-    const expClothes = parseFloat(rtlExpClothes.value) || 0;
-    const expOther = parseFloat(rtlExpOther.value) || 0;
+  function makeRow(label, value) {
+    return `<div class="rtl-math-row">
+              <span class="rtl-math-label">${label}</span>
+              <span class="rtl-math-value">${value}</span>
+            </div>`;
+  }
 
-    const timeTransport = parseFloat(rtlTimeTransport.value) || 0;
-    const timeRelax = parseFloat(rtlTimeRelax.value) || 0;
-    const timeOther = parseFloat(rtlTimeOther.value) || 0;
+  function parseNum(val) {
+    if (!val) return 0;
+    let s = val.toString().trim();
+    let lastComma = s.lastIndexOf(',');
+    let lastDot = s.lastIndexOf('.');
 
-    // 2. Calculations
-    // Samlet månedlig kompensation inklusive pension
-    const totalMonthlyWage = wage * (1 + (pensionPct / 100));
-
-    // Nominel standard timeløn (før udgifter og tidsjustering)
-    const standardHourly = totalMonthlyWage / hours;
-
-    // Reelle månedlige udgifter relateret til arbejdet
-    const totalExpenses = expTransport + expClothes + expOther;
-
-    // Netto månedsløn justeret for udgifter
-    const realMonthlyIncome = totalMonthlyWage - totalExpenses;
-
-    // Reelt tidsforbrug pr. måned
-    const realHours = hours + timeTransport + timeRelax + timeOther;
-
-    // Justeret, reel timeløn pr. reelt arbejdet time
-    const realHourly = realHours > 0 ? (realMonthlyIncome / realHours) : 0;
-
-    // Procentvis bevarelse af timelønnen (eller tab)
-    const rtlPercent = standardHourly > 0 ? ((realHourly / standardHourly) * 100).toFixed(1) : "0,0";
-
-    // 3. UI Updates
-    valStandardHourly.innerText = formatDKK(standardHourly);
-    valRealHours.innerText = realHours + ' timer';
-    valRealMonthlyIncome.innerText = formatDKK(realMonthlyIncome);
+    if (lastComma > -1 && lastDot > -1) {
+      if (lastComma > lastDot) {
+        s = s.replace(/\./g, '').replace(/,/g, '.');
+      } else {
+        s = s.replace(/,/g, '');
+      }
+    } else if (lastComma > -1) {
+      if (s.split(',').length > 2) {
+        s = s.replace(/,/g, '');
+      } else {
+        s = s.replace(/,/g, '.');
+      }
+    } else if (lastDot > -1) {
+      if (s.split('.').length > 2) {
+        s = s.replace(/\./g, '');
+      } else if (/^-?\d+\.\d{3}$/.test(s)) {
+        s = s.replace(/\./g, '');
+      }
+    }
     
-    // Vis tab/bevarelse i procent (f.eks "74,2% af din timeløn er tilbage")
-    valRtlPercent.innerText = rtlPercent.replace('.', ',') + ' %';
-    valRealHourly.innerText = formatDKK(realHourly);
+    s = s.replace(/\s/g, '');
+    return parseFloat(s) || 0;
   }
 
-  // Live recalculation event listeners
-  const inputFields = [
-    rtlWage, rtlPension, rtlHours, 
-    rtlExpTransport, rtlExpClothes, rtlExpOther,
-    rtlTimeTransport, rtlTimeRelax, rtlTimeOther
-  ];
+  function getMultiplier(periodValue) {
+    if (periodValue === 'dag') return 21.6667;
+    if (periodValue === 'uge') return 4.3333;
+    return 1; 
+  }
 
-  inputFields.forEach(field => {
-    field.addEventListener('input', runHourlyCalculation);
+  // Find alle beregnere på siden
+  const calculators = document.querySelectorAll('.rtl-calculator-container');
+
+  calculators.forEach(function(container) {
+    // Inputfelter for DENNE specifikke beregner
+    const inWage = container.querySelector('.js-rtl-wage');
+    const inPension = container.querySelector('.js-rtl-pension');
+    const inHours = container.querySelector('.js-rtl-hours');
+
+    const inExpTransport = container.querySelector('.js-rtl-exp-transport');
+    const inExpClothes = container.querySelector('.js-rtl-exp-clothes');
+    const inExpOther = container.querySelector('.js-rtl-exp-other');
+
+    const inTimeTransport = container.querySelector('.js-rtl-time-transport');
+    const inTimeRelax = container.querySelector('.js-rtl-time-relax');
+    const inTimeOther = container.querySelector('.js-rtl-time-other');
+
+    // Switches & Labels for DENNE specifikke beregner
+    const selExpPeriod = container.querySelector('.js-rtl-exp-period');
+    const selTimePeriod = container.querySelector('.js-rtl-time-period');
+    const lblExpTitle = container.querySelector('.js-label-exp-title');
+    const lblTimeTitle = container.querySelector('.js-label-time-title');
+
+    // Output felter for DENNE specifikke beregner
+    const outStandardHourly = container.querySelector('.js-val-standard-hourly');
+    const outRealHours = container.querySelector('.js-val-real-hours');
+    const outRealIncome = container.querySelector('.js-val-real-income');
+    const outRtlPercent = container.querySelector('.js-val-rtl-percent');
+    const outRealHourly = container.querySelector('.js-val-real-hourly');
+    
+    // Breakdown felter
+    const bdStandard = container.querySelector('.js-breakdown-standard');
+    const bdHours = container.querySelector('.js-breakdown-hours');
+    const bdIncome = container.querySelector('.js-breakdown-income');
+    const bdFinal = container.querySelector('.js-breakdown-final');
+
+    function runCalculation() {
+      lblExpTitle.innerText = periodText[selExpPeriod.value];
+      lblTimeTitle.innerText = periodText[selTimePeriod.value];
+
+      const wage = parseNum(inWage.value);
+      const pensionPct = parseNum(inPension.value);
+      const hours = parseNum(inHours.value) || 1; 
+
+      const expMultiplier = getMultiplier(selExpPeriod.value);
+      const timeMultiplier = getMultiplier(selTimePeriod.value);
+
+      const rawExpenses = parseNum(inExpTransport.value) + parseNum(inExpClothes.value) + parseNum(inExpOther.value);
+      const rawExtraTime = parseNum(inTimeTransport.value) + parseNum(inTimeRelax.value) + parseNum(inTimeOther.value);
+
+      const pensionAmount = wage * (pensionPct / 100);
+      const totalWage = wage + pensionAmount; 
+      const standardHourly = totalWage / hours;
+      
+      const totalMonthlyExpenses = rawExpenses * expMultiplier;
+      const realIncome = totalWage - totalMonthlyExpenses;
+      
+      const totalMonthlyExtraTime = rawExtraTime * timeMultiplier;
+      const realHours = hours + totalMonthlyExtraTime;
+      
+      const realHourly = realHours > 0 ? (realIncome / realHours) : 0;
+      const rtlPercent = standardHourly > 0 ? ((realHourly / standardHourly) * 100).toFixed(1) : "0,0";
+
+      outStandardHourly.innerHTML = formatDKK(standardHourly) + unitTime;
+      outRealHours.innerHTML = formatHours(realHours) + ' timer' + unitMonth;
+      outRealIncome.innerHTML = formatDKK(realIncome) + unitMonth;
+      outRtlPercent.innerHTML = rtlPercent.replace('.', ',') + ' %';
+      outRealHourly.innerHTML = formatDKK(realHourly) + unitTime;
+
+      bdStandard.innerHTML = 
+        makeRow('Netto løn:', formatDKK(wage)) +
+        makeRow(`Pension (${formatHours(pensionPct)}%):`, '+ ' + formatDKK(pensionAmount)) +
+        makeRow('Timer:', '÷ ' + formatHours(hours) + ' t.');
+
+      bdHours.innerHTML = 
+        makeRow('Kontrakt:', formatHours(hours) + ' t.') +
+        makeRow('Ekstra tid:', '+ ' + formatHours(totalMonthlyExtraTime) + ' t.');
+
+      bdIncome.innerHTML = 
+        makeRow('Total løn:', formatDKK(totalWage)) +
+        makeRow('Udgifter:', '- ' + formatDKK(totalMonthlyExpenses));
+
+      bdFinal.innerHTML = 
+        makeRow('Løn m. udgifter:', formatDKK(realIncome)) +
+        makeRow('Reel tid:', '÷ ' + formatHours(realHours) + ' t.');
+    }
+
+    // Tilføj event listeners til DENNE beregners felter
+    const elements = [
+      inWage, inPension, inHours, 
+      inExpTransport, inExpClothes, inExpOther, selExpPeriod,
+      inTimeTransport, inTimeRelax, inTimeOther, selTimePeriod
+    ];
+
+    elements.forEach(el => {
+      if(el) {
+        el.addEventListener('input', runCalculation);
+        el.addEventListener('change', runCalculation);
+      }
+    });
+
+    // Kør beregning første gang for at udfylde tallene
+    runCalculation();
   });
-
-  // Initial calculation
-  runHourlyCalculation();
 })();
 </script>
-<!-- Reel Timelønberegner Dashboard Ends Here -->

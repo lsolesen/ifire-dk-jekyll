@@ -21,15 +21,31 @@ Det er særlig interessant at regne på din **reelle timeløn**, hvis du overvej
 
 Måske er din reelle timeløn lavere end du lige går og regner med, men du kan naturligvis også blive positivt overrasket.
 
+## Reel timeløn beregner
+
+{% include reel-timeloen.html 
+  wage="25000" 
+  pension="12" 
+  hours="160" 
+  exp_period="maaned"
+  exp_transport="0" 
+  exp_clothes="0" 
+  exp_other="0" 
+  time_period="dag"
+  time_transport="0" 
+  time_relax="0" 
+  time_other="0" 
+%}
+
 ## Beregn timeløn ud fra månedsløn
 
 Du kan beregne din timeløn ved at tage din månedsløn og dividere med det antal timer, du arbejder. Et eksempel kan være, at du får 25.000 kroner i løn og 3.000 kroner i pension. Din månedsløn er altså 28.000 kroner i alt.
 
-Du arbejder 37 timer om ugen i 4 uger, hvilket giver 148 arbejdstimer om måneden. Faktisk er der nok i [gennenmsnit 4,33 uger på en måned](https://www.dst.dk/da/Statistik/dokumentation/Times/loenstatistik/mftj), men det ser vi lige bort fra i dette eksempel.
+Du arbejder 37 timer/ugen, hvilket giver cirka 160 timer om måneden, da der i [gennenmsnit er 4,33 uger på en måned](https://www.dst.dk/da/Statistik/dokumentation/Times/loenstatistik/mftj).
 
-Din timeløn er altså din månedsløn delt med dine arbejdstimer. Det giver i dette eksempel ~189 kroner i timen.
+Din timeløn er altså din månedsløn delt med dine arbejdstimer. Det giver i dette eksempel ~175 kroner i timen.
 
-Mange glemmer, at de skal medregne deres pension i deres timeløn for at få et retvisende billede.
+**Mange glemmer, at de skal medregne deres pension i deres timeløn for at få et retvisende billede.**
 
 Jeg har ikke medregnet ferie og feriepenge. Du kan naturligvis også regne den modsatte ved og beregne din månedsløn ud fra din timeløn. Du ganger bare timelønnen med antallet af timer på en måned.
 
@@ -62,37 +78,11 @@ Tid du bruger fordi du har et arbejde:
 
 Hvis du medregner disse ting, så ser regnestykket måske lidt anderledes ud. Jeg har lavet et eksempel her, som tager udgangspunkt i 20 arbejdsdage for en måned.
 
-For at gøre det let, så skal du bare indtaste det udbetalte beløb efter skat. Hvis du ikke helt ved det, så kan du [udregne din løn efter skat]({% link _posts/2021-04-02-hvormegetefterskat.md %})
-
-## Timeløn udregner
-
-{% include calculator-reel-timeloen.html %}
-
-{% include reel-timeloen.html 
-   wage="42000" 
-   pension="12" 
-   hours="160" 
-   exp_transport="1200" 
-   exp_clothes="150" 
-   exp_other="250" 
-   time_transport="20" 
-   time_relax="8" 
-   time_other="3" 
-%}
-
-{% include reel-timeloen-sammenlign.html
-   s1_wage="45000" s1_pension="10" s1_hours="160"
-   s1_exp_transport="2000" s1_exp_clothes="250" s1_exp_other="400"
-   s1_time_transport="35" s1_time_relax="12" s1_time_other="8"
-   
-   s2_wage="38000" s2_pension="12" s2_hours="140"
-   s2_exp_transport="500" s2_exp_clothes="100" s2_exp_other="200"
-   s2_time_transport="10" s2_time_relax="2" s2_time_other="2"
-%}
+For at gøre det let, så skal du bare indtaste det udbetalte beløb efter skat. Hvis du ikke helt ved det, så kan du [udregne din løn efter skat](/udbetalt-loen-efter-skat/)
 
 ## Eksempel på beregning af din reelle timeløn
 
-Inspireret af [Frinans](https://www.frinans.dk/min-nye-reelle-timeloen/) har jeg udregnet min egen _reelle timeløn_[^note]. For hvad vil jeg egentlig sælge min tid for, når det kommer til stykket.
+Inspireret af [Frinans](https://www.frinans.dk/min-nye-reelle-timeloen/) har jeg udregnet min egen _reelle timeløn_. For hvad vil jeg egentlig sælge min tid for, når det kommer til stykket.
 
 Den reelle timeløn udregnes på følgende måde:
 
@@ -101,63 +91,92 @@ Den reelle timeløn udregnes på følgende måde:
 
     Reel timeløn = P/ T
 
-### T
+### T - Arbejdstid + Transport + Afslapning + Relateret tid
 
-Min tid på arbejdet (T) er i snit 37 timer om ugen. Der er i [gennenmsnit 4,33 uger på en måned](https://www.dst.dk/da/Statistik/dokumentation/Times/loenstatistik/mftj). Det giver altså omkring 160 timer/mdr. Jeg har ingen transport (hvilket jeg er rigtig glad for). Jeg oplever at jeg har brug for at slappe af, når jeg kommer hjem, fordi jeg er træt efter arbejdet. Det anslår jeg er 2,5 timer om ugen. Det giver altså cirka 11 timer. Måske bruger jeg 2 timer i gennemsnit om måneden på noget socialt uden for arbejdstiden med arbejdet. Det er dog en tid jeg ikke ville være foruden, så det regner jeg ikke med i arbejdstiden.
+Min tid på arbejdet (T) er i snit 37 timer om ugen. Der er i [gennenmsnit 4,33 uger på en måned](https://www.dst.dk/da/Statistik/dokumentation/Times/loenstatistik/mftj). Det giver altså omkring 160 timer/mdr. Jeg har ingen transport (hvilket jeg er rigtig glad for).
+
+Jeg oplever at jeg har brug for at slappe af, når jeg kommer hjem, fordi jeg er træt efter arbejdet. Det anslår jeg er 0,5 timer om dagen. Det giver altså cirka 11 timer / måneden.
+
+Måske bruger jeg 2 timer i gennemsnit om måneden på noget socialt uden for arbejdstiden med arbejdet. Det er dog en tid jeg ikke ville være foruden, så det regner jeg ikke med i arbejdstiden.
 
 I alt er **T 171 timer**.
 
-### P
+### P = Løn - Skat - Arbejdsudgifter
 
-Min løn efter skat er bestemt af en løntabel ift. mit arbejde. Jeg har omtrent 40.000 om måneden før skat. Jeg bruger [værktøjet hvor meget efter skat]({% link _posts/2021-04-02-hvormegetefterskat.md %}) til at udregne, hvad jeg får udbetalt efter skat.
+Min løn efter skat er bestemt af en løntabel ift. mit arbejde. Jeg har omtrent 40.000 om måneden før skat. Jeg bruger [værktøjet hvor meget efter skat](/udbetalt-loen-efter-skat/) til at udregne, hvad jeg får udbetalt efter skat.
 
-{% include figure image_path="/assets/images/posts/efterskat.png" caption="Beregning af løn efter skat" alt="udregn timeløn efter skat" %}
+{% include loen-beregner.html 
+  lon="40000" %}
 
-Vi runder ned til 25.000 kroner udbetalt efter skat. Herfra trækkes til kost på arbejdspladsen og gavekasse. Jeg bruger lidt penge på at kunne holde mig kørende med idrætstøj til arbejdet, men ville formentlig også have brugt det uanset, så det sætter jeg til 0. 
+Vi runder ned til 26.404 kroner udbetalt efter skat. Herfra trækkes til kost på arbejdspladsen og gavekasse. Det sætter jeg til 350 om måneden. Jeg bruger lidt penge på at kunne holde mig kørende med idrætstøj til arbejdet, men ville formentlig også have brugt det uanset, så det sætter jeg til 0. 
 
-I alt er **P 24.640 kroner**.
+I alt er **P 26.404 kroner** + pension.
 
 ## Udregn den reelle timeløn?
 
-Jeg har brugt [Frinansværktøjerne](https://docs.google.com/spreadsheets/d/1e52XYfEx7kg2JUeLZ2CVfi8rY8FqG2L-pWnosHhvdqI/edit?usp=sharing) til at udregne, hvad min _reelle timeløn_ er.
+Jeg har her udregnet min _reelle timeløn_:.
 
-{% include figure image_path="/assets/images/posts/reeltimeloen.png" caption="Beregning af den reelle timeløn efter skat uden pension og ferie" alt="beregn reel timeløn efter skat" %}
+{% include reel-timeloen.html 
+  wage="26.404" 
+  pension="12" 
+  hours="160" 
+  exp_period="maaned"
+  exp_transport="0" 
+  exp_clothes="0" 
+  exp_other="350" 
+  time_period="dag"
+  time_transport="0" 
+  time_relax="0.5" 
+  time_other="0" 
+%}
 
-Din reelle månedsløn falder altså ganske gevaldigt, hvis du bruger ektra tid eller har omkostninger forbundet med arbejdet.
-
-| Kategori | Beløb |
-|-|-|
-| **Løn (månedligt)**                                       | 25,000.00 |
-| Løn                                                   | 25,000.00 |
-| Andet                                                 | 0.00      |
-|                                                        |           |
-| **Arbejdsrelaterede udgifter (månedligt)**                | 360.00    |
-| Tøj                                                   | 250.00    |
-| Kantine                                               | 0.00      |
-| Bil                                                   | 0.00      |
-| Benzin                                                | 0.00      |
-| Gavekasse                                              | 10.00     |
-| Sociale arrangmenter                                   | 0.00      |
-| Cykel                                                  | 175.00    |
-| Andet                                                 | 100.00    |
-|                                                        |           |
-| **Arbejdstid (månedligt)**                                | 171.00    |
-| Antal arbejdstimer                                    | 160.00    |
-| Transport til og fra arbejde                          | 0.00      |
-| Behov for afslapning efter endt arbejdsdag            | 11.00     |
-| Tid brugt på sociale arrangementer udenfor arbejdstid | 0.00      |
-|                                                        |           |
-| **Reel timeløn**                                          | 144.09    |
+Den reelle månedsløn falder altså ganske gevaldigt, hvis du bruger ektra tid eller har omkostninger forbundet med arbejdet.
 
 Den reelle timeløn bliver altså:
 
-    Reel timeløn = 24.640 / 171 timer = 144 kr/timen
+    Reel timeløn = (24.640 + 3168) kr / 171 t = 171 kr/t
 
 Spørgsmålet er jo så om jeg er tilfreds med den timeløn? Eller hvad jeg kunne forestille sig at bruge tiden på, hvis ikke jeg lejede den ud til min arbejdsplads.
 
-[^note]: Jeg har ikke medregnet pension og ferie i eksemplet, men det er selvfølgelig også en del af lønnen.
-
 Du kan indsætte dine egne tal i beregneren til at udregne din timeløn baseret på din månedsløn.
+
+## Kan et jobskifte betale sig?
+
+Når du udregner din timeløn, så bør du altså udregne din reelle timeløn. Du kan bruge denne beregner som udgangspunkt:
+
+I dette regneeksempel har Job A tilsyneladende en bedre timeløn, men læg mærke til at Job 2 har en bedre pensionsrate. Der er også mere transport til Job A, så alt i alt ender Job B altså med at have den højeste reelle timeløn.
+
+Leg selv med dine egne scenarier.
+
+{% include reel-timeloen-sammenlign.html 
+  s1_wage="28000" 
+  s1_pension="10" 
+  s1_hours="160" 
+  
+  s1_exp_period="maaned"
+  s1_exp_transport="2000" 
+  s1_exp_clothes="200" 
+  s1_exp_other="300" 
+  
+  s1_time_period="uge"
+  s1_time_transport="7" 
+  s1_time_relax="4" 
+  s1_time_other="1" 
+  
+  s2_wage="25000" 
+  s2_pension="14.1" 
+  s2_hours="160" 
+  
+  s2_exp_period="maaned"
+  s2_exp_transport="1000" 
+  s2_exp_clothes="150" 
+  s2_exp_other="500" 
+  
+  s2_time_period="uge"
+  s2_time_transport="3" 
+  s2_time_relax="2" 
+  s2_time_other="0" 
+%}
 
 ## Konklusion
 
@@ -167,12 +186,18 @@ Nu kan du også udregne præcist, hvor meget tid du skal bruge for at få råd t
 
 Det var fx en øjenåbner for mig, hvor meget tid jeg egentlig skulle bruge på at købe kaffe.
 
-Lad os tage et hurtigt **eksempel med kaffe**. Det koster mange steder 40 kroner at købe en kop kaffe. Min reelle timeløn er 144 kroner (uden pension). Jeg skal altså arbejde i 16 minutter på mit job for at få råd til at købe den kop kaffe.
+Lad os tage et hurtigt **eksempel med kaffe**. Det koster mange steder 40 kroner at købe en kop kaffe. Min reelle timeløn er 171 kroner (med pension). Jeg skal altså arbejde i 14 minutter på mit job for at få råd til at købe den kop kaffe.
 
-Et andet **eksempel med bil** er virkelig også tankevækkende. Mange familier ender med at have to biler for, at man kan komme på arbejde. For nemheds skyld leaser vi en bil til 2.500 kroner om måneden (inkl. benzin, forsikring og afgifter). Du skal altså arbejde i ~17,5 timer udelukkende for at kunne betale din bil. Det er ~9% af din månedlige arbejdstid på 160 timer, der går på bare at betale bilen.
+{% include forbrugsomregner.html hourly_wage="171" eksempel="kaffe" %}
+
+Et andet **eksempel med bil** er virkelig også tankevækkende. Mange familier ender med at have to biler for, at man kan komme på arbejde. For nemheds skyld tager vi et eksempel med en leaset bil til 2.500 kroner om måneden (inkl. benzin, forsikring og afgifter).
+
+{% include forbrugsomregner.html hourly_wage="171" eksempel="bil" %}
+
+Du skal altså arbejde i ~14,5 timer udelukkende for at kunne betale din bil. Det er ~9% af din månedlige arbejdstid på 160 timer, der går på bare at betale bilen.
 
 Overvejelserne om timelønnen giver i hvert fald mig inspiration til kun at bruge penge, når det tilføjer værdi til mig liv. Ellers vil jeg hellere [forrente pengene ved at investere dem](/investering/).
 
-I virkelighede er min tid jo min mest dyrebare ressource, og den skal jeg passe på.
+I virkelighed er min tid jo min mest dyrebare ressource, og den skal jeg passe på.
 
 {% include disclaimer.md %}

@@ -1,0 +1,420 @@
+{% assign depot_type = include.depot | downcase | strip %}
+{% assign is_allocation = false %}
+{% assign input_data = include.allocation | default: include.fonde %}
+
+<!-- ========================================== -->
+<!-- 1. KONFIGURATION AF DEPOTDATA              -->
+<!-- ========================================== -->
+{% if depot_type == "ask" %}
+  {% assign theme_class = "dtk-theme-ask" %}
+  {% assign title = "Aktiesparekonto (ASK)" %}
+  {% assign skattesats = "⚖️ 17% (Særskat)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "💰 174.200 kr. (2026)" %}
+  {% assign note = "🔓 Fri hævning" %}
+  {% assign beskrivelse = "For frie midler starter jeg med aktiesparekontoen. Kontoen lagerbeskattes til en lav særskat. Jeg går efter fonde med lave årlige omkostninger." %}
+{% elsif depot_type == "frie_midler" %}
+  {% assign theme_class = "dtk-theme-frie" %}
+  {% assign title = "Frie Midler (Almindeligt Depot)" %}
+  {% assign skattesats = "⚖️ 27% / 42%" %}
+  {% assign princip = "Realisation" %}
+  {% assign loft = "💰 Intet loft" %}
+  {% assign note = "🔓 Fri hævning" %}
+  {% assign beskrivelse = "Standarddepot til penge udover pension og ASK. Jeg går efter realisationsbeskattede fonde for at udskyde skatten og maksimere renters rente." %}
+{% elsif depot_type == "frikort" %}
+  {% assign theme_class = "dtk-theme-frikort" %}
+  {% assign title = "Frie Midler (Mindreårige)" %}
+  {% assign skattesats = "⚖️ 0% (Frikort)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "💰 Op til personfradrag" %}
+  {% assign note = "🔓 Fri hævning" %}
+  {% assign beskrivelse = "Investering i barnets eget navn. Ved at vælge fonde, der beskattes som kapitalindkomst, modregnes afkastet i barnets frikort og afkastet er 100% skattefrit." %}
+{% elsif depot_type == "pension" %}
+  {% assign theme_class = "dtk-theme-pension" %}
+  {% assign title = "Pensionsmidler" %}
+  {% assign skattesats = "⚖️ 15,3% (PAL)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "💰 Ingen grænse" %}
+  {% assign note = "🔒 Låst til pension" %}
+  {% assign beskrivelse = "Depot til firmabetalt pension. Lagerbeskattet. Jeg vælger selv fonde med lave årlige omkostninger." %}
+{% elsif depot_type == "aldersopsparing" %}
+  {% assign theme_class = "dtk-theme-alders" %}
+  {% assign title = "Aldersopsparing (AOS)" %}
+  {% assign skattesats = "⚖️ 15,3% (PAL)" %}
+  {% assign princip = "Lagerskat" %}
+  {% assign loft = "💰 9.100 kr. (2026)" %}
+  {% assign note = "🔒 Låst til pension" %}
+  {% assign beskrivelse = "Privat pension uden fradrag, men skattefri udbetaling. Tvunget i lagerbeskatning, så jeg foretrækker fonde med lave årlige omkostninger." %}
+{% elsif depot_type == "borneopsparing" %}
+  {% assign theme_class = "dtk-theme-borne" %}
+  {% assign title = "Klassisk Børneopsparing" %}
+  {% assign skattesats = "⚖️ 0% (Skattefri)" %}
+  {% assign princip = "Skattefri" %}
+  {% assign loft = "💰 6.000 kr. årligt" %}
+  {% assign note = "🔒 Låst til 18/21 år" %}
+  {% assign beskrivelse = "Den absolut mest attraktive opsparing til børn. Alt afkast og udbytte er 100% skattefrit i hele bindingsperioden. Jeg går efter danske fonde med lave årlige omkostninger. I min bank skal man nemlig betale ekstra depotgebyr for at have udenlandske værdipapirer." %}
+{% endif %}
+
+
+<!-- ========================================== -->
+<!-- 2. LOGIK FOR VISNING                       -->
+<!-- ========================================== -->
+{% assign show_depot = false %}
+{% if include.depot and depot_type != "" %}
+  {% assign show_depot = true %}
+{% endif %}
+
+{% assign has_content_below = false %}
+{% if input_data contains ":" %}
+  {% assign is_allocation = true %}
+  {% assign allocs = input_data | split: "," %}
+  {% assign has_content_below = true %}
+{% elsif input_data %}
+  {% assign ticker_list = input_data | split: "," %}
+  {% assign has_content_below = true %}
+{% elsif include.forslag == "true" and show_depot %}
+  {% assign has_content_below = true %}
+{% endif %}
+
+{% if include.title or include.comment %}
+  {% assign has_content_below = true %}
+{% endif %}
+
+
+<!-- ========================================== -->
+<!-- 3. CSS STYLING                             -->
+<!-- ========================================== -->
+<style>
+  .dtk-card {
+    background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 18px 20px; margin: 24px 0;
+    font-family: system-ui, -apple-system, sans-serif; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    width: 100%; box-sizing: border-box;
+  }
+  .dtk-no-depot { border-left: 4px solid #2563eb; padding: 16px; }
+  
+  /* Integreret header */
+  .dtk-header-row {
+    display: flex; justify-content: space-between; align-items: center; 
+    padding-bottom: 8px; margin-bottom: 12px; border-bottom: 3px solid #e2e8f0;
+  }
+  .dtk-title { margin: 0; font-size: 18px; font-weight: 800; color: #0f172a; }
+  .dtk-badge {
+    font-size: 10px; font-weight: 800; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  
+  /* Kompakt Meta-boks */
+  .dtk-meta-wide {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px;
+    background: #f8fafc; padding: 12px 16px; border-radius: 8px; border: 1px solid #e2e8f0;
+    margin-top: 14px;
+  }
+  .dtk-meta-box { display: flex; flex-direction: column; font-size: 13.5px; }
+  .dtk-meta-box strong { color: #64748b; font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+  .dtk-meta-box span { font-weight: 700; color: #0f172a; }
+  
+  /* Afgrænsning af depot */
+  .dtk-depot-divider {
+    height: 2px; border-radius: 2px; margin: 24px 0 20px 0; opacity: 0.4;
+  }
+
+  .dtk-section-title { font-size: 11px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  
+  /* Fonde Liste */
+  .dtk-fund-list { display: flex; flex-direction: column; gap: 10px; }
+  .dtk-fund-item {
+    display: flex; justify-content: space-between; align-items: center;
+    background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px 14px;
+  }
+  
+  /* ÅOP Boks */
+  .dtk-fund-aop-box {
+    background-color: #f8fafc; border: 1px solid #e2e8f0; padding: 6px 14px; border-radius: 6px; 
+    text-align: center; min-width: 65px; display: flex; flex-direction: column; justify-content: center; flex-shrink: 0;
+  }
+  .dtk-fund-aop-label { color: #64748b; font-size: 10px; font-weight: 800; text-transform: uppercase; line-height: 1; margin-bottom: 4px; }
+  .dtk-fund-aop-value { font-size: 16px; font-weight: 900; color: #0f172a; line-height: 1; }
+
+  /* Temafarver for header-linje, divider og badges */
+  .dtk-theme-ask .dtk-badge { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+  .dtk-theme-ask .dtk-header-row { border-bottom-color: #3b82f6; }
+  .dtk-theme-ask .dtk-depot-divider { background-color: #3b82f6; }
+  
+  .dtk-theme-frie .dtk-badge { background: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; }
+  .dtk-theme-frie .dtk-header-row { border-bottom-color: #22c55e; }
+  .dtk-theme-frie .dtk-depot-divider { background-color: #22c55e; }
+  
+  .dtk-theme-frikort .dtk-badge { background: #fef3c7; color: #b45309; border: 1px solid #fde68a; }
+  .dtk-theme-frikort .dtk-header-row { border-bottom-color: #f59e0b; }
+  .dtk-theme-frikort .dtk-depot-divider { background-color: #f59e0b; }
+  
+  .dtk-theme-pension .dtk-badge { background: #f3e8ff; color: #6b21a8; border: 1px solid #e9d5ff; }
+  .dtk-theme-pension .dtk-header-row { border-bottom-color: #a855f7; }
+  .dtk-theme-pension .dtk-depot-divider { background-color: #a855f7; }
+  
+  .dtk-theme-alders .dtk-badge { background: #e0e7ff; color: #4338ca; border: 1px solid #c7d2fe; }
+  .dtk-theme-alders .dtk-header-row { border-bottom-color: #4f46e5; }
+  .dtk-theme-alders .dtk-depot-divider { background-color: #4f46e5; }
+  
+  .dtk-theme-borne .dtk-badge { background: #ccfbf1; color: #0f766e; border: 1px solid #99f6e4; }
+  .dtk-theme-borne .dtk-header-row { border-bottom-color: #0d9488; }
+  .dtk-theme-borne .dtk-depot-divider { background-color: #0d9488; }
+</style>
+
+
+<!-- ========================================== -->
+<!-- 4. HTML STRUKTUR                           -->
+<!-- ========================================== -->
+<div class="dtk-card {% if show_depot %}{{ theme_class }}{% else %}dtk-no-depot{% endif %}" markdown="0">
+  
+  <!-- DEPOT OPLYSNINGER -->
+  {% if show_depot %}
+  <div class="dtk-header-row">
+    <h4 class="dtk-title">{{ title }}</h4>
+    <span class="dtk-badge">{{ princip }}</span>
+  </div>
+  
+  <p style="font-size: 14px; line-height: 1.6; margin: 0; color: #334155;">
+    {{ beskrivelse }}
+  </p>
+
+  <div class="dtk-meta-wide">
+    <div class="dtk-meta-box">
+      <strong>Beskatning</strong>
+      <span>{{ skattesats }}</span>
+    </div>
+    <div class="dtk-meta-box">
+      <strong>Indskudsloft</strong>
+      <span>{{ loft }}</span>
+    </div>
+    <div class="dtk-meta-box">
+      <strong>Tilgængelighed</strong>
+      <span>{{ note }}</span>
+    </div>
+  </div>
+
+  <!-- Skillelinje der afgrænser depotet, HVIS der er indhold under -->
+  {% if has_content_below %}
+    <div class="dtk-depot-divider"></div>
+  {% endif %}
+
+  {% endif %}
+
+  <!-- TITLE & COMMENT UDEN DEPOT -->
+  {% if include.title or include.comment %}
+  <div style="margin-bottom: 14px;">
+    {% if include.title %}
+      <h4 style="margin: 0 0 4px 0; font-size: 15px; font-weight: 800; color: #0f172a; line-height: 1.2;">{{ include.title }}</h4>
+    {% endif %}
+    {% if include.comment %}
+      <div style="font-size: 13px; color: #64748b; font-weight: 500; line-height: 1.5;">{{ include.comment }}</div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <!-- SCENARIE A: VÆGTET ALLOKERING -->
+  {% if is_allocation %}
+  {% if show_depot %}<div class="dtk-section-title">Min valgte fordeling:</div>{% endif %}
+  
+  <div style="display: flex; height: 10px; border-radius: 6px; overflow: hidden; margin-bottom: 14px; background: #e2e8f0;">
+    {% assign colors = "#3b82f6,#10b981,#f59e0b,#ec4899,#8b5cf6" | split: "," %}
+    {% assign color_idx = 0 %}
+    {% for alloc in allocs %}
+      {% assign parts = alloc | split: ":" %}
+      {% assign pct = parts[1] | plus: 0 %}
+      <div style="width: {{ pct }}%; background-color: {{ colors[color_idx] }}; height: 100%;"></div>
+      {% assign color_idx = color_idx | plus: 1 %}
+      {% if color_idx >= 5 %}{% assign color_idx = 0 %}{% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="dtk-fund-list">
+    {% assign total_weighted_aop = 0.0 %}
+    {% assign color_idx = 0 %}
+    
+    {% for alloc in allocs %}
+      {% assign parts = alloc | split: ":" %}
+      {% assign target_ticker = parts[0] | strip %}
+      {% assign pct = parts[1] | plus: 0 %}
+      
+      {% assign fund = nil %}
+      {% for f in site.data.fonde %}
+        {% if f.ticker == target_ticker %}
+          {% assign fund = f %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if fund %}
+        {% assign aop_pure = fund.aop | replace: "%", "" | strip | plus: 0 %}
+        {% assign contrib = aop_pure | times: pct %}
+        {% assign total_weighted_aop = total_weighted_aop | plus: contrib %}
+        
+        <div class="dtk-fund-item" style="border-left: 4px solid {{ colors[color_idx] }};">
+          <div style="display: flex; align-items: center; flex-grow: 1;">
+            <div style="font-size: 20px; font-weight: 800; color: {{ colors[color_idx] }}; padding-right: 14px; min-width: 50px;">
+              {{ pct }}%
+            </div>
+            <div style="display: flex; flex-direction: column;">
+              <span style="font-size: 14px; font-weight: 700; color: #1e293b; line-height: 1.2;">
+                {{ fund.navn }}
+                <span style="font-size: 9px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 2px 5px; border-radius: 3px; border: 1px solid #e2e8f0; margin-left: 4px; vertical-align: middle;">{{ fund.ticker }}</span>
+              </span>
+              <span style="font-size: 11.5px; color: #64748b; font-style: italic; margin-top: 2px;">Tracking: {{ fund.indeks }}</span>
+              <div style="font-size: 11.5px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 4px;">
+                <span>{% if fund.skatteprincip == "Realisation" %}⏳ Realisation{% else %}📊 Lagerskat{% endif %}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{% if fund.skattetype == "Aktieskat" %}📈 Aktieskat{% else %}💼 Kapitalindkomst{% endif %}</span>
+                <span style="color: #cbd5e1;">&middot;</span>
+                <span>{% if fund.udbytte contains "Akkumulerende" %}🔄 Akk.{% else %}💰 Udbytte{% endif %}</span>
+                {% if fund.valuta %}<span style="color: #cbd5e1;">&middot;</span><span>💵 {{ fund.valuta }}</span>{% endif %}
+                {% if fund.factsheet %}<span style="color: #cbd5e1;">&middot;</span><a href="{{ fund.factsheet }}" target="_blank" style="color: #2563eb; text-decoration: none;">📄 Factsheet</a>{% endif %}
+              </div>
+            </div>
+          </div>
+          <!-- Tydelig ÅOP Boks -->
+          <div class="dtk-fund-aop-box">
+            <span class="dtk-fund-aop-label">ÅOP</span>
+            <span class="dtk-fund-aop-value">{{ fund.aop }}</span>
+          </div>
+        </div>
+        {% assign color_idx = color_idx | plus: 1 %}
+        {% if color_idx >= 5 %}{% assign color_idx = 0 %}{% endif %}
+      {% endif %}
+    {% endfor %}
+    
+    {% assign final_weighted_aop = total_weighted_aop | divided_by: 100.0 %}
+    <div style="margin-top: 8px; padding: 12px 14px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; font-size: 13px; font-weight: 700;">
+      <span style="color: #166534; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.02em;">Samlet pris for dette setup:</span>
+      <span style="color: #15803d; font-size: 14px;">Vægtet ÅOP: <strong style="font-size: 16px;">{{ final_weighted_aop | round: 2 }}%</strong></span>
+    </div>
+  </div>
+
+  <!-- SCENARIE B: ENKELT FOND ELLER LISTE -->
+  {% elsif ticker_list %}
+    {% assign ticker_count = ticker_list.size %}
+    
+    {% if ticker_count == 1 %}
+      <!-- Enkelt Fond (Stort layout) -->
+      {% assign target_fond = ticker_list[0] | strip %}
+      {% for fund in site.data.fonde %}
+      {% if fund.ticker == target_fond %}
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; background: #f8fafc; border: 1px solid #e2e8f0; padding: 16px; border-radius: 8px;">
+        <div style="flex: 1; min-width: 200px;">
+          <h4 style="margin: 0; font-size: 16px; font-weight: 700; color: #0f172a;">
+            <span style="background-color: #eff6ff; color: #2563eb; padding: 2px 6px; border-radius: 4px; font-size: 11px; border: 1px solid #bfdbfe; margin-right: 6px; vertical-align: middle;">{{ fund.ticker }}</span>
+            {{ fund.navn }}
+          </h4>
+          <div style="font-size: 12.5px; color: #64748b; font-style: italic; margin-top: 6px;">Benchmark: {{ fund.indeks }}</div>
+          {% if fund.eksponering %}
+            <div style="margin-top: 8px; font-size: 13px; color: #334155;"><strong>Dækning:</strong> {{ fund.eksponering }}</div>
+          {% endif %}
+          <div style="margin-top: 12px; font-size: 11.5px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
+            <span>{% if fund.skatteprincip == "Realisation" %}⏳ Realisation{% else %}📊 Lagerskat{% endif %}</span>
+            <span style="color: #cbd5e1;">&middot;</span>
+            <span>{% if fund.skattetype == "Aktieskat" %}📈 Aktieskat{% else %}💼 Kapitalindkomst{% endif %}</span>
+            <span style="color: #cbd5e1;">&middot;</span>
+            <span>{% if fund.udbytte contains "Akkumulerende" %}🔄 Akk.{% else %}💰 Udbytte{% endif %}</span>
+            {% if fund.valuta %}<span style="color: #cbd5e1;">&middot;</span><span>💵 {{ fund.valuta }}</span>{% endif %}
+            {% if fund.factsheet %}<span style="color: #cbd5e1;">&middot;</span><a href="{{ fund.factsheet }}" target="_blank" style="color: #2563eb; text-decoration: none;">📄 Factsheet</a>{% endif %}
+          </div>
+        </div>
+        <div style="background-color: #f0fdf4; border: 1px solid #bbf7d0; padding: 12px 24px; border-radius: 8px; text-align: center; min-width: 90px;">
+          <span style="color: #166534; font-size: 11px; font-weight: 800; text-transform: uppercase; display: block; margin-bottom: 2px;">ÅOP</span>
+          <span style="font-size: 26px; font-weight: 900; color: #15803d; line-height: 1;">{{ fund.aop }}</span>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    {% else %}
+      <!-- Liste af fonde -->
+      {% if show_depot %}<div class="dtk-section-title">Udvalgte fonde:</div>{% endif %}
+      <div class="dtk-fund-list">
+        {% assign colors = "#3b82f6,#10b981,#f59e0b,#ec4899,#8b5cf6" | split: "," %}
+        {% assign color_idx = 0 %}
+        {% for raw_ticker in ticker_list %}
+          {% assign target_ticker = raw_ticker | strip %}
+          {% for fund in site.data.fonde %}
+            {% if fund.ticker == target_ticker %}
+            <div class="dtk-fund-item" style="border-left: 3px solid {{ colors[color_idx] }};">
+              <div style="display: flex; flex-direction: column;">
+                <span style="font-size: 14px; font-weight: 700; color: #1e293b;">
+                  {{ fund.navn }} <span style="font-size: 9px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 2px 5px; border-radius: 3px; border: 1px solid #e2e8f0; margin-left: 4px; vertical-align: middle;">{{ fund.ticker }}</span>
+                </span>
+                <span style="font-size: 11.5px; color: #64748b; margin-top: 2px;">Tracking: {{ fund.indeks }}</span>
+                <div style="font-size: 11.5px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 4px;">
+                  <span>{% if fund.skatteprincip == "Realisation" %}⏳ Realisation{% else %}📊 Lagerskat{% endif %}</span>
+                  <span style="color: #cbd5e1;">&middot;</span>
+                  <span>{% if fund.skattetype == "Aktieskat" %}📈 Aktieskat{% else %}💼 Kapitalindkomst{% endif %}</span>
+                  <span style="color: #cbd5e1;">&middot;</span>
+                  <span>{% if fund.udbytte contains "Akkumulerende" %}🔄 Akk.{% else %}💰 Udbytte{% endif %}</span>
+                  {% if fund.valuta %}<span style="color: #cbd5e1;">&middot;</span><span>💵 {{ fund.valuta }}</span>{% endif %}
+                  {% if fund.factsheet %}<span style="color: #cbd5e1;">&middot;</span><a href="{{ fund.factsheet }}" target="_blank" style="color: #2563eb; text-decoration: none;">📄 Factsheet</a>{% endif %}
+                </div>
+              </div>
+              <div class="dtk-fund-aop-box">
+                <span class="dtk-fund-aop-label">ÅOP</span>
+                <span class="dtk-fund-aop-value">{{ fund.aop }}</span>
+              </div>
+            </div>
+            {% assign color_idx = color_idx | plus: 1 %}
+            {% if color_idx >= 5 %}{% assign color_idx = 0 %}{% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  <!-- SCENARIE C: FORSLAG TIL DEPOT -->
+  {% elsif include.forslag == "true" and show_depot %}
+  <div class="dtk-section-title">Anbefalede fonde fra kartoteket til dette depot:</div>
+  <div class="dtk-fund-list">
+    {% assign match_count = 0 %}
+    {% for fund in site.data.fonde %}
+      {% assign is_match = false %}
+      {% if depot_type == "ask" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif depot_type == "frie_midler" and fund.skatteprincip == "Realisation" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif depot_type == "frikort" and fund.skattetype == "Kapitalbeskatning" %}
+        {% assign is_match = true %}
+      {% elsif depot_type == "pension" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif depot_type == "aldersopsparing" and fund.skatteprincip == "Lagerskat" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% elsif depot_type == "borneopsparing" and fund.skattetype == "Aktieskat" %}
+        {% assign is_match = true %}
+      {% endif %}
+
+      {% if is_match %}
+        {% assign match_count = match_count | plus: 1 %}
+        <div class="dtk-fund-item">
+          <div style="display: flex; flex-direction: column;">
+            <span style="font-size: 14px; font-weight: 700; color: #1e293b;">
+              {{ fund.navn }} <span style="font-size: 9px; color: #475569; font-weight: 800; background: #f1f5f9; padding: 2px 5px; border-radius: 3px; border: 1px solid #e2e8f0; margin-left: 4px; vertical-align: middle;">{{ fund.ticker }}</span>
+            </span>
+            <span style="font-size: 11.5px; color: #64748b; margin-top: 2px;">Tracking: {{ fund.indeks }}</span>
+            <div style="font-size: 11.5px; color: #475569; font-weight: 500; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 4px;">
+              <span>{% if fund.skatteprincip == "Realisation" %}⏳ Realisation{% else %}📊 Lagerskat{% endif %}</span>
+              <span style="color: #cbd5e1;">&middot;</span>
+              <span>{% if fund.skattetype == "Aktieskat" %}📈 Aktieskat{% else %}💼 Kapitalindkomst{% endif %}</span>
+              <span style="color: #cbd5e1;">&middot;</span>
+              <span>{% if fund.udbytte contains "Akkumulerende" %}🔄 Akk.{% else %}💰 Udbytte{% endif %}</span>
+              {% if fund.valuta %}<span style="color: #cbd5e1;">&middot;</span><span>💵 {{ fund.valuta }}</span>{% endif %}
+              {% if fund.factsheet %}<span style="color: #cbd5e1;">&middot;</span><a href="{{ fund.factsheet }}" target="_blank" style="color: #2563eb; text-decoration: none;">📄 Factsheet</a>{% endif %}
+            </div>
+          </div>
+          <div class="dtk-fund-aop-box">
+            <span class="dtk-fund-aop-label">ÅOP</span>
+            <span class="dtk-fund-aop-value">{{ fund.aop }}</span>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    {% if match_count == 0 %}
+      <div style="font-size: 13px; color: #64748b; font-style: italic; padding: 12px; background: #f8fafc; border-radius: 8px;">Ingen matchende fonde fundet i kartoteket.</div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>

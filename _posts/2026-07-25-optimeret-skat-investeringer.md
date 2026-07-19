@@ -39,8 +39,14 @@ Et ægtepar har dobbelt op på alle fradrag og grænser, så den maksimale udnyt
 * **Kapitalindkomst (Skattefri):** 107.000 kr. samlet. Skat: 0 kr. -> **Udbetalt: 107.000 kr.**
 * **Aktieindkomst (Lav skat):** 130.800 kr. samlet. Skat (27%): 35.316 kr. -> **Udbetalt: 95.484 kr.**
 
-**Samlet netto udbetalt om året:** 202.484 kr.
-**Udbetalt pr. måned efter skat:** 16.873 kr. (Altså knap 17.000 kr.)
+- **Samlet netto udbetalt om året:** 202.484 kr.
+- **Udbetalt pr. måned efter skat:** 16.873 kr. (Altså knap 17.000 kr.)
+
+I FIRE-kredse taler man ofte om 4%-reglen. Dette er naturligvis ret forsimplet, men det giver følgende regnestykke for hvor stor porteføljen skal være for at tjene omkring 14.000 kroner.
+
+Hvis vi tager Pengepugerens behov på omkring 14.000 kroner om måneden, så kræver det omkring 168.000 i indtægt om året. Hvis vi bruger 4% reglen og ikke tager hensyn til skat, så skal man altså have omkring 25x det beløb i investeringer for at have den indtjening om måneden gennem investeringsporteføljen. Det giver i alt 4,2 millioner.
+
+Det tager helt sikkert noget tid at få oparbejdet en investeringsportefølje på den størrelse.
 
 ### Prøv selv med beregneren
 
@@ -126,7 +132,7 @@ Når du lever af en portefølje, kommer dine penge ud i den virkelige verden ad 
 ### 1. Den automatiske vej: Udbytteaktier og fonde
 Hvis din aktieindkomst (de 130.800 kr. brutto) kommer fra klassiske, udbyttebetalende danske investeringsforeninger (fx Sparindex eller Danske Invest), behøver du ikke gøre noget selv.
 
-{% include fond-oplysninger.html fonde="SPVIGAKL" %}
+{% include investeringskort.html fonde="SPVIGAKL" %}
 
 * **Praksis:** Foreningerne udbetaler typisk deres udbytte én gang om året (oftest i april). Her trækker din mægler (Nordnet/Saxo) automatisk de 27% i skat og indsætter resten på din konto.
 * **Betydning undervejs:** Udfordringen her er **timing**. Du får en gigantisk pose penge i foråret, men dine regninger falder hver måned. Du er derfor nødt til at have en "buffer-konto" i din bank, hvor årets udbytte står, og hvorfra du automatisk overfører et fast månedligt beløb til dit forbrug.
@@ -140,7 +146,7 @@ For den kapitalbeskattede del (de 107.000 kr., der skal dække personfradraget) 
 
 Du kan dog vælge Nordnets globale indeks fonde, som beskattes som kapitalindkomst, og som er gratis at købe og sælge.
 
-{% include fond-oplysninger.html fonde="NNGBLINDX:88, NNEMINDX:12" %}
+{% include investeringskort.html fonde="NNGBLINDX:88, NNEMINDX:12" %}
 
 ---
 

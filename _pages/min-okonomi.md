@@ -13,21 +13,6 @@ header:
 weight: 10
 ---
 
----
-layout: single
-title: "Min Økonomi: Data, status og opsætning i praksis"
-permalink: /min-oekonomi/
-excerpt: "Dette er maskinrummet. Her kan du se mine hardcore FIRE-metrics, min udvikling og præcis hvordan mine bankkonti er sat op."
-author_profile: true
-toc: true
-toc_sticky: true
-tags:
-  - fundament
-header:
-  teaser: https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-weight: 10
----
-
 {{ page.excerpt }}
 
 På siden **[Min Strategi](/min-strategi/)** beskriver jeg *teorien* og principperne bag min vej mod økonomisk uafhængighed (FIRE). Denne side er virkeligheden. 

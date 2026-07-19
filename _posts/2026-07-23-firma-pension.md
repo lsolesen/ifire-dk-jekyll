@@ -101,7 +101,7 @@ I LinkPension flyttede jeg kontrollen væk fra Vellivs robotter. I stedet overf�
 
 For at ramme verdensindekset og holde prisen i bund, har jeg valgt præcis denne fordeling:
 
-{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL0000000039:12" %}
+{% include depottype-kort.html type="pension" allocation="UL0000000039:88,UL000IDX004N:12" %}
 
 Tilsammen giver det mig en bred eksponering mod globale aktier i både den udviklede verden og de nye markeder. Når vi vægter de to fonde sammen, lander min samlede, årlige omkostning på **ca. 0,29% i ÅOP**.
 
