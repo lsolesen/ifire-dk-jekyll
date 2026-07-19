@@ -135,7 +135,7 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 {% include depottype-kort.html type="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" 
     comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
 
-{% include investeringskort.html depot="aldersopsparing" allocation="NNGBLINDX:88,NNEMINDX:12" comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
+{% include investeringskort.html depot="aldersopsparing" fonde="NNGBLINDX:88,NNEMINDX:12" comment="Jeg har valgt to prisbillige fonde uden kurtage, men skifter formentlig til en endnu billigere ETF, når mine samlede beløb er lidt højere." %}
   
   Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
 

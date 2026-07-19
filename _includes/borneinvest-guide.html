@@ -1,0 +1,822 @@
+<!-- CSS-styring til den stringente og intelligente investeringsmotor -->
+<style>
+  .biguid-clean-input::-webkit-outer-spin-button,
+  .biguid-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .biguid-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .biguid-container {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 24px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px 0; 
+    width: 100%;
+    max-width: 100%; 
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  .biguid-header {
+    margin-bottom: 18px;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 10px;
+  }
+
+  .biguid-header h3 {
+    margin: 0 0 4px 0;
+    font-size: 18px;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.02em;
+  }
+
+  .biguid-header p {
+    margin: 0;
+    font-size: 12px;
+    color: #64748b;
+  }
+
+  .biguid-inputs-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+
+  .biguid-field-group {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .biguid-field-group label {
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #475569;
+    letter-spacing: 0.05em;
+  }
+
+  /* Knap-segmenter */
+  .biguid-btn-group {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+    margin-bottom: 2px;
+  }
+
+  .biguid-btn {
+    flex: 1;
+    background-color: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    padding: 12px 8px;
+    font-size: 13px;
+    font-weight: 800;
+    color: #334155;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 4px;
+    transition: all 0.15s ease;
+  }
+
+  .biguid-btn-emoji {
+    font-size: 20px;
+    line-height: 1;
+  }
+
+  .biguid-btn-sub {
+    font-size: 10px;
+    font-weight: 500;
+    color: #64748b;
+  }
+
+  .biguid-btn:hover {
+    background-color: #f1f5f9;
+  }
+
+  .biguid-btn.active {
+    background-color: #eff6ff;
+    border-color: #2563eb;
+    color: #2563eb;
+  }
+  
+  .biguid-btn.active .biguid-btn-sub {
+    color: #3b82f6;
+  }
+
+  /* Stor beløbsboks */
+  .biguid-hero-amount-section {
+    background-color: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin: 2px 0;
+  }
+
+  .biguid-hero-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+  }
+
+  .biguid-hero-box input {
+    width: 100% !important;
+    padding: 4px 40px 4px 12px;
+    border: 2px solid #cbd5e1;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 19px;
+    font-weight: 800;
+    color: #2563eb;
+    background: #fff;
+    outline: none;
+    height: 42px;
+  }
+
+  .biguid-hero-box input:focus {
+    border-color: #2563eb;
+  }
+
+  .biguid-hero-box span {
+    position: absolute;
+    right: 14px;
+    font-size: 14px;
+    font-weight: 800;
+    color: #94a3b8;
+  }
+
+  /* 2-kolonne dashboard layout for indstillinger */
+  .biguid-dashboard-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    border-top: 1px dashed #e2e8f0;
+    padding-top: 14px;
+    margin-top: 4px;
+  }
+
+  .biguid-dashboard-col {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .biguid-dashboard-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 2px;
+  }
+
+  .biguid-field-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .biguid-field-box input {
+    width: 100% !important;
+    padding: 4px 34px 4px 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    height: 36px;
+  }
+
+  .biguid-field-box span {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* Resultatliste */
+  .biguid-distribution-box {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+  }
+
+  .biguid-dist-title {
+    font-size: 9px;
+    font-weight: 800;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 12px;
+  }
+
+  .biguid-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 0;
+    border-bottom: 1px solid #f1f5f9;
+    transition: all 0.25s ease;
+  }
+
+  .biguid-row:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .biguid-row-faded {
+    opacity: 0.30;
+    filter: grayscale(85%);
+  }
+
+  .biguid-depot-icon-col {
+    font-size: 32px;
+    line-height: 1.1;
+    flex-shrink: 0;
+    width: 38px;
+    text-align: center;
+  }
+
+  .biguid-depot-content-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .biguid-title-flex {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .biguid-depot-name {
+    font-size: 13.5px;
+    font-weight: 800;
+    color: #0f172a;
+  }
+
+  .biguid-tax-tag {
+    font-size: 9.5px;
+    font-weight: 800;
+    padding: 1.5px 6px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    transition: all 0.2s ease;
+  }
+
+  .biguid-depot-hint {
+    font-size: 11px;
+    color: #64748b;
+    line-height: 1.4;
+  }
+
+  .biguid-depot-value {
+    font-weight: 800;
+    color: #2563eb;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+
+  /* Rødt advarselskort */
+  .biguid-warning-card {
+    background-color: #fef2f2; 
+    border: 1px solid #fee2e2; 
+    border-left: 4px solid #ef4444;
+    border-radius: 8px; 
+    padding: 14px 16px; 
+    margin-bottom: 14px;
+  }
+
+  .biguid-warning-title {
+    font-size: 10px; 
+    font-weight: 800; 
+    color: #991b1b; 
+    text-transform: uppercase; 
+    letter-spacing: 0.05em;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .biguid-warning-text {
+    font-size: 11.5px !important; 
+    color: #991b1b !important; 
+    line-height: 1.5 !important;
+    margin: 0 !important;
+  }
+
+  /* Grønt handlingskort */
+  .biguid-advice-card {
+    background-color: #f0fdf4; 
+    border: 1px solid #bbf7d0; 
+    border-radius: 8px; 
+    padding: 14px 16px; 
+  }
+
+  .biguid-advice-title {
+    font-size: 10px; 
+    font-weight: 800; 
+    color: #166534; 
+    text-transform: uppercase; 
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+  }
+
+  .biguid-advice-text {
+    font-size: 11px !important; 
+    color: #166534 !important; 
+    line-height: 1.5 !important;
+    margin: 0 !important;
+  }
+
+  @media (max-width: 768px) {
+    .biguid-btn-group { flex-direction: column; gap: 6px; }
+    .biguid-dashboard-row { grid-template-columns: 1fr; gap: 14px; }
+  }
+</style>
+
+<div markdown="0" class="biguid-container">
+  
+  <div class="biguid-header">
+    <h3>Sådan investerer jeg for mine børn</h3>
+    <p>Visualisering af hvordan jeg griber investering for mine børn an. Bør kun bruges af nysgerrighed. Lav din egen research før du investerer.</p>
+  </div>
+
+  <div class="biguid-inputs-grid">
+    
+    <!-- TRIN 1: SCENARIE -->
+    <div class="biguid-field-group">
+      <label>1. Vælg investeringsscenarie</label>
+      <div class="biguid-btn-group js-group-scenarie">
+        <button type="button" data-value="engang" class="biguid-btn active">
+          <span class="biguid-btn-emoji">💰</span>
+          <span>Engangsbeløb</span>
+          <span class="biguid-btn-sub">Gave, konfirmation mv.</span>
+        </button>
+        <button type="button" data-value="maanedlig" class="biguid-btn">
+          <span class="biguid-btn-emoji">🔄</span>
+          <span>Månedlig opsparing</span>
+          <span class="biguid-btn-sub">Fast løbende overførsel</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- TRIN 2: GIVER -->
+    <div class="biguid-field-group">
+      <label>2. Hvem kommer pengene fra?</label>
+      <div class="biguid-btn-group js-group-giver">
+        <button type="button" data-value="barnet" class="biguid-btn active">
+          <span class="biguid-btn-emoji">👶</span>
+          <span>Barnet selv</span>
+          <span class="biguid-btn-sub">Egne penge / ungarbejde</span>
+        </button>
+        <button type="button" data-value="foraeldre" class="biguid-btn">
+          <span class="biguid-btn-emoji">👪</span>
+          <span>Forældre</span>
+          <span class="biguid-btn-sub" style="color:#dc2626; font-weight:600;">Pas på forældrefælden!</span>
+        </button>
+        <button type="button" data-value="bedsteforaeldre" class="biguid-btn">
+          <span class="biguid-btn-emoji">🎁</span>
+          <span>Andre</span>
+          <span class="biguid-btn-sub">Bedsteforældre, onkler mv.</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- TRIN 3: BELØB -->
+    <div class="biguid-hero-amount-section">
+      <div class="biguid-field-group">
+        <label class="js-bi-label-budget" style="color: #475569; font-size: 10px; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase;">3. Indtast nyt engangsbeløb NU</label>
+        <div class="biguid-hero-box">
+          <input type="number" value="{{ include.budget | default: 10000 }}" step="500" class="biguid-clean-input js-bi-budget">
+          <span>kr.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- DASHBOARD -->
+    <div class="biguid-dashboard-row">
+      
+      <!-- KOLONNE A -->
+      <div class="biguid-dashboard-col">
+        <div class="biguid-dashboard-title">Barnets Baggrund & Indkomst</div>
+        
+        <div class="biguid-field-group">
+          <label>Barnets alder</label>
+          <div class="biguid-field-box">
+            <input type="number" value="14" min="0" max="21" class="biguid-clean-input js-bi-alder">
+            <span>år</span>
+          </div>
+        </div>
+        
+        <div class="biguid-field-group">
+          <label>Årlig lønindtægt</label>
+          <div class="biguid-field-box">
+            <input type="number" value="0" step="5000" class="biguid-clean-input js-bi-loen">
+            <span>kr.</span>
+          </div>
+        </div>
+
+        <div class="biguid-field-group">
+          <label>Forventet afkast</label>
+          <div class="biguid-field-box">
+            <input type="number" value="7" min="1" max="25" class="biguid-clean-input js-bi-afkast-pct">
+            <span>%</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- KOLONNE B -->
+      <div class="biguid-dashboard-col">
+        <div class="biguid-dashboard-title">Nuværende status på depoter</div>
+        
+        <div class="biguid-field-group">
+          <label>🏦 Indsat på børneopsp. i år</label>
+          <div class="biguid-field-box">
+            <input type="number" value="0" min="0" max="6000" step="500" class="biguid-clean-input js-bi-allerede">
+            <span>kr.</span>
+          </div>
+        </div>
+
+        <div class="biguid-field-group">
+          <label>📄 Værdi af Frit Depot</label>
+          <div class="biguid-field-box">
+            <input type="number" value="0" step="10000" class="biguid-clean-input js-bi-exist-depot">
+            <span>kr.</span>
+          </div>
+        </div>
+
+        <div class="biguid-field-group">
+          <label>📈 Værdi af indskud på ASK</label>
+          <div class="biguid-field-box">
+            <input type="number" value="0" step="10000" class="biguid-clean-input js-bi-exist-ask">
+            <span>kr.</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- FORDELINGS-VISNING -->
+  <div class="biguid-distribution-box">
+    <div class="js-bi-dist-title biguid-dist-title">Anbefalet fordeling:</div>
+    
+    <div class="biguid-row js-row-boerneopsparing">
+      <div class="biguid-depot-icon-col">🏦</div>
+      <div class="biguid-depot-content-col">
+        <div class="biguid-title-flex">
+          <span class="biguid-depot-name">1. Klassisk Børneopsparing</span>
+          <span class="biguid-tax-tag js-tax-boerneopsparing" style="background:#dcfce7; color:#15803d;">0% · Skattefri</span>
+        </div>
+        <span class="biguid-depot-hint js-hint-boerneopsparing">Skal oprettes i din egen bank. Afkast er 100% skattefrit under hele bindingen.</span>
+      </div>
+      <span class="js-bi-out-boerneopsparing biguid-depot-value">0 kr.</span>
+    </div>
+    
+    <div class="biguid-row js-row-frikort">
+      <div class="biguid-depot-icon-col">📄</div>
+      <div class="biguid-depot-content-col">
+        <div class="biguid-title-flex">
+          <span class="biguid-depot-name">2. Frit Depot (via Frikort)</span>
+          <span class="biguid-tax-tag js-tax-frikort" style="background:#f1f5f9; color:#334155;">0% · Frikort & Kapitalbeskattet</span>
+        </div>
+        <span class="biguid-depot-hint js-hint-frikort">Udnytter frikortet optimalt. Kræver at der udelukkende købes fonde eller ETF'er, der beskattes som som kapitalindkomst.</span>
+      </div>
+      <span class="js-bi-out-frikort biguid-depot-value">0 kr.</span>
+    </div>
+    
+    <div class="biguid-row js-row-ask">
+      <div class="biguid-depot-icon-col">📈</div>
+      <div class="biguid-depot-content-col">
+        <div class="biguid-title-flex">
+          <span class="biguid-depot-name">3. Aktiesparekonto (ASK)</span>
+          <span class="biguid-tax-tag js-tax-ask" style="background:#dbeafe; color:#1e40af;">17% · Lagerbeskatning</span>
+        </div>
+        <span class="biguid-depot-hint js-hint-ask">Eget skattemiljø. Køb aktiebaserede fonde/ETF'er fra Skattestyrelsens positivliste.</span>
+      </div>
+      <span class="js-bi-out-ask biguid-depot-value">0 kr.</span>
+    </div>
+  </div>
+
+  <!-- DEDIKERET ADVARSELSKORT -->
+  <div class="biguid-warning-card js-bi-warning-card" style="display: none;">
+    <div class="biguid-warning-title">⚠️ Skattemæssig advarsel / begrænsning:</div>
+    <div class="js-bi-warning-text biguid-warning-text"></div>
+  </div>
+
+  <!-- HANDLESPLAN -->
+  <div class="biguid-advice-card">
+    <div class="biguid-advice-title">💡 Din konkrete handlingsplan:</div>
+    <p class="js-bi-advice-text biguid-advice-text">Regner...</p>
+  </div>
+
+</div>
+
+<!-- JavaScript motor -->
+<script>
+(function() {
+  const widget = document.currentScript.previousElementSibling;
+  if (!widget || !widget.classList.contains('biguid-container')) return;
+
+  let activeScenarie = "engang";
+  let activeGiver = "barnet";
+
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  widget.querySelectorAll('.biguid-btn-group button').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      const group = this.parentElement;
+      group.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+
+      if (group.classList.contains('js-group-scenarie')) {
+        activeScenarie = this.getAttribute('data-value');
+      } else if (group.classList.contains('js-group-giver')) {
+        activeGiver = this.getAttribute('data-value');
+      }
+      runLogic();
+    });
+  });
+
+  function runLogic() {
+    // 🌟 STRÆNGE SKUDSIKRE NAN-GUARDS VED TOMME INPUT-FELTER UNDER TYPNING
+    let alder = parseInt(widget.querySelector('.js-bi-alder').value);
+    if (isNaN(alder)) alder = 14;
+
+    let loenAar = parseFloat(widget.querySelector('.js-bi-loen').value);
+    if (isNaN(loenAar)) loenAar = 0;
+
+    let alleredeIndbetalt = parseFloat(widget.querySelector('.js-bi-allerede').value);
+    if (isNaN(alleredeIndbetalt)) alleredeIndbetalt = 0;
+    alleredeIndbetalt = Math.min(6000, Math.max(0, alleredeIndbetalt));
+
+    let existDepot = parseFloat(widget.querySelector('.js-bi-exist-depot').value);
+    if (isNaN(existDepot)) existDepot = 0;
+
+    let existAsk = parseFloat(widget.querySelector('.js-bi-exist-ask').value);
+    if (isNaN(existAsk)) existAsk = 0;
+
+    let afkastPct = parseFloat(widget.querySelector('.js-bi-afkast-pct').value);
+    if (isNaN(afkastPct)) afkastPct = 7;
+
+    let budget = parseFloat(widget.querySelector('.js-bi-budget').value);
+    if (isNaN(budget)) budget = 10000;
+
+    const frikortGranse = 54000;
+    const askLoft = 174200;
+
+    const estimeretEksisterendeAfkast = existDepot * (afkastPct / 100);
+    const samletBrugtFrikortSpace = loenAar + estimeretEksisterendeAfkast;
+    const restFrikortSpace = Math.max(0, frikortGranse - samletBrugtFrikortSpace);
+    const restAskSpace = Math.max(0, askLoft - existAsk);
+    
+    const årligRestpladsBS = Math.max(0, 6000 - alleredeIndbetalt);
+    const restpladsBS = activeScenarie === "engang" ? årligRestpladsBS : (årligRestpladsBS / 12);
+    const frikortKapacitet = activeScenarie === "engang" ? restFrikortSpace : (restFrikortSpace / 12);
+    const askKapacitet = activeScenarie === "engang" ? restAskSpace : (restAskSpace / 12);
+
+    const labelBudget = widget.querySelector('.js-bi-label-budget');
+    const distTitle = widget.querySelector('.js-bi-dist-title');
+    if (activeScenarie === "engang") {
+      labelBudget.innerText = "3. Indtast nyt engangsbeløb NU";
+      distTitle.innerText = "Optimal placering af engangsbeløbet:";
+    } else {
+      labelBudget.innerText = "3. Indtast fast månedligt beløb";
+      distTitle.innerText = "Optimal månedlig fordeling:";
+    }
+
+    let boerneopsparing = 0;
+    let frikortDepot = 0;
+    let askDepot = 0;
+    let advarsler = [];
+
+    // INTELLIGENT DYNAMISK SKIFTEZONE PÅ FRIT DEPOT (BADGE + TEKST)
+    const taxTagFrikort = widget.querySelector('.js-tax-frikort');
+    const hintFrikort = widget.querySelector('.js-hint-frikort');
+    if (samletBrugtFrikortSpace >= frikortGranse) {
+      taxTagFrikort.innerText = "27/42% · Aktieindkomst";
+      taxTagFrikort.style.background = "#ffedd5"; 
+      taxTagFrikort.style.color = "#c2410c";
+      if (activeGiver === "foraeldre") {
+        hintFrikort.innerHTML = "<strong style='color:#c2410c;'>Forældrefælden + Opbrugt Frikort:</strong> Frikortet er væk, og indskud herfra beskattes i forvejen hos dig som forælder. Undgå helt dette depot.";
+      } else {
+        hintFrikort.innerHTML = "<strong style='color:#c2410c;'>Strategiskift påkrævet:</strong> Frikortet er spist op. Nye indskud herinde bør kun ske i aktiebaserede aktiver, der realisationsbeskattes efter progressionsgrænsen på 27%/42%. Kapitalbeskattede fonde vil udløse 37-42% skat.";
+      }
+    } else {
+      taxTagFrikort.innerText = "0% · Frikort & Kapitalbeskattet";
+      taxTagFrikort.style.background = "#f1f5f9";
+      taxTagFrikort.style.color = "#334155";
+      hintFrikort.innerText = "Udnytter frikortet optimalt. Kræver at der udelukkende købes lagerbeskatte fonde/ETF'er som kapitalindkomst.";
+    }
+
+    // UNIVERSEL FUNKTION TIL SKATTE- & OMPLACERINGSRÅD (VIRKER FOR ALLE ALDRE NÅR FRIKORTET ER DØDT)
+    function genererStrategiskiftTekst() {
+      if (samletBrugtFrikortSpace >= frikortGranse) {
+        let tekst = "<br><br>🔄 <strong>Vigtigt vedr. formue & ungarbejde:</strong> Da frikortet er spist op af ungarbejde/løn, vil lagerbeskattede kapitalindkomst-fonde i et **Frit Depot** blive beskattet hårdt med 37-42%. I bør omgående **tjekke beskatningsformen** på eventuelle midler, der står i det frie depot i dag.";
+        
+        if (restAskSpace > 0) {
+          tekst += " Da Aktiesparekontoen (ASK) lige nu har <strong>" + formatDkr(restAskSpace) + " i ledig indskudsplads</strong>, bør I få **flyttet investeringerne over på Aktiesparekontoen hurtigst muligt**. Det flytter beskatningen ned på lave 17% lagerbeskatning i stedet for, at pengene står unødigt og samler støv til en alt for høj skat.";
+        } else {
+          tekst += " Da Aktiesparekontoen samtidig er fuldstændig fyldt op, skal strategien på det frie depot ændres, så der udelukkende investeres i enkeltaktier eller udbyttebetalende fonde (aktieindkomst efter realisationsprincippet på 27%).";
+        }
+        return tekst;
+      }
+      return "";
+    }
+
+    // 1. ABSOLUT LOVMÆSSIG STOPKLODS: FYLDT 21 ÅR
+    if (alder >= 21) {
+      askDepot = Math.min(budget, askKapacitet);
+      frikortDepot = budget - askDepot;
+      widget.querySelector('.js-bi-out-boerneopsparing').innerText = "Udløbet";
+      widget.querySelector('.js-bi-out-frikort').innerText = formatDkr(frikortDepot);
+      widget.querySelector('.js-bi-out-ask').innerText = formatDkr(askDepot);
+      
+      widget.querySelector('.js-row-boerneopsparing').classList.add('biguid-row-faded');
+      widget.querySelector('.js-hint-boerneopsparing').innerText = "Kontoen er lukket og udbetalt (Sker senest ved fyldte 21 år).";
+      
+      widget.querySelector('.js-row-frikort').classList.remove('biguid-row-faded');
+      if (restAskSpace <= 0) widget.querySelector('.js-row-ask').classList.add('biguid-row-faded');
+      else widget.querySelector('.js-row-ask').classList.remove('biguid-row-faded');
+
+      if (frikortDepot > 0 && restAskSpace <= 0) {
+        advarsler.push("<div class='biguid-warning-item'><strong>Aktiesparekontoen er sprængt!</strong> Dit indskud overstiger det resterende ASK-loft på " + formatDkr(restAskSpace) + ", skal de sidste " + formatDkr(frikortDepot) + " over på et almindeligt depot. Vær opmærksom på beskatningen af hvordan aktiverne på dette depot er fordelt i forhold til frikort.</div>");
+      }
+
+      let voksenTekst = "<strong>Børneopsparingen er udløbet!</strong> Barnet er fyldt 21 år. Fyld først den unges egen <strong>Aktiesparekonto</strong> (op til det resterende loft på " + formatDkr(restAskSpace) + "). ";
+      voksenTekst += genererStrategiskiftTekst();
+      widget.querySelector('.js-bi-advice-text').innerHTML = voksenTekst;
+      
+      const warningCard = widget.querySelector('.js-bi-warning-card');
+      if (advarsler.length > 0) {
+        warningCard.style.display = "block";
+        widget.querySelector('.js-bi-warning-text').innerHTML = advarsler.join('');
+      } else {
+        warningCard.style.display = "none";
+      }
+      return;
+    }
+
+    // 2. VANDFALDSLOGIK (FOR 0-20 ÅRIGE)
+    let restBudget = budget;
+    
+    if (restpladsBS > 0) {
+      boerneopsparing = Math.min(restBudget, restpladsBS);
+      restBudget -= boerneopsparing;
+    }
+
+    let frikortOverflow = 0;
+
+    if (restBudget > 0) {
+      if (activeGiver === "foraeldre") {
+        askDepot = Math.min(restBudget, askKapacitet);
+        restBudget -= askDepot;
+        if (restBudget > 0) {
+          frikortDepot = restBudget; 
+          advarsler.push("<div class='biguid-warning-item'>💥 <strong>FORÆLDREFÆLDEN KLAPPER:</strong> Dit indskud er så stort, at det fylder både børneopsparingen og Aktiesparekontoen helt op. De overskydende " + formatDkr(frikortDepot) + " placeres på et Frit Depot, hvilket betyder, at <em>du som forælder selv</em> bliver beskattet af afkastet! Sænk beløbet, eller lad andre give gaven i stedet.</div>");
+        }
+      } else {
+        if (samletBrugtFrikortSpace >= frikortGranse) {
+          askDepot = Math.min(restBudget, askKapacitet);
+          restBudget -= askDepot;
+          if (restBudget > 0) {
+            frikortDepot = restBudget;
+            frikortOverflow = restBudget;
+            advarsler.push("<div class='biguid-warning-item'>🚨 <strong>LOFTET ER NÅET:</strong> Da frikortet er spist af løn/afkast, styrede motoren uden om frikortet og fyldte din ASK. Nu er ASK også fyldt op, og de resterende " + formatDkr(frikortOverflow) + " skal stå på et almindeligt Frit Depot med aktieindkomst (realisation).</div>");
+          }
+        } else {
+          if (frikortKapacitet > 0) {
+            frikortDepot = Math.min(restBudget, frikortKapacitet);
+            restBudget -= frikortDepot;
+          }
+          if (restBudget > 0) {
+            askDepot = Math.min(restBudget, askKapacitet);
+            restBudget -= askDepot;
+          }
+          if (restBudget > 0) {
+            frikortDepot += restBudget; 
+            frikortOverflow = restBudget;
+            advarsler.push("<div class='biguid-warning-item'>🚨 <strong>ALT ER FYLDT OP:</strong> Børneopsparingen, frikortet og Aktiesparekontoen er fuldstændig maxet ud. De sidste " + formatDkr(frikortOverflow) + " tvinges over i det Frie Depot, hvor afkastet nu bør køres som aktieindkomst efter realisationsprincippet (27%).</div>");
+          }
+        }
+      }
+    }
+
+    if (samletBrugtFrikortSpace >= frikortGranse && frikortDepot > 0 && activeGiver !== "foraeldre" && frikortOverflow === 0) {
+      advarsler.push("<div class='biguid-warning-item'>🛑 <strong>ADVARSEL - INGEN FRIKORT PLADS:</strong> Barnets frikort er i forvejen helt opbrugt af løn eller eksisterende afkast. De " + formatDkr(frikortDepot) + " der lander i det Frie Depot, opnår *ikke* 0% i skat, men vil blive beskattet med det samme med op til 37-42% kapitalindkomstskat!</div>");
+    }
+
+    // Print tal ud
+    widget.querySelector('.js-bi-out-boerneopsparing').innerText = formatDkr(boerneopsparing);
+    widget.querySelector('.js-bi-out-frikort').innerText = formatDkr(frikortDepot);
+    widget.querySelector('.js-bi-out-ask').innerText = formatDkr(askDepot);
+
+    // FADING STYRING
+    widget.querySelector('.js-row-boerneopsparing').classList.remove('biguid-row-faded');
+    widget.querySelector('.js-row-frikort').classList.remove('biguid-row-faded');
+
+    if (restAskSpace <= 0) {
+      widget.querySelector('.js-row-ask').classList.add('biguid-row-faded');
+      widget.querySelector('.js-hint-ask').innerText = "Kontoen er lukket for nye indskud da det maksimale loft for indbetalinger på Aktiesparekontoen er nået.";
+    } else {
+      widget.querySelector('.js-row-ask').classList.remove('biguid-row-faded');
+      widget.querySelector('.js-hint-ask').innerText = "Eget skattemiljø. Køb aktiebaserede fonde eller ETF'er fra Skattestyrelsens positivliste med lave årlige omkostninger.";
+    }
+
+    if (alder >= 18 && alder < 21) {
+      widget.querySelector('.js-hint-boerneopsparing').innerText = "Indbetaling kræver, at jeres specifikke bankaftale er sat til at løbe til 21 år.";
+    } else if (alder < 18) {
+      widget.querySelector('.js-hint-boerneopsparing').innerText = "Skal oprettes i din egen bank. Nordnet understøtter ikke børneopsparing. Tjek din banks regler for depotgebyrer. Afkast er 100% skattefrit under hele bindingen.";
+    }
+
+    // 3. GENERERING AF HANDLINGSPLAN FOR MINDREÅRIGE
+    const suffix = activeScenarie === "engang" ? "" : " om måneden";
+    let afkastNote = existDepot > 0 ? " Det eksisterende Frit Depot æder i forvejen " + formatDkr(estimeretEksisterendeAfkast) + " af frikortet årligt." : "";
+    let askNote = existAsk > 0 ? " Aktiesparekontoen har " + formatDkr(restAskSpace) + " kr. ledig indskudsplads tilbage." : "";
+
+    let bsStart = boerneopsparing > 0 
+      ? "Vi udnytter først børneopsparingens restkvote med **" + formatDkr(boerneopsparing) + suffix + "** (0% skat). " 
+      : "Børneopsparingen modtager intet (enten fyldt op eller udløbet i din bank). ";
+
+    let totalOverskud = budget - boerneopsparing;
+    let råd = "";
+
+    if (activeGiver === "foraeldre") {
+      if (totalOverskud <= 0) {
+        råd = bsStart + "Hele beløbet kan holdes inden for børneopsparingen. I slipper helt for at tænke på skattefælder.";
+      } else {
+        råd = bsStart + "Da de resterende " + formatDkr(totalOverskud) + suffix + " indbetales af **forældre**, skal de placeres på **Aktiesparekontoen (ASK)** for at undgå 'forældrefælden'." + askNote;
+      }
+    } else {
+      if (totalOverskud <= 0) {
+        råd = bsStart + "Hele beløbet rummes af den skattefrie børneopsparing.";
+      } else {
+        let overskudsRest = totalOverskud;
+        råd = bsStart + "Restbeløbet på " + formatDkr(overskudsRest) + suffix + " er fri for forældre-beskatning." + afkastNote;
+        
+        if (samletBrugtFrikortSpace >= frikortGranse) {
+          råd += " Da barnets frikort er **fuldstændig opbrugt** af løn/afkast, styrer vi helt uden om det frie depot med kapitalindkomst og sender i stedet restbeløbet direkte til **Aktiesparekontoen** (17% skat).";
+        } else if (frikortDepot > 0 && askDepot > 0) {
+          råd += " Da frikortet kun har delvist plads, splittes pengene: Sæt **" + formatDkr(frikortDepot) + suffix + "** på det **Frie Depot** (0% skat), og send de overskydende **" + formatDkr(askDepot) + suffix + "** til **Aktiesparekontoen (17% skat)**.";
+        } else {
+          råd += " Da barnet har ledig plads på frikortet, placeres alle de resterende **" + formatDkr(frikortDepot) + suffix + "** på det **Frit Depot** i kapitalindkomstbeskattede fonde for at få **0% i skat**.";
+        }
+      }
+    }
+
+    // Tilføj det universelle råd om formue/løn-skift til bunden af den grønne boks
+    råd += genererStrategiskiftTekst();
+
+    if ((activeScenarie === "maanedlig" && budget < 400) || (activeScenarie === "engang" && budget < 2000)) {
+      råd += "<br><br>⚠️ <strong style='color:#b45309;'>Pas på gebyrer (Kurtage):</strong> Dit investeringsbeløb er så lille, at faste handelsgebyrer kan æde en stor del af dit afkast. Hvis du ikke bruger en automatisk, gratis indkøbsordning (som f.eks. Nordnets Månedsopsparing), kan det bedre betale sig at **samle pengene sammen over et par måneder** og investere i færre, men større portioner.";
+    }
+
+    widget.querySelector('.js-bi-advice-text').innerHTML = råd;
+
+    const warningCard = widget.querySelector('.js-bi-warning-card');
+    if (advarsler.length > 0) {
+      warningCard.style.display = "block";
+      widget.querySelector('.js-bi-warning-text').innerHTML = advarsler.join('');
+    } else {
+      warningCard.style.display = "none";
+    }
+  }
+
+  widget.querySelectorAll('.biguid-clean-input').forEach(function(el) {
+    el.addEventListener('input', runLogic);
+  });
+
+  runLogic();
+})();
+</script>

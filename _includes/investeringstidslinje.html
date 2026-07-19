@@ -1,0 +1,164 @@
+<!-- CSS til det kombinerede tidslinje- og depotkort-modul -->
+<style>
+  .tl-card-container {
+    position: relative;
+    padding-left: 34px;
+    margin-bottom: 24px;
+    font-family: system-ui, -apple-system, sans-serif;
+    box-sizing: border-box;
+  }
+
+  /* Den lodrette tidslinje-streg */
+  .tl-card-container::before {
+    content: '';
+    position: absolute;
+    left: 7px;
+    top: 22px;
+    bottom: -28px;
+    width: 2px;
+    background-color: #e2e8f0;
+    z-index: 1;
+  }
+
+  .tl-card-container.tl-last::before {
+    display: none !important;
+  }
+
+  /* Tidslinjens cirkel-prik */
+  .tl-card-dot {
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #ffffff;
+    border-width: 4px;
+    border-style: solid;
+    z-index: 2;
+    box-sizing: border-box;
+  }
+
+  /* Tids-overskrift */
+  .tl-card-time-badge {
+    display: inline-block;
+    font-size: 13px; 
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 6px;
+  }
+
+  /* Selve Investeringskortet */
+  .tl-card-box {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+  }
+
+  .tl-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .tl-card-title {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.01em;
+  }
+
+  .tl-card-status-badge {
+    font-size: 9.5px;
+    font-weight: 800;
+    padding: 2.5px 8px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  /* Tvungen minimalistisk og dæmpet beskrivelsestekst */
+  .tl-card-desc {
+    font-size: 11px !important; 
+    color: #64748b !important; 
+    line-height: 1.5 !important;
+    margin: 0 0 12px 0 !important;
+  }
+
+  /* Den 3-søjlede metablok i bunden */
+  .tl-card-meta-bar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    background-color: #f8fafc;
+    border: 1px solid #f1f5f9;
+    border-radius: 8px;
+    padding: 6px 10px;
+  }
+
+  .tl-meta-col {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tl-meta-label {
+    font-size: 8px;
+    font-weight: 700;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 1px;
+  }
+
+  .tl-meta-value {
+    font-size: 11px;
+    font-weight: 700;
+    color: #334155;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  @media (max-width: 580px) {
+    .tl-card-meta-bar { grid-template-columns: 1fr; gap: 6px; }
+    .tl-card-header { flex-direction: column; align-items: flex-start; gap: 6px; }
+  }
+</style>
+
+<div class="tl-card-container {% if include.sidste == true or include.sidste == 'true' %}tl-last{% endif %}">
+  
+  <div class="tl-card-dot" style="border-color: {{ include.farve | default: '#2563eb' }};"></div>
+  
+  <span class="tl-card-time-badge" style="color: {{ include.farve | default: '#2563eb' }};">{{ include.tid }}</span>
+  
+  <div class="tl-card-box" style="border-top: 4px solid {{ include.farve | default: '#2563eb' }};">
+    
+    <div class="tl-card-header">
+      <h4 class="tl-card-title">{{ include.titel }}</h4>
+      <span class="tl-card-status-badge" style="background-color: {{ include.badge_baggrund | default: '#eff6ff' }}; color: {{ include.badge_tekst | default: '#2563eb' }};">{{ include.badge_navn }}</span>
+    </div>
+    
+    <p class="tl-card-desc">{{ include.beskrivelse }}</p>
+    
+    <div class="tl-card-meta-bar">
+      <div class="tl-meta-col">
+        <span class="tl-meta-label">Beskatning</span>
+        <span class="tl-meta-value">⚖️ {{ include.meta_skat }}</span>
+      </div>
+      <div class="tl-meta-col">
+        <span class="tl-meta-label">Indskudsloft</span>
+        <span class="tl-meta-value">💰 {{ include.meta_loft }}</span>
+      </div>
+      <div class="tl-meta-col">
+        <span class="tl-meta-label">Tilgængelighed</span>
+        <span class="tl-meta-value">🔒 {{ include.meta_tid }}</span>
+      </div>
+    </div>
+    
+  </div>
+</div>

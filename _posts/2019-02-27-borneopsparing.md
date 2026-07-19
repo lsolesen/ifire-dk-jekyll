@@ -131,7 +131,7 @@ Nordnet tilbyder ikke en traditionel, bunden børneopsparing. Derfor skal du bru
 
 At skulle flytte hele sit bankengagement for at få en god børneopsparing vil ofte være forbundet med høje omkostninger. Du kan også vælge at have en konto for mindreårige i din nuværende bank, men vær opmærksom på handelsomkostninger og depotgebyrer. De steder jeg har undersøgt, er Nordnet bare markant billigere i kurtage og gebyrer.
 
-[Få en gratis investeringsplan hos Nord](/go/nord/){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' }
+> 💡 **Vil du investere mere end 6.000 kr. om året?** Hvis du vil give dine børn et endnu større økonomisk forspring, skal du kombinere børneopsparingen med frikort-depoter og Aktiesparekontoen. Se min komplette og [investeringsguide til børn her](/investering-til-boern-guide/), hvor du også kan teste dine egne tal i min interaktive beregner.
 
 ## Børneopsparing i Tobi
 
@@ -143,15 +143,13 @@ Du vælger blot en risikoprofil, indbetaler penge, og så klarer Tobi resten. Ul
 
 {% include feature_row %}
 
-## Skat på en investeringskonto for mindreårige: Den store forskel i 2026
+## Skat på supplerende opsparing: Frikort vs. Aktiesparekonto
 
-Når du opretter en supplerende opsparing til mindreårige, hvor du investerer pengene udenom den låste børneopsparing, skal du være ekstremt opmærksom på skattereglerne. Her er landskabet udbygget markant de seneste år:
+Hvis du vælger at investere penge til dit barn *uden om* den låste børneopsparing (f.eks. på et depot hos Nordnet), ændrer skattereglerne sig markant. Her skal du navigere mellem barnets frikort (personfradrag på 54.100 kr. i 2026), som kræver specifikke kapitalindkomstbeskattede fonde, og den smarte Aktiesparekonto (17% lagerskat).
 
-1. **Gave-reglen fra forældre:** Hvis pengene er gaver fra *dig* (forælderen) til barnet, og de placeres på et almindeligt frit depot, bliver **du** beskattet af gevinsterne på barnets investeringer, hvis fonden beskattes som aktieindkomst efter realisationsprincippet. Hvis det er gaver fra andre, f.eks. bedsteforældrene eller onkler, er det altid barnet selv, der bliver beskattet.
-2. **Udnyttelse af Frikortet (Kapitalindkomst):** Unge under 18 år har et frikort (personfradrag) på **54.100 kr. i 2026**. Dette frikort kan *kun* modregnes i **kapitalindkomst**. Vil du bruge frikortet, skal du derfor købe fonde, der beskattes som kapitalindkomst (f.eks. *Nordnet Global Indeks*). 
-3. **Aktiesparekontoen (ASK) til mindreårige:** Nordnet tilbyder nu Aktiesparekontoen til børn. Den beskattes altid med en fast lav **lagerbeskatning på 17%**. Det geniale ved ASK er, at den kører i sit eget lukkede skattemiljø. Den udnytter ikke frikortet, hvilket gør den til den **absolut bedste løsning, hvis dit barn får et fritidsjob**, da barnets løn og investeringsafkast derved ikke spænder ben for hinanden.
+Derudover skal du passe på den klassiske "Forældrefælde", hvor du som forælder risikerer selv at blive beskattet af barnets afkast, hvis pengene er givet som gave fra dig.
 
-For en fuldstændig, dybdegående guide til, hvordan du sammensætter disse konti som forælder og tackler skiftet til fritidsjob, kan du læse min store **[Investering til børn: Den ultimative forældreguide](/investering-til-boern-guide/)**.
+For en fuldstændig, dybdegående gennemgang af disse skatteregler, og hvordan du vælger de helt rigtige fonde, kan du læse min store **[Investering til børn: Den ultimative forældreguide](/investering-til-boern-guide/)**.
 
 ## Andre måder at spare op til børnene
 
@@ -172,29 +170,20 @@ Ulempen ved en aldersopsparing er dog, at pengene først kan udbetales tæt på 
 {% include faq.html %}
 
 
-## Sådan har jeg sammensat mine børns opsparing (Min aktuelle omlægning)
+## Sådan har jeg sammensat mine børns traditionelle børneopsparing
 
-Jeg vil gerne ramme det globale aktiemarked på den mest omkostnings- og skatteeffektive måde. I mine undersøgelser af børneopsparingen er mit eget praktiske setup endt på følgende måde:
+For at ramme det globale aktiemarked på den mest omkostningseffektive måde, er mit eget setup for selve børneopsparingen endt på følgende måde:
 
-**Min førsteprioritet** er at have den traditionelle **børneopsparing** i banken, hvor jeg hvert år makser beløbet ud. Jeg har fået tilknyttet et investeringsdepot til kontoen. Her har jeg købt *"SparInvest MSCI ACWI"*. Fonden handles på den danske børs, er relativt billig i årlige omkostninger og handles i danske kroner.
+**Min absolutte førsteprioritet** er at makse den traditionelle **børneopsparing** i banken ud med 6.000 kr. om året. Jeg har fået Spar Nord til at tilknytte et investeringsdepot til kontoen, så pengene ikke bliver spist af inflationen. 
 
-**Min andenprioritet** var i mange år et almindeligt **depot for mindreårige hos Nordnet**. Her brugte vi i en årrække Nordnets egne indeksfonde (f.eks. *Nordnet Global Indeks*), da de beskattes som kapitalindkomst og kan købes kurtagefrit via Månedsopsparingen. På den måde kunne vi udnytte børnenes frikort, så længe de ikke havde anden indkomst. Man skal dog være opmærksom på, at Nordnets egne fonde er syntetiske. At de er syntetiske vil sige, at fondene ikke køber de fysiske, underliggende aktier direkte, men i stedet replikerer indeksets afkast via en finansiel aftale (et swap).
+Herinde har jeg købt den brede fond **"Sparinvest MSCI ACWI"**. Den handles på den danske børs, er fysisk baseret, har relativt lave årlige omkostninger, og da afkastet sker inden for børneopsparingens rammer, er det **100% skattefrit** for ungerne.
 
-{% include fond-skat-kort.html ticker="NNGBLINDX" %}
+### Hvad gør jeg, når børneopsparingen ikke er nok?
+I takt med at mine børn er vokset, har vi suppleret bankens børneopsparing med eksterne depoter hos Nordnet for at få mere fart på renters rente. 
 
-{% include depottype-kort.html type="frikort" %}
+Men når ungerne rammer teenagealderen og begynder at få **fritidsjobs**, ændrer spillet sig fuldstændigt, fordi deres løn pludselig begynder at æde af frikortet. Når det sker, skal du lægge strategien om og aktivere deres Aktiesparekonto for at holde investeringer og løn adskilt.
 
-{% include figure image_path="https://moneypennyandmore.dk/wp-content/uploads/2020/07/Ska%CC%88rmavbild-2020-07-03-kl.-08.56.00.png" caption="Brian Buus Madsen, Head of Business Management @ Nordnet forklarer her, hvad det vil sige at fondene er syntetiske." %}
-
-**Opdatering i dag (Når virkeligheden rammer):** I takt med at mine to ældste børn nu har ramt teenagealderen og er begyndt at få **fritidsjobs** kan spillet ændre sig markant. Deres løn spiser nu noget af frikortet, så jeg skal holde øje med om den kapitalindkomst, de har haft på det frie depot, pludselig står til at blive beskattet som personlig indkomst med helt op til 37-42%! 
-
-Når det sker, så vil jeg omlægge investeringen til deres **Aktiesparekonti (ASK) til mindreårige hos Nordnet**. 
-
-Planen er simpel: Vi omlægger de gamle Nordnet-fonde fra det frie depot og flytter hele værdien, de har stående klar til investering – over på deres nye Aktiesparekonti. 
-
-Herinde investerer vi pengene i den fysiske, brede og billige ETF **iShares MSCI ACWI (IUSQ)**. Med en fast lav lagerbeskatning på kun 17% sikrer vi, at deres investeringer kan vokse maksimalt i et lukket skattemiljø, mens deres hårdt tjente løn fra fritidsjobbet kan køre fuldstændig skattefrit videre på frikortet.
-
-Hvis du vil have den fulde, dybdegående guide til, hvordan du selv navigerer i denne svære skatteovergang, vælger de helt rigtige fonde og undgår de klassiske fælder, når ungerne får fritidsjob, så læs min komplette forældreguide her: **[Investering til børn: Den ultimative guide til frikort, ASK og Nordnet](/investering-til-boern-guide/)**.
+Hvis du vil se den præcise køreplan for, hvordan jeg håndterer mine børns supplerende depoter, tackler skiftet til fritidsjob og undgår skattefælderne, så læs min komplette guide her: **[Investering til børn: Den ultimative guide til frikort, ASK og Nordnet](/investering-til-boern-guide/)**.
 
 ## Hvordan har du lavet din børneopsparing?
 
