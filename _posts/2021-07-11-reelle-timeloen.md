@@ -180,7 +180,7 @@ Leg selv med dine egne scenarier.
 
 ## Konklusion
 
-Hvad bytter du din tid for? Når du har lavet en beregning af timeløn og reelt ved, hvad du tjener i timen på dit arbejde, så kan du også vurdere om det er tiden værd. For mig handler [tankerne om økonomisk frihed]({% link _posts/2020-03-08-hvad-er-okonomisk-frihed.md %}) også om at tage begrundede valg for mit liv.
+Hvad bytter du din tid for? Når du har lavet en beregning af timeløn og reelt ved, hvad du tjener i timen på dit arbejde, så kan du også vurdere om det er tiden værd. For mig handler [tankerne om økonomisk frihed](/hvad-er-okonomisk-frihed/) også om at tage begrundede valg for mit liv.
 
 Nu kan du også udregne præcist, hvor meget tid du skal bruge for at få råd til dit forbrug.
 

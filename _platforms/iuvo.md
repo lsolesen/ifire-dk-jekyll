@@ -67,7 +67,7 @@ Da Iuvo Group var en crowdlending-platform hjemmehørende i {{ page.country }}, 
 
 {% include figure image_path="/assets/images/skat/iuvo-tax.png" caption="Sådan finder du årsopgørelsen på Iuvo" alt="årsopgørelse skat iuvo" %}
 
-I dag findes der langt sikrere, EU-regulerede alternativer til passiv indkomst. Du kan læse mere om, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+I dag findes der langt sikrere, EU-regulerede alternativer til passiv indkomst. Du kan læse mere om, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ---
 *Da platformen er under afvikling og permanent lukket for nye investeringer, er alle historiske sign-up bonusser, referral-aftaler og tilmeldingslinks blevet fjernet.*

@@ -1,13 +1,13 @@
 ---
-title: "Mine erfaringer med dansk crowdlending: Status efter den store oprydning"
+title: "Dansk Crowdlending - Mine erfaringer og status efter den store oprydning"
 seo_title: "Dansk crowdlending status • 2026-opdatering på de danske platforme »"
 permalink: /dansk-crowdlending/
 category:
   - Crowdlending
 tags:
   - crowdlending
-  - featured
   - Danmark
+last_modified_at: 2026-07-20T13:15:00+02:00
 excerpt: "Jeg har investeret i dansk crowdlending i en lang årrække. Her er en grundig og ærlig status på mine investeringer efter den store udskilning på markedet."
 description: "Jeg har investeret i dansk crowdlending i en årrække. Men hvad er status egentlig på crowdlending og crowdfunding i Danmark efter de seneste års store oprydning?"
 header:
@@ -96,7 +96,7 @@ Korthuset kollapsede endegyldigt, da selskabet indgav en **officiel konkursbegæ
 
 Et af deres største projekter ("Hovedstaden I" i Rødovre) var i årevis lammet af selskabsbøvl, massive fugtskader og forsinkelser, hvilket fastlåste millioner af investorkroner uden afkast. Selvom selve ejendommene lå i juridisk adskilte underselskaber (AIF-SIKAV-struktur), har konkursen i moderselskabet og de efterfølgende drakoniske administrationsomkostninger under kurator og rekonstruktion ført til massive værditab og fastlåste midler for investorerne. 
 
-Du kan læse hele den ucensurerede historie om det store danske krak i min [case-beskrivelse på crowdlending-kirkegården her](/crowdlending-svindel-erfaringer/).
+Du kan læse hele den ucensurerede historie om det store danske krak i min [case-beskrivelse på crowdlending-kirkegården her](/crowdlending-opdatering/).
 
 ---
 
@@ -117,7 +117,7 @@ Hvis du er interesseret i crowdlending mere generelt – og gerne vil se alle de
 
 ---
 
-## Aktive og historiske platforme i Danmark
+## Aktive platforme i Danmark
 
 {% assign site_posts = site.platforms | where: "tags", "crowdlending" | where: "tags", "Danmark" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 

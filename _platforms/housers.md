@@ -69,7 +69,7 @@ Da Housers var en spansk platform hjemmehørende i {{ page.country }}, var man s
 
 {% include figure image_path="/assets/images/skat/housers-tax.png" caption="Sådan fandt man historisk årsopgørelsen på Housers" alt="årsopgørelse skat housers" %}
 
-Jeg har skrevet en generel guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en generel guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Konklusion
 

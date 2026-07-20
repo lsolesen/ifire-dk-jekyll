@@ -1,5 +1,5 @@
 main:
-  - title: Kom i gang
+  - title: 🔥 Kom i gang
     url: /kom-i-gang/
   - title: Privatøkonomi
     url: /privatokonomi/
@@ -9,10 +9,6 @@ main:
     url: /min-strategi/
   - title: Værktøjer
     url: /vaerktoejer/
-  - title: Blog
-    url: /blog/
-  - title: Om
-    url: /om/
 blog:
   - title: Om investeringer
     children:

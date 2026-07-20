@@ -1,5 +1,5 @@
 ---
-title: "Kom i gang som ung: Tjen, spar og invester"
+title: "Kom i gang som ung 🔥: Tjen, spar og invester"
 seo_title: "Kom i gang som ung • Tjen, spar og invester dig til frihed 🚀 »"
 permalink: /ung-rigdomsformel/
 category:

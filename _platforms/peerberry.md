@@ -82,6 +82,6 @@ Da PeerBerry er en udenlandsk crowdlending-platform hjemmehørende i {{ page.cou
 
 {% include figure image_path="/assets/images/skat/peerberry-tax.png" caption="Sådan finder du årsopgørelsen på PeerBerry" alt="årsopgørelse skat peerberry" %}
 
-Jeg har skrevet en detaljeret guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en detaljeret guide til, hvordan du håndterer [indberetning af skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 [Tilmeld dig PeerBerry her](/go/peerberry/){: .btn .btn--large .btn--warning rel="sponsored nofollow noopener" }

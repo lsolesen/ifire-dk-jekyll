@@ -1,115 +1,104 @@
 ---
 layout: single
-title: "Investering: Hvordan kommer du i gang enkelt og minimalistisk?"
-seo_title: "Investering: Hvordan kommer du i gang enkelt og minimalistisk?"
-excerpt: "En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg."
+title: &title "Investering: Guide til simpel og minimalistisk formueopbygning"
+seo_title: "Investering • Guide til simpel & minimalistisk aktiehandel »"
+description: "Vil du i gang med at investere enkelt og effektivt? Få det komplette overblik over passiv investering, indeksfonde, Aktiesparekonto og platforme."
+excerpt: "At investere behøver hverken være svært, uoverskueligt eller tidskrævende. Lær at opbygge en minimalistisk investeringsportefølje, der passer sig selv."
 permalink: /investering/
-header:
-  overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=5
-#  actions:
-#    - label: "Presale: Kursus i minimalistik investering"
-#      url: "https://ifire.thinkific.com/courses/minimalistisk-investering"
-toc: true
+category:
+  - Investering
 author_profile: true
-feature_row_solutions:
-  - image_path: /assets/images/logo/mintos.png
-    alt: "Mintos"
-    title: "Mintos"
-    excerpt: "[Mintos](/go/mintos/){: rel='sponsored nofollow noopener' } er den største europæiske crowdlending-platform, hvor du får adgang til et meget diversificeret lånemarked og tjen mere end 9%+"
-    url: /go/mintos/
-    btn_label: "Få Mintos"
-    btn_class: "btn--info"
-feature_row_own:
-  - image_path: /assets/images/logo/nordnet.png
-    excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/){: rel="nofollow noopener" } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing/) og aldersopsparingen.'
-  - image_path: /assets/images/logo/saxoinvestor.png
-    excerpt: 'Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel="nofollow noopener" } til min [aktiesparekonto](/aktiesparekonto/) og handel uden minimumskurtage.'
+toc: true
+last_modified_at: 2026-07-20T17:00:00+02:00
+header:
+  overlay_image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+  caption: *title
 ---
-
-En investering er når du sætter dine penge i noget, som du forventer vil give et afkast. Afkastet kan både komme over tid ved at beholde investeringen, eller det kan være penge investoren håber at kunne få hjem ved et fremtidigt salg. 
-
-{% comment %}
-
-## Search intent
-Investering: Sådan investerer du din opsparing ...
-Om at investere - Finans Danmark
-Investering af penge » Sådan kommer du i gang | Nordea
-Investering for begyndere [2021] - Lær at investere
-Investering: 100 kr. om måneden kan blive til en mindre formue
-Investering - optimer dit afkast hos Vestjysk Bank
-Investering – hvad er en investering? | e-conomic
-
-{% endcomment %}
-
-Investeringer kan være en af [mange ideer til at skabe passiv indkomst](/passiv-indkomst/). Du kan både investere tid, men du kan også investere penge. Og selvom du investerer penge, så kræver det også lidt tid.
-
-En investering kan være i mange ting, men her fokuserer jeg på investeringer i aktier og værdipapirer, crowdlending, metaller og kryptovaluta.
 
 {% include disclosure.html %}
 
-## Hvad er en investering?
+En **investering** er i sin enkleste form at sætte dine penge i arbejde i aktiver, som forventes at vokse i værdi eller udbetale et løbende afkast over tid.
 
-Der er mange måder at investere dine penge på. Når man laver en investering, så satser man på, at du bruger pengene på noget, der giver flere penge på den lange bane.
+Mange tror fejlagtigt, at god investering handler om at sidde klistret til skærmen, analysere regnskaber og gætte på morgendagens vinderaktier. Sandheden er den stik modsatte: **De mest succesfulde investorer bruger færrest muligt kræfter på deres portefølje.**
 
-Men det er jo ikke sikkert, at markedet arter sig helt, som du havde håbet. Derfor skal du være opmærksom på, at investeringer kommer med en risiko. Der er nemlig ingen garantier, så du kan lave både gode og dårlige investeringer.
+Gennem en **minimalistisk investeringsstrategi** placerer du dine penge i brede, globale markeder til de lavest mulige omkostninger. Det minimerer din risiko og frigiver din tid til alt det i livet, der reelt betyder noget.
 
-## Investeringer og risiko - gode og dårlige investeringer
+---
 
-Jeg vil gerne bruge mine investeringer til at skabe passiv indkomst. Det er et redskab til, at min økonomi stille og roligt kan vokse. Men i investeringsverden er der ingen, der kan garantere, om markedet går den ene eller anden vej, selvom rigtig mange forsøger at gøre sig kloge på det.
+## 🏛️ Porteføljens opbygning: Core-Satellite modellen
 
-Derfor er der også en betydelig risiko ved at sætte dine penge i investeringer. Du kan altså både tjene penge og tabe penge næsten uanset, hvad du investerer i.
+Når du sammensætter din portefølje, giver det god mening at skelne mellem dit absolutte fundament (*Core*) og mere spekulative tilføjelser (*Satellites*):
 
-Derfor kan investeringer også handle om timing. Du skal altså kunne tåle at tabe dine penge, eller også skal du have råd til at være tålmodig.
+```
+┌───────────────────────────────────────────┐
+│    CORE / FUNDAMENTET (80 - 90 %)         │
+│  Passive Globale Indeksfonde & ETF'er     │
+└────────────────────┬──────────────────────┘
+                     │
+                     │
+┌────────────────────┴──────────────────────┐
+│     SATELLITTER / TILVALG (10 - 20 %)     │
+│   Kryptovaluta, Guld, REITs & Enkeltaktier│
+└───────────────────────────────────────────┘
+```
 
-Gode investeringer er altså investeringer, der balancerer risikoen med det forventede afkast.
+---
 
-## Hvad kan man investere i?
+## 📈 1. Hovedmotoren: Aktier & Indeksfonde (Core)
 
-Du kan som sagt investere i alt, hvor du forventer at kunne tjene penge over tid. Du kan altså investere i alt fra antikke biler og designermøbler eller aktier og obligationer.
+Aktiemarkedet har historisk set været den stærkeste motor for formueopbygning. I stedet for at håndplukke enkelte selskaber bør du lade [renters rente-effekten](/renters-rente/) løfte din samlede formue ved at eje en lille bid af tusindvis af virksomheder verden over.
 
-Uanset hvad du investerer i, så vil det tage lidt af din tid.
+* **[Passiv Investering for begyndere](/passiv-investering/):** Lær hvorfor indeksfonde og ETF'er slår professionelle investorer over tid.
+* **[Aktiesparekontoen](/aktiesparekonto/):** Sådan udnytter du Danmarks mest lempeligt beskattede depot (kun 17 % skat).
+* **[Nordnet Månedsopsparing](/nordnet-maanedsopsparing/):** Trin-for-trin guide til at sætte dine månedlige investeringer på fuld automatik uden kurtage.
+* **[Bæredygtige & Grønne Aktier](/groenne-aktier/):** Sådan investerer du med tanke på miljø og klima uden at gå på kompromis med dit afkast.
 
-### Aktier og værdipapirer
+---
 
-Aktier og værdipapirer er en meget populær måde at investere på. Hvis du har tilgængelig kapital, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier eller investeringsforeninger og fonde, der dækker bestemte dele af markedet. Jeg sværger selv til at minimere min risiko ved at følge verdensmarkedet gennem passiv indeksfonde og ETF'er.
+## 🛰️ 2. Satellitter & Alternative Investeringer (Satellites)
 
-Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+Når rygraden i din portefølje er på plads i brede indeksfonde, kan du vælge at krydre din økonomi med mindre placeringer i alternative aktivklasser:
 
-Læs mere om [investering i aktier og værdipapirer](/investering-aktier/).
+* **[Ejendomme i porteføljen (REITs)](/ejendomme-i-portefoljen/):** Lær hvordan du investerer i fast ejendom via børsnoterede ejendomsselskaber uden at skulle lege udlejer.
+* **[Kryptovaluta & Bitcoin](/kryptovaluta/):** Læs den komplette guide til digital valuta, sikker opbevaring i [hardware wallets](/go/ledger/) og den danske krypto-skat.
+* **[Investering i Guld](/guld/):** Hvordan fungerer ædelmetaller som beskyttelse mod inflation og finansiel uro?
+* **[Crowdlending](/crowdlending/):** Et kig på lånemarkedet og hvorfor risikoen skal afvejes nøje i forhold til renteafkastet.
 
-### Crowdlending
+---
 
-Crowdlending er en måde at investere i lån - enten til private eller til virksomheder. Du sætter dine penge ind, og så tjener du renter på at have udlånt dine penge. Selvom det virker ret sikkert, så har der været risiko. Der er heldigvis [crowdlending-platforme i Danmark](/dansk-crowdlending/), hvor sikkerheden er lidt højere end de udenlandske platforme. Til gengæld er renterne også lidt lavere.
+## 🛠️ 3. Skatteoptimering: Behold mere af dit afkast
 
-Læs mere om [crowdlending og crowdfunding](/crowdlending/).
+Investering handler ikke kun om afkast, men i høj grad om, hvor meget du får lov at beholde efter skat. Ved at vælge de rigtige kontotyper kan du spare tusindvis af kroner:
 
-### Kryptovaluta og Bitcoins
+| Kontotype | Skattesats | Beskatningsform | Bedst til |
+| :--- | :--- | :--- | :--- |
+| **[Aktiesparekonto](/aktiesparekonto/)** | 17 % | Lagerbeskattet | Udenlandske ETF'er og enkeltaktier (op til beløbsgrænsen) |
+| **Aldersopsparing** | 15,3 % | Lagerbeskattet | Langsigtet pensionsopsparing uden modregning |
+| **Frikort (Børn/Unge)** | 0 % (op til fribeløb) | Kapitalindkomst | Indeksfonde/ETF'er beskattet som kapitalindkomst til børn |
+| **Almindeligt Depot** | 27 % / 42 % | Realisations- / Lagerbeskattet | Månedsopsparing i danske udbyttebetalende indeksfonde |
 
-Kryptovaluta og Bitcoins er et meget omskifteligt marked. Personligt har jeg sat en lille smule penge i Bitcoins primært som en opsparing, og jeg køber Bitcoins efter Dollar-Cost-Average-metoden for stille og roligt at samle flere Bitcoins. Nogle anbefaler maksimalt at have omkring 2% af sin portefølje som Bitcoins. 
+> 🛠️ **Undgå Skattefælden:** Læs min guide til [Skats Positivliste](/skats-positivliste/) for at forstå forskellen på aktieindkomst og kapitalindkomst, når du køber ETF'er.
 
-Læs mere om [kryptovaluta](/kryptovaluta/) og [Bitcoins](/bitcoins/).
+---
 
-### Guld og metaller
+## ⚙️ Platforme: Hvor skal du åbne dit depot?
 
-Guld har fyldt en stor del af økonomien gennem historien. Det har fungeret som betalingsmiddel, og mange valutaer og også tidligere været bundet op på guld. Guld kan være en måde at sikre sin investeringsportefølje mod inflation.. 
+Du behøver ikke ti forskellige konti for at komme i gang. For langt de fleste investorer i Danmark er det rigelige at benytte én eller to af de etablerede platforme:
 
-Du kan læse mere om [investering i guld her](/guld/).
+**Læs**: Se mit setup på [mine investeringer](/mine-investeringer/).
 
-### Ejendomsinvestering
+---
 
-Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending](/ejendomme-i-portefoljen/) eller hvordan man investerer i [REIT](/ejendomme-i-portefoljen/).
+## 🧮 Værktøjer til din investeringsrejse
 
-## Bæredygtige investeringer
+* 🧮 **[Opsparingsberegner](/opsparingsberegner/):** Udregn hvor meget et fast månedligt beløb vokser til over 10, 20 eller 30 år.
+* 🧮 **[FIRE & Økonomisk Frihed Beregner]({% link _posts/2021-07-10-okonomisk-uafhaengighed-beregner.md %}):** Se hvor stor en investeret formue du skal opbygge for at nå økonomisk uafhængighed.
+* 📱 **[Find den bedste Aktie App](/aktie-apps/):** Sammenligning af handels-apps og værktøjer som Portfolio Performance og Google Sheets.
 
-Jeg vil allerhelst bruge mine penge på bæredygtige investeringer og impact-investeringer. En af de store udfordringer med gerne at ville lave en bæredygtig investering er at finde ud af, hvor på bæredygtighedstrappen du selv vil placere dig.
+---
 
-Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [grønne aktier](/groenne-aktier/).
-
-## Investeringsløsninger
-
-{% include feature_row id="feature_row_solutions" type="left" %}
-
-## Indlæg om investeringer
+## 📰 Seneste artikler om Investering
 
 <div class="feature__wrapper">
 
@@ -122,9 +111,5 @@ Jeg har skrevet mere om [bæredygtige investeringer](/investering-vol3/) og [gr�
 {% endif %}
 
 </div>
-
-## Mine investeringer
-
-{% include feature_row id="feature_row_own" type="center" %}
 
 {% include disclaimer.md %}

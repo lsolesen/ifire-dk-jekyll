@@ -86,7 +86,7 @@ Som dansk investor skal du selv indberette dine årlige renteindtægter (og modr
 
 {% include figure image_path="/assets/images/skat/mintos-tax.png" caption="Sådan finder du skatteopgørelsen inde på Mintos" alt="årsopgørelse skat mintos" %}
 
-Jeg har skrevet en uddybende guide om, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en uddybende guide om, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Min historiske tidslinje (2019)
 

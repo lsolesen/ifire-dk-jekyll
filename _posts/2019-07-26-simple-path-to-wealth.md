@@ -15,7 +15,6 @@ tags:
   - jl collins
   - økonomisk frihed
 excerpt: "JL Collins' 'The Simple Path to Wealth' er bibelen inden for finansiel uafhængighed. Her udfolder vi hans tanker om penge, frihed og markedet, og ser på, hvordan filosofien oversættes til danske forhold."
-classes: wide
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781533667922/0x500
     alt: "The Simple Path to Wealth"

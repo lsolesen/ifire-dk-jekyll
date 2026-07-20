@@ -53,6 +53,6 @@ Nu har jeg sat den resterende del af min portefølje til _Payout_, og så glæde
 
 {% include figure image_path="/assets/images/skat/robocash-tax.png" caption="Sådan finder du årsopgørelsen på Robocash" alt="årsopgørelse skat robocash" %}
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 [Robocash\*](/go/robocash/){: .btn .btn--large .btn--warning}

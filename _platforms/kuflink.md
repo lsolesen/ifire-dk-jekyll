@@ -58,7 +58,7 @@ Da {{ page.title }} er en crowdlending-platform hjemmehørende i {{ page.country
 
 {% include figure image_path="/assets/images/skat/kuflink-tax.png" caption="Sådan finder du årsopgørelsen på Kuflink" alt="årsopgørelse skat kuflink" %}
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ---
 *Da jeg har lukket min konto og trukket mig helt ud af det britiske crowdlending-marked for at strømlinede min FIRE-strategi, er alle aktive tilmeldingslinks og henvisninger fjernet fra denne side.*

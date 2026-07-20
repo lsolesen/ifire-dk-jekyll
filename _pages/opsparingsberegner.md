@@ -65,7 +65,7 @@ Du kan indtaste din nuværende opsparing, løbende månedlige indbetalinger og d
 Du kan bruge vores opsparingsberegner til at udregne følgende:
 
 - Hvor stor bliver min min pension, når jeg indbetaler årlige beløb og har en bestemt forrentning?
-- Hvad kan jeg forvente, at min [børneopsparing vokser til]({% link _posts/2019-02-27-borneopsparing.md %}) om 10 år?
+- Hvad kan jeg forvente, at min [børneopsparing vokser til](/borneopsparing/) om 10 år?
 - Hvor meget skal jeg spare op før jeg har råd til en udbetaling?
 - Hvor hurtigt vokser min opsparing?
 - Hvor stor er forskellen på min opsparing, hvis jeg har et afkast på henholdsvis 5% eller 10%?

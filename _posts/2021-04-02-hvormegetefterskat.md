@@ -126,7 +126,7 @@ Hvis vi nu tjener 5.000 kroner om måneden før skat.
 
 Vi ender altså med en skatteprocent under 8%, og får 4.509 kroner udbetalt.
 
-Det er altså primært arbejdsmarkedsidraget og ATP der spiser noget af vores løn.
+Det er altså primært arbejdsmarkedsbidraget og ATP der spiser noget af vores løn.
 
 Pengene kan supplere indtægten fra vores investeringsportefølje.
 

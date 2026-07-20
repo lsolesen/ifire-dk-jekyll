@@ -3,7 +3,6 @@ title: "‘Simple Path to Wealth’ - hold strategien #7"
 last_modified_at: 2019-10-27T09:20:02+02:00
 permalink: /investering-vol7/
 category:
-  - Investering
   - Opdateringer
 tags:
   - investering

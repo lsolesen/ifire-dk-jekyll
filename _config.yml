@@ -91,6 +91,15 @@ social:
 
 footer:
   links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-newspaper"
+      url: "/blog/"
+    - label: "Om"
+      icon: "fas fa-fw fa-info-circle"
+      url: "/om/"
+    - label: "Disclaimer"
+      icon: "fas fa-fw fa-balance-scale"
+      url: "/disclaimer/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/ifiredk"

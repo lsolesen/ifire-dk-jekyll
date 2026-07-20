@@ -66,7 +66,7 @@ Da Crowdestor er en crowdlending-platform med oprindeligt hjemmesæde i {{ page.
 
 {% include figure image_path="/assets/images/skat/crowdestor-tax.png" caption="Sådan finder du årsopgørelsen på Crowdestor" alt="årsopgørelse skat crowdestor" %}
 
-Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om at [indberette skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ---
 *Konklusion: På grund af de ekstreme misligholdelsesrater, manglende EU-regulering og platformens generelle run-off status er alle anbefalinger og tilmeldingslinks til Crowdestor permanent fjernet fra denne side.*

@@ -44,7 +44,7 @@ Da Bulkestate er en crowdlending-platform med oprindeligt juridisk hjemmesæde i
 
 {% include figure image_path="/assets/images/skat/bulkestate-tax.png" caption="Sådan finder du årsopgørelsen på Bulkestate" alt="årsopgørelse skat bulkestate" %}
 
-Jeg har skrevet en uddybende guide til, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet en uddybende guide til, hvordan du [indberetter skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ---
 *Da platformen har indstillet alle nye udlån og udelukkende kører i "run-off"-mode for at lukke eksisterende projekter, har jeg fjernet det oprindelige tilmeldingslink.*

@@ -6,6 +6,7 @@ last_modified_at: 2021-03-14T09:20:02+02:00
 permalink: /skat-af-dansk-udenlandsk-crowdlending/
 category:
   - Investering
+  - Crowdlending
 tags:
   - investering
   - skat

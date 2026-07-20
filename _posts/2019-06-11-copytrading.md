@@ -107,7 +107,7 @@ Mange af de positioner, der åbnes under copy trading (især råvarer, krypto og
 Disse beskattes typisk som **kapitalindkomst** efter lagerprincippet, hvilket er væsentligt anderledes end almindelig aktieindkomst. Det er her, det for alvor kan blive administrativt tungt at skille tingene ad, da din kontoopgørelse vil indeholde hundredvis af små handler, du ikke selv har foretaget direkte.
 
 ### Hvordan indberetter jeg commisions (spreads)?
-Hvis du har betalt direkte kommissioner eller gebyrer, kan de under visse forudsætninger trækkes fra. Jeg har tidligere indberettet visse af disse omkostninger som kapitalindkomst på samme måde, som når jeg indberetter [skat fra crowdlending]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Hvis du har betalt direkte kommissioner eller gebyrer, kan de under visse forudsætninger trækkes fra. Jeg har tidligere indberettet visse af disse omkostninger som kapitalindkomst på samme måde, som når jeg indberetter [skat fra crowdlending](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Konklusion: Er copy trading det værd?
 

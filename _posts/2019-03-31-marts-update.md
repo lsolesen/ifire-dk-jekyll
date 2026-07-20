@@ -17,7 +17,7 @@ Jeg har virkelig glædet mig til at lave denne opdatering, fordi det er første 
 
 Først og fremmest så har jeg [sparet en del penge](/spar-penge/) bl.a. på at [melde mig ud af Folkekirken](/kirkeskat/) og sætte lidt [mindre pris på mig selv ved mine forsikringer](/forsikringer/).
 
-Desuden satte jeg gang i et projekt med at [skabe lidt passiv indkomst](/projekt-referral-affiliate/), men først og fremmest så har jeg brugt en del tid på at få styr på [mine](/investering/) [investeringer](/investering-vol2/).
+Desuden satte jeg gang i et projekt med at [skabe lidt passiv indkomst](/tjene-penge-blogge/), men først og fremmest så har jeg brugt en del tid på at få styr på [mine](/investering/) [investeringer](/investering-vol2/).
 
 Lige nu er min samlede fordeling:
 

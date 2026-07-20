@@ -53,6 +53,15 @@ For at spare min egen tid begyndte jeg at udlicitere opgaver via platformen *Fiv
 **Krypto-sidehustles:**
 Jeg installerede også programmet *Minergate* på min private computer, så den kunne mine kryptovalutaen Monero (XMR), når processoren alligevel havde overskud. En hel måneds uafbrudt mining indbragte mig dog kun ca. 7 USD, så det var bestemt ikke vejen til hurtig rigdom [42]. Derudover brugte jeg *Coinbase Earn* til at tage kurser og tjene småbeløb i valutaer som Stellar Lumens (XLM), EOS og Orchid (OXT), samt modtog et "airdrop" på 688 XLM ved at verificere mig på Keybase [43-45].
 
+> 📝 **Notits: Sandheden om digitale side hustles på FIRE-rejsen**
+> 
+> Jeg har samlet og opdateret mine erfaringer med alt fra niche-blogs, affiliate marketing og AirBnb til Amazon KDP-bøger og Shutterstock-fotos.
+> 
+> **Konklusionen for min rejse mod finansiel uafhængighed:** 
+> Reelt passiv indkomst (hvor tidsforbruget er tæt på nul) findes stort set kun på aktiemarkedet via brede, passive indeksfonde. Digitale produkter og blogs kan være et sjovt og lærerigt supplement til at øge opsparingsraten, men i dagens landskab med AI og algoritmeændringer er det alt andet end "nemme, passive penge". Indeksfonde forbliver den absolutte hovedmotor i min FIRE-strategi.
+> 
+> 👉 Se den samlede guide: [Passiv indkomst](/passiv-indkomst/) og [Sælg digitale produkter](/passiv-indkomst-digitale-produkter/).
+
 ## 3. Investere klogere: Rejsen til 'Coast FIRE'
 
 Den tredje del af rigdomsformlen handlede om at få de sparede penge ud at arbejde [46]. Min investorrejse var i de første år præget af en enorm trang til at bygge ekstremt komplicerede porteføljer, handle enkeltaktier, og oprette konti på uregulerede crowdlending-platforme – hvilket du kan læse alt om i min ucensurerede **[Min Investorrejse](/min-investorrejse/)** [47, 48].

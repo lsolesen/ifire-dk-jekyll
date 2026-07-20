@@ -68,6 +68,31 @@ Samtidig kastede jeg mig over **kryptovaluta**. Jeg oprettede konti på Kraken o
 
 **Mit mål var at tjene penge passivt, men jeg havde reelt givet mig selv et nyt deltidsjob som administrator for mine egne penge.**
 
+### Crowdlending: Fra guldfeber og Risk-Reward-modeller til den store oprydning
+
+Crowdlending-delen af min portefølje har igennem årene været en af mine mest lærerige (og dyrekøbte) rutsjebaneture. 
+
+Det startede med en god portion "guldfeber", hvor jeg blev lokket af tocifrede renter, cashback-bonusser og løfter om passiv indkomst. Inden jeg havde set mig om, stod min kapital spredt ud over mere end 20 forskellige europæiske platforme.
+
+#### Forsøget på at skabe orden: Risk-Reward-modellen
+For at få styr på det voksende kaos og undgå at investere i øst og vest, byggede jeg min egen **Risk-Reward-model** i et regneark. Tanken var simpel: Ved at vægte platformens sikkerhed (regulering, buyback, pantesikkerhed m.m.) op mod den reelle interne rente (XIRR), ville jeg lave en objektiv genvej til at rebalancere min portefølje mod de mest risikoforholdsmæssigt fornuftige platforme.
+
+#### Da matematikken ramte virkeligheden (Grupeer-fældeforblændelsen)
+Modelbyggeriet lærte mig dog en meget vigtig lektion: **Regneark fanger ikke svindel.**
+
+Min model gav f.eks. den lettiske platform *Grupeer* en flot samlet score, fordi platformens tårnhøje intern rente (XIRR på over 13–14 %) rykkede det samlede regnestykke op. Afkastet forblændede formlen. Få måneder senere lukkede Grupeer ned under svindelanklager og fiktive projekter. 
+
+Det blev et vendepunkt for min tilgang til alternativer.
+
+#### Den endelige konklusion: Ekstrem forenkling
+Siden da har min crowdlending-strategi undergået et gennemgribende kursskifte:
+
+* **Ingen uregulerede platforme:** Renter på 15–18 % er ikke "gratis penge" – det er en risikopræmie for overhængende konkursrisiko.
+* **Kvalitet over kvantitet:** Jeg har lukket over 80 % af mine platforme og konsolideret midlerne på få, EU-regulerede aktører med skarp gennemsigtighed (f.eks. Mintos, PeerBerry og skandinaviske Kameo).
+* **Nattesøvn over merafkast:** Crowdlending fylder i dag en markant mindre og mere kontrolleret "satellit-andel" i min samlede formuestrategi, hvor brede aktie-ETF'er fortsat udgør motoren.
+
+👉 **Læs mere:** Du kan se hele den tekniske beregningsmodel i min [master-guide til crowdlending](/crowdlending/) eller læse om alle mine tabstal på [Crowdlending-kirkegården](/crowdlending-opdateringer/).
+
 ## Kapitel 3: Jagten på "Asset Allocation" og faldende knive
 
 Sideløbende med crowdlending brugte jeg værktøjet *Portfolio Visualizer* til at backteste den "perfekte" investerings-portefølje.

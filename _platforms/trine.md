@@ -93,7 +93,7 @@ Da Trine er hjemmehørende i {{ page.country }}, skal du som dansk investor selv
 
 {% include figure image_path="/assets/images/skat/trine-tax.png" caption="Sådan finder du årsopgørelsen på Trine" alt="årsopgørelse skat trine" %}
 
-Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Konklusion: Hvorfor jeg stadig er på Trine
 

@@ -123,9 +123,7 @@ Grundlæggende kan du opbygge en **madplan på to måder**:
 
 Det behøver ikke koste noget at få inspiration til gode, gennemtænkte måltider.
 
-Hvis du vil have det ekstra nemt, kan du afprøve måltidskasser. Jeg har selv jævnligt abonnere på [måltidskasser fra Aarstiderne](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1825824&media_id=90735), som jeg har været rigtig glad for. Det fede var de økologiske råvarer og spændende opskrifter, som jeg ikke selv var kommet på.
-
-Også [Hello Fresh](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1846880&media_id=81507) har gode introduktionstilbud, som du kan afprøve.
+Hvis du vil have det ekstra nemt, kan du afprøve måltidskasser. Jeg har selv jævnligt abonnere på måltidskasser fra Aarstiderne, som jeg har været rigtig glad for. Det fede var de økologiske råvarer og spændende opskrifter, som jeg ikke selv var kommet på.
 
 Vil du holde budgettet helt i bund, kan du i stedet benytte fantastiske **gratis hjemmesider med madplaner**:
 

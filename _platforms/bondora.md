@@ -51,7 +51,7 @@ Bondora er en crowdlending-platform hjemmehørende i {{ page.country }}, hvilket
 
 {% include figure image_path="/assets/images/skat/bondora-tax.png" caption="Sådan finder du årsopgørelsen inde på Bondora" alt="årsopgørelse skat bondora" %}
 
-Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Min historiske tidslinje på platformen (2019)
 

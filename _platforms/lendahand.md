@@ -66,7 +66,7 @@ Ligesom med al anden crowdlending i udviklingslande er risikoen til stede. Lenda
 
 {% include figure image_path="/assets/images/skat/lendahand-tax.png" caption="Sådan finder du årsopgørelsen på Lendahand" alt="årsopgørelse skat lendahand" %}
 
-Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her]({% link _posts/2021-03-14-skat-crowdlending.md %}).
+Jeg har skrevet mere om, hvordan du generelt håndterer [indberetning af skat til dansk og udenlandsk crowdlending her](/skat-af-dansk-udenlandsk-crowdlending/).
 
 ## Min historiske udvikling og performance
 

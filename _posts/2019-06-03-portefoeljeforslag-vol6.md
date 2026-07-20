@@ -3,7 +3,6 @@ title: "Nye fonde fra Storebrand til porteføljeforslagene #6?"
 last_modified_at: 2020-01-03T20:20:02+02:00
 permalink: /investering-vol6/
 category:
-  - Investering
   - Opdateringer
 tags:
   - investering

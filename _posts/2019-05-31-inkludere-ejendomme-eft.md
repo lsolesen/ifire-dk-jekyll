@@ -99,7 +99,7 @@ Oprindeligt spredte jeg mine investeringer på platforme som danske **The Many**
 
 Det skal man *ikke* gøre i dag. The Many endte i en konkursbegæring under dyre rekonstruktioner, og mange af de udenlandske platforme er enten kollapset, under afvikling eller druknet i dårlige lån og uigennemskuelige gebyrer. 
 
-Vil du læse den hudløst ærlige historie om mine tab her, kan du besøge min [crowdlending-kirkegård](/crowdlending-svindel-erfaringer/).
+Vil du læse den hudløst ærlige historie om mine tab her, kan du besøge min [crowdlending-kirkegård](/crowdlending-opdatering/).
 
 ### Den overlevende model: Regulerede byggelån
 Den eneste del af crowdlending-markedet for ejendomme, jeg stadig benytter i dag, er de stærkt regulerede bygge- og brolån. Her fungerer man som bank for en udvikler i en fastlagt periode, ofte med pant i ejendommen.

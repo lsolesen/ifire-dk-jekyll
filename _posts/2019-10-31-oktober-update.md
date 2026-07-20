@@ -46,7 +46,7 @@ I sidste måned legede jeg lidt med min [Rentes Rente-beregner](/renters-rente/)
 
 I forhold til **investeringer i værdipapirer**, så er det ret interessant, at Vanguards europæiske ETF'er har sænket sine omkostninger. Derfor har jeg opdateret artiklen om [Simple Path to Wealth](/investering-vol7/). Jeg har ikke lavet noget om i mine egne investeringer, fordi jeg først og fremmest bruger [Nordnets månedsopsparing](/nordnet-maanedsopsparing/).
 
-Endelig har jeg ryddet lidt op i mine kryptovaluta-investeringer. Jeg brugte tidligere en del tid på at [undersøge](/bitcoins/), hvordan jeg skulle lave en [portefølje med kryptovaluta](/krypto-portfolio/). Nu er det ved at være tid til at gøre det hele lidt enklere igen.
+Endelig har jeg ryddet lidt op i mine kryptovaluta-investeringer. Jeg brugte tidligere en del tid på at [undersøge](/bitcoins/), hvordan jeg skulle lave en [portefølje med kryptovaluta](/kryptovaluta-opdateringer/). Nu er det ved at være tid til at gøre det hele lidt enklere igen.
 
 Min samlede _net worth_ er stigende, hvilket er ret motiverende.
 

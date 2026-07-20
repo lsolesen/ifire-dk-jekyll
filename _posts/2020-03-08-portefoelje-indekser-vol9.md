@@ -8,7 +8,6 @@ excerpt: "Verdensindekset består af aktier fra hele verdens aktiemarkeder. Det 
 last_modified_at: 2020-03-08T09:20:02+02:00
 permalink: /investering-vol9/
 category:
-  - Investering
   - Opdateringer
 tags:
   - investering
