@@ -9,6 +9,7 @@ excerpt: "Tjen mere, forbrug mindre, investér klogere. Tre enkle ord, der start
 toc: false
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+last_modified_at: 2026-07-02T10:22:02+02:00
 ---
 
 {{ page.excerpt }}

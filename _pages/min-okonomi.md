@@ -15,9 +15,20 @@ weight: 10
 
 {{ page.excerpt }}
 
-På siden **[Min Strategi](/min-strategi/)** beskriver jeg *teorien* og principperne bag min vej mod økonomisk uafhængighed (FIRE). Denne side er virkeligheden. 
+Mange tror, at vejen til økonomisk uafhængighed (FIRE) kun handler om at finde de rigtige aktier på depotet. Men sandheden er en anden.
 
-Her kan du se de rå data: Hvor tæt jeg er på mit mål, hvordan min opsparingsrate udvikler sig, og præcis hvilke bankkonti jeg bruger for at automatisere min økonomi.
+Min rejse startede med **[Rigdomsformlen](/rigdomsformlen/)**:
+
+> 💰 **Forbrug mindre → Investér klogere → Tjen mere**
+
+Denne side viser sammensætningen af min hverdagsøkonomi og hvordan jeg omsætter **[Min Strategi](/min-strategi/)**, så jeg har mulighed for at sammensætte [min portefølje](/mine-investeringer/) på vejen mod økonomisk frihed.
+
+For mig handler det om at fjerne de udgifter, der ikke giver mig ekstra livskvalitet, så jeg kan bruge overskuddet til at investere.
+
+> 💡 **Vil du læse teorien eller historien?**  
+> * På denne side ser du mit **aktuelle live-setup**.
+> * Vil du læse overvejelserne om opbygningen af konti, kan du læse **[Hvilken konto skal du vælge?](/hvilken-konto/)**.
+> * Vil du læse historien om mine tidligere bankskift og eksperimenter, kan du læse **[Min FIRE-historie](/min-firehistorie/)**.
 
 ---
 
@@ -25,25 +36,25 @@ Her kan du se de rå data: Hvor tæt jeg er på mit mål, hvordan min opsparings
 
 Dette er kernen i min økonomi. Jeg opdaterer disse grafer løbende for at holde snuden i sporet. Jeg har foldet dem sammen herunder, så du selv kan klikke dem frem, du vil se.
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>🎯 FIRE Status: Crossover point og 4% reglen</summary>
   Her sporer jeg min vej mod økonomisk uafhængighed. Grafen viser hvornår afkastet fra mine investeringer (baseret på 4%-reglen) krydser mine årlige udgifter.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=385267485&amp;format=image"></iframe>
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>💰 Udvikling i Nettoformue</summary>
   Min samlede nettoformue (aktiver minus gæld) over tid. Dette er den ultimative målestok for, om min økonomi bevæger sig i den rigtige retning.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=264712006&amp;format=image"></iframe>
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>📈 Opsparingsrate</summary>
   Procentdelen af min indkomst, som bliver sendt direkte videre til investering. Dette er det tal, jeg har mest fokus på at maksimere, da det er det allervigtigste for at opnå økonomisk frihed.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=83329182&amp;format=image"></iframe>
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>🛒 Årlige udgifter</summary>
   Her kan du se udviklingen i mine årlige udgifter.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZivX9hajS2-6Hb7SeDck2N4AdRCGALO8WxmRWWCsak3NybkHmW3GfVjFVw0mQvWK1RtqxxeOKZImz/pubchart?oid=1532310202&amp;format=image"></iframe>
@@ -53,7 +64,7 @@ Dette er kernen i min økonomi. Jeg opdaterer disse grafer løbende for at holde
   * **2025:** Udgifter til efterskole fik det samlede budget til at stige.
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>🥧 Fordeling af aktiver</summary>
   Sådan er hele min økonomi fordelt på tværs af kontanter, aktier, pension mv.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=633017314&amp;format=image"></iframe>
@@ -70,7 +81,7 @@ Her er min konkrete kontostruktur, bygget op omkring de fire trin i Rigdomsforml
 ### ✂️ Trin 1: Forbrug mindre (Dagligdag & Budget)
 Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>📥 Lønkonto - AL Sydbank</summary>
 
   Her lander min løn, og det er herfra jeg har opsat faste overførsler:
@@ -80,27 +91,27 @@ Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
 
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>🤝 Fælleskonto / budgetkonto - AL Sydbank</summary>
 
   Vi overfører hver et fast beløb til fælleskontoen, som er udregnet efter vores samlede fælles budget. Formålet med budgettet er at sikre, at der altid er dækning til de faste udgifter, men også til variable udgifter.
 
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>💳 Bankkort: Norwegian Visa Kreditkort</summary>
 
   Norweigian Visakortet har indbygget rejseforsikring, hvilket betyder, at jeg kan spare rejseforsikringen i mine øvrige forsikringer. Der er heller ingen gebyrer, og så er det et kreditkort, som jeg kan bruge til udlæg på mit arbejde eller store regninger. Jeg er meget disciplineret med at betale regningen for kreditkortet, så der ikke løber renter på. Det har jeg sat op med betalingsservice. Kortet giver også cash points.
 
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>💳 Bankkort: Revolut Debetkort</summary>
 
   Revolut giver lidt billigere vekselgebyrer i den gratis udgave. Det har jeg ofte udnyttet på rejser.
+</deetails>
 
-</details>
-
+</details class="faq" markdown="1">
   <summary>📥 Paypal</summary>
 
   Her lander min indtægt fra reklamer. Jeg bruger den i sjældne tilfælde til at betale for ting og sager.
@@ -144,8 +155,9 @@ Når fundamentet (Trin 1 og 2) og investeringsmotoren (Trin 3) kører på automa
 Fordi jeg har en fast og stram struktur for mit forbrug, betyder det, at **hver eneste ekstra tjent krone går direkte til investering**, frem for at forsvinde i øget forbrug (*lifestyle inflation*).
 
 Jeg har i øjeblikket en fast lønindtægt, men har også eksperimenteret med andre [passive indtægter](/passiv-indkomst/).
+
 {% comment %}
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
   <summary>💡 Hvordan jeg arbejder med at øge indtægten i praksis</summary>
 
 </details>
@@ -153,6 +165,17 @@ Jeg har i øjeblikket en fast lønindtægt, men har også eksperimenteret med an
 ---
 
 ## 📚 Dyk dybere i min økonomi
+
+Vil du læse mere om de specifikke værktøjer og principper, jeg bruger i min hverdag?
+
+* ⚙️ **[Kom i gang: Din enkle køreplan til økonomisk frihed](/kom-i-gang/)**
+* 📊 **[Sådan udregner jeg min opsparingsrate](/opsparingsrate-spiir/)**
+* 🛡️ **[Min kriseplan og nødbuffer](/kriseplan/)**
+* 👨‍👩‍👧 **[Børn og økonomi: Hvad mine piger skal lære om penge](/boern-og-oekonomi/)**
+
+---
+
+## Mere inspiration om privatøkonomi
 
 Vil du læse mere om de specifikke valg og værktøjer, jeg bruger i min daglige økonomi? Her har jeg samlet de vigtigste indlæg:
 
@@ -167,189 +190,3 @@ Vil du læse mere om de specifikke valg og værktøjer, jeg bruger i min daglige
 {% endif %}
 
 </div>
-
-
-{% comment %}
-
-
-
-{{ page.excerpt }}
-
-Mange tror, at vejen til økonomisk uafhængighed (FIRE) kun handler om at finde de rigtige aktier på depotet. Men sandheden er en anden.
-
-Min rejse startede med **[Rigdomsformlen](/rigdomsformlen/)**:
-
-> 💰 **Forbrug mindre → Investér klogere → Tjen mere**
-
-Denne side viser sammensætningen af min hverdagsøkonomi og hvordan jeg omsætter **[Min Strategi](/min-strategi/)**, så jeg har mulighed for at sammensætte [min portefølje](/mine-investeringer/) på vejen mod økonomisk frihed.
-
-For mig handler det om at fjerne de udgifter, der ikke giver mig ekstra livskvalitet, så jeg kan bruge overskuddet til at investere.
-
----
-
-<details class="question" markdown="1">
-  <summary>📈 Opsparingsrate</summary>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=83329182&amp;format=image"></iframe>
-</details>
-
-<details class="question" markdown="1">
-  <summary>💰 Nettoformue</summary>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=264712006&amp;format=image"></iframe>
-</details>
-
-<details class="question" markdown="1">
-  <summary>🛒 Årlige udgifter</summary>
-
-Her kan du se udviklingen i mine årlige udgifter.
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZivX9hajS2-6Hb7SeDck2N4AdRCGALO8WxmRWWCsak3NybkHmW3GfVjFVw0mQvWK1RtqxxeOKZImz/pubchart?oid=1532310202&amp;format=image"></iframe>
-
-* I **2020** og **2021** var vi ramt af Corona - og vi havde en del af perioden ingen bil.
-* I **2023** boede vi i Zambia i 5 måneder. Derfor kostede boligen mindre, og vi brugte flere penge i kategorien Fritid & Fornøjelser på feriekontoen.
-* I **2025** betalte vi til efterskole, så de samlede udgifter steg igen.
-
-</details>
-
-
-<details class="question" markdown="1">
-  <summary>🎯 Crossover point udgifter og 4% reglen</summary>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=385267485&amp;format=image"></iframe>
-</details>
-
-
-<details class="question" markdown="1">
-  <summary>🥧 Fordeling af investeringer</summary>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=633017314&amp;format=image"></iframe>
-</details>
-
-
-
-
-<details class="question" markdown="1">
-  <summary>☔ Nødopsparing</summary>
-
-</details>
-
-
-## Bankkonti
-
-<details class="question" markdown="1">
-  <summary>📥 Lønkonto - AL Sydbank</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🤝 Fælleskonto - budgetkonto - AL Sydbank</summary>
-
-</details>
-
-<details class="question" markdown="1">
-  <summary>🛡️ Nemopsparing - Nødosparing - AL Sydbank - 0,15% i renter</summary>
-
-</details>
-
-
-<details class="question" markdown="1">
-  <summary>🛡️ Efterskoleopsparing - AL Sydbank - 0,15% i renter</summary>
-
-</details>
-
-
-<details class="question" markdown="1">
-  <summary>🏦 Opsparingskonto Norwegian Plus - Nødopsparing - 1.45% renter</summary>
-
-</details>
-
-
-## Bankkort
-
-<details class="question" markdown="1">
-  <summary>💳Norwegian Visakort</summary>
-
-</details>
-
-
----
-
-## 1. Budgettet og opsparingsraten
-
-Hvis du ikke ved, hvor dine penge forsvinder hen, kan du ikke optimere dem. Jeg bruger appen Spiir til fuldautomatisk at tracke alle mine udgifter og indtægter, og én gang om måneden bruger jeg 15 minutter på at gennemgå tallene og opdatere min opsparingsrate.
-
-Det vigtigste tal i min økonomi er min **opsparingsrate** – altså hvor mange procent af min indtægt, jeg sender direkte videre til investering hver måned. Jo højere opsparingsrate, jo hurtigere rammer man den økonomiske frihed – vigtigere endda end selve afkastet på investeringerne.
-
-**Sådan er det implementeret i praksis:** Jeg betaler mig selv først. Opsparingen bliver overført automatisk til investeringskontoen, samme dag som lønnen lander – før den når at blive en del af det almindelige forbrug. Det er ikke det, der er tilbage i slutningen af måneden, og det er bevidst: jeg vil ikke stole på, at jeg "husker" at spare op eller har disciplinen til at lade være med at bruge pengene. Automatikken fjerner den beslutning fra ligningen, hver eneste måned, uanset om jeg har lyst eller ej.
-
-* **[Sådan udregner jeg min opsparingsrate med Spiir](/opsparingsrate-spiir/)**
-* **[Hvad er økonomisk frihed? (Og hvordan 4%-reglen virker)](/hvad-er-okonomisk-frihed/)**
-
----
-
-## 2. Optimering af de faste udgifter (Loyalitets-skatten)
-
-Jeg gennemgår løbende mine faste udgifter for at luge ud i unyttigt klatforbrug og abonnementer. Virksomheder er lynhurtige til at sætte priserne op for eksisterende kunder, og jeg nægter at betale "loyalitets-skat".
-
-Her er nogle af de steder, hvor jeg jævnligt henter store besparelser med minimal indsats:
-
-* **Forsikringer:** Jeg tjekker mine forsikringer hvert andet år. Ved at fjerne dobbeltforsikringer og justere dækningen sparer jeg nemt tusindvis af kroner om året.
-  -> **[Læs hvordan jeg sparede 2.900 kr. på 15 minutter på mine forsikringer](/forsikringer/)**
-* **El og strøm:** Strømmen i stikkontakten er den samme, uanset hvem du betaler til. Ved at bruge elpris.dk eller en automatisk elmægler udnytter jeg introduktionstilbuddene.
-  -> **[Sådan sparer jeg penge på strømmen ved at skifte elselskab](/billigt-elselskab-spar-penge-el/)**
-* **Internet:** Mit internet hos Ewii steg for nylig og blev for dyrt. Det kræver blot et kort opkald til deres opsigelsesafdeling eller et hurtigt tjek hos discount-udbydere som Jetnet eller Kazoom på fiberen for at banke den regning på plads igen.
-
-Hver eneste krone, jeg fjerner herfra, går ikke bare tilbage til forbruget – den lægges oven i opsparingsraten fra punkt 1 og sendes videre til investering.
-
----
-
-## 3. Sikkerhedsnettet: Kriseplan og buffer
-
-En aggressiv aktiestrategi kræver en polstret privatøkonomi. Hvis markedet falder med 30 eller 50 %, skal du aldrig ende i en situation, hvor du er tvunget til at sælge dine aktier med tab, bare fordi du mangler likviditet i hverdagen.
-
-**Min faste regel er 3 måneders faste udgifter, kontant.** Det er ikke et rundt tal, jeg har valgt af mavefornemmelse – det er en beslutning, jeg genberegner, hver gang mine faste udgifter ændrer sig, og den er beskrevet i detaljer i **[Min Strategi](/min-strategi/)**. Lige nu svarer det til ca. 50.000 kr., som står på min helt almindelige bankkonto. Pengene står ikke og venter på at "time markedet" eller give afkast – de har præcis én opgave: at fungere som min mentale og praktiske nødbremse, så jeg aldrig behøver røre investeringerne, når livet uventet bliver dyrt.
-
-* **[Økonomisk krisehåndtering: Se min personlige trepunktsplan](/kriseplan/)**
-
----
-
-## 4. Den næste generation: Børn og økonomi
-
-Privatøkonomi er desværre ikke et fag i folkeskolen. Da jeg har tre piger, der vokser op i et samfund præget af bevidstløst forbrug, gør jeg meget ud af at lære dem forskellen på reelle behov (*needs*) og midlertidige ønsker (*wants*).
-
-Vi eksperimenterer med konkrete værktøjer i hverdagen for at gøre penge håndgribelige for dem – lige fra "Fars Bank" med månedlige renter til opsparingsmetoder og lommepenge.
-
-* **[Hvad skal mine børn lære om penge? Mine personlige erfaringer](/boern-og-oekonomi/)**
-* **[Gave til nevø eller niece? Sådan startede jeg en investering på Nordnet via frikortet](/nevo-rigdomsformel/)**
-
----
-
-## Hvad er dit næste skridt?
-
-Privatøkonomi handler i bund og grund om at vælge. Hver gang du fravælger en ligegyldig udgift i hverdagen, køber du et stykke af din egen frihed i fremtiden.
-
-Hvis du vil have inspiration til at komme i gang, kan du starte med min **[komplette guide til at spare penge i hverdagen](/spar-penge/)**. Vil du se, hvordan overskuddet herfra bliver sendt videre til aktiemarkedet, kan du læse næste skridt i **[Min Strategi](/min-strategi/)**.
-
-
-## Indlæg om privatøkonomi
-
-<div class="feature__wrapper">
-
-{% assign site_posts = site.posts | where: "category", "Privatøkonomi" | sort: "last_modified_at" | reverse %}
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-{% endif %}
-
-</div>
-
-## Min privatøkonomi
-
-Her kan du finde lidt inspiration til, hvordan jeg har skruet min egen privatøkonomi sammen.
-
-{% include feature_row id="feature_row_setup" %}
-
-{% endcomment %}

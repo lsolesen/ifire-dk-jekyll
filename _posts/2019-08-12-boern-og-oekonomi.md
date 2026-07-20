@@ -104,6 +104,7 @@ Hvad fokuserer du på, når du snakker med dine børn om penge?
 {% include disclaimer.md %}
 
 ***
+
 Jeg har tre fantastiske piger, som er født ind i en verden, hvor det virker som om bevidstløs forbrug er det mest normale [1]. Det er også tre piger, som har en fin indtægt fra fødselsdage og andre møder med generøse familiemedlemmer [1]. Det er tre piger, som bliver meget inspireret til at skaffe sig ting [1].
 
 Vi har ikke *flow tv*, så vi ser sjældent reklamer herhjemme [1]. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted [1]. Børnene får lov til at se tegnefilm i fjernsynet [1]. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne [1]. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for *Vampyrina* med en catchy sang [1]. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder [1]. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse [1]. Og hun er glad for det [1]. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud [1]. Og det er af plastik [1].

@@ -77,19 +77,21 @@ Derfor traf jeg valget om at skrue ned. Jeg aftalte med min arbejdsplads at neds
 
 Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedlige statusopdateringer gennem årene. Læs med i, hvordan mine reklameindtægter startede på 16 kroner om måneden, hvordan jeg optimerede mine faste udgifter, og hvordan børnene tog "rigdomsformlen" til sig.
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2019: Det store optimeringsår</strong></summary>
   
   <br>
 
+  * **Februar:** Jeg har lavet en stor fejl med crowdlending; jeg overførte i starten fra min danske bank og fik en elendig vekselkurs. Heldigvis opdagede jeg Revolut! Nu overfører jeg i DKK og veksler gebyrfrit til EUR via appen i *banking hours*, så jeg rammer den rene interbankrate.
   * **Marts:** Jeg har kigget min økonomi efter i sømmene. Jeg har sparet penge ved at melde mig ud af Folkekirken og fået sat prisen ned på mine forsikringer. Jeg har også lagt reklamer på mine blogs. I marts tjente jeg hele 16,01 kr. på Google Adsense og 12,29 kr. via Partner-Ads [18, 62].
+  * **April:** Jeg har opgraderet til Revolut Premium for at fjerne den månedlige 40.000 kr. vekselgrænse. Fordi jeg skyder massivt ind i crowdlending i disse måneder, betaler Premium-gebyret sig hurtigt hjem. Planen er at nedgradere igen, når mit investeringstempo falder.
   * **Juli:** Jeg træder officielt ud af mit I/S firma (Discimport.dk), hvilket frigiver lidt likvider [34]. I ferien lejede vi vores hus ud på AirBnb for første gang og tjente 5.251 kr., hvilket dækkede vores egen ferie. Jeg har også regnet ud, at min bil koster mig 1,70 kr. pr. km. i drift (uden brændstof) [23, 35].
   * **August:** Jeg har en opsparingsrate på 55% denne måned! Mine børn tjente lidt lommepenge ved at hente varer for folk via Rema 1000's Vigo app [63].
   * **September:** Jeg har undervist nogle unge i forbrug og opsparing. Mine egne børn er også blevet farvet af det. Min ældste datter har bygget en "Playstation" ud af en æggebakke for at undgå at vi skulle købe en. *“Jeg synes bare, det er sjovt at styre”*, som hun sagde [64, 65].
   * **Året der gik (2019):** Gennemsnitligt har jeg i år haft en opsparingsrate på knap 52% (oppe fra mit tidligere snit på ca. 14,5%). Vores privatforbrug faldt med 33,8%. Den samlede formue steg med 32%. På et helt år tjente jeg 946 kr. i passiv indkomst på internettet [32, 33, 66, 67].
 </details>
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2020: Coast FIRE og Mini-pension</strong></summary>
   
   <br>
@@ -106,8 +108,14 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   <br>
 
   * **Januar:** Jeg skiftede strøm til Coop. Gratis abonnement og 2 øre/kWh i de første to måneder [22]. Trafikken på mine blogs fortsætter opad: Næsten 75.000 visninger på *Motionsplan.dk* og 8.000 på *iFire.dk* denne måned [39].
+  * **Januar:** Jeg nød virkelig godt af mit Revolut-kort på skiferien, så jeg slap for bankernes vekselgebyrer. Jeg har også oprettet et N26-kort for at have et tysk IBAN-nummer som backup. Men den største åbenbaring er mit nye Curve-kort! Endelig har jeg alle kort samlet i ét, og "Go Back In Time"-funktionen har allerede reddet mig flere gange nede i supermarkedet.
+  * **Maj:** Min kontante nødopsparing er flyttet til Lunar. De kører en aggressiv kampagne, der giver hele 4% i cashback på de første 50.000 kr., når man bruger deres betalingskort. Det udnytter jeg til fulde!
   * **Marts:** For første gang har min passive indtjening taget et stort ryk opad! Jeg ramte 2.795 kr. tjent i marts måned [40]. Jeg har også hyret folk via Fiverr til at lave indhold til *Low Content* bøger (Sudoku og malebøger), som jeg vil sælge på Amazon KDP [9].
   * **Maj:** Jeg har kørt et vildt A/B split-test eksperiment mellem Google Adsense og annoncenetværket Ezoic. Ezoic leverer ikke bare reklamer, men gør min side hurtigere via deres LEAP-teknologi. Jeg har valgt at betale for Ezoic+ [1, 6-8]. 
+  * **Juni:** Så skete det endelig. Jeg foretog det store bankskifte og forlod SparNord. Deres "Stjernekunde"-krav var simpelthen blevet for stive. Jeg afslog Lån & Spar (da de krævede, at jeg flyttede mine Saxo/Nordnet investeringer), og endte hos Coop Bank, fordi deres fælleskonti er fuldstændig gebyrfrie for Coop-medlemmer.
+  * **November:** Brexit laver rod i systemet. Revolut har flyttet deres europæiske konti, og mit IBAN-nummer er ændret. Jeg brugte en hel aften på at sende små 2-EUR overførsler til over 20 forskellige crowdlending-platforme bare for at verificere min nye Revolut-konto.
+  * **Februar 2020:** Efter et par ture til udlandet (bl.a. på skiferie og en tur til Lanzarote) undersøgte jeg mine korts veksel- og hævegebyrer i dybden. Ved at bruge en kombination af Revolut og Curve til at veksle til interbank-kurs og undgå hævegebyrer (i stedet for mine normale kort som SparNord, Lunar og Norwegian), lykkedes det mig at spare 178 DKK i ren gebyr – hvad der svarer til 9 kopper cappuccino i Spanien!
+  * **Strategien til udlandet:** Jeg fandt ud af, at den optimale finitteknik er at betale selve rejsen med mit Norwegian-kreditkort for at få den gratis rejseforsikring[cite: 4], men køre alle løbende udlandskøb og ATM-hævninger igennem Curve/Revolut i lokal valuta for at undgå valutatillæg og gebyrer[cite: 4].
 </details>
 ---
 
