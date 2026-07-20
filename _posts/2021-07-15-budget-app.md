@@ -1,10 +1,12 @@
 ---
-title: &title "Find en gratis budget app og få styr på økonomien"
-seo_title: "Budget app: 5 gratis forslag til at få styr på pengene + BONUS"
+title: &title "Find den bedste budget app i 2026: Få styr på din privatøkonomi"
+seo_title: "Budget app 2026 • De bedste gratis apps til dit budget »"
 permalink: /budget-apps/
+redirect_from:
+  - /blog/budget-apps/
 header:
-  overlay_image: https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 category:
   - Privatøkonomi
@@ -12,114 +14,91 @@ tags:
   - anbefaling
   - budget
   - apps
-excerpt: "Du kan bruge en budget app til at få styr på økonomien. Her har vi kigget på de bedste gratis apps til budgetlægning på din smartphone."
+  - privatøkonomi
+excerpt: "Leder du efter en god budget app til din smartphone? Se de bedste og nyeste løsninger til at lægge et realistisk budget og holde styr på pengeforbruget i hverdagen."
 toc: true
-last_modified_at: 2021-07-14T20:22:02+02:00
-gallery_spenderlog:
-  - image_path: /assets/images/posts/budget-spenderlog-1.jpg
-    alt: spenderlog app
-  - image_path: /assets/images/posts/budget-spenderlog-2.jpg
-    alt: spenderlog app
-  - image_path: /assets/images/posts/budget-spenderlog-3.jpg
-    alt: spenderlog app
-gallery_spiir:
-  - image_path: /assets/images/posts/budget-spiir-1.jpg
-    alt: spiir budget
-  - image_path: /assets/images/posts/budget-spiir-2.jpg
-    alt: spiir budget app
-  - image_path: /assets/images/posts/budget-spiir-3.jpg
-    alt: spiir budget gratis
-gallery_lommebudget:
-  - image_path: /assets/images/posts/budget-lommebudget-1.jpg
-    alt: lommebudget fra finansstyrelsen
-  - image_path: /assets/images/posts/budget-lommebudget-2.jpg
-    alt: lommebudget fra finansstyrelsen
-  - image_path: /assets/images/posts/budget-lommebudget-3.jpg
-    alt: lommebudget fra finansstyrelsen
+last_modified_at: 2026-07-20T11:40:00+02:00
 ---
 
-Med en budget app kan du nemt lægge et budget, og få et overblik over hvad du bruger dine penge på. Vi har samlet en liste over de bedste gratis danske apps til budgetlægning.
+{% include disclosure.html %}
 
-Brug en app til at holde styr på din privatøkonomi. Når du bruger en app, så har du altid det fulde overblik lige ved hånden (eller i lommen).
+At holde styr på privatøkonomien og overholde sit månedlige budget er en af de vigtigste forudsætninger for at opbygge en sund opsparing og opnå finansiel uafhængighed (FIRE). 
 
-Det kan være noget af en jungle at finde de bedste apps. Her er de bedste apps, jeg har prøvet. Men du kan naturligvis også selv gå på opdagelse i App Store eller Play Store.
+Med en **budget app** på din smartphone har du altid det fulde overblik over dine faste udgifter, dit rådighedsbeløb og dit daglige forbrug lige ved hånden.
 
-## Gør det nemt at lægge budget
+Markedet for finans-apps har dog ændret sig markant over de seneste år. Gamle kendinge som *Spiir*, *Spenderlog* og Finanstilsynets *Lommebudget* er enten lukkede eller udfasede. 
 
-Det vanskeligste i din privatøkonomi er formentlig at holde budgettet. Jeg nyder selv at bruge apps for at holde mig på sporet og holde styr på min budgetlægning og fastholdelsen af det.
+I stedet har de danske banker opdateret deres mobil-apps markant, ligesom der er opstået nye, stærke værktøjer. 
 
-Jeg har skrevet mere om, [hvordan man laver et budget](/budget-for-begyndere/).
+Her er det samlede overblik over de bedste apps og metoder til at styre dit budget på mobilen i dag.
 
-Men lad os kigge pe bedste apps til budgetlægning på din smartphone.
+---
 
-## 1. Spiir - gratis budgetoverblik
+## 1. Din egen mobilbank (Den nemmeste løsning)
 
-[Spiir](/go/spiir/) er en app, som lader dig kategorisere alle dine udgifter på tværs af banker og konti. Fordelen ved Spiir er, at appen selv kan importere kontooversigten fra de fleste danske banker. Og den kan selv automatisk kategorisere langt de fleste poster.
+Du behøver i dag sjældent at hente en ekstern app for at få et automatisk forbrugsoversigt. De fleste store og mellemstore danske banker (f.eks. Danske Bank, Nordea, Jyske Bank og Sydbank) har integreret stærke budget- og kategoriseringsværktøjer direkte i deres mobilbanker.
 
-Spiir lader dig opsætte mål for dit forbrug, så du kan undgå klatforbrug. Jeg bruger selv også Spiir til at [udregne min månedlige opsparingsrate]({% link _posts/2019-08-17-opsparingsrate-spiir.md %}).
+**Fordele:**
+* **Automatisk synkronisering:** Alle dine kortkøb kategoriseres automatisk i dagligvarer, bolig, transport, fornøjelser osv.
+* **100 % sikkert:** Du deler ikke dine bankdata med tredjepartstjenester.
+* **Budgetnotifikationer:** Du kan ofte sætte advarsler op, hvis du er ved at overskride dit månedlige rådighedsbeløb i en specifik kategori.
 
-{% include gallery id="gallery_spiir" %}
+---
 
-Derfor kan Spiir fungere fint som et budget, og du har hele tiden overblik. Det eneste jeg synes er ret mærkeligt med Spiir er at mine [investeringer](/investeringer/) figurerer som forbrug. Det kunne være ret smart, hvis der var en tredje kategori.
+## 2. Lunar Bank – Mål, underkonti og lynhurtigt overblik
 
-{% include figure image_path="/assets/images/posts/spiir-budget-app-overblik.png" caption="Overblik i Spiir budget app. Desværre figurerer investeringer som forbrug, så det månedlige overblik snyder lidt." alt="spiir budget app overblik" %}
+[Lunar](/go/lunar/){: rel="sponsored nofollow noopener" } er en dansk digital bank, der er bygget op omkring en ren mobil-app. Hvis du ønsker en ekstra konto til dit madbudget eller dit rådighedsbeløb, er Lunar et oplagt valg.
 
-I Spiir kan du arbejde med både et månedligt budget eller et _løbende budget_, som gør det muligt nogle måneder at bruge flere penge i en kategori, mens du næste måned bare bruger færre penge.
+**Hvorfor Lunar fungerer godt til budgetter:**
+* **Interaktive forbrugskategorier:** Hver gang du swiper dit kort, kategoriseres købet med det samme.
+* **Virtuelle "Pockets" (Underkonti):** Du kan oprette automatiske opsparingsmål eller øremærke penge til faste regninger og madbudget, så du ikke kommer til at bruge dem ved et uheld.
+* **Nemt og gratis:** Det er gratis at oprette en basiskonto direkte fra mobilen.
 
-{% include figure image_path="/assets/images/posts/spiir-budget.png" caption="På Bar, cafe & restaurant bruger jeg et løbende budget. Det betyder, at jeg løbende sparer op i budgettet, og lige nu kan jeg komme på gourmet restaurant med hele familien." alt="spiir budget overblik" %}
+---
 
-## 2. Banken i lommen
+## 3. Bliss & Savio – Nye automatiske overbliks-apps
 
-De fleste banker tilbyder også mulighed for at opsætte et budget i banken og kategorisere dine udgifter. Hvis du kun bruger en bank, så kan det være en rigtig god måde at få styr på indtægter og udgifter på.
+Efter at tredjepartsapps som Spiir lukkede, er der kommet nye danske apps på banen, som benytter det såkaldte *Open Banking* (SPSD2) til sikkert at hente dine kontooverførsler og samle dem i ét visuelt dashboard.
 
-Den bank tilbyder helt sikkert en mobilbank, som du kan have på din telefon. Desværre er det ikke sikkert, at du kan lave selve kategoriseringen i mobilappen. I Coop og Spar Nord er funktionen kun tilgængelig i webversionen af netbanken.
+Tjenester som **Bliss** og **Savio** lader dig koble flere konti fra forskellige banker sammen på tværs af familien, så I kan følge jeres samlede budget og opsparingsrate på én skærm.
 
-Hvis du kun bruger en bank, så er netbanken en virkelig enkel måde at holde det samlede overblik op mod dit budget. 
+* **Fordel:** Samler alle jeres konti, selvom I har realkredit ét sted og lønkonto et andet sted.
+* **Ulempe:** Nogle funktioner kræver et mindre månedligt abonnement for fuld automatisering.
 
-## 3. Lunar Bank - styr forbruget i banken
+---
 
-Lunar er en ny bank, og de har fokuseret udelukkende på at lave en onlinebank. Det betyder, at de virkelig gør noget ud af deres app, og her kan du let lave forskellige kategorier.
+## 4. YNAB (You Need A Budget) – For den kompromisløse optimerer
 
-Det er gratis at bruge Lunar, hvis du kun skal have en konto, og de giver faktisk 0,5% rente på de første 50.000 kroner af dit indestående.
+Hvis du leder efter det mest effektive budgetværktøj i verden og vil ud af træk-på-kontoen-fælden, er **YNAB** (You Need A Budget) kongen af budget-apps.
 
-[Lav en konto på Lunar](/go/lunar/){: rel="sponsored nofollow noopener" }
+YNAB bygger på princippet *"Give Every Dollar A Job"*. I stedet for blot at kigge bagud på, hvad du *har* brugt, tvinger appen dig til aktivt at tildele alle dine eksisterende penge til specifikke poster (f.eks. næste måneds husleje, forsikringer eller ferie).
 
-## 4. Lommebudget - budget app fra Råd til Penge
+* **Fordel:** Ekstremt effektivt til at fjerne usund gæld og opbygge en stor buffer fast.
+* **Ulempe:** Det kræver tilvænning, og appen koster et årligt abonnement (men er ofte tjent hjem mange gange i sparet overforbrug).
 
-[Råd til Penge](
-https://www.raadtilpenge.dk/) fra Finanstilsynet har lavet en app, som de kalder [Lommebudget](
-https://www.raadtilpenge.dk/penge-beregner/Lommebudget). Du kan bruge den gratis app til at planlægge din økonomi og holde bedre styr på, hvad du egentlig bruger dine penge til.
+---
 
-{% include gallery id="gallery_lommebudget" %}
+## 5. Google Sheets / Excel appen (100 % fleksibelt og gratis)
 
-Du kan indtaste dine udgifter til forbrug og indtægter løbende i appen, så du kan holde styr på, hvordan det går med at overholde budgettet. Appen hjælper også med at udregne dit rådighedsbeløb, så du ved hvor mange penge, du kan bruge.
+Nogle gange er det klassiske regneark ganske enkelt det bedste værktøj. Ved at installere **Google Sheets** eller **Microsoft Excel** på din telefon har du dit personlige budgetark i lommen overalt.
 
-## 5. Spenderlog
+**Fordele:**
+* Du bestemmer 100 % selv dine kategorier, grafer og opsparingsmål.
+* Du kan nemt beregne din [månedlige opsparingsrate](/opsparingsrate-spiir/).
+* Det er helt gratis og forældes aldrig.
 
-Spenderlog er ret genial. Du kan koble den til din e-boks og kvitteringsapp. Så kan den analysere de enkelte poster. Jeg køber fx ofte ind i Bilka, hvor man kan købe mange forskellige kategorier. Med Spenderlog kan du analysere om du køber grøntsager eller slik for pengene.
+👉 **Vil du nemt i gang?** Du kan hente mine [gratis budgetskabeloner i Excel og Google Sheets](/budget-skabeloner/), som du direkte kan kopiere over på din egen telefon.
 
-{% include gallery id="gallery_spenderlog" %}
+---
 
-Det kan være noget af en øjenåbner, når du pludselig finder ud af, hvor mange penge du har brugt på sodavand i forhold til dit forbrug af grøntsager.
+## Konklusion: Hvilken budget app skal du vælge?
 
-## 6. Regneark - Excel eller Google Sheets
+1. **Den nemmeste vej:** Start med at udforske kategoriseringsværktøjerne i din nuværende mobilbank eller hos [Lunar](/go/lunar/){: rel="sponsored nofollow noopener" }.
+2. **Den mest præcise vej:** Kombinér din mobilbank med et tæt opfulgt [Excel/Google Sheets-budget](/budget-skabeloner/).
+3. **Den mest hardcore vej:** Vælg en metodesætning som YNAB, hvis du vil vende din økonomi 180 grader.
 
-Jeg ynder selv at bruge et regneark til at lave mit budget i. Fordelene er, at jeg kan lave lige nøjagtig de kategorier, jeg gerne vil. Ulempen er, at det ikke er helt så let at følge op på i forhold til fx et budget i banken.
+Når du har styr på dit budget, kan du bruge det frigjorte overskud til at automatisere dine investeringer via f.eks. [Nordnet Månedsopsparing](/nordnet-maanedsopsparing-problemer/).
 
-Jeg har lavet nogle [gratis budget skabeloner]({% link _posts/2021-07-10-budget-skabeloner.md %}), som du kan tage udgangspunkt i.
+Hvilke apps eller metoder bruger du selv til at holde styr på dit månedlige budget?
 
-{% comment %}
-
-## 6. YouNeedaBudget (YNAB): Den bedste app til at få kontrol over økonomien
-
-Denne app hjælper dig med at holde styr på budgettet. Appen introducerer dig for fem enkle regler, som hjælper dig med at tage smartere valg for din økonomi.
-
-Appen bryder de typiske udgifter ned i kategorier, som du nemt kan relatere dig til. Dette skal bidrage til, at du lettere kan få kontrol over dine penge.
-
-Du finder appen i Apple Store og Google Play 
-
-{% endcomment %}
-
-## Konklusion
-
-Det var nogle af de apps, jeg selv bruger for at holde styr på økonomien. Jeg bruger især Spiir til at holde styr på, om jeg bruger pengene fornuftigt. Det gør jeg sammen med en [skabelon til budget i Excel]({% link _posts/2021-07-10-budget-skabeloner.md %}).
+{% include disclaimer.md %}

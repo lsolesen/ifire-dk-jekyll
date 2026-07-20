@@ -47,6 +47,7 @@ Latte-faktoren har i årenes løb mødt en del kritik. Modstandere af teorien ar
 Og det har de ret i. Hvis du udelukkende dropper kaffen, men beholder en alt for dyr bil, et for stort hus og konstant opgraderer dine streamingtjenester, rykker det intet.
 
 Både David Bach og de efterfølgende økonomibloggere har dog altid ment, at kaffen blot er et **symbol**. Latte-faktoren er en metafor for alle de små ting, vi køber per automatik:
+
 * Kildevand på flaske i stedet for en genanvendelig dunk.
 * Kantinemat eller færdigretter, fordi vi ikke fik smurt madpakke.
 * Det ekstra abonnement på en app, vi ikke har brugt i seks måneder.

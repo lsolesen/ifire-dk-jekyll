@@ -1,6 +1,8 @@
 ---
 title: "Bankkonto: Hvilken konto og kort skal du vælge?"
-permalink: /hvilken-konto/
+permalink: /bankkonto-setup/
+redirect_from:
+  - /hvilken-konto/
 category:
   - Privatøkonomi
 tags:

@@ -1,74 +1,82 @@
 ---
-title: Tjek dine forsikringer - og spar penge
+title: "Tjek dine forsikringer: Spar tusindvis af kroner med et simpelt pristjek"
+seo_title: "Tjek dine forsikringer • Sådan sparede jeg 2.900 kr. på 15 minutter »"
+description: "Der er store summer at spare ved at gennemgå dine forsikringer. Se hvordan du undgår dobbeltforsikring, justerer dækningen og skærer toppen af budgettet."
+excerpt: "Der er masser af penge at spare, hvis du tjekker dine forsikringer igennem jævnligt. Se hvordan et simpelt pristjek og tilpasning af dækninger sparede mig for 2.900 kr. om året."
+last_modified_at: 2026-07-20T11:30:00+02:00
 permalink: /forsikringer/
 redirect_from:
   - /blog/spar-penge-forsikringer/
   - /spar-penge-forsikringer/
-excerpt: Der er masser af penge at spare, hvis du tjekker dine forsikringer jævnligt.
-header:
-  overlay_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
-  caption: Tjek dine forsikringer - og spar penge
 category:
   - Spar penge
 tags:
   - spareråd
   - forsikring
-last_modified_at: 2019-07-16T20:22:02+02:00
+  - faste udgifter
+header:
+  overlay_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&h=300&w=400&q=10
+  caption: Tjek dine forsikringer og skær toppen af de faste udgifter
 ---
 
-Jeg tjekker jævnligt mine forsikringer igennem for at se om de stadig passer til mig og min familie. Er det stadig det samme forsikringer vi har brug for? Er jeg dobbeltforsikret fx ift. rejseforsikring, autohjælp, pension og så videre.
+{% include disclosure.html %}
 
-Det tager ikke så lang tid at tjekke op på forsikringerne. Til gengæld kan der være rigtig mange penge at spare på forsikringerne.
+Hvor ofte kigger du dine forsikringspolicer igennem? De fleste af os lader forsikringerne køre automatisk på Betalingsservice år efter år, mens præmierne støt og roligt stiger i baggrunden.
 
-Du kan fx tjekke din forsikringer igennem en gang hvert andet år - og det er ikke så vanskeligt og kedeligt som det lyder.
+Men på rejsen mod finansiel uafhængighed og et sundt rådighedsbeløb er de faste udgifter det allerførste sted, du bør sætte ind. 
 
-Hvis du synes det lyder lidt uoverskueligt, så kan du heldigvis hente hjælp på nettet, hvor der er flere services, der hjælper med at tjekke forsikringerne igennem. Fx kan du på [findforsikring.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60068){: rel='sponsored nofollow noopener' } eller på [Tjenestorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38469){: rel='sponsored nofollow noopener' } hurtigt gratis få hjælp til at tjekke dine forsikringer.
+At gennemgå sine forsikringer hvert andet år tager sjældent mere end 15-30 minutter, men det kan nemt frigøre adskillige tusinde kroner om året – penge, der i stedet kan sendes direkte ind på din investeringskonto.
 
-***
+---
 
-## Jeg sparede 2900 kroner på 15 minutters arbejde med mine forsikringer
+## Min egen case: 2.900 kr. sparet på 15 minutter
 
-Jeg er så heldig, at jeg selv kan være medlem af Lærerstandens Brandforsikring, som er et af de billigste forsikringsselskaber i Danmark - og når man har telefonsælgere i røret, så kan bare navnet skræmme dem væk, men jeg tjekker alligevel mine egne forsikringer hvert andet år, for konkurrencevilkårene ændrer sig hele tiden.
+Selvom jeg er medlem af et af de i forvejen billigste medlems-forsikringsselskaber i Danmark (Lærerstandens Brandforsikring), valgte jeg alligevel at lave et eftersyn af vores policer. 
 
-Jeg tjekkede igen i dag, og jeg endte med følgende besparelse:
+Ved blot at kigge på vores reelle dækningsbehov fandt jeg to store besparelser med det samme:
 
-- **Sparet rejseforsikring**. Jeg har lige fået et [Norwegian Kreditkort med rejseforsikring](/go/norwegian/){: rel='nofollow noopener' }, hvor rejseforsikringen er inkluderet, hvis jeg betaler den med kortet. Derfor kunne jeg spare min faste rejseforsikring væk, som var inkluderet i min Indbo-forsikring. Det gav næsten 1100 kroner i forskel på indboforsikringen, som nu er uden rejseforsikring.
+### 1. Fjernede den faste rejseforsikring (Dobbeltforsikring)
+Jeg opdagede, at vores rejseforsikring lå som et fast, dyrt tillæg på vores indboforsikring. Da vi i forvejen benytter et kreditkort (f.eks. Bank Norwegian eller et Mastercard), hvor en dækkende årsrejseforsikring er inkluderet, når rejsen betales med kortet, kunne vi fjerne tillæget fra indboforsikringen.
+* **Besparelse:** Ca. 1.100 kr./år.
 
-- **Sparet ulykkesforsikring**. Jeg har lige fået gennemgået min pension, hvor der er en arbejdsgivertvungen forsikringsdel med. Derfor valgte jeg at få sat invaliditetssummen ned på både min egen og min ægtefælles til mindstebeløbet og jeg fik rettet erhvervet (vores arbejde) til det rigtige for os begge. Desuden sænkede jeg børnenes invaliditetssum til den af forsikringsselskaberne anbefalede. Det sparede jeg 1800 kroner på.
+### 2. Tilpassede ulykkesforsikringen efter pensionsordningen
+Ved et tjek af vores arbejdsmarkedspensioner opdagede jeg, at vi allerede var godt dækket ind ved tab af erhvervsevne og kritisk sygdom igennem vores tvungne pensionsordning. Vores private ulykkesforsikringer var dermed sat uforholdsmæssigt højt. 
+Vi justerede invaliditetssummerne til det reelle behov, fik opdateret vores jobtitler korrekt hos selskabet og tilpassede børnenes dækning.
+* **Besparelse:** Ca. 1.800 kr./år.
 
-Jeg fik tilbud på min bilforsikring fra [Samlino](https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625042&media_id=81507){: rel='sponsored nofollow noopener' } og [Findforsikring.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60068){: rel='sponsored nofollow noopener' }, men kunne desværre ikke finde et billigere tilbud på min bilforsikring lige nu - og der var ikke noget at gøre ved forsikringsselskabet.
+**Samlet besparelse:** 2.900 kr. om året for et kvarters administrativt arbejde!
 
-Det tog 15 minutter - men det var også en pæn besparelse på 2.900 kroner om året på forsikringer.
+---
 
-Nu er min udgift på forsikringer årligt følgende:
+## 5 hurtige greb til at optimere dine forsikringer
 
-| Forsikring                          | Pris / år |
-|-------------------------------------|-----------|
-| Bilforsikring og Vejlhjælp Berlingo | 4.170 kr  |
-| Ulykkesforsikring 2 voksne 3 børn   | 3.381 kr  |
-| Indboforsikring Hus Vejle           | 1.902 kr  |
+Hvis du vil gøre det samme kunsten efter, er her de fem mest effektive steder at lede efter besparelser:
 
-Hvad kunne du spare på dine forsikringer?
+1. **Undgå dobbeltdækning:** Tjek om du er dækket via dit fagforeningsmedlemskab, din arbejdsgiverpension eller dine kreditkort. Mange betaler for rejse-, afbestillings- eller ulykkesforsikring to steder på én gang.
+2. **Tjek dine selvrisici:** Har du råd til at betale en lidt højere selvrisiko, hvis skaden sker? Ved at hæve selvrisikoen fra f.eks. 1.000 kr. til 3.000 kr. falder den årlige præmie på bil- og husforsikringer markant.
+3. **Samlerabatter:** Mange selskaber giver 10–20 % rabat, hvis du samler indbo, hus, bil og ulykke hos dem. Husk dog altid at sammenligne den samlede pris mod andre selskaber.
+4. **Brug sammenligningstjenester:** Tjenester som [Findforsikring.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60068){: rel='sponsored nofollow noopener' } eller [Tjenestetorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38469){: rel='sponsored nofollow noopener' } gør det nemt at indhente tre uforpligtende tilbud på én gang.
+5. **Kig på bilens reelle værdi:** Kører du i en ældre bil, som kun er 20.000–30.000 kr. værd? Så er det sjældent pengene værd at betale for fuld kaskoforsikring. En ansvarsforsikring med vejhjælp er ofte nok.
 
-Tjek dine forsikringer hos:
+---
 
-[Findforsikring.dk](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=60068){: .btn .btn--large .btn--warning rel='sponsored nofollow noopener' } eller [Tjenestorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38469){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' }
+## Hvor meget betyder besparelsen over tid?
 
-***
+At skære 2.500–3.000 kr. af de årlige forsikringer er et skoleeksempel på at optimere sine faste udgifter. Sender du den månedlige besparelse videre til en [automatisk månedsopsparing](/nordnet-maanedsopsparing/), forvandler det usynlige gebyr sig til en anseelig formue over tid.
 
-## Hvordan kan jeg ellers spare penge?
+### Beregn formueeffekten af dine sparetiltag:
 
-[Lær at spare penge](/spar-penge/) i nogle af vores andre indlæg. Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+{% include spar-beregner.html eksempel="forsikring" %}
 
-{% assign site_posts = site.posts | where: "tags", "spareråd" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+---
 
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Konklusion
 
-***
+Forsikringer skal give tryghed i hverdagen, men du skal ikke betale for dækninger, du ikke har brug for, eller betale overpris hos et selskab, der tager dine faste indbetalinger for givet.
+
+Sæt en fast påmindelse i kalenderen hvert andet år, indhent tre friske tilbud, og nyd at sende overskuddet videre til din egen opsparing!
+
+Hvor længe er det siden, du sidst tjekkede dine forsikringspolicer igennem?
 
 {% include disclaimer.md %}

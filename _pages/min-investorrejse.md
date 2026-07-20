@@ -48,6 +48,9 @@ Og jeg blev noget overrasket.
 
 Jeg måtte sælge hele porteføljen manuelt og starte forfra. Her oprettede jeg investeringskonti på Nordnet og SaxoBank.
 
+**Automatisering af formuen:** 
+Jeg satte mine faste månedlige investeringer på autopilot via [Nordnet Månedsopsparing](/nordnet-maanedsopsparing/). Ved at fjerne købskurtagen helt og udnytte *Dollar Cost Averaging*, fik jeg bygget et system, hvor en del af min løn automatisk bliver investeret den 8. i hver måned. Det blev et af de mest afgørende skridt på min FIRE-rejse, fordi det fjernede følelser, timing-forsøg og tidsforbrug fra processen. Princippet om at "betale sig selv først" kørte nu helt af sig selv i baggrunden.
+
 ## Kapitel 2: Guldfeberen, 26 crowdlending-platforme og copytrading
 
 Da jeg blev fri af banken, ville jeg bygge det perfekte setup. Jeg satte den største andel af pengene ind på Nordnet og SaxoBank, men beholdt en del af kapitalen til forskellige eksperimenter for at *diversificere* og *eksperimentere*.
@@ -163,6 +166,8 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **Oktober (#10):** Crowdlending kaster nu over 4.300 kr. af sig om måneden. Jeg jubler over, at min kamel hos Agrikaab i Somalia har givet sit første afkast via mælkesalg (8% XIRR). 
   * **December (#12):** De første varselslamper blinker på P2P-markedet. Kuetzal er i store problemer (jeg er der heldigvis ikke), men Envestio skifter pludselig ejerkreds, hvilket skaber panik. Jeg stopper med at indskyde midler på platformen.
   * **December (#12):** Jeg har brugt utrolig meget tid på at nørde skat! Jeg har bygget regneark og sammenlignet lagerbeskattede, udenlandske ETF'er (med lav ÅOP) over for realisationsbeskattede, danske investeringsforeninger (med højere ÅOP). Min konklusion er, at den skattemæssige fordel ved at udskyde skatten med danske foreninger ofte vinder på den helt lange bane (20-30 år) for frie midler [3, 11, 12]. 
+  * **Maj 2019:** Jeg begyndte at eksperimentere med ædelmetaller for at inflationssikre porteføljen. Jeg oprettede en konto hos BullionVault og lavede mine første guldkøb. Men allerede efter 10 dage lavede jeg regnestykket for opbevaringsgebyrerne – og opdagede en klassisk "gebyrfælde". Deres minimumsgebyr på 4 EUR pr. måned betød, at små guldbeholdninger blev ædt op af omkostninger. Jeg stoppede eksperimentet og skiftede kort tid efter strategi til i stedet at købe guld-ETF'er (senere 4GLD) gennem Nordnet, hvor jeg undgår de dyre opbevaringsgebyrer.
+  * **Marts 2019:** Efter at have opdaget værktøjet Portfolio Performance fik jeg et alvorligt chok over min bankinvestering (*Spar Nord Stjerneinvest Fri*). Fra 2013 til 2019 havde jeg betalt 47.862 kr. i direkte bankgebyrer plus høje fondsomkostninger – for et årligt afkast (XIRR) på beskedne 2,75 %. Jeg besluttede at lukke ordningen og udtræde med mine ca. 1,2 mio. kr., men opdagede, at jeg ikke engang kunne overflytte papirerne til Nordnet, fordi banken havde placeret mig i lukkede "Clean Funds" (W-fonde). Alt blev solgt, og jeg overtog for alvor 100 % af styringen af min egen portefølje i billige, passive indeksfonde.
 </details>
 
 <details class="faq" markdown="1">
@@ -188,6 +193,7 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **Januar (#20):** Jeg har netop indleveret mit *proof of claim* i konkurssagen mod CredEarn. At udlåne krypto for at få renter viste sig at være en ubehagelig lærestreg [11]. Bitcoins stiger heldigvis eksplosivt, men mine midler er låst fast i sagen [12].
   * **Marts (#21):** Opgørelsen af skat for over 20 udenlandske crowdlending-platforme er et mareridt. Min aktieportefølje via Nordnets Månedsopsparing stiger til gengæld ufortrødent. Det simple virker.
   * **Coast FIRE Status:** Jeg sætter mig ned og regner på mine tal via *Walletburst*. Min optimering af hverdagsudgifter har haft en enorm effekt. Med 2,2 millioner kroner investeret passivt er jeg nået dertil, hvor jeg reelt ikke behøver at indbetale mere til min pension, før jeg når pensionsalderen (*Coast FIRE*). Den erkendelse ændrer alt.
+  * **2021:** Jeg eksperimenterede med "copy trading" på Etoro for at teste, om jeg kunne slå markedet ved automatisk at kopiere populære daytradere. Selve konceptet fungerede fint, men jeg endte med at lukke kontoen igen. Jeg indså hurtigt, at udenlandske platforme – og især handel med CFD'er – gør den danske skatteindberetning til et administrativt mareridt. Oplevelsen lærte mig noget vigtigt om min egen strategi: Jeg gider ikke bruge min tid på kompliceret skat. Det bekræftede mig i, at den "kedelige" vej med brede indeksfonde på en dansk platform som Nordnet (hvor skatten kører automatisk) er den helt rigtige for mig. Tjek mere om [copy trading](/copy-trading/).
 </details>
 
 <details class="faq" markdown="1">
@@ -201,6 +207,9 @@ Herunder har jeg samlet de vigtigste uddrag fra de 22 månedsopdateringer, jeg s
   * **Pensions-selvvalg i Velliv:** Jeg tager kampen op med mit firmapensionsselskab [1]. Jeg fravælger deres dyre, blandede standardpakker ("Høj Risiko Indeks") med indbyggede obligationer og en ÅOP på 0,53% [1]. I stedet skifter jeg til LinkPension (Selvvalg) og strikker en ultrabillig, ren 2-fonds aktieløsning sammen (88% MSCI World / 12% Emerging Markets) til næsten den halve pris [1].
   * **Afvikling af historiske rester:** Crowdlending-porteføljen er nu reelt død [2]. De mikroskopiske procenter, der drypper ind fra de sidste låste platforme, bliver konsekvent trukket ud og sendt direkte i aktiemarkedet [2]. Min FOMO omkring krypto og andre alternative projekter (som træ-investeringen) bliver parkeret på sidelinjen [2, 4] – min kerneformue skal være 100% simpel [1].
   * **2026-Status – Enkelhed vinder altid:** Hovedrengøringen er fuldført [1]. Fra at overvåge 26 platforme og nørde komplekse aktivklasser i gigantiske Excel-ark [4], er mit setup nu skåret helt ind til benet [1]. Min samlede formue på 7,4 millioner kroner passer sig selv på tværs af fire skarpe skattemiljøer [1]. Det kræver minimal tankevirksomhed, og det virker [1].
+  * **2023–2025:** En af mine største lærepenge som investor kom fra ejendoms-crowdlending. Jeg havde spredt penge ud på platforme som danske *The Many* og udenlandske platforme som *Housers* og *ReInvest24*. Men da konkursbølgerne og afviklingerne ramte branchen, lærte jeg lektien på den hårde måde: Uregulerede platforme, høje gebyrstrukturer og ringe likviditet er en uhensigtsmæssig cocktail for en passiv investor. 
+
+  Oplevelsen fik mig til at rydde op i min strategi. I dag er min ejendomsportefølje skåret helt ind til benet: Jeg dækker det brede marked via likvide, børsnoterede REIT ETF'er (f.eks. TRET) på aktiedepotet, mens den mere risikovillige crowdlending-del er kogt ned til regulerede nordiske byggelån hos Kameo. Både min portefølje og min nattesøvn er blevet langt bedre af den oprydning.
 </details>
 
 ---

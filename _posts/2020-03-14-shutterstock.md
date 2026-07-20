@@ -13,14 +13,6 @@ tags:
 excerpt: "Få passiv indkomst ved at sælge billeder på Shutterstock."
 ---
 
-
----
-layout: single
-title: "Passiv indkomst: 5 ærlige eksperimenter (og hvad jeg reelt har tjent)"
-permalink: /passiv-indkomst-eksperimenter/
-description: "Læs om mine eksperimenter med passiv indkomst: Fra at sælge billeder på Shutterstock og udgive Sudoku-bøger via Amazon KDP, til at udleje hus på AirBnb."
----
-
 En stor del af rejsen mod økonomisk uafhængighed handler om "Rigdomsformlen": At tjene mere, forbruge mindre og investere klogere [29]. For at sætte skub i den første del af ligningen, har jeg gennem årene kastet mig ud i en række forskellige eksperimenter for at skabe en passiv indtægt på nettet og i hverdagen.
 
 Spoiler alert: De færreste af dem er reelt "passive", og timelønnen er ofte forsvindende lav i starten [30]. Her er en ærlig gennemgang af 5 af mine mest spændende eksperimenter, og hvad de har lært mig.

@@ -30,6 +30,11 @@ At forbruge mindre var det første, jeg tog fat på. Jeg installerede appen Spii
 
 Resultatet af hele denne manøvre var til at tage og føle på: Allerede i det første år faldt vores samlede udgifter til privatforbrug med hele 33,8%, og min gennemsnitlige opsparingsrate røg fra et historisk niveau på knap 14,5% op på næsten 52% [32, 33].
 
+* **Optimering af faste udgifter (Mobil & familie):**
+En af de hurtigste måder at sænke sit FIRE-tal på er at skære i de faste månedlige abonnementer. I min jagt på at optimere privatøkonomien opdagede jeg, hvor meget overskudskapacitet vi betalte for på mobilregningen. Ved at tjekke vores reelle dataforbrug og udnytte Wi-Fi i hverdagen kunne vi skære abonnementerne helt ned til basisniveau (fx hos Lebara til 19–49 kr./md.). 
+
+Da min datter skulle have sin første mobil, undgik vi også "børnefælden" med dyre specialabonnementer og familiepakker; en billig basispakke kombineret med gratis, indbygget forældrekontrol (Google Family Link) og en brugt telefon gjorde arbejdet perfekt. Det var en god påmindelse om, at man med en smule adfærdsændring kan frigøre mange hundrede kroner om måneden til direkte investering – helt uden at mangle noget i hverdagen.
+
 ## 2. Tjene mere: Det utrættelige arbejde med "passiv" indkomst
 
 Som en del af rigdomsformularen ville jeg gerne skabe flere indtægtskilder ved siden af mit lønarbejde [13]. At kalde det "passiv" indkomst er dog en massiv underdrivelse af den tid, jeg reelt lagde i det. Det kostede hundredvis af timer foran skærmen.
@@ -63,6 +68,14 @@ Jeg kiggede på mine fremtidige forventninger: Når jeg går på pension, har je
 
 Da jeg opgjorde min nettoformue, havde jeg investeret **2,2 millioner kroner** [59]. Matematikken sagde, at jeg allerede havde krydset min Coast FIRE-grænse med længder!
 
+### Vendepunktet: Opgøret med bankens dyre løsninger
+
+I mange år troede jeg (som flertallet af danskere), at den tryggeste måde at investere min opsparing på var at overlade den til "eksperterne" i min bank. Jeg havde en fuldmagtsaftale med Spar Nord, hvor de passede mine penge mod et forvaltningsgebyr.
+
+Det var først i starten af 2019, da jeg begyndte at nørde mine egne tal igennem, at det gik op for mig, hvor hårdt gebyrerne bremsede min vej mod FIRE. Banken opkrævede tæt på 50.000 kr. i direkte gebyrer over 6 år, mens min samlede årlige omkostning (ÅOP) lå tæt på 2 %. Resultatet? Et årligt afkast på under 3 % midt i et af historiens største aktieopsving.
+
+Det opgør blev startskuddet til min reelle FIRE-rejse. Jeg lærte lektien på den hårde måde: **Ingen går mere op i dine penge, end du selv gør.** Ved at opsige bankaftalen, rykke alt til Nordnet og skære mine årlige omkostninger ned til en fjerdedel, fik jeg pludselig sat fuld turbo på min renters rente-effekt.
+
 ## Hvad frihed betyder for mig i dag
 
 At opnå Coast FIRE betød, at et massivt økonomisk åg blev fjernet fra mine skuldre. Jeg behøvede ikke længere at slide for at spare op til fremtiden [58]. 
@@ -81,7 +94,7 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   <summary><strong>2019: Det store optimeringsår</strong></summary>
   
   <br>
-
+  * **Februar 2019:** Jeg installerede *Netatmo Smart Radiator Valves* for at få bedre styr på varmen i huset. Systemet var en klar opgradering af komforten i hverdagen: Det gav en langt mere jævn varmefordeling, nem tidsstyring og fuld kontrol via mobilen, når vi var væk. Projektet gav mig dog også en god lektion i datadrevet privatøkonomi: Selvom termostaterne gjorde deres job godt, var det i praksis utrolig svært at måle en entydig økonomisk besparelse på varmeregningen, fordi udetemperaturen (graddagene) svinger så meget fra år til år. Det lærte mig at adskille *ren økonomisk ROI* fra *forbedret livskvalitet og komfort* – begge dele kan have stor værdi, men skal vurderes på hver deres præmisser. Læs lidt mere om [smarte radiator termostater](/smarte-radiator-termostater-besparelse/).
   * **Februar:** Jeg har lavet en stor fejl med crowdlending; jeg overførte i starten fra min danske bank og fik en elendig vekselkurs. Heldigvis opdagede jeg Revolut! Nu overfører jeg i DKK og veksler gebyrfrit til EUR via appen i *banking hours*, så jeg rammer den rene interbankrate.
   * **Marts:** Jeg har kigget min økonomi efter i sømmene. Jeg har sparet penge ved at melde mig ud af Folkekirken og fået sat prisen ned på mine forsikringer. Jeg har også lagt reklamer på mine blogs. I marts tjente jeg hele 16,01 kr. på Google Adsense og 12,29 kr. via Partner-Ads [18, 62].
   * **April:** Jeg har opgraderet til Revolut Premium for at fjerne den månedlige 40.000 kr. vekselgrænse. Fordi jeg skyder massivt ind i crowdlending i disse måneder, betaler Premium-gebyret sig hurtigt hjem. Planen er at nedgradere igen, når mit investeringstempo falder.
@@ -89,6 +102,8 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   * **August:** Jeg har en opsparingsrate på 55% denne måned! Mine børn tjente lidt lommepenge ved at hente varer for folk via Rema 1000's Vigo app [63].
   * **September:** Jeg har undervist nogle unge i forbrug og opsparing. Mine egne børn er også blevet farvet af det. Min ældste datter har bygget en "Playstation" ud af en æggebakke for at undgå at vi skulle købe en. *“Jeg synes bare, det er sjovt at styre”*, som hun sagde [64, 65].
   * **Året der gik (2019):** Gennemsnitligt har jeg i år haft en opsparingsrate på knap 52% (oppe fra mit tidligere snit på ca. 14,5%). Vores privatforbrug faldt med 33,8%. Den samlede formue steg med 32%. På et helt år tjente jeg 946 kr. i passiv indkomst på internettet [32, 33, 66, 67].
+  * **Sommeren 2019:** Jeg knækkede koden til den ultimative "win-win" ferieøkonomi ved at optimere begge sider af vores feriebudget. Dels lærte vi at holde [overnatningsudgifterne helt i bund](/billig-overnatning-ferie/) ved at leje private ferielejligheder med eget køkken frem for dyre hoteller. Dels forvandlede vi vores egen bolig fra en fast udgift til en aktiv indtægtskilde ved at [leje vores eget hus ud på Airbnb](/udlej-din-bolig/), mens vi var på ferie i Tyskland. Vores hus var udlejet i 10 nætter, og lejeindtægten dækkede 100 % af udgifterne til vores egen ferie. Det blev en stærk påmindelse om, at man med lidt snilde kan vende sine største faste udgifter til en passiv indtægt – og rejse uden at røre ved opsparingen.
+  * **Automatisering af formuen:** Jeg satte mine faste månedlige investeringer på autopilot via [Nordnet Månedsopsparing](/nordnet-maanedsopsparing/). Ved at fjerne købskurtagen helt og udnytte *Dollar Cost Averaging*, fik jeg bygget et system, hvor en del af min løn automatisk bliver investeret den 8. i hver måned. Det blev et af de mest afgørende skridt på min FIRE-rejse, fordi det fjernede følelser, timing-forsøg og tidsforbrug fra processen. Princippet om at "betale sig selv først" kørte nu helt af sig selv i baggrunden.
 </details>
 
 <details class="faq" markdown="1">
@@ -101,6 +116,7 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   * **April:** Vores bil er død, så vi sparer transportpengene foreløbig [24]. Jeg har for første gang fået drikkepenge via 'Buy me a coffee' fra en bruger, der var glad for et gratis hæfte på Fodboldens Legestue. Samlet passiv indkomst: 246 kr [68].
   * **November:** Jeg har brugt strategierne fra *Income School* intenst. Trafikken på mine sites eksploderer! *Motionsplan.dk* er gået fra under 1.500 besøgende i januar til over 22.000 om måneden nu. Min passive indkomst begynder langsomt at følge med [69].
   * **April 2020:** Berlingoen skulle til syn, og mekanikerne via Autobutler oplyste, at bagbroen var gået, og bremserne skulle skiftes – et reparationschok på mellem 22.500 og 28.000 DKK! Da bilens værdi var lavere end reparationen, traf vi den hurtige beslutning at skrotte bilen for skrotpræmien på 2.200 kr.[cite: 10] Vi valgte herefter at leve helt uden bil og i stedet klare os med cykler, offentlig transport og lejebiler via GoMore, når det var højst nødvendigt – hvilket sparede os for tusindvis af kroner hver måned[cite: 8, 10].
+  * **Eksperimenter med alternativ indtjening (Coinbase Earn):** Da krypto-platformen Coinbase introducerede "Earn"-konceptet, afprøvede jeg det for at se, om små onlinekurser kunne generere lidt gratis krypto til formuen. Selvom konceptet dengang gav et par hundrede kroner, lærte det mig hurtigt en vigtig lektie: Mikro-indtægter, der kræver løbende manuel tid og giver uforudsigelige/støjende aktiver, rykker intet i det store billede. Min tid var langt bedre brugt på at automatisere aktieinvesteringerne og sænke mine faste udgifter.
 </details>
 
 <details>

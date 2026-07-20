@@ -1,9 +1,10 @@
 ---
-title: "Guld som opsparing eller investering"
-last_modified_at: 2020-03-17T09:20:02+02:00
+title: "Guld som opsparing eller investering: Hvad virker i praksis?"
+last_modified_at: 2026-07-20T10:00:00+02:00
 permalink: /guld/
 redirect_from:
   - /guld-opsparing-investering/
+  - /bullionvault-anmeldelse/
 header:
   overlay_image: https://images.unsplash.com/photo-1514214460829-5f081763862a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
   teaser: https://images.unsplash.com/photo-1514214460829-5f081763862a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
@@ -15,7 +16,7 @@ tags:
   - opsparing
   - guld
   - metaller
-excerpt: "Hvad er guld - og hvordan investerer du i det?"
+excerpt: "Guld kan beskytte din portefølje, men gebyrer kan hurtigt æde afkastet. Læs mine erfaringer med alt fra BullionVault til min foretrukne løsning med 4GLD."
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9781471148613/0x500
     alt: "Money - Master the Game - 7 Simple Steps to Financial Freedom"
@@ -43,81 +44,91 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Guld har fyldt en stor del af økonomien gennem historien, og det var også en lang årrække betalingsmiddel. Tidligere var vores valutaer også bundet op på guld, og på den måde undgik man inflation. 
+Guld har fyldt en stor del af økonomien gennem historien, og i en lang årrække var det vores primære betalingsmiddel. Tidligere var vores valutaer direkte bundet op på guldreserven, og på den måde forsøgte man at undgå inflation. 
 
-Fortalerne mener at guld er det bedste værn mod inflation og kan skærme mod faldende markeder, mens andre ikke længere mener, at det kan betale sig at investere i guld. Modstandernes argumenterer for, at du ikke bliver rigere af at have guld, da værdien er nogenlunde stabil, og at du derfor er bedre stillet ved at investere i andre aktivklasser som fx aktier og råvarer. 
+I dag deler guld vandene. Fortalerne mener, at guld er det bedste værn mod inflation og kan skærme din portefølje mod faldende aktiemarkeder. Modstanderne argumenterer derimod for, at du ikke bliver reelt rigere af at eje guld, da det (i modsætning til virksomheder) ikke producerer noget eller udbetaler udbytte. 
 
-## Hvorfor køber man i guld?
+Alligevel har jeg valgt at have guld som en lille, stabiliserende del af min portefølje. Her er mine erfaringer med, hvordan du billigst og klogest køber guld.
 
-### Er guld opsparing eller investering?
+## Hvorfor køber man guld?
 
-Opsparing er noget, der holder værdi over tid, mens investering er noget der genererer flere penge over tid. Det er meget populært at købe mønter eller guldbarrer som en opsparing. Det gør man ud fra den betragtning, at købekraften over tid gerne skulle bibeholdes.
+### Opsparing vs. Investering
 
-### Prisen på guld stabil
+Når du overvejer guld, skal du kende forskellen på opsparing og investering. Opsparing er noget, der *holder værdi* over tid, mens investering er noget, der *genererer flere penge* over tid. Guld hører for de fleste til i opsparings-kategorien. Formålet er ikke at få et tårnhøjt afkast, men at sikre, at købekraften over tid bibeholdes.
 
-Prisen på guld er styret af efterspørgslen. Prisen har historisk hold sig rimelig stabil, men de seneste 30 år er der alligevel sket en del med prisen.
+### Er prisen på guld stabil?
+
+Guldprisen er udelukkende styret af udbud og efterspørgsel. Historisk set har prisen holdt sig nogenlunde stabil ift. købekraft (du kan få den samme mængde brød for en guldklump i dag, som du kunne for hundrede år siden). Men kigger vi på de seneste 30 år, er der alligevel sket markante udsving i kursen:
 
 {% include figure image_path="/assets/images/posts/gold-price.png" caption="Guldprisen i 30 år fra [Macrotrends.net](https://www.macrotrends.net/1333/historical-gold-prices-100-year-chart) justeret for inflation" %}
 
-Hvis du havde investeret i guld i 2011 på _all time high_, så ville du altså ikke kunne sælge til samme pris nu. (Det er derfor det er godt at købe ind efter _dollar cost averaging_).
+Hvis du havde investeret hele din opsparing i guld i 2011 på et *all-time high*, ville du have haft svært ved at få dine penge hjem igen i de efterfølgende år. Det understreger, hvorfor *dollar cost averaging* (at købe løbende) også gælder for metaller.
 
-Kan det overhovedet betale sig at investere i guld?
-
-Guld bliver i højere grad brugt til at gardere sig mod inflation som en del af ens portefølje. 
-
-Ben Felix laver nogle fremragende videoer om investering, og han fortæller også om at investere i guld:
+Ben Felix laver nogle fremragende videoer om investeringsteori, og han har et ret skarpt (og kritisk) blik på, hvorvidt det overhovedet giver mening at investere i guld:
 
 {% include video provider="youtube" id="ulgqlQWlPbo" %}
  
-## Sådan køber du guld
+## 3 måder at købe guld på (og mine erfaringer)
 
-Hvis du gerne vil have guld som opsparing eller investering, er der forskellige måder at gøre det på. 
+Hvis du har besluttet dig for, at guld skal være en del af din portefølje, findes der grundlæggende tre veje at gå. Jeg har selv været to af dem igennem, før jeg fandt min nuværende strategi.
 
-- **Køb fysisk guld**. Du køber en mønt eller en guldbar og har den liggende hjemme eller i en bankboks.
-- **Køb hos en udbyder**. Jeg har fx eksperimenteret med at købe hos [BullionVault](/go/bullionvault/){: rel='sponsored nofollow noopener' }, hvor du kan købe guld, som de opbevarer for dig. Desværre viste det sig, at gebyrerne blev for høje for mig ift. det beløb, jeg var villig til at have på denne måde.
-- **Køb en ETF**. Du kan også købe en ETF, som er baseret på fysisk guld. Hvis du køber det som ETF som en del af din portefølje, skal du lægge mærke til, at der er forskellige typer af ETF’er. Jeg foretrækker ETF’er, der er bakket op af fysisk guld.
+### 1. Fysisk guld i bankboksen
+Du kan købe mønter eller fysiske guldbarrer hos forhandlere som fx Tavex eller Vitus Guld. Det giver en særlig sikkerhed at have guldet i hånden, men det medfører udfordringer: Du skal betale for en sikker bankboks, bekymre dig om tyveri og tegne specialforsikringer. Det fravalgte jeg hurtigt.
 
-## ETF’er der tracker guld
+### 2. Udbydere med opbevaring (Advarsel: Gebyrfælden)
+I 2019 besluttede jeg mig for at teste [BullionVault](/go/bullionvault/){: rel='sponsored nofollow noopener' }. Det er en af verdens største online guldhandlere, hvor du kan købe ægte guld helt ned til 1 gram ad gangen, og så står de for sikkerhed, opbevaring og forsikring i topsikrede bokse. Det lød som den perfekte, lette adgang.
 
-Der findes ETF’er, hvor der er fysisk guld bag ved dem. Når du køber ind i ETF’en ejer du altså en andel af deres guld. Kursen på ETF’en stiger og falder altså med guldprisen. (Du kan også finde ETF’er der investerer i branchen i stedet for fysisk guld). Jeg foretrækker at ETF’en er bakket op af fysisk guld, og jeg har fundet følgende interessante ETF’er på [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' }, hvor de årlige omkostninger ikke er alt for høje:
+Det var utrolig nemt at handle på platformen, men da jeg regnede efter, gik virkeligheden op for mig: **Opbevaringsgebyrerne åd min investering**. 
 
-| Tick | Værdipapir                                                                                                                             | ÅOP   | Morningstar rating                       | Bæredygtighed                            | Forvaltning |
-|------|----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------|------------------------------------------|-------------|
-| VZLD | [WisdomTree Physical Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000ISJC)                               | 0,39% |  | | Passiv      |
-| GZUR | [WisdomTree Physical Swiss Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000NA52)                               | 0,19% |  |  | Passiv      |
-| 4GLD | [Xetra Gold (EUR)](https://www.morningstar.dk/dk/etf/snapshot/snapshot.aspx?id=0P0000M7DL)                               | 0%-0,30%[^note] |  |  | Passiv      |
+BullionVault tager 0,01% i opbevaringsgebyr om måneden, **men mindst 4 EUR pr. måned**. 4 EUR lyder ikke af meget, men hvis du (som jeg) kun vil have en lille smule guld som et supplement i porteføljen (fx til en værdi af 10.000 kr.), svarer 4 EUR om måneden pludselig til næsten 3,5 % i årlige omkostninger! 
 
-[^note]: I Nordnets artikel [Eksponer din portefølje mod guld](https://www.nordnet.dk/dk/marked/aktier/aktieinspiration/guld) står der 0% i ÅOP, men i en brochure fra Xetra Gold står der følgende: "The custody fees are currently at approximately 0.3 per cent p.a. (plus value-added tax), which are reported separately" fra [Xetra Gold Brochure](https://www.xetra-gold.com/fileadmin/user_upload/Downloads_English/Brochures/XetraGold_Broschuere.pdf). 
+Min lærestreg var klar: Det kan ikke betale sig at bruge disse professionelle platforme, medmindre du investerer for væsentligt over 2.000 USD ad gangen.
 
-> Når du er kunde i Nordnet er der ingen "custody" omkostninger ved 4GLD der bliver sendt videre til kunden (som det er i dag, vi tager forbehol for at det kan ændre sig med tiden). Derfor er det korrekt at RIY er 0,00% som det også står oplyst i faktaark til 4GLD.
+### 3. ETF'er og certifikater (Min nuværende strategi)
+Efter min oplevelse med BullionVault skiftede jeg strategi. I lang tid har jeg nu i stedet ejet guld i min portefølje gennem et tracker-certifikat.
 
----<cite>Nordnet Support</cite>
+Min absolut foretrukne løsning lige nu er at handle guld som var det en aktie gennem en tracker, der er fuldt bakket op af fysisk guld i en boks et sted. Jeg bruger specifikt certifikatet **4GLD (Xetra Gold)**.
+
+{% include investeringskort.html fonde="4GLD" %}
+
+Fordelen ved 4GLD er, at den tracker guldprisen 1:1, den er bakket op af fysisk guld, og når du handler den igennem f.eks. [Nordnet](/go/nordnet/){: rel='sponsored nofollow noopener' }, tager de (i skrivende stund) ikke det depotgebyr (custody fee), som ellers normalt er forbundet med at have fysisk guld opbevaret. På den måde får jeg guldets egenskaber i min portefølje, men uden det dyre opbevaringsgebyr, som jeg løb ind i tidligere.
+
+Guld er i øjeblikket ikke en del af [min portefølje](/mine-investeringer/). Du kan følge med på den side om det ændrer sig.
+
+## Oversigt over Guld ETF'er og certifikater
+
+Jeg foretrækker fonde, der er bakket fysisk op. Her er et par interessante muligheder, du kan finde på Nordnet:
+
+{% include fond-sammenlign.html fonde="4GLD, VZLD, GZUR" %}
+
+\* I et faktaark fra Xetra Gold står der et custody fee på 0,3 %, men [Nordnet Support](/go/nordnet/){: rel='sponsored nofollow noopener' } oplyser: *"Når du er kunde i Nordnet er der ingen custody omkostninger ved 4GLD der bliver sendt videre til kunden. Derfor er det korrekt at RIY er 0,00 %."*
+{ .notice--info }
 
 ## Investering i guld gennem aktier
 
-Du kan også investere i selskaber, der har guld som sit primære forretningsområde. På fx [Nordnet](/go/nordnet/) eller [SaxoInvestor](/go/saxoinvestor/) kan du bare søge på “Gold”, og så får du en liste over aktieselskaber, der arbejder med guld. Når man investerer i enkeltaktier, skal du virkelig gøre dit hjemmearbejde først og sætte dig ind i selskabet. Et eksempel er Barrick Gold Corporation, som er et aktieselskab, der vil være de største inden for minedrift. Deres aktie stiger altså, når de overtager nye guldminer og driver dem godt, og kursen vil formentlig også stige, når guldkursen stiger. Men hvem ved hvad fremtiden bringer? Der er stor risiko ved enkeltaktier, for selskabet kan jo gå konkurs.
+Som et alternativ til selve metallet kan du investere i de selskaber, der graver det op. På fx [SaxoInvestor](/go/saxoinvestor/){: rel='sponsored nofollow noopener' } kan du søge på "Gold" og finde mineselskaber som fx *Barrick Gold Corporation*. 
 
-## Køb og sælg guld i certifikater
+Her skal du dog være opmærksom på, at du pludselig påtager dig selskabsrisiko. Aktiekursen stiger måske, når guldprisen stiger, men den kan også falde, hvis selskabet drives dårligt eller går konkurs. Det er altså en væsentlig højere risikoprofil end at eje det rene metal.
 
-På [Etoro](/go/etoro/){: rel='sponsored nofollow noopener' } kan du spekulere i guld gennem certifikater. Det ville jeg aldrig selv begive mig ud i, da jeg ikke tror på, at man kan forudsige markedet konsistent over tid. Du kan lynhurtigt tage mange penge på denne måde.
+## Er guld et reelt værn mod inflation?
 
-## Er guld et godt værn mod inflation?
-
-Guld har ikke noget indtjeningspotentiale over lang tid (derfor mange bruger det som opsparing og ikke investering). William Bernstein foreslår, at guld slet ikke er et godt værn mod inflation:
+Mange guld-fans bruger metallet for at sikre sig mod, at deres penge bliver mindre værd. Men forfatteren William Bernstein påpeger, at der faktisk findes bedre alternativer, hvis inflationssikring er dit primære mål:
 
 > “Commodity producers, it turns out, have worked better. The cheapest solution is to hold an internationally diversified stock portfolio, so that rampant inflation in the U.S. can be offset by more stable returns from foreign stocks. A long-term, fixed rate mortgage tied to a house not purchased in a bubble will also offer an offset. Finally, there are inflation-protected bonds (TIPS) for those who want them.”
+>
+> <cite>William Bernstein til [Forbes](https://www.forbes.com/sites/phildemuth/2013/09/03/essential-reading-deep-risk-by-william-bernstein-plus-q-a-with-author/)</cite>
 
---- <cite>William Bernstein fra [Forbes](https://www.forbes.com/sites/phildemuth/2013/09/03/essential-reading-deep-risk-by-william-bernstein-plus-q-a-with-author/)</cite>
+## Konklusion: Er guld noget for dig?
 
-## Er guld noget for dig?
+Guld hører ikke hjemme i enhver portefølje. Du skal gøre op med dig selv, om du primært leder efter **investering** (afkast og vækst) eller **opsparing** (fastholdelse af købekraft og stabilitet). 
 
-Du skal nøje vurdere, hvad dit formål med at købe guld er? Er det til **opsparing** eller **investering** - og er formålet at fastholde købekraften? Mange køber guld til deres samlede portefølje, da det aldrig vil falde 100% i værdi, mens andre ikke er glade for guld, da det ikke stiger i værdi.
+Nogle investorer undgår guld helt, fordi det ikke genererer et udbytte, mens andre betragter det som en uundværlig "stødpude", der aldrig vil falde til 0 kr i værdi.
 
 {% include video provider="youtube" id="7FBo467hLzQ" %}
 
-Guld er en del af fx [Harry Brownes Permanent Portfolio](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/the-permanent-portfolio_craig-rowland_hardback_9781118288252){: rel="sponsored nofollow noopener" } og Ray Dalios All-Weather Portfolio som Anthony Robbins har gjort populært gennem bogen [Money - Master the Game](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }.
+Hvis du er inspireret af strategier som Harry Brownes *Permanent Portfolio* eller Ray Dalios *All-Weather Portfolio* (gjort kendt af Tony Robbins i bogen [Money - Master the Game](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/money-master-the-game_tony-robbins_paperback_9781471148613){: rel="sponsored nofollow noopener" }), så vil guld naturligt indgå som et element til at balancere din risiko.
 
-Guld kan være en del af den balancerede portefølje, og den kan være med til at justere din risiko. Det er dog mere enkelt bare at bruge obligationer til at styre risikoen i porteføljen.
+Men husk min lærestreg: Hvis du tilføjer guld til din portefølje, så vær hysterisk opmærksom på omkostningerne. For mig var 4GLD den rette, gebyrvenlige balance.
 
 {% include feature_row type="left" %}
 

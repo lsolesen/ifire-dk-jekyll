@@ -139,7 +139,7 @@ Jeg har en **intern rente samlet på mine investeringer i kryptovaluta på 4,68%
 
 {% include figure image_path="/assets/images/status/crypto-performance-may-2020.jpg" caption="Kryptovaluato portefølje med Bitcoins som benchmark" %}
 
-Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/coinbase-earn/), hvor du bliver betalt i kryptvaluta.
+Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/online-gigs-mikro-indtaegter/), hvor du bliver betalt i kryptvaluta.
 
 [Få 10EUR til Bitcoins på Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Kraken](/go/kraken/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 

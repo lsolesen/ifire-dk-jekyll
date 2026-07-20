@@ -7,7 +7,7 @@ category:
   - Privatøkonomi
 tags:
   - børn
-  - opdragelsee
+  - opdragelse
   - økonomi
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/51ultoit2OL._SX330_BO1,204,203,200_.jpg
@@ -18,72 +18,89 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 header:
-  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 ---
+
+{% include disclosure.html %}
 
 Jeg har tre fantastiske piger, som er født ind i en verden, hvor det virker som om bevidstløs forbrug er det mest normale. Det er også tre piger, som har en fin indtægt fra fødselsdage og andre møder med generøse familiemedlemmer. Det er tre piger, som bliver meget inspireret til at skaffe sig ting.
 
-Vi har ikke _flow tv_, så vi ser sjældent reklamer herhjemme. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted. Børnene får lov til at se tegnefilm i fjernsynet. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for _Vampyrina_ med en catchy sang. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse. Og hun er glad for det. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud. Og det er af plastik.
+Vi har ikke *flow tv*, så vi ser sjældent reklamer herhjemme. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted. Børnene får lov til at se tegnefilm i fjernsynet. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for *Vampyrina* med en catchy sang. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse. Og hun er glad for det. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud. Og det er af plastik.
 
 Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere mig for, hvordan jeg kunne lære mine børn om penge og ting.
 
-- At penge ikke er en uendelig ressource.
-- At man skal arbejde for at få penge.
-- At der er forskel på nødvendighed (needs) og ønsker (wants).
-- At penge kun bør bruges, hvis man for alvor bliver lykkeligere af det, man køber.
-- At man kan få pengene til at arbejde for sig.
+* At penge ikke er en uendelig ressource.
+* At man skal arbejde for at få penge.
+* At der er forskel på nødvendighed (needs) og ønsker (wants).
+* At penge kun bør bruges, hvis man for alvor bliver lykkeligere af det, man køber.
+* At man kan få pengene til at arbejde for sig.
 
 Jeg er sikkert alt for meget. Jeg synes langt de fleste ting, mine børn gerne vil købe er fjollet, fordi de allerede har så mange ting.
 
 Jeg synes også, at det er ret vildt, hvor mange penge de allerede har samlet sammen gennem gaver. Jeg vil gerne inspirere dem til at beholde pengene og måske endda til at investere dem på den ene eller anden måde.
 
+**Læs**: [Rigdomsformlen og økonomisk bevidsthed for unge](/ung-rigdomsformel/)
+
+---
+
 ## Hvordan får man pengene til at arbejde?
 
-### Fars bank
-
+### Fars bank og renter
 Så jeg opfandt **fars bank og renter**. Og jeg er en meget gavmild bank, så de får 1% i rente om måneden i rente. (Jeg ville egentlig have givet dem 10% i rente om året, men det endte med 12%, fordi jeg synes, at det var lettere at regne med).
 
 Jeg delte min ide med pigerne, og de fattede det ikke. Så jeg forklarede det igen. Og efterhånden så fangede de, at der hver måned ville komme flere penge ind på deres bankkonto. Min mellemste har især taget konceptet til sig. De første tre-fire gange spurgte hun spændt til, hvornår hun skulle have det der “rabat” igen.
 
 De har hver deres konto i banken, hvor alle pengene kommer ind. Jeg har også et regneark, hvor jeg regner renterne ud.
 
-### Udlejning af huset
+### Udlejning af huset og kamelen Elna
+Vi lejede vores hus ud på AirBnb, og børnene fik leje for deres eget værelse. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med.
 
-Vi **lejede vores hus ud på [AirBnb](/go/airbnb/){: rel='sponsored nofollow noopener' }**, og **børnene fik leje for deres eget værelse**. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med.
+Vi aftalte at bruge indtægten fra AirBnb på at investere dem i et fælles projekt. Vi valgte at investere i en kamel gennem Agrikaab. Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna. 
 
-Vi aftalte at bruge indtægten fra AirBnb på at **investere dem i et fælles projekt**. Vi valgte at investere i en kamel gennem [Agrikaab](/platform/agrikaab/). Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna. **Agrikaab lukkede ned marts 2020. Så det var dyre lærepenge sammen med børnene. Så kan vi lære lidt om risiko og reward. Heldigvis har investeringen haft et impact i lokalmiljøet indtil projektet lukkede ned.**
+**Agrikaab lukkede ned i marts 2020. Så det var dyre lærepenge sammen med børnene. Så kan vi lære lidt om risiko og reward. Heldigvis har investeringen haft et impact i lokalmiljøet indtil projektet lukkede ned.**
 
-At investere i en kamel er meget håndgribeligt. Vi har sammen købt et aktiv. Vi forventer, at aktivet vil give et afkast over tid både gennem mælk og på et tidspunkt bliver den også slagtet. Vi har samtidig opmærksomhed på en verdensdel, hvor livet ikke altid er lige let for befolkningen. Det giver os til gengæld et lille afkast, som vi kan følge, og som kan give os fornemmelsen af, hvad det vil sige at få pengene til at arbejde for sig. (Vi venter lidt med sammenhængen mellem afkast og risiko, som formentlig i et afrikansk investeringseventyr ikke hænger helt sammen.)
+At investere i en kamel er meget håndgribeligt. Vi har sammen købt et aktiv. Vi forventede, at aktivet ville give et afkast over tid både gennem mælk og på et tidspunkt slagtning. Vi havde samtidig opmærksomhed på en verdensdel, hvor livet ikke altid er lige let for befolkningen. Det gav os til gengæld et lille afkast, som vi kunne følge, og som gav os fornemmelsen af, hvad det vil sige at få pengene til at arbejde for sig.
+
+---
 
 ## Andre pengetiltag
 
 Vi har eksperimenteret lidt med andre aktiviteter, som forhåbentlig kan være med til at gøre deres økonomiske sans bedre.
 
-- Hvis vi beslutter os for at **købe slik i weekenden**, så får børnene 10 kroner hver, men hvis de køber for mindre, så får de resten af pengene.
-- Pigerne har selv foreslået at gå på **skraldetur**, hvor de så også har **fundet pant**. (Den ene gang var der en skovsnegl i en af flaskerne, vi ikke havde opdaget før vi kom hjem, hvor den var kravlet halvt ud.)
-- Helt **særlige opgaver** har jeg givet pigerne **løn** for. Fx at feje blade i vores fælles garage eller finde små plastikdimser på vejen, som var blevet efterladt af en håndværker. De får aldrig løn for at løse opgaver i huset, da det hører med til at være en del af familien.
+* Hvis vi beslutter os for at **købe slik i weekenden**, så får børnene 10 kroner hver, men hvis de køber for mindre, så får de resten af pengene.
+* Pigerne har selv foreslået at gå på **skraldetur**, hvor de så også har fundet pant. (Den ene gang var der en skovsnegl i en af flaskerne, vi ikke havde opdaget før vi kom hjem, hvor den var kravlet halvt ud.)
+* Helt **særlige opgaver** har jeg givet pigerne løn for. Fx at feje blade i vores fælles garage eller finde små plastikdimser på vejen, som var blevet efterlagt af en håndværker. De får aldrig løn for at løse opgaver i huset, da det hører med til at være en del af familien.
+
+---
+
+Mine børn er måske ved at blive lidt for påvirkede af vores fælles snakke om at tænke grundigt over sit forbrug. Min ældste har i hvert fald lige lavet en "Playstation" ved hjælp af en æggebakke - og så er de begyndt at styre hinanden rundt i stuen.
+
+> Jeg synes bare, at det er sjovt at styre, som hun siger.
+
+{% include figure image_path="/assets/images/posts/playstation-lunarway.jpg" %}
+
+---
 
 ## Det modsatte af forkælet
 
 De seneste dage har jeg ledt efter mere inspiration til, hvordan jeg kan lære pigerne om penge.
 
-Jeg stødte på Ron Liebers overvejelser fra hans bog [Opposite of Spoiled](https://amzn.to/31riw8s), og jeg nød at se hans oplæg, som du også kan se her.
+Jeg stødte på Ron Liebers overvejelser fra hans bog *Opposite of Spoiled*, og jeg nød at se hans oplæg, som du også kan se her.
 
 {% include video provider="youtube" id="p9npcWXf4GM" %}
 
 Her er pointer fra bogen i overskrifter:
 
-- Snak med dine børn om penge - og svar på alle deres spørgsmål.
-- Dine børn skal have lommepenge, og det skal ikke være en løn for at udføre pligter.
-- Både forbrug og at give penge (donationer) giver mulighed for at få et godt forhold til penge.
-- Børn skal også arbejde.
-- Lad ikke dine børn være utaknemmelige.
+* Snak med dine børn om penge - og svar på alle deres spørgsmål.
+* Dine børn skal have lommepenge, og det skal ikke være en løn for at udføre pligter.
+* Både forbrug og at give penge (donationer) giver mulighed for at få et godt forhold til penge.
+* Børn skal også arbejde.
+* Lad ikke dine børn være utaknemmelige.
 
-## Skal vi give lommepenge?
+### Skal vi give lommepenge?
+Ron Lieber foreslår, at man giver lommepenge. Lige nu får pigerne ikke lommepenge, fordi jeg ikke helt kunne finde ud af, hvorfor de skulle have det.
 
-Ron Lieber foreslåer, at man giver lommepenge. Lige nu får pigerne ikke lommepenge, fordi jeg ikke helt kunne finde ud af, hvorfor de skulle have det.
-
-Ron Lieber argumenterer for, at børn skal have lommepenge, så de lærer at spare op til noget, de har har brug for. Han foreslår, at beløbet stiger årligt, men at børnene samtidig får større ansvar for, hvad de selv skal købe for deres egne penge.
+Ron Lieber argumenterer for, at børn skal have lommepenge, så de lærer at spare op til noget, de har brug for. Han foreslår, at beløbet stiger årligt, men at børnene samtidig får større ansvar for, hvad de selv skal købe for deres egne penge.
 
 Det argument kan jeg ikke ignorere. Jeg vil gerne lære pigerne at tage deres egne beslutninger, lave deres egne fejl, og så skal de jo også have muligheden for at tage nogle valg.
 
@@ -91,8 +108,7 @@ I fremtiden **skal pigerne have lommepenge**. Jeg vil lige tænke over, hvad de 
 
 En af Ron Liebers pointer er, at børnene skal have fornemmelse for matematik først. Når børnene er 10-12 år foreslår Lieber, at forældrene ikke længere køber noget af det, de gerne vil have (wants). De skal i stedet have lommepenge, så de kan købe noget af det, de gerne vil have.
 
-## Skal vi dele deres penge op i forbrug, donationer og opsparing
-
+### Skal vi dele deres penge op i forbrug, donationer og opsparing?
 Ron Lieber skriver ud fra en amerikansk kontekst, hvor donationer og at give penge til organisationer virker til at være en større del af deres samlede økonomi end i Danmark, hvor vi har velfærdsstaten.
 
 Alligevel kan man ikke undgå at blive inspireret af, at han foreslår, at børnene skal opdele deres penge i forbrug, velgørenhed og opsparing. Det giver børnene en mulighed for at kigge lidt på et budget, men at skulle forholde sig til velgørenhed skaber også en god mulighed for at arbejde med deres generøsitet.
@@ -101,109 +117,42 @@ Hvad fokuserer du på, når du snakker med dine børn om penge?
 
 {% include feature_row type="left" %}
 
-{% include disclaimer.md %}
+> **Ron Lieber skriver selv om bogen:**
+> *"In the spirit of Wendy Mogel’s The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman’s Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years."*
 
-***
+---
 
-Jeg har tre fantastiske piger, som er født ind i en verden, hvor det virker som om bevidstløs forbrug er det mest normale [1]. Det er også tre piger, som har en fin indtægt fra fødselsdage og andre møder med generøse familiemedlemmer [1]. Det er tre piger, som bliver meget inspireret til at skaffe sig ting [1].
+## Formelle børneopsparinger og efterskolefonde
 
-Vi har ikke *flow tv*, så vi ser sjældent reklamer herhjemme [1]. Kort før min mellemste datters fødselsdag, var vi på besøg et andet sted [1]. Børnene får lov til at se tegnefilm i fjernsynet [1]. Det er på en af de kanaler, hvor man kan hente kaffe hver femte minut under reklamerne [1]. Alle reklamerne er naturligvis meget lokkende, og min mellemste datter på seks år ser en reklame for *Vampyrina* med en catchy sang [1]. Det var første gang hun stiftede bekendtskab med netop Vampyrina - og reklamen er på 30 sekunder [1]. Men med det samme kom Vampyrina-slottet på ønskesedlen til hendes fødselsdag - og nøjagtig 13 dage senere fylder slottet en stor del af hendes værelse [1]. Og hun er glad for det [1]. Og ret beskyttende overfor slottet, så det lånes kun modvilligt ud [1]. Og det er af plastik [1].
+Når alt kommer til alt, handler det ikke kun om lommepenge og "fars bank", men også om den mere formelle langsigtede opsparing til pigernes fremtid. 
 
-Måske var det startskuddet til, at jeg for alvor selv begyndte at interessere mig for, hvordan jeg kunne lære mine børn om penge og ting [2].
-* At penge ikke er en uendelig ressource [2].
-* At man skal arbejde for at få penge [2].
-* At der er forskel på nødvendighed (needs) og ønsker (wants) [2].
-* At penge kun bør bruges, hvis man for alvor bliver lykkeligere af det, man køber [2].
-* At man kan få pengene til at arbejde for sig [2].
+I maj 2019 fik jeg endelig startet [børnenes børneopsparing](/borneopsparing/) op. Det tæller jo hurtigt i budgettet, når man har tre af slagsen, og det betød, at min egen månedlige opsparingsrate fik et dyk den måned. 
 
-Jeg er sikkert alt for meget [2]. Jeg synes langt de fleste ting, mine børn gerne vil købe er fjollet, fordi de allerede har så mange ting [2].
+Derudover har vi oprettet en decideret "efterskolefond" i aktieindeks til fremtiden. Efterhånden som vi nærmer os, at pengene skal bruges, er jeg begyndt at dirigere en andel af denne efterskolefond over i mere likvide konti, for at sikre likviditeten på det rigtige tidspunkt, når regningerne for efterskoleopholdet rent faktisk lander.
 
-Jeg synes også, at det er ret vildt, hvor mange penge de allerede har samlet sammen gennem gaver [3]. Jeg vil gerne inspirere dem til at beholde pengene og måske endda til at investere dem på den ene eller anden måde [3].
-
-## Hvordan får man pengene til at arbejde?
-
-### Fars bank
-Så jeg opfandt **fars bank og renter** [3]. Og jeg er en meget gavmild bank, så de får 1% i rente om måneden i rente [3]. (Jeg ville egentlig have givet dem 10% i rente om året, men det endte med 12%, fordi jeg synes, at det var lettere at regne med) [3].
-
-Jeg delte min ide med pigerne, og de fattede det ikke [4]. Så jeg forklarede det igen [4]. Og efterhånden så fangede de, at der hver måned ville komme flere penge ind på deres bankkonto [4]. Min mellemste har især taget konceptet til sig [4]. De første tre-fire gange spurgte hun spændt til, hvornår hun skulle have det der “rabat” igen [4].
-
-Min datter vågnede op en dag, så at det var den sidste dag i måneden, og udbrød straks: *"Så skal vi da have renter"* [4]. Jeg sagde til hende, om det var ved at være tid til, at mine generøse "børnerenter" også skulle komme med en risiko, der matcher renten [4]. Det mente hun nu ikke var nødvendigt [4].
-
-De har hver deres konto i banken, hvor alle pengene kommer ind [4]. Jeg har også et regneark, hvor jeg regner renterne ud [4].
-
-### Udlejning af huset
-Vi lejede vores hus ud på AirBnb, og børnene fik leje for deres eget værelse [4]. De gjorde selv alt forarbejdet med at rydde op, gøre rent og gemme de ting væk, de ikke ville have, at andre nysgerrige børn skulle lege med [4].
-
-Vi aftalte at bruge indtægten fra AirBnb på at investere dem i et fælles projekt [4]. Vi valgte at investere i en kamel gennem Agrikaab [4]. Det første pigerne gjorde var naturligvis at navngive kamelen, som nu hedder Elna [4]. **Agrikaab lukkede ned marts 2020. Så det var dyre lærepenge sammen med børnene. Så kan vi lære lidt om risiko og reward. Heldigvis har investeringen haft et impact i lokalmiljøet indtil projektet lukkede ned.** [4].
-
-At investere i en kamel er meget håndgribeligt [4]. Vi har sammen købt et aktiv [4]. Vi forventer, at aktivet vil give et afkast over tid både gennem mælk og på et tidspunkt bliver den også slagtet [4]. Vi har samtidig opmærksomhed på en verdensdel, hvor livet ikke altid er lige let for befolkningen [4]. Det giver os til gengæld et lille afkast, som vi kan følge, og som kan give os fornemmelsen af, hvad det vil sige at få pengene til at arbejde for sig [4]. (Vi venter lidt med sammenhængen mellem afkast og risiko, som formentlig i et afrikansk investeringseventyr ikke hænger helt sammen.) [4].
-
-## Andre pengetiltag
-Vi har eksperimenteret lidt med andre aktiviteter, som forhåbentlig kan være med til at gøre deres økonomiske sans bedre [4].
-
-* Hvis vi beslutter os for at **købe slik i weekenden**, så får børnene 10 kroner hver, men hvis de køber for mindre, så får de resten af pengene [4].
-* Pigerne har selv foreslået at gå på **skraldetur**, hvor de så også har fundet pant [4]. (Den ene gang var der en skovsnegl i en af flaskerne, vi ikke havde opdaget før vi kom hjem, hvor den var kravlet halvt ud.) [4].
-* Helt særlige opgaver har jeg givet pigerne løn for [4]. Fx at feje blade i vores fælles garage eller finde små plastikdimser på vejen, som var blevet efterladt af en håndværker [4]. De får aldrig løn for at løse opgaver i huset, da det hører med til at være en del af familien [4].
-* Jeg har hentet varer til nogle andre gennem Rema 1000’s Vigo App sammen med mine børn, så de kunne tjene lidt lommepenge på et stykke reelt arbejde [4].
-* Mine børn er måske ved at blive lidt for påvirkede af vores fælles snakke om at tænke grundigt over sit forbrug [4]. Min ældste har i hvert fald lige lavet en "Playstation" ved hjælp af en æggebakke - og så er de begyndt at styre hinanden rundt i stuen [4]. "Jeg synes bare, at det er sjovt at styre", som hun siger [4].
-* Jeg har også for nylig foræret min nevø et depot på Nordnet - og han gør sig virkelig fine tanker om det at investere [4].
-
-## Det modsatte af forkælet
-De seneste dage har jeg ledt efter mere inspiration til, hvordan jeg kan lære pigerne om penge [5].
-
-Jeg stødte på Ron Liebers overvejelser fra hans bog Opposite of Spoiled, og jeg nød at se hans oplæg, som du også kan se her [5].
-
-Her er pointer fra bogen i overskrifter:
-* Snak med dine børn om penge - og svar på alle deres spørgsmål [5].
-* Dine børn skal have lommepenge, og det skal ikke være en løn for at udføre pligter [5].
-* Både forbrug og at give penge (donationer) giver mulighed for at få et godt forhold til penge [5].
-* Børn skal også arbejde [5].
-* Lad ikke dine børn være utaknemmelige [5].
-
-### Skal vi give lommepenge?
-Ron Lieber foreslår, at man giver lommepenge [6]. Lige nu får pigerne ikke lommepenge, fordi jeg ikke helt kunne finde ud af, hvorfor de skulle have det [6].
-
-Ron Lieber argumenterer for, at børn skal have lommepenge, så de lærer at spare op til noget, de har brug for [6]. Han foreslår, at beløbet stiger årligt, men at børnene samtidig får større ansvar for, hvad de selv skal købe for deres egne penge [6].
-
-Det argument kan jeg ikke ignorere [6]. Jeg vil gerne lære pigerne at tage deres egne beslutninger, lave deres egne fejl, og så skal de jo også have muligheden for at tage nogle valg [6].
-
-I fremtiden **skal pigerne have lommepenge** [7]. Jeg vil lige tænke over, hvad de så selv har ansvaret for at købe [7]. Min mindste elsker fx virkelig tyggegummi, og det køber hun selv for sine egne penge [7]. Det synes hun er en god ide [7]. Men hun er kun 4 år, så måske har hun ikke helt forstået det [7].
-
-En af Ron Liebers pointer er, at børnene skal have fornemmelse for matematik først [7]. Når børnene er 10-12 år foreslår Lieber, at forældrene ikke længere køber noget af det, de gerne vil have (wants) [7]. De skal i stedet have lommepenge, så de kan købe noget af det, de gerne vil have [7].
-
-### Skal vi dele deres penge op i forbrug, donationer og opsparing
-Ron Lieber skriver ud fra en amerikansk kontekst, hvor donationer og at give penge til organisationer virker til at være en større del af deres samlede økonomi end i Danmark, hvor vi har velfærdsstaten [7].
-
-Alligevel kan man ikke undgå at blive inspireret af, at han foreslår, at børnene skal opdele deres penge i forbrug, velgørenhed og opsparing [7]. Det giver børnene en mulighed for at kigge lidt på et budget, men at skulle forholde sig til velgørenhed skaber også en god mulighed for at arbejde med deres generøsitet [7].
-
-Hvad fokuserer du på, når du snakker med dine børn om penge? [15]
-
-### Formelle børneopsparinger og efterskolefonde
-Når alt kommer til alt, handler det ikke kun om lommepenge og "fars bank", men også om den mere formelle langsigtede opsparing til pigernes fremtid [8]. I maj 2019 fik jeg endelig startet børnenes børneopsparing op [9]. Det tæller jo hurtigt i budgettet, når man har tre af slagsen, og det betød, at min egen månedlige opsparingsrate fik et dyk den måned [9]. 
-
-Derudover har vi oprettet en decideret "efterskolefond" i aktieindeks til fremtiden [10]. Efterhånden som vi nærmer os, at pengene skal bruges, er jeg begyndt at dirigere en andel af denne efterskolefond over i mere likvide konti (som fx Bondora Go & Grow), for at sikre likviditeten på det rigtige tidspunkt, når regningerne for efterskoleopholdet rent faktisk skal betales [10].
-
-#### The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money
-Ron Lieber skriver selv om bogen: *In the spirit of Wendy Mogel's The Blessing of a Skinned Knee and Po Bronson and Ashley Merryman's Nurture Shock, New York Times “Your Money” columnist Ron Lieber delivers a taboo-shattering manifesto that explains how talking openly to children about money can help parents raise modest, patient, grounded young adults who are financially wise beyond their years.* [15]
+**Læs**: [Investering for børn](/investering-til-boern-guide/)
 
 ---
 
 ## Logbogen: Skæve anekdoter om familiens økonomi
 
-Herunder har jeg samlet de sjove små notater og anekdoter om børn, privatøkonomi og sparetiltag, som jeg løbende delte i mine månedsopdateringer tilbage i 2019 og 2020. Alt irrelevant er siet fra, så historikken herunder kun fokuserer på børnene.
+Herunder har jeg samlet de sjove små notater og anekdoter om børn, privatøkonomi og sparetiltag, som jeg løbende delte i mine månedsopdateringer tilbage i 2019 og 2020.
 
-<details>
+<details class="faq" markdown="1">
   <summary><strong>2019: "Fars bank", børneopsparinger og Rema 1000</strong></summary>
-  <br>
-  * **Januar:** Jeg har kigget på opsætningen af pigernes konti [8]. Alle børnene har hver en almindelig børnekonto, hvor deres penge bliver sat ind på [8].
-  * **Maj:** For at lære børnene om økonomi, har jeg introduceret "børnerenter" for mine døtre [9]. Når de lader deres lommepenge stå i stedet for at snolde dem op, får de udbetalt en rente af mig som belønning [9]. Desuden har jeg endelig fået startet deres formelle børneopsparinger op – og det tæller jo hurtigt i budgettet, når man har tre af slagsen [9]!
-  * **August:** Jeg har forsøgt at lære børnene, at penge er noget man tjener ved at levere en reel indsats [11]. Så i denne måned var pigerne og jeg ude at hente varer for folk i lokalområdet gennem Rema 1000's deleøkonomiske 'Vigo'-app [11]. De tjente deres egne lommepenge på et stykke reelt arbejde [11]. Samtidig er jeg begyndt at dirigere pigernes aktieindeks-efterskolefond over i mere likvide opsparingskonti [10].
-  * **September:** Vores snakke om opsparing og forbrug har vist sat sine spor [12]! Min ældste datter har simpelthen bygget en "Playstation" ud af en gammel æggebakke for at undgå, at vi skulle købe en [12]. "Jeg synes bare, at det er sjovt at styre," sagde hun stolt [12]. Jeg har i denne måned også foræret min nevø et depot på Nordnet – og han gør sig virkelig fine tanker om det at investere [12]. Samtidig har jeg været ude og undervise en gruppe unge mennesker i at identificere unødvendigt forbrug [16]. 
-  * **Oktober:** Min datter vågnede op den sidste dag i måneden og sagde stolt: "Så skal vi da have renter" [13]. Da jeg spurgte, om renten så ikke også burde medføre en risiko (som på aktiemarkedet), mente hun bestemt, at det *ikke* var nødvendigt [13]!
+
+  * **Januar:** Jeg har kigget på opsætningen af pigernes konti. Alle børnene har hver en almindelig børnekonto, hvor deres penge bliver sat ind på.
+  * **Maj:** For at lære børnene om økonomi, har jeg introduceret "børnerenter" for mine døtre. Når de lader deres lommepenge stå i stedet for at snolde dem op, får de udbetalt en rente af mig som belønning. Desuden har jeg endelig fået startet deres formelle børneopsparinger op – og det tæller jo hurtigt i budgettet, når man har tre af slagsen!
+  * **August:** Jeg har forsøgt at lære børnene, at penge er noget man tjener ved at levere en reel indsats. Så i denne måned var pigerne og jeg ude at hente varer for folk i lokalområdet gennem Rema 1000's deleøkonomiske 'Vigo'-app. De tjente deres egne lommepenge på et stykke reelt arbejde. Samtidig er jeg begyndt at dirigere pigernes aktieindeks-efterskolefond over i mere likvide opsparingskonti.
+  * **September:** Vores snakke om opsparing og forbrug har vist sat sine spor! Min ældste datter har simpelthen bygget en "Playstation" ud af en gammel æggebakke for at undgå, at vi skulle købe en. "Jeg synes bare, at det er sjovt at styre," sagde hun stolt. Jeg har i denne måned også foræret min nevø et depot på Nordnet – og han gør sig virkelig fine tanker om det at investere. Samtidig har jeg været ude og undervise en gruppe unge mennesker i at identificere unødvendigt forbrug.
+  * **Oktober:** Min datter vågnede op den sidste dag i måneden og sagde stolt: "Så skal vi da have renter". Da jeg spurgte, om renten så ikke også burde medføre en risiko (som på aktiemarkedet), mente hun bestemt, at det *ikke* var nødvendigt!
 </details>
 
-<details>
+
+<details class="faq" markdown="1">
   <summary><strong>2020: Kamelen Elna og dyre lærepenge</strong></summary>
-  <br>
-  * **Marts:** Den kamel (som pigerne døbte Elna), som vi investerede i via Agrikaab for de penge, vi tjente på at leje pigernes værelser ud på AirBnb, har lidt et knæk [4, 14]. Agrikaab lukkede ned i marts 2020, og vi har sandsynligvis mistet hele vores investering i projektet [14]. Så det var dyre lærepenge om risiko og reward sammen med børnene [4].
+
+  * **Marts:** Den kamel (som pigerne døbte Elna), som vi investerede i via Agrikaab for de penge, vi tjente på at leje pigernes værelser ud på AirBnb, har lidt et knæk. Agrikaab lukkede ned i marts 2020, og vi har sandsynligvis mistet hele vores investering i projektet. Så det var dyre lærepenge om risiko og reward sammen med børnene.
 </details>
+
+{% include disclaimer.md %}

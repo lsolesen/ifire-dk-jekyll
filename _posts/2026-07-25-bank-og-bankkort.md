@@ -12,7 +12,7 @@ tags:
 description: "Undgå kortgebyrer og dyre valutatillæg. Lær forskellen på debetkort, kreditkort og rejsekort, og se hvordan du sammensætter den optimale pung."
 ---
 
-Når først du har fået styr på din [kontostruktur og valgt den rigtige bankkonto](/hvilken-konto/), er næste skridt at vælge de rigtige betalingskort. 
+Når først du har fået styr på din [kontostruktur og valgt den rigtige bankkonto](/bankkonto-setup/), er næste skridt at vælge de rigtige betalingskort. 
 
 Mange lader per automatik banken bestemme, hvilke kort de skal have i pungen. Det resulterer ofte i årlige kortgebyrer, skjulte valutatillæg på udlandsrejser og manglende overblik. Ved at kende forskel på korttyperne og kombinere de rigtige udbydere, kan du fjerne unødige gebyrer fuldstændig og endda få gratis fordele som rejseforsikringer og point.
 

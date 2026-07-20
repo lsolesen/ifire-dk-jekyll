@@ -1,0 +1,600 @@
+<!-- Hent Chart.js fra et sikkert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+  .sc-clean-input::-webkit-outer-spin-button,
+  .sc-clean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .sc-clean-input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .sc-full-wrapper {
+    background-color: #ffffff; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 12px; 
+    padding: 16px; 
+    font-family: system-ui, -apple-system, sans-serif; 
+    color: #1e293b; 
+    margin: 24px auto; 
+    width: 100%;
+    max-width: 750px;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
+  /* Inputs Grid */
+  .sc-inputs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .sc-input-box-group {
+    background: #f8fafc;
+    border: 1px solid #cbd5e1;
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .sc-group-title {
+    font-size: 10px;
+    font-weight: 800;
+    color: #166534; 
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+  }
+
+  .sc-field {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sc-field label {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 10.5px;
+    color: #475569;
+  }
+
+  .sc-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .sc-input-wrapper input {
+    width: 100% !important;
+    padding: 4px 32px 4px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    background: #fff;
+    outline: none;
+    height: 30px;
+  }
+
+  .sc-input-wrapper span {
+    position: absolute;
+    right: 8px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  /* Custom Dropdown Styling */
+  .sc-dropdown-wrapper {
+    position: relative;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+
+  .sc-dropdown-trigger {
+    background: #ffffff;
+    border: 2px solid #22c55e;
+    border-radius: 8px;
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .sc-dropdown-trigger::after {
+    content: "";
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 5px solid transparent;
+    border-top-color: #16a34a;
+    transition: transform 0.2s;
+  }
+
+  .sc-dropdown-wrapper.sc-open .sc-dropdown-trigger::after {
+    transform: translateY(-75%) rotate(180deg);
+  }
+
+  .sc-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    margin-top: 4px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    z-index: 50;
+    display: none;
+    max-height: 230px;
+    overflow-y: auto;
+  }
+
+  .sc-dropdown-wrapper.sc-open .sc-dropdown-menu {
+    display: block;
+  }
+
+  .sc-dropdown-item {
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  .sc-dropdown-item:hover { background: #f8fafc; }
+  .sc-dropdown-item.sc-selected { background: #f0fdf4; }
+
+  .sc-item-icon {
+    font-size: 24px;
+    line-height: 1;
+    user-select: none;
+  }
+
+  .sc-item-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sc-item-title {
+    font-size: 12.5px;
+    font-weight: 800;
+    color: #1e293b;
+    line-height: 1.2;
+  }
+
+  .sc-item-sub {
+    font-size: 10.5px;
+    color: #64748b;
+    margin-top: 1px;
+  }
+
+  /* Resultat Fliser */
+  .sc-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .sc-stat-tile {
+    border-radius: 6px;
+    padding: 8px 10px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .sc-stat-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+  }
+
+  .sc-stat-value {
+    font-size: 13.5px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+  }
+
+  .sc-chart-panel {
+    min-height: 240px;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 12px;
+  }
+
+  .sc-info-box {
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: #166534;
+    background-color: #f0fdf4;
+    border: 1px solid #bbf7d0;
+  }
+
+  @media (max-width: 750px) {
+    .sc-inputs-grid { grid-template-columns: 1fr; gap: 8px; }
+    .sc-stats-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" class="sc-full-wrapper js-sc-container" data-default-eksempel="{{ include.eksempel | default: 'kirkeskat' }}">
+  
+  <!-- Overskrift -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 14px; font-weight: 800; color: #0f172a;">📈 Hvor meget kan du spare – og investere?</h3>
+    <span style="font-size: 10px; color: #16a34a; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Spareråd til Investering</span>
+  </div>
+
+  <!-- DROPDOWN EKSEMPEL-VÆLGER -->
+  <div class="sc-dropdown-wrapper js-sc-dropdown">
+    <div class="sc-dropdown-trigger js-sc-trigger">
+      <span class="sc-item-icon js-sc-cur-icon">⛪</span>
+      <div class="sc-item-text">
+        <span class="sc-item-title js-sc-cur-title">Meld dig ud af Folkekirken</span>
+        <span class="sc-item-sub js-sc-cur-sub">Spar kirkeskatten (ca. 0,87 %) = 300 kr. sparet/md. (3.600 kr./år)</span>
+      </div>
+    </div>
+    
+    <div class="sc-dropdown-menu">
+      <div class="sc-dropdown-item js-sc-item" data-id="kirkeskat" data-old="300" data-new="0" data-freq="12" data-icon="⛪" data-title="Meld dig ud af Folkekirken" data-sub="Spar kirkeskatten (ca. 0,87 %) = 300 kr. sparet/md. (3.600 kr./år)">
+        <span class="sc-item-icon">⛪</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Meld dig ud af Folkekirken</span>
+          <span class="sc-item-sub">Spar 300 kr./md. ved at framelde kirkeskatten på skattebilletten</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="forsikring" data-old="1000" data-new="760" data-freq="12" data-icon="🛡️" data-title="Optimér dine forsikringer" data-sub="Tjek dækning & undgå dobbeltdækning = 240 kr. sparet/md. (2.880 kr./år)">
+        <span class="sc-item-icon">🛡️</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Optimér dine forsikringer</span>
+          <span class="sc-item-sub">Spar 240 kr./md. ved et pristjek og fjernelse af dobbeltdækning</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="tv" data-old="450" data-new="0" data-freq="12" data-icon="📺" data-title="Drop den faste TV-pakke" data-sub="Fra mellemstor TV-pakke (450 kr.) til gratis TV (0 kr.) = 450 kr. sparet/md.">
+        <span class="sc-item-icon">📺</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Drop den faste TV-pakke</span>
+          <span class="sc-item-sub">Spar 450 kr./md. ved at skifte TV-pakken ud med gratis streaming</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="internet" data-old="349" data-new="149" data-freq="12" data-icon="🌐" data-title="Optimér bredbånd & internet" data-sub="Fra dyr fiber (349 kr.) til 5G/mobilbredbånd (149 kr.) = 200 kr. sparet/md.">
+        <span class="sc-item-icon">🌐</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Optimér bredbånd & internet</span>
+          <span class="sc-item-sub">Spar 200 kr./md. ved skift fra fast fiber til 5G/mobilt net</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="mobil" data-old="149" data-new="19" data-freq="12" data-icon="📱" data-title="Skift til billigt mobilabonnement" data-sub="Fra dyrt abonnement (149 kr.) til basis/Lebara (19 kr.) = 130 kr. sparet/md.">
+        <span class="sc-item-icon">📱</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Skift til billigt mobilabonnement</span>
+          <span class="sc-item-sub">Spar 130 kr./md. ved skift fra dyrt selskab til Lebara/basis</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="kaffe" data-old="40" data-new="0" data-freq="20" data-icon="☕" data-title="Drop to-go kaffe i hverdagen" data-sub="40 kr. x 20 gange om måneden = 800 kr. sparet/md.">
+        <span class="sc-item-icon">☕</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Drop to-go kaffe i hverdagen</span>
+          <span class="sc-item-sub">40 kr. pr. kop (20 gange/md.) = 800 kr. sparet/md.</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="streaming" data-old="238" data-new="119" data-freq="12" data-icon="🎬" data-title="Opsig 1 ekstra streamingtjeneste" data-sub="Fra 238 kr./md. til 119 kr./md. = 119 kr. sparet/md.">
+        <span class="sc-item-icon">🎬</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Opsig 1 ekstra streamingtjeneste</span>
+          <span class="sc-item-sub">Opsig den ubrugte tjeneste = 119 kr. sparet/md.</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="frokost" data-old="65" data-new="20" data-freq="20" data-icon="🥪" data-title="Smør madpakke frem for købe-frokost" data-sub="Spar 45 kr. pr. arbejdsdag (20 dage/md.) = 900 kr. sparet/md.">
+        <span class="sc-item-icon">🥪</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Smør madpakke frem for købe-frokost</span>
+          <span class="sc-item-sub">Spar 45 kr./dag x 20 dage = 900 kr. sparet/md.</span>
+        </div>
+      </div>
+
+      <div class="sc-dropdown-item js-sc-item" data-id="manuel" data-old="0" data-new="0" data-freq="12" data-icon="✏️" data-title="Indtast din egen besparelse" data-sub="Tast din nuværende og nye udgift manuelt nedenfor">
+        <span class="sc-item-icon">✏️</span>
+        <div class="sc-item-text">
+          <span class="sc-item-title">Indtast din egen besparelse</span>
+          <span class="sc-item-sub">Start med at taste dine egne tal</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- INPUT GRID -->
+  <div class="sc-inputs-grid">
+    
+    <!-- KOLONNE 1: BESPARELSEN -->
+    <div class="sc-input-box-group">
+      <div class="sc-group-title">1. Din besparelse</div>
+      <div class="sc-field">
+        <label>Nuværende udgift (før)</label>
+        <div class="sc-input-wrapper"><input type="number" value="300" class="sc-clean-input js-sc-old"><span>kr.</span></div>
+      </div>
+      <div class="sc-field">
+        <label>Ny optimeret udgift (efter)</label>
+        <div class="sc-input-wrapper"><input type="number" value="0" class="sc-clean-input js-sc-new"><span>kr.</span></div>
+      </div>
+      <div class="sc-field">
+        <label>Hvor ofte spares der?</label>
+        <div class="sc-input-wrapper">
+          <select class="js-sc-freq" style="width: 100%; padding: 4px 8px; border: 1px solid #cbd5e1; border-radius: 5px; font-size: 12px; font-weight: 700; color: #0f172a; height: 30px; outline: none; background: #fff;">
+            <option value="12" selected>Pr. måned (12 gange/år)</option>
+            <option value="20">Pr. arbejdsdag (~20 gange/md.)</option>
+            <option value="365">Hver dag (365 gange/år)</option>
+            <option value="1">Enkeltstående årlig udgift</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- KOLONNE 2: AFKAST OG TID -->
+    <div class="sc-input-box-group">
+      <div class="sc-group-title">2. Investering & Horisont</div>
+      <div class="sc-field">
+        <label>Tidshorisont i år</label>
+        <div class="sc-input-wrapper"><input type="number" value="10" class="sc-clean-input js-sc-years"><span>år</span></div>
+      </div>
+      <div class="sc-field">
+        <label>Forventet aktieafkast (p.a.)</label>
+        <div class="sc-input-wrapper"><input type="number" value="7.0" step="0.5" class="sc-clean-input js-sc-return"><span>%</span></div>
+      </div>
+      <div class="sc-field">
+        <label>Forventet inflation (p.a.)</label>
+        <div class="sc-input-wrapper"><input type="number" value="2.0" step="0.1" class="sc-clean-input js-sc-inflation"><span>%</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RESULTAT TILE GRID -->
+  <div class="sc-stats-grid">
+    <div class="sc-stat-tile" style="border-left: 3px solid #2563eb; background-color: #f0f9ff;">
+      <span class="sc-stat-title" style="color: #1e40af;">Månedlig besparelse</span>
+      <span class="js-sc-stat-monthly sc-stat-value">0 kr.</span>
+    </div>
+    <div class="sc-stat-tile" style="border-left: 3px solid #16a34a; background-color: #f0fdf4;">
+      <span class="sc-stat-title" style="color: #166534;">Årlig besparelse</span>
+      <span class="js-sc-stat-annual sc-stat-value">0 kr.</span>
+    </div>
+    <div class="sc-stat-tile" style="border-left: 3px solid #15803d; background-color: #f0fdf4;">
+      <span class="sc-stat-title" style="color: #166534;">Investeret Værdi</span>
+      <span class="js-sc-stat-future sc-stat-value" style="color:#14532d;">0 kr.</span>
+    </div>
+  </div>
+
+  <!-- LIVE GRAF PANEL -->
+  <div class="sc-chart-panel">
+    <canvas class="js-sc-canvas" style="width:100%; height:100%; max-height:240px;"></canvas>
+  </div>
+  
+  <!-- DYNAMISK TEKSTKORT -->
+  <div class="sc-info-box js-sc-summary">
+    Beregner besparelse...
+  </div>
+
+</div>
+
+<!-- Engine JavaScript -->
+<script>
+(function() {
+  function formatDkr(v) {
+    return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.';
+  }
+
+  document.querySelectorAll('.js-sc-container').forEach(function(widget) {
+    let chartInstance = null;
+
+    const inOld = widget.querySelector('.js-sc-old');
+    const inNew = widget.querySelector('.js-sc-new');
+    const selFreq = widget.querySelector('.js-sc-freq');
+    const inYears = widget.querySelector('.js-sc-years');
+    const inReturn = widget.querySelector('.js-sc-return');
+    const inInflation = widget.querySelector('.js-sc-inflation');
+
+    const dropdownWrapper = widget.querySelector('.js-sc-dropdown');
+    const dropdownTrigger = widget.querySelector('.js-sc-trigger');
+    const dropdownItems = widget.querySelectorAll('.js-sc-item');
+    
+    const curIcon = widget.querySelector('.js-sc-cur-icon');
+    const curTitle = widget.querySelector('.js-sc-cur-title');
+    const curSub = widget.querySelector('.js-sc-cur-sub');
+
+    function runEngine() {
+      const oldVal = parseFloat(inOld.value) || 0;
+      const newVal = parseFloat(inNew.value) || 0;
+      const freq = parseFloat(selFreq.value) || 12;
+      const years = parseInt(inYears.value) || 0;
+      const nominalReturn = parseFloat(inReturn.value) || 0;
+      const inflation = parseFloat(inInflation.value) || 0;
+
+      const diffPerUnit = Math.max(0, oldVal - newVal);
+      
+      let annualSavings = 0;
+      if (freq === 20) {
+        annualSavings = diffPerUnit * 20 * 12; // 20 arbejdsdage/md
+      } else {
+        annualSavings = diffPerUnit * freq;
+      }
+
+      const monthlySavings = annualSavings / 12;
+
+      let currentInvestNom = 0;
+      const labelsYears = [];
+      const dataSpentPlot = [];
+      const dataInvestNomPlot = [];
+      const dataInvestRealPlot = [];
+
+      for (let y = 0; y <= years; y++) {
+        labelsYears.push('År ' + y);
+        
+        let totalCashSaved = annualSavings * y;
+        let currentInvestReal = currentInvestNom / Math.pow(1 + inflation / 100, y);
+
+        dataSpentPlot.push(Math.round(totalCashSaved));
+        dataInvestNomPlot.push(Math.round(currentInvestNom));
+        dataInvestRealPlot.push(Math.round(currentInvestReal));
+
+        if (y < years) {
+          currentInvestNom = currentInvestNom * (1 + nominalReturn / 100) + annualSavings;
+        }
+      }
+
+      const finalInvestNom = currentInvestNom;
+      const finalInvestReal = dataInvestRealPlot[years];
+      const totalCashSavedFinal = dataSpentPlot[years];
+      const interestEarnedNom = finalInvestNom - totalCashSavedFinal;
+
+      // Opdater dashboard tallene
+      widget.querySelector('.js-sc-stat-monthly').innerText = formatDkr(monthlySavings) + ' /md.';
+      widget.querySelector('.js-sc-stat-annual').innerText = formatDkr(annualSavings) + ' /år';
+      widget.querySelector('.js-sc-stat-future').innerText = formatDkr(finalInvestNom);
+
+      // Konklusionstekst
+      const summaryBox = widget.querySelector('.js-sc-summary');
+      let msg = "";
+
+      if (diffPerUnit <= 0 || years <= 0) {
+        msg = "💡 Indtast en gældende besparelse og tidshorisont ovenfor for at beregne dine fremtidige afkast.";
+      } else {
+        msg = "💡 <strong>Formueeffekt:</strong> Ved at spare <strong>" + formatDkr(monthlySavings) + " om måneden</strong> samler du rent kontant " + formatDkr(totalCashSavedFinal) + " over " + years + " år. ";
+        msg += "Investerer du beløbet til " + nominalReturn + " % om året, vokser din formue i stedet til hele <strong>" + formatDkr(finalInvestNom) + "</strong>! ";
+        msg += "Dine penge har altså skabt <strong>" + formatDkr(interestEarnedNom) + "</strong> helt af sig selv i rentes rente (svarende til <strong>" + formatDkr(finalInvestReal) + "</strong> i dagens købekraft).";
+      }
+      summaryBox.innerHTML = msg;
+
+      // Graf
+      const ctx = widget.querySelector('.js-sc-canvas').getContext('2d');
+      if (chartInstance) { chartInstance.destroy(); }
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labelsYears,
+          datasets: [
+            {
+              label: 'Værdi som Investeret (Nominel)',
+              data: dataInvestNomPlot,
+              borderColor: '#16a34a',
+              backgroundColor: 'rgba(22, 163, 74, 0.06)',
+              borderWidth: 2.5,
+              pointRadius: years > 25 ? 0 : 2,
+              fill: true
+            },
+            {
+              label: 'Kontant sparet (Uden afkast)',
+              data: dataSpentPlot,
+              borderColor: '#2563eb',
+              borderWidth: 1.5,
+              borderDash: [3, 3],
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 } } },
+            tooltip: {
+              callbacks: { label: function(context) { return context.dataset.label + ': ' + formatDkr(context.parsed.y); } }
+            }
+          },
+          scales: {
+            y: { ticks: { font: { size: 9 }, callback: function(value) { return formatDkr(value); } }, grid: { color: '#f1f5f9' } },
+            x: { ticks: { font: { size: 9 } }, grid: { display: false } }
+          }
+        }
+      });
+    }
+
+    // Dropdown logik
+    function selectItem(itemEl) {
+      dropdownItems.forEach(i => i.classList.remove('sc-selected'));
+      itemEl.classList.add('sc-selected');
+
+      curIcon.innerText = itemEl.getAttribute('data-icon');
+      curTitle.innerText = itemEl.getAttribute('data-title');
+      curSub.innerText = itemEl.getAttribute('data-sub');
+
+      inOld.value = itemEl.getAttribute('data-old');
+      inNew.value = itemEl.getAttribute('data-new');
+      selFreq.value = itemEl.getAttribute('data-freq');
+
+      runEngine();
+    }
+
+    dropdownTrigger.addEventListener('click', function(e) {
+      e.stopPropagation();
+      dropdownWrapper.classList.toggle('sc-open');
+    });
+
+    dropdownItems.forEach(item => {
+      item.addEventListener('click', function() {
+        selectItem(this);
+        dropdownWrapper.classList.remove('sc-open');
+      });
+    });
+
+    document.addEventListener('click', function() {
+      dropdownWrapper.classList.remove('sc-open');
+    });
+
+    [inOld, inNew, selFreq, inYears, inReturn, inInflation].forEach(el => {
+      el.addEventListener('input', function() {
+        if(this === inOld || this === inNew || this === selFreq) {
+          dropdownItems.forEach(i => i.classList.remove('sc-selected'));
+          curIcon.innerText = "✏️";
+          curTitle.innerText = "Eget eksempel";
+          curSub.innerText = "Tilpasset manuelt af dig";
+        }
+        runEngine();
+      });
+    });
+
+    // Sæt udgangspunkt fra include parameter
+    const defaultEksempel = widget.getAttribute('data-default-eksempel') || 'kirkeskat';
+    let initialItem = widget.querySelector(`.js-sc-item[data-id="${defaultEksempel}"]`);
+    if (!initialItem) initialItem = dropdownItems[0];
+    if (initialItem) selectItem(initialItem);
+  });
+})();
+</script>

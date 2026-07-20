@@ -104,7 +104,7 @@ I Danmark har man lanceret en aktiesparekonto, som gør beskatningen lidt letter
 
 Du kan investere i aktier, obligationer og værdipapirer i din bank eller gennem en børsmægler. Omkostningerne ved at investere betyder rigtig meget for dit langsigtede afkast. Derfor kan det betale sig at kigge lidt efter, hvad priserne er. Jeg har skrevet lidt mere om [kurtage og handelsomkostninger ved investeringer her](/handelsomkostninger/).
 
-Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
 ## Bæredygtige investeringer i aktier
 
@@ -120,7 +120,7 @@ Hvis du gerne vil i gang med at investere i aktier og obligationer, så er det a
 
 Hvis du vil bruge et minimum af tid på at sætte dig ind i alle aspekter af aktieinvestering, så kan en ide være at gøre det hele enkelt og starte med at købe fonde, der er passivt forvaltede og som følger verdensmarkedet.
 
-Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins](/bitcoins/). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending](/ejendomme-crowdlending/).
+Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i [kryptovaluta og Bitcoins](/bitcoins/). Jeg har også eksperimenteret med at investere i [investere i ejendomme gennem crowdlending](/ejendomme-i-portefoljen/).
 
 ## Indlæg om aktier, obligationer og værdipapirer
 

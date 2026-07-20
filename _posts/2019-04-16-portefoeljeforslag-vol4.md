@@ -25,7 +25,7 @@ Jeg satser hovedsageligt på **investeringsfonde** og **ETF’er**, som invester
 
 Jeg vil gerne have **udbytte** undervejs, men også gerne have nogle **akkummulerende**, da jeg så ikke behøver at tænke på, hvordan jeg skal geninvestere midlerne og ikke skal betale evt. kurtage for geninvesteringen.
 
-Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet gennem månedsopsparingen](/nordnet-maanedsopsparing-problemer/). I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
+Jeg vil investere lidt månedligt for at udnytte **dollar cost averaging** og **at-betale-mig-selv-først**. Det kan jeg gøre _kurtagefrit_ på [Nordnet gennem månedsopsparingen](/nordnet-maanedsopsparing/). I månedsopsparingen kan jeg vælge fonde fra _Sparinvest_ og _BlackRock_ med relativt lave omkostninger.
 
 Månedsopsparingen fra Nordnet tilbyder imidlertid ikke alle de fonde, jeg er interesseret i. Fx har jeg fået øjnene op for fonde fra _Vanguard_, som er billige i årlige omkostninger. [De årlige omkostninger (ÅOP) betyder meget for det samlede afkast](https://rikatillsammans.se/verktyg/kalkylator-for-fondavgifter/), og selvom _BlackRock_ er billige, så kommer _Vanguard_ helt ned til ÅOP på 0,04% årligt.
 

@@ -205,6 +205,6 @@ Hvis du selv vil i gang med at opbygge en simpel og solid aktieportefølje, kan 
 
 * **[Investering i aktier og værdipapirer: Den komplette begynderguide](/investering-aktier/)**
 * **[Investering til børn: Den ultimative forældreguide til frikort, ASK og Nordnet](/investering-til-boern-guide/)**
-* **[Nordnets Månedsopsparing: Sådan automatiserer du din formue](/nordnet-maanedsopsparing-problemer/)**
+* **[Nordnets Månedsopsparing: Sådan automatiserer du din formue](/nordnet-maanedsopsparing/)**
 
 {% include disclaimer.md %}

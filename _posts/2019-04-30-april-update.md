@@ -87,7 +87,7 @@ I alt har jeg i april tjent **528 kroner** på crowdlending. Derfra skal jeg tr�
 
 ## Opsparing og kontant
 
-Jeg har stadig en stor kontant andel efter sidste måneds salg af min samlede værdipapir-portefølje. Jeg har sat pengene ind på hhv. [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Men jeg har også besluttet mig for, hvor meget jeg vil gå ind i aktie- og obligationsmarkede med lige nu - og har således nogle uinvesterede kontanter hos [Nordnet](/go/nordnet/). Hovedparten forventer jeg at [investere gennem månedsopsparingen](/nordnet-maanedsopsparing-problemer/).
+Jeg har stadig en stor kontant andel efter sidste måneds salg af min samlede værdipapir-portefølje. Jeg har sat pengene ind på hhv. [Lunar](/go/lunar/){: rel='sponsored nofollow noopener' }, hvor jeg får 2% cashback på de første 50.000 kr og [Norwegian Bank](/go/norwegian/)-opsparingskonto, hvor jeg får 0,7%. Men jeg har også besluttet mig for, hvor meget jeg vil gå ind i aktie- og obligationsmarkede med lige nu - og har således nogle uinvesterede kontanter hos [Nordnet](/go/nordnet/). Hovedparten forventer jeg at [investere gennem månedsopsparingen](/nordnet-maanedsopsparing/).
 
 {% include cta-redirect title="Lunar" class="success" %}
 

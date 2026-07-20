@@ -42,7 +42,7 @@ Ellers venter jeg på at kunne få lov til at overføre flere penge til min [akt
 
 Det var tid til et bankskifte, fordi kravene i SparNord var blevet for besværlige for at opretholde Stjernekonto-status. Og når man ikke kan opretholde Stjernekonto-status, så eksploderer gebyrerne.
 
-Jeg [undersøgte priser på en lang række banker]({% link _posts/2020-05-14-bankpriser.md %}), og jeg ringede til flere banker. Jeg ville først og fremmest gerne have en bank uden gebyrer for helt almindelige transaktioner som overførsel mellem banker og betaling af girokort.
+Jeg undersøgte priser på en lang række banker, og jeg ringede til flere banker. Jeg ville først og fremmest gerne have en bank uden gebyrer for helt almindelige transaktioner som overførsel mellem banker og betaling af girokort.
 
 Jeg var først interesseret i Lån & Spar, fordi de har deres 3%-konto. De gjorde det imidlertid klart, at jeg skulle samle alle aktiviteter - inkl. Nordnet og Saxo i Lån & Spar for at kunne få kontoen. Så tjekkede jeg Arbejdernes Landsbank og Coop Bank, som begge var gebyrfrie. Jeg tjekkede begge på Trustpilot, og der vandt Coop Bank relativt stort.
 
@@ -136,7 +136,7 @@ Jet tracker stadig min kryptovaluta i Portfolio Performance, og der er ikke sket
 
 Jeg har en **intern rente samlet på mine investeringer i kryptovaluta på -1,14%**, hvilket skyldes Cred, Ripple og Stellar Lumens meget dårlige interne rente. Hvis jeg udelukkende havde investeret i Bitcoins, så ville det have gået mig noget bedre, da den lige nu har en intern rente på 50%.
 
-Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/coinbase-earn/), hvor du bliver betalt i kryptvaluta.
+Husk at du stadig kan tjene kryptovaluta ved at følge [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' }-programmet. [Jeg har skrevet et indlæg om de lærerige gratis kurser på Coinbase](/online-gigs-mikro-indtaegter/), hvor du bliver betalt i kryptvaluta.
 
 [Få 10EUR til Bitcoins på Coinbase](/go/coinbase/){: .btn .btn--large .btn--info rel='sponsored nofollow noopener' } [Kraken](/go/kraken/){: .btn .btn--large .btn--success rel='sponsored nofollow noopener' }
 

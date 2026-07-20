@@ -1,88 +1,110 @@
 ---
-title: "Spar penge på mobilabonnementet"
+title: "Spar penge på mobilabonnementet: Tjek dit reelle databehov"
 permalink: /mobilabonnement/
-last_modified_at: 2021-07-28T22:39:43+02:00
+redirect_from:
+  - /mobil-boern/
+last_modified_at: 2026-07-20T10:00:00+02:00
 category:
   - Spar penge
 tags:
   - spareråd
   - mobilabonnementet
   - mobil
-excerpt: "Har du tjekket om dit mobilabonnement er det billigste for nylig. Der er mange penge at spare ved at kigge på dine behov og det produkt du vælger."
+  - lebara
+excerpt: "Betaler du for mere data, end du reelt bruger? Tjek dit mobilforbrug og spar hundreder af kroner om året på dit mobilabonnement."
 header:
   teaser: https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
 ---
 
-Rigtig mange får lavet et nyt mobilabonnement, når de køber en ny mobiltelefon. Meget ofte kan man spare samlet på at købe en ny telefon sammen med et abonnement. Men når telefonen så er betalt af, så står man med et mobilabonnement, der ofte er relativt dyrt.
+Et af de nemmeste og mest oplagte steder at skære ned på de faste udgifter er på mobilregningen. Rigtig mange danskere har dog et alt for dyrt mobilabonnement – ofte fordi de betaler for "fri data" eller kæmpestore datapakker, som de aldrig er i nærheden af at opbruge.
 
-Det er lidt en jungle at gennemskue abonnementer fra de forskellige selskaber, fordi de kan indeholde mange forskellige ting. Fx kan nogle abonnementer have adgang til streamingtjenester, mere eller mindre data, udenlandstelefoni og meget andet. Jeg har også undersøgt, hvor du kan få et prisbilligt [mobilabonnement til børn]({% link _posts/2020-05-14-mobil-boern.md %}).
+Rigtig mange binder sig også til et dyrt abonnement i forbindelse med køb af en ny telefon. Når afdragsperioden på telefonen slutter efter 12 eller 24 måneder, glemmer man at skifte, og så står man tilbage med et abonnement, der æder unødige penge hver eneste måned.
 
-Nederst her på siden kan du lave en prissammenligning, men husk også at tjekke sektionen med de mobilfirmaer, der ofte leverer billige priser.
+I denne guide kigger vi på, hvordan du afdækker dit reelle databehov, og hvordan selskaber som **Lebara** kan skære din mobilregning helt ind til benet.
 
 {% include figure image_path=page.header.teaser %}
 
 {% include disclosure.html %}
 
-## Hvordan finder jeg et billigt mobilabonnement let?
+## Hvorfor er det vigtigt?
 
-{% comment %}
+Det har store [alternativomkostninger](/alternativomkostninger/) at bruge for mange penge på noget, hvor du kunne være sluppet billigere.
 
-Hvis du ikke selv vil lave sammenligningerne - fx i bunden af denne side - så kan du også gøre følgende.
+Det kan man også kalde [latte-faktoren](/latte-faktoren/).
 
-Heldigvis kan du fx på [Tjenestetorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=78926){: rel='sponsored nofollow noopener' } tjekke om du kan spare penge på dit mobilabonnement. 
+{% include spar-beregner.html eksempel="mobil" %}
 
-{% include figure image_path="/assets/images/posts/mobilabonnement-tjenestetorvet.png" caption="Få et tilbud på et nyt mobilabonnement hos [Tjenestetorvet](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=78926){: rel='sponsored nofollow noopener' }, hvis du gerne vil ringes op af sælgere." %}
+## Hvor meget data har du egentlig brug for?
 
-{% endcomment %}
+Mange teleselskaber reklamerer hårdt med pakker på 50 GB, 100 GB eller fri data. Men hvis du tænker over dine daglige vaner, bruger du sandsynligvis langt mindre, end du tror.
 
-Jeg synes [mobilsparer.dk](https://www.mobilsparer.dk/){: nofollow noopener' } er meget smart. Her kan du tjekke dit abonnement. Du taster du nogle enkle oplysninger ind, og så får du nogle anbefalinger.
+Så længe du er på Wi-Fi derhjemme, på arbejdet, i skolen eller hos venner og familie, bruger din telefon ikke noget af dit mobildata. Hvis du undgår at streame film eller YouTube i HD, mens du sidder i bussen eller toget, falder dit forbrug dramatisk.
 
-Jeg tastede mit nuværende abonnement ind på servicen.
+* **Under 5 GB om måneden:** Helt fint til dig, der primært bruger mobilen til beskeder, netbank, kortnavigering og lidt tjek af sociale medier på farten.
+* **10–20 GB om måneden:** Rigeligt til gennemsnitsbrugeren, der også hører lidt podcast eller musik på farten.
+* **Fri data / 50+ GB:** Kun nødvendigt, hvis du dagligt streamer meget video uden for Wi-Fi eller bruger mobilen som primært internet til din computer.
 
-{% include figure image_path="/assets/images/posts/mobilabonnement-mobilsparer-1.png" caption="Tjek om du betaler for meget for dit abonnement på [mobilsparer.dk](https://www.mobilsparer.dk/){: nofollow noopener' }." %}
+> **Tip:** Gå ind under indstillingerne på din telefon (*Indstillinger -> Mobilnetværk / Mobildata*), og se, hvor mange gigabyte du reelt har brugt de seneste måneder. Du vil ofte blive overrasket over, hvor lidt det egentlig er!
 
-Desværre kunne jeg lige nu ikke finde et abonnement, som var billigere end mit nuværende, men servicen giver dig mulighed for at skrive dig op til notifikationer, hvis det skulle dukke op.
+---
 
-{% include figure image_path="/assets/images/posts/mobilabonnement-mobilsparer-2.png" caption="Ikke noget billigere abonnement til mig lige nu." %}
+## Nøglen til den billigste mobilregning: Lebara
 
-**Du kan også gå ned til bunden af denne side, hvor du har mulighed for at sammenligne en masse forskellige abonnementer**.
+Hvis du kan holde dit forbrug under 5–10 GB om måneden ved blot at tænke dig lidt om på Wi-Fi, er der **voldsomt mange penge at spare**.
 
-Husk dog altid at tjekke grundigt om du får det, du gerne vil have med abonnementet.
+Her er lavprisselskaber som **[Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }** i en klasse for sig. 
 
-## Hvilke selskaber er ofte billigst?
+Lebara tilbyder nogle af markedets absolut billigste abonnementer – ofte helt ned til 19–49 kr. om måneden for pakker med f.eks. 5 GB data og fri tale eller masser af taletid. For de fleste, der ikke streamer video på mobildata, er det mere end rigeligt til at dække hverdagens behov.
 
-Når du kigger tilbuddene fra de forskellige leverandører igennem, så tjek grundigt om de ud over abonnementet har et betalingsgebyr eller et administrationsgebyr.
+### Andre gode lavprisselskaber:
+* **[Oister](/go/oister/){: rel="sponsored nofollow noopener" }:** Har ofte stærke tilbud med store datapakker og EU-data til meget rimelige priser.
+* **[Greentel](/go/greentel/){: rel="sponsored nofollow noopener" }:** Godt valg, hvis du ønsker fleksible pakker uden binding på Telenors netværk.
+* **[Telmore](/go/telmore/){: rel="sponsored nofollow noopener" }:** Kun relevant, hvis du ønsker et "all-inclusive" abonnement (Telmore Play), hvor du samler streamingtjenester som Netflix, Viaplay eller Disney+ i én samlet pakke.
 
-- [Oister](/go/oister/){: rel="sponsored nofollow noopener" } har ofte rigtig gode tilbud på deres mobilabonnementer.
-- [Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }
-- [Greentel](/go/greentel/){: rel="sponsored nofollow noopener" }
+---
 
-Hvis du skal have et _all inclusive_ abonnement med streamingtjenester, så kan du kigge på [Telmore](/go/telmore/){: rel="sponsored nofollow noopener" }.
+## Tjekliste: Det skal du holde øje med
 
-## Hvad skal være med i dit abonnement?
+Når du sammenligner abonnementer, skal du kigge på følgende punkter:
 
-Du skal være opmærksom på, at hvis du fx bruger streaming-tjenester, som fx Netflix eller Spotify, så kan du ofte finde mobilabonnementer, hvor de onlinetjenester er med i. Når man regner det hele sammen, så kan det sommetider betale sig at tage et tilsyneladende dyrere abonnement.
+1. **EU-roaming:** Har du brug for data, når du rejser i EU? Nogle af de allerbilligste abonnementer skærer EU-data fra for at holde prisen helt i bund.
+2. **Betalings- og administrationsgebyrer:** Tjek, om selskabet tager et gebyr for BS-betaling eller kortbetaling.
+3. **Netværk:** Tjek, hvilket netværk selskabet bruger (TDC, 3 eller TT-netværket (Telia/Telenor)), hvis du bor i et område med specifikke dækningsudfordringer.
+4. **Mobilabonnement til børn:** Børn har ofte brug for mindre data og beskyttelse mod overforbrug.
 
-[Telmore](/go/telmore/){: rel="sponsored nofollow noopener" } er et af de selskaber, som med Telmore Play har en meget omfattende pakke inkluderet i abonnementet.
+---
 
-## Hvad hvis jeg skal have ny mobil?
+## Særligt om mobilabonnement til børn: Undgå børnefælden
 
-Ofte kan det betale sig at købe en ny mobil gennem en pakkeaftale ved et teleselskab, og når mobilen er betalt, så kan du tjekke om abonnementet er det mest konkurrencedygtige på de to services.
+Da min ældste datter skulle have sin første telefon, var jeg ærligt talt ret ambivalent. Egentlig så jeg helst, at hun kunne klare sig helt uden mobil, indtil hun flyttede hjemmefra, og jeg havde absolut intet ønske om at føje endnu en dyr, fast udgift til månedskontoen. 
 
-## Har du sparet på din mobilregning?`
+Men når behovet melder sig – f.eks. når børnene selv skal begynde at gå hjem fra skole – begår mange forældre den fejl at gå direkte efter udbydernes særligt markedsførte "børneabonnementer" eller dyre samlepakker.
 
-Jeg fandt ud af, at jeg allerede havde et særdeles konkurrencedygtigt abonnement, men jeg vil tjekke det igen om et år.
+I virkeligheden er "børne-branded" abonnementer ofte en dyr fælde.
 
-**Update**: Jeg har fundet et abonnement, som koster det samme som mit nuværende abonnement hos [Callme](http://www.callme.dk). Jeg vil gerne være mere bæredygtigt, og derfor appellerer [Greenspeak](http://www.greenspeak.dk) til mig. De donerer nemlig 2/3 af deres overskud til projekter, som kunderne bestemmer. Jeg kan få et abonnement til samme pris - og skal bare undvære EU-data. Det overvejer jeg meget kraftigt at skrifte til.
+### 3 gyldne regler for børneabonnementer:
 
-Brug endelig kommentarerne, hvis du har sparet på din mobilregning på den ene eller anden måde, så alle andre kan blive inspireret.
+1. **Drop "Børne-branding":** Du behøver ikke et abonnement, hvor der står "Junior" på pakken. Da jeg undersøgte markedet for min datter, endte jeg hos **[Lebara](/go/lebara/){: rel="sponsored nofollow noopener" }**, hvor man for blot 19 kr. om måneden får 5 GB data og 5 timers tale. Det koster en brøkdel af de klassiske børneabonnementer og dækker et barns behov rigeligt.
+2. **Brug gratis forældrekontrol i styresystemet:** Du behøver ikke betale teleselskabet for spærringer eller indholdskontrol. Både Android og iPhone har fremragende, gratis værktøjer indbygget:
+   * **Android:** Google *Family Link* (gratis app, hvor du kan sætte tidsgrænser, godkende app-køb og se barnets placering).
+   * **iPhone:** Apple *Familiedeling / Skærmtid* (indbygget i iOS med samme funktioner).
+3. **Pas på uforudsete regninger:** Vælg altid en udbyder eller en opsætning, hvor der er automatisk spærring for overtaxerede numre og datalimit, så barnet ikke ved et uheld udløser en ekstraregning.
 
-***
+### Hvad med selve telefonen?
+Et barn behøver sjældent den nyeste eller dyreste model. Jeg gik selv på jagt efter en brugt, istandsat Android-mobil, der kunne køre *Family Link*, hos forhandlere som Refurb og PhoneTrade samt på DBA. At lade børnene starte med en god brugt telefon (eller lade dem arve en af forældrenes gamle) er både godt for pengepungen og miljøet.
 
-## Hvordan kan jeg ellers spare penge?
-
-Her gennemgår vi lidt mere grundigt forskellige [måder at spare penge på](/spar-penge/). Hvis du gerne vil være finansiel uafhængig, så er det meget vigtigt, at du tænker over, hvad du bruger dine penge på. Ikke bare for at spare, men også for at finde ud af, hvad der er vigtigt for dig.
+---
 
 ## Sammenlign mobilabonnementer
 
+Brug værktøjet herunder til at sammenligne priser og indhold på tværs af de forskellige danske mobilselskaber:
+
 <script type="text/javascript" src="https://static.ascontentcloud.com/comparisonfeed/resources/js/iframeResizer.min.js"></script><iframe id="as-comparison-iframe-760240935" style="border: none; width: 1px; min-width: 100%; overflow: hidden; " scrolling="no" src="https://feed.aservice.tools/v2/public/publisher/comparisonfeed/iframe/mobileprices-16052020" onload="iFrameResize({heightCalculationMethod: 'taggedElement', checkOrigin: false}, this);"></iframe>
+
+---
+
+## Hvordan kan du ellers spare penge?
+
+At optimere sine faste udgifter som mobilabonnement, forsikringer og strøm er det første skridt mod en stærkere privatøkonomi. Læs mere i min store guide om [forskellige måder at spare penge på](/spar-penge/).
+
+{% include disclaimer.md %}

@@ -1,92 +1,104 @@
 ---
-title: &title "Digitalt eftermæle"
+title: &title "Digitalt eftermæle og digital arv: Sådan hjælper du dine efterladte"
+seo_title: "Digitalt eftermæle • Koder, krypto og konti efter din død »"
+description: "Hvordan håndterer du dine koder, følsomme data og sociale profiler efter din død? Få styr på din digitale arv og gør det nemt for dine pårørende."
+excerpt: "Hvordan forbereder du dig på dit online efterliv? Se hvordan du håndterer din digitale arv, dine adgangskoder, krypto og sociale profiler, så dine pårørende ikke står låst ude."
+last_modified_at: 2026-07-20T11:42:00+02:00
 permalink: /digitalt-eftermaele/
-header:
-  overlay_image: https://images.unsplash.com/photo-1499234472523-ad075c81ff63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
-  teaser: https://images.unsplash.com/photo-1499234472523-ad075c81ff63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
-  caption: *title
 category:
   - Privatøkonomi
 tags:
   - digitalt eftermæle
-excerpt: "Hvordan forbereder du dig på dit online efterliv? Her er et bud på på, hvordan du kan håndtere din digitale arv og digitale eftermæle."
-last_modified_at: 2021-10-02T10:22:02+02:00
+  - digital arv
+  - privatøkonomi
+header:
+  overlay_image: https://images.unsplash.com/photo-1499234472523-ad075c81ff63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1499234472523-ad075c81ff63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  caption: *title
 ---
 
-Hvordan forbereder du dig på dit digitale efterliv? Her er et bud på på, hvordan du kan håndtere dine adgangskoder, følsomme data og sociale profiler, så det bliver lettere for dine kære, når du ikke længere er her.
+{% include disclosure.html %}
 
-For de fleste er det en god ide at tænke på sin **digitale arv**. Særligt når du investerer, så kan det have særlig stor betydning, at du har tænkt over, hvordan dine efterladte kan få fat i pengene fra dine investeringer i værdipapirer, aktier, crowdlending og kryptovaluta.
+Hvordan forbereder du dig på dit digitale efterliv? 
 
-Du vil vel ikke risikere at lade 250 millioner USD gå i graven med dig, fordi du er den [eneste der kender dit password til din krypto wallet](https://uk.pcmag.com/news/119463/cryptocurrency-exchange-locked-out-of-funds-after-ceos-death).
+For de fleste er det en god idé at forholde sig til sin **digitale arv**. Særligt hvis du investerer, kan det have enorm betydning, at du har gennemtænkt, hvordan dine efterladte kan få fat i værdierne i værdipapirer, aktier, crowdlending og [kryptovaluta](/kryptovaluta/).
 
-De investeringer der er knyttet op på dit personnummer i Danmark er ikke det store problem, men hvis du investerer på udenlandske platforme, så er det rigtig vigtigt, at dine efterladte kan få adgang til dine konti.
+Ingen ønsker at risikere, at en formue går i graven, blot fordi man var den [eneste, der kendte adgangskoden eller den private nøgle](https://uk.pcmag.com/news/119463/cryptocurrency-exchange-locked-out-of-funds-after-ceos-death).
 
-Dit **digitale eftermæle** består imidlertid også at dine følsomme data og sociale profiler. Lad os dykke ned i, hvordan dine efterladte kan få adgang til dine online profiler efter din død.
+Formuer på danske platforme, som er knyttet op på dit cpr-nummer, håndteres typisk automatisk via skifteretten. Men investerer du på udenlandske platforme eller i private krypto-wallets, er det afgørende, at dine efterladte ved, at kontiene eksisterer – og hvordan de logger ind.
 
-## Saml dine adgangskoder og giv adgang
+Dertil kommer dit **digitale eftermæle**: Dine private data, fotoarkiver og sociale profiler. 
 
-Du kan samle alle dine adgangskoder i en [password manager som LastPass]({% link _posts/2019-04-17-lastpass-anmeldelse.md %}). Her kan du gemme alle dine adgangskoder til dine digitale konti, kreditkortnumre, og andre vigtige oplysninger.
+Her er en guide til, hvordan du sikrer din digitale arv.
 
-Når du samler alle adgangskoderne her, så er det let at give alle koderne videre til dine kære. Det er også meget lettere for dig selv at have en god _password hygiejne_ i hverdagen.
+---
 
-På de fleste adgangshuskere, så kan du oprette en _emergency access_, hvis der skulle være sket noget.
+## 1. Saml dine adgangskoder og opsæt nødadgang
 
-{% include figure image_path="/assets/images/posts/digitalt-eftermaele-lastpass-emergency-access.png" caption="Hos Lastpass kræver den fulde adgang til at oprette en nødadgang, at du er Premium-medlem. Du kan også bare give adgangskoden til hele din konto til nogen du stoler på." %}
+Det vigtigste skridt til en sund digital hygiejne er at bruge en krypteret **password manager**. Det sikrer ikke alene stærke adgangskoder i hverdagen, men gør det også muligt at give dine pårørende én samlet nøgle til alle dine konti.
 
-Hvis du har sikret dig, at dine efterladte kan få adgang til dine adgangskoder, så kan de lettere få adgang til de ting, der er vigtige.
+Sørg for at samle koder til:
+* Finansielle platforme og cloud-tjenester
+* Udenlandske børser og crowdlending-konti
+* E-mail-konti og abonnementer
 
-Du kan fx organisere dine adgangskoder, så alle der har med penge og finans at gøre, ligger i en mappe, så de er lette at komme til.
+### Vælg en sikker password manager
+Tidligere brugte jeg LastPass, men i dag bruger jeg **Bitwarden**. Du kan læse mere om [password managers](/password-manager-sikkerhed/).
 
-Tricket med at dele et centralt sted med alle dine adgangskoder gør mange ting meget lettere. **Men det kræver naturligvis, at du kan finde en service, du kan stole på.** Jeg bruger selv LastPass, som fungerer rigtig godt for mig.
+Begge tjenester tilbyder funktioner som **Emergency Access (Nødadgang)**. Her kan du angive en betroet pårørende. Hvis vedkommende anmoder om adgang til din boks, og du ikke afviser anmodningen inden for f.eks. 7–14 dage, får de automatisk adgang til dine gemte koder.
 
-Foreløbig bruger jeg bare gratis-versionen, men overvejer kraftigt at opgradere til Premium. Tjek [LastPass](/go/lastpass/){: rel="sponsored nofollow noopener" }.
+*Tip: Organiser dine koder i mapper, så dine finansielle konti og krypto-instruktioner ligger klart adskilt fra hverdagens mindre vigtige logins.*
 
-[Prøv LastPass gratis](/go/lastpass/){: .btn--lead rel="sponsored nofollow noopener" }
+---
 
-## Tofaktorgodkendelse?
+## 2. Hvad med tofaktorgodkendelse (2FA) og telefonen?
 
-Jeg har næsten tofaktorgodkendelse på alle mine væsentlige onlinekonti. Men hvordan får dine efterladte adgang til at kunne bevise, at det er dig der er ved at logge ind?
+Mange af dine vigtigste konti er beskyttet af to-trins-godkendelse (2FA), f.eks. via en godkendelses-app eller en SMS-kode sendt til din telefon.
 
-Jeg bruger fx LastPass app til tofaktorgodkendelse, men det kræver, at du har adgang til min telefon - og mit loging til appen på telefonen for at kunne bruge dette login.
+For at dine efterladte kan gennemføre et login, skal de have adgang til din telefon.
 
-En løsning er at **tilføje fingeraftryk til telefonen** eller du kan give din adgangskode til telefonen, som de kan bruge, hvis du skulle gå bort.
+**Hvordan løser du det?**
+* **Nødkode til telefonen:** Efterlad en fysisk kuvert med PIN-koden til din telefon (eller adgangskoden til din hoved-SIM-kode) sammen med dine øvrige vigtige papirer/testamente.
+* **Genopretningskoder:** Gem 2FA-genopretningskoder (backup-koder) direkte i din password manager.
 
-## Gem dine vigtige papirer i Eboks
+---
 
-I Eboks kan du modtage nærmest alle dine vigtige papirer, men du kan faktisk også opbevare vigtige papirer. Du kan nemlig uploade dine egne dokumenter.
+## 3. e-Boks, Digital Post og vigtige dokumenter
 
-{% include figure image_path="/assets/images/posts/digitalt-eftermaele-eboks-upload.png" caption="I Eboks kan du både dele mapper og uploade vigtige dokumenter, så de er samlet på et centralt sted." %}
+I Danmark får skifteretten og bobehandleren adgang til din e-Boks og Digital Post som en del af dødsboet. 
 
-Du kan også i Eboks dele mapper med andre. Her kan I jo aftale at de vigtigste dokumenter ligger, så har dine efterladte allerede adgang til dem uden at skulle have adgang gennem dødsboet.
+Hvis du ønsker, at din ægtefælle eller nærmeste arving skal have adgang til vigtige papirer eller instrukser *før* boet er opgjort, kan du uploade egne dokumenter til e-Boks og benytte deres funktion til adgangsdeling af bestemte mapper.
 
-Eboksen bliver naturligvis tilgængelig for dine efterladte.
+---
 
-## Digitale arv og investeringer
+## 4. Sociale medier og fotoarkiver
 
-Jeg har investeringer på flere udenlandske platforme både i forbindelse med [crowdlending](/crowdlending/) og på [Etoro]({% link _posts/2019-06-11-etoro-anmeldelse.md %}). Det er væsentligt at få lavet en liste, så dine efterladte hurtigt kan få adgang til de forskellige konti og få midlerne ud.
+Vores digitale minder ligger i dag spredt ud over skyen. De store tech-giganter har heldigvis indbygget værktøjer, der lader dig bestemme, hvad der skal ske med din konto efter din død.
 
-## Sociale profiler og digitalt eftermæle
-
-Det er naturligvis væsentligt at dine efterladte får adgang til dine økonomiske midler, men hvad med dine sociale medier. Det er en god ide at tage stilling til, hvad der skal ske med dine digitale fodaftryk.
-
-Skal profilerne lukkes, når du er død eller skal de gøres til et mindemærke? En stor del af fotoalbums ligger nu på de sociale medier som Facebook, Instagram, Twitter, Linkedin, Google og Dropbox.
-
-Hos Instagram skal du [anmode om at gøre din profil til et mindesmærke](https://help.instagram.com/264154560391256). [Twitter](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-a-deceased-family-members-account) og [Linkedin](https://www.linkedin.com/help/linkedin/answer/2842/deceased-linkedin-member?lang=en) har lignende services.
-
-### Facebook
-
-På Facebook kan du sætte en [eftermælekontakt](https://www.facebook.com/help/1070665206293088?helpref=faq_content). Det gør du fra de [generelle indstillinger](https://www.facebook.com/settings?tab=account&section=account_management&view).
-
-{% include figure image_path="/assets/images/posts/digitalt-eftermaele-facebook.png" %}
+### Apple (iPhone / iCloud)
+Apple tilbyder funktionen **Arvekontakt (Legacy Contact)**. Under indstillinger på dit Apple-ID kan du vælge én eller flere personer, der ved fremvisning af en digital nøgle og dødsattest kan få adgang til dine fotos, beskeder og iCloud-sikkerhedskopier.
 
 ### Google
+Hos Google kan du oprette en plan via **'Administration af inaktiv konto'**. Her vælger du, hvornår Google skal betragte din konto som inaktiv (f.eks. efter 3 eller 6 måneder uden login), og hvem der derefter skal modtage besked og udvalgte data.
 
-På Google kan du bestemme, hvordan du vil administrere en [inaktiv konto](https://www.facebook.com/settings?tab=account&section=account_management&view). Du skal gå til siden ['Administration af inaktiv konto'](https://myaccount.google.com/inactive?pli=1). 
+### Facebook & Instagram
+* **Facebook:** Du kan udpege en [eftermælekontakt](https://www.facebook.com/help/1070665206293088), som kan administrere et mindesmærke på din profil, eller vælge at profilen slettes permanent ved dødsfald.
+* **Instagram:** Pårørende kan anmode om at omdanne profilen til et [mindesmærke](https://help.instagram.com/264154560391256) eller få den slettet.
 
-{% include figure image_path="/assets/images/posts/digitalt-eftermaele-google-inaktiv.png" %}
+### LinkedIn & X (Twitter)
+Begge platforme giver pårørende mulighed for at indsende dokumentation for at lukke og slette profilen for at undgå identitetstyveri.
 
-## Konklusion
+---
 
-Når du har gjort dig overvejelser om ovenstående, og hvordan dine efterladte får adgang, så har du sikret din digitale arv og dit digitale eftermæle.
+## Konklusion: Tag stilling i tide
 
-Hvordan har du grebet det an?
+At forberede sin digitale arv handler om at udvise rettidig omhu over for dem, man lader tilbage.
+
+Et godt udgangspunkt er tre enkle trin:
+1. Opret en sikker password manager og tilføj en nødkontakt.
+2. Lav en overskuelig liste over dine udenlandske konti, investeringer og krypto-wallets.
+3. Slå "Inaktivitetskontakt" og "Arvekontakt" til på dit Apple-ID, Google og Facebook.
+
+Har du selv taget stilling til din digitale arv og sikret dine koder?
+
+{% include disclaimer.md %}

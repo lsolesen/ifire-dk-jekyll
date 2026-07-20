@@ -21,7 +21,7 @@ feature_row_solutions:
     btn_class: "btn--info"
 feature_row_own:
   - image_path: /assets/images/logo/nordnet.png
-    excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/){: rel="nofollow noopener" } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing-problemer/) og aldersopsparingen.'
+    excerpt: 'Jeg bruger selv [Nordnet](/go/nordnet/){: rel="nofollow noopener" } til at opbygge min portefølje via deres [kurtagefri månedsopsparing](/nordnet-maanedsopsparing/) og aldersopsparingen.'
   - image_path: /assets/images/logo/saxoinvestor.png
     excerpt: 'Desuden bruger jeg [SaxoInvestor](/go/saxoinvestor/){: rel="nofollow noopener" } til min [aktiesparekonto](/aktiesparekonto/) og handel uden minimumskurtage.'
 ---
@@ -73,7 +73,7 @@ Uanset hvad du investerer i, så vil det tage lidt af din tid.
 
 Aktier og værdipapirer er en meget populær måde at investere på. Hvis du har tilgængelig kapital, så kan du sætte dem i aktier og obligationer. Du kan enten investere i enkeltaktier eller investeringsforeninger og fonde, der dækker bestemte dele af markedet. Jeg sværger selv til at minimere min risiko ved at følge verdensmarkedet gennem passiv indeksfonde og ETF'er.
 
-Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing-problemer/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
+Du kan fx oprette sætte investeringerne på autopilot gennem en [månedsopsparing hos Nordnet](/nordnet-maanedsopsparing/) eller få et gratis investeringsforslag hos [Nord Investments](/go/nord/){: rel="sponsored nofollow noopener" }.
 
 Læs mere om [investering i aktier og værdipapirer](/investering-aktier/).
 
@@ -97,7 +97,7 @@ Du kan læse mere om [investering i guld her](/guld/).
 
 ### Ejendomsinvestering
 
-Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending](/ejendomme-crowdlending/) eller hvordan man investerer i [REIT](/reit/).
+Læs mere om, hvordan du kan [investere i ejendomme gennem crowdlending](/ejendomme-i-portefoljen/) eller hvordan man investerer i [REIT](/ejendomme-i-portefoljen/).
 
 ## Bæredygtige investeringer
 
