@@ -1,0 +1,293 @@
+{% comment %}
+  Syn vs. Skrot & Lejebil-beregner (3-kolonne Risikospænd)
+{% endcomment %}
+
+{% assign calc_id = include.id | default: "syn" %}
+{% assign calc_title = include.title | default: "⚖️ Scenarie-beregner: Risikospændet ved at beholde bilen" %}
+{% assign calc_sub = include.subtitle | default: "Hvad koster det dig reelt at reparere bilen og køre videre? Sammenlign dit 'best case' (salg) og 'worst case' (skrot) med at droppe bilen i dag." %}
+{% assign months = include.months | default: 8 %}
+{% assign scrap_value = include.scrap_value | default: 2200 %}
+{% assign repair = include.repair_cost | default: 22500 %}
+{% assign fixed = include.fixed_monthly | default: 667 %}
+{% assign sale_future = include.sale_future | default: 10000 %}
+{% assign rental = include.rental_daily | default: 400 %}
+
+<style>
+  #{{ calc_id }}-container .synclean-input::-webkit-outer-spin-button,
+  #{{ calc_id }}-container .synclean-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+  #{{ calc_id }}-container .synclean-input[type=number] { -moz-appearance: textfield; }
+
+  #{{ calc_id }}-container {
+    background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px;
+    padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b;
+    margin: 24px 0; width: 100%; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  }
+  #{{ calc_id }}-container .syn-header { margin-bottom: 18px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; }
+  #{{ calc_id }}-container .syn-header h3 { margin: 0 0 4px 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em; }
+  #{{ calc_id }}-container .syn-header p { margin: 0; font-size: 12px; color: #64748b; }
+
+  #{{ calc_id }}-container .syn-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
+    background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; margin-bottom: 16px;
+  }
+  #{{ calc_id }}-container .syn-field-group { display: flex; flex-direction: column; }
+  #{{ calc_id }}-container .syn-field-group label { font-weight: 800; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em; }
+
+  #{{ calc_id }}-container .syn-field-box { position: relative; display: flex; align-items: center; }
+  #{{ calc_id }}-container .syn-field-box input {
+    width: 100% !important; padding: 4px 38px 4px 10px; border: 1px solid #cbd5e1; border-radius: 6px;
+    box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; height: 36px; background: #fff; outline: none;
+  }
+  #{{ calc_id }}-container .syn-field-box input:focus { border-color: #2563eb; }
+  #{{ calc_id }}-container .syn-field-box span { position: absolute; right: 10px; font-size: 10px; font-weight: 700; color: #94a3b8; pointer-events: none; }
+
+  /* 3-kolonne Scenarie Split */
+  #{{ calc_id }}-container .syn-scenario-split {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 16px;
+  }
+  #{{ calc_id }}-container .syn-scenario-box {
+    border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; background: #ffffff;
+    display: flex; flex-direction: column;
+  }
+  #{{ calc_id }}-container .syn-scenario-box.highlight-bg {
+    background: #f8fafc; border-color: #cbd5e1;
+  }
+  #{{ calc_id }}-container .syn-scenario-title {
+    font-size: 11px; font-weight: 800; color: #0f172a; margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px dashed #e2e8f0; line-height: 1.3; height: 28px;
+  }
+  #{{ calc_id }}-container .syn-line-item {
+    display: flex; justify-content: space-between; font-size: 11px; color: #64748b; margin-bottom: 4px;
+  }
+  #{{ calc_id }}-container .syn-line-item.green { color: #16a34a; font-weight: 700; }
+  #{{ calc_id }}-container .syn-line-item.red { color: #dc2626; font-weight: 700; }
+  
+  #{{ calc_id }}-container .syn-scenario-total {
+    margin-top: auto; padding-top: 8px; border-top: 1px solid #e2e8f0; display: flex; justify-content: space-between; font-size: 12px; font-weight: 800; color: #0f172a; align-items: center;
+  }
+
+  /* Kæmpe konklusionsboks */
+  #{{ calc_id }}-container .syn-kpi-card {
+    background-color: #eff6ff; border: 1px solid #bfdbfe; border-radius: 10px; padding: 20px; text-align: center; margin-bottom: 16px;
+  }
+  #{{ calc_id }}-container .syn-kpi-subtitle { font-size: 12px; font-weight: 800; color: #1e40af; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+  #{{ calc_id }}-container .syn-kpi-main { font-size: 17px; font-weight: 600; color: #1d4ed8; line-height: 1.4; margin-bottom: 16px; }
+  #{{ calc_id }}-container .syn-kpi-main strong { font-weight: 800; }
+  
+  #{{ calc_id }}-container .syn-rental-pills {
+    display: inline-flex; gap: 12px; justify-content: center; flex-wrap: wrap;
+  }
+  #{{ calc_id }}-container .syn-pill {
+    background: #ffffff; padding: 8px 16px; border-radius: 30px; border: 1px solid #bfdbfe; font-size: 13px; font-weight: 700; color: #3b82f6; display: flex; align-items: center; gap: 6px;
+  }
+
+  @media (max-width: 768px) {
+    #{{ calc_id }}-container .syn-grid { grid-template-columns: 1fr; }
+    #{{ calc_id }}-container .syn-scenario-split { grid-template-columns: 1fr; }
+    #{{ calc_id }}-container .syn-scenario-title { height: auto; }
+  }
+</style>
+
+<div markdown="0" id="{{ calc_id }}-container">
+  <div class="syn-header">
+    <h3>{{ calc_title }}</h3>
+    <p>{{ calc_sub }}</p>
+  </div>
+
+  <div class="syn-grid">
+    <div class="syn-field-group">
+      <label>1. Måneder til næste udskiftning</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_months" value="{{ months }}" min="1" class="synclean-input">
+        <span>mdr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>2. Skrotværdi (Gælder i dag & fremtid)</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_scrap_value" value="{{ scrap_value }}" step="100" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>3. Nødvendig reparation her og nu</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_repair" value="{{ repair }}" step="1000" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>4. Faste udgifter (Afgift/Forsikring)</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_fixed" value="{{ fixed }}" step="100" class="synclean-input">
+        <span>kr./mdr</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>5. Best Case: Salgspris om <span class="{{ calc_id }}_label_m">8</span> mdr.</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_sale_future" value="{{ sale_future }}" step="1000" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>6. Dagspris for billeje (fx GoMore)</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_rental" value="{{ rental }}" step="50" class="synclean-input">
+        <span>kr./dag</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="syn-scenario-split">
+    <!-- Scenarie 1: Drop i dag -->
+    <div class="syn-scenario-box highlight-bg">
+      <div class="syn-scenario-title">1. Skrot den i dag</div>
+      <div class="syn-line-item"><span>Skrotpræmie i dag:</span> <span id="{{ calc_id }}_out_today" class="green">-</span></div>
+      <div class="syn-line-item"><span>&nbsp;</span> <span>&nbsp;</span></div>
+      <div class="syn-line-item"><span>&nbsp;</span> <span>&nbsp;</span></div>
+      <div class="syn-scenario-total">
+        <span>Bundlinje:</span>
+        <span id="{{ calc_id }}_res_1" class="green">-</span>
+      </div>
+    </div>
+
+    <!-- Scenarie 2: Worst Case (Skrot) -->
+    <div class="syn-scenario-box">
+      <div class="syn-scenario-title">2. Reparér & Skrot<br><span style="color:#64748b; font-weight:500;">(Worst case om <span class="{{ calc_id }}_label_m">8</span> mdr)</span></div>
+      <div class="syn-line-item"><span>Mekaniker:</span> <span id="{{ calc_id }}_out_rep_worst" class="red">-</span></div>
+      <div class="syn-line-item"><span>Faste udgifter:</span> <span id="{{ calc_id }}_out_fixed_worst" class="red">-</span></div>
+      <div class="syn-line-item"><span>Skrotpræmie:</span> <span id="{{ calc_id }}_out_scrap_future" class="green">-</span></div>
+      <div class="syn-scenario-total">
+        <span>Bundlinje:</span>
+        <span id="{{ calc_id }}_res_2">-</span>
+      </div>
+    </div>
+
+    <!-- Scenarie 3: Best Case (Salg) -->
+    <div class="syn-scenario-box">
+      <div class="syn-scenario-title">3. Reparér & Sælg<br><span style="color:#64748b; font-weight:500;">(Best case om <span class="{{ calc_id }}_label_m">8</span> mdr)</span></div>
+      <div class="syn-line-item"><span>Mekaniker:</span> <span id="{{ calc_id }}_out_rep_best" class="red">-</span></div>
+      <div class="syn-line-item"><span>Faste udgifter:</span> <span id="{{ calc_id }}_out_fixed_best" class="red">-</span></div>
+      <div class="syn-line-item"><span>Salgspris:</span> <span id="{{ calc_id }}_out_sale_future" class="green">-</span></div>
+      <div class="syn-scenario-total">
+        <span>Bundlinje:</span>
+        <span id="{{ calc_id }}_res_3">-</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="syn-kpi-card" id="{{ calc_id }}_kpi_box">
+    <div class="syn-kpi-subtitle">RISIKOSPÆND FOR AT BEHOLDE BILEN</div>
+    <div class="syn-kpi-main" id="{{ calc_id }}_kpi_text">Beregner...</div>
+    
+    <div class="syn-rental-pills" id="{{ calc_id }}_rental_pills">
+      <div class="syn-pill">📅 Svarer til <strong><span id="{{ calc_id }}_rent_range_month">0</span></strong> dages billeje pr. måned</div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const container = document.getElementById('{{ calc_id }}-container');
+  if (!container) return;
+
+  function fmt(v) { return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.'; }
+
+  function runCalc() {
+    let m = parseFloat(container.querySelector('#{{ calc_id }}_months').value); if (isNaN(m) || m <= 0) m = 1;
+    let scrap = parseFloat(container.querySelector('#{{ calc_id }}_scrap_value').value); if (isNaN(scrap)) scrap = 0;
+    let rep = parseFloat(container.querySelector('#{{ calc_id }}_repair').value); if (isNaN(rep)) rep = 0;
+    let fix = parseFloat(container.querySelector('#{{ calc_id }}_fixed').value); if (isNaN(fix)) fix = 0;
+    let saleFuture = parseFloat(container.querySelector('#{{ calc_id }}_sale_future').value); if (isNaN(saleFuture)) saleFuture = 0;
+    let rental = parseFloat(container.querySelector('#{{ calc_id }}_rental').value); if (isNaN(rental) || rental <= 0) rental = 400;
+
+    container.querySelectorAll('.{{ calc_id }}_label_m').forEach(el => el.innerText = m);
+
+    // Scenarie 1: Skrot i dag
+    const flow1 = scrap;
+    
+    // Basis udgifter for at beholde
+    const totalFixed = fix * m;
+    const baseExpense = rep + totalFixed;
+
+    // Scenarie 2: Worst Case (Skrot bagefter)
+    const flow2_worst = scrap - baseExpense;
+    
+    // Scenarie 3: Best Case (Salg bagefter)
+    const flow3_best = saleFuture - baseExpense;
+
+    // Hvad koster det ekstra at beholde bilen i forhold til at få skrotpræmien i dag?
+    const trueCost_worst = flow1 - flow2_worst;
+    const trueCost_best = flow1 - flow3_best;
+    
+    // Lejeækvivalenter pr. måned
+    const rentMonth_worst = (trueCost_worst > 0 ? (trueCost_worst / rental) : 0) / m;
+    const rentMonth_best = (trueCost_best > 0 ? (trueCost_best / rental) : 0) / m;
+
+    // Opdater UI - Scenarie 1
+    container.querySelector('#{{ calc_id }}_out_today').innerText = "+" + fmt(scrap);
+    container.querySelector('#{{ calc_id }}_res_1').innerText = "+" + fmt(flow1);
+
+    // Opdater UI - Scenarie 2 (Worst)
+    container.querySelector('#{{ calc_id }}_out_rep_worst').innerText = "-" + fmt(rep);
+    container.querySelector('#{{ calc_id }}_out_fixed_worst').innerText = "-" + fmt(totalFixed);
+    container.querySelector('#{{ calc_id }}_out_scrap_future').innerText = "+" + fmt(scrap);
+    const res2 = container.querySelector('#{{ calc_id }}_res_2');
+    res2.innerText = flow2_worst >= 0 ? "+" + fmt(flow2_worst) : fmt(flow2_worst);
+    res2.style.color = flow2_worst >= 0 ? "#16a34a" : "#dc2626";
+
+    // Opdater UI - Scenarie 3 (Best)
+    container.querySelector('#{{ calc_id }}_out_rep_best').innerText = "-" + fmt(rep);
+    container.querySelector('#{{ calc_id }}_out_fixed_best').innerText = "-" + fmt(totalFixed);
+    container.querySelector('#{{ calc_id }}_out_sale_future').innerText = "+" + fmt(saleFuture);
+    const res3 = container.querySelector('#{{ calc_id }}_res_3');
+    res3.innerText = flow3_best >= 0 ? "+" + fmt(flow3_best) : fmt(flow3_best);
+    res3.style.color = flow3_best >= 0 ? "#16a34a" : "#dc2626";
+
+    // Opdater Konklusion (KPI box)
+    const kpiBox = container.querySelector('#{{ calc_id }}_kpi_box');
+    const kpiText = container.querySelector('#{{ calc_id }}_kpi_text');
+    const pills = container.querySelector('#{{ calc_id }}_rental_pills');
+    
+    if (trueCost_worst <= 0 && trueCost_best <= 0) {
+      kpiBox.style.backgroundColor = "#f0fdf4"; 
+      kpiBox.style.borderColor = "#bbf7d0";
+      container.querySelector('.syn-kpi-subtitle').innerText = "✅ RENTABELT UANSET UDFALD";
+      kpiText.innerHTML = "Det er en overskudsforretning at beholde bilen uanset om du må skrotte eller kan sælge den.";
+      pills.style.display = "none";
+    } else {
+      kpiBox.style.backgroundColor = trueCost_worst > 20000 ? "#fef2f2" : "#eff6ff";
+      kpiBox.style.borderColor = trueCost_worst > 20000 ? "#fee2e2" : "#bfdbfe";
+      container.querySelector('.syn-kpi-subtitle').innerText = "RISIKOSPÆND FOR AT BEHOLDE BILEN";
+      
+      let costText = "";
+      const minCost = Math.min(trueCost_best, trueCost_worst);
+      const maxCost = Math.max(trueCost_best, trueCost_worst);
+      
+      if (trueCost_best <= 0) {
+        costText = "I forhold til at skrotte den i dag, koster det dig op til <strong>" + fmt(maxCost) + "</strong> at beholde bilen, hvis du ender med at måtte skrotte den senere.<br><br>";
+      } else {
+        costText = "I forhold til at skrotte den i dag, koster det dig reelt mellem <strong>" + fmt(minCost) + "</strong> og <strong>" + fmt(maxCost) + "</strong> at køre videre i " + m + " måneder.<br><br>";
+      }
+      
+      // Tilføjelse af pædagogisk forklaring af worst-case:
+      costText += "<span style='font-size: 13.5px; font-weight: 500; color: #334155;'>💡 I 'worst case' scenariet er dit økonomiske tab størst. Det betyder paradoksalt nok, at det er dét scenarie, hvor du ville have haft <em>flest</em> penge frigivet til at leje bil for i stedet.</span>";
+      
+      kpiText.innerHTML = costText;
+      
+      pills.style.display = "inline-flex";
+      const minRent = Math.min(rentMonth_best, rentMonth_worst);
+      const maxRent = Math.max(rentMonth_best, rentMonth_worst);
+      
+      if (minRent === 0) {
+        container.querySelector('#{{ calc_id }}_rent_range_month').innerText = "op til " + maxRent.toFixed(1);
+      } else {
+        container.querySelector('#{{ calc_id }}_rent_range_month').innerText = minRent.toFixed(1) + " – " + maxRent.toFixed(1);
+      }
+    }
+  }
+
+  container.querySelectorAll('input').forEach(i => i.addEventListener('input', runCalc));
+  runCalc();
+})();
+</script>

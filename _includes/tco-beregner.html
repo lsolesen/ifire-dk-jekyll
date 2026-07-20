@@ -1,0 +1,189 @@
+{% comment %}
+  TCO & Kilometerpris-beregner (Sleek UI)
+  Parametre:
+  - id: Unikt ID (default: "tco")
+  - title: Overskrift
+  - subtitle: Underoverskrift / forklaring
+  - km_year: Kørte km/år
+  - depreciation: Værditab i kr/år
+  - fixed_costs: Forsikring + Ejerafgift i kr/år
+  - maintenance: Værksted, dæk & service i kr/år
+  - fuel_cost: Brændstof/el i kr/år
+  - other_costs: Parkering, Brobizz mv. i kr/år
+{% endcomment %}
+
+{% assign calc_id = include.id | default: "tco" %}
+{% assign calc_title = include.title | default: "🚗 Beregn din bils sande kilometerpris (TCO)" %}
+{% assign calc_sub = include.subtitle | default: "Indtast dine årlige udgifter herunder for at beregne den samlede månedlige pris og kilometerpris." %}
+{% assign km = include.km_year | default: 15000 %}
+{% assign dep = include.depreciation | default: 10000 %}
+{% assign fixed = include.fixed_costs | default: 7500 %}
+{% assign maint = include.maintenance | default: 9000 %}
+{% assign fuel = include.fuel_cost | default: 14000 %}
+{% assign other = include.other_costs | default: 3000 %}
+
+<style>
+  #{{ calc_id }}-container .tcoclean-input::-webkit-outer-spin-button,
+  #{{ calc_id }}-container .tcoclean-input::-webkit-inner-spin-button {
+    -webkit-appearance: none; margin: 0;
+  }
+  #{{ calc_id }}-container .tcoclean-input[type=number] { -moz-appearance: textfield; }
+
+  #{{ calc_id }}-container {
+    background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px;
+    padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b;
+    margin: 24px 0; width: 100%; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  }
+  #{{ calc_id }}-container .tco-header { margin-bottom: 18px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; }
+  #{{ calc_id }}-container .tco-header h3 { margin: 0 0 4px 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em; }
+  #{{ calc_id }}-container .tco-header p { margin: 0; font-size: 12px; color: #64748b; }
+
+  #{{ calc_id }}-container .tco-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
+    background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; margin-bottom: 16px;
+  }
+  #{{ calc_id }}-container .tco-field-group { display: flex; flex-direction: column; }
+  #{{ calc_id }}-container .tco-field-group label { font-weight: 800; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em; }
+
+  #{{ calc_id }}-container .tco-field-box { position: relative; display: flex; align-items: center; }
+  #{{ calc_id }}-container .tco-field-box input {
+    width: 100% !important; padding: 4px 38px 4px 10px; border: 1px solid #cbd5e1; border-radius: 6px;
+    box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; height: 36px; background: #fff; outline: none;
+  }
+  #{{ calc_id }}-container .tco-field-box input:focus { border-color: #2563eb; }
+  #{{ calc_id }}-container .tco-field-box span { position: absolute; right: 10px; font-size: 10px; font-weight: 700; color: #94a3b8; pointer-events: none; }
+
+  #{{ calc_id }}-container .tco-results-card { border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px; background-color: #ffffff; margin-bottom: 16px; }
+  #{{ calc_id }}-container .tco-kpi-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-bottom: 12px; }
+  #{{ calc_id }}-container .tco-kpi-box { background: #f1f5f9; border-radius: 8px; padding: 12px; border: 1px solid #cbd5e1; text-align: center; }
+  #{{ calc_id }}-container .tco-kpi-label { font-size: 10px; font-weight: 800; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+  #{{ calc_id }}-container .tco-kpi-val { font-size: 22px; font-weight: 800; color: #2563eb; line-height: 1.1; }
+
+  #{{ calc_id }}-container .tco-sub-details { border-top: 1px dashed #e2e8f0; padding-top: 10px; font-size: 11.5px; color: #475569; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+
+  #{{ calc_id }}-container .tco-advice-card { background-color: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 14px 16px; }
+  #{{ calc_id }}-container .tco-advice-title { font-size: 10px; font-weight: 800; color: #166534; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+  #{{ calc_id }}-container .tco-advice-text { font-size: 11.5px !important; color: #166534 !important; line-height: 1.5 !important; margin: 0 !important; }
+
+  @media (max-width: 600px) {
+    #{{ calc_id }}-container .tco-grid { grid-template-columns: 1fr; }
+    #{{ calc_id }}-container .tco-kpi-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" id="{{ calc_id }}-container">
+  <div class="tco-header">
+    <h3>{{ calc_title }}</h3>
+    <p>{{ calc_sub }}</p>
+  </div>
+
+  <div class="tco-grid">
+    <div class="tco-field-group">
+      <label>1. Kørte km pr. år</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_km" value="{{ km }}" step="1000" class="tcoclean-input">
+        <span>km</span>
+      </div>
+    </div>
+
+    <div class="tco-field-group">
+      <label>2. Værditab / Afskrivning</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_dep" value="{{ dep }}" step="1000" class="tcoclean-input">
+        <span>kr./år</span>
+      </div>
+    </div>
+
+    <div class="tco-field-group">
+      <label>3. Forsikring & Ejerafgift</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_fixed" value="{{ fixed }}" step="500" class="tcoclean-input">
+        <span>kr./år</span>
+      </div>
+    </div>
+
+    <div class="tco-field-group">
+      <label>4. Værksted, dæk & service</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_maint" value="{{ maint }}" step="500" class="tcoclean-input">
+        <span>kr./år</span>
+      </div>
+    </div>
+
+    <div class="tco-field-group">
+      <label>5. Brændstof / El</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_fuel" value="{{ fuel }}" step="500" class="tcoclean-input">
+        <span>kr./år</span>
+      </div>
+    </div>
+
+    <div class="tco-field-group">
+      <label>6. Parkering, Brobizz mv.</label>
+      <div class="tco-field-box">
+        <input type="number" id="{{ calc_id }}_other" value="{{ other }}" step="500" class="tcoclean-input">
+        <span>kr./år</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="tco-results-card">
+    <div class="tco-kpi-grid">
+      <div class="tco-kpi-box">
+        <div class="tco-kpi-label">Samlet kilometerpris</div>
+        <div class="tco-kpi-val" id="{{ calc_id }}_res_km_price" style="color:#d9534f;">-</div>
+      </div>
+      <div class="tco-kpi-box">
+        <div class="tco-kpi-label">Månedlig totaludgift</div>
+        <div class="tco-kpi-val" id="{{ calc_id }}_res_month_total">-</div>
+      </div>
+    </div>
+
+    <div class="tco-sub-details">
+      <span><strong>Fast ejerskab ekskl. brændstof:</strong> <span id="{{ calc_id }}_res_fixed_km_price">-</span></span>
+      <span><strong>Årlig samlet udgift:</strong> <span id="{{ calc_id }}_res_year_total">-</span></span>
+    </div>
+  </div>
+
+  <div class="tco-advice-card">
+    <div class="tco-advice-title">💡 Værd at vide om resultatet:</div>
+    <p class="tco-advice-text" id="{{ calc_id }}_advice_text">Beregner...</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  const container = document.getElementById('{{ calc_id }}-container');
+  if (!container) return;
+
+  function fmt(v) { return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 0 }).format(v) + ' kr.'; }
+  function fmtDec(v) { return new Intl.NumberFormat('da-DK', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(v) + ' kr.'; }
+
+  function runCalc() {
+    let km = parseFloat(container.querySelector('#{{ calc_id }}_km').value); if (isNaN(km) || km <= 0) km = 1;
+    let dep = parseFloat(container.querySelector('#{{ calc_id }}_dep').value); if (isNaN(dep)) dep = 0;
+    let fixed = parseFloat(container.querySelector('#{{ calc_id }}_fixed').value); if (isNaN(fixed)) fixed = 0;
+    let maint = parseFloat(container.querySelector('#{{ calc_id }}_maint').value); if (isNaN(maint)) maint = 0;
+    let fuel = parseFloat(container.querySelector('#{{ calc_id }}_fuel').value); if (isNaN(fuel)) fuel = 0;
+    let other = parseFloat(container.querySelector('#{{ calc_id }}_other').value); if (isNaN(other)) other = 0;
+
+    const totalYear = dep + fixed + maint + fuel + other;
+    const monthTotal = totalYear / 12;
+    const pricePerKm = totalYear / km;
+    const fixedPricePerKm = (dep + fixed + maint) / km;
+
+    container.querySelector('#{{ calc_id }}_res_km_price').innerText = fmtDec(pricePerKm) + '/km';
+    container.querySelector('#{{ calc_id }}_res_month_total').innerText = fmt(monthTotal) + '/mdr';
+    container.querySelector('#{{ calc_id }}_res_fixed_km_price').innerText = fmtDec(fixedPricePerKm) + '/km';
+    container.querySelector('#{{ calc_id }}_res_year_total').innerText = fmt(totalYear);
+
+    let advice = "Ved " + new Intl.NumberFormat('da-DK').format(km) + " kørte km om året udgør dit reelle forbrug (brændstof, parkering osv.) " + fmtDec((fuel + other) / km) + " pr. km. ";
+    advice += "Resten (" + fmtDec(fixedPricePerKm) + "/km) er faste omkostninger og værditab, som løber uanset om bilen holder stille.";
+    
+    container.querySelector('#{{ calc_id }}_advice_text').innerHTML = advice;
+  }
+
+  container.querySelectorAll('input').forEach(i => i.addEventListener('input', runCalc));
+  runCalc();
+})();
+</script>

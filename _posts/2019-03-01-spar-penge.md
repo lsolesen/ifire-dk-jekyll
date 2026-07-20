@@ -83,6 +83,38 @@ Det bedste råd er at lave en fast overførsel væk fra din forbrugskonto til en
 
 ***
 
+---
+
+### 💻 Det store Abonnements-tjek: Stop det digitale dagsordens-dræn
+
+Digitale abonnementer er posten i hverdagsøkonomien, der usynligt stjæler flest penge. Et abonnement til 79 kr. om måneden lyder af lidt, men har du 5-6 stykker af dem liggende, svarer det til over 5.000 kr. om året i rene, faste udgifter.
+
+For at gennemføre et effektivt abonnements-tjek skal du bruge 1 time og følge disse 4 trin:
+
+#### 1. Træk overblikket frem (Brug en app)
+Brug din netbank eller en udgifts-app (fx Spiir) til at filtrere dine udgifter på kategorier som *"Software"*, *"Online Services"* og *"Underholdning"*. Kør 12 måneder tilbage i tiden, så du fanger de årlige og kvartalsvise opkrævninger, man ofte glemmer.
+
+#### 2. Stil det afgørende spørgsmål
+Gå alle dine tjenester igennem én for én (sky-lagring, streaming, mobilabonnement, software, medier, fitness) og stil spørgsmålet:  
+> *"Har jeg brugt denne tjeneste inden for de sidste 30 dage – og gav den mig reel livskvalitet?"*  
+Hvis svaret er nej eller tøvende, skal abonnementet opsiges øjeblikkeligt.
+
+#### 3. Brug "Aktiv nedgradering"-strategien
+I stedet for kun at tænke i enten-eller (behold eller opsig), så undersøg om du kan nedgradere:
+* **Gratis-versioner:** Kan du klare dig med gratis-udgaven af Dropbox, Evernote eller Spotify mod at leve med lidt begrænsninger?
+* **Deling i husholdningen:** Kan du dele familiemedlemskaber (fx på aviser som Zetland eller streamingtjenester) inden for husstanden eller vennekredsen?
+* **Drop introduktionstilbudsfælden:** Gør det til en vane altid at sætte en påmindelse i kalenderen til at afmelde gratis prøveperioder den dag, du opretter dem.
+
+#### 4. Søg gratis / Open Source alternativer
+Ligger du inde med udgifter til hosting, software eller specielle værktøjer? Ofte findes der stærke, gratis alternativer. Eksempelvis kan man skifte dyre server-løsninger og cms-systemer ud med gratis, statiske alternativer (fx GitHub Pages) eller bruge open-source software (fx Zotero til referencer).
+
+---
+
+> 💡 **Hvad jeg har tænkt over – og hvorfor:**  
+> *"Da jeg selv gennemførte denne øvelse og gik alle mine digitale abonnementer igennem med en tættekam, lykkedes det mig at skære min regning fra 1.070 kr. helt ned til 594 kr. om måneden – en ren besparelse på 476 DKK/mdr. Læs hvordan jeg gjorde i min personlige logbog under [Min FIRE-historie](/min-firehistorie/)."*
+
+***
+
 ## Hvad er dine gode spareråd?
 
 Spar penge med disse spareråd. Vi er altid interesseret i gode nye ideer til at spare penge, så hvis du har andre måder at spare på, så skriv endelig.

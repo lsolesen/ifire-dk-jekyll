@@ -1,0 +1,198 @@
+{% comment %}
+  GoMore / Biludlejning Netto-beregner
+{% endcomment %}
+
+{% assign calc_id = include.id | default: "gomore" %}
+{% assign calc_title = include.title | default: "🚘 Udlejnings-beregner: Hvad tjener du reelt?" %}
+{% assign calc_sub = include.subtitle | default: "Indtast din lejeindtægt og se, hvad der er tilbage på bundlinjen, når platformen har taget sit gebyr, og bilen har betalt for sliddet." %}
+{% assign price = include.price | default: 325 %}
+{% assign fee_percent = include.fee_percent | default: 20 %}
+{% assign km = include.km | default: 150 %}
+{% assign maint = include.maintenance | default: 0.59 %}
+{% assign tire = include.tire_wear | default: 0.17 %}
+{% assign loss = include.value_loss | default: 0.44 %}
+
+<style>
+  #{{ calc_id }}-container .synclean-input::-webkit-outer-spin-button,
+  #{{ calc_id }}-container .synclean-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+  #{{ calc_id }}-container .synclean-input[type=number] { -moz-appearance: textfield; }
+
+  #{{ calc_id }}-container {
+    background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px;
+    padding: 24px; font-family: system-ui, -apple-system, sans-serif; color: #1e293b;
+    margin: 24px 0; width: 100%; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  }
+  #{{ calc_id }}-container .syn-header { margin-bottom: 18px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; }
+  #{{ calc_id }}-container .syn-header h3 { margin: 0 0 4px 0; font-size: 18px; font-weight: 800; color: #0f172a; letter-spacing: -0.02em; }
+  #{{ calc_id }}-container .syn-header p { margin: 0; font-size: 12px; color: #64748b; }
+
+  #{{ calc_id }}-container .syn-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
+    background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; margin-bottom: 16px;
+  }
+  #{{ calc_id }}-container .syn-field-group { display: flex; flex-direction: column; }
+  #{{ calc_id }}-container .syn-field-group label { font-weight: 800; margin-bottom: 6px; font-size: 10px; text-transform: uppercase; color: #475569; letter-spacing: 0.05em; }
+
+  #{{ calc_id }}-container .syn-field-box { position: relative; display: flex; align-items: center; }
+  #{{ calc_id }}-container .syn-field-box input {
+    width: 100% !important; padding: 4px 38px 4px 10px; border: 1px solid #cbd5e1; border-radius: 6px;
+    box-sizing: border-box; font-size: 13px; font-weight: 700; color: #0f172a; height: 36px; background: #fff; outline: none;
+  }
+  #{{ calc_id }}-container .syn-field-box input:focus { border-color: #2563eb; }
+  #{{ calc_id }}-container .syn-field-box span { position: absolute; right: 10px; font-size: 10px; font-weight: 700; color: #94a3b8; pointer-events: none; }
+
+  /* Resultatboks */
+  #{{ calc_id }}-container .syn-result-box {
+    background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px;
+  }
+  #{{ calc_id }}-container .syn-line-item {
+    display: flex; justify-content: space-between; font-size: 13px; color: #475569; margin-bottom: 8px; padding-bottom: 8px; border-bottom: 1px dashed #e2e8f0;
+  }
+  #{{ calc_id }}-container .syn-line-item:last-of-type { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  #{{ calc_id }}-container .syn-val { font-weight: 700; color: #0f172a; }
+  #{{ calc_id }}-container .syn-val.red { color: #dc2626; }
+  #{{ calc_id }}-container .syn-val.green { color: #16a34a; }
+
+  /* KPI Main */
+  #{{ calc_id }}-container .syn-kpi-card {
+    background-color: #eff6ff; border: 1px solid #bfdbfe; border-radius: 10px; padding: 16px; text-align: center; margin-top: 16px;
+  }
+  #{{ calc_id }}-container .syn-kpi-subtitle { font-size: 11px; font-weight: 800; color: #1e40af; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+  #{{ calc_id }}-container .syn-kpi-main { font-size: 24px; font-weight: 800; color: #1d4ed8; }
+
+  @media (max-width: 600px) {
+    #{{ calc_id }}-container .syn-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div markdown="0" id="{{ calc_id }}-container">
+  <div class="syn-header">
+    <h3>{{ calc_title }}</h3>
+    <p>{{ calc_sub }}</p>
+  </div>
+
+  <div class="syn-grid">
+    <div class="syn-field-group">
+      <label>1. Udlejningspris pr. dag</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_price" value="{{ price }}" step="25" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>2. Platformens gebyr (fx GoMore)</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_fee" value="{{ fee_percent }}" step="1" class="synclean-input">
+        <span>%</span>
+      </div>
+    </div>
+    <div class="syn-field-group" style="grid-column: 1 / -1; background: #ffffff; padding: 10px; border-radius: 8px; border: 1px solid #e2e8f0;">
+      <label style="color:#0f172a;">3. Forventet kørsel pr. udlejning</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_km" value="{{ km }}" step="10" class="synclean-input">
+        <span>km</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>Slid & Værksted pr. km</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_maint" value="{{ maint }}" step="0.05" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>Dækslid pr. km</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_tire" value="{{ tire }}" step="0.01" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>Værditab pr. km</label>
+      <div class="syn-field-box">
+        <input type="number" id="{{ calc_id }}_loss" value="{{ loss }}" step="0.05" class="synclean-input">
+        <span>kr.</span>
+      </div>
+    </div>
+    <div class="syn-field-group">
+      <label>Samlet km-pris</label>
+      <div class="syn-field-box" style="background: #f1f5f9; border-radius: 6px; padding: 0 10px; height: 36px; display: flex; align-items: center;">
+        <span style="position:static; font-size: 13px; font-weight: 700; color: #0f172a;" id="{{ calc_id }}_total_km_price">-</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="syn-result-box">
+    <div class="syn-line-item">
+      <span>Brutto lejeindtægt:</span>
+      <span class="syn-val" id="{{ calc_id }}_out_gross">-</span>
+    </div>
+    <div class="syn-line-item">
+      <span>Platformens gebyr:</span>
+      <span class="syn-val red" id="{{ calc_id }}_out_fee">-</span>
+    </div>
+    <div class="syn-line-item">
+      <span>Din udbetaling:</span>
+      <span class="syn-val green" id="{{ calc_id }}_out_payout">-</span>
+    </div>
+    <div class="syn-line-item" style="margin-top: 12px;">
+      <span>Slitage på bilen (<span id="{{ calc_id }}_out_km"></span> km):</span>
+      <span class="syn-val red" id="{{ calc_id }}_out_wear">-</span>
+    </div>
+  </div>
+
+  <div class="syn-kpi-card" id="{{ calc_id }}_kpi_box">
+    <div class="syn-kpi-subtitle">DIN REELLE NETTOFORTJENESTE</div>
+    <div class="syn-kpi-main" id="{{ calc_id }}_out_net">Beregner...</div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const container = document.getElementById('{{ calc_id }}-container');
+  if (!container) return;
+
+  function fmt(v) { return new Intl.NumberFormat('da-DK', { maximumFractionDigits: 2, minimumFractionDigits: 2 }).format(v) + ' kr.'; }
+
+  function runCalc() {
+    let price = parseFloat(container.querySelector('#{{ calc_id }}_price').value) || 0;
+    let feePct = parseFloat(container.querySelector('#{{ calc_id }}_fee').value) || 0;
+    let km = parseFloat(container.querySelector('#{{ calc_id }}_km').value) || 0;
+    let maint = parseFloat(container.querySelector('#{{ calc_id }}_maint').value) || 0;
+    let tire = parseFloat(container.querySelector('#{{ calc_id }}_tire').value) || 0;
+    let loss = parseFloat(container.querySelector('#{{ calc_id }}_loss').value) || 0;
+
+    const costPerKm = maint + tire + loss;
+    container.querySelector('#{{ calc_id }}_total_km_price').innerText = fmt(costPerKm) + " / km";
+
+    const feeAmount = price * (feePct / 100);
+    const payout = price - feeAmount;
+    const wearCost = costPerKm * km;
+    const netIncome = payout - wearCost;
+
+    container.querySelector('#{{ calc_id }}_out_gross').innerText = fmt(price);
+    container.querySelector('#{{ calc_id }}_out_fee').innerText = "-" + fmt(feeAmount);
+    container.querySelector('#{{ calc_id }}_out_payout').innerText = fmt(payout);
+    
+    container.querySelector('#{{ calc_id }}_out_km').innerText = km;
+    container.querySelector('#{{ calc_id }}_out_wear').innerText = "-" + fmt(wearCost);
+
+    const netEl = container.querySelector('#{{ calc_id }}_out_net');
+    netEl.innerText = fmt(netIncome);
+    
+    const kpiBox = container.querySelector('#{{ calc_id }}_kpi_box');
+    if (netIncome <= 0) {
+      kpiBox.style.backgroundColor = "#fef2f2";
+      kpiBox.style.borderColor = "#fee2e2";
+      netEl.style.color = "#dc2626";
+    } else {
+      kpiBox.style.backgroundColor = "#f0fdf4";
+      kpiBox.style.borderColor = "#bbf7d0";
+      netEl.style.color = "#16a34a";
+    }
+  }
+
+  container.querySelectorAll('input').forEach(i => i.addEventListener('input', runCalc));
+  runCalc();
+})();
+</script>

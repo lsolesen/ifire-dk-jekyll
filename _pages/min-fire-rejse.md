@@ -100,6 +100,7 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   * **Februar:** Jeg har forhandlet mit CallMe-abonnement ned med yderligere 10 kr. om måneden [20]. Jeg har læst på bloggen *WannaBeWalden* og regnet på mine Coast FIRE tal. Jeg behøver kun 1,5 mio. kr. investeret for at sikre min pension. Jeg har 2,2 mio. Jeg er Coast FIRE! Jeg har derfor aftalt med min arbejdsplads at gå ned i tid og starte en "mini-pension" [54, 58, 61].
   * **April:** Vores bil er død, så vi sparer transportpengene foreløbig [24]. Jeg har for første gang fået drikkepenge via 'Buy me a coffee' fra en bruger, der var glad for et gratis hæfte på Fodboldens Legestue. Samlet passiv indkomst: 246 kr [68].
   * **November:** Jeg har brugt strategierne fra *Income School* intenst. Trafikken på mine sites eksploderer! *Motionsplan.dk* er gået fra under 1.500 besøgende i januar til over 22.000 om måneden nu. Min passive indkomst begynder langsomt at følge med [69].
+  * **April 2020:** Berlingoen skulle til syn, og mekanikerne via Autobutler oplyste, at bagbroen var gået, og bremserne skulle skiftes – et reparationschok på mellem 22.500 og 28.000 DKK! Da bilens værdi var lavere end reparationen, traf vi den hurtige beslutning at skrotte bilen for skrotpræmien på 2.200 kr.[cite: 10] Vi valgte herefter at leve helt uden bil og i stedet klare os med cykler, offentlig transport og lejebiler via GoMore, når det var højst nødvendigt – hvilket sparede os for tusindvis af kroner hver måned[cite: 8, 10].
 </details>
 
 <details>
@@ -116,6 +117,7 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
   * **November:** Brexit laver rod i systemet. Revolut har flyttet deres europæiske konti, og mit IBAN-nummer er ændret. Jeg brugte en hel aften på at sende små 2-EUR overførsler til over 20 forskellige crowdlending-platforme bare for at verificere min nye Revolut-konto.
   * **Februar 2020:** Efter et par ture til udlandet (bl.a. på skiferie og en tur til Lanzarote) undersøgte jeg mine korts veksel- og hævegebyrer i dybden. Ved at bruge en kombination af Revolut og Curve til at veksle til interbank-kurs og undgå hævegebyrer (i stedet for mine normale kort som SparNord, Lunar og Norwegian), lykkedes det mig at spare 178 DKK i ren gebyr – hvad der svarer til 9 kopper cappuccino i Spanien!
   * **Strategien til udlandet:** Jeg fandt ud af, at den optimale finitteknik er at betale selve rejsen med mit Norwegian-kreditkort for at få den gratis rejseforsikring[cite: 4], men køre alle løbende udlandskøb og ATM-hævninger igennem Curve/Revolut i lokal valuta for at undgå valutatillæg og gebyrer[cite: 4].
+  * **Januar 2020:** Jeg tog en dyb indånding og lavede en total gennemgang af alle mine digitale abonnementer og cloud-tjenester via Spiir. Ved at skifte min server-hosting fra DigitalOcean over til gratis Jekyll på GitHub Pages, nedgradere Dropbox og Evernote til gratis-versionerne, samt luge ud i gamle servere, skar jeg mit digitale abonnement-forbrug fra 1.070 kr. ned til 594 kr. – **en ren besparelse på 476 DKK om måneden!**
 </details>
 ---
 

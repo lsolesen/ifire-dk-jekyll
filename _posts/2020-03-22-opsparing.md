@@ -114,7 +114,7 @@ Kort sagt: Hold dine faste udgifter nede, vær i a-kasse og gem en lille smule g
 
 Jeg anbefaler, at du gennemgår dit nuværende forbrug og regninger for de seneste par år. Det kan du gøre utrolig let med [Spiir](/go/spiir/), eller måske har din egen bank også en funktion, hvor du kategoriserer alle dine udgifter fra bankkontoen – og så finder du hurtigt flere måder [at spare på](/spar-penge/).
 
-Når du har kategoriseret alle udgifterne, kan du kigge på de enkelte kategorier og se, hvor pengene går hen. Først kan du kigge på dine tilbagevendende udgifter, fx til [abonnementer](/online-services/), [forsikringer](/forsikringer/), og [kirkeskat](/kirkeskat/). Hvis du bruger Spiir, kan du også kigge i kategorien _Forbrug_. Det var en stor øjenåbner for mig, da jeg gjorde det.
+Når du har kategoriseret alle udgifterne, kan du kigge på de enkelte kategorier og se, hvor pengene går hen. Først kan du kigge på dine tilbagevendende udgifter, fx til [abonnementer](/min-firerejse/), [forsikringer](/forsikringer/), og [kirkeskat](/kirkeskat/). Hvis du bruger Spiir, kan du også kigge i kategorien _Forbrug_. Det var en stor øjenåbner for mig, da jeg gjorde det.
 
 Nu har du et overblik – og måske har du fundet nogle penge, som du i stedet kan sætte til side til investeringer hver eneste måned.
 

@@ -36,7 +36,7 @@ Jeg fik endelig bestilt nogle reservedele til min kaffemaskine og kværn, så mi
 
 Med ferie og indkøb af reservedelene og [indbetaling på børnenes børneopsparing](/borneopsparing/), så **endte opsparingsraten i den første måned af 2020 på beskedne 8,9%**. Det var dog nogle procent bedre end januar 2019, så alt i alt er det udemærket. Jeg forventer dog, at jeg de følgende måneder igen vil kunne komme noget højere op i opsparingsrate, men jeg kommer i 2020 ikke til at tjene så meget som i 2019, så gennemsnittet vil helt sikkert falde noget.
 
-For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnementer](/online-services/), og der lykkedes det mig spare 476 DKK pr. måned allerede ved første gennemsyn.
+For at forbedre opsparingsraten, har jeg fået [kigget grundigt på mine abonnementer](/min-firerejse/), og der lykkedes det mig spare 476 DKK pr. måned allerede ved første gennemsyn.
 
 I denne måned har jeg også oprettet nye betalingskort fra Curve og N26.
 

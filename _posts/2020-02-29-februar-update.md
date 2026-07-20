@@ -38,7 +38,7 @@ Jeg har været [ude at rejse i denne måned og tænkt lidt over, hvordan det er 
 
 Intet er gratis i livet;  og for at bruge Spiir til at holde overblik over økonomien, så får man til gengæld måder man kan spare penge på. Det foregår (fortsat) uden, at det irriterer - og i denne måned har jeg sparet 10 DKK mdr. på mit CallMe-abonnement. Jeg gav normalt 99 DKK / mdr, men kunne fastholde det samme abonnement for 89 DKK / mdr, fordi jeg bruger Spiir. Det er da herligt.
 
-Jeg fik også [sparet 476 DKK på onlineabonnementer](/online-services/) i løbet af januar ved at være lidt kritisk med, hvad jeg har brug for. Dertil kan jeg så lægge de 10 DKK fra nedsættelsen af CallMe-abonnementet.
+Jeg fik også [sparet 476 DKK på onlineabonnementer](/min-firerejse/) i løbet af januar ved at være lidt kritisk med, hvad jeg har brug for. Dertil kan jeg så lægge de 10 DKK fra nedsættelsen af CallMe-abonnementet.
 
 Jeg har på [Coinbase Earn](/go/coinbase/){: rel='sponsored nofollow noopener' } igen fået lov til at gennemgå et minikursus i kryptovaluta og blockchain. De laver nogle gode videoer, der forklarer det rigtig godt - og så tjener man for omkring 10U$D af den pågældende kryptovaluta. Denne gang var kurset med [EOS](https://coinbase.com/earn/eos/invite/cjdkm8sp), som kan bruges til at lave webapps. Hvis du bruger [mit link til at skrive dig op til Coinbase og tager kurset, får du for omkring 10 USD BTC og 10 USD EOS](https://coinbase.com/earn/eos/invite/cjdkm8sp), når du har gennemført kurset. Jeg har også installeret Orchid efter at have [set kurset om Orchids VPN-funktion på Coinbase](https://coinbase.com/earn/oxt/invite/pc1gh5xs). Hvis du er interesseret i sikkerhed på nettet, kan du overveje at læse lidt mere om, hvad en VPN er.
 
