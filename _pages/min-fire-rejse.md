@@ -152,7 +152,7 @@ Herunder har jeg samlet de sjoveste, nørdede og ærlige uddrag fra mine månedl
 {% assign site_posts = site.posts | where: "category", "Opdateringer" | where: "tags", "månedsopdateringer" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 </div>

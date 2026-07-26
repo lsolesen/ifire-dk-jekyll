@@ -19,6 +19,7 @@ feature_row:
     btn_class: "btn--success"
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
+last_modified_at: 2026-07-20T10:00:00+02:00
 ---
 
 {% include disclosure.html %}

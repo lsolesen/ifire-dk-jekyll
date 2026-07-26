@@ -1,7 +1,7 @@
 ---
 title: "Økonomisk krisehåndtering - min trepunktsplan"
 permalink: /kriseplan/
-last_modified_at: 2020-03-03T13:22:02+02:00
+last_modified_at: 2026-07-20T10:00:00+02:00
 header:
   overlay_image: https://images.unsplash.com/photo-1528659882437-b89a74bc157f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=5
   teaser: https://images.unsplash.com/photo-1528659882437-b89a74bc157f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10

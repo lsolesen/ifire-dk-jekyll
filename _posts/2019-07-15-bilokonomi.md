@@ -98,7 +98,7 @@ Når din ældre bil står overfor et syn, bør du lave en hurtig kalkule baseret
 
 1. **Beregn Netto-omkostningen:**  
    Holder du reparationsudgiften op mod bilens gensalgsværdi, ser formlen således ud:
-  {% include math formula="$$\text{Nettoudgift} = \text{Reparation/Syn} + \text{Faste udgifter i perioden} - (\text{Forventet salgspris} - \text{Skrotindkomst})$$" %}
+   $\text{Nettoudgift} = \text{Reparation/Syn} + \text{Faste udgifter i perioden} - (\text{Forventet salgspris} - \text{Skrotindkomst})$
 
 2. **Sammenlign med "Lejebils-ækvivalenten":**  
    Divider din samlede netto-omkostning ved synet med dagsprisen for en lejebil (fx GoMore til ca. 400 kr./dag).  

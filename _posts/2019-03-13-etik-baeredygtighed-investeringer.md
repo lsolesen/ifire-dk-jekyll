@@ -14,6 +14,7 @@ tags:
   - værdipapirer
   - portefølje
 excerpt: "Hvordan gør jeg mine investeringer i værdipapirer, crowdlending og ejendomme etiske og bæredygtige?"
+last_modified_at: 2026-07-20T10:00:00+02:00
 ---
 
 Jeg er ved at få helt styr på, hvordan min samlede økonomi skal være skruet sammen. Næste skridt er at kigge lidt på mine samlede investeringer og finde ud af, hvordan jeg kan være med til at **gøre verden til et bedre og mere bæredygtigt sted** og samtidig bevæge mig mod **finansiel uafhængighed**. Kan det overhovedet hænge sammen?

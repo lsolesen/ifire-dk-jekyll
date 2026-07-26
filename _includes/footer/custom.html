@@ -1,0 +1,33 @@
+{% if jekyll.environment == "production" %}
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker
+      .register("{{ '/pwabuilder-sw.js' | relative_url }}", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[{{ site.title }}] Service worker er registreret for scope: " + reg.scope);
+      })
+      .catch(function (err) {
+        console.error("[{{ site.title }}] Service worker kunne ikke registreres:", err);
+      });
+  });
+}
+</script>
+{% endif %}
+
+{% if page.mathjax or site.mathjax %}
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}

@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Passiv indkomst: Mine 7 ærlige eksperimenter med at tjene penge online"
-seo_title: "Passiv indkomst • 7 ærlige eksperimenter & guiden til at starte 🚀 »"
-description: "Passiv indkomst er drømmen om at tjene penge, mens du sover. Læs min ærlige guide med erfaringer fra aktier, crowdlending, blogs, Amazon KDP, AirBnb og Shutterstock."
+title: "Passiv indkomst ideer: Mine 7 eksperimenter med at tjene penge online"
+seo_title: "Passiv indkomst ideer (2026) • 7 ærlige eksperimenter & guiden 🚀 »"
+description: "Leder du efter passiv indkomst ideer? Læs min ærlige guide med erfaringer fra aktier, crowdlending, blogs, Amazon KDP, AirBnb og Shutterstock."
 excerpt: "Passiv indkomst lyder fantastisk, men kræver enten tid eller kapital. Læs om mine 7 ærlige eksperimenter med aktier, blogs, udlejning, KDP-bøger og Shutterstock."
 permalink: /passiv-indkomst/
 category:
@@ -50,6 +50,24 @@ Modsat et almindeligt lønarbejde, hvor du direkte bytter din tid for penge (1 t
 
 > ⚠️ **Myten om "0 % arbejde"**
 > Ingen passiv indtægtskilde er 100 % automatisk for evigt. Aktieporteføljer skal rebalanceres, blogs skal opdateres, og udlejningsboliger skal vedligeholdes. Målet er ikke nul arbejde, men at opbygge et system, hvor tidsforbruget er brøkdele af det traditionelle arbejdsmarked.
+
+---
+
+## 🎯 Prioriteringsguide: Hvor skal du starte?
+
+Før du kaster dig over tilfældige projekter, bør du prioritere din indsats ud fra dine nuværende ressourcer:
+
+* **1. Har du mere kapital end tid?**
+  * **Fokus:** [Aktier & indeksfonde](/passiv-investering/) og [højrentekonti](/hoejrentekonto-opsparingskonto/).
+  * **Hvorfor:** Det giver dig ren passiv indkomst fra dag 1 med tæt på 0 timers løbende arbejdsindsats.
+
+* **2. Har du mere tid end kapital?**
+  * **Fokus:** Niche-blogs, affiliate marketing, digitale produkter eller skabeloner.
+  * **Hvorfor:** Det kræver en stor arbejdsindsats på forhånd, men har lav økonomisk risiko og ubegrænset skalerbarhed.
+
+* **3. Har du en ubrugt ressource?**
+  * **Fokus:** [Udlejning af bolig](/udlej-din-bolig/) i ferier (AirBnb) eller udstyr.
+  * **Hvorfor:** Du udnytter aktiver, du allerede ejer, til at skabe en hurtig og kontant ekstraindtægt.
 
 ---
 
@@ -215,7 +233,7 @@ Herunder har jeg samlet de opdateringer og noter, som jeg løbende delte underve
 {% assign site_posts = site.posts | where: "category", "Passiv Indkomst" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 </div>

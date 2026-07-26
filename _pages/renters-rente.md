@@ -16,7 +16,8 @@ feature_row:
     url: https://docs.google.com/spreadsheets/d/1fA9aYAgvjNHZC_FLccb4yOMVz7FTxrDFw0JOa-CG_ew/copy?usp=sharing
     btn_label: Google Sheets
     btm_class: btn--success
-last_modified_at: 2021-07-18T13:45:01Z
+last_modified_at: 2026-07-18T13:45:01Z
+mathjax: true
 ---
 
 Renters rente er en af de mest motiverende årsager til at investere. Første år får du renter af din investering. De følgende år får du både renter af investeringen og af renterne fra de tidligere år. Det betyder, at du over tid får en eksponentiel stigning af dine penge. 
@@ -59,7 +60,9 @@ Det er Albert Einstein ofte (omend fejlagtigt) citeret for at kalde *"verdens ot
 
 [Formlen](http://www.helpfulcalculators.com/compound-interest-calculator) for renters rente ser sådan her ud:
 
-{% include math formula="V=P*(1+\frac{r}{n})^{n*t}" %}
+$$
+V = P \left(1 + \frac{r}{n}\right)^{n \cdot t}
+$$
 
 * **V (Slutbeløb/Værdi):** Værdien af investeringen i slutningen af perioden.
 * **P (Startkapital/Hovedstol):** Det oprindelige investerede beløb (Principal).
@@ -82,7 +85,9 @@ Måske kan du også tilføje et beløb til din investering hver måned. Du kan b
 
 Formlen for renters rente med løbende indbetalinger ser sådan her ud.
 
-{% include math formula="V=P*(r+1)^n+i*\frac{(1+r)^n-1}{1+r}" %}
+$$
+V = P(r + 1)^n + i \cdot \frac{(1 + r)^n - 1}{1 + r}
+$$
 
 - **i:** månedligt tilbagevendende beløb
 

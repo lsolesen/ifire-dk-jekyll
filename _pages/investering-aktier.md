@@ -66,7 +66,7 @@ Hvis du ikke vil i gang med selv at udvælge gode stabile aktier, så kan du kø
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 
@@ -84,7 +84,7 @@ Du kan lade dig inspirere på vores [liste over danske investeringsforeninger og
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 
@@ -130,7 +130,7 @@ Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i 
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 
@@ -144,7 +144,7 @@ Du kan også investere i [crowdlending og crowdfunding](/crowdlending/) eller i 
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 

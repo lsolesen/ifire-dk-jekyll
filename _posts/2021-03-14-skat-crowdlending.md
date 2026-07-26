@@ -136,7 +136,7 @@ Hvis du gerne vil vide, hvordan du finder årsopgørelserne og tallene til brug 
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 

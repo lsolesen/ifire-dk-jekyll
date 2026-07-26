@@ -24,6 +24,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
+last_modified_at: 2026-07-20T10:00:00+02:00
 ---
 
 {{ page.excerpt }}

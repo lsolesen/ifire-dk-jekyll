@@ -109,4 +109,6 @@ Vil du se, hvordan du opbygger et automatisk flow mellem din lønkonto, budgetko
 
 👉 Læs min guide til [at opbygge den ultimative kontostruktur (4-konto modellen)](/bankkonto-setup/) eller se mit eget [aktuelle bank-setup her](/min-oekonomi/).
 
+Prøv også vores [opsparingsberegner](/opsparingsberegner/).
+
 {% include disclaimer.md %}

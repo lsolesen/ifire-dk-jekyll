@@ -1,6 +1,6 @@
 ---
 title: "Find de bedste investeringsafdelinger eller ETF’er"
-last_modified_at: 2020-03-17T09:20:02+02:00
+last_modified_at: 2026-07-20T10:00:00+02:00
 permalink: /hvilken-fond/
 category:
   - Investering
@@ -81,7 +81,9 @@ Jo højere Sharpe ratio, jo bedre er porteføljens risikojusterede udvikling.
 
 Sharpes ratio udregnes ved at dividere det forventede afkast minus en risikofri investering (fx i obligationer) med standardafvigelsen. En høj Sharpe ratio er et af de vigtigste nøgletal til at vurdere, hvor god en investeringsforening er.
 
-{% include math formula="SharpeRatio = \frac{R_p - −R_f}{\sigma_p}" %}
+$$
+\text{SharpeRatio} = \frac{R_p - R_f}{\sigma_p}
+$$
 
 R<sub>p</sub> = forventet afkast fra porteføljen
 R<sub>f</sub> = forventede risiko-frie afkast (fx en obligation)

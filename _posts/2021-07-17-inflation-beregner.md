@@ -79,7 +79,9 @@ Når du vurderer dine investeringer eller din opsparingskonto, skal du altid reg
 
 Det reelle afkast tager højde for både skat og inflation:
 
-{% include math formula="$$ \text{Reelt Afkast} \approx \text{Nominelt Afkast} - \text{Inflation} - \text{Skat} $$" %}
+$$
+\text{Reelt Afkast} \approx \text{Nominelt Afkast} - \text{Inflation} - \text{Skat}
+$$
 
 ### Et tænkt eksempel:
 1. Du får **2,0 % i rente** på en indlånskonto i banken.

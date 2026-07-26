@@ -1,6 +1,7 @@
 ---
 title: "Hvordan tracker jeg min portefølje med Portfolio Performance og Cointracking.info?"
 permalink: /hvordan-tracker-jeg-min-portefolje/
+last_modified_at: 2026-07-20T10:00:00+02:00
 category:
   - Investering
 tags:

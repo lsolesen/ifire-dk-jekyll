@@ -45,7 +45,9 @@ Selve matematikken er enkel, men der er én klassisk fælde, de fleste falder i:
 
 Formlen ser således ud:
 
-{% include math formula="$$\text{Opsparingsrate} = \frac{\text{Indkomst} - \text{Reelt forbrug}}{\text{Indkomst}} \times 100\%$$" %}
+$$
+\text{Opsparingsrate} = \frac{\text{Indkomst} - \text{Reelt forbrug}}{\text{Indkomst}} \times 100\%
+$$
 
 ### Eksempel på beregningen:
 Lad os antage, at din husstand får udbetalt 40.000 kr. om måneden efter skat. I løbet af måneden går der penge til faste regninger, dagligvarer, men også til investeringer på Nordnet.
@@ -65,7 +67,9 @@ Dine **reelle udgifter / forbrug** er kun 20.000 kr. (10.000 kr. i regninger + 1
 
 **Regnestykket bliver derfor:**
 
-{% include math formula="$$\text{Opsparingsrate} = \frac{40.000 - 20.000}{40.000} \times 100\% = \mathbf{50}\\%$$" %}
+$$
+\text{Opsparingsrate} = \frac{40.000 - 20.000}{40.000} \times 100\% = \mathbf{50}\%
+$$
 
 ---
 

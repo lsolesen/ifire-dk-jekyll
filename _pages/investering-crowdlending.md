@@ -120,7 +120,9 @@ Risk Score udregnes ved at pointgive platformen på tværs af syv centrale param
 ### Beregningsformel for Risk Score
 For at udregne den samlede risiko vægtes parametrene efter deres reelle betydning for din kapitals sikkerhed:
 
-{% include math formula="$$ \text{RiskScore} = \frac{\text{BR} \cdot 20}{100} + \frac{\text{LO} \cdot 20}{100} + \frac{\text{PR} \cdot 30}{100} + \frac{\text{CD} \cdot 5}{100} + \frac{\text{TR} \cdot 5}{100} + \frac{\text{LR} \cdot 5}{100} + \frac{\text{MR} \cdot 15}{100} $$" %}
+$$
+\text{RiskScore} = \frac{\text{BR} \cdot 20}{100} + \frac{\text{LO} \cdot 20}{100} + \frac{\text{PR} \cdot 30}{100} + \frac{\text{CD} \cdot 5}{100} + \frac{\text{TR} \cdot 5}{100} + \frac{\text{LR} \cdot 5}{100} + \frac{\text{MR} \cdot 15}{100}
+$$
 
 Risikofaktorerne vægter på denne måde i modellen:
 
@@ -129,7 +131,9 @@ Risikofaktorerne vægter på denne måde i modellen:
 ### Det samlede Risk-Reward tal
 Når du kender din *Risk Score* og din interne rente (*Platform Return*), kan du udregne et samlet sammenligningstal for platformen:
 
-{% include math formula="$$ \text{RiskReturnNumber} = \frac{\text{RiskScore} \cdot \text{PlatformReturn}}{10} $$" %}
+$$
+\text{RiskReturnNumber} = \frac{\text{RiskScore} \cdot \text{PlatformReturn}}{10}
+$$
 
 Desto højere tallet er, desto bedre er forholdet mellem den risiko, du tager, og det afkast, du reelt opnår.
 
@@ -146,7 +150,7 @@ Her kan du se min historiske vurdering af Risk-Reward score, inden der begyndte 
 Her vil du lægge mærke til at Grupeer som siden har vist sig at være svindel scorede rimelig højt.
 
 * **Højt XIRR forblændede modellen:** Grupeer leverede på papiret en formidabel intern rente (XIRR på over 13–14 %). 
-* **Skævvridning i formlen:** Da det høje afkasttal blev ganget ind i min Risk-Reward-formel ({% include math formula="$\text{RiskScore} \cdot \text{XIRR}$" %}), trak afkastet platformens samlede score markant op – selvom jeg havde givet platformen en lavere sikkerhedsscore.
+* **Skævvridning i formlen:** Da det høje afkasttal blev ganget ind i min Risk-Reward-formel ($\text{RiskScore} \cdot \text{XIRR}$), trak afkastet platformens samlede score markant op – selvom jeg havde givet platformen en lavere sikkerhedsscore.
 * **Resultat:** Modellen fik mig til at fremstå forholdsvis tryg ved at øge min eksponering, fordi forholdet mellem risiko og afkast matematisk så "fornuftigt" ud. 
 
 Få måneder senere lukkede Grupeer ned under svindelanklager og fiktive byggeprojekter.
@@ -204,7 +208,7 @@ Herunder kan du læse mine dybdegående og ærlige anmeldelser af de platforme, 
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 </div>
@@ -217,7 +221,7 @@ Dyk ned i mit historiske arkiv over platform-anmeldelser, rebalanceringer og opd
 {% assign site_posts = site.posts | where: "category", "Crowdlending" | where: "tags", "crowdlending" | sort: "last_modified_at" | reverse %}
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
-    {% include archive-single.html type="grid" %}
+    {% include_cached archive-single.html post=post type="grid" %}
   {% endfor %}
 {% endif %}
 </div>
