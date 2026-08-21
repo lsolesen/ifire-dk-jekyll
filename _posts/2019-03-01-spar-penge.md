@@ -16,7 +16,7 @@ header:
 
 Jeg er startet min rejse mod finansiel uafhængighed ved at kigge på, hvordan jeg kan spare penge på noget, der ikke giver mig ekstra livskvalitet.
 
-Det andet punkt i [rigdomsformlen]({% link _posts/2019-01-15-rigdomsformlen.md %}) er at gennemgå dine udgifter og se, hvor du kan spare penge i hverdangen, så dine samlede udgifter kun er det nødvendige.
+Det andet punkt i [rigdomsformlen](/rigdomsformlen/) er at gennemgå dine udgifter og se, hvor du kan spare penge i hverdangen, så dine samlede udgifter kun er det nødvendige.
 
 Jeg har fundet rigtig mange besparelser ved at have fokus på, hvordan jeg kan spare penge med forskellige sparetips.
 
@@ -49,11 +49,11 @@ Personligt har jeg installeret [Spiir](/go/spiir/) på min telefon og kategorise
 
 ## Lav et budget og find pengeslugerne
 
-[Spiir](/go/spiir/) er et eksempel på en [god budget app]({% link _posts/2021-07-15-budget-app.md %}), som gennem _nudging_ lade dig opsætte nogle mål for det kommende år. Det kan du bruge som en form for budget.
+[Spiir](/go/spiir/) er et eksempel på en [god budget app](/budget-apps/), som gennem _nudging_ lade dig opsætte nogle mål for det kommende år. Det kan du bruge som en form for budget.
 
 Men det kan også være en god ide at få styr på dine bankkonti, hvor mange fx laver en konto til faste udgifter, som jo kan fordele sig skævt i løbet af året. Ved at regne de faste udgifter ud for et helt år, så kan du hver måned overføre et fast beløb til kontoen, så du ikke ender i en overraskelse i den måned fx dine forsikringer skal betales.
 
-Jeg har skrevet en [guide med hjælp til budget](/budget-for-begyndere/) finde et [gratis budgetskema]({% link _posts/2021-07-10-budget-skabeloner.md %}) for både en person eller for et par.
+Jeg har skrevet en [guide med hjælp til budget](/budget-for-begyndere/) finde et [gratis budgetskema](/gratis-budgetskema/) for både en person eller for et par.
 
 Når du får dine udgifter ind i Spiir, så får du også øjnene op for dit klatforbrug, som virkelig over et år kan slute mange penge. Du kan også bruge [www.raadtilpenge.dk](https://www.raadtilpenge.dk/penge-beregner/Pengeslugerne) til hurtigt lige at regne ud, hvad To-go kaffe, cigaretter eller forbrugsvaner, du selv definerer, koster dig årligt.
 

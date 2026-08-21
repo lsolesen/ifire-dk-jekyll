@@ -91,7 +91,7 @@ De fleste kigger udelukkende på det forventede afkast på dashboardet. Men i cr
 2. **Illikviditet (Dine penge er låst fast):** Dine midler er låst i lånenes løbetid. Hvis et ejendomsprojekt eller en virksomhed rager i betalingsstandsning, kan dine penge være fastlåst i årevis under en kurators behandling.
 3. **Falsk tryghed med "Buyback Guarantee":** En tilbagekøbsgaranti er kun så stærk som det firma eller den låneudbyder, der udsteder den. Hvis en hel låneudbyder knækker nakken, falder garantien til jorden.
 
-Du kan læse min ucensurerede liste over alle mine fejlslagne investeringer og svindelsager på **[Kirkegården: De platforme, jeg har tabt penge på](/crowdlending-opdateringer/)**.
+Du kan læse min ucensurerede liste over alle mine fejlslagne investeringer og svindelsager på **[Kirkegården: De platforme, jeg har tabt penge på](/crowdlending-opdatering/)**.
 
 ---
 

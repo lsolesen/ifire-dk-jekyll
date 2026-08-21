@@ -22,7 +22,7 @@ Et budget kan hjælpe med at [spare penge i hverdagen](/spar-penge/) Derfor har 
 
 Du skal lægge et budget for at få overblik over din privatøkonomi. Du finder ud af, hvad dine indtægter er, og hvad dine udgifter er. Men du får også overblik over, hvornår udgifterne skal betales. Du ved altså med andre ord om der er penge på kontoen.
 
-Budgetlægning er let. Det svære kan være at overholde budgettet. Vi har lavet flere forskellige [budgetskabeloner]({% link _posts/2021-07-10-budget-skabeloner.md %}), som kan hjælpe dig med at få overblik over budgettet uanset hvilken livssituation, du står i.
+Budgetlægning er let. Det svære kan være at overholde budgettet. Vi har lavet flere forskellige [budgetskabeloner](/gratis-budgetskema/), som kan hjælpe dig med at få overblik over budgettet uanset hvilken livssituation, du står i.
 
 Her kigger vi altså på **hvordan du kan lægge et budget?**
 
@@ -46,7 +46,7 @@ Første gang du lægger et budget, så tager budgetlægningen lidt tid. Her er e
 - Sæt **tid af i din kalender**. Du skal nok regne med, at det tager en times tid at lægge budgettet.
 - Du har formentlig brug for noget at skrive med og et papir til små notater.
 - Find dit NemID og hav din netbank og kontooversigt åben.
-- Find et **budgetskema**, som du vil tage udgangspunkt i. Du kan finde [gratis budgetskemaer her]({% link _posts/2021-07-10-budget-skabeloner.md %}). Du kan enten bruge værktøjer fra banken, eller du kan bruge et regneark til at lægge budget. Jeg foretrækker et regneark, som du selv kan sætte op som du har lyst.
+- Find et **budgetskema**, som du vil tage udgangspunkt i. Du kan finde [gratis budgetskemaer her](/gratis-budgetskema/). Du kan enten bruge værktøjer fra banken, eller du kan bruge et regneark til at lægge budget. Jeg foretrækker et regneark, som du selv kan sætte op som du har lyst.
 
 ### 2. Start med at finde din indtægt
 
@@ -60,7 +60,7 @@ Nu kan du skrive din indkomst ind i budgetskemaet.
 
 Dine faste udgifter er de regelmæssige udgifter, som betaler månedligt, en gang i kvartalet, halvårligt eller årligt.
 
-Under de faste udgifter er din husleje og dit forbrug af vand, varme, el og strøm. Du kan fx [spare en del på el ved at vælge det rigtige elselskab]({% link _posts/2020-05-17-elpris.md %}). Det er vigtigt at få alle de faste udgifter med, så kig din netbank og betalingsserviceaftaler grundigt igennem og skriv dem ind i et skema.
+Under de faste udgifter er din husleje og dit forbrug af vand, varme, el og strøm. Du kan fx [spare en del på el ved at vælge det rigtige elselskab](/billigt-elselskab-spar-penge-el/). Det er vigtigt at få alle de faste udgifter med, så kig din netbank og betalingsserviceaftaler grundigt igennem og skriv dem ind i et skema.
 
 Det er også en rigtig god ide at få skrevet de faste udgifter ind på de rigtige måneder. Fordelen ved et budget er nemlig, at du har overblik over, hvornår fx de årlige udgifter falder, så du ved, at der er dækning på kontoen.
 
@@ -88,7 +88,7 @@ Uanset hvordan du gør det, så skal du kategorisere de variable udgifter, regne
 
 Når du har overblik over, hvordan du plejer at bruge dine penge, så kan du i budgettet sætte rammer for, hvordan du vil bruge dine penge i fremtiden. Det gør et budget til en særlig stor hjælp, at du har det overblik.
 
-Budgettet er en måde at **prioritere dine forbrugsudgifter på**. Du skal naturligvis have mad og drikke, men en [madplan og et madbudget kan spare mange penge]({% link _posts/2021-04-01-madbudget-luksusfaelden.md %}). Skal du prioritere at betale for streaming eller [se gratis tv online på nettet]({% link _posts/2021-04-01-gratis-tv.md %}).
+Budgettet er en måde at **prioritere dine forbrugsudgifter på**. Du skal naturligvis have mad og drikke, men en [madplan og et madbudget kan spare mange penge](/madbudget-undgaa-luksusfaelden-med-madplan/). Skal du prioritere at betale for streaming eller [se gratis tv online på nettet](/gratis-tv-online-nettet/).
 
 Med andre ord, så har du nu muligheden for at finde ud af, hvad du vil prioritere mest, og hvad du vil prioritere mindre?
 
@@ -132,7 +132,7 @@ Dit har eftertjekket, at budgetrammen for dine variable udgifter er realistisk
 
 ## Hvordan overholder man sit budget?
 
-Nu står du med et splinternyt budget. Det er første trin - og måske det letteste. Nu skal du til at holde budgettet. De faste udgifter er det typisk ikke så meget at gøre ved. Du kan dog naturligvis justere på, om du [betaler kirkeskat]({% link _posts/2019-03-07-kirkeskat.md %}) eller hvad du kan [få et billigere mobilabonnement]({% link _posts/2019-03-07-mobilabonnement.md %}).
+Nu står du med et splinternyt budget. Det er første trin - og måske det letteste. Nu skal du til at holde budgettet. De faste udgifter er det typisk ikke så meget at gøre ved. Du kan dog naturligvis justere på, om du [betaler kirkeskat](/kirkeskat/) eller hvad du kan [få et billigere mobilabonnement](/mobilabonnement/).
 
 Men det er de **variable udgifter der kan være svære at styre i hverdagen**. Der er konstant fristelser rundt omkring i verden. Det er bl.a. en af grundene til, at jeg selv investerer mine penge, når jeg lige har fået løn.
 
@@ -444,10 +444,10 @@ Jeg bruger denne opstilling, fordi det er lettest ift. den måde banken også se
 
 ## Konklusion
 
-En af de store pengeslugere er din mad. Du kan lægge et [mad budget]({% link _posts/2021-04-01-madbudget-luksusfaelden.md %}), så du undgår at den post sluger hele dit rådighedsbeløb.
+En af de store pengeslugere er din mad. Du kan lægge et [mad budget](/madbudget-undgaa-luksusfaelden-med-madplan/), så du undgår at den post sluger hele dit rådighedsbeløb.
 
 ## Skabeloner til budget
 
 Jeg har lavet række budgetskabeloner, som du kan tage udgangspunkt i. Du kan finde et gratis budgetskema som studerende, flytte hjemmefra, på SU, familie, baby eller hus budget.
 
-Du kan finde [gratis budgetskemaer her]({% link _posts/2021-07-10-budget-skabeloner.md %}).
+Du kan finde [gratis budgetskemaer her](/gratis-budgetskema/).

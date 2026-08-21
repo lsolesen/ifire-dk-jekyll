@@ -49,7 +49,7 @@ Disse værktøjer er bygget direkte ind på hjemmesiden, så du lynhurtigt kan s
     Se effekten af, hvad der sker med din formue over tid, når snebolden for alvor ruller. Det er det absolut mest motiverende værktøj til at fastholde investeringsdisciplinen.
 *   **[FIRE-beregneren (Økonomisk uafhængighed)](/okonomisk-uafhaengighed-beregner/)**
     Indtast dine nuværende indtægter og udgifter, og lad maskinen udregne, præcis hvor mange år du har tilbage i hamsterhjulet baseret på den historiske 4 %-regel.
-*   **[Den reelle timeløn-beregner](/reelle-timeloen/)**
+*   **[Den reelle timeløn-beregner](/beregn-timeloen/)**
     Hvad tjener du egentlig i timen? Dette værktøj modregner din transporttid, dine transportudgifter og dine forberedelsestimer, så du kender den rå sandhed om dit arbejde.
 *   **[Inflation-beregneren](/inflation-beregner/)**
     Se sort på hvidt, hvor hurtigt dine kontanter mister købekraft, hvis de bare står og samler støv på en kedelig bankkonto i stedet for at arbejde på markedet.
@@ -60,7 +60,7 @@ Disse værktøjer er bygget direkte ind på hjemmesiden, så du lynhurtigt kan s
 
 Hvis du vil have helt styr på dit budget og din opsparingsrate, kan du downloade de skabeloner, jeg selv har brugt i mit regnearks-setup:
 
-*   **[Gratis budgetskema til Excel og Google Sheets](/budget-skabeloner/)**
+*   **[Gratis budgetskema til Excel og Google Sheets](/gratis-budgetskema/)**
     En gennemtestet budgetskabelon (både til enlige og par), som hjælper dig med at strukturere dine konti, finde dine "pengeslugere" og udregne din opsparingsrate.
 
 ---

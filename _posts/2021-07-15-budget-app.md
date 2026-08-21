@@ -87,14 +87,14 @@ Nogle gange er det klassiske regneark ganske enkelt det bedste værktøj. Ved at
 * Du kan nemt beregne din [månedlige opsparingsrate](/opsparingsrate-spiir/).
 * Det er helt gratis og forældes aldrig.
 
-👉 **Vil du nemt i gang?** Du kan hente mine [gratis budgetskabeloner i Excel og Google Sheets](/budget-skabeloner/), som du direkte kan kopiere over på din egen telefon.
+👉 **Vil du nemt i gang?** Du kan hente mine [gratis budgetskabeloner i Excel og Google Sheets](/gratis-budgetskema/), som du direkte kan kopiere over på din egen telefon.
 
 ---
 
 ## Konklusion: Hvilken budget app skal du vælge?
 
 1. **Den nemmeste vej:** Start med at udforske kategoriseringsværktøjerne i din nuværende mobilbank eller hos [Lunar](/go/lunar/){: rel="sponsored nofollow noopener" }.
-2. **Den mest præcise vej:** Kombinér din mobilbank med et tæt opfulgt [Excel/Google Sheets-budget](/budget-skabeloner/).
+2. **Den mest præcise vej:** Kombinér din mobilbank med et tæt opfulgt [Excel/Google Sheets-budget](/gratis-budgetskema/).
 3. **Den mest hardcore vej:** Vælg en metodesætning som YNAB, hvis du vil vende din økonomi 180 grader.
 
 Når du har styr på dit budget, kan du bruge det frigjorte overskud til at automatisere dine investeringer via f.eks. [Nordnet Månedsopsparing](/nordnet-maanedsopsparing-problemer/).

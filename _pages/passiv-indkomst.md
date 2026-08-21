@@ -97,7 +97,7 @@ Jeg gik massivt ind i projektet og spredte min kapital ud over mere end 20 forsk
 * **Tidsforbrug:** Lavt efter opsætning, men kræver løbende overvågning af platformenes stabilitet.
 * **Vurdering:** ⭐️⭐️ (2/5) – Kan give høje renter, men risikoen for permanent tab af kapital er stor.
 
-👉 **Læs mere:** Se hele min beretning og [min "kirkegård" over tabte crowdlending-penge](/crowdlending-opdateringer/) eller læs om [dansk crowdlending](/dansk-crowdlending/).
+👉 **Læs mere:** Se hele min beretning og [min "kirkegård" over tabte crowdlending-penge](/crowdlending-opdatering/) eller læs om [dansk crowdlending](/dansk-crowdlending/).
 
 ---
 

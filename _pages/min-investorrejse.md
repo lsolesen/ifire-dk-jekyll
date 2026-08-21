@@ -91,7 +91,7 @@ Siden da har min crowdlending-strategi undergået et gennemgribende kursskifte:
 * **Kvalitet over kvantitet:** Jeg har lukket over 80 % af mine platforme og konsolideret midlerne på få, EU-regulerede aktører med skarp gennemsigtighed (f.eks. Mintos, PeerBerry og skandinaviske Kameo).
 * **Nattesøvn over merafkast:** Crowdlending fylder i dag en markant mindre og mere kontrolleret "satellit-andel" i min samlede formuestrategi, hvor brede aktie-ETF'er fortsat udgør motoren.
 
-👉 **Læs mere:** Du kan se hele den tekniske beregningsmodel i min [master-guide til crowdlending](/crowdlending/) eller læse om alle mine tabstal på [Crowdlending-kirkegården](/crowdlending-opdateringer/).
+👉 **Læs mere:** Du kan se hele den tekniske beregningsmodel i min [master-guide til crowdlending](/crowdlending/) eller læse om alle mine tabstal på [Crowdlending-kirkegården](/crowdlending-opdatering/).
 
 ## Kapitel 3: Jagten på "Asset Allocation" og faldende knive
 

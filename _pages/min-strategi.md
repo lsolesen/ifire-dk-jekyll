@@ -146,4 +146,4 @@ Det er derfor, denne side er et levende dokument.
 
 Der er gået mange tanker forud for denne strategi.
 
-👉 **[Læs hele min FIRE-rejse](/min-firerejse/)**
+👉 **[Læs hele min FIRE-rejse](/min-firehistorie/)**

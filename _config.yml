@@ -29,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "ifire"
 staticman:
@@ -55,7 +55,7 @@ after_footer_scripts:
 bitcoin_address: "1BHeMpS8FUCZ6Pc39pk8Mim8jEiFdw6vz7"
 
 
-# reCaptcha
+# reCaptchac
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
 # reCaptcha:
 #  enabled: true
@@ -315,7 +315,7 @@ defaults:
       author_profile: true
       read_time: true
       show_date: true
-      comments: true
+      comments: false
       share: true
       related: true
       toc: true
@@ -331,7 +331,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 # _platforms
@@ -342,7 +342,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: true
       related: true
       toc: true

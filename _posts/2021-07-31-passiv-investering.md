@@ -105,7 +105,7 @@ Vi antager i eksemplet, at aktiemarkedet i gennemsnit giver et afkast på 7% om 
 
 Hvis vi vælger en løsning, hvor der er årlige omkostninger, så vil vores afkast naturligvis blive laver. [Norm Investment](/platform/nord/) er en af de robotløsninger med de klart laveste årlige omkostninger. Lige nu er de på 0,75%. Vi skal altså lave en udregning, hvor vi i stedet for 7% om året får en rente på 6,25% om året. Det giver os et beløb på kontoen til sidst med 648.917 kroner.
 
-Hvis du vælger selv at købe ind, fx gennem Nordnets kurtagefrie månedsopsparing, så kan du gøre det noget billigere. Hvis du vælger [passive danske indeksfonde og investeringsforeninger]({% link _posts/2021-04-02-passive-danske-investeringsforeninger.md %}), så kan du finde årlige omkostninger på omkring 0,5%. Så ville du altså stå med 699.180 ved slutningen af de 30 år.
+Hvis du vælger selv at købe ind, fx gennem Nordnets kurtagefrie månedsopsparing, så kan du gøre det noget billigere. Hvis du vælger [passive danske indeksfonde og investeringsforeninger](/danske-investeringsforeninger-med-passive-indeksfonde/), så kan du finde årlige omkostninger på omkring 0,5%. Så ville du altså stå med 699.180 ved slutningen af de 30 år.
 
 Du kan også gå efter udenlandske ETF'er. Her kan du relativt enkelt få årlige omkostninger på under 0,2% årligt. Du står altså med 764.645 kroner på opsparingskontoen til sidst.
 

@@ -19,9 +19,9 @@ last_modified_at: 2021-07-03T20:22:02+02:00
 - flytte hjemmefra budget
 
 
-Et budget kan hjælpe med at [spare mange penge hver dag]({% link _posts/2019-03-01-spar-penge.md %})
+Et budget kan hjælpe med at [spare mange penge hver dag](/spar-penge/)
 
-Jeg har skrevet en [guide til [hvordan laver man et budget]({% link _posts/2021-07-10-budget-for-begyndere.md %}), som det kan betale sig at læse først.
+Jeg har skrevet en [guide til [hvordan laver man et budget](/budget-for-begyndere/), som det kan betale sig at læse først.
 
 ***
 
@@ -140,7 +140,7 @@ Har du spørgsmål til budget eller andet, så skal du være velkommen til at sm
 
 
 
-Hver dag bruger de fleste ret mange penge på mad. Du kan bruge [madplaner til at få styr på madbudgettet]({% link _posts/2021-04-01-madbudget-luksusfaelden.md %}), så kan du få endnu flere penge til rådighed.
+Hver dag bruger de fleste ret mange penge på mad. Du kan bruge [madplaner til at få styr på madbudgettet](/madbudget-undgaa-luksusfaelden-med-madplan/), så kan du få endnu flere penge til rådighed.
 
 ## Skabeloner til budget
 

@@ -133,7 +133,7 @@ Mit mål er at være investeret så længe som muligt.
 Læs mere:
 
 - [Hvornår skal man investere?](/hvornaar-ind-i-markedet/)
-- [Lump Sum vs. Dollar Cost Average](/lump-sum-vs-dollar-cost-average/)
+- [Lump Sum vs. Dollar Cost Average](/hvornaar-ind-i-markedet/)
 - [Hvilken investeringsfase er du i?](/hvilken-investeringsfase/)
 
 ---

@@ -114,16 +114,11 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 <details class="faq" markdown="1">
   <summary>🔒 Kapitalpension - Nordnet</summary>
 
-  * **Primære aktiver:** Nordnet Globale Aktier Index (88%) & Nordnet Emerging Markets Index Aktier (12%)
-  * **Indeks:** MSCI World + Emerging Markets (ingen small cap)
-  * **Beskatning:** PAL-skat (15,3%)
-  * **ÅOP:** 0,32% (vægtet)
-  
-  Der må ikke længere indbetales på kapitalpensionen. Det er en gammel pensionsordning.
+  Der må ikke længere indbetales på kapitalpensionen. Det er en gammel pensionsordning. Jeg har valgt at fastholde den for ikke at skulle betale gebyr for at overflytte den.
 
   Pensionsoparinger er lagerbeskattede, men kun med 15,3%. Jeg køber i øjeblikket Nordnets egne indeksfonde. Normalt er det kapitalindkomstbeskattede, men på aldersopsparingen er de lette at køre. Der er ingen kurtage, og de årlige omkostninger er rimelige. Når beløbene på aldersopsparingen bliver højere, så skifter jeg formentlig til udenlandske ETF'er med lavere omkostninger.
 
-  **Bemærk**: Jeg overvejer at få konverteret kapitalpensionen til en aldersopsparing. Det koster ganske vist 40% nu, men et gør administrationen meget lettere - og jeg skal alligevel betale 40% senere. Det betyder, at jeg kan optimere investeringen på min aldersopsparing bedst muligt.
+  {% include investeringskort.html depot="pension" fonde="WEBN:100" %}
 
 </details>
 

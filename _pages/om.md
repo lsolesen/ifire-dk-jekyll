@@ -36,7 +36,7 @@ Læs mere:
 ## 📈 Følg med i min strategi og portefølje
 Jeg tror på fuld åbenhed. Derfor deler jeg præcis, hvordan min egen portefølje er skruet sammen, hvilke platforme jeg bruger, og hvordan fordelingen er mellem aktier, kontanter og alternative investeringer.
 
-* **[Min privatøkonomi](/min-okonomi/):** Se mit maskinrum med budget og kontostruktur.
+* **[Min privatøkonomi](/min-oekonomi/):** Se mit maskinrum med budget og kontostruktur.
 * **[Min investeringsstrategi](/min-investeringsstrategi/):** Principperne, jeg investerer ud fra.
 * **[Mine konkrete investeringer](/mine-investeringer/):** Fuld gennemsigtighed i min portefølje.
 
@@ -50,7 +50,7 @@ Hvis du elsker at nørde historik og vil læse mine gamle opdateringer – inklu
 
 * **[Min samlede investorrejse](/min-investorrejse/):** Tidslinjen over min portefølje, milepæle og overordnede strategiskift gennem årene.
 * **[Mine krypto-opdateringer](/kryptovaluta-opdateringer/):** Læs alt om mit krypto-eksperiment, dyrekøbte kiks, konkursboer og hardware wallets.
-* **[Mine crowdlending-erfaringer](/crowdlending-opdateringer/):** Historikken over mit eventyr med udlån, Mintos og jagten på høje renter.
+* **[Mine crowdlending-erfaringer](/crowdlending-opdatering/):** Historikken over mit eventyr med udlån, Mintos og jagten på høje renter.
 * **[Projekter med passiv indkomst](/passiv-indkomst/):** Mine eksperimenter med at skabe indtægter ved siden af jobbet – og hvad der rent faktisk virkede.
 
 [Gå til Blogarkivet og læs alle opdateringer](/blog/){: .btn .btn--info }

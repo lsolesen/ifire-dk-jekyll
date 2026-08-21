@@ -93,7 +93,7 @@ Du behøver ikke ti forskellige konti for at komme i gang. For langt de fleste i
 ## 🧮 Værktøjer til din investeringsrejse
 
 * 🧮 **[Opsparingsberegner](/opsparingsberegner/):** Udregn hvor meget et fast månedligt beløb vokser til over 10, 20 eller 30 år.
-* 🧮 **[FIRE & Økonomisk Frihed Beregner]({% link _posts/2021-07-10-okonomisk-uafhaengighed-beregner.md %}):** Se hvor stor en investeret formue du skal opbygge for at nå økonomisk uafhængighed.
+* 🧮 **[FIRE & Økonomisk Frihed Beregner](/okonomisk-uafhaengighed-beregner/):** Se hvor stor en investeret formue du skal opbygge for at nå økonomisk uafhængighed.
 * 📱 **[Find den bedste Aktie App](/aktie-apps/):** Sammenligning af handels-apps og værktøjer som Portfolio Performance og Google Sheets.
 
 ---

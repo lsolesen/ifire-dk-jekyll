@@ -62,4 +62,4 @@ Jeg arbejder i øjeblikket på de enkelte budget skemaer. Hvis du har set denne 
 
 ## Konklusion
 
-En af de poster som kan være lidt svære at give et præcist bud på er det månedlige forbrug på mad. Jeg har skrevet lidt om, [hvor mange penge dit madbudget kan være]({% link _posts/2021-04-01-madbudget-luksusfaelden.md %}).
+En af de poster som kan være lidt svære at give et præcist bud på er det månedlige forbrug på mad. Jeg har skrevet lidt om, [hvor mange penge dit madbudget kan være](/madbudget-undgaa-luksusfaelden-med-madplan/).
