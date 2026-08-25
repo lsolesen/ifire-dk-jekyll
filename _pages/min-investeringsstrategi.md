@@ -1,10 +1,13 @@
 ---
+layout: single
 title: "Min investeringsstrategi: Enkel, passiv og skatteoptimeret"
 permalink: /min-investeringsstrategi/
 excerpt: "Mit langsigtede kompas på aktiemarkedet. Læs om mine faste principper for billige, passive indeksfonde, min risikoprofil, og hvorfor jeg aldrig forsøger at time markedet."
 header:
   teaser: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
 last_modified_at: 2026-07-09T11:00:00+02:00
+toc: true
+breadcrumbs: true
 category:
   - Investering
   - Opdateringer
