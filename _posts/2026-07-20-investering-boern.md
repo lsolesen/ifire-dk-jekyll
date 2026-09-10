@@ -118,10 +118,10 @@ Den klassiske børneopsparing i din egen bank er stadig det ubestridte udgangspu
 * **Regler i 2026:** Du må maksimalt indbetale **6.000 kr. om året** og **72.000 kr. i alt**. Pengene kan bindes, til barnet fylder 18 eller 21 år. 
 * **Strategi:** Jeg makser altid børneopsparingen ud først. Hvis du vil have 100% styr på alle de juridiske detaljer, bindingsperioder, og hvordan du flytter kontoen mellem banker, kan du læse min dybdegående [guide til reglerne for børneopsparing her](/borneopsparing/). Nordnet har desværre ikke denne kontotype.
 
-I min bank er der ekstra depotgebyr på udenlandske værdipapirer, så jeg har valgt en [dansk udbyttebetalende fond](/danske-investeringsforeninger-fire-realisation/) med lave årlige omkostninger. Ulempen er at jeg har et udbytte hvert år, der skal geninvesteres.
+I min bank er der ekstra depotgebyr på udenlandske værdipapirer, så jeg har valgt en [dansk udbyttebetalende fond](/danske-investeringsforeninger-fire-realisation/) med lave årlige omkostninger. Heldigvis kunne jeg vælge Storebrands fonde, som er akkumulerende.
 { .notice--info }
 
-{% include investeringskort.html depot="borneopsparing" fonde="SPIIMA:100" %}
+{% include investeringskort.html depot="borneopsparing" fonde="STIIAM:100" %}
 
 ### 📄 Depot 2: Det frie depot – Udnyt barnets frikort til 0% i skat (Kapitalindkomst)
 

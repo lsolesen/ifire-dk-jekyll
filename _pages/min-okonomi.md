@@ -44,7 +44,7 @@ Dette er kernen i min økonomi. Jeg opdaterer disse grafer løbende for at holde
 </details>
 
 <details class="faq" markdown="1">
-  <summary>💰 Udvikling i Nettoformue</summary>
+  <summary>💰 Udvikling i nettoformue</summary>
   Min samlede nettoformue (aktiver minus gæld) over tid. Dette er den ultimative målestok for, om min økonomi bevæger sig i den rigtige retning.
   <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNE9pJ_FFX3ghl7qydL3qYR3XcfnFAkvl0XZrckePmfbzwniovS73oMZ_lBgu6rn9BKkk3wLQjoCI-/pubchart?oid=264712006&amp;format=image"></iframe>
 </details>
@@ -75,17 +75,17 @@ Dette er kernen i min økonomi. Jeg opdaterer disse grafer løbende for at holde
 
 ## ⚙️ Maskinrummet: Sådan er mine konti sat op
 
-For at understøtte min strategi kræver det, at penge-flowet er sat i system. Jeg bruger automatiske overførsler den dag, lønnen går ind, så min opsparingsrate udleves i praksis – *jeg betaler mig selv først.*
+For at understøtte min strategi er penge-flowet sat i system.
 
 Her er min konkrete kontostruktur, bygget op omkring de fire trin i Rigdomsformlen:
 
-### ✂️ Trin 1: Forbrug mindre (Dagligdag & Budget)
-Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
+### ✂️ Trin 1: Forbrug mindre (dagligdag & budget)
+Her styrer jeg de penge, der går til det faste forbrug og hverdagen. Jeg bruger automatiske overførsler den dag, lønnen går ind, så min opsparingsrate udleves i praksis – *jeg betaler mig selv først.*
 
 <details class="faq" markdown="1">
   <summary>📥 Lønkonto - AL Sydbank</summary>
 
-  Her lander min løn, og det er herfra jeg har opsat faste overførsler:
+  Her lander min løn, og det er herfra jeg har opsat faste overførsler til mine andre konti:
   
   - Fælleskontoen til fælles udgifter
   - Investeringskontoen i Nordnet, hvor der er sat en månedsopsparing op.
@@ -102,15 +102,15 @@ Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
 <details class="faq" markdown="1">
   <summary>💳 Bankkort: Norwegian Visa Kreditkort</summary>
 
-  Norweigian Visakortet har indbygget rejseforsikring, hvilket betyder, at jeg kan spare rejseforsikringen i mine øvrige forsikringer. Der er heller ingen gebyrer, og så er det et kreditkort, som jeg kan bruge til udlæg på mit arbejde eller store regninger. Jeg er meget disciplineret med at betale regningen for kreditkortet, så der ikke løber renter på. Det har jeg sat op med betalingsservice. Kortet giver også cash points.
+  Norweigian Visakortet har indbygget rejseforsikring, hvilket betyder, at jeg kan spare rejseforsikringen i mine øvrige forsikringer. Der er heller ingen gebyrer, og så er det et kreditkort, som jeg kan bruge til udlæg på mit arbejde eller store regninger. Jeg er meget disciplineret med at betale regningen for kreditkortet, så der ikke løber renter på. Det har jeg sat op med betalingsservice. Kortet giver også cash points. Samtidig bruger jeg Norwegian til min nødopsparing.
 
 </details>
 
 <details class="faq" markdown="1">
   <summary>💳 Bankkort: Revolut Debetkort</summary>
 
-  Revolut giver lidt billigere vekselgebyrer i den gratis udgave. Det har jeg ofte udnyttet på rejser.
-</deetails>
+  Revolut giver lidt billigere vekselgebyrer mellem valutaer den gratis udgave og hævning i automater. Det har jeg ofte udnyttet på rejser.
+</details>
 
 </details class="faq" markdown="1">
   <summary>📥 Paypal</summary>
@@ -119,25 +119,32 @@ Her styrer jeg de penge, der går til det faste forbrug og hverdagen.
 
 </details>
 
-
 ### 🛡️ Trin 2: Skab et økonomisk fundament
-Min kontante buffer skal sikre, at jeg aldrig bliver tvunget til at sælge aktier med tab. Min strategi dikterer en buffer på ca. 3 måneders faste udgifter, hvilket i øjeblikket er 50.000 kroner.
 
-<details class="question" markdown="1">
-  <summary>🏦 Opsparingskonto Norwegian Plus - 1,45 % renter</summary>
+Min kontante buffer skal sikre, at jeg aldrig bliver tvunget til at sælge aktier med tab. I min strategi har jeg en buffer på ca. 3 måneders faste udgifter, hvilket i øjeblikket er omkring 36.000 kroner.
+
+<details class="faq" markdown="1">
+  <summary>🏦 Opsparingskonto Norwegian Plus - 20.000 DKK - 1,45 % renter</summary>
 
   Min primære nødopsparing. Renten er bedre her, men det tager et par dage at få pengene hen på min egen konto. At pengene står hos en anden udbyder end din daglige bank skaber en psykologisk barriere mod at bruge dem.
 
 </details>
 
-<details class="question" markdown="1">
-  <summary>🛡️ Nemopsparing - AL Sydbank (0,15 % renter)</summary>
+<details class="faq" markdown="1">
+  <summary>🛡️ Nemopsparing - AL Sydbank - 10.000 DKK - (0,15 % renter)</summary>
 
   Ultrahurtige, likvide buffer til akutte hverdagsting. Penge, der kan flyttes i mobilbanken på få sekunder, hvis der opstår en uventet udgift.
 
 </details>
 
-<details class="question" markdown="1">
+<details class="faq" markdown="1">
+  <summary>🛡️ Opsparingskonto - Nordnet - 0 DKK - (0,25 % renter)</summary>
+
+  En hurtig likvid buffer, som holdes adskilt fra den egentlige Nemopsparing. Lidt højere rente og kan bruges hurtigt hos Nordnet, hvis nødvendigt.
+
+</details>
+
+<details class="faq" markdown="1">
   <summary>🛡️ Efterskoleopsparing - AL Sydbank (0,15 % renter)</summary>
 
   Øremærkede penge til efterskoleudgifter adskilt fra det reelle sikkerhedsnet, så nødopsparingen ikke bliver spist af planlagte udgifter.
@@ -145,10 +152,10 @@ Min kontante buffer skal sikre, at jeg aldrig bliver tvunget til at sælge aktie
 
 
 ### 📈 Trin 3: Investér klogere
-Når forbrug, budget og nødopsparing er fyldt op, sendes alt overskud direkte videre til mine investeringsdepoter helt automatisk. Læs [Min Investeringsstrategi](/min-investeringsstrategi/).
 
-👉 **[Se præcis hvilke platforme, fonde og aktier jeg investerer i under Min Portefølje](/mine-investeringer/)**
+Når forbrug, budget og nødopsparing er fyldt op, sendes alt overskud direkte videre til mine investeringsdepoter helt automatisk. Se præcis hvilke platforme, fonde og aktier jeg investerer i under:
 
+👉 [Min Investeringsstrategi](/min-investeringsstrategi/) - **[Min Portefølje](/mine-investeringer/)**
 
 ### 🚀 Trin 4: Tjen mere
 Når fundamentet (Trin 1 og 2) og investeringsmotoren (Trin 3) kører på automatpilot, handler det om at øge indtægten. 
@@ -173,21 +180,3 @@ Vil du læse mere om de specifikke værktøjer og principper, jeg bruger i min h
 * 📊 **[Sådan udregner jeg min opsparingsrate](/opsparingsrate-spiir/)**
 * 🛡️ **[Min kriseplan og nødbuffer](/kriseplan/)**
 * 👨‍👩‍👧 **[Børn og økonomi: Hvad mine piger skal lære om penge](/boern-og-oekonomi/)**
-
----
-
-## Mere inspiration om privatøkonomi
-
-Vil du læse mere om de specifikke valg og værktøjer, jeg bruger i min daglige økonomi? Her har jeg samlet de vigtigste indlæg:
-
-<div class="feature__wrapper">
-
-{% assign site_posts = site.posts | where: "category", "Privatøkonomi" | sort: "last_modified_at" | reverse %}
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% include_cached archive-single.html post=post type="grid" %}
-  {% endfor %}
-{% endif %}
-
-</div>

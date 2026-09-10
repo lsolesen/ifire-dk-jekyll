@@ -166,7 +166,7 @@ Alle mine pensionsordninger kører i deres egne lukkede skattemiljøer under reg
 
 ## 🐷 Opsparing
 
-Jeg har en nødopsparing for at undgå at blive nødt til at sælge aktier, hvis der kommer udforudsete udgifter. Strategisk har jeg til at dække 3 måneders faste udgifter, hvilket vil sige cirka 50.000 kroner.
+Jeg har en nødopsparing for at undgå at blive nødt til at sælge aktier, hvis der kommer udforudsete udgifter. I [min strategi](/min-strategi/) skal nødopsparingen dække 3 måneders faste udgifter.
 
 <details class="faq" markdown="1">
   <summary>🛡️ Nødopsparing - AL Sydbank - 0,15% rente</summary>
