@@ -1,99 +1,107 @@
 ---
 title: "Danske investeringsforeninger til FIRE: Guide til realisationsbeskatning"
-description: "Vil du undgå den årlige lagerskat? Læs hvordan du opnår maksimal skatteudskydelse og renters rente med danske realisationsbeskattede fonde."
+seo_title: "Bedste danske indeksfonde (2026) • Realisationsbeskatning »"
+description: "Hvilke danske realisationsbeskattede fonde er bedst i 2026? Sammenlign Storebrand (STIIAM), Sparindex (SPIIMA, SPVIGAKL) og Danske Invest (DKIGI)."
 permalink: /danske-investeringsforeninger-fire-realisation/
 categories: [Investering, FIRE]
-tags: [Investeringsforening, Skat, Realisationsbeskatning, Renters rente]
+tags: [Investering, Investeringsforening, Skat, Realisationsbeskatning, Renters rente]
+toc: true
+faq:
+  - question: "Hvilke danske realisationsbeskattede indeksfonde er bedst i 2026?"
+    answer: "De fire stærkeste globale indeksfonde til frie midler i 2026 er Storebrand Indeks - Alle Markeder A5 (STIIAM, 0,30 % ÅOP), Sparindex INDEX MSCI ACWI (SPIIMA, 0,35 % ÅOP), Sparindex INDEX Globale Aktier KL (SPVIGAKL, 0,50 % ÅOP inkl. Small Cap) og Danske Invest Global Indeks (DKIGI, 0,40 % ÅOP uden Emerging Markets)."
+  - question: "Hvorfor vælge danske investeringsforeninger frem for udenlandske ETF'er?"
+    answer: "På et almindeligt frit aktiedepot beskattes udbyttebetalende danske aktiefonde efter realisationsprincippet. Du betaler altså først skat af kursgevinster, den dag du sælger – i modsætning til udenlandske ETF'er, der lagerbeskattes hvert år."
+  - question: "Hvordan beskattes Storebrand Indeks - Alle Markeder A5 (STIIAM)?"
+    answer: "STIIAM er akkumulerende, men beskattes som aktieindkomst efter realisationsprincippet for selve kursstigningen, fordi fonden årligt opgør en skattemæssig minimumsindkomst. Det betyder, at du kun betaler udbytteskat af en mindre teknisk udlodning hvert år, mens resten af afkastet udskydes til salg."
+  - question: "Skal jeg vælge danske indeksfonde på min Aktiesparekonto?"
+    answer: "Nej, som udgangspunkt ikke. På en Aktiesparekonto er alt afkast tvunget over i lagerbeskatning (17 %), så her mister du fordelen ved realisationsbeskatning og bør i stedet vælge de markant billigere udenlandske ETF'er på Skats positivliste."
 ---
 
-> **Hurtig guide: Er du landet det rette sted?**
-> * Hvis du vil have markedets absolut laveste omkostninger (ÅOP) og er okay med at betale skat hvert år, så læs om [lagerbeskattede udenlandske ETF'er på positivlisten](/bedste-etfer-fire-lagerbeskatning/).
-> * Hvis du leder efter værdipapirer til det lidt oversete skatte-hack til børns frikort eller modregning i renteudgifter, så skal du bruge [kapitalbeskattede fonde](/guide-kapitalbeskattede-fonde-skat/).
+De bedste **danske realisationsbeskattede indeksfonde i 2026** til dine frie midler er **Storebrand Indeks - Alle Markeder A5 (`STIIAM`)** med en ÅOP på 0,30 %, **Sparindex INDEX MSCI ACWI (`SPIIMA`)** til 0,35 % ÅOP og **Sparindex INDEX Globale Aktier KL (`SPVIGAKL`)** til 0,50 % ÅOP, som som den eneste også dækker Small Cap.
 
-Hvis du følger den klassiske FIRE-filosofi fra *The Simple Path to Wealth* af J. L. Collins, handler investering om at gøre det så simpelt som muligt: Køb markedet, behold det i årtier, og lad dine penge arbejde i fred. 
+Når du investerer for frie midler på et almindeligt aktiedepot, giver realisationsbeskatning dig en afgørende fordel: Du udskyder skatten på dine kursgevinster, indtil du sælger, så hele formuen bliver stående og trækker [renters rente](/renters-rente/).
 
-I en dansk kontekst betyder det ofte, at man kigger væk fra de udenlandske ETF'er og i stedet retter blikket mod de traditionelle, danske investeringsforeninger.
+I denne guide sammenligner jeg de fire stærkeste globale kandidater på det danske marked – og viser, hvornår skatteudskydelsen slår de billigere udenlandske ETF'er.
 
-Ligesom i det udenlandske setup er målet ikke at gætte, hvilke enkeltaktier der vinder i morgen. Vi ved fra statistikken, at enkeltaktier historisk set har en markant tendens til at underperforme det brede markedsindeks, og at en forsvindende lille andel af top-aktierne trækker hele markedsafkastet. Hvorfor løbe den risiko?
+> **Søger du i stedet fonde til Aktiesparekontoen eller børns frikort?**
+> * Til **Aktiesparekontoen** og **pension** er [udenlandske ETF'er på Skats positivliste](/bedste-etf-skats-positivliste/) billigst, fordi alt alligevel lagerbeskattes.
+> * Til **børns frikort** eller modregning i nettokapitaludgifter skal du bruge [kapitalbeskattede fonde](/guide-kapitalbeskattede-fonde-skat/).
 
-Du kan læse mere om hvorfor jeg foretrækker at følge verdensmarkedet i min artikel om [verdensmarkedet og den brede portefølje](/verdensindekset/). Derfor skal vores danske fonde ramme verdensmarkedet ultra-bredt.
+---
+
+## Sammenligning: De 4 bedste danske fonde til frie midler (2026)
+
+Hvis du følger den klassiske FIRE-filosofi fra *The Simple Path to Wealth* af J. L. Collins, handler investering om at gøre det så enkelt som muligt: Køb hele markedet, behold det i årtier, og lad dine penge arbejde i fred. Vi ved fra historiske data, at enkeltaktier har en markant tendens til at underperforme det brede indeks – derfor satser jeg på ultra-bred eksponering mod [verdensindekset](/verdensindekset/).
+
+Her er overblikket over de fire stærkeste globale indeksfonde på det danske realisationsmarked i 2026:
+
+| Fond (Ticker) | ÅOP | Indeks / Dækning | Small Cap? | Udbytte / Skatteforhold |
+| :--- | :--- | :--- | :--- | :--- |
+| **Storebrand Indeks - Alle Markeder A5 (`STIIAM`)** | **0,30 %** | MSCI ACWI (i-lande + EM) | Nej | Akkumulerende (minimalt teknisk udbytte) |
+| **Sparindex INDEX MSCI ACWI (`SPIIMA`)** | 0,35 % | MSCI ACWI (i-lande + EM) | Nej | Udbyttebetalende (realisation) |
+| **Danske Invest Global Indeks (`DKIGI`)** | 0,40 % | MSCI World (kun i-lande) | Nej | Udbyttebetalende (højt årligt udbytte) |
+| **Sparindex INDEX Globale Aktier KL (`SPVIGAKL`)** | 0,50 % | Morningstar Global All Cap | **Ja** | Udbyttebetalende (realisation) |
+
+{% include fond-sammenlign.html fonde="SPIIMA, SPVIGAKL, DKIGI" %}
+
+Når du vælger mellem de danske fonde, skal du især være opmærksom på tre ting: om fonden dækker **udviklingslandene (Emerging Markets)**, om den inkluderer **mindre virksomheder (Small Cap)**, og hvor meget den tvinger ud i **årligt udbytte**.
 
 ---
 
 ## Den ultimative fordel: Skatteudskydelse og renters rente
 
-Hvor udenlandske ETF'er tvinger dig til at betale skat hvert eneste år (lagerbeskatning), fungerer de fleste aktiebaserede, udbyttebetalende danske fonde efter **realisationsprincippet**. Det betyder, at du først betaler skat af dine kursgevinster den dag, du rent faktisk trykker på sælg-knappen. 
+Hvor udenlandske ETF'er tvinger dig til at betale skat af urealiserede gevinster hvert eneste år (lagerbeskatning), fungerer udbyttebetalende danske aktiefonde efter **realisationsprincippet**. Du betaler altså kun skat af det årlige udbytte undervejs, mens selve kursstigningen først beskattes den dag, du trykker på sælg-knappen.
 
-Dette giver nogle massive fordele, når målet er tidlig pension:
+Det giver to massive fordele på vejen mod økonomisk frihed:
 
-* **Renters rente i fuld effekt:** De penge, du ellers skulle have svaret i skat hvert år i februar, bliver stående i fonden. De trækker endnu mere afkast til dig det efterfølgende år, hvilket skaber en sneboldeffekt over en 10-15 årig periode.
-* **Kontrol over skatteprocenten:** Når du rammer din FIRE-tilværelse og ikke længere har en fast lønindkomst, kan du løbende sælge ud af din portefølje, så du præcis holder dig under progressionsgrænsen for aktieindkomst. På den måde nøjes du med at betale 27 % i skat af dine gevinster i stedet for at ramme de tunge 42 %.
+* **Renters rente i fuld effekt:** De penge, du ellers skulle have betalt i skat hvert år, bliver stående i fonden og skaber nyt afkast år efter år.
+* **Kontrol over skatteprocenten (27 % vs. 42 %):** I 2026 betaler du 27 % i aktieskat op til progressionsgrænsen på **79.400 kr.** (158.800 kr. for ægtefæller) og 42 % derover. Når du lever af din portefølje i FIRE-fasen, kan du sælge ud i kontrollerede bidder hvert år og nøjes med 27 % i skat.
 
 ### Hvad med Aktiesparekontoen?
-Det er vigtigt at nævne, at de realisationsbeskattede fonde hører til på dit **almindelige, frie aktiedepot**. 
-
-Hvis du investerer via en Aktiesparekonto, bliver alt nemlig tvunget over i lagerbeskatning (dog til en lav sats på 17 %). Har du endnu ikke fyldt din Aktiesparekonto op med billige ETF'er?
-
-Så bør du læse min guide til [Aktiesparekontoen](/aktiesparekonto/) først, da den skattemæssigt slår det meste i opstartsfasen.
+De realisationsbeskattede fonde hører til på dit **almindelige, frie aktiedepot**. På en [Aktiesparekonto](/aktiesparekonto/) bliver alt afkast nemlig tvunget over i lagerbeskatning (til en lav sats på 17 %), så her giver det bedre mening at fylde kontoen op med en billig global ETF først.
 
 ---
 
-## Fonde jeg overvejer i dette setup
+## Gennemgang af de 4 kandidater
 
-For at opnå en bred, global eksponering via danske investeringsforeninger, kigger jeg specifikt på følgende fonde:
+### 1. Sparindex INDEX MSCI ACWI (`SPIIMA`)
+Fonden blev børsnoteret i juni 2026 for at give danske investorer en enkel og billig adgang til hele verdensmarkedet uden behov for selv at balancere flere fonde.
 
-## Fonde jeg overvejer i dette setup
-
-Herunder kan du se en direkte sammenligning af de tre mest populære fonde til frie midler:
-
-{% include fond-sammenlign.html fonde="SPIIMA, SPVIGAKL, DKIGI" %}
-
-Når det kommer til de danske, realisationsbeskattede fonde, skal du være særligt opmærksom på, hvordan de dækker henholdsvis **udviklingslandene (Emerging Markets)** og **mindre virksomheder (Small Cap)**.
-
----
-
-### Sparindex INDEX MSCI ACWI
-
-Fonden blev børsnoteret i juni 2026 for at give investorer en enkel adgang til hele verden uden behov for at balancere flere fonde selv. 
-
-* **Fordele:** Du får både de udviklede markeder og udviklingslandene (Emerging Markets) i én fond. Med en ÅOP på 0,35% er det en yderst konkurrencedygtig pris for et komplet globalt indeks på det danske realisationsmarked.
-* **Ulemper:** Fonden følger et rent Large & Mid Cap-indeks, hvilket betyder, at de mindre virksomheder (Small Cap) er helt udeladt. Da fonden er relativt ny, har vi endnu ikke mange års historik på, hvor store dens årlige tvungne udbyttebetalinger reelt bliver.
+* **Fordele:** Du får både udviklede markeder og udviklingslande (Emerging Markets) i én fond. Med en ÅOP på **0,35 %** er det den billigste traditionelle udbyttebetalende ACWI-fond på det danske marked.
+* **Ulemper:** Fonden følger et rent Large & Mid Cap-indeks, så de mindre virksomheder (Small Cap) er udeladt. Da fonden er ny, har vi endnu ikke mange års historik på størrelsen af dens årlige udbytter.
 
 {% include fond-oplysninger.html fonde="SPIIMA" %}
 
 ---
 
-### Sparindex INDEX Globale Aktier KL
+### 2. Sparindex INDEX Globale Aktier KL (`SPVIGAKL`)
+Dette har historisk været standardvalget for danske FIRE-investorer, der ønsker maksimal spredning i ét enkelt værdipapir – og det er også en fond, jeg selv har købt mange af gennem årene.
 
-Dette har historisk været standardvalget for danske FIRE-investorer, der ønsker den absolut maksimale spredning i et enkelt papir. Denne fond har jeg også købt rigtig mange af.
-
-* **Fordele:** Dette er den eneste traditionelle danske fond, som dækker *hele* det globale aktiemarked – det vil sige både Large, Mid og Small Cap i både i-lande og u-lande. Du går ikke glip af de mindre virksomheders potentielle vækst.
-* **Ulemper:** Fonden har en lidt høj ÅOP på 0,50%. Desuden skiftede den benchmark i slutningen af 2024 til et screenet Morningstar-indeks. Det betyder, at den frasorterer en del selskaber ud fra bæredygtighedskriterier, så du ikke længere ejer det rå, ufiltrerede verdensmarked.
+* **Fordele:** Den eneste traditionelle danske indeksfond, som dækker *hele* det globale aktiemarked – både Large, Mid og Small Cap i både i-lande og u-lande.
+* **Ulemper:** Fonden har en højere ÅOP på **0,50 %**. Desuden skiftede den benchmark i slutningen af 2024 til et ESG-screenet Morningstar-indeks, så den frasorterer en del selskaber ud fra bæredygtighedskriterier i stedet for at eje det helt ufiltrerede verdensmarked.
 
 {% include investeringskort.html fonde="SPVIGAKL" %}
 
 ---
 
-### Danske Invest Global Indeks
+### 3. Danske Invest Global Indeks (`DKIGI`)
+Denne fond fokuserer udelukkende på store og mellemstore virksomheder i den udviklede del af verden via et screenet MSCI World-indeks.
 
-Denne fond fokuserer udelukkende på store og mellemstore virksomheder i den udviklede del af verden via et screenet MSCI World-indeks. 
+* **Fordele:** En solid og likvid fond, der dækker de vestlige markeder til en fornuftig ÅOP på **0,40 %**.
+* **Ulemper:** Fonden kan **ikke** stå alene, hvis du vil eje hele verden. Du mangler både Emerging Markets (ca. 10–12 % af verdensmarkedet) og hele Small Cap-segmentet. Derudover udbetaler fonden historisk set relativt store årlige udbytter, hvilket udløser løbende aktieskat og bremser skatteudskydelsen.
 
-* **Fordele:** En solid og stabil fond, der dækker den etablerede vestlige verden til en fornuftig ÅOP på 0,40%.
-* **Ulemper:** Fonden kan **ikke** stå alene, hvis du vil eje hele verden. Du mangler både Emerging Markets (ca. 10-12% af verdensøkonomien) og hele Small Cap-segmentet. Derudover udbetaler fonden historisk set ret store årlige udbytter, hvilket udløser løbende aktieskat og bremser effekten af skatteudskydelsen.
-
-> 🧩 **Sådan fikser du DKIGI (Hvis du vil bruge den):**
-> Hvis du ønsker DKIGI som din primære motor, skal du bygge et puslespil. For at lukke det geografiske hul skal du supplere den med **Sparindex INDEX Emerging Markets KL** (ÅOP 0,50 %). Vær dog opmærksom på, at du stadig vil mangle Small Cap i dette setup.
+> 🧩 **Sådan supplerer du DKIGI:**
+> Hvis du ønsker `DKIGI` som din primære motor, skal du kombinere den med **Sparindex INDEX Emerging Markets KL** (`SPIEMIKL`, ÅOP 0,50 %) i fordelingen ca. 88/12 % for at dække udviklingslandene. Vær dog opmærksom på, at du stadig mangler Small Cap i dette setup.
 
 {% include investeringskort.html fonde="DKIGI:88, SPIEMIKL:12" %}
 
 ---
 
-## Outsideren: Storebrand Indeks - Alle Markeder A5
+### 4. Outsideren: Storebrand Indeks - Alle Markeder A5 (`STIIAM`)
+Hvis du leder efter det tætteste, man kommer på en akkumulerende udenlandsk ETF i et dansk realisationsmiljø, er denne norskbaserede fond den stærkeste udfordrer. Den er børsnoteret på Nasdaq Copenhagen og beskattes som aktieindkomst – hvor selve kursstigningen beskattes efter realisationsprincippet på et frit depot.
 
-Hvis du leder efter det tætteste, man kommer på en udenlandsk ETF i et dansk realisationsmiljø, er denne norskbaserede fond den stærkeste udfordrer. Den er børsnoteret i Danmark og beskattes som helt almindelig aktieindkomst efter realisationsprincippet på et frit depot.
-
-* **Fordele:** Den har markedets laveste ÅOP på 0,30% og dækker både i-lande og u-lande (MSCI ACWI) i ét værdipapir. Den absolut største fordel er dog Storebrands udbyttestrategi: Den er ikke underlagt de samme stramme danske udlodningskrav, så den udbetaler kun et absolut minimalt udbytte. Det betyder, at næsten hele dit afkast forbliver i fonden som urealiseret kursgevinst, hvilket maksimerer renters rente-effekten.
-* **Ulemper:** Den er ESG-screenet (både ud fra MSCI-standarder og Storebrands egne regler), hvilket udelukker visse brancher og selskaber. Ligesom SPIIMA indeholder den overhovedet ikke Small Cap.
+* **Fordele:** Markedets laveste ÅOP på **0,30 %** og bred dækning af både i-lande og u-lande (`MSCI ACWI`) i én fond. Den største styrke er dog konstruktionen: Fonden udbetaler ikke fysisk udbytte, men opgør blot en mindre teknisk minimumsindkomst til beskatning hvert år. Næsten hele afkastet bliver altså stående i fonden uden at tvinge store udbytter ud til beskatning. Læs alle skattedetaljerne i min dybdegående [guide til Storebrand fonde og skat](/storebrand-fonde-skat/).
+* **Ulemper:** Fonden er ESG-screenet og udelukker visse brancher, og ligesom `SPIIMA` indeholder den ikke Small Cap.
 
 {% include investeringskort.html fonde="STIIAM" %}
 
@@ -107,22 +115,34 @@ Herunder sammenlignes den nye Sparindex-fond direkte med Storebrand på omkostni
 
 | Egenskab | Danske Investeringsforeninger (Realisation) | Udenlandske ETF'er (Reference) |
 | :--- | :--- | :--- |
-| **Skatteprincp** | Realisation (Kursgevinst) / Løbende (Udbytte) | Ren lagerbeskatning af hele værdistigningen |
-| **Tidshorisont** | Bedst til **lang sigt (10+ år)** | God til både kort og lang sigt |
-| **Administration** | Meget nemt – udbyttet kan geninvesteres automatisk | Kræver at man har kontanter klar til skat i februar |
-| **Største fordel** | Du beholder pengene i markedet i stedet for at betale skat | Du betaler minimalt i årlige gebyrer til fonden |
-| **Største ulempe** | Du tvinges til at betale skat af årlige udbytter | Lagerskatten bremser sneboldeffekten en smule |
+| **Skatteprincip** | Realisation (Kursgevinst) / Løbende (Udbytte) | Ren lagerbeskatning af hele værdistigningen |
+| **Tidshorisont** | Bedst til **lang sigt (10+ år)** på frie midler | Bedst på **ASK og pension** (eller kort sigt) |
+| **Administration** | Nemt – eventuelt udbytte geninvesteres via Månedsopsparing | Kræver kontanter klar til skat hvert år i februar |
+| **Største fordel** | Du beholder skatten investeret i markedet i årtier | Minimal løbende ÅOP (helt ned til 0,07 %) |
+| **Største ulempe** | Højere ÅOP (0,30–0,50 %) og tvungent årligt udbytte | Årlig lagerskat på 27 % / 42 % dræner likviditeten |
 
 ---
 
 ## Sammenlignet afkast ift. ÅOP
 
+Se her, hvordan forskellen mellem 0,30 %, 0,35 % og 0,50 % i ÅOP påvirker en investering på 100.000 kr. over 30 år ved 7 % årligt afkast:
+
 {% include omkostninger-effekt.html start="100000" afkast="7" aar="30" aop1="0.30" aop2="0.35" aop3="0.50" %}
+
+---
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
 
 ---
 
 ## Konklusion
 
-Hvis din tidshorisont er lang, vil skattefordelen ved at udskyde kursgevinsten i de danske fonde i mange tilfælde indhente og overhale den ulempe, som den højere ÅOP udgør. Det é den ultimative "køb, behold og pas dit liv"-løsning for den langsigtede investor.
+Hvis din tidshorisont er lang på et almindeligt frit aktiedepot, vil skattefordelen ved at udskyde kursgevinsten i de danske realisationsbeskattede fonde i langt de fleste tilfælde overhale den lavere ÅOP på udenlandske ETF'er. Det er den ultimative "køb, behold og pas dit liv"-løsning til frie midler.
 
-Hvilken model hælder du mest til? Har du regnet på, hvornår skatteudskydelsen betaler sig for dig? Lad mig høre din holdning i kommentarerne!
+Vil du se hele det samlede katalog over danske fonde – inklusiv danske aktier, obligationer og akkumulerende fonde – så hop videre til min komplette [liste over passive danske investeringsforeninger](/danske-investeringsforeninger-med-passive-indeksfonde/).
+
+Hvilken dansk fond hælder du selv mest til i din portefølje – `STIIAM`, `SPIIMA`, `SPVIGAKL` eller `DKIGI`?
+
+{% include disclaimer.md %}
